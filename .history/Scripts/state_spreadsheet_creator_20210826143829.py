@@ -22,10 +22,8 @@ restart_state = False
 
 #Restarts the state-level air quality folder
 restart_states_air_quality = False
-
-#Restarts the state-level infrastructure folder
+#Restarts the infrastructure folder
 restart_states_infrastructure = False
-#Restarts the state-level economics folder
 restart_states_economics = False
 restart_states_natgas = False
 restart_states_co2 = True

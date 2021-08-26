@@ -11,21 +11,17 @@ import pandas as pd
 import os
 import shutil
 
-#Set the restart variable you would like to alter to True:
-
+#Set the restart variable you would like to alter to true
 #Restarts the entire Spreadsheets/States folder
 restart_all_states = False
 #Restarts the folder of an individual state
 restart_state = False
-#Should always be kept False: trial element
-#restart_states_EIA = False
-
+#Should always be kept false: trial element
+restart_states_EIA = False
 #Restarts the state-level air quality folder
 restart_states_air_quality = False
-
-#Restarts the state-level infrastructure folder
+#Restarts the infrastructure folder
 restart_states_infrastructure = False
-#Restarts the state-level economics folder
 restart_states_economics = False
 restart_states_natgas = False
 restart_states_co2 = True
