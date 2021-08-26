@@ -1,0 +1,171 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,NM,Bernalillo,32121,32936,32699,33610,34172,34229,35275,37154,37936,40870
+4,House Heating Fuel: Fuel Oil,NM,Bernalillo,188,190,205,197,165,134,125,149,166,131
+5,House Heating Fuel: Gas,NM,Bernalillo,213120,214375,216889,215431,215436,214418,213029,212130,212276,211126
+6,House Heating Fuel: Propane,NM,Bernalillo,7579,7468,7107,6982,6855,6938,6776,6910,7435,7678
+7,House Heating Fuel: Wood,NM,Bernalillo,4269,4754,4737,4993,5301,5447,5039,4880,5222,4927
+3,House Heating Fuel: Electric,NM,Catron,52,65,65,59,41,91,87,126,139,143
+4,House Heating Fuel: Fuel Oil,NM,Catron,11,11,16,31,30,12,14,17,0,0
+5,House Heating Fuel: Gas,NM,Catron,22,33,37,49,54,55,64,66,59,55
+6,House Heating Fuel: Propane,NM,Catron,694,722,576,542,513,428,530,550,565,351
+7,House Heating Fuel: Wood,NM,Catron,981,862,888,805,737,751,718,651,593,677
+3,House Heating Fuel: Electric,NM,Chaves,8935,9193,9427,9653,10007,10104,10522,10637,10827,11116
+4,House Heating Fuel: Fuel Oil,NM,Chaves,19,15,15,0,0,27,29,36,45,46
+5,House Heating Fuel: Gas,NM,Chaves,12618,12603,12373,12301,11785,11515,10947,10979,10652,10624
+6,House Heating Fuel: Propane,NM,Chaves,1483,1419,1210,1063,1142,1158,1067,1146,1069,1021
+7,House Heating Fuel: Wood,NM,Chaves,320,387,412,388,444,478,434,368,372,332
+3,House Heating Fuel: Electric,NM,Cibola,754,661,740,676,835,908,1059,1048,1109,988
+4,House Heating Fuel: Fuel Oil,NM,Cibola,13,18,25,25,25,10,10,4,0,0
+5,House Heating Fuel: Gas,NM,Cibola,4222,4210,4054,4053,4103,4379,4494,4888,4829,4692
+6,House Heating Fuel: Propane,NM,Cibola,1243,1051,1008,1128,1320,1303,1350,1436,1293,1213
+7,House Heating Fuel: Wood,NM,Cibola,1736,1918,1923,1850,1815,1663,1652,1557,1566,1602
+3,House Heating Fuel: Electric,NM,Colfax,754,870,852,834,827,848,719,763,720,644
+4,House Heating Fuel: Fuel Oil,NM,Colfax,47,48,40,129,137,100,96,94,21,15
+5,House Heating Fuel: Gas,NM,Colfax,3153,2915,2768,2683,2697,2831,2867,3132,3273,3370
+6,House Heating Fuel: Propane,NM,Colfax,1099,1043,1119,1024,898,918,882,785,844,855
+7,House Heating Fuel: Wood,NM,Colfax,627,801,886,815,738,778,754,736,758,869
+3,House Heating Fuel: Electric,NM,Curry,6640,6924,7460,8025,8447,8324,8500,8876,9214,9197
+4,House Heating Fuel: Fuel Oil,NM,Curry,3,3,4,3,3,0,0,0,0,0
+5,House Heating Fuel: Gas,NM,Curry,8993,9089,8885,8814,8570,8575,8415,8139,8049,8112
+6,House Heating Fuel: Propane,NM,Curry,1286,1140,1076,835,687,639,609,640,550,517
+7,House Heating Fuel: Wood,NM,Curry,339,293,212,184,202,213,245,242,220,253
+3,House Heating Fuel: Electric,NM,De Baca,151,164,140,128,115,100,126,136,140,138
+4,House Heating Fuel: Fuel Oil,NM,De Baca,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,NM,De Baca,371,373,331,300,280,255,274,317,335,328
+6,House Heating Fuel: Propane,NM,De Baca,210,216,177,177,98,84,69,80,67,69
+7,House Heating Fuel: Wood,NM,De Baca,52,65,39,25,54,25,31,39,45,22
+3,House Heating Fuel: Electric,NM,Do?a Ana,11185,,,,,,,,,
+4,House Heating Fuel: Fuel Oil,NM,Do?a Ana,46,,,,,,,,,
+5,House Heating Fuel: Gas,NM,Do?a Ana,49101,,,,,,,,,
+6,House Heating Fuel: Propane,NM,Do?a Ana,9992,,,,,,,,,
+7,House Heating Fuel: Wood,NM,Do?a Ana,973,,,,,,,,,
+3,House Heating Fuel: Electric,NM,Eddy,6847,7012,7683,7831,7822,8789,9022,9326,9526,10095
+4,House Heating Fuel: Fuel Oil,NM,Eddy,0,0,0,0,7,5,6,6,3,0
+5,House Heating Fuel: Gas,NM,Eddy,10702,10878,10622,10466,10807,10386,10509,10632,10220,9639
+6,House Heating Fuel: Propane,NM,Eddy,1515,1402,1341,1306,1221,1175,1081,990,1173,1172
+7,House Heating Fuel: Wood,NM,Eddy,113,113,117,130,201,183,204,187,202,202
+3,House Heating Fuel: Electric,NM,Grant,1243,1402,1622,1964,2278,2141,2292,2610,3345,3870
+4,House Heating Fuel: Fuel Oil,NM,Grant,84,77,72,28,0,0,0,0,0,0
+5,House Heating Fuel: Gas,NM,Grant,6941,6733,6600,6514,6280,6078,5580,5441,4929,4583
+6,House Heating Fuel: Propane,NM,Grant,2378,2237,2188,2114,2150,2083,2032,1987,1905,1641
+7,House Heating Fuel: Wood,NM,Grant,1630,1690,1570,1378,1301,1379,1615,1474,1428,1376
+3,House Heating Fuel: Electric,NM,Guadalupe,110,135,129,178,271,260,316,397,386,346
+4,House Heating Fuel: Fuel Oil,NM,Guadalupe,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,NM,Guadalupe,180,177,152,105,87,62,41,74,123,136
+6,House Heating Fuel: Propane,NM,Guadalupe,970,939,890,782,773,716,679,650,706,662
+7,House Heating Fuel: Wood,NM,Guadalupe,220,201,183,174,114,127,111,115,160,208
+3,House Heating Fuel: Electric,NM,Harding,25,18,20,21,19,13,16,16,15,20
+4,House Heating Fuel: Fuel Oil,NM,Harding,1,2,1,1,3,5,7,5,7,4
+5,House Heating Fuel: Gas,NM,Harding,15,10,9,11,10,10,9,12,11,11
+6,House Heating Fuel: Propane,NM,Harding,218,209,151,141,119,99,98,99,117,115
+7,House Heating Fuel: Wood,NM,Harding,46,57,59,82,56,56,57,65,56,50
+3,House Heating Fuel: Electric,NM,Hidalgo,284,284,327,388,401,391,502,546,651,774
+4,House Heating Fuel: Fuel Oil,NM,Hidalgo,9,10,8,7,0,0,0,0,0,0
+5,House Heating Fuel: Gas,NM,Hidalgo,942,865,1019,953,871,803,722,722,659,534
+6,House Heating Fuel: Propane,NM,Hidalgo,242,276,265,294,317,362,313,278,255,229
+7,House Heating Fuel: Wood,NM,Hidalgo,200,170,175,170,208,208,176,164,138,120
+3,House Heating Fuel: Electric,NM,Lea,7467,7996,8393,9335,9907,10308,10456,10941,11092,11600
+4,House Heating Fuel: Fuel Oil,NM,Lea,15,18,14,23,40,37,37,110,97,69
+5,House Heating Fuel: Gas,NM,Lea,12165,11761,11117,10513,10130,9863,9944,10048,9915,9828
+6,House Heating Fuel: Propane,NM,Lea,1290,1190,1188,1089,1099,1036,919,755,812,729
+7,House Heating Fuel: Wood,NM,Lea,175,115,123,86,78,113,122,103,129,190
+3,House Heating Fuel: Electric,NM,Lincoln,835,981,1055,1224,1089,1071,908,920,978,968
+4,House Heating Fuel: Fuel Oil,NM,Lincoln,0,0,0,0,0,0,13,11,7,5
+5,House Heating Fuel: Gas,NM,Lincoln,5112,5438,5241,5091,5148,5221,4985,4857,5034,4947
+6,House Heating Fuel: Propane,NM,Lincoln,1430,1344,1185,1076,1122,1030,1004,1030,960,656
+7,House Heating Fuel: Wood,NM,Lincoln,1215,1296,1127,1265,1249,1127,1062,1037,757,745
+3,House Heating Fuel: Electric,NM,Los Alamos,548,549,584,574,624,756,827,843,815,846
+4,House Heating Fuel: Fuel Oil,NM,Los Alamos,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,NM,Los Alamos,6702,6697,6665,6765,6595,6550,6388,6368,6425,6765
+6,House Heating Fuel: Propane,NM,Los Alamos,58,18,20,18,22,40,67,69,82,90
+7,House Heating Fuel: Wood,NM,Los Alamos,182,147,175,173,186,180,219,166,142,81
+3,House Heating Fuel: Electric,NM,Luna,1113,1312,1399,1608,1959,2149,2303,2765,3445,3880
+4,House Heating Fuel: Fuel Oil,NM,Luna,5,3,10,22,28,70,62,53,36,36
+5,House Heating Fuel: Gas,NM,Luna,5200,5059,4898,4539,4550,4426,4007,4180,3830,3391
+6,House Heating Fuel: Propane,NM,Luna,2382,2386,2367,2241,2107,1998,1967,1716,1366,1165
+7,House Heating Fuel: Wood,NM,Luna,353,349,322,309,386,327,322,310,282,309
+3,House Heating Fuel: Electric,NM,McKinley,1409,1174,1571,1973,2100,2357,2565,2380,2163,2226
+4,House Heating Fuel: Fuel Oil,NM,McKinley,6,7,6,6,10,18,19,22,19,21
+5,House Heating Fuel: Gas,NM,McKinley,7388,7129,7056,6689,6705,6595,6844,7086,7208,7396
+6,House Heating Fuel: Propane,NM,McKinley,2291,2237,2173,1972,1748,1704,1648,1758,1825,1778
+7,House Heating Fuel: Wood,NM,McKinley,6242,6381,6356,6368,6855,7217,7286,7738,8155,8526
+3,House Heating Fuel: Electric,NM,Mora,25,35,33,42,60,60,45,32,56,57
+4,House Heating Fuel: Fuel Oil,NM,Mora,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,NM,Mora,118,112,118,132,121,57,52,51,34,45
+6,House Heating Fuel: Propane,NM,Mora,677,738,631,464,436,413,304,333,342,383
+7,House Heating Fuel: Wood,NM,Mora,967,874,918,873,887,1095,1101,1069,1095,1221
+3,House Heating Fuel: Electric,NM,Otero,3046,3570,3820,3999,4491,4438,4098,4357,4560,5092
+4,House Heating Fuel: Fuel Oil,NM,Otero,37,28,29,21,19,0,17,18,74,154
+5,House Heating Fuel: Gas,NM,Otero,13180,13254,12957,12664,12753,12666,12554,12856,12648,12672
+6,House Heating Fuel: Propane,NM,Otero,5393,5295,5004,4999,4289,4270,4153,4199,3801,3431
+7,House Heating Fuel: Wood,NM,Otero,2120,2029,2052,2028,2085,2008,1929,1936,1879,1857
+3,House Heating Fuel: Electric,NM,Quay,849,840,833,851,994,1052,1082,1233,1182,1174
+4,House Heating Fuel: Fuel Oil,NM,Quay,0,0,3,3,4,3,3,6,23,18
+5,House Heating Fuel: Gas,NM,Quay,1610,1531,1460,1462,1294,1366,1186,1052,1120,1018
+6,House Heating Fuel: Propane,NM,Quay,1046,1098,985,965,868,762,697,628,594,678
+7,House Heating Fuel: Wood,NM,Quay,220,187,194,159,142,151,176,138,107,103
+3,House Heating Fuel: Electric,NM,Rio Arriba,760,840,865,949,880,859,891,829,771,686
+4,House Heating Fuel: Fuel Oil,NM,Rio Arriba,16,2,15,14,15,17,19,13,13,73
+5,House Heating Fuel: Gas,NM,Rio Arriba,8255,8312,8292,8001,7894,7961,7806,8150,8031,8429
+6,House Heating Fuel: Propane,NM,Rio Arriba,2763,2648,2615,2553,2277,1742,1534,1178,1123,868
+7,House Heating Fuel: Wood,NM,Rio Arriba,2705,2809,2742,2880,2794,2769,2770,2444,2190,2398
+3,House Heating Fuel: Electric,NM,Roosevelt,2963,3040,3211,3506,3799,3836,3927,4061,4117,4126
+4,House Heating Fuel: Fuel Oil,NM,Roosevelt,17,13,19,11,2,2,2,0,0,0
+5,House Heating Fuel: Gas,NM,Roosevelt,2565,2589,2509,2311,2327,2295,2296,2258,2129,1880
+6,House Heating Fuel: Propane,NM,Roosevelt,972,959,789,794,631,535,442,427,342,392
+7,House Heating Fuel: Wood,NM,Roosevelt,232,245,218,262,233,220,190,155,135,120
+3,House Heating Fuel: Electric,NM,Sandoval,3439,3577,3623,3920,3991,4296,4550,5016,4886,5239
+4,House Heating Fuel: Fuel Oil,NM,Sandoval,163,110,53,36,38,17,20,21,21,24
+5,House Heating Fuel: Gas,NM,Sandoval,33879,35102,35937,36258,36864,36788,37255,37626,38151,38446
+6,House Heating Fuel: Propane,NM,Sandoval,4154,3805,3595,3211,2897,2791,2827,2968,3737,3689
+7,House Heating Fuel: Wood,NM,Sandoval,2534,2542,2543,2531,2861,2585,2535,2443,2533,2643
+3,House Heating Fuel: Electric,NM,San Juan,2084,2323,2560,2926,3515,3902,4124,4442,4879,4637
+4,House Heating Fuel: Fuel Oil,NM,San Juan,69,79,86,69,52,43,38,42,46,45
+5,House Heating Fuel: Gas,NM,San Juan,25413,25872,25764,24950,24476,24570,24299,24780,25237,25343
+6,House Heating Fuel: Propane,NM,San Juan,7340,6943,6394,5897,5415,4777,4960,4815,4904,5253
+7,House Heating Fuel: Wood,NM,San Juan,6140,5973,6016,5945,5829,5628,5857,6048,6268,6288
+3,House Heating Fuel: Electric,NM,San Miguel,1297,1189,1080,1096,1105,1025,996,1202,1352,1369
+4,House Heating Fuel: Fuel Oil,NM,San Miguel,91,75,55,41,29,6,0,0,0,0
+5,House Heating Fuel: Gas,NM,San Miguel,3507,3755,3517,3480,3451,3360,3061,3136,3030,3221
+6,House Heating Fuel: Propane,NM,San Miguel,3356,3439,3370,3034,2574,2570,2072,1705,1754,2101
+7,House Heating Fuel: Wood,NM,San Miguel,3314,3309,3457,3520,3753,3364,3929,4327,4435,4303
+3,House Heating Fuel: Electric,NM,Santa Fe,6210,6644,7157,7242,7611,7769,7276,7323,7419,7732
+4,House Heating Fuel: Fuel Oil,NM,Santa Fe,195,193,226,200,174,170,192,157,173,144
+5,House Heating Fuel: Gas,NM,Santa Fe,42215,42560,42458,42832,42776,42656,43205,43559,43943,43410
+6,House Heating Fuel: Propane,NM,Santa Fe,7694,7256,6711,6068,5958,5917,5489,5657,5794,5754
+7,House Heating Fuel: Wood,NM,Santa Fe,2776,2953,3246,3458,3484,3408,3714,3570,3163,3179
+3,House Heating Fuel: Electric,NM,Sierra,374,367,484,535,625,626,787,947,1140,1658
+4,House Heating Fuel: Fuel Oil,NM,Sierra,0,0,0,0,15,15,10,14,12,12
+5,House Heating Fuel: Gas,NM,Sierra,3202,2872,2888,2964,3072,3267,3363,3206,3057,2783
+6,House Heating Fuel: Propane,NM,Sierra,902,850,611,593,699,822,797,886,842,773
+7,House Heating Fuel: Wood,NM,Sierra,218,200,174,191,214,269,322,319,310,306
+3,House Heating Fuel: Electric,NM,Socorro,551,547,513,479,562,587,525,557,567,553
+4,House Heating Fuel: Fuel Oil,NM,Socorro,11,13,4,3,3,0,0,0,0,0
+5,House Heating Fuel: Gas,NM,Socorro,2119,2166,2314,2344,2239,2038,2088,1885,1967,2027
+6,House Heating Fuel: Propane,NM,Socorro,2115,1829,1536,1491,1265,1259,1217,1305,1025,979
+7,House Heating Fuel: Wood,NM,Socorro,1079,1037,1027,943,1037,1006,891,916,959,881
+3,House Heating Fuel: Electric,NM,Taos,727,598,579,511,692,868,977,934,893,871
+4,House Heating Fuel: Fuel Oil,NM,Taos,0,0,12,11,12,14,49,35,31,63
+5,House Heating Fuel: Gas,NM,Taos,5851,5774,5859,6087,6028,5839,5854,5685,5331,5553
+6,House Heating Fuel: Propane,NM,Taos,2335,2251,2352,2244,2202,2290,2173,2250,2075,2023
+7,House Heating Fuel: Wood,NM,Taos,3657,3800,3987,3925,3832,3805,3744,3498,3533,3382
+3,House Heating Fuel: Electric,NM,Torrance,431,535,499,454,385,386,328,341,336,419
+4,House Heating Fuel: Fuel Oil,NM,Torrance,16,21,0,0,41,27,38,24,33,0
+5,House Heating Fuel: Gas,NM,Torrance,2628,2516,2520,2662,2692,2646,2753,2764,2720,2694
+6,House Heating Fuel: Propane,NM,Torrance,1526,1258,1269,1321,1305,1249,1168,1189,1030,971
+7,House Heating Fuel: Wood,NM,Torrance,1145,1225,1168,1070,1078,902,979,1186,1404,1367
+3,House Heating Fuel: Electric,NM,Union,123,82,77,105,107,129,154,195,170,198
+4,House Heating Fuel: Fuel Oil,NM,Union,0,0,0,10,16,16,18,22,16,0
+5,House Heating Fuel: Gas,NM,Union,990,977,997,941,902,828,855,730,774,767
+6,House Heating Fuel: Propane,NM,Union,448,486,434,364,361,377,331,329,328,378
+7,House Heating Fuel: Wood,NM,Union,97,88,123,153,195,194,179,141,88,47
+3,House Heating Fuel: Electric,NM,Valencia,2208,2205,2332,2256,1873,1995,2268,2275,2356,2194
+4,House Heating Fuel: Fuel Oil,NM,Valencia,28,39,46,63,65,74,106,194,169,168
+5,House Heating Fuel: Gas,NM,Valencia,18010,18583,18404,18069,18263,18377,18324,18781,18982,18909
+6,House Heating Fuel: Propane,NM,Valencia,4309,4316,4056,3713,3602,3493,3130,2855,2915,2862
+7,House Heating Fuel: Wood,NM,Valencia,1793,1869,2211,2265,2420,2335,2362,2148,2272,2090
+3,House Heating Fuel: Electric,NM,Doña Ana,,11570,11810,11759,11618,12199,13023,14705,17866,20831
+4,House Heating Fuel: Fuel Oil,NM,Doña Ana,,72,48,70,54,30,68,82,40,111
+5,House Heating Fuel: Gas,NM,Doña Ana,,50156,50773,50898,52524,52300,51825,52295,50559,48446
+6,House Heating Fuel: Propane,NM,Doña Ana,,9451,8987,9327,8788,8464,8126,7497,6609,5893
+7,House Heating Fuel: Wood,NM,Doña Ana,,1092,1197,1291,1228,1339,1362,1525,1621,1718

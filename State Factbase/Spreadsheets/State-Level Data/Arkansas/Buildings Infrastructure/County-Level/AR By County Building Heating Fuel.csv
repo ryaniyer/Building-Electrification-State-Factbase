@@ -1,0 +1,376 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,AR,Arkansas,3381,3600,3694,3779,4040,4026,3771,3862,3937,3690
+4,House Heating Fuel: Fuel Oil,AR,Arkansas,22,28,18,16,16,17,2,2,4,3
+5,House Heating Fuel: Gas,AR,Arkansas,3756,3673,3551,3381,3087,3067,3228,3158,2992,3140
+6,House Heating Fuel: Propane,AR,Arkansas,762,542,523,508,506,511,521,527,599,506
+7,House Heating Fuel: Wood,AR,Arkansas,205,176,151,139,108,98,134,116,112,115
+3,House Heating Fuel: Electric,AR,Ashley,3732,4017,4140,4196,4245,3951,4072,4099,4084,3975
+4,House Heating Fuel: Fuel Oil,AR,Ashley,2,12,22,17,18,20,7,0,0,0
+5,House Heating Fuel: Gas,AR,Ashley,3537,3405,3342,3227,3094,3182,3166,3001,2761,2669
+6,House Heating Fuel: Propane,AR,Ashley,1178,961,893,847,765,783,766,860,822,856
+7,House Heating Fuel: Wood,AR,Ashley,384,376,282,278,302,266,220,170,181,185
+3,House Heating Fuel: Electric,AR,Baxter,8678,8800,8809,9157,9094,9198,9233,9390,9510,9676
+4,House Heating Fuel: Fuel Oil,AR,Baxter,33,22,31,24,25,20,19,27,15,13
+5,House Heating Fuel: Gas,AR,Baxter,5890,5787,5577,5226,5428,5319,5458,5661,5495,5562
+6,House Heating Fuel: Propane,AR,Baxter,2803,2627,2345,2245,2109,2118,1900,1934,2005,1981
+7,House Heating Fuel: Wood,AR,Baxter,1176,1200,1253,1348,1441,1401,1329,1189,1121,1015
+3,House Heating Fuel: Electric,AR,Benton,28570,29592,30914,31676,31809,32776,34082,35600,37671,39329
+4,House Heating Fuel: Fuel Oil,AR,Benton,93,86,112,107,74,79,101,92,38,20
+5,House Heating Fuel: Gas,AR,Benton,38818,39340,39444,39965,40870,42197,42910,44126,44877,46361
+6,House Heating Fuel: Propane,AR,Benton,7288,6927,6605,6432,6456,6229,6563,6928,7351,7327
+7,House Heating Fuel: Wood,AR,Benton,3627,3563,3710,3463,3446,3805,3778,3574,3781,3616
+3,House Heating Fuel: Electric,AR,Boone,5816,5987,6011,6169,6185,6362,6424,6786,6889,6968
+4,House Heating Fuel: Fuel Oil,AR,Boone,22,30,0,0,3,3,4,5,5,0
+5,House Heating Fuel: Gas,AR,Boone,4715,4911,4914,5113,5053,4998,4800,4520,4421,4571
+6,House Heating Fuel: Propane,AR,Boone,2516,2367,2363,2397,2221,2231,2250,2001,1897,1954
+7,House Heating Fuel: Wood,AR,Boone,1161,1219,1375,1348,1358,1336,1360,1535,1613,1469
+3,House Heating Fuel: Electric,AR,Bradley,2090,2117,2197,2262,2351,2290,2436,2365,2368,2274
+4,House Heating Fuel: Fuel Oil,AR,Bradley,0,0,0,0,19,23,29,28,25,0
+5,House Heating Fuel: Gas,AR,Bradley,1442,1479,1519,1265,1314,1340,1222,1181,1192,1226
+6,House Heating Fuel: Propane,AR,Bradley,869,834,739,762,654,612,576,695,690,692
+7,House Heating Fuel: Wood,AR,Bradley,359,363,344,380,322,272,219,216,176,198
+3,House Heating Fuel: Electric,AR,Calhoun,672,681,706,664,738,844,858,846,807,772
+4,House Heating Fuel: Fuel Oil,AR,Calhoun,0,2,3,4,3,2,0,0,0,0
+5,House Heating Fuel: Gas,AR,Calhoun,751,674,730,721,726,680,686,718,690,735
+6,House Heating Fuel: Propane,AR,Calhoun,554,548,510,454,373,360,369,269,291,239
+7,House Heating Fuel: Wood,AR,Calhoun,133,130,134,193,211,228,157,221,148,104
+3,House Heating Fuel: Electric,AR,Carroll,4557,4684,4534,4614,4315,4671,4841,5077,5292,5300
+4,House Heating Fuel: Fuel Oil,AR,Carroll,38,28,25,20,14,17,15,16,0,0
+5,House Heating Fuel: Gas,AR,Carroll,3364,3393,3384,3182,3200,2813,2806,2616,2706,2841
+6,House Heating Fuel: Propane,AR,Carroll,2258,2120,2102,2140,2414,2291,2119,2150,2079,1979
+7,House Heating Fuel: Wood,AR,Carroll,1104,1118,1198,1019,1006,1060,968,850,866,922
+3,House Heating Fuel: Electric,AR,Chicot,1970,1986,1965,1935,2131,2239,2271,2308,2244,2035
+4,House Heating Fuel: Fuel Oil,AR,Chicot,0,0,0,0,15,11,9,9,7,0
+5,House Heating Fuel: Gas,AR,Chicot,1876,1895,1930,1736,1659,1538,1372,1396,1387,1381
+6,House Heating Fuel: Propane,AR,Chicot,756,701,714,751,620,643,633,529,573,579
+7,House Heating Fuel: Wood,AR,Chicot,57,40,21,4,16,21,58,66,81,64
+3,House Heating Fuel: Electric,AR,Clark,3583,3678,3825,4196,4199,4401,4429,4344,4175,4037
+4,House Heating Fuel: Fuel Oil,AR,Clark,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Clark,3568,3157,3200,3021,3159,3152,3168,3273,3158,3153
+6,House Heating Fuel: Propane,AR,Clark,770,706,603,558,541,564,629,602,526,631
+7,House Heating Fuel: Wood,AR,Clark,376,485,486,531,522,519,507,538,595,576
+3,House Heating Fuel: Electric,AR,Clay,1746,1800,2002,1976,1894,1842,1863,1839,1853,2029
+4,House Heating Fuel: Fuel Oil,AR,Clay,0,0,3,3,6,7,6,4,4,2
+5,House Heating Fuel: Gas,AR,Clay,2862,2910,2768,2912,2999,2964,2894,3051,2991,2829
+6,House Heating Fuel: Propane,AR,Clay,1877,1772,1649,1436,1356,1337,1284,1185,1276,1300
+7,House Heating Fuel: Wood,AR,Clay,293,358,405,461,443,416,354,318,290,258
+3,House Heating Fuel: Electric,AR,Cleburne,4622,4716,4533,4757,4897,5017,5339,5771,5950,6120
+4,House Heating Fuel: Fuel Oil,AR,Cleburne,46,45,44,31,19,16,9,12,13,10
+5,House Heating Fuel: Gas,AR,Cleburne,2302,2373,2287,2215,2237,2200,2116,2038,1947,1973
+6,House Heating Fuel: Propane,AR,Cleburne,2833,2597,2544,2368,2277,2049,2082,2114,2217,2079
+7,House Heating Fuel: Wood,AR,Cleburne,927,922,942,823,757,766,697,650,564,552
+3,House Heating Fuel: Electric,AR,Cleveland,1964,2055,1986,2062,2080,2016,2025,2076,2082,1886
+4,House Heating Fuel: Fuel Oil,AR,Cleveland,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Cleveland,540,465,527,461,487,493,503,474,454,488
+6,House Heating Fuel: Propane,AR,Cleveland,513,453,495,472,422,530,519,452,544,596
+7,House Heating Fuel: Wood,AR,Cleveland,261,286,289,323,246,258,258,238,178,217
+3,House Heating Fuel: Electric,AR,Columbia,4027,4046,4130,4341,4573,4673,4764,4770,4658,4712
+4,House Heating Fuel: Fuel Oil,AR,Columbia,0,0,0,0,0,14,30,68,76,75
+5,House Heating Fuel: Gas,AR,Columbia,4819,4704,4393,4227,4099,4045,3943,3779,3504,3150
+6,House Heating Fuel: Propane,AR,Columbia,691,658,536,498,539,542,503,478,476,393
+7,House Heating Fuel: Wood,AR,Columbia,315,352,406,347,272,314,268,231,235,232
+3,House Heating Fuel: Electric,AR,Conway,4121,4227,4546,4676,4929,4898,4938,4757,5018,4887
+4,House Heating Fuel: Fuel Oil,AR,Conway,54,51,34,33,7,5,18,19,87,91
+5,House Heating Fuel: Gas,AR,Conway,2591,2406,2324,2154,2110,2097,2154,2087,2091,2101
+6,House Heating Fuel: Propane,AR,Conway,675,682,592,597,580,573,559,617,657,649
+7,House Heating Fuel: Wood,AR,Conway,692,661,627,580,617,629,514,520,521,488
+3,House Heating Fuel: Electric,AR,Craighead,15269,17181,18163,19327,19983,20869,20975,21650,22540,23520
+4,House Heating Fuel: Fuel Oil,AR,Craighead,13,10,8,11,6,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Craighead,17159,16561,16330,15830,15459,15113,15335,15435,15385,15006
+6,House Heating Fuel: Propane,AR,Craighead,2891,2609,2412,2242,2113,2197,2108,2037,2159,2235
+7,House Heating Fuel: Wood,AR,Craighead,368,323,316,338,431,449,466,514,522,373
+3,House Heating Fuel: Electric,AR,Crawford,10641,10293,11350,11570,11764,11633,12498,12334,12579,12410
+4,House Heating Fuel: Fuel Oil,AR,Crawford,247,254,62,79,57,54,54,33,0,0
+5,House Heating Fuel: Gas,AR,Crawford,8919,9498,9030,8648,8802,9190,8338,8846,8776,9105
+6,House Heating Fuel: Propane,AR,Crawford,1629,1506,1170,1177,1008,853,912,970,956,1001
+7,House Heating Fuel: Wood,AR,Crawford,1367,1525,1521,1643,1601,1527,1389,1357,1151,1215
+3,House Heating Fuel: Electric,AR,Crittenden,7501,7534,7690,7713,7465,7888,8407,8085,8463,8905
+4,House Heating Fuel: Fuel Oil,AR,Crittenden,44,17,17,15,32,30,47,32,40,18
+5,House Heating Fuel: Gas,AR,Crittenden,9634,9920,9652,9386,9508,9185,8778,9272,8978,8959
+6,House Heating Fuel: Propane,AR,Crittenden,1285,1087,995,1040,1105,1024,1047,1036,988,897
+7,House Heating Fuel: Wood,AR,Crittenden,158,106,113,82,50,97,106,150,185,192
+3,House Heating Fuel: Electric,AR,Cross,2814,3103,3377,3545,3621,3719,3774,3792,3675,3893
+4,House Heating Fuel: Fuel Oil,AR,Cross,42,37,50,42,33,46,42,21,10,18
+5,House Heating Fuel: Gas,AR,Cross,2346,2231,2114,2000,2001,1982,1842,1707,1811,1675
+6,House Heating Fuel: Propane,AR,Cross,1259,1250,1078,1092,1122,1005,877,964,958,863
+7,House Heating Fuel: Wood,AR,Cross,177,202,175,139,96,117,113,185,189,152
+3,House Heating Fuel: Electric,AR,Dallas,1273,1224,1312,1419,1452,1445,1624,1530,1528,1525
+4,House Heating Fuel: Fuel Oil,AR,Dallas,6,9,10,7,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Dallas,960,914,956,1049,1165,1191,1047,1148,1041,935
+6,House Heating Fuel: Propane,AR,Dallas,502,439,409,368,364,296,279,233,258,274
+7,House Heating Fuel: Wood,AR,Dallas,415,445,400,383,289,259,244,223,198,227
+3,House Heating Fuel: Electric,AR,Desha,2483,2521,2371,2385,2317,2471,2567,2478,2543,2605
+4,House Heating Fuel: Fuel Oil,AR,Desha,0,13,11,10,8,9,0,0,0,0
+5,House Heating Fuel: Gas,AR,Desha,2063,2031,2267,2358,2298,2084,2011,2052,1908,1954
+6,House Heating Fuel: Propane,AR,Desha,602,631,518,480,492,626,561,612,578,573
+7,House Heating Fuel: Wood,AR,Desha,110,68,94,38,34,62,69,80,74,63
+3,House Heating Fuel: Electric,AR,Drew,2665,2883,3292,3640,3978,3890,3918,3888,3736,3891
+4,House Heating Fuel: Fuel Oil,AR,Drew,0,0,0,0,0,0,0,45,34,28
+5,House Heating Fuel: Gas,AR,Drew,3019,3059,2750,2474,2029,2192,2033,2105,2225,2247
+6,House Heating Fuel: Propane,AR,Drew,1267,1114,1083,1040,978,911,833,801,863,807
+7,House Heating Fuel: Wood,AR,Drew,378,284,317,282,294,225,226,132,108,86
+3,House Heating Fuel: Electric,AR,Faulkner,22162,22957,24207,24724,25520,26024,26613,27324,27910,27855
+4,House Heating Fuel: Fuel Oil,AR,Faulkner,71,53,32,36,15,15,51,66,60,46
+5,House Heating Fuel: Gas,AR,Faulkner,15140,15065,15072,14860,14694,14417,14420,14151,13970,14572
+6,House Heating Fuel: Propane,AR,Faulkner,2263,2235,1962,1776,1791,1831,1429,1332,1204,1249
+7,House Heating Fuel: Wood,AR,Faulkner,1160,1114,949,893,764,703,728,780,738,686
+3,House Heating Fuel: Electric,AR,Franklin,3285,3325,3377,3425,3466,3571,3651,3575,3735,3781
+4,House Heating Fuel: Fuel Oil,AR,Franklin,0,0,0,0,0,0,0,16,12,12
+5,House Heating Fuel: Gas,AR,Franklin,2325,2310,2127,2376,2467,2511,2431,2537,2216,2127
+6,House Heating Fuel: Propane,AR,Franklin,399,310,334,279,240,226,225,299,328,318
+7,House Heating Fuel: Wood,AR,Franklin,689,789,826,675,563,413,394,338,388,441
+3,House Heating Fuel: Electric,AR,Fulton,1975,1977,2080,2331,2415,2525,2606,2630,2617,2651
+4,House Heating Fuel: Fuel Oil,AR,Fulton,20,15,22,9,12,27,18,10,10,10
+5,House Heating Fuel: Gas,AR,Fulton,106,152,118,157,147,135,148,166,164,140
+6,House Heating Fuel: Propane,AR,Fulton,1678,1609,1595,1555,1578,1613,1499,1422,1468,1578
+7,House Heating Fuel: Wood,AR,Fulton,1033,1056,1044,1042,1092,935,882,820,726,592
+3,House Heating Fuel: Electric,AR,Garland,21667,22281,23204,23661,24183,24536,24661,24752,25052,25297
+4,House Heating Fuel: Fuel Oil,AR,Garland,73,73,77,62,52,25,9,0,0,25
+5,House Heating Fuel: Gas,AR,Garland,14767,14123,13089,13030,12803,13104,12929,12701,12168,12118
+6,House Heating Fuel: Propane,AR,Garland,2220,1935,1770,1655,1475,1429,1671,1533,1611,1659
+7,House Heating Fuel: Wood,AR,Garland,1225,1378,1445,1319,1195,979,848,832,904,930
+3,House Heating Fuel: Electric,AR,Grant,2706,2820,3030,3211,3276,3461,3322,3360,3532,3733
+4,House Heating Fuel: Fuel Oil,AR,Grant,41,55,47,7,8,11,8,0,0,0
+5,House Heating Fuel: Gas,AR,Grant,2895,2778,2629,2632,2522,2574,2701,2770,2593,2517
+6,House Heating Fuel: Propane,AR,Grant,725,651,659,562,525,417,430,386,355,377
+7,House Heating Fuel: Wood,AR,Grant,355,313,308,423,413,350,366,286,228,190
+3,House Heating Fuel: Electric,AR,Greene,9775,10163,10704,11163,11491,11520,11703,11581,11749,12182
+4,House Heating Fuel: Fuel Oil,AR,Greene,26,53,62,84,99,91,65,37,18,2
+5,House Heating Fuel: Gas,AR,Greene,3411,3229,2958,2990,2799,2769,2753,2962,2750,2617
+6,House Heating Fuel: Propane,AR,Greene,2311,2159,1938,1693,1525,1611,1611,1759,1839,1901
+7,House Heating Fuel: Wood,AR,Greene,568,671,721,572,603,597,544,395,452,483
+3,House Heating Fuel: Electric,AR,Hempstead,3653,3860,3712,3499,3342,3302,3196,3407,3714,4011
+4,House Heating Fuel: Fuel Oil,AR,Hempstead,0,0,15,24,22,23,22,10,0,0
+5,House Heating Fuel: Gas,AR,Hempstead,3920,3857,3953,3922,3929,3713,3658,3700,3513,3291
+6,House Heating Fuel: Propane,AR,Hempstead,699,556,491,521,455,379,407,378,260,316
+7,House Heating Fuel: Wood,AR,Hempstead,429,442,385,305,324,316,377,380,425,438
+3,House Heating Fuel: Electric,AR,Hot Spring,5350,5600,5677,5726,5681,6177,6393,6682,6779,6989
+4,House Heating Fuel: Fuel Oil,AR,Hot Spring,26,11,16,19,23,31,40,21,20,16
+5,House Heating Fuel: Gas,AR,Hot Spring,4556,4418,4296,4342,4407,4196,3981,4051,4007,3876
+6,House Heating Fuel: Propane,AR,Hot Spring,1331,1250,1422,1238,1245,1084,998,759,744,769
+7,House Heating Fuel: Wood,AR,Hot Spring,650,677,829,869,651,630,756,727,780,903
+3,House Heating Fuel: Electric,AR,Howard,2321,2354,2566,2730,2610,2798,2875,2989,2944,2999
+4,House Heating Fuel: Fuel Oil,AR,Howard,0,0,11,10,8,9,9,0,0,0
+5,House Heating Fuel: Gas,AR,Howard,2039,1984,1981,1825,1862,1791,1708,1661,1785,1782
+6,House Heating Fuel: Propane,AR,Howard,404,312,267,256,227,192,237,231,218,219
+7,House Heating Fuel: Wood,AR,Howard,394,365,367,373,362,242,211,137,143,115
+3,House Heating Fuel: Electric,AR,Independence,5544,5813,6149,6184,6675,6965,7175,7400,7490,7254
+4,House Heating Fuel: Fuel Oil,AR,Independence,32,21,40,39,20,13,10,0,0,0
+5,House Heating Fuel: Gas,AR,Independence,4755,4443,4546,4523,4280,4093,4231,4029,3647,3822
+6,House Heating Fuel: Propane,AR,Independence,3347,3440,2964,2731,2386,2167,1979,2055,2410,2494
+7,House Heating Fuel: Wood,AR,Independence,1069,1019,1063,975,984,932,856,776,697,725
+3,House Heating Fuel: Electric,AR,Izard,2750,2697,2677,2667,2444,2461,2413,2427,2449,2579
+4,House Heating Fuel: Fuel Oil,AR,Izard,36,33,40,15,16,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Izard,474,532,536,473,615,598,531,556,589,434
+6,House Heating Fuel: Propane,AR,Izard,1753,1804,1664,1628,1724,1675,1601,1544,1361,1251
+7,House Heating Fuel: Wood,AR,Izard,703,784,833,862,832,789,780,651,640,575
+3,House Heating Fuel: Electric,AR,Jackson,1922,2018,1960,2165,2192,2163,2252,2314,2356,2448
+4,House Heating Fuel: Fuel Oil,AR,Jackson,0,0,0,0,23,37,41,36,47,6
+5,House Heating Fuel: Gas,AR,Jackson,3478,3373,3505,3438,3310,3240,3072,2971,2927,2991
+6,House Heating Fuel: Propane,AR,Jackson,753,760,747,712,633,627,545,600,546,517
+7,House Heating Fuel: Wood,AR,Jackson,222,219,231,211,228,255,298,235,196,147
+3,House Heating Fuel: Electric,AR,Jefferson,12423,13187,13351,13563,13681,14174,13709,13925,13673,13859
+4,House Heating Fuel: Fuel Oil,AR,Jefferson,105,70,90,85,26,33,48,40,39,42
+5,House Heating Fuel: Gas,AR,Jefferson,13608,13097,13084,13022,13215,12562,12545,11939,11807,11702
+6,House Heating Fuel: Propane,AR,Jefferson,1217,1083,1009,1048,996,910,929,988,982,868
+7,House Heating Fuel: Wood,AR,Jefferson,558,463,522,505,440,344,339,403,348,212
+3,House Heating Fuel: Electric,AR,Johnson,5251,5646,5857,6251,5937,6027,5960,6056,5883,5842
+4,House Heating Fuel: Fuel Oil,AR,Johnson,10,11,9,4,3,0,27,24,24,38
+5,House Heating Fuel: Gas,AR,Johnson,2843,2737,2628,2434,2576,2522,2492,2449,2556,2445
+6,House Heating Fuel: Propane,AR,Johnson,413,471,478,463,493,500,543,484,521,589
+7,House Heating Fuel: Wood,AR,Johnson,670,556,627,748,870,971,929,843,725,598
+3,House Heating Fuel: Electric,AR,Lafayette,1097,1129,1155,1175,1359,1370,1474,1505,1554,1470
+4,House Heating Fuel: Fuel Oil,AR,Lafayette,0,0,2,2,2,2,1,0,7,6
+5,House Heating Fuel: Gas,AR,Lafayette,1218,1279,1298,1275,1219,1155,1163,1021,975,1024
+6,House Heating Fuel: Propane,AR,Lafayette,206,199,196,155,122,164,211,232,266,251
+7,House Heating Fuel: Wood,AR,Lafayette,181,135,120,112,121,130,83,81,37,21
+3,House Heating Fuel: Electric,AR,Lawrence,1127,1132,1280,1599,1727,1753,1836,1913,1816,1723
+4,House Heating Fuel: Fuel Oil,AR,Lawrence,16,21,20,21,16,8,5,6,4,4
+5,House Heating Fuel: Gas,AR,Lawrence,3394,3308,3172,3018,3005,2898,2818,2880,3005,3000
+6,House Heating Fuel: Propane,AR,Lawrence,1578,1537,1461,1329,1205,1217,1222,1187,1103,1108
+7,House Heating Fuel: Wood,AR,Lawrence,605,645,644,608,669,798,711,588,581,607
+3,House Heating Fuel: Electric,AR,Lee,1507,1347,1466,1509,1495,1545,1439,1438,1374,1360
+4,House Heating Fuel: Fuel Oil,AR,Lee,0,0,8,5,6,8,10,0,0,7
+5,House Heating Fuel: Gas,AR,Lee,1439,1479,1249,1273,1273,1330,1346,1358,1377,1286
+6,House Heating Fuel: Propane,AR,Lee,497,583,623,637,629,650,641,632,521,503
+7,House Heating Fuel: Wood,AR,Lee,67,69,55,67,78,63,90,97,66,37
+3,House Heating Fuel: Electric,AR,Lincoln,1726,1855,2061,2244,2253,2264,2324,2315,2267,2357
+4,House Heating Fuel: Fuel Oil,AR,Lincoln,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Lincoln,1218,1236,1058,888,835,734,596,601,654,676
+6,House Heating Fuel: Propane,AR,Lincoln,802,715,744,786,855,857,850,827,688,619
+7,House Heating Fuel: Wood,AR,Lincoln,196,165,190,142,195,169,152,152,153,77
+3,House Heating Fuel: Electric,AR,Little River,2693,2596,2535,2584,2518,2593,2690,3094,3227,3252
+4,House Heating Fuel: Fuel Oil,AR,Little River,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Little River,2056,2034,1995,2085,2016,1997,1859,1661,1728,1612
+6,House Heating Fuel: Propane,AR,Little River,330,335,237,285,365,310,312,259,214,135
+7,House Heating Fuel: Wood,AR,Little River,295,370,440,322,320,328,309,260,264,364
+3,House Heating Fuel: Electric,AR,Logan,4084,4059,4158,3925,3981,3915,4021,4224,4470,4397
+4,House Heating Fuel: Fuel Oil,AR,Logan,2,0,0,0,0,0,0,0,20,36
+5,House Heating Fuel: Gas,AR,Logan,2870,2858,2858,2920,3088,3191,3038,2724,2641,2599
+6,House Heating Fuel: Propane,AR,Logan,595,664,629,535,536,660,528,521,502,483
+7,House Heating Fuel: Wood,AR,Logan,737,646,725,775,766,776,726,737,756,798
+3,House Heating Fuel: Electric,AR,Lonoke,13353,14548,15037,15221,16025,16328,15999,16344,16835,16612
+4,House Heating Fuel: Fuel Oil,AR,Lonoke,73,85,70,75,64,32,7,0,0,0
+5,House Heating Fuel: Gas,AR,Lonoke,8656,8157,8221,8118,8033,8138,8454,8422,8473,8536
+6,House Heating Fuel: Propane,AR,Lonoke,1459,1325,1148,1131,1005,915,1037,1043,1113,1064
+7,House Heating Fuel: Wood,AR,Lonoke,512,478,502,472,409,430,426,376,378,591
+3,House Heating Fuel: Electric,AR,Madison,1617,1692,1756,1849,1885,1920,1872,1903,1939,2048
+4,House Heating Fuel: Fuel Oil,AR,Madison,26,20,20,21,9,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Madison,1221,1105,1098,1101,1107,1155,1290,1272,1117,1082
+6,House Heating Fuel: Propane,AR,Madison,1223,1324,1341,1422,1381,1455,1332,1331,1214,1317
+7,House Heating Fuel: Wood,AR,Madison,1652,1725,1835,1639,1753,1801,1746,1617,1835,1740
+3,House Heating Fuel: Electric,AR,Marion,3199,3059,2987,3188,3305,3403,3430,3430,3494,3576
+4,House Heating Fuel: Fuel Oil,AR,Marion,17,59,71,38,20,31,6,17,14,14
+5,House Heating Fuel: Gas,AR,Marion,1102,1103,1151,1063,869,847,849,888,936,1014
+6,House Heating Fuel: Propane,AR,Marion,1761,1724,1835,1643,1547,1335,1321,1166,1169,1312
+7,House Heating Fuel: Wood,AR,Marion,1160,1110,1143,1088,1152,1052,1024,1133,1015,811
+3,House Heating Fuel: Electric,AR,Miller,8605,8764,8916,9074,9137,9260,9456,9843,9862,9855
+4,House Heating Fuel: Fuel Oil,AR,Miller,0,0,0,0,0,0,0,20,19,25
+5,House Heating Fuel: Gas,AR,Miller,6910,7011,7151,7162,7005,6936,6699,6303,6077,5903
+6,House Heating Fuel: Propane,AR,Miller,547,303,312,300,395,398,472,472,473,382
+7,House Heating Fuel: Wood,AR,Miller,472,432,316,357,361,345,343,341,276,207
+3,House Heating Fuel: Electric,AR,Mississippi,5688,6090,6769,7197,7118,7319,7304,7242,6753,6786
+4,House Heating Fuel: Fuel Oil,AR,Mississippi,32,42,29,6,9,16,8,8,9,7
+5,House Heating Fuel: Gas,AR,Mississippi,9949,9560,9065,8642,8878,8689,8469,9000,9148,8636
+6,House Heating Fuel: Propane,AR,Mississippi,1294,1229,1159,1057,1034,949,867,775,738,701
+7,House Heating Fuel: Wood,AR,Mississippi,113,102,120,96,107,130,160,165,165,172
+3,House Heating Fuel: Electric,AR,Monroe,1299,1332,1313,1474,1485,1498,1613,1683,1685,1676
+4,House Heating Fuel: Fuel Oil,AR,Monroe,0,0,0,12,15,12,8,7,0,0
+5,House Heating Fuel: Gas,AR,Monroe,1437,1484,1514,1410,1442,1424,1298,1315,1340,1299
+6,House Heating Fuel: Propane,AR,Monroe,594,574,491,445,402,389,340,292,260,306
+7,House Heating Fuel: Wood,AR,Monroe,107,64,69,39,20,35,42,25,41,48
+3,House Heating Fuel: Electric,AR,Montgomery,1630,1552,1466,1461,1466,1581,1599,1695,1694,1648
+4,House Heating Fuel: Fuel Oil,AR,Montgomery,0,2,2,2,2,6,3,5,5,5
+5,House Heating Fuel: Gas,AR,Montgomery,590,629,647,606,613,615,582,586,580,637
+6,House Heating Fuel: Propane,AR,Montgomery,855,873,959,954,856,918,844,819,773,785
+7,House Heating Fuel: Wood,AR,Montgomery,604,633,691,809,850,749,688,695,571,548
+3,House Heating Fuel: Electric,AR,Nevada,1237,1413,1382,1416,1432,1542,1555,1685,1542,1619
+4,House Heating Fuel: Fuel Oil,AR,Nevada,0,0,0,0,33,36,58,65,118,0
+5,House Heating Fuel: Gas,AR,Nevada,1844,1570,1689,1591,1494,1358,1367,1248,1209,1311
+6,House Heating Fuel: Propane,AR,Nevada,401,395,389,351,379,342,352,296,294,313
+7,House Heating Fuel: Wood,AR,Nevada,285,329,317,261,256,192,173,155,138,152
+3,House Heating Fuel: Electric,AR,Newton,983,1058,1089,1138,1009,1073,1098,1147,1151,1279
+4,House Heating Fuel: Fuel Oil,AR,Newton,10,8,6,0,0,0,12,14,15,16
+5,House Heating Fuel: Gas,AR,Newton,159,137,132,66,37,45,38,35,50,41
+6,House Heating Fuel: Propane,AR,Newton,1268,1121,1162,1076,1017,974,995,894,841,748
+7,House Heating Fuel: Wood,AR,Newton,1135,1182,1171,1227,1282,1217,1099,1061,838,849
+3,House Heating Fuel: Electric,AR,Ouachita,3626,3894,3886,3836,3865,3783,3731,3767,3845,3943
+4,House Heating Fuel: Fuel Oil,AR,Ouachita,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Ouachita,5793,5502,5848,5582,5263,5414,5340,4897,4980,4708
+6,House Heating Fuel: Propane,AR,Ouachita,832,811,725,896,863,891,789,824,619,557
+7,House Heating Fuel: Wood,AR,Ouachita,441,510,412,355,437,393,425,495,585,430
+3,House Heating Fuel: Electric,AR,Perry,2160,2246,2226,2206,2330,2349,2356,2317,2315,2377
+4,House Heating Fuel: Fuel Oil,AR,Perry,4,3,2,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Perry,328,361,320,326,348,365,317,313,287,279
+6,House Heating Fuel: Propane,AR,Perry,827,841,877,784,759,719,631,660,702,649
+7,House Heating Fuel: Wood,AR,Perry,622,549,552,565,432,352,369,344,346,335
+3,House Heating Fuel: Electric,AR,Phillips,2199,2442,2503,2642,2861,2793,2777,2777,2467,2433
+4,House Heating Fuel: Fuel Oil,AR,Phillips,51,32,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Phillips,4829,4572,4676,4622,4622,4486,4404,4298,4232,4125
+6,House Heating Fuel: Propane,AR,Phillips,1176,997,1066,1009,729,787,704,707,763,896
+7,House Heating Fuel: Wood,AR,Phillips,33,42,55,57,71,63,63,36,32,26
+3,House Heating Fuel: Electric,AR,Pike,1634,1615,1828,1971,1876,1916,2024,1972,2009,2122
+4,House Heating Fuel: Fuel Oil,AR,Pike,2,2,1,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Pike,1338,1338,1304,1219,1268,1206,1220,1286,1259,1184
+6,House Heating Fuel: Propane,AR,Pike,655,670,704,733,745,680,518,515,451,424
+7,House Heating Fuel: Wood,AR,Pike,449,462,481,351,432,514,501,500,558,531
+3,House Heating Fuel: Electric,AR,Poinsett,3342,3511,3459,3662,3957,4085,4167,4326,4463,4518
+4,House Heating Fuel: Fuel Oil,AR,Poinsett,9,0,7,12,22,15,14,10,19,15
+5,House Heating Fuel: Gas,AR,Poinsett,4382,4167,4069,4233,4027,3921,4111,3976,3689,3765
+6,House Heating Fuel: Propane,AR,Poinsett,1456,1368,1451,1228,1082,1055,1000,980,1019,994
+7,House Heating Fuel: Wood,AR,Poinsett,347,362,333,229,217,197,168,182,237,214
+3,House Heating Fuel: Electric,AR,Polk,3366,3458,3550,3464,3637,3647,3984,4037,4478,4264
+4,House Heating Fuel: Fuel Oil,AR,Polk,18,0,0,0,13,12,11,62,47,30
+5,House Heating Fuel: Gas,AR,Polk,1716,1637,1603,1685,1700,1737,1635,1624,1622,1664
+6,House Heating Fuel: Propane,AR,Polk,1668,1500,1450,1458,1314,1297,1148,1109,982,991
+7,House Heating Fuel: Wood,AR,Polk,1287,1260,1306,1325,1246,1169,1115,1151,992,1182
+3,House Heating Fuel: Electric,AR,Pope,12959,13581,13823,14012,14093,14128,14165,14555,14396,14657
+4,House Heating Fuel: Fuel Oil,AR,Pope,23,28,28,19,8,7,8,0,0,0
+5,House Heating Fuel: Gas,AR,Pope,7209,6701,6643,6672,6848,6741,6889,6688,6404,6150
+6,House Heating Fuel: Propane,AR,Pope,906,838,719,673,564,553,586,615,608,576
+7,House Heating Fuel: Wood,AR,Pope,1360,1349,1301,1118,985,941,973,826,778,955
+3,House Heating Fuel: Electric,AR,Prairie,1667,1755,1799,1894,2034,2043,2168,2204,2068,2028
+4,House Heating Fuel: Fuel Oil,AR,Prairie,12,9,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Prairie,1166,1191,1144,1067,1097,1083,1010,1083,1033,946
+6,House Heating Fuel: Propane,AR,Prairie,529,508,562,538,478,520,496,467,538,588
+7,House Heating Fuel: Wood,AR,Prairie,182,205,250,210,141,157,153,149,187,180
+3,House Heating Fuel: Electric,AR,Pulaski,58333,59090,60478,61174,61376,62998,66180,67779,70739,72755
+4,House Heating Fuel: Fuel Oil,AR,Pulaski,96,97,87,140,128,89,132,134,88,113
+5,House Heating Fuel: Gas,AR,Pulaski,92698,91024,91029,88309,87821,87132,85348,83532,82210,81031
+6,House Heating Fuel: Propane,AR,Pulaski,2862,2971,2801,2791,2754,2670,2431,2496,2616,2658
+7,House Heating Fuel: Wood,AR,Pulaski,803,733,694,861,934,981,969,994,908,767
+3,House Heating Fuel: Electric,AR,Randolph,1336,1510,1698,1670,1881,1895,1688,1701,1808,1684
+4,House Heating Fuel: Fuel Oil,AR,Randolph,66,60,51,64,67,34,42,27,55,55
+5,House Heating Fuel: Gas,AR,Randolph,2421,2407,2269,2297,2345,2467,2660,2706,2728,2826
+6,House Heating Fuel: Propane,AR,Randolph,2280,2083,1908,1788,1649,1586,1640,1729,1802,1832
+7,House Heating Fuel: Wood,AR,Randolph,1052,1136,1274,1369,1301,1323,1230,1107,973,872
+3,House Heating Fuel: Electric,AR,St. Francis,3803,3816,4004,4259,4236,4510,4529,4594,4975,5033
+4,House Heating Fuel: Fuel Oil,AR,St. Francis,18,33,38,33,18,17,0,0,0,0
+5,House Heating Fuel: Gas,AR,St. Francis,3936,3853,3854,3646,3717,3677,3493,3449,3245,3253
+6,House Heating Fuel: Propane,AR,St. Francis,1093,1098,1006,1180,1174,1017,1128,1122,926,945
+7,House Heating Fuel: Wood,AR,St. Francis,197,191,168,161,132,164,140,135,146,134
+3,House Heating Fuel: Electric,AR,Saline,18227,19158,20020,20568,21027,21269,21871,22794,23567,24439
+4,House Heating Fuel: Fuel Oil,AR,Saline,60,52,46,31,0,0,0,0,15,17
+5,House Heating Fuel: Gas,AR,Saline,17682,18001,18425,18140,18212,18552,18357,18275,17687,17389
+6,House Heating Fuel: Propane,AR,Saline,1895,1619,1582,1372,1366,1394,1435,1354,1493,1541
+7,House Heating Fuel: Wood,AR,Saline,1127,1179,1125,1045,958,917,788,710,722,600
+3,House Heating Fuel: Electric,AR,Scott,2049,2038,2211,2368,2240,2110,2120,2075,1994,2073
+4,House Heating Fuel: Fuel Oil,AR,Scott,42,32,21,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Scott,984,841,806,805,781,786,776,832,746,737
+6,House Heating Fuel: Propane,AR,Scott,491,482,517,458,440,475,484,458,567,550
+7,House Heating Fuel: Wood,AR,Scott,695,670,617,587,564,587,491,470,429,436
+3,House Heating Fuel: Electric,AR,Searcy,1174,1157,1134,1195,1198,1217,1302,1473,1352,1410
+4,House Heating Fuel: Fuel Oil,AR,Searcy,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Searcy,271,309,287,225,198,182,124,69,77,97
+6,House Heating Fuel: Propane,AR,Searcy,996,1110,1051,850,857,889,818,841,925,925
+7,House Heating Fuel: Wood,AR,Searcy,1006,833,862,997,897,854,910,902,892,872
+3,House Heating Fuel: Electric,AR,Sebastian,19719,20297,20854,21443,22035,22956,24234,24150,24221,24938
+4,House Heating Fuel: Fuel Oil,AR,Sebastian,81,83,80,92,96,50,92,100,96,89
+5,House Heating Fuel: Gas,AR,Sebastian,26701,26144,25952,25921,25615,24861,24430,24423,24590,24351
+6,House Heating Fuel: Propane,AR,Sebastian,1218,1104,1072,1050,809,832,728,754,793,810
+7,House Heating Fuel: Wood,AR,Sebastian,817,770,751,684,727,698,734,671,745,784
+3,House Heating Fuel: Electric,AR,Sevier,3596,3599,3608,3761,3873,4063,4058,4100,4268,4283
+4,House Heating Fuel: Fuel Oil,AR,Sevier,0,0,0,0,0,0,6,5,6,9
+5,House Heating Fuel: Gas,AR,Sevier,1449,1388,1288,1145,1093,1186,1168,1170,1138,1103
+6,House Heating Fuel: Propane,AR,Sevier,544,552,560,481,518,431,417,323,210,201
+7,House Heating Fuel: Wood,AR,Sevier,251,279,320,344,414,378,341,362,225,283
+3,House Heating Fuel: Electric,AR,Sharp,3126,3127,3278,3345,3466,3584,3797,3986,4062,4127
+4,House Heating Fuel: Fuel Oil,AR,Sharp,0,0,0,0,0,0,0,0,9,10
+5,House Heating Fuel: Gas,AR,Sharp,449,442,412,425,477,480,487,440,463,414
+6,House Heating Fuel: Propane,AR,Sharp,2580,2553,2403,2189,2177,2154,2036,1968,2061,2120
+7,House Heating Fuel: Wood,AR,Sharp,1002,949,907,1007,873,852,924,817,684,708
+3,House Heating Fuel: Electric,AR,Stone,1540,1660,1768,1795,1755,1873,1941,2018,2069,2029
+4,House Heating Fuel: Fuel Oil,AR,Stone,0,0,18,13,21,20,18,0,0,0
+5,House Heating Fuel: Gas,AR,Stone,330,366,416,360,427,454,393,371,456,447
+6,House Heating Fuel: Propane,AR,Stone,1921,1911,1923,1757,1954,1773,1681,1584,1602,1518
+7,House Heating Fuel: Wood,AR,Stone,1154,1185,1130,1210,1110,1015,927,931,806,766
+3,House Heating Fuel: Electric,AR,Union,6450,6784,6928,7114,7150,7020,7022,6972,7083,6931
+4,House Heating Fuel: Fuel Oil,AR,Union,20,12,18,12,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Union,8768,8483,8286,8110,8127,8147,7931,7963,7699,7711
+6,House Heating Fuel: Propane,AR,Union,1168,1096,1026,969,970,936,967,886,751,709
+7,House Heating Fuel: Wood,AR,Union,320,309,297,338,368,373,410,331,304,315
+3,House Heating Fuel: Electric,AR,Van Buren,3017,3144,3362,3450,3572,3608,3657,3817,3963,3970
+4,House Heating Fuel: Fuel Oil,AR,Van Buren,15,0,3,3,3,7,6,5,6,5
+5,House Heating Fuel: Gas,AR,Van Buren,887,933,969,854,768,799,768,816,741,776
+6,House Heating Fuel: Propane,AR,Van Buren,1882,1780,1518,1323,1188,1005,963,970,1101,1193
+7,House Heating Fuel: Wood,AR,Van Buren,1212,1202,1082,1096,1111,986,977,921,814,761
+3,House Heating Fuel: Electric,AR,Washington,28695,29532,30488,31677,31944,32839,34679,35555,37015,37473
+4,House Heating Fuel: Fuel Oil,AR,Washington,76,79,48,60,61,28,16,43,61,128
+5,House Heating Fuel: Gas,AR,Washington,39605,40494,40371,40836,41703,42247,42153,42460,42398,43415
+6,House Heating Fuel: Propane,AR,Washington,4138,3722,3565,3327,3225,3051,3122,3177,3311,3461
+7,House Heating Fuel: Wood,AR,Washington,2806,2742,2910,3001,3161,3146,3052,2784,2620,2319
+3,House Heating Fuel: Electric,AR,White,14360,15835,16368,17481,17434,17612,17030,17322,17293,17668
+4,House Heating Fuel: Fuel Oil,AR,White,21,21,18,15,18,0,0,0,6,6
+5,House Heating Fuel: Gas,AR,White,9953,9232,9089,8494,8518,8287,8423,8546,8730,8271
+6,House Heating Fuel: Propane,AR,White,3252,3104,2900,2473,2436,2421,2546,2447,2461,2279
+7,House Heating Fuel: Wood,AR,White,1381,1297,1220,1098,976,1028,1011,801,678,723
+3,House Heating Fuel: Electric,AR,Woodruff,1305,1316,1297,1350,1338,1314,1319,1359,1412,1445
+4,House Heating Fuel: Fuel Oil,AR,Woodruff,3,3,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Woodruff,1588,1514,1409,1248,1328,1254,1261,1197,1201,1212
+6,House Heating Fuel: Propane,AR,Woodruff,349,332,331,320,278,282,264,269,230,224
+7,House Heating Fuel: Wood,AR,Woodruff,67,73,115,127,90,51,62,38,37,35
+3,House Heating Fuel: Electric,AR,Yell,3943,4087,4239,4574,4651,4668,4677,4857,4824,4859
+4,House Heating Fuel: Fuel Oil,AR,Yell,6,4,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AR,Yell,2162,2217,2077,1969,1887,1762,1538,1656,1715,1713
+6,House Heating Fuel: Propane,AR,Yell,962,818,736,766,674,645,702,622,508,459
+7,House Heating Fuel: Wood,AR,Yell,788,719,759,564,569,558,546,397,392,387

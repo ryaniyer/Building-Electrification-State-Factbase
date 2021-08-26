@@ -1,0 +1,336 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,AL,Autauga,9039,9677,10080,9960,10047,10582,10618,10937,11080,11769
+4,House Heating Fuel: Fuel Oil,AL,Autauga,21,35,36,32,32,41,0,0,0,9
+5,House Heating Fuel: Gas,AL,Autauga,7727,7251,7016,7215,7190,6930,7607,7514,7432,7295
+6,House Heating Fuel: Propane,AL,Autauga,2747,2767,2599,2557,2695,2569,2248,2306,2352,2085
+7,House Heating Fuel: Wood,AL,Autauga,94,143,113,199,179,163,190,191,137,128
+3,House Heating Fuel: Electric,AL,Baldwin,56579,58304,60285,61312,62024,63283,64692,66041,68525,70199
+4,House Heating Fuel: Fuel Oil,AL,Baldwin,55,74,92,63,67,13,12,30,53,38
+5,House Heating Fuel: Gas,AL,Baldwin,9460,9147,9081,8680,8046,7911,7538,7267,7541,8168
+6,House Heating Fuel: Propane,AL,Baldwin,2753,2682,2693,2597,2296,2215,1912,1874,1582,1589
+7,House Heating Fuel: Wood,AL,Baldwin,412,356,445,427,403,386,519,415,421,453
+3,House Heating Fuel: Electric,AL,Barbour,7087,7017,6976,7151,7106,7177,7246,7246,7246,7392
+4,House Heating Fuel: Fuel Oil,AL,Barbour,7,27,35,34,35,35,16,37,33,33
+5,House Heating Fuel: Gas,AL,Barbour,905,897,875,711,641,620,565,584,626,671
+6,House Heating Fuel: Propane,AL,Barbour,1677,1526,1385,1127,1192,1166,1081,1113,1137,1106
+7,House Heating Fuel: Wood,AL,Barbour,98,91,90,98,105,142,126,132,83,90
+3,House Heating Fuel: Electric,AL,Bibb,4786,4837,4948,4875,4770,4774,4676,4604,4521,4533
+4,House Heating Fuel: Fuel Oil,AL,Bibb,7,4,51,53,69,84,78,25,16,4
+5,House Heating Fuel: Gas,AL,Bibb,1674,1449,1464,1322,1155,1064,1124,1183,1140,1414
+6,House Heating Fuel: Propane,AL,Bibb,738,738,687,552,765,864,852,880,1011,749
+7,House Heating Fuel: Wood,AL,Bibb,96,124,163,188,224,196,289,189,139,158
+3,House Heating Fuel: Electric,AL,Blount,13622,14679,14782,15055,15139,15159,14958,15600,15806,15885
+4,House Heating Fuel: Fuel Oil,AL,Blount,123,59,56,50,94,68,87,72,70,21
+5,House Heating Fuel: Gas,AL,Blount,2928,2503,2690,2686,2455,2547,2553,2259,2156,2406
+6,House Heating Fuel: Propane,AL,Blount,3314,3026,2838,2753,2725,2573,2511,2314,2195,2170
+7,House Heating Fuel: Wood,AL,Blount,482,552,490,433,375,325,337,323,271,267
+3,House Heating Fuel: Electric,AL,Bullock,1935,2012,2058,2178,2284,2332,2272,2464,2537,2417
+4,House Heating Fuel: Fuel Oil,AL,Bullock,42,30,33,0,5,5,5,9,6,0
+5,House Heating Fuel: Gas,AL,Bullock,742,679,608,536,528,487,446,483,455,428
+6,House Heating Fuel: Propane,AL,Bullock,957,956,984,973,881,837,765,634,534,572
+7,House Heating Fuel: Wood,AL,Bullock,29,38,46,45,37,6,68,80,77,104
+3,House Heating Fuel: Electric,AL,Butler,4245,4335,4628,4578,4937,4866,4950,4527,4569,4455
+4,House Heating Fuel: Fuel Oil,AL,Butler,10,10,8,8,19,21,16,16,7,0
+5,House Heating Fuel: Gas,AL,Butler,1398,1295,1369,1455,1387,1397,1254,1071,895,822
+6,House Heating Fuel: Propane,AL,Butler,2221,2272,2007,2019,1728,1572,1282,1259,1091,1088
+7,House Heating Fuel: Wood,AL,Butler,136,159,124,159,180,183,140,139,116,98
+3,House Heating Fuel: Electric,AL,Calhoun,25255,25486,26179,25537,25787,25924,26482,26521,27199,27454
+4,House Heating Fuel: Fuel Oil,AL,Calhoun,66,70,66,75,90,81,80,55,52,36
+5,House Heating Fuel: Gas,AL,Calhoun,16791,15952,15331,15311,15348,15311,14956,15172,14516,13740
+6,House Heating Fuel: Propane,AL,Calhoun,3430,3541,3341,3286,3196,3032,2746,2527,2546,2720
+7,House Heating Fuel: Wood,AL,Calhoun,665,681,686,760,678,582,563,555,465,492
+3,House Heating Fuel: Electric,AL,Chambers,7298,7570,7736,8207,8360,8700,9094,9434,9226,9550
+4,House Heating Fuel: Fuel Oil,AL,Chambers,50,56,46,33,28,19,17,20,26,3
+5,House Heating Fuel: Gas,AL,Chambers,3508,3403,3228,3138,3198,2927,2595,2281,2438,2229
+6,House Heating Fuel: Propane,AL,Chambers,2371,2106,2236,2043,2023,1942,1926,1777,1608,1364
+7,House Heating Fuel: Wood,AL,Chambers,420,382,327,252,228,156,197,168,191,262
+3,House Heating Fuel: Electric,AL,Cherokee,6321,6277,6824,6898,7102,6614,6656,6467,6221,6284
+4,House Heating Fuel: Fuel Oil,AL,Cherokee,77,120,100,96,78,88,49,62,79,69
+5,House Heating Fuel: Gas,AL,Cherokee,1202,1159,1084,1113,1222,1333,1351,1322,1426,1400
+6,House Heating Fuel: Propane,AL,Cherokee,3225,3367,3190,3094,2919,2794,2560,2529,2482,2499
+7,House Heating Fuel: Wood,AL,Cherokee,484,571,525,413,356,395,324,345,286,393
+3,House Heating Fuel: Electric,AL,Chilton,10394,10645,11022,11362,11760,11683,11982,12052,11976,12033
+4,House Heating Fuel: Fuel Oil,AL,Chilton,34,35,0,0,0,0,9,22,27,26
+5,House Heating Fuel: Gas,AL,Chilton,1994,1850,1865,1728,1653,1711,1776,1854,1802,1508
+6,House Heating Fuel: Propane,AL,Chilton,3901,3535,3195,2911,2616,2479,2472,2385,2562,2962
+7,House Heating Fuel: Wood,AL,Chilton,223,174,172,174,164,271,288,357,324,344
+3,House Heating Fuel: Electric,AL,Choctaw,2950,2937,3177,3241,3392,3521,3719,3573,3511,3524
+4,House Heating Fuel: Fuel Oil,AL,Choctaw,14,24,18,8,7,16,13,32,40,36
+5,House Heating Fuel: Gas,AL,Choctaw,318,323,313,278,233,225,242,250,245,260
+6,House Heating Fuel: Propane,AL,Choctaw,1718,1583,1514,1719,1601,1519,1334,1368,1311,1195
+7,House Heating Fuel: Wood,AL,Choctaw,296,287,272,254,277,270,241,229,226,268
+3,House Heating Fuel: Electric,AL,Clarke,4664,4632,5147,5340,5751,5683,6064,6054,5779,5571
+4,House Heating Fuel: Fuel Oil,AL,Clarke,0,0,6,10,9,6,7,5,5,5
+5,House Heating Fuel: Gas,AL,Clarke,2134,2479,2357,2421,2403,2412,2052,2126,2190,2055
+6,House Heating Fuel: Propane,AL,Clarke,1991,1608,1483,1516,1307,1218,1184,1145,1117,1207
+7,House Heating Fuel: Wood,AL,Clarke,323,361,315,318,296,242,178,190,180,140
+3,House Heating Fuel: Electric,AL,Clay,2886,2773,2904,3037,3023,3028,2969,3049,3013,3051
+4,House Heating Fuel: Fuel Oil,AL,Clay,22,22,20,17,15,0,0,0,0,0
+5,House Heating Fuel: Gas,AL,Clay,1162,1245,1308,1283,1264,1259,1223,1153,1081,955
+6,House Heating Fuel: Propane,AL,Clay,1379,1343,1085,946,937,795,781,708,700,697
+7,House Heating Fuel: Wood,AL,Clay,390,440,405,345,300,317,368,395,379,442
+3,House Heating Fuel: Electric,AL,Cleburne,2368,2501,2621,2699,2810,2900,3078,3196,3353,3297
+4,House Heating Fuel: Fuel Oil,AL,Cleburne,61,56,58,53,18,2,2,0,24,27
+5,House Heating Fuel: Gas,AL,Cleburne,534,419,414,371,321,406,416,416,376,429
+6,House Heating Fuel: Propane,AL,Cleburne,2160,2199,2016,2147,2068,2094,1950,1845,1646,1654
+7,House Heating Fuel: Wood,AL,Cleburne,266,338,399,324,408,332,360,289,282,243
+3,House Heating Fuel: Electric,AL,Coffee,15653,15782,16065,16027,16325,16420,16593,16883,17212,17463
+4,House Heating Fuel: Fuel Oil,AL,Coffee,19,18,23,29,36,31,31,21,5,2
+5,House Heating Fuel: Gas,AL,Coffee,1525,1430,1558,1379,1402,1352,1510,1529,1418,1343
+6,House Heating Fuel: Propane,AL,Coffee,1547,1376,1175,1185,1099,1130,1051,1015,975,953
+7,House Heating Fuel: Wood,AL,Coffee,110,117,134,124,147,122,92,60,60,47
+3,House Heating Fuel: Electric,AL,Colbert,11585,12189,12663,12823,13440,13505,13474,13593,13537,13776
+4,House Heating Fuel: Fuel Oil,AL,Colbert,146,161,136,112,88,81,74,81,81,85
+5,House Heating Fuel: Gas,AL,Colbert,7691,7485,7162,7090,6875,6603,6453,6290,6312,6091
+6,House Heating Fuel: Propane,AL,Colbert,2487,2217,2057,1820,1699,1657,1708,1621,1607,1569
+7,House Heating Fuel: Wood,AL,Colbert,210,242,251,364,308,311,313,299,196,218
+3,House Heating Fuel: Electric,AL,Conecuh,2782,2812,2852,3059,3225,3457,3534,3371,3289,3273
+4,House Heating Fuel: Fuel Oil,AL,Conecuh,0,0,0,11,12,18,16,16,16,8
+5,House Heating Fuel: Gas,AL,Conecuh,1013,978,975,910,810,794,699,637,743,724
+6,House Heating Fuel: Propane,AL,Conecuh,825,750,839,837,834,769,721,590,412,392
+7,House Heating Fuel: Wood,AL,Conecuh,241,155,182,149,126,90,99,78,82,117
+3,House Heating Fuel: Electric,AL,Coosa,2438,2601,2581,2520,2590,2783,2786,2694,2646,2650
+4,House Heating Fuel: Fuel Oil,AL,Coosa,47,15,39,37,43,32,38,7,8,5
+5,House Heating Fuel: Gas,AL,Coosa,458,447,454,576,561,492,444,460,381,273
+6,House Heating Fuel: Propane,AL,Coosa,1413,1395,1285,1188,1067,1023,799,888,910,898
+7,House Heating Fuel: Wood,AL,Coosa,193,200,189,161,172,109,127,135,140,186
+3,House Heating Fuel: Electric,AL,Covington,8876,9122,9559,9902,10168,10203,10654,10971,10950,11033
+4,House Heating Fuel: Fuel Oil,AL,Covington,36,38,28,27,15,17,18,9,12,14
+5,House Heating Fuel: Gas,AL,Covington,3334,3188,3163,3033,2855,2853,2911,2820,2647,2525
+6,House Heating Fuel: Propane,AL,Covington,2036,2004,1786,1751,1636,1578,1324,1289,1190,1068
+7,House Heating Fuel: Wood,AL,Covington,296,319,301,261,234,235,223,154,148,178
+3,House Heating Fuel: Electric,AL,Crenshaw,2985,3098,3176,3187,3141,3163,3208,3245,3177,3238
+4,House Heating Fuel: Fuel Oil,AL,Crenshaw,9,0,0,0,0,2,3,8,17,20
+5,House Heating Fuel: Gas,AL,Crenshaw,915,914,911,898,866,843,890,798,698,609
+6,House Heating Fuel: Propane,AL,Crenshaw,1625,1507,1428,1378,1271,1186,1144,1121,984,968
+7,House Heating Fuel: Wood,AL,Crenshaw,64,97,110,123,114,147,134,157,122,78
+3,House Heating Fuel: Electric,AL,Cullman,21436,21925,22375,22345,21925,22502,22556,22770,22787,22796
+4,House Heating Fuel: Fuel Oil,AL,Cullman,226,253,197,212,172,120,85,69,42,90
+5,House Heating Fuel: Gas,AL,Cullman,3566,3490,3328,3685,3901,3806,3577,3567,3486,3418
+6,House Heating Fuel: Propane,AL,Cullman,5392,5013,4627,4335,4464,4243,4320,4011,3799,4009
+7,House Heating Fuel: Wood,AL,Cullman,506,522,595,610,526,477,420,508,392,522
+3,House Heating Fuel: Electric,AL,Dale,16156,16318,16450,16315,16561,16082,16161,16350,16133,16165
+4,House Heating Fuel: Fuel Oil,AL,Dale,41,15,17,8,12,23,18,21,42,46
+5,House Heating Fuel: Gas,AL,Dale,2235,2041,2030,1945,1910,1864,1708,1606,1613,1763
+6,House Heating Fuel: Propane,AL,Dale,969,873,847,800,736,750,686,679,652,597
+7,House Heating Fuel: Wood,AL,Dale,81,152,167,183,165,183,94,72,89,73
+3,House Heating Fuel: Electric,AL,Dallas,6562,7091,7007,7212,7135,7425,7232,7650,7985,7512
+4,House Heating Fuel: Fuel Oil,AL,Dallas,16,26,26,23,57,65,42,42,45,9
+5,House Heating Fuel: Gas,AL,Dallas,7634,7245,6816,6602,6671,6586,6520,6571,6236,6479
+6,House Heating Fuel: Propane,AL,Dallas,2412,2310,2067,1989,1968,1896,1884,1859,1847,1796
+7,House Heating Fuel: Wood,AL,Dallas,124,198,199,257,236,255,241,206,106,78
+3,House Heating Fuel: Electric,AL,DeKalb,14907,15709,16173,16775,17188,17316,17305,17413,17918,17839
+4,House Heating Fuel: Fuel Oil,AL,DeKalb,213,132,118,126,119,127,89,76,61,70
+5,House Heating Fuel: Gas,AL,DeKalb,2978,2861,2484,2260,2173,2319,2457,2561,2569,2650
+6,House Heating Fuel: Propane,AL,DeKalb,6940,6542,5902,5125,4605,4393,4109,4560,4605,4620
+7,House Heating Fuel: Wood,AL,DeKalb,824,874,814,548,558,751,760,775,859,719
+3,House Heating Fuel: Electric,AL,Elmore,17751,18428,18750,19046,19554,20068,19956,20335,20354,20929
+4,House Heating Fuel: Fuel Oil,AL,Elmore,43,31,24,8,12,0,20,21,19,22
+5,House Heating Fuel: Gas,AL,Elmore,5234,5022,5093,5138,5147,4971,5266,5109,5106,5060
+6,House Heating Fuel: Propane,AL,Elmore,4405,4315,3981,3838,3605,3307,3299,3309,3318,3411
+7,House Heating Fuel: Wood,AL,Elmore,252,195,177,197,122,140,165,123,102,119
+3,House Heating Fuel: Electric,AL,Escambia,10148,10321,10531,10555,10688,11046,11124,11028,11271,10995
+4,House Heating Fuel: Fuel Oil,AL,Escambia,25,34,27,35,36,20,0,0,0,0
+5,House Heating Fuel: Gas,AL,Escambia,2215,2237,2155,1924,1833,1654,1567,1432,1477,1456
+6,House Heating Fuel: Propane,AL,Escambia,1080,991,882,856,836,652,548,485,432,416
+7,House Heating Fuel: Wood,AL,Escambia,316,256,267,227,262,209,214,173,183,165
+3,House Heating Fuel: Electric,AL,Etowah,18724,19422,19696,20101,20056,20090,19940,20203,20661,21342
+4,House Heating Fuel: Fuel Oil,AL,Etowah,74,62,62,8,15,18,19,62,90,103
+5,House Heating Fuel: Gas,AL,Etowah,18789,17887,17178,16681,16708,16607,16352,15836,15280,14707
+6,House Heating Fuel: Propane,AL,Etowah,3263,3025,2839,2651,2561,2572,2644,2465,2349,2440
+7,House Heating Fuel: Wood,AL,Etowah,605,669,672,628,561,477,412,383,333,301
+3,House Heating Fuel: Electric,AL,Fayette,3929,3993,4192,4019,4282,4354,4209,4398,4313,4171
+4,House Heating Fuel: Fuel Oil,AL,Fayette,14,35,31,31,32,12,4,12,25,23
+5,House Heating Fuel: Gas,AL,Fayette,1607,1692,1557,1496,1430,1489,1469,1396,1462,1449
+6,House Heating Fuel: Propane,AL,Fayette,1372,1239,1071,1116,931,908,908,923,900,928
+7,House Heating Fuel: Wood,AL,Fayette,214,268,257,262,258,245,217,179,189,162
+3,House Heating Fuel: Electric,AL,Franklin,5187,5524,5802,5882,6017,6342,6111,5938,6248,6175
+4,House Heating Fuel: Fuel Oil,AL,Franklin,76,132,128,75,56,29,9,30,30,37
+5,House Heating Fuel: Gas,AL,Franklin,5338,5053,4936,4985,4604,4211,4162,4316,3802,3858
+6,House Heating Fuel: Propane,AL,Franklin,1518,1441,1366,1269,1324,1084,1134,1043,910,772
+7,House Heating Fuel: Wood,AL,Franklin,209,189,199,219,234,228,194,128,156,151
+3,House Heating Fuel: Electric,AL,Geneva,8403,8619,8685,8818,9056,9256,9333,9546,9391,9188
+4,House Heating Fuel: Fuel Oil,AL,Geneva,38,1,7,9,26,25,21,37,27,17
+5,House Heating Fuel: Gas,AL,Geneva,1000,911,864,754,657,519,508,490,457,510
+6,House Heating Fuel: Propane,AL,Geneva,1103,1175,1170,1118,897,686,585,502,484,528
+7,House Heating Fuel: Wood,AL,Geneva,155,129,179,165,174,185,156,95,74,88
+3,House Heating Fuel: Electric,AL,Greene,1604,1531,1531,1734,1768,1831,1941,1858,1811,1752
+4,House Heating Fuel: Fuel Oil,AL,Greene,15,22,9,10,8,0,0,0,0,0
+5,House Heating Fuel: Gas,AL,Greene,727,655,543,444,457,458,438,383,448,477
+6,House Heating Fuel: Propane,AL,Greene,1112,1066,1072,947,917,774,621,684,517,580
+7,House Heating Fuel: Wood,AL,Greene,64,83,98,124,81,83,60,59,134,127
+3,House Heating Fuel: Electric,AL,Hale,2936,3053,3198,3378,3320,3529,3633,3606,3583,3629
+4,House Heating Fuel: Fuel Oil,AL,Hale,34,50,59,55,82,95,80,87,65,17
+5,House Heating Fuel: Gas,AL,Hale,1275,1227,1293,1196,1135,1106,1101,1049,1025,1040
+6,House Heating Fuel: Propane,AL,Hale,1336,1328,1244,1170,1208,995,935,713,767,771
+7,House Heating Fuel: Wood,AL,Hale,234,188,161,158,174,175,152,145,156,129
+3,House Heating Fuel: Electric,AL,Henry,5199,5516,5794,5938,5906,5945,5948,5845,5918,5919
+4,House Heating Fuel: Fuel Oil,AL,Henry,25,22,24,23,20,0,0,0,0,0
+5,House Heating Fuel: Gas,AL,Henry,669,608,494,494,507,412,405,386,271,236
+6,House Heating Fuel: Propane,AL,Henry,657,559,508,448,333,418,351,329,321,348
+7,House Heating Fuel: Wood,AL,Henry,50,36,43,56,83,83,96,130,106,79
+3,House Heating Fuel: Electric,AL,Houston,33831,34636,35098,35904,36229,36029,36106,36253,35934,35984
+4,House Heating Fuel: Fuel Oil,AL,Houston,112,126,130,119,69,81,46,32,27,23
+5,House Heating Fuel: Gas,AL,Houston,2598,2368,2235,2086,2065,2100,2245,2291,2380,2421
+6,House Heating Fuel: Propane,AL,Houston,1230,1082,977,807,770,655,636,661,614,570
+7,House Heating Fuel: Wood,AL,Houston,78,98,105,137,120,105,97,93,84,85
+3,House Heating Fuel: Electric,AL,Jackson,13275,13842,14107,14318,14215,14218,13855,13957,14008,14420
+4,House Heating Fuel: Fuel Oil,AL,Jackson,227,135,120,94,114,124,77,49,43,32
+5,House Heating Fuel: Gas,AL,Jackson,2749,2906,2672,2539,2662,2482,2551,2703,2546,2284
+6,House Heating Fuel: Propane,AL,Jackson,4177,3951,3525,3045,2801,2932,2916,3002,3347,3208
+7,House Heating Fuel: Wood,AL,Jackson,664,718,706,673,535,590,476,576,621,693
+3,House Heating Fuel: Electric,AL,Jefferson,95016,99107,103838,107281,110749,114310,116419,117459,119423,121364
+4,House Heating Fuel: Fuel Oil,AL,Jefferson,755,686,691,617,607,583,599,604,515,424
+5,House Heating Fuel: Gas,AL,Jefferson,158507,154029,149107,146187,142666,140627,139026,137817,135466,134006
+6,House Heating Fuel: Propane,AL,Jefferson,4930,4394,4393,4216,4132,4061,4238,4067,3915,3823
+7,House Heating Fuel: Wood,AL,Jefferson,508,468,561,601,499,531,594,502,563,543
+3,House Heating Fuel: Electric,AL,Lamar,3045,3137,3127,3202,3255,3306,3353,3381,3313,3378
+4,House Heating Fuel: Fuel Oil,AL,Lamar,22,17,18,14,14,25,27,19,40,45
+5,House Heating Fuel: Gas,AL,Lamar,1518,1550,1589,1634,1580,1628,1649,1602,1565,1498
+6,House Heating Fuel: Propane,AL,Lamar,1078,1042,1095,916,952,842,710,766,826,733
+7,House Heating Fuel: Wood,AL,Lamar,270,252,252,280,307,301,252,238,190,165
+3,House Heating Fuel: Electric,AL,Lauderdale,22006,22601,23026,23416,24219,24606,25081,25446,25031,24785
+4,House Heating Fuel: Fuel Oil,AL,Lauderdale,130,98,129,66,56,37,72,42,31,35
+5,House Heating Fuel: Gas,AL,Lauderdale,11487,11640,11505,11698,11021,10552,10121,10033,10212,10454
+6,House Heating Fuel: Propane,AL,Lauderdale,3411,3373,3103,2787,2786,2702,2455,2372,2476,2473
+7,House Heating Fuel: Wood,AL,Lauderdale,550,445,384,341,441,509,467,527,507,480
+3,House Heating Fuel: Electric,AL,Lawrence,6996,7177,7510,7754,8092,8377,8285,8339,8404,8539
+4,House Heating Fuel: Fuel Oil,AL,Lawrence,133,105,108,110,72,69,37,37,24,26
+5,House Heating Fuel: Gas,AL,Lawrence,2854,3065,2969,2758,2611,2448,2474,2159,2152,2114
+6,House Heating Fuel: Propane,AL,Lawrence,3191,2909,2512,2322,2060,2098,2035,2072,1869,1589
+7,House Heating Fuel: Wood,AL,Lawrence,202,233,296,374,357,412,397,360,288,352
+3,House Heating Fuel: Electric,AL,Lee,37369,39475,40400,41516,42706,43676,44157,45619,46129,47353
+4,House Heating Fuel: Fuel Oil,AL,Lee,76,80,67,75,43,69,54,54,21,23
+5,House Heating Fuel: Gas,AL,Lee,12092,11294,10849,10300,10323,10051,10360,10445,10482,10155
+6,House Heating Fuel: Propane,AL,Lee,3934,3711,3500,3405,3046,2858,2695,2293,2205,2089
+7,House Heating Fuel: Wood,AL,Lee,351,369,340,318,277,202,290,221,163,238
+3,House Heating Fuel: Electric,AL,Limestone,20971,22444,23509,24308,24755,25070,24989,25249,25096,25304
+4,House Heating Fuel: Fuel Oil,AL,Limestone,216,100,37,38,88,78,91,75,119,96
+5,House Heating Fuel: Gas,AL,Limestone,4336,4235,3754,3871,3859,3782,3655,3902,3941,3904
+6,House Heating Fuel: Propane,AL,Limestone,4122,3624,3505,3123,2991,2635,2631,2340,2272,2228
+7,House Heating Fuel: Wood,AL,Limestone,206,245,227,342,290,445,487,536,380,319
+3,House Heating Fuel: Electric,AL,Lowndes,1888,1999,1974,2001,2180,2132,2141,2384,2420,2525
+4,House Heating Fuel: Fuel Oil,AL,Lowndes,16,15,32,31,71,80,82,58,57,3
+5,House Heating Fuel: Gas,AL,Lowndes,316,297,265,200,227,279,299,330,357,364
+6,House Heating Fuel: Propane,AL,Lowndes,1860,1765,1779,1785,1584,1532,1463,1323,1177,1216
+7,House Heating Fuel: Wood,AL,Lowndes,114,117,162,164,153,185,179,136,89,95
+3,House Heating Fuel: Electric,AL,Macon,3014,3084,3287,3244,3347,3531,3558,3701,3562,3424
+4,House Heating Fuel: Fuel Oil,AL,Macon,56,33,40,17,8,9,16,12,19,22
+5,House Heating Fuel: Gas,AL,Macon,2997,2911,2881,2811,2783,2580,2482,2345,2537,2510
+6,House Heating Fuel: Propane,AL,Macon,1668,1788,1681,1825,1689,1718,1690,1626,1365,1388
+7,House Heating Fuel: Wood,AL,Macon,141,104,100,91,130,124,105,106,92,63
+3,House Heating Fuel: Electric,AL,Madison,83285,86045,90071,92720,95719,99015,101472,103667,105630,108928
+4,House Heating Fuel: Fuel Oil,AL,Madison,411,381,413,295,355,342,379,372,351,200
+5,House Heating Fuel: Gas,AL,Madison,35347,35150,33673,33095,32801,32094,31994,32139,33128,32957
+6,House Heating Fuel: Propane,AL,Madison,6493,6161,5970,5645,5216,4943,4761,4767,4958,4956
+7,House Heating Fuel: Wood,AL,Madison,705,801,803,881,873,886,806,772,606,538
+3,House Heating Fuel: Electric,AL,Marengo,4307,4337,4755,5036,5089,5129,5076,5048,4790,4830
+4,House Heating Fuel: Fuel Oil,AL,Marengo,44,35,30,28,81,66,85,74,75,27
+5,House Heating Fuel: Gas,AL,Marengo,1990,1948,1783,1574,1674,1503,1447,1517,1524,1124
+6,House Heating Fuel: Propane,AL,Marengo,1930,1843,1814,1682,1420,1347,1335,1121,1162,1192
+7,House Heating Fuel: Wood,AL,Marengo,179,154,148,122,166,182,132,144,148,149
+3,House Heating Fuel: Electric,AL,Marion,5622,5753,5747,5589,6001,6288,6397,6212,6257,6306
+4,House Heating Fuel: Fuel Oil,AL,Marion,0,0,0,0,0,0,0,0,18,15
+5,House Heating Fuel: Gas,AL,Marion,5098,4849,4964,5196,4954,5053,4943,4938,4725,4513
+6,House Heating Fuel: Propane,AL,Marion,1555,1593,1483,1425,1179,975,906,957,901,858
+7,House Heating Fuel: Wood,AL,Marion,424,539,496,452,413,355,201,304,287,275
+3,House Heating Fuel: Electric,AL,Marshall,19732,20532,20826,20986,21329,21525,22111,22597,22985,23540
+4,House Heating Fuel: Fuel Oil,AL,Marshall,134,176,146,135,89,98,120,68,82,70
+5,House Heating Fuel: Gas,AL,Marshall,10066,9703,9343,9339,9424,9137,9016,9086,8999,8792
+6,House Heating Fuel: Propane,AL,Marshall,3802,3492,3447,3168,3023,2785,2404,2166,2029,1746
+7,House Heating Fuel: Wood,AL,Marshall,613,612,542,524,517,570,622,483,547,531
+3,House Heating Fuel: Electric,AL,Mobile,80758,83843,87161,89058,90451,91652,92293,92922,95272,95690
+4,House Heating Fuel: Fuel Oil,AL,Mobile,135,103,93,98,84,56,43,53,65,79
+5,House Heating Fuel: Gas,AL,Mobile,68130,67570,65843,62488,60497,58881,58263,57249,56696,56626
+6,House Heating Fuel: Propane,AL,Mobile,3197,3021,2541,2359,2263,2277,2429,2154,2216,2187
+7,House Heating Fuel: Wood,AL,Mobile,562,474,524,474,467,537,527,627,696,721
+3,House Heating Fuel: Electric,AL,Monroe,6428,6364,6238,6089,6297,6634,6811,6797,6689,6552
+4,House Heating Fuel: Fuel Oil,AL,Monroe,0,9,7,9,16,17,7,6,3,5
+5,House Heating Fuel: Gas,AL,Monroe,1346,1138,1082,1019,983,866,790,726,761,802
+6,House Heating Fuel: Propane,AL,Monroe,1194,1173,1155,987,855,721,530,484,496,606
+7,House Heating Fuel: Wood,AL,Monroe,208,233,214,214,211,142,151,160,167,182
+3,House Heating Fuel: Electric,AL,Montgomery,36130,36937,38472,40064,41072,42823,44688,45060,45404,45547
+4,House Heating Fuel: Fuel Oil,AL,Montgomery,76,66,83,86,46,45,51,52,42,47
+5,House Heating Fuel: Gas,AL,Montgomery,49185,48123,47407,45937,45025,43807,42726,42101,41810,41587
+6,House Heating Fuel: Propane,AL,Montgomery,2930,2515,2317,2245,2455,2320,2284,2044,2049,1848
+7,House Heating Fuel: Wood,AL,Montgomery,271,265,281,284,328,287,262,205,242,227
+3,House Heating Fuel: Electric,AL,Morgan,29975,30501,30971,31661,31649,32106,32183,32402,32364,33032
+4,House Heating Fuel: Fuel Oil,AL,Morgan,264,248,212,125,92,123,122,97,85,82
+5,House Heating Fuel: Gas,AL,Morgan,10982,10740,10698,10348,10077,10144,10318,10010,10057,9791
+6,House Heating Fuel: Propane,AL,Morgan,4625,4027,3519,3363,3244,3068,2794,2628,2341,2197
+7,House Heating Fuel: Wood,AL,Morgan,465,520,538,570,668,600,541,582,502,505
+3,House Heating Fuel: Electric,AL,Perry,1477,1561,1391,1473,1567,1716,1739,1712,1709,1620
+4,House Heating Fuel: Fuel Oil,AL,Perry,50,29,21,26,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AL,Perry,1248,1078,942,942,884,778,716,676,718,844
+6,House Heating Fuel: Propane,AL,Perry,1000,917,957,880,739,859,653,604,526,496
+7,House Heating Fuel: Wood,AL,Perry,53,99,193,74,68,92,90,47,126,110
+3,House Heating Fuel: Electric,AL,Pickens,4004,4093,4300,4355,4294,4486,4355,4508,4433,4564
+4,House Heating Fuel: Fuel Oil,AL,Pickens,27,43,57,60,75,70,49,85,116,100
+5,House Heating Fuel: Gas,AL,Pickens,1709,1627,1714,1638,1645,1477,1602,1349,1371,1369
+6,House Heating Fuel: Propane,AL,Pickens,2004,1901,1724,1632,1482,1348,1284,1331,1250,1245
+7,House Heating Fuel: Wood,AL,Pickens,257,175,205,218,215,233,307,303,321,311
+3,House Heating Fuel: Electric,AL,Pike,8861,9006,9338,9817,9808,10139,10152,9783,9366,9093
+4,House Heating Fuel: Fuel Oil,AL,Pike,68,39,18,4,9,12,3,2,2,1
+5,House Heating Fuel: Gas,AL,Pike,1945,1990,1803,1583,1579,1377,1413,1409,1283,1644
+6,House Heating Fuel: Propane,AL,Pike,1831,1675,1616,1356,1306,1048,1013,871,718,652
+7,House Heating Fuel: Wood,AL,Pike,153,187,170,183,163,159,125,121,68,110
+3,House Heating Fuel: Electric,AL,Randolph,4190,4481,4615,5098,5332,5250,5059,5281,5252,5156
+4,House Heating Fuel: Fuel Oil,AL,Randolph,32,37,43,31,18,36,28,23,25,24
+5,House Heating Fuel: Gas,AL,Randolph,1142,1038,1095,926,906,906,862,771,836,794
+6,House Heating Fuel: Propane,AL,Randolph,2608,2865,2441,2512,2329,2330,2219,2222,1996,2194
+7,House Heating Fuel: Wood,AL,Randolph,475,458,543,408,375,353,489,500,472,433
+3,House Heating Fuel: Electric,AL,Russell,13308,13893,14453,15230,15962,16785,16796,17163,17126,17913
+4,House Heating Fuel: Fuel Oil,AL,Russell,32,43,37,24,34,20,8,10,42,25
+5,House Heating Fuel: Gas,AL,Russell,4038,3996,3973,3825,3643,3514,3515,3475,3610,3519
+6,House Heating Fuel: Propane,AL,Russell,2393,2060,1967,1731,1559,1572,1647,1631,1555,1502
+7,House Heating Fuel: Wood,AL,Russell,249,295,309,183,214,234,211,241,220,159
+3,House Heating Fuel: Electric,AL,St. Clair,16792,17537,18151,18751,19659,20231,20367,21628,21544,21121
+4,House Heating Fuel: Fuel Oil,AL,St. Clair,69,88,120,160,165,162,125,68,9,7
+5,House Heating Fuel: Gas,AL,St. Clair,8795,9018,8504,8289,8288,8050,8038,7774,7702,7858
+6,House Heating Fuel: Propane,AL,St. Clair,3310,3220,3322,3326,2871,2698,2599,2426,2379,2455
+7,House Heating Fuel: Wood,AL,St. Clair,575,647,778,700,546,601,541,401,376,410
+3,House Heating Fuel: Electric,AL,Shelby,38325,39061,40263,40256,40157,41035,41000,41705,43018,44257
+4,House Heating Fuel: Fuel Oil,AL,Shelby,139,93,91,85,52,33,42,41,51,72
+5,House Heating Fuel: Gas,AL,Shelby,28910,29539,29488,29813,30812,30932,31311,31714,31966,32082
+6,House Heating Fuel: Propane,AL,Shelby,3697,3254,3120,3225,2882,2782,2901,2668,2580,2579
+7,House Heating Fuel: Wood,AL,Shelby,560,569,488,469,435,312,242,260,255,233
+3,House Heating Fuel: Electric,AL,Sumter,2812,2858,2901,3167,3123,3103,3370,3636,3535,3589
+4,House Heating Fuel: Fuel Oil,AL,Sumter,11,20,3,8,7,10,7,7,2,18
+5,House Heating Fuel: Gas,AL,Sumter,604,693,681,486,427,392,378,359,381,459
+6,House Heating Fuel: Propane,AL,Sumter,1301,1333,1189,1196,1236,1110,939,961,964,978
+7,House Heating Fuel: Wood,AL,Sumter,215,104,130,146,115,145,142,97,152,150
+3,House Heating Fuel: Electric,AL,Talladega,17022,18008,18582,19237,19730,20093,20365,20763,20374,20757
+4,House Heating Fuel: Fuel Oil,AL,Talladega,126,77,88,49,61,43,28,5,5,119
+5,House Heating Fuel: Gas,AL,Talladega,8730,8293,8010,7943,7523,7112,7048,7059,7216,6958
+6,House Heating Fuel: Propane,AL,Talladega,4734,4753,4430,3837,3431,3485,3338,3226,3238,3064
+7,House Heating Fuel: Wood,AL,Talladega,539,458,433,405,441,571,577,502,497,421
+3,House Heating Fuel: Electric,AL,Tallapoosa,9925,10459,10388,10807,11100,11161,11269,11446,11551,11316
+4,House Heating Fuel: Fuel Oil,AL,Tallapoosa,51,40,33,14,12,30,42,37,41,39
+5,House Heating Fuel: Gas,AL,Tallapoosa,2941,2698,2697,2505,2456,2468,2568,2496,2502,2477
+6,House Heating Fuel: Propane,AL,Tallapoosa,2891,2786,2818,2695,2539,2384,2148,2080,2034,2053
+7,House Heating Fuel: Wood,AL,Tallapoosa,388,348,369,325,309,224,241,238,229,211
+3,House Heating Fuel: Electric,AL,Tuscaloosa,42041,43141,44100,44952,45209,46251,47357,47942,49180,49022
+4,House Heating Fuel: Fuel Oil,AL,Tuscaloosa,26,20,99,107,136,126,135,75,57,29
+5,House Heating Fuel: Gas,AL,Tuscaloosa,23796,22350,20907,19940,20040,20045,20338,20782,20591,20961
+6,House Heating Fuel: Propane,AL,Tuscaloosa,2795,2595,2269,2299,2082,1944,1818,1924,1789,1653
+7,House Heating Fuel: Wood,AL,Tuscaloosa,369,428,369,381,409,520,590,601,607,635
+3,House Heating Fuel: Electric,AL,Walker,18497,18806,19296,18984,19286,19391,19441,19606,19550,19395
+4,House Heating Fuel: Fuel Oil,AL,Walker,98,39,32,16,3,14,19,18,59,98
+5,House Heating Fuel: Gas,AL,Walker,3896,3555,3327,3393,3250,3246,3107,3061,3044,3192
+6,House Heating Fuel: Propane,AL,Walker,2929,2979,2728,2695,2348,2263,2015,2027,1913,1818
+7,House Heating Fuel: Wood,AL,Walker,237,313,510,494,553,545,484,332,320,369
+3,House Heating Fuel: Electric,AL,Washington,3995,3902,4109,4113,3940,3831,3973,3830,3980,4063
+4,House Heating Fuel: Fuel Oil,AL,Washington,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,AL,Washington,682,747,804,677,594,711,661,720,610,570
+6,House Heating Fuel: Propane,AL,Washington,1532,1418,1309,1347,1274,1289,1144,1219,1161,1119
+7,House Heating Fuel: Wood,AL,Washington,441,391,431,440,372,270,308,232,256,238
+3,House Heating Fuel: Electric,AL,Wilcox,2063,2286,2274,2535,2502,2613,2651,2677,2721,2764
+4,House Heating Fuel: Fuel Oil,AL,Wilcox,46,31,32,25,17,5,4,6,0,0
+5,House Heating Fuel: Gas,AL,Wilcox,439,341,356,345,372,349,335,289,232,229
+6,House Heating Fuel: Propane,AL,Wilcox,1092,973,847,845,794,715,664,737,712,769
+7,House Heating Fuel: Wood,AL,Wilcox,78,78,115,111,153,147,120,117,108,51
+3,House Heating Fuel: Electric,AL,Winston,4895,4970,4920,4849,4993,5037,5248,5452,5747,5880
+4,House Heating Fuel: Fuel Oil,AL,Winston,0,2,11,24,36,34,37,52,49,33
+5,House Heating Fuel: Gas,AL,Winston,1886,2182,2202,1999,1942,1939,1713,1521,1374,1395
+6,House Heating Fuel: Propane,AL,Winston,2217,1971,1918,2114,2009,1852,1953,1899,1739,1801
+7,House Heating Fuel: Wood,AL,Winston,351,382,461,461,503,521,463,477,458,463

@@ -1,0 +1,601 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,KY,Adair,4747,4985,5085,5154,5168,5368,5215,5189,5025,4932
+4,House Heating Fuel: Fuel Oil,KY,Adair,270,184,162,167,109,113,108,69,72,78
+5,House Heating Fuel: Gas,KY,Adair,977,957,1036,950,904,644,644,666,764,791
+6,House Heating Fuel: Propane,KY,Adair,648,528,504,468,425,405,491,410,467,458
+7,House Heating Fuel: Wood,KY,Adair,614,539,449,502,518,518,668,760,686,687
+3,House Heating Fuel: Electric,KY,Allen,4767,4969,5175,5196,5290,5154,5270,5458,5502,5662
+4,House Heating Fuel: Fuel Oil,KY,Allen,96,99,96,88,38,13,0,23,22,36
+5,House Heating Fuel: Gas,KY,Allen,1173,1069,980,973,977,900,861,850,899,816
+6,House Heating Fuel: Propane,KY,Allen,1373,1304,1168,1220,1180,1143,1028,972,958,817
+7,House Heating Fuel: Wood,KY,Allen,395,390,522,542,530,542,514,385,303,249
+3,House Heating Fuel: Electric,KY,Anderson,5505,5499,5725,5652,5824,5861,5937,5998,5974,5802
+4,House Heating Fuel: Fuel Oil,KY,Anderson,48,40,42,19,18,21,17,36,45,38
+5,House Heating Fuel: Gas,KY,Anderson,2000,2099,1940,1999,1819,1927,1869,1812,1801,1989
+6,House Heating Fuel: Propane,KY,Anderson,499,451,388,389,418,382,470,463,477,491
+7,House Heating Fuel: Wood,KY,Anderson,256,274,268,260,261,237,249,281,302,331
+3,House Heating Fuel: Electric,KY,Ballard,1398,1559,1568,1600,1683,1690,1727,1812,1655,1480
+4,House Heating Fuel: Fuel Oil,KY,Ballard,0,0,0,7,10,23,23,24,15,28
+5,House Heating Fuel: Gas,KY,Ballard,1288,1164,1085,1071,963,955,869,839,814,934
+6,House Heating Fuel: Propane,KY,Ballard,638,611,707,610,573,568,571,480,546,567
+7,House Heating Fuel: Wood,KY,Ballard,35,16,11,36,37,42,54,62,49,56
+3,House Heating Fuel: Electric,KY,Barren,7457,7733,8124,8250,8318,8748,8612,8611,8446,8755
+4,House Heating Fuel: Fuel Oil,KY,Barren,87,102,91,108,118,86,74,73,75,61
+5,House Heating Fuel: Gas,KY,Barren,5418,5194,5026,4819,4886,4823,4875,5155,5324,5144
+6,House Heating Fuel: Propane,KY,Barren,3006,2928,2797,2612,2626,2402,2243,2252,2284,2270
+7,House Heating Fuel: Wood,KY,Barren,682,657,698,676,701,762,830,691,688,595
+3,House Heating Fuel: Electric,KY,Bath,2374,2472,2392,2371,2225,2028,2108,2293,2605,2823
+4,House Heating Fuel: Fuel Oil,KY,Bath,73,27,33,34,24,14,48,74,73,84
+5,House Heating Fuel: Gas,KY,Bath,913,810,767,751,794,804,884,916,796,819
+6,House Heating Fuel: Propane,KY,Bath,630,642,823,859,743,782,752,580,516,619
+7,House Heating Fuel: Wood,KY,Bath,341,355,406,432,565,608,593,553,521,389
+3,House Heating Fuel: Electric,KY,Bell,7905,7852,8047,8288,8444,8449,8263,8386,8182,7970
+4,House Heating Fuel: Fuel Oil,KY,Bell,287,188,193,141,121,80,49,20,31,106
+5,House Heating Fuel: Gas,KY,Bell,2046,1808,1785,1822,1700,1612,1785,1738,1728,1547
+6,House Heating Fuel: Propane,KY,Bell,171,216,186,200,226,197,154,155,203,291
+7,House Heating Fuel: Wood,KY,Bell,131,222,291,326,419,480,426,417,396,323
+3,House Heating Fuel: Electric,KY,Boone,16453,17191,17949,18582,19389,20288,20699,20860,20698,21341
+4,House Heating Fuel: Fuel Oil,KY,Boone,1423,1239,1197,1284,1223,1099,1067,1025,919,841
+5,House Heating Fuel: Gas,KY,Boone,20210,19954,20070,19905,19717,20028,20468,20737,21115,21285
+6,House Heating Fuel: Propane,KY,Boone,2889,2710,2594,2689,2587,2359,2445,2495,2676,2680
+7,House Heating Fuel: Wood,KY,Boone,488,471,490,466,549,444,484,507,552,469
+3,House Heating Fuel: Electric,KY,Bourbon,3937,3868,4158,4214,4102,4156,4470,4421,4470,4597
+4,House Heating Fuel: Fuel Oil,KY,Bourbon,375,355,334,212,193,215,203,222,190,145
+5,House Heating Fuel: Gas,KY,Bourbon,2752,2754,2607,2494,2593,2675,2571,2704,2684,2579
+6,House Heating Fuel: Propane,KY,Bourbon,725,636,618,669,632,567,590,559,582,560
+7,House Heating Fuel: Wood,KY,Bourbon,181,188,184,213,210,185,130,157,120,158
+3,House Heating Fuel: Electric,KY,Boyd,8797,8815,9116,8920,8891,8820,8769,8572,8779,8312
+4,House Heating Fuel: Fuel Oil,KY,Boyd,134,156,157,151,72,65,18,21,24,60
+5,House Heating Fuel: Gas,KY,Boyd,9653,9480,9328,9537,9572,9516,9646,9523,9097,8998
+6,House Heating Fuel: Propane,KY,Boyd,561,531,526,523,560,502,536,544,455,457
+7,House Heating Fuel: Wood,KY,Boyd,210,307,280,211,244,277,259,299,345,279
+3,House Heating Fuel: Electric,KY,Boyle,4733,4849,4968,5043,5233,5432,5416,5634,5774,5788
+4,House Heating Fuel: Fuel Oil,KY,Boyle,56,59,45,48,48,73,62,64,80,74
+5,House Heating Fuel: Gas,KY,Boyle,5074,5032,5170,5073,4845,4652,4584,4281,4360,4407
+6,House Heating Fuel: Propane,KY,Boyle,515,477,498,502,489,508,477,522,417,354
+7,House Heating Fuel: Wood,KY,Boyle,325,397,407,372,324,325,300,288,278,310
+3,House Heating Fuel: Electric,KY,Bracken,1411,1434,1535,1626,1670,1620,1717,1704,1733,1735
+4,House Heating Fuel: Fuel Oil,KY,Bracken,164,148,111,97,91,98,96,97,108,57
+5,House Heating Fuel: Gas,KY,Bracken,910,842,830,794,805,829,817,846,845,830
+6,House Heating Fuel: Propane,KY,Bracken,415,360,442,403,434,486,465,383,322,305
+7,House Heating Fuel: Wood,KY,Bracken,277,277,287,302,262,233,260,325,311,329
+3,House Heating Fuel: Electric,KY,Breathitt,3134,3218,3203,3137,3197,3238,3142,3159,3189,3113
+4,House Heating Fuel: Fuel Oil,KY,Breathitt,226,198,251,211,165,253,278,305,359,472
+5,House Heating Fuel: Gas,KY,Breathitt,531,554,629,666,824,758,792,835,734,725
+6,House Heating Fuel: Propane,KY,Breathitt,648,597,511,541,501,557,441,421,386,352
+7,House Heating Fuel: Wood,KY,Breathitt,417,459,466,514,537,470,458,446,471,555
+3,House Heating Fuel: Electric,KY,Breckinridge,3127,3503,3527,3645,3771,3837,3834,3900,3926,3887
+4,House Heating Fuel: Fuel Oil,KY,Breckinridge,44,49,61,54,48,49,39,35,28,33
+5,House Heating Fuel: Gas,KY,Breckinridge,1567,1603,1618,1545,1518,1412,1306,1467,1469,1518
+6,House Heating Fuel: Propane,KY,Breckinridge,1962,1758,1551,1287,1172,1161,1244,1165,1272,1344
+7,House Heating Fuel: Wood,KY,Breckinridge,719,558,584,648,791,811,894,885,950,780
+3,House Heating Fuel: Electric,KY,Bullitt,9652,10574,11030,11143,11596,11706,11858,12220,12497,12550
+4,House Heating Fuel: Fuel Oil,KY,Bullitt,285,236,260,297,179,178,168,136,96,89
+5,House Heating Fuel: Gas,KY,Bullitt,14586,14190,13881,13729,13871,13857,13920,14033,14141,14418
+6,House Heating Fuel: Propane,KY,Bullitt,1904,1974,1972,1972,1725,1609,1641,1597,1581,1702
+7,House Heating Fuel: Wood,KY,Bullitt,710,641,572,712,867,836,833,885,892,778
+3,House Heating Fuel: Electric,KY,Butler,2914,2864,2988,2903,3052,3065,3070,3013,2898,2864
+4,House Heating Fuel: Fuel Oil,KY,Butler,21,25,37,104,105,66,46,38,7,35
+5,House Heating Fuel: Gas,KY,Butler,835,771,700,748,767,894,997,1028,1086,1031
+6,House Heating Fuel: Propane,KY,Butler,958,986,920,943,780,779,744,744,722,707
+7,House Heating Fuel: Wood,KY,Butler,372,360,379,410,388,356,282,228,264,295
+3,House Heating Fuel: Electric,KY,Caldwell,1430,1485,1668,1958,2231,2436,2504,2332,2138,2072
+4,House Heating Fuel: Fuel Oil,KY,Caldwell,8,7,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KY,Caldwell,2867,2573,2404,2298,2066,1738,1689,1685,1752,1834
+6,House Heating Fuel: Propane,KY,Caldwell,774,781,794,767,868,993,984,1116,1082,991
+7,House Heating Fuel: Wood,KY,Caldwell,165,173,199,172,126,94,96,112,145,213
+3,House Heating Fuel: Electric,KY,Calloway,6715,6712,7066,7043,7117,7357,7552,7401,7402,7335
+4,House Heating Fuel: Fuel Oil,KY,Calloway,57,82,81,79,72,72,43,30,32,35
+5,House Heating Fuel: Gas,KY,Calloway,5225,5360,5006,4954,4764,4706,4748,4936,4872,5070
+6,House Heating Fuel: Propane,KY,Calloway,2531,2462,2467,2443,2526,2385,2343,2171,2135,2258
+7,House Heating Fuel: Wood,KY,Calloway,264,306,315,344,306,250,236,171,138,201
+3,House Heating Fuel: Electric,KY,Campbell,11704,12071,12431,12709,13077,13162,13745,14306,14657,15071
+4,House Heating Fuel: Fuel Oil,KY,Campbell,1039,1021,1019,1061,1013,883,756,672,563,484
+5,House Heating Fuel: Gas,KY,Campbell,19956,19495,18995,18791,18868,18823,18863,18428,18462,18668
+6,House Heating Fuel: Propane,KY,Campbell,1987,1952,1955,1776,1689,1681,1711,1661,1794,1718
+7,House Heating Fuel: Wood,KY,Campbell,435,483,568,513,548,574,521,456,481,444
+3,House Heating Fuel: Electric,KY,Carlisle,839,761,778,825,837,824,851,898,898,962
+4,House Heating Fuel: Fuel Oil,KY,Carlisle,0,13,18,15,16,15,4,11,17,8
+5,House Heating Fuel: Gas,KY,Carlisle,756,726,782,760,793,685,729,636,597,543
+6,House Heating Fuel: Propane,KY,Carlisle,408,460,468,358,369,474,440,375,437,408
+7,House Heating Fuel: Wood,KY,Carlisle,49,44,22,62,39,55,58,57,60,51
+3,House Heating Fuel: Electric,KY,Carroll,1825,1867,1910,1918,1893,1740,1782,1782,1857,1994
+4,House Heating Fuel: Fuel Oil,KY,Carroll,106,106,87,71,56,65,13,23,12,32
+5,House Heating Fuel: Gas,KY,Carroll,1670,1636,1634,1568,1465,1496,1537,1466,1438,1482
+6,House Heating Fuel: Propane,KY,Carroll,429,401,394,411,402,356,372,395,406,369
+7,House Heating Fuel: Wood,KY,Carroll,160,153,212,264,271,298,283,251,218,195
+3,House Heating Fuel: Electric,KY,Carter,6226,6243,6314,6317,6759,6895,7153,6945,6516,5998
+4,House Heating Fuel: Fuel Oil,KY,Carter,176,158,184,127,97,71,67,59,63,57
+5,House Heating Fuel: Gas,KY,Carter,1383,1414,1310,1235,1043,1009,843,858,870,1104
+6,House Heating Fuel: Propane,KY,Carter,1468,1404,1390,1449,1395,1319,1419,1309,1344,1291
+7,House Heating Fuel: Wood,KY,Carter,1140,1084,1062,1062,1101,1041,996,1146,1028,986
+3,House Heating Fuel: Electric,KY,Casey,3604,3729,3716,3685,3817,4086,4101,4190,4219,4195
+4,House Heating Fuel: Fuel Oil,KY,Casey,91,127,124,122,135,96,81,68,44,45
+5,House Heating Fuel: Gas,KY,Casey,631,538,674,622,587,526,487,327,324,349
+6,House Heating Fuel: Propane,KY,Casey,481,354,284,369,403,412,376,346,266,259
+7,House Heating Fuel: Wood,KY,Casey,1172,1212,1296,1161,1160,1189,1301,1407,1449,1230
+3,House Heating Fuel: Electric,KY,Christian,14034,14291,14479,14395,14304,14010,14095,14122,14410,14481
+4,House Heating Fuel: Fuel Oil,KY,Christian,140,99,95,113,79,54,91,72,89,148
+5,House Heating Fuel: Gas,KY,Christian,9022,9012,9099,8928,9126,9124,8839,8626,8702,8564
+6,House Heating Fuel: Propane,KY,Christian,2188,2104,1814,1807,1707,1748,1768,1889,1900,1922
+7,House Heating Fuel: Wood,KY,Christian,364,398,416,451,383,407,422,371,353,387
+3,House Heating Fuel: Electric,KY,Clark,7577,7445,7764,7819,7709,7575,7893,7910,7821,8001
+4,House Heating Fuel: Fuel Oil,KY,Clark,162,137,116,103,50,60,63,53,54,63
+5,House Heating Fuel: Gas,KY,Clark,5423,5559,5444,5368,5533,5505,5306,5262,5425,5289
+6,House Heating Fuel: Propane,KY,Clark,1048,912,861,741,651,676,587,671,799,855
+7,House Heating Fuel: Wood,KY,Clark,270,267,293,353,301,247,244,225,228,228
+3,House Heating Fuel: Electric,KY,Clay,3731,3867,4192,4304,4805,4613,4629,4565,4456,4240
+4,House Heating Fuel: Fuel Oil,KY,Clay,148,123,129,143,115,66,118,382,475,502
+5,House Heating Fuel: Gas,KY,Clay,1719,1798,1712,1822,1787,1924,1856,1862,1726,1940
+6,House Heating Fuel: Propane,KY,Clay,553,506,460,591,511,626,626,460,358,393
+7,House Heating Fuel: Wood,KY,Clay,132,159,186,166,160,197,240,273,330,338
+3,House Heating Fuel: Electric,KY,Clinton,2491,2496,2496,2581,2634,2638,2774,2978,2935,3020
+4,House Heating Fuel: Fuel Oil,KY,Clinton,175,157,133,92,97,72,63,69,45,38
+5,House Heating Fuel: Gas,KY,Clinton,316,220,232,209,181,201,187,149,97,101
+6,House Heating Fuel: Propane,KY,Clinton,838,762,702,787,730,717,650,586,508,578
+7,House Heating Fuel: Wood,KY,Clinton,364,351,345,270,209,198,158,195,228,238
+3,House Heating Fuel: Electric,KY,Crittenden,1556,1749,1703,1817,1804,1756,1666,1716,1711,1661
+4,House Heating Fuel: Fuel Oil,KY,Crittenden,62,61,94,48,70,60,60,20,13,0
+5,House Heating Fuel: Gas,KY,Crittenden,813,753,758,739,712,786,832,834,748,794
+6,House Heating Fuel: Propane,KY,Crittenden,948,916,896,874,951,861,838,872,905,822
+7,House Heating Fuel: Wood,KY,Crittenden,326,332,335,273,254,266,276,223,224,235
+3,House Heating Fuel: Electric,KY,Cumberland,1733,1687,1762,1665,1809,1844,1965,1977,2187,1909
+4,House Heating Fuel: Fuel Oil,KY,Cumberland,2,2,10,29,31,42,32,22,7,8
+5,House Heating Fuel: Gas,KY,Cumberland,300,232,200,185,193,205,219,214,167,170
+6,House Heating Fuel: Propane,KY,Cumberland,208,249,194,262,265,292,243,242,163,202
+7,House Heating Fuel: Wood,KY,Cumberland,403,498,439,463,386,360,312,254,245,311
+3,House Heating Fuel: Electric,KY,Daviess,9798,10302,10724,10715,11617,11241,11397,11610,11555,11164
+4,House Heating Fuel: Fuel Oil,KY,Daviess,84,79,75,72,36,67,67,35,34,73
+5,House Heating Fuel: Gas,KY,Daviess,25374,24699,24553,24585,23967,25235,25942,25738,25911,26629
+6,House Heating Fuel: Propane,KY,Daviess,1975,1824,1761,1811,1801,1525,1423,1699,1817,1807
+7,House Heating Fuel: Wood,KY,Daviess,262,229,308,326,366,308,298,291,302,331
+3,House Heating Fuel: Electric,KY,Edmonson,3391,3482,3583,3627,3593,3568,3517,3818,3809,3748
+4,House Heating Fuel: Fuel Oil,KY,Edmonson,0,0,7,10,7,34,37,24,28,28
+5,House Heating Fuel: Gas,KY,Edmonson,233,223,162,92,85,86,132,123,182,185
+6,House Heating Fuel: Propane,KY,Edmonson,792,696,724,712,692,679,745,652,557,539
+7,House Heating Fuel: Wood,KY,Edmonson,319,369,334,317,350,286,256,247,288,354
+3,House Heating Fuel: Electric,KY,Elliott,1251,1180,1177,1177,1329,1268,1113,1094,1210,1089
+4,House Heating Fuel: Fuel Oil,KY,Elliott,64,33,32,15,17,0,0,14,13,11
+5,House Heating Fuel: Gas,KY,Elliott,61,112,148,175,185,208,239,216,142,137
+6,House Heating Fuel: Propane,KY,Elliott,701,703,713,719,611,564,586,610,617,698
+7,House Heating Fuel: Wood,KY,Elliott,388,487,351,456,583,654,635,650,508,488
+3,House Heating Fuel: Electric,KY,Estill,2738,2835,2927,3018,2846,2730,2672,2690,2606,2733
+4,House Heating Fuel: Fuel Oil,KY,Estill,52,54,56,46,82,98,146,167,125,48
+5,House Heating Fuel: Gas,KY,Estill,1667,1582,1483,1369,1336,1461,1458,1460,1452,1484
+6,House Heating Fuel: Propane,KY,Estill,643,717,679,711,671,784,670,715,797,753
+7,House Heating Fuel: Wood,KY,Estill,464,470,637,662,749,654,642,566,474,446
+3,House Heating Fuel: Electric,KY,Fayette,60052,61491,63189,64328,66024,67822,70020,70270,71216,72255
+4,House Heating Fuel: Fuel Oil,KY,Fayette,211,228,274,196,189,176,148,169,137,164
+5,House Heating Fuel: Gas,KY,Fayette,59206,58906,57944,57261,56421,56114,54639,55059,55632,55492
+6,House Heating Fuel: Propane,KY,Fayette,839,805,730,691,805,887,922,980,993,1060
+7,House Heating Fuel: Wood,KY,Fayette,385,378,398,350,266,245,192,188,205,199
+3,House Heating Fuel: Electric,KY,Fleming,3400,3519,3445,3380,3353,3442,3521,3599,3721,3662
+4,House Heating Fuel: Fuel Oil,KY,Fleming,147,113,68,59,60,42,31,43,34,29
+5,House Heating Fuel: Gas,KY,Fleming,542,532,455,415,472,412,463,551,517,515
+6,House Heating Fuel: Propane,KY,Fleming,704,636,643,652,672,742,747,709,759,707
+7,House Heating Fuel: Wood,KY,Fleming,749,767,812,950,917,923,869,865,790,835
+3,House Heating Fuel: Electric,KY,Floyd,8927,9235,9378,9294,9583,9327,9223,9340,9515,9422
+4,House Heating Fuel: Fuel Oil,KY,Floyd,396,400,361,262,246,257,240,227,276,279
+5,House Heating Fuel: Gas,KY,Floyd,5421,5230,5107,5106,4840,5126,4896,4660,4530,4499
+6,House Heating Fuel: Propane,KY,Floyd,438,368,392,400,364,335,469,504,530,539
+7,House Heating Fuel: Wood,KY,Floyd,178,180,167,141,200,178,187,236,230,179
+3,House Heating Fuel: Electric,KY,Franklin,8668,8899,9176,9240,9434,9379,9319,9447,9740,9972
+4,House Heating Fuel: Fuel Oil,KY,Franklin,108,94,101,105,117,97,80,69,44,43
+5,House Heating Fuel: Gas,KY,Franklin,10455,10360,10053,10213,10136,10121,10161,9942,9831,9704
+6,House Heating Fuel: Propane,KY,Franklin,1108,1052,1142,1018,959,1018,1082,951,917,939
+7,House Heating Fuel: Wood,KY,Franklin,375,390,374,405,341,361,301,331,293,363
+3,House Heating Fuel: Electric,KY,Fulton,1156,1127,1162,1056,1013,1028,1191,1150,1165,1145
+4,House Heating Fuel: Fuel Oil,KY,Fulton,24,35,20,27,30,9,0,0,0,0
+5,House Heating Fuel: Gas,KY,Fulton,1251,1296,1327,1203,1186,1125,987,928,990,951
+6,House Heating Fuel: Propane,KY,Fulton,421,338,377,379,360,331,345,296,271,260
+7,House Heating Fuel: Wood,KY,Fulton,62,72,59,69,65,60,61,72,73,56
+3,House Heating Fuel: Electric,KY,Gallatin,1507,1699,1600,1665,1700,1843,1845,2017,2065,2074
+4,House Heating Fuel: Fuel Oil,KY,Gallatin,79,56,94,96,70,75,80,94,102,110
+5,House Heating Fuel: Gas,KY,Gallatin,449,356,422,448,491,454,400,369,351,343
+6,House Heating Fuel: Propane,KY,Gallatin,736,679,700,637,652,579,509,397,385,404
+7,House Heating Fuel: Wood,KY,Gallatin,151,161,154,110,92,80,77,80,120,130
+3,House Heating Fuel: Electric,KY,Garrard,4257,4552,4366,4638,4743,4933,4942,5096,5095,5009
+4,House Heating Fuel: Fuel Oil,KY,Garrard,34,54,54,39,73,83,63,50,45,10
+5,House Heating Fuel: Gas,KY,Garrard,1104,932,918,831,912,815,906,865,834,823
+6,House Heating Fuel: Propane,KY,Garrard,356,280,315,400,407,439,528,552,472,487
+7,House Heating Fuel: Wood,KY,Garrard,521,549,559,345,368,253,202,281,296,302
+3,House Heating Fuel: Electric,KY,Grant,3970,4216,4567,4347,4301,4384,4243,4273,4634,4849
+4,House Heating Fuel: Fuel Oil,KY,Grant,1066,972,841,775,792,774,816,892,840,836
+5,House Heating Fuel: Gas,KY,Grant,1465,1223,1050,929,950,921,1110,1118,1068,1237
+6,House Heating Fuel: Propane,KY,Grant,1967,1757,1683,1720,1674,1637,1588,1641,1616,1562
+7,House Heating Fuel: Wood,KY,Grant,409,542,470,487,488,526,502,652,633,590
+3,House Heating Fuel: Electric,KY,Graves,5052,5170,5232,5158,5139,5082,5033,4874,5120,4970
+4,House Heating Fuel: Fuel Oil,KY,Graves,88,94,76,45,51,42,40,38,44,29
+5,House Heating Fuel: Gas,KY,Graves,5431,5460,5434,5385,5259,5591,5378,5717,5777,5825
+6,House Heating Fuel: Propane,KY,Graves,3665,3642,3581,3432,3359,3118,3153,3019,3037,3012
+7,House Heating Fuel: Wood,KY,Graves,376,357,304,341,392,475,556,540,403,422
+3,House Heating Fuel: Electric,KY,Grayson,5916,5918,6077,6036,5963,6200,6164,6121,6340,6248
+4,House Heating Fuel: Fuel Oil,KY,Grayson,114,122,114,76,61,10,1,5,3,3
+5,House Heating Fuel: Gas,KY,Grayson,1197,1306,1254,1458,1560,1526,1387,1332,1308,1261
+6,House Heating Fuel: Propane,KY,Grayson,1928,1795,1665,1499,1418,1259,1324,1337,1441,1496
+7,House Heating Fuel: Wood,KY,Grayson,713,751,791,776,797,781,798,726,600,654
+3,House Heating Fuel: Electric,KY,Green,2281,2182,2218,2269,2241,2170,2295,2406,2382,2417
+4,House Heating Fuel: Fuel Oil,KY,Green,93,113,82,52,20,60,53,53,81,70
+5,House Heating Fuel: Gas,KY,Green,844,876,866,865,874,874,853,908,866,836
+6,House Heating Fuel: Propane,KY,Green,848,857,777,701,610,616,581,467,498,472
+7,House Heating Fuel: Wood,KY,Green,354,389,532,596,711,739,725,610,624,599
+3,House Heating Fuel: Electric,KY,Greenup,5331,5635,6066,6342,6448,6235,6363,6063,5953,5954
+4,House Heating Fuel: Fuel Oil,KY,Greenup,239,243,194,220,159,129,102,89,41,108
+5,House Heating Fuel: Gas,KY,Greenup,6718,6298,6166,6043,5700,5907,5867,5862,6021,6030
+6,House Heating Fuel: Propane,KY,Greenup,1215,1181,1086,1049,1125,1172,1306,1372,1356,1324
+7,House Heating Fuel: Wood,KY,Greenup,684,751,720,692,701,653,606,617,602,545
+3,House Heating Fuel: Electric,KY,Hancock,1067,1196,1232,1279,1257,1220,1193,1194,1180,1296
+4,House Heating Fuel: Fuel Oil,KY,Hancock,31,21,18,10,9,6,10,10,8,3
+5,House Heating Fuel: Gas,KY,Hancock,1397,1426,1368,1384,1434,1383,1369,1365,1409,1350
+6,House Heating Fuel: Propane,KY,Hancock,471,428,410,460,465,485,506,519,482,466
+7,House Heating Fuel: Wood,KY,Hancock,263,233,223,220,188,153,152,245,186,159
+3,House Heating Fuel: Electric,KY,Hardin,24325,25097,25907,26274,27167,27672,27646,28151,28302,29030
+4,House Heating Fuel: Fuel Oil,KY,Hardin,542,473,335,310,293,301,361,267,293,211
+5,House Heating Fuel: Gas,KY,Hardin,9286,9285,9452,9517,9135,9087,9172,9416,9256,9216
+6,House Heating Fuel: Propane,KY,Hardin,2183,2034,2048,2104,2273,2261,2184,2237,2172,2169
+7,House Heating Fuel: Wood,KY,Hardin,784,805,1018,1013,931,928,835,674,728,596
+3,House Heating Fuel: Electric,KY,Harlan,8852,8897,9306,9618,9482,9644,9603,9457,9557,9405
+4,House Heating Fuel: Fuel Oil,KY,Harlan,495,482,433,376,375,433,319,297,254,207
+5,House Heating Fuel: Gas,KY,Harlan,169,169,221,229,217,261,324,350,395,444
+6,House Heating Fuel: Propane,KY,Harlan,426,416,443,444,387,304,315,332,327,396
+7,House Heating Fuel: Wood,KY,Harlan,177,148,132,178,217,222,302,309,298,376
+3,House Heating Fuel: Electric,KY,Harrison,3221,3352,3772,3742,3956,3923,3844,3789,4036,4039
+4,House Heating Fuel: Fuel Oil,KY,Harrison,314,307,289,297,271,189,136,146,87,150
+5,House Heating Fuel: Gas,KY,Harrison,1883,1747,1469,1487,1419,1558,1690,1662,1566,1615
+6,House Heating Fuel: Propane,KY,Harrison,1087,1088,1123,1085,1109,1039,1072,1100,1032,1062
+7,House Heating Fuel: Wood,KY,Harrison,674,572,525,507,450,306,274,213,226,228
+3,House Heating Fuel: Electric,KY,Hart,3812,3788,3745,3900,3864,3886,3940,4037,4139,4148
+4,House Heating Fuel: Fuel Oil,KY,Hart,37,25,77,88,91,111,99,72,69,55
+5,House Heating Fuel: Gas,KY,Hart,1371,1222,1254,1225,1265,1344,1410,1332,1287,1338
+6,House Heating Fuel: Propane,KY,Hart,1129,1078,1077,1013,972,990,998,982,898,961
+7,House Heating Fuel: Wood,KY,Hart,644,746,763,843,897,944,914,886,877,798
+3,House Heating Fuel: Electric,KY,Henderson,7847,7955,8388,8881,9395,9735,9972,9689,9420,9506
+4,House Heating Fuel: Fuel Oil,KY,Henderson,83,61,44,26,39,35,24,27,43,38
+5,House Heating Fuel: Gas,KY,Henderson,8992,9077,8663,8284,7852,7441,7447,7680,7672,7796
+6,House Heating Fuel: Propane,KY,Henderson,1238,1302,1356,1372,1339,1231,1194,1062,1113,1096
+7,House Heating Fuel: Wood,KY,Henderson,287,195,159,138,154,209,197,200,214,183
+3,House Heating Fuel: Electric,KY,Henry,2899,3182,3301,3288,3310,3394,3250,3214,3296,3550
+4,House Heating Fuel: Fuel Oil,KY,Henry,68,63,38,68,94,133,98,111,103,77
+5,House Heating Fuel: Gas,KY,Henry,1275,1309,1217,1261,1279,1230,1350,1430,1428,1364
+6,House Heating Fuel: Propane,KY,Henry,1423,1247,1213,1081,891,840,859,879,796,790
+7,House Heating Fuel: Wood,KY,Henry,224,207,197,260,340,339,375,427,332,246
+3,House Heating Fuel: Electric,KY,Hickman,581,576,567,691,741,727,681,690,567,564
+4,House Heating Fuel: Fuel Oil,KY,Hickman,0,0,0,0,14,16,13,9,12,0
+5,House Heating Fuel: Gas,KY,Hickman,542,546,505,477,434,467,425,511,597,589
+6,House Heating Fuel: Propane,KY,Hickman,831,770,728,680,671,666,629,608,587,596
+7,House Heating Fuel: Wood,KY,Hickman,82,82,169,124,117,76,74,7,25,21
+3,House Heating Fuel: Electric,KY,Hopkins,8499,8530,8618,8576,8667,8852,8917,9249,9592,9675
+4,House Heating Fuel: Fuel Oil,KY,Hopkins,23,15,17,15,17,17,14,42,41,34
+5,House Heating Fuel: Gas,KY,Hopkins,8263,8399,8344,8567,8595,8447,8104,7884,7606,7561
+6,House Heating Fuel: Propane,KY,Hopkins,1102,1086,1055,902,829,795,784,793,790,814
+7,House Heating Fuel: Wood,KY,Hopkins,388,365,358,330,317,327,380,386,329,292
+3,House Heating Fuel: Electric,KY,Jackson,4112,3876,3931,4073,3868,4052,4107,4010,3986,3950
+4,House Heating Fuel: Fuel Oil,KY,Jackson,162,144,159,104,77,114,118,183,323,461
+5,House Heating Fuel: Gas,KY,Jackson,209,226,250,190,300,193,294,247,206,131
+6,House Heating Fuel: Propane,KY,Jackson,678,609,553,443,464,334,257,236,238,283
+7,House Heating Fuel: Wood,KY,Jackson,504,612,764,810,856,778,626,609,535,484
+3,House Heating Fuel: Electric,KY,Jefferson,78869,82781,88341,93505,96574,99868,103050,103443,105202,108032
+4,House Heating Fuel: Fuel Oil,KY,Jefferson,918,721,668,659,575,644,651,590,547,553
+5,House Heating Fuel: Gas,KY,Jefferson,215098,212513,209329,206145,203583,201053,201233,200677,199039,198465
+6,House Heating Fuel: Propane,KY,Jefferson,3563,3276,3231,3189,3138,2668,2566,2433,2626,2679
+7,House Heating Fuel: Wood,KY,Jefferson,425,415,553,600,771,707,656,496,531,577
+3,House Heating Fuel: Electric,KY,Jessamine,10300,10812,11190,11223,11213,11166,11570,11829,11901,11970
+4,House Heating Fuel: Fuel Oil,KY,Jessamine,41,30,39,57,60,48,67,49,41,29
+5,House Heating Fuel: Gas,KY,Jessamine,6057,6032,5863,5794,5828,6006,5674,5606,5816,5901
+6,House Heating Fuel: Propane,KY,Jessamine,609,520,508,589,635,630,641,643,551,484
+7,House Heating Fuel: Wood,KY,Jessamine,371,349,314,317,320,352,290,237,267,246
+3,House Heating Fuel: Electric,KY,Johnson,5760,6270,6249,5943,6022,5892,5872,5998,6034,5857
+4,House Heating Fuel: Fuel Oil,KY,Johnson,411,293,250,164,190,215,186,165,141,112
+5,House Heating Fuel: Gas,KY,Johnson,2064,1945,2012,1934,1806,1856,1674,1503,1538,1442
+6,House Heating Fuel: Propane,KY,Johnson,520,452,457,548,495,495,547,503,539,618
+7,House Heating Fuel: Wood,KY,Johnson,165,203,249,361,360,331,312,326,310,328
+3,House Heating Fuel: Electric,KY,Kenton,19149,19777,20733,21578,22633,23350,24119,24745,25217,25566
+4,House Heating Fuel: Fuel Oil,KY,Kenton,2152,2086,1925,1710,1570,1576,1468,1501,1526,1411
+5,House Heating Fuel: Gas,KY,Kenton,37782,37024,36521,35371,34601,33937,33725,33043,33201,33610
+6,House Heating Fuel: Propane,KY,Kenton,2092,2266,2194,2137,2119,2054,1963,1920,1965,1837
+7,House Heating Fuel: Wood,KY,Kenton,414,486,482,422,361,456,451,606,676,584
+3,House Heating Fuel: Electric,KY,Knott,3301,3258,3423,3484,3356,3417,3481,3480,3581,3425
+4,House Heating Fuel: Fuel Oil,KY,Knott,127,149,128,129,124,90,47,45,62,101
+5,House Heating Fuel: Gas,KY,Knott,1976,1946,1768,1844,1932,2073,2044,2199,2261,2361
+6,House Heating Fuel: Propane,KY,Knott,308,260,305,217,182,190,241,205,224,224
+7,House Heating Fuel: Wood,KY,Knott,110,116,71,85,96,134,141,131,121,145
+3,House Heating Fuel: Electric,KY,Knox,7294,7576,7588,7947,7603,7300,7381,7467,7108,6851
+4,House Heating Fuel: Fuel Oil,KY,Knox,143,110,105,70,82,101,54,84,62,85
+5,House Heating Fuel: Gas,KY,Knox,3984,3855,3851,3588,3913,4079,3839,3545,3900,3937
+6,House Heating Fuel: Propane,KY,Knox,448,328,293,248,341,433,450,465,449,391
+7,House Heating Fuel: Wood,KY,Knox,309,266,243,229,279,331,403,471,473,507
+3,House Heating Fuel: Electric,KY,Larue,2699,2767,3127,3217,3290,3419,3603,3490,3683,3725
+4,House Heating Fuel: Fuel Oil,KY,Larue,269,311,290,250,229,141,151,159,181,178
+5,House Heating Fuel: Gas,KY,Larue,1198,1141,1132,1129,1128,1032,924,957,957,843
+6,House Heating Fuel: Propane,KY,Larue,500,569,514,432,422,470,487,495,473,597
+7,House Heating Fuel: Wood,KY,Larue,249,187,197,185,207,248,295,339,302,314
+3,House Heating Fuel: Electric,KY,Laurel,16525,17222,17561,18033,18423,18519,18134,18155,17956,17586
+4,House Heating Fuel: Fuel Oil,KY,Laurel,650,627,541,645,464,416,370,321,297,320
+5,House Heating Fuel: Gas,KY,Laurel,2672,2486,2761,2638,2525,2613,2707,2725,2613,2603
+6,House Heating Fuel: Propane,KY,Laurel,1292,1106,1067,1030,1093,1026,1118,1134,1132,1224
+7,House Heating Fuel: Wood,KY,Laurel,419,429,422,424,522,462,579,552,576,647
+3,House Heating Fuel: Electric,KY,Lawrence,3205,3433,3321,3365,3420,3377,3484,3688,3601,3406
+4,House Heating Fuel: Fuel Oil,KY,Lawrence,119,143,89,99,102,135,129,123,136,104
+5,House Heating Fuel: Gas,KY,Lawrence,1369,1265,1137,1181,1269,1284,1245,1237,1019,1077
+6,House Heating Fuel: Propane,KY,Lawrence,499,497,471,430,459,559,641,699,680,657
+7,House Heating Fuel: Wood,KY,Lawrence,333,377,556,634,604,599,536,399,375,400
+3,House Heating Fuel: Electric,KY,Lee,1512,1398,1370,1523,1461,1464,1498,1510,1526,1594
+4,House Heating Fuel: Fuel Oil,KY,Lee,50,76,80,112,164,203,250,302,347,329
+5,House Heating Fuel: Gas,KY,Lee,377,415,379,328,364,304,268,311,339,271
+6,House Heating Fuel: Propane,KY,Lee,524,557,548,552,545,466,412,380,344,333
+7,House Heating Fuel: Wood,KY,Lee,222,332,396,411,401,409,376,328,282,294
+3,House Heating Fuel: Electric,KY,Leslie,3553,3456,3291,3238,3329,3258,3118,3184,3058,2983
+4,House Heating Fuel: Fuel Oil,KY,Leslie,116,148,117,50,19,21,22,24,21,10
+5,House Heating Fuel: Gas,KY,Leslie,238,284,275,257,155,147,144,201,212,200
+6,House Heating Fuel: Propane,KY,Leslie,57,106,157,178,252,255,262,301,436,268
+7,House Heating Fuel: Wood,KY,Leslie,160,135,217,263,313,339,431,377,290,402
+3,House Heating Fuel: Electric,KY,Letcher,8028,7620,7611,7451,7441,7528,8120,8273,8248,7996
+4,House Heating Fuel: Fuel Oil,KY,Letcher,234,220,181,256,239,233,195,169,99,48
+5,House Heating Fuel: Gas,KY,Letcher,260,311,455,547,575,612,599,442,371,365
+6,House Heating Fuel: Propane,KY,Letcher,387,415,378,433,425,474,498,556,597,745
+7,House Heating Fuel: Wood,KY,Letcher,159,206,219,208,277,261,246,257,247,196
+3,House Heating Fuel: Electric,KY,Lewis,2261,2238,2069,2151,2332,2463,2568,2823,2973,2842
+4,House Heating Fuel: Fuel Oil,KY,Lewis,47,13,33,29,53,50,55,46,58,32
+5,House Heating Fuel: Gas,KY,Lewis,668,655,744,696,706,724,719,653,589,542
+6,House Heating Fuel: Propane,KY,Lewis,1024,849,908,930,995,1035,1024,1007,962,955
+7,House Heating Fuel: Wood,KY,Lewis,1006,1183,1128,1161,1084,1043,990,889,772,859
+3,House Heating Fuel: Electric,KY,Lincoln,6346,6507,6718,6541,6525,6630,6857,6919,6791,6789
+4,House Heating Fuel: Fuel Oil,KY,Lincoln,366,259,287,222,230,129,114,71,110,118
+5,House Heating Fuel: Gas,KY,Lincoln,1232,1179,1203,1211,1241,1273,1161,1219,1190,944
+6,House Heating Fuel: Propane,KY,Lincoln,853,793,564,479,465,461,297,317,338,405
+7,House Heating Fuel: Wood,KY,Lincoln,1148,1022,939,1192,1180,1172,1176,1177,1005,1116
+3,House Heating Fuel: Electric,KY,Livingston,1768,1880,2000,1780,1870,1899,1838,1914,1895,1823
+4,House Heating Fuel: Fuel Oil,KY,Livingston,55,36,20,36,0,12,26,29,30,31
+5,House Heating Fuel: Gas,KY,Livingston,319,309,308,322,342,458,438,455,437,411
+6,House Heating Fuel: Propane,KY,Livingston,1352,1269,1088,1235,1309,1287,1381,1445,1472,1409
+7,House Heating Fuel: Wood,KY,Livingston,77,54,133,190,173,136,172,123,90,135
+3,House Heating Fuel: Electric,KY,Logan,3748,4070,3939,4025,4078,4196,4131,4329,4163,4137
+4,House Heating Fuel: Fuel Oil,KY,Logan,77,4,56,61,82,76,67,19,26,8
+5,House Heating Fuel: Gas,KY,Logan,3305,3219,3251,3257,3157,3127,3303,3368,3296,3133
+6,House Heating Fuel: Propane,KY,Logan,3120,3225,3188,3205,3101,3034,2828,2697,2667,2676
+7,House Heating Fuel: Wood,KY,Logan,339,436,444,338,412,407,334,338,393,441
+3,House Heating Fuel: Electric,KY,Lyon,1518,1520,1624,1680,1662,1780,1978,2063,1927,1890
+4,House Heating Fuel: Fuel Oil,KY,Lyon,3,2,10,11,11,10,5,0,0,0
+5,House Heating Fuel: Gas,KY,Lyon,959,1044,984,938,930,810,671,646,625,699
+6,House Heating Fuel: Propane,KY,Lyon,718,639,568,571,538,512,583,545,604,554
+7,House Heating Fuel: Wood,KY,Lyon,74,63,74,60,85,83,80,109,102,71
+3,House Heating Fuel: Electric,KY,McCracken,9598,9515,9764,9814,10177,10526,11340,11286,11877,11883
+4,House Heating Fuel: Fuel Oil,KY,McCracken,196,217,212,133,113,86,33,33,34,30
+5,House Heating Fuel: Gas,KY,McCracken,15213,15063,15050,14675,14777,14453,14289,13897,13803,13813
+6,House Heating Fuel: Propane,KY,McCracken,2119,2015,1913,2080,2039,2123,1950,1998,1801,1850
+7,House Heating Fuel: Wood,KY,McCracken,277,254,252,226,147,113,125,85,99,105
+3,House Heating Fuel: Electric,KY,McCreary,4241,4505,4666,4549,4376,4310,4216,4185,4216,4216
+4,House Heating Fuel: Fuel Oil,KY,McCreary,441,357,267,246,183,197,207,327,247,216
+5,House Heating Fuel: Gas,KY,McCreary,347,320,286,309,312,440,480,441,429,369
+6,House Heating Fuel: Propane,KY,McCreary,450,310,252,232,304,286,374,404,410,383
+7,House Heating Fuel: Wood,KY,McCreary,859,807,775,934,983,994,952,967,895,838
+3,House Heating Fuel: Electric,KY,McLean,1802,1936,1905,2027,2040,2053,2065,2193,2182,2071
+4,House Heating Fuel: Fuel Oil,KY,McLean,33,36,40,25,26,46,33,25,27,23
+5,House Heating Fuel: Gas,KY,McLean,1156,1145,1096,999,935,921,895,896,886,854
+6,House Heating Fuel: Propane,KY,McLean,629,545,518,562,595,569,591,567,578,714
+7,House Heating Fuel: Wood,KY,McLean,104,76,86,97,76,99,105,107,113,132
+3,House Heating Fuel: Electric,KY,Madison,22703,23253,23871,24447,24994,25372,25983,26577,26445,26451
+4,House Heating Fuel: Fuel Oil,KY,Madison,270,280,198,109,93,75,78,95,90,110
+5,House Heating Fuel: Gas,KY,Madison,6063,5941,5755,5627,5457,5209,5005,4915,5143,5168
+6,House Heating Fuel: Propane,KY,Madison,1104,1092,983,810,683,819,757,778,832,844
+7,House Heating Fuel: Wood,KY,Madison,435,356,321,324,341,437,431,483,461,508
+3,House Heating Fuel: Electric,KY,Magoffin,2649,2656,2844,2735,2683,2704,2830,2769,2719,2536
+4,House Heating Fuel: Fuel Oil,KY,Magoffin,139,142,123,80,118,142,123,172,152,137
+5,House Heating Fuel: Gas,KY,Magoffin,1004,1154,1268,1129,1049,1120,1087,1140,1269,1357
+6,House Heating Fuel: Propane,KY,Magoffin,684,670,577,747,776,687,668,663,664,725
+7,House Heating Fuel: Wood,KY,Magoffin,111,120,143,194,214,233,209,202,187,199
+3,House Heating Fuel: Electric,KY,Marion,3568,3905,3876,3945,4030,4010,4117,4103,3891,4037
+4,House Heating Fuel: Fuel Oil,KY,Marion,80,144,143,138,145,81,75,65,61,45
+5,House Heating Fuel: Gas,KY,Marion,1858,1717,1873,1843,1639,1781,1734,1758,2002,2047
+6,House Heating Fuel: Propane,KY,Marion,1057,933,973,951,1072,987,1013,904,940,821
+7,House Heating Fuel: Wood,KY,Marion,481,451,510,434,463,468,434,469,495,391
+3,House Heating Fuel: Electric,KY,Marshall,5067,5191,4909,4797,5073,5111,5273,5285,5324,5068
+4,House Heating Fuel: Fuel Oil,KY,Marshall,50,24,25,30,50,52,42,46,35,23
+5,House Heating Fuel: Gas,KY,Marshall,5058,4779,4965,4623,4890,4970,5072,5449,5763,5849
+6,House Heating Fuel: Propane,KY,Marshall,2256,2064,1994,2107,2070,2141,2175,2055,1953,1936
+7,House Heating Fuel: Wood,KY,Marshall,328,340,354,390,287,275,235,238,273,200
+3,House Heating Fuel: Electric,KY,Martin,2488,2492,2514,2434,2348,2366,2438,2534,2473,2476
+4,House Heating Fuel: Fuel Oil,KY,Martin,160,138,61,68,41,54,33,38,115,83
+5,House Heating Fuel: Gas,KY,Martin,1366,1388,1471,1462,1532,1361,1362,1283,1156,1160
+6,House Heating Fuel: Propane,KY,Martin,167,213,194,287,294,265,164,230,188,181
+7,House Heating Fuel: Wood,KY,Martin,107,95,83,71,80,174,192,169,122,180
+3,House Heating Fuel: Electric,KY,Mason,2983,2862,3132,3164,3183,3262,3403,3430,3473,3609
+4,House Heating Fuel: Fuel Oil,KY,Mason,130,115,74,63,49,43,30,29,28,24
+5,House Heating Fuel: Gas,KY,Mason,2860,2942,2855,2599,2540,2531,2427,2355,2324,2298
+6,House Heating Fuel: Propane,KY,Mason,435,384,383,384,480,509,509,500,521,417
+7,House Heating Fuel: Wood,KY,Mason,231,240,243,271,296,293,325,335,318,306
+3,House Heating Fuel: Electric,KY,Meade,5535,5637,6060,6373,6628,6763,6970,7113,7344,7336
+4,House Heating Fuel: Fuel Oil,KY,Meade,131,97,76,58,48,53,68,70,50,50
+5,House Heating Fuel: Gas,KY,Meade,2178,2153,2005,1749,1661,1376,1321,1376,1303,1315
+6,House Heating Fuel: Propane,KY,Meade,1703,1832,1738,1799,1863,1961,1749,1622,1415,1472
+7,House Heating Fuel: Wood,KY,Meade,447,414,353,345,326,343,446,501,425,445
+3,House Heating Fuel: Electric,KY,Menifee,1242,1170,1280,1191,1212,1234,1265,1251,1210,1096
+4,House Heating Fuel: Fuel Oil,KY,Menifee,9,25,26,29,34,14,0,0,0,0
+5,House Heating Fuel: Gas,KY,Menifee,303,255,297,271,253,346,360,369,435,564
+6,House Heating Fuel: Propane,KY,Menifee,469,386,494,565,554,503,530,524,568,607
+7,House Heating Fuel: Wood,KY,Menifee,312,331,250,319,343,318,354,380,363,358
+3,House Heating Fuel: Electric,KY,Mercer,4696,4808,4752,5151,5390,5508,5387,5435,5116,5230
+4,House Heating Fuel: Fuel Oil,KY,Mercer,74,57,34,32,38,9,14,21,34,42
+5,House Heating Fuel: Gas,KY,Mercer,2812,2531,2808,2657,2510,2491,2674,2438,2591,2459
+6,House Heating Fuel: Propane,KY,Mercer,689,617,571,557,496,481,511,515,574,569
+7,House Heating Fuel: Wood,KY,Mercer,178,280,295,310,286,278,190,203,232,226
+3,House Heating Fuel: Electric,KY,Metcalfe,1921,1942,1935,1862,1879,2006,2013,1917,1943,2034
+4,House Heating Fuel: Fuel Oil,KY,Metcalfe,69,27,23,34,58,55,34,51,17,12
+5,House Heating Fuel: Gas,KY,Metcalfe,881,840,851,879,953,970,1056,1145,1105,1125
+6,House Heating Fuel: Propane,KY,Metcalfe,591,608,509,471,347,296,294,288,355,362
+7,House Heating Fuel: Wood,KY,Metcalfe,491,582,595,646,650,583,460,496,510,509
+3,House Heating Fuel: Electric,KY,Monroe,2150,2280,2235,2363,2397,2415,2358,2283,2284,2467
+4,House Heating Fuel: Fuel Oil,KY,Monroe,72,92,123,119,90,70,64,29,26,19
+5,House Heating Fuel: Gas,KY,Monroe,1068,1079,1121,1097,1103,1012,1011,1128,1143,1223
+6,House Heating Fuel: Propane,KY,Monroe,438,376,392,388,450,572,568,503,521,377
+7,House Heating Fuel: Wood,KY,Monroe,601,513,552,406,388,366,412,406,405,369
+3,House Heating Fuel: Electric,KY,Montgomery,5970,6126,6177,6281,6394,6264,6304,6492,6661,6667
+4,House Heating Fuel: Fuel Oil,KY,Montgomery,150,129,140,125,161,124,106,82,58,22
+5,House Heating Fuel: Gas,KY,Montgomery,3164,3127,2978,2900,2782,2791,2768,2753,2742,2788
+6,House Heating Fuel: Propane,KY,Montgomery,607,587,469,528,531,642,676,748,688,638
+7,House Heating Fuel: Wood,KY,Montgomery,142,186,295,314,390,386,318,273,263,319
+3,House Heating Fuel: Electric,KY,Morgan,2664,2663,2630,2578,2582,2522,2625,2649,2736,2750
+4,House Heating Fuel: Fuel Oil,KY,Morgan,63,49,41,69,80,58,80,60,52,65
+5,House Heating Fuel: Gas,KY,Morgan,451,416,430,442,542,504,521,516,444,324
+6,House Heating Fuel: Propane,KY,Morgan,824,1002,1020,963,920,1008,983,1081,1103,1221
+7,House Heating Fuel: Wood,KY,Morgan,281,293,339,480,555,595,634,540,548,466
+3,House Heating Fuel: Electric,KY,Muhlenberg,6710,6745,6754,6921,6767,6771,6796,6900,6687,6691
+4,House Heating Fuel: Fuel Oil,KY,Muhlenberg,40,48,22,19,50,59,51,62,80,34
+5,House Heating Fuel: Gas,KY,Muhlenberg,4459,4334,4270,3908,3834,3742,3753,3488,3536,3436
+6,House Heating Fuel: Propane,KY,Muhlenberg,883,755,769,777,696,639,647,655,757,933
+7,House Heating Fuel: Wood,KY,Muhlenberg,239,187,131,211,225,282,233,281,229,212
+3,House Heating Fuel: Electric,KY,Nelson,11020,11212,11690,11817,11867,11973,12293,12138,12343,12692
+4,House Heating Fuel: Fuel Oil,KY,Nelson,445,348,373,377,342,315,269,235,248,229
+5,House Heating Fuel: Gas,KY,Nelson,2501,2495,2513,2461,2461,2470,2608,2807,2748,2802
+6,House Heating Fuel: Propane,KY,Nelson,1613,1508,1393,1298,1329,1354,1456,1428,1421,1408
+7,House Heating Fuel: Wood,KY,Nelson,476,485,483,483,517,563,465,572,580,544
+3,House Heating Fuel: Electric,KY,Nicholas,1683,1699,1609,1658,1613,1561,1585,1590,1564,1610
+4,House Heating Fuel: Fuel Oil,KY,Nicholas,145,133,120,96,55,18,9,8,13,20
+5,House Heating Fuel: Gas,KY,Nicholas,437,440,463,540,570,527,476,509,454,573
+6,House Heating Fuel: Propane,KY,Nicholas,285,324,301,302,325,347,364,324,305,246
+7,House Heating Fuel: Wood,KY,Nicholas,179,188,208,248,231,307,268,291,317,328
+3,House Heating Fuel: Electric,KY,Ohio,4129,4261,4577,4559,4608,4805,4974,5083,4828,4854
+4,House Heating Fuel: Fuel Oil,KY,Ohio,81,119,120,105,90,79,34,27,32,56
+5,House Heating Fuel: Gas,KY,Ohio,2502,2299,2267,2236,2199,2246,2318,2258,2484,2447
+6,House Heating Fuel: Propane,KY,Ohio,1462,1313,1127,1167,1100,1144,1096,1181,1215,1189
+7,House Heating Fuel: Wood,KY,Ohio,584,625,580,601,524,509,501,503,514,559
+3,House Heating Fuel: Electric,KY,Oldham,7078,7495,7685,8400,8685,8766,9048,9298,9397,9503
+4,House Heating Fuel: Fuel Oil,KY,Oldham,181,151,117,165,116,136,159,153,128,189
+5,House Heating Fuel: Gas,KY,Oldham,10267,10153,10232,9566,9472,9431,9419,9309,9581,9672
+6,House Heating Fuel: Propane,KY,Oldham,1348,1245,1059,1092,1029,1080,1181,1279,1219,1149
+7,House Heating Fuel: Wood,KY,Oldham,301,290,306,272,258,247,283,308,277,260
+3,House Heating Fuel: Electric,KY,Owen,2625,2809,2766,2833,2774,2637,2490,2490,2471,2455
+4,House Heating Fuel: Fuel Oil,KY,Owen,209,163,127,111,121,94,91,45,40,50
+5,House Heating Fuel: Gas,KY,Owen,109,160,138,254,291,262,224,281,215,199
+6,House Heating Fuel: Propane,KY,Owen,1327,1221,1204,1116,841,817,798,764,859,956
+7,House Heating Fuel: Wood,KY,Owen,382,331,327,273,328,274,304,315,257,222
+3,House Heating Fuel: Electric,KY,Owsley,1076,1080,1025,1042,1003,1093,1109,1052,1022,1036
+4,House Heating Fuel: Fuel Oil,KY,Owsley,71,98,124,90,149,184,164,182,229,230
+5,House Heating Fuel: Gas,KY,Owsley,58,100,72,70,83,58,33,41,36,59
+6,House Heating Fuel: Propane,KY,Owsley,167,169,168,240,226,178,157,151,119,110
+7,House Heating Fuel: Wood,KY,Owsley,93,159,227,236,235,213,173,222,232,237
+3,House Heating Fuel: Electric,KY,Pendleton,2031,2249,2450,2383,2394,2276,2107,2158,2021,2180
+4,House Heating Fuel: Fuel Oil,KY,Pendleton,346,348,220,279,281,265,243,269,369,273
+5,House Heating Fuel: Gas,KY,Pendleton,908,881,829,838,892,1071,1101,1110,1140,1150
+6,House Heating Fuel: Propane,KY,Pendleton,1483,1285,1456,1334,1264,1288,1396,1169,1191,1123
+7,House Heating Fuel: Wood,KY,Pendleton,380,453,391,398,395,425,397,443,426,371
+3,House Heating Fuel: Electric,KY,Perry,7946,7781,8138,7922,7885,8072,8202,8293,8516,8765
+4,House Heating Fuel: Fuel Oil,KY,Perry,187,316,275,250,226,227,110,126,118,157
+5,House Heating Fuel: Gas,KY,Perry,1754,1765,1727,1781,1989,1872,1918,1691,1539,1372
+6,House Heating Fuel: Propane,KY,Perry,250,321,357,338,312,326,237,210,258,247
+7,House Heating Fuel: Wood,KY,Perry,100,155,101,113,156,166,229,350,363,349
+3,House Heating Fuel: Electric,KY,Pike,20663,20985,21007,20762,20847,20773,20595,20406,20271,20117
+4,House Heating Fuel: Fuel Oil,KY,Pike,543,563,387,361,293,294,263,312,373,317
+5,House Heating Fuel: Gas,KY,Pike,4377,4027,4260,4182,3970,3893,3885,3800,3648,3551
+6,House Heating Fuel: Propane,KY,Pike,611,604,510,420,452,414,423,465,610,806
+7,House Heating Fuel: Wood,KY,Pike,409,355,322,273,360,399,415,546,597,585
+3,House Heating Fuel: Electric,KY,Powell,2082,2020,2062,2065,2053,2135,2256,2324,2446,2481
+4,House Heating Fuel: Fuel Oil,KY,Powell,38,74,100,112,135,119,87,75,56,14
+5,House Heating Fuel: Gas,KY,Powell,1582,1595,1559,1513,1371,1389,1291,1352,1380,1368
+6,House Heating Fuel: Propane,KY,Powell,676,576,579,561,503,556,543,534,483,517
+7,House Heating Fuel: Wood,KY,Powell,274,268,317,424,500,535,599,593,466,390
+3,House Heating Fuel: Electric,KY,Pulaski,18952,19263,19733,19850,20316,19970,20264,20483,20830,20731
+4,House Heating Fuel: Fuel Oil,KY,Pulaski,720,737,731,541,570,592,500,449,459,311
+5,House Heating Fuel: Gas,KY,Pulaski,3128,3079,2851,2897,2725,2680,2706,2662,2452,2276
+6,House Heating Fuel: Propane,KY,Pulaski,1553,1576,1511,1354,1025,929,677,771,734,759
+7,House Heating Fuel: Wood,KY,Pulaski,1204,1277,1324,1353,1332,1288,1224,1216,956,966
+3,House Heating Fuel: Electric,KY,Robertson,320,331,351,426,477,499,507,520,451,500
+4,House Heating Fuel: Fuel Oil,KY,Robertson,105,70,63,37,37,15,14,12,16,3
+5,House Heating Fuel: Gas,KY,Robertson,149,126,108,129,124,141,159,167,181,135
+6,House Heating Fuel: Propane,KY,Robertson,134,133,183,174,169,172,138,83,96,97
+7,House Heating Fuel: Wood,KY,Robertson,118,88,89,98,99,101,137,152,154,117
+3,House Heating Fuel: Electric,KY,Rockcastle,4553,4719,4698,4859,4832,4930,4828,5033,4942,5122
+4,House Heating Fuel: Fuel Oil,KY,Rockcastle,479,428,407,389,392,290,257,227,205,182
+5,House Heating Fuel: Gas,KY,Rockcastle,214,99,104,64,108,103,115,108,126,106
+6,House Heating Fuel: Propane,KY,Rockcastle,533,550,566,527,523,556,546,441,486,463
+7,House Heating Fuel: Wood,KY,Rockcastle,516,497,580,563,585,627,641,631,660,567
+3,House Heating Fuel: Electric,KY,Rowan,4662,4919,5035,5051,5181,5267,5249,5227,5326,5554
+4,House Heating Fuel: Fuel Oil,KY,Rowan,64,18,36,23,24,27,31,11,0,0
+5,House Heating Fuel: Gas,KY,Rowan,1975,1879,1724,1856,1799,2052,2088,2306,1954,1889
+6,House Heating Fuel: Propane,KY,Rowan,791,717,675,645,680,554,460,480,474,478
+7,House Heating Fuel: Wood,KY,Rowan,716,595,596,653,633,555,578,667,665,641
+3,House Heating Fuel: Electric,KY,Russell,6086,6182,6131,6059,6064,6019,6041,6393,6130,6004
+4,House Heating Fuel: Fuel Oil,KY,Russell,257,243,154,131,168,178,163,112,109,73
+5,House Heating Fuel: Gas,KY,Russell,179,164,249,267,237,243,202,117,169,204
+6,House Heating Fuel: Propane,KY,Russell,521,427,374,347,310,202,248,220,265,229
+7,House Heating Fuel: Wood,KY,Russell,387,352,446,427,405,360,383,309,302,364
+3,House Heating Fuel: Electric,KY,Scott,10503,10743,10948,11283,12002,11953,12493,13218,13703,14204
+4,House Heating Fuel: Fuel Oil,KY,Scott,124,175,154,124,90,85,66,54,63,33
+5,House Heating Fuel: Gas,KY,Scott,4642,4755,4663,4641,4383,4525,4561,4673,4624,4496
+6,House Heating Fuel: Propane,KY,Scott,1527,1471,1436,1474,1408,1362,1319,1245,1280,1309
+7,House Heating Fuel: Wood,KY,Scott,311,329,331,332,371,419,347,359,300,283
+3,House Heating Fuel: Electric,KY,Shelby,6791,6840,7013,7104,7174,7337,7620,7796,7937,8035
+4,House Heating Fuel: Fuel Oil,KY,Shelby,304,261,260,195,213,132,120,129,128,82
+5,House Heating Fuel: Gas,KY,Shelby,5713,5718,5810,5957,5962,6082,6010,6026,6088,6109
+6,House Heating Fuel: Propane,KY,Shelby,1836,1782,1778,1791,1809,1878,1840,1856,1812,1741
+7,House Heating Fuel: Wood,KY,Shelby,315,351,303,314,414,361,387,417,497,574
+3,House Heating Fuel: Electric,KY,Simpson,2634,2619,2729,2669,2541,2604,2791,2905,3031,3405
+4,House Heating Fuel: Fuel Oil,KY,Simpson,32,36,41,39,45,45,58,51,50,11
+5,House Heating Fuel: Gas,KY,Simpson,2883,2996,2940,3021,3073,3138,3169,3046,2928,2750
+6,House Heating Fuel: Propane,KY,Simpson,854,754,721,782,816,847,832,783,815,782
+7,House Heating Fuel: Wood,KY,Simpson,233,238,218,217,165,152,100,101,77,80
+3,House Heating Fuel: Electric,KY,Spencer,3300,3603,3677,3932,4087,4104,4111,4316,4261,4345
+4,House Heating Fuel: Fuel Oil,KY,Spencer,47,36,64,44,32,28,26,20,18,28
+5,House Heating Fuel: Gas,KY,Spencer,193,251,211,239,274,317,298,399,343,291
+6,House Heating Fuel: Propane,KY,Spencer,2257,2018,1985,1704,1560,1670,1608,1509,1688,1792
+7,House Heating Fuel: Wood,KY,Spencer,225,259,233,233,289,255,359,396,377,285
+3,House Heating Fuel: Electric,KY,Taylor,4514,4418,4736,4798,4665,4742,4970,5036,4878,5088
+4,House Heating Fuel: Fuel Oil,KY,Taylor,72,85,94,51,66,73,37,46,20,47
+5,House Heating Fuel: Gas,KY,Taylor,3649,3488,3126,3310,3273,3446,3467,3262,3413,3588
+6,House Heating Fuel: Propane,KY,Taylor,700,809,861,822,761,743,712,709,674,560
+7,House Heating Fuel: Wood,KY,Taylor,658,793,630,678,671,659,518,543,528,512
+3,House Heating Fuel: Electric,KY,Todd,2084,2239,2265,2104,2121,2182,2098,2137,2378,2472
+4,House Heating Fuel: Fuel Oil,KY,Todd,38,33,31,18,22,12,52,69,71,90
+5,House Heating Fuel: Gas,KY,Todd,889,867,849,895,919,853,866,882,722,674
+6,House Heating Fuel: Propane,KY,Todd,1422,1265,1279,1256,1114,1152,1166,1190,1177,1151
+7,House Heating Fuel: Wood,KY,Todd,207,261,265,297,369,342,327,304,280,217
+3,House Heating Fuel: Electric,KY,Trigg,2951,3203,3100,2890,3073,2907,2990,2975,3087,2862
+4,House Heating Fuel: Fuel Oil,KY,Trigg,159,101,74,17,0,17,27,30,38,58
+5,House Heating Fuel: Gas,KY,Trigg,1137,1057,1035,1030,1035,973,973,1017,1034,1104
+6,House Heating Fuel: Propane,KY,Trigg,1556,1541,1574,1701,1686,1853,1799,1763,1649,1711
+7,House Heating Fuel: Wood,KY,Trigg,233,232,251,297,258,259,184,194,157,157
+3,House Heating Fuel: Electric,KY,Trimble,1992,2121,2118,2204,2228,2227,2227,2326,2262,2168
+4,House Heating Fuel: Fuel Oil,KY,Trimble,187,163,129,91,57,54,71,74,155,130
+5,House Heating Fuel: Gas,KY,Trimble,426,476,550,487,497,438,424,395,466,432
+6,House Heating Fuel: Propane,KY,Trimble,533,429,376,467,527,526,512,520,399,440
+7,House Heating Fuel: Wood,KY,Trimble,226,197,253,236,258,282,299,251,285,271
+3,House Heating Fuel: Electric,KY,Union,2731,2591,2665,2685,2806,2795,2765,2877,2807,2767
+4,House Heating Fuel: Fuel Oil,KY,Union,104,91,59,26,5,6,12,10,26,35
+5,House Heating Fuel: Gas,KY,Union,1919,1845,1893,1958,1819,1838,1892,1846,1839,1875
+6,House Heating Fuel: Propane,KY,Union,768,807,645,739,839,797,745,718,685,549
+7,House Heating Fuel: Wood,KY,Union,56,73,108,123,102,107,132,76,105,145
+3,House Heating Fuel: Electric,KY,Warren,19626,20921,21657,22556,22885,23120,23374,23498,23958,25345
+4,House Heating Fuel: Fuel Oil,KY,Warren,112,103,118,98,124,108,119,126,132,88
+5,House Heating Fuel: Gas,KY,Warren,19223,18944,19061,18824,19008,19117,19384,19541,19555,19585
+6,House Heating Fuel: Propane,KY,Warren,2567,2530,2511,2331,2408,2504,2536,2702,2852,2615
+7,House Heating Fuel: Wood,KY,Warren,331,348,375,318,393,369,372,343,455,397
+3,House Heating Fuel: Electric,KY,Washington,2475,2663,2557,2605,2631,2599,2657,2809,2863,2886
+4,House Heating Fuel: Fuel Oil,KY,Washington,41,22,13,3,22,18,23,25,29,20
+5,House Heating Fuel: Gas,KY,Washington,820,763,760,725,687,723,685,663,678,613
+6,House Heating Fuel: Propane,KY,Washington,941,870,919,784,779,742,769,642,623,551
+7,House Heating Fuel: Wood,KY,Washington,172,205,268,319,375,364,293,303,403,438
+3,House Heating Fuel: Electric,KY,Wayne,6057,5948,5884,5664,5504,5811,5786,5994,6209,6561
+4,House Heating Fuel: Fuel Oil,KY,Wayne,480,480,388,467,428,305,258,251,130,63
+5,House Heating Fuel: Gas,KY,Wayne,123,114,156,157,138,97,160,141,176,159
+6,House Heating Fuel: Propane,KY,Wayne,865,878,783,611,548,501,487,479,443,588
+7,House Heating Fuel: Wood,KY,Wayne,1022,1076,1036,1129,1209,1038,975,919,812,750
+3,House Heating Fuel: Electric,KY,Webster,2484,2625,2702,2745,2731,2754,2717,2738,2748,2690
+4,House Heating Fuel: Fuel Oil,KY,Webster,19,37,47,35,35,47,45,40,34,36
+5,House Heating Fuel: Gas,KY,Webster,1873,1712,1609,1696,1682,1617,1668,1666,1473,1584
+6,House Heating Fuel: Propane,KY,Webster,516,534,564,573,476,560,559,514,599,550
+7,House Heating Fuel: Wood,KY,Webster,79,71,70,78,83,103,103,97,95,77
+3,House Heating Fuel: Electric,KY,Whitley,6265,6428,6841,6882,7059,7218,7018,7070,6914,6732
+4,House Heating Fuel: Fuel Oil,KY,Whitley,336,138,136,32,43,45,57,61,67,75
+5,House Heating Fuel: Gas,KY,Whitley,4773,4883,4750,4585,4432,4437,4257,4106,4110,4194
+6,House Heating Fuel: Propane,KY,Whitley,792,821,786,927,715,795,823,843,750,876
+7,House Heating Fuel: Wood,KY,Whitley,576,550,550,491,524,466,412,336,441,511
+3,House Heating Fuel: Electric,KY,Wolfe,1236,1252,1388,1268,1360,1298,1233,1157,1181,1248
+4,House Heating Fuel: Fuel Oil,KY,Wolfe,44,25,43,54,33,27,8,12,26,46
+5,House Heating Fuel: Gas,KY,Wolfe,367,373,378,423,452,591,727,663,619,469
+6,House Heating Fuel: Propane,KY,Wolfe,442,481,475,677,594,644,560,587,598,731
+7,House Heating Fuel: Wood,KY,Wolfe,375,385,354,315,347,320,335,400,366,334
+3,House Heating Fuel: Electric,KY,Woodford,4854,4949,5054,4900,5053,5150,5431,5635,5920,6159
+4,House Heating Fuel: Fuel Oil,KY,Woodford,75,62,75,72,36,42,41,45,42,28
+5,House Heating Fuel: Gas,KY,Woodford,4406,4237,4141,4149,3946,3846,3645,3534,3390,3404
+6,House Heating Fuel: Propane,KY,Woodford,460,457,482,470,535,537,539,481,479,401
+7,House Heating Fuel: Wood,KY,Woodford,180,152,87,84,89,164,251,285,288,289

@@ -1,0 +1,1591 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40,Units in Structure: 1 ATTACHED,GA,Appling,33,112,44,37,39,29,16,18,28,50
+41,Units in Structure: 1 DETACHED,GA,Appling,4996,4776,4725,4660,4474,4627,4862,5013,4914,5008
+42,Units in Structure: 10-19,GA,Appling,32,36,32,0,0,12,19,22,15,14
+43,Units in Structure: 2,GA,Appling,235,210,246,255,356,166,194,222,176,161
+44,Units in Structure: 20-49,GA,Appling,6,8,13,22,14,10,10,14,11,18
+45,Units in Structure: 3-4,GA,Appling,119,108,123,137,145,62,53,65,91,93
+46,Units in Structure: 5-9,GA,Appling,65,88,73,88,100,167,123,127,103,116
+47,Units in Structure: 50+,GA,Appling,0,0,0,0,0,0,0,0,10,9
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Appling,0,0,0,0,0,0,12,15,20,21
+49,Units in Structure: Mobile Home,GA,Appling,2952,3137,3229,3242,3329,3361,3119,3040,3175,3077
+40,Units in Structure: 1 ATTACHED,GA,Atkinson,5,6,8,6,20,23,24,32,30,34
+41,Units in Structure: 1 DETACHED,GA,Atkinson,1689,1699,1730,1676,1739,1691,1557,1612,1671,1811
+42,Units in Structure: 10-19,GA,Atkinson,15,39,24,53,52,51,42,49,35,26
+43,Units in Structure: 2,GA,Atkinson,75,83,71,55,65,51,43,48,63,55
+44,Units in Structure: 20-49,GA,Atkinson,11,21,11,10,11,10,9,5,22,32
+45,Units in Structure: 3-4,GA,Atkinson,56,92,95,84,73,84,61,41,60,59
+46,Units in Structure: 5-9,GA,Atkinson,45,38,57,56,68,41,47,37,36,31
+47,Units in Structure: 50+,GA,Atkinson,24,20,0,0,0,0,0,0,0,5
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Atkinson,0,9,18,7,4,10,6,7,6,7
+49,Units in Structure: Mobile Home,GA,Atkinson,1561,1500,1498,1541,1457,1515,1657,1671,1585,1452
+40,Units in Structure: 1 ATTACHED,GA,Bacon,14,30,30,35,12,24,44,54,74,62
+41,Units in Structure: 1 DETACHED,GA,Bacon,3027,3037,3018,3085,2806,2757,2730,2849,2659,2698
+42,Units in Structure: 10-19,GA,Bacon,0,0,0,0,25,22,22,23,25,0
+43,Units in Structure: 2,GA,Bacon,73,114,172,162,184,153,159,103,101,66
+44,Units in Structure: 20-49,GA,Bacon,0,0,0,0,0,0,7,7,16,15
+45,Units in Structure: 3-4,GA,Bacon,96,130,123,99,98,69,42,65,156,160
+46,Units in Structure: 5-9,GA,Bacon,84,12,59,64,79,62,47,34,57,41
+47,Units in Structure: 50+,GA,Bacon,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Bacon,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Bacon,1465,1473,1387,1319,1563,1671,1692,1671,1703,1755
+40,Units in Structure: 1 ATTACHED,GA,Baker,48,18,4,2,3,2,0,0,0,7
+41,Units in Structure: 1 DETACHED,GA,Baker,934,926,1072,1003,1094,1080,1111,1085,1091,1165
+42,Units in Structure: 10-19,GA,Baker,0,6,3,4,4,4,2,3,3,3
+43,Units in Structure: 2,GA,Baker,5,28,26,20,13,18,19,17,23,21
+44,Units in Structure: 20-49,GA,Baker,46,30,37,0,0,0,0,0,0,2
+45,Units in Structure: 3-4,GA,Baker,0,0,3,3,3,9,8,13,23,35
+46,Units in Structure: 5-9,GA,Baker,46,34,38,40,14,0,0,19,21,28
+47,Units in Structure: 50+,GA,Baker,12,12,16,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Baker,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Baker,477,466,553,539,494,547,617,633,728,663
+40,Units in Structure: 1 ATTACHED,GA,Baldwin,457,383,301,324,331,325,338,321,304,286
+41,Units in Structure: 1 DETACHED,GA,Baldwin,11439,11992,11983,11693,11548,11339,11227,11488,11526,12021
+42,Units in Structure: 10-19,GA,Baldwin,227,477,634,628,531,728,588,468,427,568
+43,Units in Structure: 2,GA,Baldwin,1007,1012,1164,1208,985,873,1011,1018,1152,1238
+44,Units in Structure: 20-49,GA,Baldwin,176,194,163,183,230,173,308,293,251,209
+45,Units in Structure: 3-4,GA,Baldwin,830,592,692,857,951,1024,873,935,925,886
+46,Units in Structure: 5-9,GA,Baldwin,665,801,767,950,1191,1347,1416,1627,1444,1252
+47,Units in Structure: 50+,GA,Baldwin,159,144,166,197,163,177,277,349,343,309
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Baldwin,0,0,0,0,0,0,0,13,17,9
+49,Units in Structure: Mobile Home,GA,Baldwin,4732,4375,4229,4075,4280,4219,4168,3947,4098,3810
+40,Units in Structure: 1 ATTACHED,GA,Banks,0,3,3,7,7,8,22,19,24,19
+41,Units in Structure: 1 DETACHED,GA,Banks,4561,4846,4949,4881,4961,5015,4959,5031,5125,5198
+42,Units in Structure: 10-19,GA,Banks,33,32,41,34,28,15,18,23,23,24
+43,Units in Structure: 2,GA,Banks,115,71,81,91,52,45,85,88,90,124
+44,Units in Structure: 20-49,GA,Banks,41,3,31,27,27,19,14,0,0,0
+45,Units in Structure: 3-4,GA,Banks,100,94,129,83,54,46,52,129,116,111
+46,Units in Structure: 5-9,GA,Banks,58,48,35,31,2,3,6,5,3,3
+47,Units in Structure: 50+,GA,Banks,3,3,1,2,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Banks,24,23,24,21,21,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Banks,2436,2370,2258,2373,2418,2414,2392,2364,2301,2260
+40,Units in Structure: 1 ATTACHED,GA,Barrow,402,287,361,359,401,323,379,364,510,531
+41,Units in Structure: 1 DETACHED,GA,Barrow,20701,21453,21617,21987,22362,22289,22276,22935,23275,23419
+42,Units in Structure: 10-19,GA,Barrow,100,113,150,183,170,154,204,171,175,269
+43,Units in Structure: 2,GA,Barrow,942,998,958,903,763,826,736,677,719,719
+44,Units in Structure: 20-49,GA,Barrow,103,73,84,69,60,112,107,158,163,155
+45,Units in Structure: 3-4,GA,Barrow,261,235,193,292,246,280,305,340,370,415
+46,Units in Structure: 5-9,GA,Barrow,378,345,312,253,302,350,326,330,400,392
+47,Units in Structure: 50+,GA,Barrow,12,0,0,8,26,17,27,44,59,68
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Barrow,0,0,0,0,0,0,0,0,0,11
+49,Units in Structure: Mobile Home,GA,Barrow,2897,2663,2717,2336,2178,2349,2542,2445,2243,2444
+40,Units in Structure: 1 ATTACHED,GA,Bartow,1263,1461,1333,1515,1327,1328,1080,1295,1271,1317
+41,Units in Structure: 1 DETACHED,GA,Bartow,27891,27807,28013,28048,28498,28941,28821,28856,29213,29635
+42,Units in Structure: 10-19,GA,Bartow,884,798,714,790,973,863,998,1150,1089,903
+43,Units in Structure: 2,GA,Bartow,819,789,887,831,748,718,1024,919,1022,1030
+44,Units in Structure: 20-49,GA,Bartow,215,368,383,411,491,581,550,1030,1073,1065
+45,Units in Structure: 3-4,GA,Bartow,1181,1283,1026,861,875,724,840,823,977,1046
+46,Units in Structure: 5-9,GA,Bartow,1659,1598,1664,1568,1316,1078,1082,949,953,1003
+47,Units in Structure: 50+,GA,Bartow,118,141,111,169,150,199,172,221,258,351
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Bartow,20,31,50,66,61,67,37,28,25,29
+49,Units in Structure: Mobile Home,GA,Bartow,4834,5170,5499,5456,5405,5339,5331,5109,4813,4693
+40,Units in Structure: 1 ATTACHED,GA,Ben Hill,51,16,29,32,58,57,57,30,47,41
+41,Units in Structure: 1 DETACHED,GA,Ben Hill,5029,5101,5073,4947,4988,4885,4898,5019,5149,5232
+42,Units in Structure: 10-19,GA,Ben Hill,11,9,16,18,9,45,48,39,68,66
+43,Units in Structure: 2,GA,Ben Hill,363,334,282,278,215,257,274,205,183,358
+44,Units in Structure: 20-49,GA,Ben Hill,118,119,98,73,83,66,50,39,34,49
+45,Units in Structure: 3-4,GA,Ben Hill,179,238,179,204,328,295,319,284,282,162
+46,Units in Structure: 5-9,GA,Ben Hill,237,364,345,381,335,340,232,245,284,263
+47,Units in Structure: 50+,GA,Ben Hill,103,90,113,149,127,66,90,82,47,84
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Ben Hill,12,10,21,13,0,0,0,0,0,9
+49,Units in Structure: Mobile Home,GA,Ben Hill,1826,1653,1788,1816,1768,1903,1928,2005,1884,1737
+40,Units in Structure: 1 ATTACHED,GA,Berrien,43,107,110,93,127,131,91,106,81,62
+41,Units in Structure: 1 DETACHED,GA,Berrien,5361,5192,5099,5179,4897,5098,5096,5192,5184,5368
+42,Units in Structure: 10-19,GA,Berrien,12,24,46,50,64,43,23,0,0,0
+43,Units in Structure: 2,GA,Berrien,51,70,80,63,119,124,151,173,158,112
+44,Units in Structure: 20-49,GA,Berrien,18,20,27,19,34,33,32,29,23,0
+45,Units in Structure: 3-4,GA,Berrien,119,171,158,160,162,155,130,89,187,233
+46,Units in Structure: 5-9,GA,Berrien,58,28,41,33,43,74,89,94,102,155
+47,Units in Structure: 50+,GA,Berrien,0,0,0,4,4,5,2,27,27,31
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Berrien,22,23,18,16,16,0,0,14,10,11
+49,Units in Structure: Mobile Home,GA,Berrien,2770,2969,3071,3035,3219,2987,3027,3035,2995,2826
+40,Units in Structure: 1 ATTACHED,GA,Bibb,1968,1828,1285,1122,1223,1322,1395,1383,1495,1551
+41,Units in Structure: 1 DETACHED,GA,Bibb,47913,47496,47555,47155,47376,46888,46800,46469,46389,46328
+42,Units in Structure: 10-19,GA,Bibb,1955,1948,2314,2674,2879,3200,3575,3650,3379,3364
+43,Units in Structure: 2,GA,Bibb,3398,3570,3779,3774,3688,3717,3523,3567,3415,3430
+44,Units in Structure: 20-49,GA,Bibb,1102,1222,1362,1419,1450,1456,1534,1500,1406,1527
+45,Units in Structure: 3-4,GA,Bibb,3791,3542,3540,3477,3317,3427,3577,3877,4036,4184
+46,Units in Structure: 5-9,GA,Bibb,5391,6123,5928,6052,5833,5852,5472,5766,5636,5348
+47,Units in Structure: 50+,GA,Bibb,1797,1819,1960,2020,2041,2175,2221,1936,2309,2380
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Bibb,27,32,32,32,4,13,11,20,30,35
+49,Units in Structure: Mobile Home,GA,Bibb,2333,2088,2038,2051,2122,2021,2070,2080,2110,1983
+40,Units in Structure: 1 ATTACHED,GA,Bleckley,10,21,16,11,26,25,31,41,44,14
+41,Units in Structure: 1 DETACHED,GA,Bleckley,3290,3453,3603,3527,3729,3700,3711,3577,3627,3630
+42,Units in Structure: 10-19,GA,Bleckley,47,53,20,50,53,17,34,30,19,40
+43,Units in Structure: 2,GA,Bleckley,316,258,208,269,261,164,143,170,144,144
+44,Units in Structure: 20-49,GA,Bleckley,28,20,44,47,33,59,60,43,42,47
+45,Units in Structure: 3-4,GA,Bleckley,94,125,88,71,65,65,69,124,143,97
+46,Units in Structure: 5-9,GA,Bleckley,56,70,89,80,27,57,52,50,49,38
+47,Units in Structure: 50+,GA,Bleckley,29,25,12,8,9,7,6,3,5,4
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Bleckley,0,0,0,0,0,0,7,7,11,7
+49,Units in Structure: Mobile Home,GA,Bleckley,1394,1265,1208,1208,1086,1181,1169,1270,1234,1302
+40,Units in Structure: 1 ATTACHED,GA,Brantley,12,12,13,8,0,0,0,13,13,11
+41,Units in Structure: 1 DETACHED,GA,Brantley,3801,3820,3707,3818,3716,3642,3458,3692,3491,3756
+42,Units in Structure: 10-19,GA,Brantley,22,31,34,92,83,71,52,52,14,14
+43,Units in Structure: 2,GA,Brantley,89,143,124,120,137,121,67,72,78,68
+44,Units in Structure: 20-49,GA,Brantley,0,0,0,0,0,0,0,4,5,9
+45,Units in Structure: 3-4,GA,Brantley,31,28,30,17,28,14,20,32,34,33
+46,Units in Structure: 5-9,GA,Brantley,39,45,54,58,48,17,11,10,11,12
+47,Units in Structure: 50+,GA,Brantley,0,0,0,5,3,1,2,3,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Brantley,0,0,43,63,39,49,52,29,22,43
+49,Units in Structure: Mobile Home,GA,Brantley,3845,3893,3987,3791,3957,4048,4262,4205,4451,4227
+40,Units in Structure: 1 ATTACHED,GA,Brooks,10,24,41,44,46,54,33,66,61,74
+41,Units in Structure: 1 DETACHED,GA,Brooks,5220,5265,5049,5049,4876,4700,4762,4859,4903,5031
+42,Units in Structure: 10-19,GA,Brooks,20,19,17,14,13,34,39,39,70,59
+43,Units in Structure: 2,GA,Brooks,93,135,132,108,90,83,113,102,140,110
+44,Units in Structure: 20-49,GA,Brooks,0,0,0,0,0,0,9,15,11,14
+45,Units in Structure: 3-4,GA,Brooks,168,242,257,233,250,243,213,197,208,200
+46,Units in Structure: 5-9,GA,Brooks,103,68,126,79,84,112,133,52,86,94
+47,Units in Structure: 50+,GA,Brooks,5,24,16,17,31,37,13,21,68,52
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Brooks,6,16,6,7,6,6,1,3,3,4
+49,Units in Structure: Mobile Home,GA,Brooks,1957,1849,2041,2122,2294,2391,2341,2413,2227,2153
+40,Units in Structure: 1 ATTACHED,GA,Bryan,147,176,185,230,270,205,142,185,226,224
+41,Units in Structure: 1 DETACHED,GA,Bryan,8538,8613,8866,8995,9157,9533,9687,10231,10504,10617
+42,Units in Structure: 10-19,GA,Bryan,15,27,28,21,15,14,94,119,108,125
+43,Units in Structure: 2,GA,Bryan,83,100,100,130,120,64,105,162,189,141
+44,Units in Structure: 20-49,GA,Bryan,126,112,153,91,41,63,64,32,26,65
+45,Units in Structure: 3-4,GA,Bryan,214,218,282,365,389,425,367,286,285,303
+46,Units in Structure: 5-9,GA,Bryan,340,306,357,404,518,473,517,421,503,545
+47,Units in Structure: 50+,GA,Bryan,163,137,148,160,163,111,145,116,118,112
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Bryan,43,94,44,52,0,0,0,0,9,11
+49,Units in Structure: Mobile Home,GA,Bryan,1880,1962,1803,1684,1731,1788,1873,1878,1881,2149
+40,Units in Structure: 1 ATTACHED,GA,Bulloch,385,388,431,458,490,400,529,543,588,617
+41,Units in Structure: 1 DETACHED,GA,Bulloch,14487,14695,15023,15258,15344,15604,15919,16645,16882,17159
+42,Units in Structure: 10-19,GA,Bulloch,2014,2201,2364,2214,2335,2202,2144,2019,1877,1782
+43,Units in Structure: 2,GA,Bulloch,1450,1613,1690,1855,1982,1993,1844,2029,2042,1986
+44,Units in Structure: 20-49,GA,Bulloch,465,479,448,434,436,389,486,516,584,578
+45,Units in Structure: 3-4,GA,Bulloch,1707,1674,1432,1334,1250,1416,1477,1209,1277,1412
+46,Units in Structure: 5-9,GA,Bulloch,1493,1431,1609,1825,1705,2129,1837,1844,1701,1682
+47,Units in Structure: 50+,GA,Bulloch,259,314,359,283,191,214,184,137,275,260
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Bulloch,0,31,47,62,60,67,14,0,0,11
+49,Units in Structure: Mobile Home,GA,Bulloch,5691,5610,5416,5303,5518,5179,5458,5516,5526,5648
+40,Units in Structure: 1 ATTACHED,GA,Burke,99,76,49,32,42,31,30,28,31,26
+41,Units in Structure: 1 DETACHED,GA,Burke,4949,5284,5324,5477,5541,5569,5434,5602,5410,5568
+42,Units in Structure: 10-19,GA,Burke,82,23,19,32,34,13,12,16,2,3
+43,Units in Structure: 2,GA,Burke,270,365,351,341,325,289,295,298,267,259
+44,Units in Structure: 20-49,GA,Burke,186,130,98,53,45,19,7,22,32,33
+45,Units in Structure: 3-4,GA,Burke,276,199,273,345,350,400,465,525,446,450
+46,Units in Structure: 5-9,GA,Burke,160,108,98,62,79,156,173,134,125,71
+47,Units in Structure: 50+,GA,Burke,57,73,46,54,39,36,2,15,9,19
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Burke,11,12,17,1,8,7,57,49,101,117
+49,Units in Structure: Mobile Home,GA,Burke,3625,3526,3547,3404,3380,3312,3349,3272,3581,3518
+40,Units in Structure: 1 ATTACHED,GA,Butts,270,208,194,125,114,45,48,47,69,68
+41,Units in Structure: 1 DETACHED,GA,Butts,7447,7543,7640,7704,7783,7660,7379,7316,7094,7043
+42,Units in Structure: 10-19,GA,Butts,71,90,59,76,112,120,93,123,84,15
+43,Units in Structure: 2,GA,Butts,94,108,108,105,72,118,146,191,179,294
+44,Units in Structure: 20-49,GA,Butts,54,67,26,47,25,27,45,51,42,44
+45,Units in Structure: 3-4,GA,Butts,166,275,309,247,255,311,290,221,226,292
+46,Units in Structure: 5-9,GA,Butts,136,106,194,221,207,197,277,327,354,359
+47,Units in Structure: 50+,GA,Butts,15,33,36,38,30,37,8,0,0,14
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Butts,21,18,28,28,23,7,53,52,53,65
+49,Units in Structure: Mobile Home,GA,Butts,998,887,746,710,696,769,949,1029,1281,1235
+40,Units in Structure: 1 ATTACHED,GA,Calhoun,8,20,13,8,11,16,11,13,10,11
+41,Units in Structure: 1 DETACHED,GA,Calhoun,1705,1709,1617,1604,1493,1375,1441,1441,1428,1451
+42,Units in Structure: 10-19,GA,Calhoun,0,36,50,43,57,49,37,43,38,42
+43,Units in Structure: 2,GA,Calhoun,97,84,57,55,59,90,85,83,96,91
+44,Units in Structure: 20-49,GA,Calhoun,0,0,0,0,0,0,0,7,11,13
+45,Units in Structure: 3-4,GA,Calhoun,34,52,56,57,71,92,70,50,52,50
+46,Units in Structure: 5-9,GA,Calhoun,100,65,61,65,78,80,94,62,49,44
+47,Units in Structure: 50+,GA,Calhoun,6,8,5,2,2,22,14,13,7,7
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Calhoun,0,0,0,2,2,1,2,2,0,0
+49,Units in Structure: Mobile Home,GA,Calhoun,455,431,529,534,572,614,620,690,711,690
+40,Units in Structure: 1 ATTACHED,GA,Camden,1083,1172,1068,1074,1082,1212,1016,1114,934,934
+41,Units in Structure: 1 DETACHED,GA,Camden,12938,13516,13677,13769,14098,13944,13793,14300,14556,14692
+42,Units in Structure: 10-19,GA,Camden,479,423,445,542,679,657,666,587,638,457
+43,Units in Structure: 2,GA,Camden,700,662,566,455,482,580,725,723,796,654
+44,Units in Structure: 20-49,GA,Camden,92,107,99,189,199,190,230,254,221,301
+45,Units in Structure: 3-4,GA,Camden,1428,1310,1140,1138,897,820,929,1235,1202,1302
+46,Units in Structure: 5-9,GA,Camden,599,451,703,814,880,978,1155,992,931,954
+47,Units in Structure: 50+,GA,Camden,72,105,97,196,203,213,185,180,164,134
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Camden,0,0,0,0,9,9,9,14,10,29
+49,Units in Structure: Mobile Home,GA,Camden,3220,3199,3268,2997,2797,2763,2707,2288,2385,2587
+40,Units in Structure: 1 ATTACHED,GA,Candler,48,5,4,24,36,47,49,48,45,42
+41,Units in Structure: 1 DETACHED,GA,Candler,2854,2828,2751,2764,2641,2636,2692,2668,2622,2557
+42,Units in Structure: 10-19,GA,Candler,55,46,13,12,26,23,10,10,11,0
+43,Units in Structure: 2,GA,Candler,100,154,188,208,212,168,128,142,123,133
+44,Units in Structure: 20-49,GA,Candler,0,30,19,26,23,33,17,17,11,13
+45,Units in Structure: 3-4,GA,Candler,30,76,37,53,92,119,79,79,65,62
+46,Units in Structure: 5-9,GA,Candler,0,4,6,3,4,13,20,43,54,65
+47,Units in Structure: 50+,GA,Candler,41,45,46,45,23,3,6,14,13,22
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Candler,0,8,10,9,12,18,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Candler,1482,1501,1632,1565,1652,1654,1692,1731,1821,1876
+40,Units in Structure: 1 ATTACHED,GA,Carroll,936,905,914,835,979,1072,787,860,848,684
+41,Units in Structure: 1 DETACHED,GA,Carroll,31904,32098,32050,32167,32620,32298,32657,33192,33433,33452
+42,Units in Structure: 10-19,GA,Carroll,1195,1157,1265,1337,1270,1261,1307,1127,1008,1064
+43,Units in Structure: 2,GA,Carroll,1116,1179,1125,1048,1030,952,1060,985,792,859
+44,Units in Structure: 20-49,GA,Carroll,579,554,525,625,576,616,500,522,679,740
+45,Units in Structure: 3-4,GA,Carroll,1267,1015,1087,924,783,1037,1047,1163,1256,1437
+46,Units in Structure: 5-9,GA,Carroll,1754,1618,1763,1800,1765,1635,1819,1869,1674,1780
+47,Units in Structure: 50+,GA,Carroll,353,336,344,356,379,408,421,466,472,425
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Carroll,4,5,3,6,0,0,3,3,3,3
+49,Units in Structure: Mobile Home,GA,Carroll,5323,5732,5604,5451,5244,5378,5090,4910,5088,4930
+40,Units in Structure: 1 ATTACHED,GA,Catoosa,718,692,692,617,598,617,683,702,810,848
+41,Units in Structure: 1 DETACHED,GA,Catoosa,19106,19116,19093,19398,19811,19851,19923,20271,20012,19917
+42,Units in Structure: 10-19,GA,Catoosa,516,512,425,450,535,413,404,370,380,400
+43,Units in Structure: 2,GA,Catoosa,665,726,702,750,777,824,822,914,1004,1026
+44,Units in Structure: 20-49,GA,Catoosa,254,307,268,188,104,87,11,48,71,73
+45,Units in Structure: 3-4,GA,Catoosa,604,744,909,1022,988,933,869,766,800,861
+46,Units in Structure: 5-9,GA,Catoosa,805,842,801,840,762,705,807,935,902,846
+47,Units in Structure: 50+,GA,Catoosa,184,172,190,170,126,126,119,136,102,102
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Catoosa,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Catoosa,3403,3362,3502,3174,3007,3179,3188,2973,3139,3286
+40,Units in Structure: 1 ATTACHED,GA,Charlton,31,47,39,13,13,13,9,13,5,6
+41,Units in Structure: 1 DETACHED,GA,Charlton,2273,2410,2310,2451,2530,2440,2276,2244,2215,2229
+42,Units in Structure: 10-19,GA,Charlton,0,0,0,0,0,13,12,12,12,15
+43,Units in Structure: 2,GA,Charlton,137,104,66,81,62,21,106,83,128,145
+44,Units in Structure: 20-49,GA,Charlton,7,7,8,0,0,0,10,14,13,17
+45,Units in Structure: 3-4,GA,Charlton,31,8,9,25,16,10,32,87,113,124
+46,Units in Structure: 5-9,GA,Charlton,48,37,37,36,28,39,26,27,23,32
+47,Units in Structure: 50+,GA,Charlton,0,0,0,0,0,5,4,3,4,7
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Charlton,24,33,24,25,52,26,17,37,35,19
+49,Units in Structure: Mobile Home,GA,Charlton,1832,1792,1953,1807,1738,1869,1933,1974,1944,1930
+40,Units in Structure: 1 ATTACHED,GA,Chatham,6287,6703,7104,7280,7212,7015,6477,6288,6019,5716
+41,Units in Structure: 1 DETACHED,GA,Chatham,72539,73422,73485,73670,74324,75145,76198,77190,78105,78431
+42,Units in Structure: 10-19,GA,Chatham,4917,5223,5952,5789,5871,6030,6232,5998,6643,6874
+43,Units in Structure: 2,GA,Chatham,4849,4791,5051,4992,4983,5044,5178,5272,5108,5608
+44,Units in Structure: 20-49,GA,Chatham,2471,2713,2990,3247,3346,3783,4123,4206,4031,4090
+45,Units in Structure: 3-4,GA,Chatham,7404,7409,6895,6805,7002,7395,7289,7546,7559,7639
+46,Units in Structure: 5-9,GA,Chatham,10020,9662,9618,9617,9047,8096,8401,7800,7627,8163
+47,Units in Structure: 50+,GA,Chatham,2656,3017,2906,3068,3332,3505,3286,3587,3893,3866
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Chatham,39,83,86,130,149,118,82,68,49,47
+49,Units in Structure: Mobile Home,GA,Chatham,5450,5259,5231,5548,5743,5746,5436,5600,5266,4838
+40,Units in Structure: 1 ATTACHED,GA,Chattahoochee,419,376,462,506,479,522,521,478,561,568
+41,Units in Structure: 1 DETACHED,GA,Chattahoochee,1052,1113,1258,1387,1367,1349,1253,1354,1138,1199
+42,Units in Structure: 10-19,GA,Chattahoochee,25,8,0,28,47,30,27,34,30,30
+43,Units in Structure: 2,GA,Chattahoochee,561,579,418,395,420,330,361,332,350,275
+44,Units in Structure: 20-49,GA,Chattahoochee,23,28,0,4,4,4,5,4,0,0
+45,Units in Structure: 3-4,GA,Chattahoochee,263,281,220,281,342,400,402,413,404,387
+46,Units in Structure: 5-9,GA,Chattahoochee,373,345,350,144,182,151,192,213,241,242
+47,Units in Structure: 50+,GA,Chattahoochee,85,93,107,91,52,47,25,20,17,20
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Chattahoochee,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Chattahoochee,573,551,556,525,466,519,556,501,605,620
+40,Units in Structure: 1 ATTACHED,GA,Chattooga,53,63,87,103,94,92,79,90,84,111
+41,Units in Structure: 1 DETACHED,GA,Chattooga,7384,7471,7472,7496,7517,7442,7571,7518,7378,7321
+42,Units in Structure: 10-19,GA,Chattooga,124,100,81,21,25,27,28,26,53,77
+43,Units in Structure: 2,GA,Chattooga,352,377,394,392,283,316,269,279,231,286
+44,Units in Structure: 20-49,GA,Chattooga,78,0,23,25,44,60,62,58,110,107
+45,Units in Structure: 3-4,GA,Chattooga,258,271,328,251,283,316,244,268,247,256
+46,Units in Structure: 5-9,GA,Chattooga,229,264,307,260,262,197,273,284,276,361
+47,Units in Structure: 50+,GA,Chattooga,80,92,94,90,114,106,89,95,116,82
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Chattooga,11,9,11,13,12,11,12,12,29,27
+49,Units in Structure: Mobile Home,GA,Chattooga,2422,2343,2169,2262,2288,2336,2264,2331,2432,2353
+40,Units in Structure: 1 ATTACHED,GA,Cherokee,3079,3472,3128,2930,3342,3475,3304,3818,3933,4102
+41,Units in Structure: 1 DETACHED,GA,Cherokee,66333,66868,67993,68592,68440,69138,70631,72159,73654,75716
+42,Units in Structure: 10-19,GA,Cherokee,2797,2659,2742,2408,2267,2525,2809,2553,2674,2621
+43,Units in Structure: 2,GA,Cherokee,352,437,634,724,671,525,589,455,355,307
+44,Units in Structure: 20-49,GA,Cherokee,2137,2264,2153,2188,2295,2118,2117,2536,2298,2334
+45,Units in Structure: 3-4,GA,Cherokee,583,529,614,752,811,982,1050,827,805,832
+46,Units in Structure: 5-9,GA,Cherokee,892,843,715,820,1016,969,916,978,1260,1189
+47,Units in Structure: 50+,GA,Cherokee,789,988,1080,1169,1108,1235,1063,1147,1582,1674
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Cherokee,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Cherokee,3220,3527,3338,3316,3684,3640,3447,3468,3371,3418
+40,Units in Structure: 1 ATTACHED,GA,Clarke,2036,1819,1735,1889,2366,2501,2954,3366,3723,3763
+41,Units in Structure: 1 DETACHED,GA,Clarke,24339,24018,24283,24305,24328,24484,24657,24874,25059,24723
+42,Units in Structure: 10-19,GA,Clarke,4636,5042,5190,5243,4987,5160,4737,4333,4038,4606
+43,Units in Structure: 2,GA,Clarke,3888,3907,3953,4430,4638,4247,4288,4258,3921,3551
+44,Units in Structure: 20-49,GA,Clarke,3234,3271,3193,3199,3201,3120,3123,2782,2690,2874
+45,Units in Structure: 3-4,GA,Clarke,3692,3875,3982,3560,3283,3407,3235,3349,3614,3748
+46,Units in Structure: 5-9,GA,Clarke,4420,4486,4324,4192,4069,3874,4139,4285,4385,4523
+47,Units in Structure: 50+,GA,Clarke,2111,2116,1960,1911,1989,2282,2395,2519,2582,2629
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Clarke,0,0,0,8,29,38,36,41,53,43
+49,Units in Structure: Mobile Home,GA,Clarke,2337,2410,2386,2323,2402,2416,2304,2498,2545,2481
+40,Units in Structure: 1 ATTACHED,GA,Clay,0,18,40,40,33,32,20,7,8,0
+41,Units in Structure: 1 DETACHED,GA,Clay,1245,1230,1329,1231,1121,1099,1098,1122,1090,1192
+42,Units in Structure: 10-19,GA,Clay,0,0,9,7,9,7,7,5,5,3
+43,Units in Structure: 2,GA,Clay,63,77,53,44,59,49,42,43,34,16
+44,Units in Structure: 20-49,GA,Clay,3,6,11,10,9,17,14,13,15,16
+45,Units in Structure: 3-4,GA,Clay,0,0,0,0,0,0,0,6,7,5
+46,Units in Structure: 5-9,GA,Clay,56,71,80,75,63,53,57,54,42,42
+47,Units in Structure: 50+,GA,Clay,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Clay,0,0,0,0,0,5,6,7,7,15
+49,Units in Structure: Mobile Home,GA,Clay,550,578,556,584,569,621,659,711,769,784
+40,Units in Structure: 1 ATTACHED,GA,Clayton,4310,4569,4513,4423,4955,4889,4816,4866,5100,4918
+41,Units in Structure: 1 DETACHED,GA,Clayton,65906,66648,66044,66501,66355,67328,66799,67548,67063,67547
+42,Units in Structure: 10-19,GA,Clayton,8328,8667,8249,8302,7975,7895,7402,7200,7432,7668
+43,Units in Structure: 2,GA,Clayton,1387,1241,1431,1395,1448,1364,1467,1170,1433,1473
+44,Units in Structure: 20-49,GA,Clayton,2781,2687,2901,3282,3487,3598,4045,4383,4068,3746
+45,Units in Structure: 3-4,GA,Clayton,4407,3968,4257,4265,3773,3700,3906,3693,4266,3853
+46,Units in Structure: 5-9,GA,Clayton,11649,11878,12284,11938,12341,11586,11606,11492,11023,11304
+47,Units in Structure: 50+,GA,Clayton,2118,1827,1768,1458,1349,1305,1503,1611,1558,1652
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Clayton,14,0,11,11,12,15,34,34,49,62
+49,Units in Structure: Mobile Home,GA,Clayton,3299,3091,3338,3050,2906,2976,3121,3061,3306,3370
+40,Units in Structure: 1 ATTACHED,GA,Clinch,45,87,59,52,59,16,12,18,14,20
+41,Units in Structure: 1 DETACHED,GA,Clinch,1945,1788,1843,1826,1854,1783,1856,1742,1647,1735
+42,Units in Structure: 10-19,GA,Clinch,0,9,12,19,20,22,10,10,2,3
+43,Units in Structure: 2,GA,Clinch,80,91,65,65,66,74,48,69,97,72
+44,Units in Structure: 20-49,GA,Clinch,0,4,4,3,6,5,0,0,0,0
+45,Units in Structure: 3-4,GA,Clinch,26,42,86,95,147,155,118,77,67,37
+46,Units in Structure: 5-9,GA,Clinch,103,166,145,131,107,59,23,36,25,49
+47,Units in Structure: 50+,GA,Clinch,50,45,40,37,21,4,7,14,7,23
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Clinch,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Clinch,745,773,741,755,711,856,892,1037,1138,1077
+40,Units in Structure: 1 ATTACHED,GA,Cobb,20410,21280,21502,21668,21896,23475,24344,25104,26113,27380
+41,Units in Structure: 1 DETACHED,GA,Cobb,187976,188490,189036,189949,190842,191582,192573,194681,195530,196287
+42,Units in Structure: 10-19,GA,Cobb,27841,27781,25776,25234,24091,23330,23623,23676,22729,22645
+43,Units in Structure: 2,GA,Cobb,3300,3157,2914,2533,2610,2701,2642,2297,2288,2310
+44,Units in Structure: 20-49,GA,Cobb,10897,12004,13594,12534,12663,12726,13707,14074,16029,16768
+45,Units in Structure: 3-4,GA,Cobb,6462,7203,7463,7654,7794,7070,6384,6058,6003,5453
+46,Units in Structure: 5-9,GA,Cobb,16860,15399,15291,15327,16819,16747,16632,16041,16120,15415
+47,Units in Structure: 50+,GA,Cobb,5418,6003,6763,8406,8477,8954,9011,9055,8799,9759
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Cobb,57,61,56,66,51,71,77,79,73,36
+49,Units in Structure: Mobile Home,GA,Cobb,3977,3895,4133,4194,3846,4307,4091,4162,3979,3994
+40,Units in Structure: 1 ATTACHED,GA,Coffee,142,118,121,78,83,92,92,71,59,75
+41,Units in Structure: 1 DETACHED,GA,Coffee,9678,9874,9717,9685,9716,9562,9489,9764,9678,9873
+42,Units in Structure: 10-19,GA,Coffee,152,0,0,0,38,40,48,84,97,64
+43,Units in Structure: 2,GA,Coffee,312,407,335,321,375,439,467,572,474,456
+44,Units in Structure: 20-49,GA,Coffee,76,111,55,100,108,119,73,142,72,52
+45,Units in Structure: 3-4,GA,Coffee,544,520,602,499,554,448,484,474,571,509
+46,Units in Structure: 5-9,GA,Coffee,185,184,218,282,275,280,215,253,207,162
+47,Units in Structure: 50+,GA,Coffee,47,38,38,39,39,30,30,35,34,66
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Coffee,11,6,0,0,0,0,14,49,57,76
+49,Units in Structure: Mobile Home,GA,Coffee,5849,5777,5974,5972,5837,5964,5997,5740,5970,5953
+40,Units in Structure: 1 ATTACHED,GA,Colquitt,454,357,371,420,388,363,473,612,639,676
+41,Units in Structure: 1 DETACHED,GA,Colquitt,10224,10850,11035,10726,10627,10610,10168,10219,10355,10554
+42,Units in Structure: 10-19,GA,Colquitt,282,337,327,353,478,392,370,354,271,153
+43,Units in Structure: 2,GA,Colquitt,503,528,691,548,436,469,425,308,351,473
+44,Units in Structure: 20-49,GA,Colquitt,84,86,69,112,165,145,166,215,166,106
+45,Units in Structure: 3-4,GA,Colquitt,529,492,442,443,548,567,567,573,497,542
+46,Units in Structure: 5-9,GA,Colquitt,697,579,630,591,591,492,538,417,339,249
+47,Units in Structure: 50+,GA,Colquitt,39,60,60,50,45,53,50,69,70,74
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Colquitt,19,10,11,26,26,28,27,18,0,0
+49,Units in Structure: Mobile Home,GA,Colquitt,5373,4964,4664,4988,5004,5197,5505,5725,5879,5823
+40,Units in Structure: 1 ATTACHED,GA,Columbia,2423,2457,2748,2811,2920,3086,3068,3275,3722,3739
+41,Units in Structure: 1 DETACHED,GA,Columbia,35838,37430,38033,39444,40469,41529,42629,43497,44601,45493
+42,Units in Structure: 10-19,GA,Columbia,683,722,917,815,1087,1219,1400,1978,1709,1840
+43,Units in Structure: 2,GA,Columbia,369,396,464,487,481,496,603,534,514,545
+44,Units in Structure: 20-49,GA,Columbia,259,275,306,276,240,213,239,226,260,348
+45,Units in Structure: 3-4,GA,Columbia,835,963,899,971,1041,967,798,864,714,821
+46,Units in Structure: 5-9,GA,Columbia,1000,938,830,762,577,682,658,708,730,710
+47,Units in Structure: 50+,GA,Columbia,296,289,361,386,360,335,293,359,383,427
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Columbia,0,0,0,0,0,0,0,5,4,4
+49,Units in Structure: Mobile Home,GA,Columbia,4611,4246,4285,3974,3950,3740,3750,3495,3541,3446
+40,Units in Structure: 1 ATTACHED,GA,Cook,69,59,63,42,62,99,67,76,111,118
+41,Units in Structure: 1 DETACHED,GA,Cook,4507,4683,4669,4456,4361,4227,4309,4339,4374,4351
+42,Units in Structure: 10-19,GA,Cook,4,13,13,21,22,39,26,25,30,104
+43,Units in Structure: 2,GA,Cook,57,60,66,71,77,53,47,53,49,42
+44,Units in Structure: 20-49,GA,Cook,21,14,0,0,0,4,5,4,4,4
+45,Units in Structure: 3-4,GA,Cook,105,115,123,160,188,270,214,238,160,166
+46,Units in Structure: 5-9,GA,Cook,155,169,98,87,127,82,50,52,181,126
+47,Units in Structure: 50+,GA,Cook,0,0,0,0,0,0,0,15,9,13
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Cook,0,0,0,0,0,0,0,23,24,31
+49,Units in Structure: Mobile Home,GA,Cook,2273,2133,2241,2407,2427,2473,2521,2529,2444,2464
+40,Units in Structure: 1 ATTACHED,GA,Coweta,1024,1147,1245,1190,1217,1403,1168,1187,1345,1141
+41,Units in Structure: 1 DETACHED,GA,Coweta,39554,40553,41122,42042,42664,43020,43266,43956,44711,45759
+42,Units in Structure: 10-19,GA,Coweta,1498,1762,1649,1333,1289,1352,1178,1399,1620,1525
+43,Units in Structure: 2,GA,Coweta,846,831,652,671,665,563,610,653,553,681
+44,Units in Structure: 20-49,GA,Coweta,738,648,867,1081,999,912,1114,1098,969,839
+45,Units in Structure: 3-4,GA,Coweta,1069,999,982,642,659,694,726,699,644,755
+46,Units in Structure: 5-9,GA,Coweta,1307,1338,1352,1421,1481,1423,1259,1316,1032,1080
+47,Units in Structure: 50+,GA,Coweta,301,363,328,433,432,524,798,893,925,996
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Coweta,41,50,0,21,16,17,22,55,64,120
+49,Units in Structure: Mobile Home,GA,Coweta,2097,1844,1909,1643,1512,1539,1864,1673,1884,1730
+40,Units in Structure: 1 ATTACHED,GA,Crawford,62,71,71,66,28,27,23,19,28,21
+41,Units in Structure: 1 DETACHED,GA,Crawford,3003,2973,3052,3085,3032,3017,3151,3062,3015,2841
+42,Units in Structure: 10-19,GA,Crawford,7,8,18,16,22,20,16,9,16,13
+43,Units in Structure: 2,GA,Crawford,83,65,60,65,63,61,74,38,49,67
+44,Units in Structure: 20-49,GA,Crawford,0,1,2,1,3,4,3,3,6,30
+45,Units in Structure: 3-4,GA,Crawford,30,27,20,32,19,28,27,29,26,44
+46,Units in Structure: 5-9,GA,Crawford,12,41,42,42,39,43,28,51,53,46
+47,Units in Structure: 50+,GA,Crawford,0,0,0,14,16,28,26,42,0,12
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Crawford,0,0,0,0,14,14,15,14,13,17
+49,Units in Structure: Mobile Home,GA,Crawford,2136,2125,2045,1948,2043,2015,1899,2073,2147,2271
+40,Units in Structure: 1 ATTACHED,GA,Crisp,72,38,17,9,7,29,73,85,74,74
+41,Units in Structure: 1 DETACHED,GA,Crisp,6302,6411,6685,6870,6798,6825,6697,6482,6733,6562
+42,Units in Structure: 10-19,GA,Crisp,54,33,86,83,131,50,95,80,133,110
+43,Units in Structure: 2,GA,Crisp,1020,839,873,635,616,565,552,522,469,504
+44,Units in Structure: 20-49,GA,Crisp,43,78,77,94,62,72,65,66,96,111
+45,Units in Structure: 3-4,GA,Crisp,354,385,336,363,171,210,196,255,261,342
+46,Units in Structure: 5-9,GA,Crisp,489,519,454,507,452,445,391,476,410,546
+47,Units in Structure: 50+,GA,Crisp,5,26,32,38,36,102,79,85,100,118
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Crisp,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Crisp,2273,2363,2154,2116,2446,2422,2567,2730,2501,2425
+40,Units in Structure: 1 ATTACHED,GA,Dade,79,69,61,60,49,32,22,20,8,9
+41,Units in Structure: 1 DETACHED,GA,Dade,5115,5126,5037,5077,5203,5308,5063,5128,5191,4976
+42,Units in Structure: 10-19,GA,Dade,28,44,19,8,18,15,27,28,45,37
+43,Units in Structure: 2,GA,Dade,191,182,175,173,89,48,51,45,72,168
+44,Units in Structure: 20-49,GA,Dade,45,23,21,45,38,50,57,61,40,49
+45,Units in Structure: 3-4,GA,Dade,66,93,124,182,111,125,195,199,145,153
+46,Units in Structure: 5-9,GA,Dade,98,99,139,121,108,123,195,169,158,188
+47,Units in Structure: 50+,GA,Dade,0,0,0,7,8,6,20,36,31,44
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Dade,26,8,0,0,0,6,35,51,42,45
+49,Units in Structure: Mobile Home,GA,Dade,1502,1598,1673,1595,1655,1556,1607,1595,1556,1621
+40,Units in Structure: 1 ATTACHED,GA,Dawson,224,262,217,231,229,167,137,147,166,129
+41,Units in Structure: 1 DETACHED,GA,Dawson,8123,8176,8392,8362,8464,8517,8884,8981,9244,9545
+42,Units in Structure: 10-19,GA,Dawson,141,167,155,144,128,138,71,133,166,188
+43,Units in Structure: 2,GA,Dawson,68,15,6,3,8,5,43,35,53,69
+44,Units in Structure: 20-49,GA,Dawson,15,80,45,44,40,28,0,0,0,68
+45,Units in Structure: 3-4,GA,Dawson,122,121,133,142,125,118,148,210,224,255
+46,Units in Structure: 5-9,GA,Dawson,74,73,115,184,163,208,231,160,91,125
+47,Units in Structure: 50+,GA,Dawson,11,10,12,11,6,40,40,47,59,71
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Dawson,0,0,0,0,0,0,0,12,14,17
+49,Units in Structure: Mobile Home,GA,Dawson,1373,1420,1333,1317,1329,1320,1091,1189,1123,997
+40,Units in Structure: 1 ATTACHED,GA,Decatur,151,160,156,145,137,106,80,94,78,43
+41,Units in Structure: 1 DETACHED,GA,Decatur,7762,7606,7812,7862,7694,7798,7684,7772,7935,8133
+42,Units in Structure: 10-19,GA,Decatur,128,189,157,122,152,158,130,134,117,105
+43,Units in Structure: 2,GA,Decatur,368,522,436,401,342,466,373,420,559,630
+44,Units in Structure: 20-49,GA,Decatur,45,56,61,41,33,74,67,64,67,62
+45,Units in Structure: 3-4,GA,Decatur,644,712,718,743,812,854,874,826,574,542
+46,Units in Structure: 5-9,GA,Decatur,177,157,263,370,327,351,355,326,128,171
+47,Units in Structure: 50+,GA,Decatur,18,42,49,58,63,48,28,29,7,62
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Decatur,41,37,39,45,54,17,16,21,34,49
+49,Units in Structure: Mobile Home,GA,Decatur,3000,2735,2531,2366,2521,2265,2513,2514,2705,2419
+40,Units in Structure: 1 ATTACHED,GA,DeKalb,18795,19960,20349,19816,20252,20041,19893,20500,21221,22211
+41,Units in Structure: 1 DETACHED,GA,DeKalb,171538,172415,172743,173076,172452,172748,172509,173465,173783,175415
+42,Units in Structure: 10-19,GA,DeKalb,31564,31794,31920,32558,31564,30786,30356,29166,29159,30007
+43,Units in Structure: 2,GA,DeKalb,3935,3861,3901,3934,3843,3547,3648,3525,3412,3258
+44,Units in Structure: 20-49,GA,DeKalb,14649,15646,16071,15859,17122,18828,17973,17751,19177,18896
+45,Units in Structure: 3-4,GA,DeKalb,12839,12147,12658,13065,12939,12915,13413,13058,12302,12037
+46,Units in Structure: 5-9,GA,DeKalb,33473,31073,29532,28474,27701,26865,27540,27488,26786,26381
+47,Units in Structure: 50+,GA,DeKalb,13592,14767,15816,16599,17869,18694,20197,21260,22289,22153
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,DeKalb,134,146,188,105,128,126,102,51,46,13
+49,Units in Structure: Mobile Home,GA,DeKalb,1477,1621,1680,1736,1738,1668,1624,1512,1493,1509
+40,Units in Structure: 1 ATTACHED,GA,Dodge,49,41,47,49,45,38,29,54,51,76
+41,Units in Structure: 1 DETACHED,GA,Dodge,6103,6254,6259,6360,6334,6371,6198,5879,5752,5466
+42,Units in Structure: 10-19,GA,Dodge,21,23,54,46,36,69,95,102,116,133
+43,Units in Structure: 2,GA,Dodge,326,244,222,213,194,170,203,234,224,259
+44,Units in Structure: 20-49,GA,Dodge,26,14,9,23,23,17,21,14,37,26
+45,Units in Structure: 3-4,GA,Dodge,256,356,178,217,215,90,47,191,175,195
+46,Units in Structure: 5-9,GA,Dodge,179,216,195,268,251,218,241,247,157,305
+47,Units in Structure: 50+,GA,Dodge,14,10,15,19,21,24,29,26,21,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Dodge,0,0,0,0,0,19,31,9,25,36
+49,Units in Structure: Mobile Home,GA,Dodge,2616,2596,2793,2575,2697,2751,2849,3066,3252,3352
+40,Units in Structure: 1 ATTACHED,GA,Dooly,99,90,101,91,15,53,81,100,96,83
+41,Units in Structure: 1 DETACHED,GA,Dooly,3635,3542,3507,3504,3560,3476,3720,3940,3967,4217
+42,Units in Structure: 10-19,GA,Dooly,21,16,14,21,11,9,9,8,0,0
+43,Units in Structure: 2,GA,Dooly,161,192,129,103,93,147,176,148,139,115
+44,Units in Structure: 20-49,GA,Dooly,36,40,37,3,0,31,34,36,31,21
+45,Units in Structure: 3-4,GA,Dooly,155,209,242,238,195,220,196,165,89,93
+46,Units in Structure: 5-9,GA,Dooly,124,155,207,212,196,230,181,132,116,113
+47,Units in Structure: 50+,GA,Dooly,8,7,8,0,15,15,16,14,10,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Dooly,0,0,0,0,15,12,8,8,13,0
+49,Units in Structure: Mobile Home,GA,Dooly,1744,1924,1972,2072,2175,2046,1807,1712,1792,1618
+40,Units in Structure: 1 ATTACHED,GA,Dougherty,1318,1267,1239,1368,1330,1257,1322,1403,1334,1247
+41,Units in Structure: 1 DETACHED,GA,Dougherty,24438,24281,24667,24822,24728,24552,24752,24813,24712,24892
+42,Units in Structure: 10-19,GA,Dougherty,1253,1097,907,1031,893,945,1036,1151,1191,1016
+43,Units in Structure: 2,GA,Dougherty,4575,4419,4375,3892,3906,4180,4292,3944,4240,4376
+44,Units in Structure: 20-49,GA,Dougherty,301,392,507,499,542,544,389,382,491,471
+45,Units in Structure: 3-4,GA,Dougherty,3127,3710,3520,3675,3453,3235,3177,3308,3185,3611
+46,Units in Structure: 5-9,GA,Dougherty,3155,3230,3453,3276,3684,3867,3406,3353,3144,2763
+47,Units in Structure: 50+,GA,Dougherty,496,462,433,374,370,302,265,357,351,364
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Dougherty,7,28,48,56,71,81,84,60,29,9
+49,Units in Structure: Mobile Home,GA,Dougherty,2250,1999,1671,1746,1777,1743,1990,1931,1960,1861
+40,Units in Structure: 1 ATTACHED,GA,Douglas,880,981,976,1149,1134,1556,1567,1626,1568,1967
+41,Units in Structure: 1 DETACHED,GA,Douglas,38570,38965,39522,38930,39283,38884,39662,40174,40253,40305
+42,Units in Structure: 10-19,GA,Douglas,3222,3344,3202,3248,3095,2760,2758,2523,2701,2581
+43,Units in Structure: 2,GA,Douglas,714,720,788,793,870,818,689,750,757,665
+44,Units in Structure: 20-49,GA,Douglas,1663,1783,1805,1769,1692,2027,1852,1750,1808,1664
+45,Units in Structure: 3-4,GA,Douglas,695,820,679,761,732,948,861,1057,913,834
+46,Units in Structure: 5-9,GA,Douglas,1468,1458,1685,1912,1838,1820,1831,1723,1932,2247
+47,Units in Structure: 50+,GA,Douglas,372,392,503,486,586,586,506,405,472,499
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Douglas,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Douglas,2692,2693,2292,2518,2464,2376,2165,2176,2035,1924
+40,Units in Structure: 1 ATTACHED,GA,Early,54,49,49,50,68,30,28,23,25,6
+41,Units in Structure: 1 DETACHED,GA,Early,3378,3293,3461,3403,3281,3271,3253,3336,3335,3487
+42,Units in Structure: 10-19,GA,Early,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,GA,Early,92,92,84,75,78,114,74,59,70,77
+44,Units in Structure: 20-49,GA,Early,0,0,0,0,3,5,8,3,24,6
+45,Units in Structure: 3-4,GA,Early,91,96,88,101,114,143,149,208,158,165
+46,Units in Structure: 5-9,GA,Early,109,141,113,133,74,53,20,25,8,7
+47,Units in Structure: 50+,GA,Early,12,13,7,11,23,20,18,12,5,8
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Early,0,0,11,6,4,4,4,0,0,0
+49,Units in Structure: Mobile Home,GA,Early,1332,1327,1193,1169,1292,1290,1370,1304,1347,1222
+40,Units in Structure: 1 ATTACHED,GA,Echols,6,0,6,6,7,6,5,7,7,7
+41,Units in Structure: 1 DETACHED,GA,Echols,684,551,657,684,740,830,809,796,828,733
+42,Units in Structure: 10-19,GA,Echols,59,105,22,77,71,44,47,51,28,7
+43,Units in Structure: 2,GA,Echols,0,5,6,5,5,22,15,17,21,20
+44,Units in Structure: 20-49,GA,Echols,0,0,0,10,15,31,28,25,13,14
+45,Units in Structure: 3-4,GA,Echols,0,0,0,0,0,0,0,0,0,0
+46,Units in Structure: 5-9,GA,Echols,0,0,0,0,0,0,0,0,0,5
+47,Units in Structure: 50+,GA,Echols,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Echols,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Echols,818,934,901,849,868,732,759,831,941,1085
+40,Units in Structure: 1 ATTACHED,GA,Effingham,212,186,217,197,274,267,185,289,332,283
+41,Units in Structure: 1 DETACHED,GA,Effingham,12647,12907,13193,13502,13919,14117,14667,15314,15901,15964
+42,Units in Structure: 10-19,GA,Effingham,369,408,325,290,254,239,176,298,318,255
+43,Units in Structure: 2,GA,Effingham,396,335,263,191,157,138,169,212,172,183
+44,Units in Structure: 20-49,GA,Effingham,21,40,104,105,98,92,126,126,170,202
+45,Units in Structure: 3-4,GA,Effingham,73,140,215,214,219,284,304,244,285,286
+46,Units in Structure: 5-9,GA,Effingham,451,419,515,533,526,490,426,477,473,436
+47,Units in Structure: 50+,GA,Effingham,14,16,48,101,82,92,80,66,52,99
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Effingham,0,0,13,11,18,31,25,47,59,84
+49,Units in Structure: Mobile Home,GA,Effingham,5140,5255,4964,4775,4602,4611,4574,4435,4348,4953
+40,Units in Structure: 1 ATTACHED,GA,Elbert,77,116,83,91,89,82,56,57,60,60
+41,Units in Structure: 1 DETACHED,GA,Elbert,6080,6183,6256,6143,6072,6054,6167,6120,6412,6441
+42,Units in Structure: 10-19,GA,Elbert,13,2,18,31,52,37,53,24,24,12
+43,Units in Structure: 2,GA,Elbert,297,212,241,206,211,116,100,148,190,235
+44,Units in Structure: 20-49,GA,Elbert,18,33,15,12,19,17,14,17,22,19
+45,Units in Structure: 3-4,GA,Elbert,55,31,49,48,86,57,41,105,140,186
+46,Units in Structure: 5-9,GA,Elbert,266,367,419,421,395,418,377,278,146,143
+47,Units in Structure: 50+,GA,Elbert,117,135,150,163,112,121,94,97,84,123
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Elbert,11,10,16,16,28,14,14,7,6,0
+49,Units in Structure: Mobile Home,GA,Elbert,2602,2477,2321,2414,2472,2605,2593,2740,2516,2411
+40,Units in Structure: 1 ATTACHED,GA,Emanuel,93,103,183,195,149,151,108,45,47,106
+41,Units in Structure: 1 DETACHED,GA,Emanuel,6214,6132,6396,6491,6603,6604,6565,6610,6425,6139
+42,Units in Structure: 10-19,GA,Emanuel,22,21,15,6,38,30,33,31,42,18
+43,Units in Structure: 2,GA,Emanuel,189,208,149,174,181,185,242,326,315,409
+44,Units in Structure: 20-49,GA,Emanuel,30,34,44,27,25,27,24,32,33,20
+45,Units in Structure: 3-4,GA,Emanuel,383,405,304,216,225,312,320,353,338,427
+46,Units in Structure: 5-9,GA,Emanuel,111,129,61,30,75,72,52,149,237,197
+47,Units in Structure: 50+,GA,Emanuel,10,9,11,28,18,16,13,27,12,10
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Emanuel,0,9,18,17,13,10,6,0,14,12
+49,Units in Structure: Mobile Home,GA,Emanuel,2849,2882,2774,2725,2594,2497,2506,2366,2483,2597
+40,Units in Structure: 1 ATTACHED,GA,Evans,58,15,17,16,47,18,19,24,22,4
+41,Units in Structure: 1 DETACHED,GA,Evans,2909,2875,2818,2763,2757,2689,2631,2598,2729,2752
+42,Units in Structure: 10-19,GA,Evans,19,44,46,31,31,42,34,21,21,37
+43,Units in Structure: 2,GA,Evans,65,58,79,142,180,173,179,223,184,181
+44,Units in Structure: 20-49,GA,Evans,0,0,19,26,34,30,41,22,17,16
+45,Units in Structure: 3-4,GA,Evans,15,24,46,53,39,70,78,56,74,101
+46,Units in Structure: 5-9,GA,Evans,113,95,87,67,45,29,53,73,84,106
+47,Units in Structure: 50+,GA,Evans,0,0,0,0,0,0,0,4,4,3
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Evans,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Evans,1459,1544,1542,1536,1513,1586,1592,1697,1577,1549
+40,Units in Structure: 1 ATTACHED,GA,Fannin,87,77,178,196,192,171,191,133,171,202
+41,Units in Structure: 1 DETACHED,GA,Fannin,12611,12769,12935,13261,13651,13775,14043,14299,14349,14380
+42,Units in Structure: 10-19,GA,Fannin,49,37,33,30,7,27,89,105,142,138
+43,Units in Structure: 2,GA,Fannin,154,317,301,222,157,144,78,78,107,120
+44,Units in Structure: 20-49,GA,Fannin,12,8,7,34,108,106,94,95,103,108
+45,Units in Structure: 3-4,GA,Fannin,317,344,308,263,218,157,134,130,133,151
+46,Units in Structure: 5-9,GA,Fannin,191,190,105,131,73,72,83,181,143,147
+47,Units in Structure: 50+,GA,Fannin,48,36,20,25,21,4,0,17,44,78
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Fannin,0,0,0,15,22,44,49,62,63,64
+49,Units in Structure: Mobile Home,GA,Fannin,2594,2378,2367,2101,1942,1982,1831,1743,1773,1851
+40,Units in Structure: 1 ATTACHED,GA,Fayette,1112,1201,1263,1191,980,1181,1158,1213,1317,1395
+41,Units in Structure: 1 DETACHED,GA,Fayette,34081,34569,34799,34875,34880,35003,35081,35524,36022,36260
+42,Units in Structure: 10-19,GA,Fayette,710,683,614,740,752,768,725,694,603,545
+43,Units in Structure: 2,GA,Fayette,236,226,232,299,359,398,414,401,294,295
+44,Units in Structure: 20-49,GA,Fayette,457,412,459,336,514,585,670,529,511,443
+45,Units in Structure: 3-4,GA,Fayette,483,572,438,553,583,427,347,571,538,479
+46,Units in Structure: 5-9,GA,Fayette,1184,1072,1128,1027,1078,1056,1196,1078,1104,1118
+47,Units in Structure: 50+,GA,Fayette,338,323,442,567,650,604,616,681,659,686
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Fayette,7,6,8,7,12,11,49,50,43,48
+49,Units in Structure: Mobile Home,GA,Fayette,1597,1507,1360,1241,1179,1099,1135,1006,1015,1261
+40,Units in Structure: 1 ATTACHED,GA,Floyd,648,738,745,688,676,590,544,615,634,711
+41,Units in Structure: 1 DETACHED,GA,Floyd,29388,29528,29205,29465,29290,29046,29137,29207,28944,28828
+42,Units in Structure: 10-19,GA,Floyd,819,853,1007,915,951,1070,970,852,879,802
+43,Units in Structure: 2,GA,Floyd,2625,2622,2560,2518,2767,2538,2677,2548,2451,2354
+44,Units in Structure: 20-49,GA,Floyd,468,444,404,456,502,459,511,493,452,579
+45,Units in Structure: 3-4,GA,Floyd,1066,1033,977,924,839,1034,1129,1243,1297,1374
+46,Units in Structure: 5-9,GA,Floyd,1076,1149,1181,1145,1163,1193,954,1031,1113,964
+47,Units in Structure: 50+,GA,Floyd,599,669,715,772,853,814,841,915,1115,1163
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Floyd,0,0,0,0,19,16,19,21,32,13
+49,Units in Structure: Mobile Home,GA,Floyd,3618,3408,3719,3560,3415,3698,3664,3536,3588,3811
+40,Units in Structure: 1 ATTACHED,GA,Forsyth,3019,3134,3147,3415,3778,3601,3770,4288,4853,4762
+41,Units in Structure: 1 DETACHED,GA,Forsyth,52433,53881,54962,55991,57160,59365,61585,63917,65848,68705
+42,Units in Structure: 10-19,GA,Forsyth,275,416,361,395,347,393,552,689,920,1110
+43,Units in Structure: 2,GA,Forsyth,283,305,288,203,218,227,222,185,235,277
+44,Units in Structure: 20-49,GA,Forsyth,486,504,531,522,566,621,616,688,957,904
+45,Units in Structure: 3-4,GA,Forsyth,684,545,491,446,410,341,391,412,423,326
+46,Units in Structure: 5-9,GA,Forsyth,339,374,431,479,403,437,400,456,523,570
+47,Units in Structure: 50+,GA,Forsyth,156,397,453,573,647,726,509,677,737,938
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Forsyth,7,9,14,22,10,11,44,48,53,72
+49,Units in Structure: Mobile Home,GA,Forsyth,3371,3353,3634,3419,3506,3297,3377,3332,3249,3273
+40,Units in Structure: 1 ATTACHED,GA,Franklin,72,52,87,88,106,94,115,95,116,91
+41,Units in Structure: 1 DETACHED,GA,Franklin,6904,6720,6721,6502,6400,6376,6437,6507,6599,6561
+42,Units in Structure: 10-19,GA,Franklin,47,68,78,83,61,33,44,37,37,50
+43,Units in Structure: 2,GA,Franklin,309,320,356,309,319,282,262,271,294,251
+44,Units in Structure: 20-49,GA,Franklin,43,32,34,40,47,41,64,41,26,36
+45,Units in Structure: 3-4,GA,Franklin,139,135,153,155,127,119,172,199,155,204
+46,Units in Structure: 5-9,GA,Franklin,235,219,152,118,107,128,125,119,126,173
+47,Units in Structure: 50+,GA,Franklin,25,18,19,18,51,56,40,38,45,10
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Franklin,16,0,0,0,0,34,31,30,47,37
+49,Units in Structure: Mobile Home,GA,Franklin,2578,2908,2908,3161,3281,3317,3174,3241,3159,3247
+40,Units in Structure: 1 ATTACHED,GA,Fulton,27551,28178,28363,28814,28984,27719,28003,27739,27744,28375
+41,Units in Structure: 1 DETACHED,GA,Fulton,210299,213453,214056,214849,214313,215710,217063,220644,223017,225036
+42,Units in Structure: 10-19,GA,Fulton,50825,50271,48402,45776,47738,50185,50806,50877,51345,50315
+43,Units in Structure: 2,GA,Fulton,9549,9180,9354,9225,8556,8103,7912,7454,7151,7703
+44,Units in Structure: 20-49,GA,Fulton,26004,27242,27234,26220,25253,24874,23274,23021,23886,24687
+45,Units in Structure: 3-4,GA,Fulton,15121,15326,15337,15594,16462,15772,16374,16621,16371,15319
+46,Units in Structure: 5-9,GA,Fulton,38200,35008,34504,36488,35462,38195,39257,39191,38494,38102
+47,Units in Structure: 50+,GA,Fulton,50151,53811,57672,59220,61799,61943,64416,68187,73016,79005
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Fulton,124,148,177,195,172,240,233,178,197,303
+49,Units in Structure: Mobile Home,GA,Fulton,2300,2132,2403,2178,2218,2020,2595,2353,2623,2991
+40,Units in Structure: 1 ATTACHED,GA,Gilmer,92,91,85,106,165,199,94,148,110,166
+41,Units in Structure: 1 DETACHED,GA,Gilmer,10925,11793,12280,12451,12671,12383,12431,12721,12929,12699
+42,Units in Structure: 10-19,GA,Gilmer,205,216,188,72,58,49,83,97,131,117
+43,Units in Structure: 2,GA,Gilmer,306,222,172,128,117,135,177,98,156,163
+44,Units in Structure: 20-49,GA,Gilmer,49,63,59,69,74,88,79,78,80,81
+45,Units in Structure: 3-4,GA,Gilmer,88,133,128,137,133,148,94,88,84,135
+46,Units in Structure: 5-9,GA,Gilmer,239,211,150,145,160,153,180,173,145,143
+47,Units in Structure: 50+,GA,Gilmer,7,23,35,41,52,52,45,24,40,35
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Gilmer,46,40,45,80,47,46,56,53,16,36
+49,Units in Structure: Mobile Home,GA,Gilmer,4228,3630,3405,3345,3139,3376,3421,3410,3300,3555
+40,Units in Structure: 1 ATTACHED,GA,Glascock,5,4,4,4,11,9,9,9,8,0
+41,Units in Structure: 1 DETACHED,GA,Glascock,811,817,814,834,809,859,894,873,853,939
+42,Units in Structure: 10-19,GA,Glascock,19,16,14,13,10,4,5,5,8,17
+43,Units in Structure: 2,GA,Glascock,32,18,15,25,19,13,12,11,8,22
+44,Units in Structure: 20-49,GA,Glascock,0,0,0,6,9,8,8,9,0,0
+45,Units in Structure: 3-4,GA,Glascock,0,0,0,8,7,6,5,5,0,0
+46,Units in Structure: 5-9,GA,Glascock,5,4,0,0,0,0,0,3,2,2
+47,Units in Structure: 50+,GA,Glascock,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Glascock,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Glascock,588,642,647,612,644,607,575,603,647,546
+40,Units in Structure: 1 ATTACHED,GA,Glynn,1651,1591,1431,1431,1507,1660,1904,2067,2015,2006
+41,Units in Structure: 1 DETACHED,GA,Glynn,25510,25723,26013,25733,26088,26253,26143,26417,26848,26999
+42,Units in Structure: 10-19,GA,Glynn,1402,1515,1382,1431,1255,1205,1254,1244,1352,1571
+43,Units in Structure: 2,GA,Glynn,1198,1419,1353,1531,1516,1378,1324,1479,1790,1810
+44,Units in Structure: 20-49,GA,Glynn,774,772,1059,1092,1070,1212,1266,1116,1113,1023
+45,Units in Structure: 3-4,GA,Glynn,1271,1155,1026,1166,1167,1184,1382,1604,1574,1555
+46,Units in Structure: 5-9,GA,Glynn,2495,2776,2640,2259,2564,2586,2426,2365,2429,2600
+47,Units in Structure: 50+,GA,Glynn,857,854,877,1026,1153,1139,1283,1326,1162,1195
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Glynn,0,0,14,14,60,59,63,101,102,45
+49,Units in Structure: Mobile Home,GA,Glynn,4579,4527,4878,5189,4808,4795,4703,4580,4297,4306
+40,Units in Structure: 1 ATTACHED,GA,Gordon,453,554,501,520,514,377,206,270,251,267
+41,Units in Structure: 1 DETACHED,GA,Gordon,15340,15166,15221,15326,15377,15450,15392,15771,15968,16086
+42,Units in Structure: 10-19,GA,Gordon,590,666,636,641,611,634,681,764,791,811
+43,Units in Structure: 2,GA,Gordon,188,267,336,469,490,635,578,562,399,369
+44,Units in Structure: 20-49,GA,Gordon,212,249,294,294,261,254,252,263,318,473
+45,Units in Structure: 3-4,GA,Gordon,831,834,830,583,510,555,559,487,699,741
+46,Units in Structure: 5-9,GA,Gordon,1101,1249,1227,1143,1026,816,899,698,715,731
+47,Units in Structure: 50+,GA,Gordon,124,141,194,192,191,189,194,198,228,265
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Gordon,0,0,11,9,11,21,22,8,8,11
+49,Units in Structure: Mobile Home,GA,Gordon,2974,2969,2956,3025,3250,3289,3472,3370,3078,2860
+40,Units in Structure: 1 ATTACHED,GA,Grady,129,102,139,121,95,54,40,17,15,3
+41,Units in Structure: 1 DETACHED,GA,Grady,6451,6500,6725,6578,6811,6992,6833,6856,6884,6802
+42,Units in Structure: 10-19,GA,Grady,29,36,11,11,18,21,96,86,125,151
+43,Units in Structure: 2,GA,Grady,195,213,129,133,183,254,223,233,201,195
+44,Units in Structure: 20-49,GA,Grady,0,11,18,18,36,35,34,22,51,63
+45,Units in Structure: 3-4,GA,Grady,128,77,221,240,242,254,251,227,267,306
+46,Units in Structure: 5-9,GA,Grady,117,103,65,92,76,121,150,180,140,176
+47,Units in Structure: 50+,GA,Grady,42,23,40,44,48,41,34,31,18,14
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Grady,0,0,0,0,0,12,11,19,41,40
+49,Units in Structure: Mobile Home,GA,Grady,3528,3637,3389,3467,3237,2933,2996,3138,3106,3119
+40,Units in Structure: 1 ATTACHED,GA,Greene,135,41,73,84,112,169,171,230,218,223
+41,Units in Structure: 1 DETACHED,GA,Greene,6022,6179,6250,6408,6706,6660,6736,6971,6985,7206
+42,Units in Structure: 10-19,GA,Greene,108,74,115,120,56,60,124,105,76,99
+43,Units in Structure: 2,GA,Greene,125,129,128,135,84,71,99,131,166,154
+44,Units in Structure: 20-49,GA,Greene,23,22,24,37,44,49,55,62,63,58
+45,Units in Structure: 3-4,GA,Greene,165,137,143,139,133,167,213,154,163,208
+46,Units in Structure: 5-9,GA,Greene,158,193,177,177,95,34,37,31,61,69
+47,Units in Structure: 50+,GA,Greene,0,0,0,0,0,7,11,12,46,92
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Greene,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Greene,1632,1769,1764,1669,1632,1721,1604,1586,1690,1644
+40,Units in Structure: 1 ATTACHED,GA,Gwinnett,17432,17414,17746,17231,16710,16826,17068,16424,16925,18151
+41,Units in Structure: 1 DETACHED,GA,Gwinnett,205540,208104,210149,211248,213748,215343,217363,221449,222973,223761
+42,Units in Structure: 10-19,GA,Gwinnett,21736,21124,19687,19223,18672,18520,18975,19778,20151,20253
+43,Units in Structure: 2,GA,Gwinnett,3342,3294,2748,2695,3109,3134,3449,3653,4352,4609
+44,Units in Structure: 20-49,GA,Gwinnett,12457,11652,10583,9665,9137,8575,7966,8435,9458,9567
+45,Units in Structure: 3-4,GA,Gwinnett,5211,5457,5906,6178,6208,6405,6492,5862,5770,5528
+46,Units in Structure: 5-9,GA,Gwinnett,12717,14548,16065,17406,17538,17101,16507,15262,13105,12679
+47,Units in Structure: 50+,GA,Gwinnett,3381,3537,3743,3878,4334,5188,5963,6648,7841,9557
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Gwinnett,12,52,83,111,186,290,239,201,226,210
+49,Units in Structure: Mobile Home,GA,Gwinnett,4771,4730,4837,4994,4694,4986,4822,4445,4748,4851
+40,Units in Structure: 1 ATTACHED,GA,Habersham,125,175,195,207,221,223,199,155,190,175
+41,Units in Structure: 1 DETACHED,GA,Habersham,12974,13257,13337,13143,13112,13042,13048,13563,13757,13878
+42,Units in Structure: 10-19,GA,Habersham,229,241,293,264,274,233,203,144,115,156
+43,Units in Structure: 2,GA,Habersham,289,298,280,246,255,206,269,260,266,253
+44,Units in Structure: 20-49,GA,Habersham,3,3,12,45,51,89,90,123,93,104
+45,Units in Structure: 3-4,GA,Habersham,381,374,322,311,358,290,342,377,361,298
+46,Units in Structure: 5-9,GA,Habersham,456,497,498,451,392,456,458,369,393,340
+47,Units in Structure: 50+,GA,Habersham,12,37,34,44,43,43,53,50,47,98
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Habersham,11,10,10,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Habersham,3371,3146,3137,3379,3430,3542,3447,3287,3143,3140
+40,Units in Structure: 1 ATTACHED,GA,Hall,1367,1390,1489,1747,1973,2147,2294,2440,2400,2253
+41,Units in Structure: 1 DETACHED,GA,Hall,48743,49497,49779,50070,49974,49803,50247,50899,51510,52563
+42,Units in Structure: 10-19,GA,Hall,2281,2427,2606,2933,2919,2859,2676,3097,2947,2948
+43,Units in Structure: 2,GA,Hall,872,894,976,1038,1021,1097,1046,900,806,895
+44,Units in Structure: 20-49,GA,Hall,1975,1690,1726,1378,1499,1097,1264,1253,1357,1213
+45,Units in Structure: 3-4,GA,Hall,1595,1658,1531,1413,1296,1554,1254,1327,1510,1475
+46,Units in Structure: 5-9,GA,Hall,1978,1822,1774,1548,1681,1816,1987,1922,2043,2070
+47,Units in Structure: 50+,GA,Hall,733,883,1034,1221,1361,1457,1525,1485,1693,1866
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Hall,41,79,87,91,58,40,0,0,0,58
+49,Units in Structure: Mobile Home,GA,Hall,7326,7687,7509,7296,7271,7432,7408,7554,7637,7794
+40,Units in Structure: 1 ATTACHED,GA,Hancock,24,38,23,16,22,21,21,16,20,36
+41,Units in Structure: 1 DETACHED,GA,Hancock,3111,3424,3214,3129,3074,2937,2848,2893,2974,2854
+42,Units in Structure: 10-19,GA,Hancock,39,40,50,47,46,35,20,0,9,9
+43,Units in Structure: 2,GA,Hancock,8,33,57,47,52,45,40,18,28,56
+44,Units in Structure: 20-49,GA,Hancock,34,21,86,96,100,96,132,67,110,134
+45,Units in Structure: 3-4,GA,Hancock,15,29,44,42,34,37,24,19,27,54
+46,Units in Structure: 5-9,GA,Hancock,130,69,61,29,10,32,33,25,30,40
+47,Units in Structure: 50+,GA,Hancock,7,8,7,7,7,18,13,9,10,4
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Hancock,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Hancock,1844,1639,1765,1877,1962,2068,2152,2313,2163,2204
+40,Units in Structure: 1 ATTACHED,GA,Haralson,193,168,136,87,94,122,114,95,65,113
+41,Units in Structure: 1 DETACHED,GA,Haralson,8284,8554,8646,8882,8729,8838,8796,8737,8856,9148
+42,Units in Structure: 10-19,GA,Haralson,69,113,115,116,72,91,63,73,56,87
+43,Units in Structure: 2,GA,Haralson,382,451,439,413,415,284,345,395,345,341
+44,Units in Structure: 20-49,GA,Haralson,13,14,13,9,9,35,51,93,87,138
+45,Units in Structure: 3-4,GA,Haralson,372,370,427,457,455,314,316,301,242,234
+46,Units in Structure: 5-9,GA,Haralson,147,118,158,189,171,281,212,253,221,214
+47,Units in Structure: 50+,GA,Haralson,28,31,26,32,18,2,49,65,64,63
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Haralson,0,0,0,0,0,0,0,0,3,2
+49,Units in Structure: Mobile Home,GA,Haralson,2711,2438,2322,2058,2302,2287,2297,2370,2464,2126
+40,Units in Structure: 1 ATTACHED,GA,Harris,125,106,70,57,54,53,41,48,37,49
+41,Units in Structure: 1 DETACHED,GA,Harris,11361,11647,11854,11976,12127,12106,12022,12197,12430,12461
+42,Units in Structure: 10-19,GA,Harris,4,4,9,8,27,23,76,67,66,86
+43,Units in Structure: 2,GA,Harris,162,177,185,113,126,151,171,168,146,107
+44,Units in Structure: 20-49,GA,Harris,7,6,25,69,54,82,83,70,25,16
+45,Units in Structure: 3-4,GA,Harris,145,108,72,40,54,52,37,50,72,38
+46,Units in Structure: 5-9,GA,Harris,79,88,95,93,100,106,109,112,107,147
+47,Units in Structure: 50+,GA,Harris,0,0,13,51,64,66,66,52,22,21
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Harris,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Harris,1242,1157,1059,1034,936,965,1079,1117,1115,1243
+40,Units in Structure: 1 ATTACHED,GA,Hart,227,128,44,71,64,155,187,184,213,188
+41,Units in Structure: 1 DETACHED,GA,Hart,8963,9200,9244,9292,9272,9219,9127,9480,9108,9085
+42,Units in Structure: 10-19,GA,Hart,9,35,44,41,30,32,71,65,73,73
+43,Units in Structure: 2,GA,Hart,266,185,303,295,207,211,257,133,166,164
+44,Units in Structure: 20-49,GA,Hart,18,23,16,23,20,8,36,42,33,48
+45,Units in Structure: 3-4,GA,Hart,193,222,242,213,214,140,106,96,112,74
+46,Units in Structure: 5-9,GA,Hart,18,12,10,12,17,40,57,105,110,214
+47,Units in Structure: 50+,GA,Hart,38,0,32,7,6,5,3,12,12,25
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Hart,0,0,0,0,0,26,24,34,39,34
+49,Units in Structure: Mobile Home,GA,Hart,2972,3060,3006,2991,3136,3127,3080,2921,3241,3263
+40,Units in Structure: 1 ATTACHED,GA,Heard,51,51,38,33,19,19,12,21,19,50
+41,Units in Structure: 1 DETACHED,GA,Heard,2866,2820,2811,3006,3031,2952,3032,3196,3150,3084
+42,Units in Structure: 10-19,GA,Heard,24,22,17,15,1,2,6,7,12,13
+43,Units in Structure: 2,GA,Heard,123,119,106,96,105,108,110,119,80,74
+44,Units in Structure: 20-49,GA,Heard,6,3,7,15,21,24,36,35,30,30
+45,Units in Structure: 3-4,GA,Heard,51,56,83,99,115,108,127,145,158,160
+46,Units in Structure: 5-9,GA,Heard,53,57,46,48,40,40,33,28,37,38
+47,Units in Structure: 50+,GA,Heard,0,0,0,0,0,0,4,15,21,16
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Heard,3,0,15,14,23,47,44,42,50,39
+49,Units in Structure: Mobile Home,GA,Heard,1924,1992,2014,1778,1763,1814,1701,1573,1630,1697
+40,Units in Structure: 1 ATTACHED,GA,Henry,1490,1427,1489,1508,1498,1455,1318,1444,1457,1364
+41,Units in Structure: 1 DETACHED,GA,Henry,62123,63939,64659,64494,64387,64497,64466,65051,66191,67165
+42,Units in Structure: 10-19,GA,Henry,2462,2330,2451,2429,2382,2118,1978,1835,2014,2244
+43,Units in Structure: 2,GA,Henry,580,639,729,388,355,498,453,255,327,587
+44,Units in Structure: 20-49,GA,Henry,1769,1852,1980,2067,2345,2554,3379,3681,3578,3469
+45,Units in Structure: 3-4,GA,Henry,613,685,620,607,554,720,745,946,1129,1221
+46,Units in Structure: 5-9,GA,Henry,2120,2083,1980,2544,2574,2566,2391,2280,2108,1905
+47,Units in Structure: 50+,GA,Henry,431,426,423,549,595,547,539,615,568,811
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Henry,11,12,12,8,20,18,12,13,13,0
+49,Units in Structure: Mobile Home,GA,Henry,2527,2233,2014,2001,2243,2308,2582,2851,2739,2662
+40,Units in Structure: 1 ATTACHED,GA,Houston,1459,1344,1132,1052,1199,1106,1025,1101,1165,1153
+41,Units in Structure: 1 DETACHED,GA,Houston,40190,41576,42089,42854,43188,43458,44229,45175,45274,45875
+42,Units in Structure: 10-19,GA,Houston,1368,1416,1561,1502,1486,1770,1643,1577,1984,2316
+43,Units in Structure: 2,GA,Houston,1383,1378,1348,1553,1468,1331,1266,1211,944,964
+44,Units in Structure: 20-49,GA,Houston,432,422,412,388,407,509,440,623,618,550
+45,Units in Structure: 3-4,GA,Houston,2088,2156,2148,2180,2236,2205,2519,2599,2793,2776
+46,Units in Structure: 5-9,GA,Houston,4258,4034,4171,4111,3987,4045,4157,3975,4126,3839
+47,Units in Structure: 50+,GA,Houston,548,592,589,468,411,459,404,432,422,451
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Houston,25,25,21,18,9,0,16,10,25,40
+49,Units in Structure: Mobile Home,GA,Houston,5145,4871,4958,4771,5053,5106,4848,4790,4915,5054
+40,Units in Structure: 1 ATTACHED,GA,Irwin,21,41,23,24,22,22,5,6,0,0
+41,Units in Structure: 1 DETACHED,GA,Irwin,2755,2638,2631,2625,2582,2549,2602,2743,2714,2743
+42,Units in Structure: 10-19,GA,Irwin,19,19,12,18,0,0,0,0,0,0
+43,Units in Structure: 2,GA,Irwin,57,76,40,61,104,156,183,178,169,141
+44,Units in Structure: 20-49,GA,Irwin,0,0,0,0,0,24,28,28,21,26
+45,Units in Structure: 3-4,GA,Irwin,65,112,114,144,133,67,60,55,70,62
+46,Units in Structure: 5-9,GA,Irwin,0,12,22,22,15,16,4,2,4,5
+47,Units in Structure: 50+,GA,Irwin,0,0,7,4,5,7,4,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Irwin,0,0,0,0,0,0,0,0,15,16
+49,Units in Structure: Mobile Home,GA,Irwin,1148,1149,1197,1122,1171,1183,1125,1048,1081,1073
+40,Units in Structure: 1 ATTACHED,GA,Jackson,234,233,165,138,195,256,196,213,185,232
+41,Units in Structure: 1 DETACHED,GA,Jackson,17406,17867,18201,18375,18274,18078,18155,18605,19242,19309
+42,Units in Structure: 10-19,GA,Jackson,217,256,378,315,296,264,232,120,150,187
+43,Units in Structure: 2,GA,Jackson,639,562,435,515,522,481,512,581,507,556
+44,Units in Structure: 20-49,GA,Jackson,30,54,59,79,113,163,146,138,151,144
+45,Units in Structure: 3-4,GA,Jackson,231,122,119,101,104,123,154,210,269,239
+46,Units in Structure: 5-9,GA,Jackson,215,346,300,263,305,316,367,401,466,498
+47,Units in Structure: 50+,GA,Jackson,25,27,64,111,98,142,143,135,81,95
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Jackson,45,70,22,26,25,22,38,36,32,34
+49,Units in Structure: Mobile Home,GA,Jackson,4264,4108,4006,3716,3784,3911,3923,4002,3793,4094
+40,Units in Structure: 1 ATTACHED,GA,Jasper,81,52,67,74,68,46,44,46,47,26
+41,Units in Structure: 1 DETACHED,GA,Jasper,4760,5066,5145,4990,4805,4805,4470,4525,4792,5069
+42,Units in Structure: 10-19,GA,Jasper,9,0,0,0,6,9,13,13,11,0
+43,Units in Structure: 2,GA,Jasper,68,41,44,79,81,62,140,133,116,148
+44,Units in Structure: 20-49,GA,Jasper,5,5,9,0,0,0,2,9,6,5
+45,Units in Structure: 3-4,GA,Jasper,48,26,43,27,45,58,64,55,33,35
+46,Units in Structure: 5-9,GA,Jasper,26,34,19,26,40,40,42,50,47,28
+47,Units in Structure: 50+,GA,Jasper,23,18,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Jasper,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Jasper,1053,879,832,965,1151,1195,1461,1516,1333,1134
+40,Units in Structure: 1 ATTACHED,GA,Jeff Davis,44,13,17,12,2,1,2,10,17,13
+41,Units in Structure: 1 DETACHED,GA,Jeff Davis,3718,4097,3989,4053,4252,3952,3912,4049,3799,3832
+42,Units in Structure: 10-19,GA,Jeff Davis,8,0,0,0,0,38,31,63,93,89
+43,Units in Structure: 2,GA,Jeff Davis,152,139,149,118,70,58,145,184,194,217
+44,Units in Structure: 20-49,GA,Jeff Davis,0,0,0,0,0,0,0,13,15,8
+45,Units in Structure: 3-4,GA,Jeff Davis,263,192,270,194,154,103,118,56,124,105
+46,Units in Structure: 5-9,GA,Jeff Davis,99,84,67,81,67,116,85,54,47,232
+47,Units in Structure: 50+,GA,Jeff Davis,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Jeff Davis,0,0,0,19,12,15,22,23,0,9
+49,Units in Structure: Mobile Home,GA,Jeff Davis,2056,1907,1942,1953,1892,2138,2098,2047,2211,2016
+40,Units in Structure: 1 ATTACHED,GA,Jefferson,66,31,55,57,60,65,51,51,49,20
+41,Units in Structure: 1 DETACHED,GA,Jefferson,4780,4735,4652,4677,4488,4524,4452,4443,4412,4346
+42,Units in Structure: 10-19,GA,Jefferson,0,2,13,15,13,15,20,8,0,18
+43,Units in Structure: 2,GA,Jefferson,323,357,305,315,305,237,282,304,349,404
+44,Units in Structure: 20-49,GA,Jefferson,72,28,36,39,41,33,33,28,16,17
+45,Units in Structure: 3-4,GA,Jefferson,84,84,96,99,134,194,236,257,253,225
+46,Units in Structure: 5-9,GA,Jefferson,293,241,243,225,235,243,222,212,149,152
+47,Units in Structure: 50+,GA,Jefferson,0,6,5,5,5,4,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Jefferson,0,0,13,9,8,7,11,8,8,7
+49,Units in Structure: Mobile Home,GA,Jefferson,1709,1827,1877,1836,1992,1936,1931,1968,2036,2094
+40,Units in Structure: 1 ATTACHED,GA,Jenkins,81,65,89,28,27,23,23,19,16,13
+41,Units in Structure: 1 DETACHED,GA,Jenkins,2653,2671,2777,2703,2794,2949,3101,3087,3094,2960
+42,Units in Structure: 10-19,GA,Jenkins,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,GA,Jenkins,16,21,16,14,0,25,83,47,125,110
+44,Units in Structure: 20-49,GA,Jenkins,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,GA,Jenkins,33,22,22,0,0,0,18,47,66,73
+46,Units in Structure: 5-9,GA,Jenkins,29,17,27,75,116,158,134,120,88,43
+47,Units in Structure: 50+,GA,Jenkins,14,0,0,0,0,0,0,0,0,17
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Jenkins,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Jenkins,1595,1581,1551,1777,1619,1572,1445,1245,1263,1605
+40,Units in Structure: 1 ATTACHED,GA,Johnson,2,0,22,28,33,49,38,13,6,8
+41,Units in Structure: 1 DETACHED,GA,Johnson,2730,2832,2773,2768,2760,2716,2576,2592,2588,2514
+42,Units in Structure: 10-19,GA,Johnson,80,91,66,38,0,0,0,15,12,13
+43,Units in Structure: 2,GA,Johnson,162,129,105,85,115,110,131,132,100,107
+44,Units in Structure: 20-49,GA,Johnson,19,14,12,10,20,26,71,98,122,114
+45,Units in Structure: 3-4,GA,Johnson,21,33,29,30,66,68,94,79,89,59
+46,Units in Structure: 5-9,GA,Johnson,76,79,72,44,53,83,77,63,47,62
+47,Units in Structure: 50+,GA,Johnson,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Johnson,0,0,0,0,8,8,12,17,20,3
+49,Units in Structure: Mobile Home,GA,Johnson,946,909,1013,1080,1034,1028,1065,1111,1125,1236
+40,Units in Structure: 1 ATTACHED,GA,Jones,99,65,51,27,11,45,101,140,155,178
+41,Units in Structure: 1 DETACHED,GA,Jones,8567,8694,8682,8600,8550,8615,8546,8717,8472,8224
+42,Units in Structure: 10-19,GA,Jones,0,50,71,59,61,62,16,9,3,4
+43,Units in Structure: 2,GA,Jones,69,80,178,203,197,257,265,201,247,252
+44,Units in Structure: 20-49,GA,Jones,25,24,47,50,48,53,71,35,35,37
+45,Units in Structure: 3-4,GA,Jones,56,90,136,164,177,120,107,58,77,102
+46,Units in Structure: 5-9,GA,Jones,178,166,81,43,61,50,68,161,278,264
+47,Units in Structure: 50+,GA,Jones,25,48,68,50,47,30,22,9,9,4
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Jones,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Jones,2454,2389,2330,2422,2480,2368,2393,2447,2520,2778
+40,Units in Structure: 1 ATTACHED,GA,Lamar,10,57,76,81,60,56,19,18,23,14
+41,Units in Structure: 1 DETACHED,GA,Lamar,5163,5273,5362,5404,5394,5399,5432,5579,5636,5644
+42,Units in Structure: 10-19,GA,Lamar,32,35,28,13,12,33,57,84,69,79
+43,Units in Structure: 2,GA,Lamar,313,326,275,275,284,311,294,319,388,454
+44,Units in Structure: 20-49,GA,Lamar,34,12,0,29,35,40,39,29,2,0
+45,Units in Structure: 3-4,GA,Lamar,236,183,238,186,229,206,240,179,176,110
+46,Units in Structure: 5-9,GA,Lamar,208,291,274,303,258,243,144,172,227,248
+47,Units in Structure: 50+,GA,Lamar,0,0,0,0,0,0,0,0,0,36
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Lamar,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Lamar,1375,1245,1225,1197,1240,1233,1290,1178,1048,1006
+40,Units in Structure: 1 ATTACHED,GA,Lanier,0,66,93,73,99,78,46,42,50,52
+41,Units in Structure: 1 DETACHED,GA,Lanier,2295,2420,2417,2573,2521,2410,2587,2695,2735,2788
+42,Units in Structure: 10-19,GA,Lanier,8,10,36,34,76,53,44,59,64,38
+43,Units in Structure: 2,GA,Lanier,133,120,110,38,29,107,117,112,132,133
+44,Units in Structure: 20-49,GA,Lanier,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,GA,Lanier,27,19,18,36,55,110,98,88,71,46
+46,Units in Structure: 5-9,GA,Lanier,64,71,52,100,113,126,111,125,68,86
+47,Units in Structure: 50+,GA,Lanier,0,0,0,0,0,0,21,19,22,28
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Lanier,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Lanier,1456,1418,1489,1397,1398,1414,1267,1244,1256,1248
+40,Units in Structure: 1 ATTACHED,GA,Laurens,97,90,69,79,77,78,67,56,41,51
+41,Units in Structure: 1 DETACHED,GA,Laurens,13418,13373,13325,13528,13450,13541,13513,13558,13500,13474
+42,Units in Structure: 10-19,GA,Laurens,92,46,44,32,45,87,94,80,113,123
+43,Units in Structure: 2,GA,Laurens,1010,892,851,716,588,507,549,578,620,764
+44,Units in Structure: 20-49,GA,Laurens,72,69,71,83,101,65,73,62,44,24
+45,Units in Structure: 3-4,GA,Laurens,824,821,753,807,812,788,669,680,622,581
+46,Units in Structure: 5-9,GA,Laurens,444,578,534,488,536,485,646,570,645,607
+47,Units in Structure: 50+,GA,Laurens,64,56,46,63,45,34,51,38,28,46
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Laurens,11,14,17,18,17,5,35,29,44,35
+49,Units in Structure: Mobile Home,GA,Laurens,5132,5345,5600,5438,5664,5733,5588,5819,5840,5868
+40,Units in Structure: 1 ATTACHED,GA,Lee,75,63,60,70,103,165,189,198,202,156
+41,Units in Structure: 1 DETACHED,GA,Lee,7466,7404,7619,7826,7813,7857,7924,7986,8161,8418
+42,Units in Structure: 10-19,GA,Lee,126,91,87,65,84,108,151,112,152,169
+43,Units in Structure: 2,GA,Lee,470,605,530,606,643,738,602,567,644,568
+44,Units in Structure: 20-49,GA,Lee,6,5,24,17,23,14,15,2,3,3
+45,Units in Structure: 3-4,GA,Lee,303,262,293,191,141,70,70,128,123,141
+46,Units in Structure: 5-9,GA,Lee,85,34,68,203,265,281,243,284,162,233
+47,Units in Structure: 50+,GA,Lee,0,0,0,0,0,16,29,28,29,36
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Lee,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Lee,1796,1846,1701,1406,1399,1340,1459,1572,1582,1479
+40,Units in Structure: 1 ATTACHED,GA,Liberty,1024,1188,945,940,1000,873,665,762,658,755
+41,Units in Structure: 1 DETACHED,GA,Liberty,13735,14290,14451,14886,15114,15300,15693,15765,15925,16062
+42,Units in Structure: 10-19,GA,Liberty,317,493,600,712,719,832,710,834,973,866
+43,Units in Structure: 2,GA,Liberty,860,1007,958,1008,908,1094,1017,944,831,899
+44,Units in Structure: 20-49,GA,Liberty,145,72,134,146,173,182,277,406,464,615
+45,Units in Structure: 3-4,GA,Liberty,2666,2267,2398,2466,2433,2561,2789,2894,3198,2996
+46,Units in Structure: 5-9,GA,Liberty,2016,1898,1858,1592,1646,1540,1606,1508,1393,1487
+47,Units in Structure: 50+,GA,Liberty,16,21,37,40,54,149,154,129,118,122
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Liberty,15,6,7,13,10,57,56,53,144,137
+49,Units in Structure: Mobile Home,GA,Liberty,5100,5138,5216,4959,4930,4500,4266,4401,4293,4273
+40,Units in Structure: 1 ATTACHED,GA,Lincoln,4,4,4,8,9,9,6,7,9,35
+41,Units in Structure: 1 DETACHED,GA,Lincoln,3037,3024,2786,2668,2860,2952,2899,3072,3152,3138
+42,Units in Structure: 10-19,GA,Lincoln,5,9,10,11,9,5,3,2,0,0
+43,Units in Structure: 2,GA,Lincoln,61,70,64,76,64,65,55,51,57,79
+44,Units in Structure: 20-49,GA,Lincoln,4,3,0,0,5,5,4,5,4,0
+45,Units in Structure: 3-4,GA,Lincoln,15,10,14,11,16,23,27,33,39,36
+46,Units in Structure: 5-9,GA,Lincoln,17,11,19,16,13,31,39,25,30,45
+47,Units in Structure: 50+,GA,Lincoln,0,0,3,3,2,2,2,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Lincoln,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Lincoln,1628,1660,1881,1962,1796,1696,1744,1662,1584,1557
+40,Units in Structure: 1 ATTACHED,GA,Long,3,0,0,6,5,5,3,3,0,12
+41,Units in Structure: 1 DETACHED,GA,Long,2127,2418,2901,2781,2853,2879,2963,3148,3532,3665
+42,Units in Structure: 10-19,GA,Long,10,0,0,0,15,11,21,19,45,36
+43,Units in Structure: 2,GA,Long,10,0,0,0,19,25,26,51,54,32
+44,Units in Structure: 20-49,GA,Long,0,0,0,37,41,26,33,28,0,0
+45,Units in Structure: 3-4,GA,Long,61,51,72,69,29,36,18,17,20,7
+46,Units in Structure: 5-9,GA,Long,42,77,87,147,116,114,97,87,64,128
+47,Units in Structure: 50+,GA,Long,0,0,0,0,0,0,20,15,24,25
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Long,0,0,0,0,13,65,47,45,41,44
+49,Units in Structure: Mobile Home,GA,Long,3291,3273,2861,2939,3003,2994,3010,3128,2897,2901
+40,Units in Structure: 1 ATTACHED,GA,Lowndes,847,930,868,807,798,812,804,1001,1025,1023
+41,Units in Structure: 1 DETACHED,GA,Lowndes,28119,28286,28929,29344,29454,29614,29995,30238,30434,31166
+42,Units in Structure: 10-19,GA,Lowndes,1118,1354,1393,1531,1592,1747,1568,1674,1646,1939
+43,Units in Structure: 2,GA,Lowndes,1318,1513,1530,1589,1645,1686,1527,1394,1378,1502
+44,Units in Structure: 20-49,GA,Lowndes,481,588,748,707,797,851,979,901,961,1011
+45,Units in Structure: 3-4,GA,Lowndes,1531,1203,1222,1500,1685,1808,1994,2053,2025,2092
+46,Units in Structure: 5-9,GA,Lowndes,2979,3165,3255,3324,3263,3219,3316,3398,3472,3529
+47,Units in Structure: 50+,GA,Lowndes,692,717,848,734,804,801,771,728,739,635
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Lowndes,10,34,40,50,31,39,23,23,36,99
+49,Units in Structure: Mobile Home,GA,Lowndes,5424,5461,5423,4985,4931,4822,4734,4948,5251,4658
+40,Units in Structure: 1 ATTACHED,GA,Lumpkin,212,210,199,282,380,494,488,458,398,346
+41,Units in Structure: 1 DETACHED,GA,Lumpkin,8540,9169,9067,9225,9160,8972,8665,8909,9042,9437
+42,Units in Structure: 10-19,GA,Lumpkin,52,0,27,46,86,157,145,138,136,120
+43,Units in Structure: 2,GA,Lumpkin,234,258,270,284,235,181,120,222,221,193
+44,Units in Structure: 20-49,GA,Lumpkin,158,206,292,285,262,170,115,78,183,181
+45,Units in Structure: 3-4,GA,Lumpkin,144,206,238,271,206,196,452,480,355,368
+46,Units in Structure: 5-9,GA,Lumpkin,180,217,241,261,421,516,343,382,380,175
+47,Units in Structure: 50+,GA,Lumpkin,14,10,9,0,0,0,38,36,24,20
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Lumpkin,14,12,8,48,49,49,50,48,0,0
+49,Units in Structure: Mobile Home,GA,Lumpkin,2773,2389,2476,2187,2184,2273,2673,2563,2734,2767
+40,Units in Structure: 1 ATTACHED,GA,McDuffie,132,154,159,99,79,100,45,47,41,72
+41,Units in Structure: 1 DETACHED,GA,McDuffie,5885,5895,5892,5962,6226,6021,6182,6375,6268,6085
+42,Units in Structure: 10-19,GA,McDuffie,99,88,9,9,10,18,40,62,90,136
+43,Units in Structure: 2,GA,McDuffie,160,204,238,260,328,383,260,208,318,322
+44,Units in Structure: 20-49,GA,McDuffie,42,41,43,103,175,173,256,336,304,179
+45,Units in Structure: 3-4,GA,McDuffie,227,176,156,146,128,159,195,170,247,231
+46,Units in Structure: 5-9,GA,McDuffie,282,290,250,242,119,98,114,79,105,189
+47,Units in Structure: 50+,GA,McDuffie,75,69,73,77,69,44,52,27,56,27
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,McDuffie,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,McDuffie,2412,2406,2504,2376,2147,2275,2113,2027,1894,2109
+40,Units in Structure: 1 ATTACHED,GA,McIntosh,4,4,20,17,27,21,43,104,158,125
+41,Units in Structure: 1 DETACHED,GA,McIntosh,4885,5153,5283,4985,5496,5234,5313,5587,5809,5578
+42,Units in Structure: 10-19,GA,McIntosh,13,100,149,116,138,128,74,75,102,100
+43,Units in Structure: 2,GA,McIntosh,55,54,34,32,23,51,54,31,32,30
+44,Units in Structure: 20-49,GA,McIntosh,39,66,65,109,78,65,66,53,40,72
+45,Units in Structure: 3-4,GA,McIntosh,132,122,133,210,221,264,226,208,153,132
+46,Units in Structure: 5-9,GA,McIntosh,86,120,45,46,104,114,81,84,194,115
+47,Units in Structure: 50+,GA,McIntosh,7,7,22,18,22,32,27,39,28,17
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,McIntosh,0,0,10,7,8,8,10,14,12,12
+49,Units in Structure: Mobile Home,GA,McIntosh,3365,3340,3324,3631,3162,3387,3395,3297,2990,3373
+40,Units in Structure: 1 ATTACHED,GA,Macon,28,32,31,31,40,39,39,48,34,26
+41,Units in Structure: 1 DETACHED,GA,Macon,3952,3747,3890,3806,3811,3684,3744,3558,3559,3593
+42,Units in Structure: 10-19,GA,Macon,42,53,34,35,82,83,74,70,51,8
+43,Units in Structure: 2,GA,Macon,182,230,146,195,200,219,188,238,230,216
+44,Units in Structure: 20-49,GA,Macon,31,46,28,43,36,29,35,33,33,22
+45,Units in Structure: 3-4,GA,Macon,155,164,128,144,157,194,215,235,206,180
+46,Units in Structure: 5-9,GA,Macon,153,211,149,145,159,152,167,171,155,203
+47,Units in Structure: 50+,GA,Macon,0,0,0,0,0,0,0,0,0,4
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Macon,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Macon,1510,1620,1691,1683,1589,1672,1587,1751,1835,1852
+40,Units in Structure: 1 ATTACHED,GA,Madison,113,140,106,33,69,119,135,123,140,115
+41,Units in Structure: 1 DETACHED,GA,Madison,7385,7535,7707,7909,7791,7824,8035,8048,8215,8112
+42,Units in Structure: 10-19,GA,Madison,7,6,0,0,0,1,3,2,2,1
+43,Units in Structure: 2,GA,Madison,191,223,184,191,189,138,133,127,88,76
+44,Units in Structure: 20-49,GA,Madison,0,0,0,0,0,7,11,14,15,15
+45,Units in Structure: 3-4,GA,Madison,79,74,93,121,130,101,105,78,35,25
+46,Units in Structure: 5-9,GA,Madison,35,26,45,46,55,46,43,37,35,20
+47,Units in Structure: 50+,GA,Madison,21,18,15,12,10,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Madison,16,20,18,20,4,11,14,14,26,47
+49,Units in Structure: Mobile Home,GA,Madison,3827,3697,3608,3397,3512,3505,3283,3490,3446,3593
+40,Units in Structure: 1 ATTACHED,GA,Marion,50,15,4,4,47,83,68,82,70,49
+41,Units in Structure: 1 DETACHED,GA,Marion,2142,2249,2094,2240,2269,2150,2235,2161,2198,2268
+42,Units in Structure: 10-19,GA,Marion,15,16,13,17,15,21,35,26,16,47
+43,Units in Structure: 2,GA,Marion,179,205,247,233,147,115,72,97,90,83
+44,Units in Structure: 20-49,GA,Marion,32,27,29,22,66,75,80,80,78,44
+45,Units in Structure: 3-4,GA,Marion,101,88,71,49,64,36,36,38,112,71
+46,Units in Structure: 5-9,GA,Marion,55,86,76,78,78,66,53,50,24,33
+47,Units in Structure: 50+,GA,Marion,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Marion,0,0,0,0,0,0,0,10,13,12
+49,Units in Structure: Mobile Home,GA,Marion,1401,1396,1571,1460,1448,1572,1533,1641,1588,1593
+40,Units in Structure: 1 ATTACHED,GA,Meriwether,57,146,119,129,93,92,56,102,81,70
+41,Units in Structure: 1 DETACHED,GA,Meriwether,7253,7060,7208,7147,6954,7336,7478,7375,7227,7298
+42,Units in Structure: 10-19,GA,Meriwether,14,16,22,35,16,11,21,28,25,30
+43,Units in Structure: 2,GA,Meriwether,123,163,146,162,143,147,94,72,137,146
+44,Units in Structure: 20-49,GA,Meriwether,66,83,54,56,122,103,109,147,301,311
+45,Units in Structure: 3-4,GA,Meriwether,153,175,136,133,84,15,24,46,44,39
+46,Units in Structure: 5-9,GA,Meriwether,176,101,76,47,96,97,69,93,104,44
+47,Units in Structure: 50+,GA,Meriwether,12,29,28,27,65,79,97,104,123,74
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Meriwether,3,13,14,8,8,8,0,0,9,11
+49,Units in Structure: Mobile Home,GA,Meriwether,2136,2195,2177,2186,2355,2037,1931,2013,1930,1974
+40,Units in Structure: 1 ATTACHED,GA,Miller,22,25,29,1,1,2,0,5,6,8
+41,Units in Structure: 1 DETACHED,GA,Miller,2009,2097,2136,2089,2037,2065,1988,2045,1985,1990
+42,Units in Structure: 10-19,GA,Miller,0,2,11,9,10,11,10,8,9,8
+43,Units in Structure: 2,GA,Miller,37,44,27,29,29,37,33,23,30,44
+44,Units in Structure: 20-49,GA,Miller,0,0,8,7,7,7,9,0,0,0
+45,Units in Structure: 3-4,GA,Miller,42,28,41,67,95,129,122,99,80,67
+46,Units in Structure: 5-9,GA,Miller,16,32,17,46,58,52,41,40,42,20
+47,Units in Structure: 50+,GA,Miller,0,0,0,3,8,10,8,8,0,7
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Miller,0,0,5,7,8,6,7,0,0,0
+49,Units in Structure: Mobile Home,GA,Miller,676,568,515,513,513,447,531,535,614,621
+40,Units in Structure: 1 ATTACHED,GA,Mitchell,71,70,40,34,32,46,40,52,39,40
+41,Units in Structure: 1 DETACHED,GA,Mitchell,5452,5622,5839,5734,5351,5454,5419,5525,5712,5758
+42,Units in Structure: 10-19,GA,Mitchell,28,27,24,37,76,91,93,89,52,43
+43,Units in Structure: 2,GA,Mitchell,247,217,229,211,313,235,219,273,405,491
+44,Units in Structure: 20-49,GA,Mitchell,78,66,35,16,35,28,33,37,35,11
+45,Units in Structure: 3-4,GA,Mitchell,316,234,284,313,258,237,243,262,231,221
+46,Units in Structure: 5-9,GA,Mitchell,338,342,296,374,526,404,388,291,290,185
+47,Units in Structure: 50+,GA,Mitchell,18,19,22,26,0,32,35,29,43,59
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Mitchell,11,11,14,20,25,0,0,44,63,68
+49,Units in Structure: Mobile Home,GA,Mitchell,2490,2403,2232,2196,2350,2424,2478,2434,2177,2189
+40,Units in Structure: 1 ATTACHED,GA,Monroe,48,60,66,88,117,85,115,123,118,119
+41,Units in Structure: 1 DETACHED,GA,Monroe,7278,7147,7365,7353,7493,7536,7590,7784,8059,7921
+42,Units in Structure: 10-19,GA,Monroe,38,83,79,110,108,43,86,115,112,147
+43,Units in Structure: 2,GA,Monroe,172,206,199,200,200,191,146,150,73,45
+44,Units in Structure: 20-49,GA,Monroe,3,0,11,43,53,50,62,52,50,51
+45,Units in Structure: 3-4,GA,Monroe,120,118,234,345,266,287,269,149,177,251
+46,Units in Structure: 5-9,GA,Monroe,145,210,209,267,244,300,249,261,233,260
+47,Units in Structure: 50+,GA,Monroe,0,35,57,60,101,152,173,135,158,153
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Monroe,0,0,0,0,0,0,0,0,0,37
+49,Units in Structure: Mobile Home,GA,Monroe,2494,2685,2478,2300,2267,2256,2250,2202,2059,2145
+40,Units in Structure: 1 ATTACHED,GA,Montgomery,0,6,5,5,5,10,6,8,7,14
+41,Units in Structure: 1 DETACHED,GA,Montgomery,2228,2128,2255,2305,2339,2369,2367,2400,2346,2315
+42,Units in Structure: 10-19,GA,Montgomery,0,7,21,20,21,22,12,13,16,16
+43,Units in Structure: 2,GA,Montgomery,87,79,69,64,66,52,47,53,46,50
+44,Units in Structure: 20-49,GA,Montgomery,3,2,0,0,0,0,0,0,0,1
+45,Units in Structure: 3-4,GA,Montgomery,82,78,53,52,83,99,104,81,68,43
+46,Units in Structure: 5-9,GA,Montgomery,89,84,67,65,36,62,57,61,50,45
+47,Units in Structure: 50+,GA,Montgomery,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Montgomery,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Montgomery,1406,1532,1433,1392,1350,1278,1310,1337,1423,1489
+40,Units in Structure: 1 ATTACHED,GA,Morgan,34,43,34,20,26,25,18,21,54,52
+41,Units in Structure: 1 DETACHED,GA,Morgan,5725,5766,5784,5930,5831,5831,5948,6084,6171,6205
+42,Units in Structure: 10-19,GA,Morgan,120,33,26,0,0,0,0,0,27,25
+43,Units in Structure: 2,GA,Morgan,78,169,162,176,269,264,171,186,147,154
+44,Units in Structure: 20-49,GA,Morgan,0,0,0,0,7,7,34,33,37,38
+45,Units in Structure: 3-4,GA,Morgan,14,21,35,51,46,110,117,153,163,174
+46,Units in Structure: 5-9,GA,Morgan,77,142,159,149,63,64,0,33,34,62
+47,Units in Structure: 50+,GA,Morgan,0,0,0,0,0,0,0,7,8,11
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Morgan,0,4,7,8,7,6,3,2,1,2
+49,Units in Structure: Mobile Home,GA,Morgan,1356,1280,1292,1144,1240,1192,1229,1087,1037,1030
+40,Units in Structure: 1 ATTACHED,GA,Murray,88,103,105,153,100,136,118,115,60,78
+41,Units in Structure: 1 DETACHED,GA,Murray,8937,9246,9379,9148,8911,9122,8934,9361,9571,9563
+42,Units in Structure: 10-19,GA,Murray,92,101,21,28,17,30,31,31,13,75
+43,Units in Structure: 2,GA,Murray,306,222,158,261,307,260,279,278,236,148
+44,Units in Structure: 20-49,GA,Murray,66,53,28,95,100,96,101,109,57,39
+45,Units in Structure: 3-4,GA,Murray,452,304,339,385,363,432,440,262,343,376
+46,Units in Structure: 5-9,GA,Murray,206,199,287,290,283,273,325,263,199,120
+47,Units in Structure: 50+,GA,Murray,40,53,36,42,49,39,26,8,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Murray,40,37,33,30,58,15,14,15,18,0
+49,Units in Structure: Mobile Home,GA,Murray,5720,5655,5592,5435,5680,5415,5512,5586,5564,5715
+40,Units in Structure: 1 ATTACHED,GA,Muscogee,1295,1591,1671,1532,1508,1363,1239,1322,1374,1798
+41,Units in Structure: 1 DETACHED,GA,Muscogee,54852,54999,55537,55014,55210,55268,54984,54607,54864,55085
+42,Units in Structure: 10-19,GA,Muscogee,4769,5006,4725,4641,4760,5152,5115,5787,6159,6249
+43,Units in Structure: 2,GA,Muscogee,2504,2399,2410,2499,2483,2190,2553,2450,2589,2325
+44,Units in Structure: 20-49,GA,Muscogee,1679,1896,1630,1821,1976,2254,2359,2900,3131,3390
+45,Units in Structure: 3-4,GA,Muscogee,4877,4930,5091,5210,5219,5096,5239,4971,4857,4705
+46,Units in Structure: 5-9,GA,Muscogee,6634,6799,7064,7809,7653,7863,8136,7915,7210,7184
+47,Units in Structure: 50+,GA,Muscogee,3390,2841,2864,2707,2742,2980,3046,2898,2896,2890
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Muscogee,11,15,7,6,6,7,0,7,10,18
+49,Units in Structure: Mobile Home,GA,Muscogee,2202,2042,1771,1682,1655,1330,1250,1293,1326,1079
+40,Units in Structure: 1 ATTACHED,GA,Newton,568,462,477,483,438,416,460,576,619,636
+41,Units in Structure: 1 DETACHED,GA,Newton,31801,32543,32995,33123,32789,32544,32124,32327,32413,32904
+42,Units in Structure: 10-19,GA,Newton,678,510,424,326,316,463,543,597,639,730
+43,Units in Structure: 2,GA,Newton,650,655,793,928,904,970,1084,1042,1054,1139
+44,Units in Structure: 20-49,GA,Newton,345,460,511,490,539,589,498,462,471,384
+45,Units in Structure: 3-4,GA,Newton,680,569,621,527,631,790,753,693,769,748
+46,Units in Structure: 5-9,GA,Newton,655,781,648,596,709,554,536,525,528,318
+47,Units in Structure: 50+,GA,Newton,286,254,226,233,222,257,344,311,344,387
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Newton,41,33,31,95,90,84,79,78,0,66
+49,Units in Structure: Mobile Home,GA,Newton,1820,1812,1549,1471,1679,1697,1993,2102,2141,2000
+40,Units in Structure: 1 ATTACHED,GA,Oconee,249,210,200,304,324,313,402,377,271,374
+41,Units in Structure: 1 DETACHED,GA,Oconee,10195,10391,10545,10578,10886,11025,11095,11518,12083,12408
+42,Units in Structure: 10-19,GA,Oconee,11,8,12,8,0,0,0,0,0,0
+43,Units in Structure: 2,GA,Oconee,601,612,680,646,568,721,741,705,707,522
+44,Units in Structure: 20-49,GA,Oconee,42,36,37,51,42,26,30,11,0,0
+45,Units in Structure: 3-4,GA,Oconee,26,30,61,58,54,37,28,0,0,0
+46,Units in Structure: 5-9,GA,Oconee,0,0,0,27,31,41,46,42,0,0
+47,Units in Structure: 50+,GA,Oconee,54,52,51,38,28,39,52,84,103,159
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Oconee,12,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Oconee,944,963,833,770,696,645,727,754,715,754
+40,Units in Structure: 1 ATTACHED,GA,Oglethorpe,26,23,21,11,0,0,0,0,18,13
+41,Units in Structure: 1 DETACHED,GA,Oglethorpe,4013,4269,4337,4394,4506,4489,4335,4266,4292,4250
+42,Units in Structure: 10-19,GA,Oglethorpe,23,18,16,21,45,30,45,44,33,31
+43,Units in Structure: 2,GA,Oglethorpe,18,27,17,39,43,30,39,25,22,24
+44,Units in Structure: 20-49,GA,Oglethorpe,18,27,16,12,13,14,15,23,34,49
+45,Units in Structure: 3-4,GA,Oglethorpe,2,56,81,148,135,176,98,104,54,71
+46,Units in Structure: 5-9,GA,Oglethorpe,49,86,101,86,71,85,87,80,61,71
+47,Units in Structure: 50+,GA,Oglethorpe,3,4,3,5,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Oglethorpe,0,5,9,13,18,17,10,0,2,1
+49,Units in Structure: Mobile Home,GA,Oglethorpe,2204,1918,1860,1723,1647,1646,1859,2054,2100,2150
+40,Units in Structure: 1 ATTACHED,GA,Paulding,559,458,476,605,664,665,777,751,742,869
+41,Units in Structure: 1 DETACHED,GA,Paulding,43578,45143,46253,47104,47341,47412,47934,49111,49965,51193
+42,Units in Structure: 10-19,GA,Paulding,669,685,756,654,485,647,575,512,599,318
+43,Units in Structure: 2,GA,Paulding,518,446,327,354,470,476,546,518,509,358
+44,Units in Structure: 20-49,GA,Paulding,1077,1071,924,659,611,376,294,230,276,365
+45,Units in Structure: 3-4,GA,Paulding,536,583,639,680,677,786,652,428,454,457
+46,Units in Structure: 5-9,GA,Paulding,842,765,748,572,569,723,682,828,962,874
+47,Units in Structure: 50+,GA,Paulding,141,157,120,116,128,216,163,157,204,238
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Paulding,0,0,0,0,0,14,18,16,18,15
+49,Units in Structure: Mobile Home,GA,Paulding,2519,2264,1861,1513,1576,1599,1757,1844,1720,1967
+40,Units in Structure: 1 ATTACHED,GA,Peach,163,84,85,95,200,249,231,255,296,125
+41,Units in Structure: 1 DETACHED,GA,Peach,7228,7621,7597,7515,7470,7444,7331,7502,7351,7473
+42,Units in Structure: 10-19,GA,Peach,63,99,114,171,189,297,295,351,367,374
+43,Units in Structure: 2,GA,Peach,380,454,465,423,436,372,477,442,498,657
+44,Units in Structure: 20-49,GA,Peach,20,13,3,21,21,25,22,59,44,40
+45,Units in Structure: 3-4,GA,Peach,574,439,352,373,291,274,333,327,474,634
+46,Units in Structure: 5-9,GA,Peach,572,452,592,700,711,717,679,725,569,571
+47,Units in Structure: 50+,GA,Peach,14,21,40,41,41,30,38,32,37,44
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Peach,0,0,0,0,0,0,70,55,60,54
+49,Units in Structure: Mobile Home,GA,Peach,1754,1746,1783,1737,1808,1815,1811,1687,1800,1680
+40,Units in Structure: 1 ATTACHED,GA,Pickens,72,66,83,101,120,140,262,287,242,219
+41,Units in Structure: 1 DETACHED,GA,Pickens,10372,10399,10562,10606,10632,10677,10675,10659,10648,10614
+42,Units in Structure: 10-19,GA,Pickens,122,134,145,175,205,209,168,241,198,269
+43,Units in Structure: 2,GA,Pickens,238,189,157,170,142,105,126,166,117,134
+44,Units in Structure: 20-49,GA,Pickens,126,155,217,121,165,145,173,92,137,115
+45,Units in Structure: 3-4,GA,Pickens,182,241,221,237,201,159,89,106,110,75
+46,Units in Structure: 5-9,GA,Pickens,299,291,208,205,123,189,208,218,317,304
+47,Units in Structure: 50+,GA,Pickens,10,9,24,42,56,24,18,16,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Pickens,16,15,30,32,23,24,24,6,6,7
+49,Units in Structure: Mobile Home,GA,Pickens,2148,2125,2042,1972,2013,2008,1963,2053,2147,2244
+40,Units in Structure: 1 ATTACHED,GA,Pierce,20,18,27,44,38,60,70,61,35,50
+41,Units in Structure: 1 DETACHED,GA,Pierce,4733,4857,4760,4857,5129,4964,4860,4901,4914,4804
+42,Units in Structure: 10-19,GA,Pierce,0,0,0,0,0,13,17,10,26,28
+43,Units in Structure: 2,GA,Pierce,60,99,73,111,117,121,92,92,46,56
+44,Units in Structure: 20-49,GA,Pierce,8,7,9,7,7,16,14,16,16,22
+45,Units in Structure: 3-4,GA,Pierce,141,258,160,242,184,205,149,222,137,131
+46,Units in Structure: 5-9,GA,Pierce,194,182,135,84,10,0,91,108,115,106
+47,Units in Structure: 50+,GA,Pierce,11,14,15,23,103,95,80,63,45,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Pierce,0,17,22,30,30,27,33,26,70,62
+49,Units in Structure: Mobile Home,GA,Pierce,2620,2459,2755,2552,2352,2463,2565,2593,2721,2908
+40,Units in Structure: 1 ATTACHED,GA,Pike,25,29,41,40,47,24,35,46,57,54
+41,Units in Structure: 1 DETACHED,GA,Pike,5421,5615,5630,5601,5533,5602,5665,5748,5771,5824
+42,Units in Structure: 10-19,GA,Pike,0,0,0,0,0,3,3,15,14,14
+43,Units in Structure: 2,GA,Pike,79,80,89,102,107,55,66,58,50,77
+44,Units in Structure: 20-49,GA,Pike,30,56,62,74,84,71,42,26,25,19
+45,Units in Structure: 3-4,GA,Pike,29,25,32,50,68,62,77,71,41,34
+46,Units in Structure: 5-9,GA,Pike,53,45,49,94,107,110,103,103,72,46
+47,Units in Structure: 50+,GA,Pike,0,7,9,6,7,6,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Pike,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Pike,1022,899,888,826,879,888,825,811,901,924
+40,Units in Structure: 1 ATTACHED,GA,Polk,124,143,239,342,375,379,296,223,190,167
+41,Units in Structure: 1 DETACHED,GA,Polk,12883,12810,12616,12764,12820,12687,12920,13075,13213,12926
+42,Units in Structure: 10-19,GA,Polk,13,107,150,177,243,245,167,142,142,146
+43,Units in Structure: 2,GA,Polk,656,613,525,457,400,426,443,505,605,945
+44,Units in Structure: 20-49,GA,Polk,90,110,98,98,185,170,128,129,148,116
+45,Units in Structure: 3-4,GA,Polk,574,673,671,561,485,501,474,502,565,539
+46,Units in Structure: 5-9,GA,Polk,438,459,480,359,320,394,362,495,446,540
+47,Units in Structure: 50+,GA,Polk,140,117,96,117,110,106,105,105,69,108
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Polk,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Polk,1904,1845,2044,2022,2008,2022,2027,1812,1608,1536
+40,Units in Structure: 1 ATTACHED,GA,Pulaski,0,0,16,12,21,15,20,4,5,5
+41,Units in Structure: 1 DETACHED,GA,Pulaski,3165,3272,3501,3301,3404,3339,3110,3261,3295,3144
+42,Units in Structure: 10-19,GA,Pulaski,0,0,0,0,0,17,70,75,67,124
+43,Units in Structure: 2,GA,Pulaski,129,148,86,65,86,0,17,42,39,76
+44,Units in Structure: 20-49,GA,Pulaski,0,0,0,0,19,16,17,34,38,36
+45,Units in Structure: 3-4,GA,Pulaski,139,135,168,121,147,132,123,145,79,71
+46,Units in Structure: 5-9,GA,Pulaski,100,104,92,91,134,180,174,150,149,124
+47,Units in Structure: 50+,GA,Pulaski,24,0,0,0,0,0,39,40,60,30
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Pulaski,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Pulaski,1512,1632,1338,1233,1109,1145,1127,1046,997,894
+40,Units in Structure: 1 ATTACHED,GA,Putnam,76,103,167,144,266,283,326,295,358,318
+41,Units in Structure: 1 DETACHED,GA,Putnam,7549,7529,8141,8143,8341,8137,7842,7902,7872,7610
+42,Units in Structure: 10-19,GA,Putnam,11,51,64,120,123,104,118,129,109,121
+43,Units in Structure: 2,GA,Putnam,241,102,75,60,56,40,51,18,111,123
+44,Units in Structure: 20-49,GA,Putnam,0,99,57,98,209,191,129,140,144,67
+45,Units in Structure: 3-4,GA,Putnam,99,244,266,236,230,181,68,137,150,166
+46,Units in Structure: 5-9,GA,Putnam,66,102,146,130,116,146,290,371,363,525
+47,Units in Structure: 50+,GA,Putnam,59,57,0,0,88,116,192,245,249,151
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Putnam,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Putnam,4503,4447,3848,3807,3324,3550,3734,3742,3690,4067
+40,Units in Structure: 1 ATTACHED,GA,Quitman,16,9,10,0,6,7,12,11,12,5
+41,Units in Structure: 1 DETACHED,GA,Quitman,747,691,682,664,726,804,738,856,816,834
+42,Units in Structure: 10-19,GA,Quitman,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,GA,Quitman,27,25,19,20,20,0,0,0,0,0
+44,Units in Structure: 20-49,GA,Quitman,24,10,12,12,10,10,0,0,0,0
+45,Units in Structure: 3-4,GA,Quitman,0,0,0,0,0,0,0,0,0,0
+46,Units in Structure: 5-9,GA,Quitman,0,0,0,0,0,0,0,0,0,0
+47,Units in Structure: 50+,GA,Quitman,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Quitman,0,4,5,4,4,6,0,0,0,5
+49,Units in Structure: Mobile Home,GA,Quitman,1071,1023,1164,1217,1286,1263,1285,1206,1206,1112
+40,Units in Structure: 1 ATTACHED,GA,Rabun,89,171,150,136,208,191,117,148,162,89
+41,Units in Structure: 1 DETACHED,GA,Rabun,9565,9581,9790,9779,9885,9743,9802,9794,9943,9836
+42,Units in Structure: 10-19,GA,Rabun,129,156,133,179,136,186,157,190,162,185
+43,Units in Structure: 2,GA,Rabun,115,84,69,67,70,87,142,203,199,282
+44,Units in Structure: 20-49,GA,Rabun,41,71,63,74,67,63,28,30,40,35
+45,Units in Structure: 3-4,GA,Rabun,321,270,262,245,219,210,208,201,219,236
+46,Units in Structure: 5-9,GA,Rabun,480,421,399,411,383,501,507,521,468,457
+47,Units in Structure: 50+,GA,Rabun,0,5,4,6,6,12,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Rabun,0,0,0,0,10,11,10,23,45,28
+49,Units in Structure: Mobile Home,GA,Rabun,1470,1527,1467,1450,1417,1437,1480,1458,1362,1482
+40,Units in Structure: 1 ATTACHED,GA,Randolph,45,60,53,57,43,40,22,62,57,57
+41,Units in Structure: 1 DETACHED,GA,Randolph,3045,3205,2856,2901,2698,2569,2440,2583,2453,2504
+42,Units in Structure: 10-19,GA,Randolph,14,9,0,0,0,0,0,0,11,12
+43,Units in Structure: 2,GA,Randolph,134,64,68,60,151,118,105,105,149,129
+44,Units in Structure: 20-49,GA,Randolph,0,0,0,5,8,10,9,12,5,5
+45,Units in Structure: 3-4,GA,Randolph,0,9,12,11,21,20,20,21,40,30
+46,Units in Structure: 5-9,GA,Randolph,28,62,34,53,59,93,67,78,49,84
+47,Units in Structure: 50+,GA,Randolph,0,0,14,10,11,8,7,0,0,84
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Randolph,0,0,0,14,15,13,14,18,0,0
+49,Units in Structure: Mobile Home,GA,Randolph,748,685,896,1023,785,796,902,815,784,783
+40,Units in Structure: 1 ATTACHED,GA,Richmond,3837,3547,3867,3806,3790,3729,3800,3815,3882,4781
+41,Units in Structure: 1 DETACHED,GA,Richmond,53350,53671,53160,53440,53751,54041,53896,54745,54462,54391
+42,Units in Structure: 10-19,GA,Richmond,2999,3305,3544,3307,3501,3769,3811,3765,4495,4960
+43,Units in Structure: 2,GA,Richmond,2354,2345,2142,2088,2181,2688,2666,2609,2874,2577
+44,Units in Structure: 20-49,GA,Richmond,1249,1357,1445,1316,1075,993,1084,1164,1236,1246
+45,Units in Structure: 3-4,GA,Richmond,5146,4934,4888,4401,5052,5076,5357,5063,5303,4758
+46,Units in Structure: 5-9,GA,Richmond,8693,8628,8701,9056,8596,8004,7845,7347,7061,7114
+47,Units in Structure: 50+,GA,Richmond,1474,1637,1687,1942,1978,1972,1900,2075,1910,1860
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Richmond,0,4,4,4,4,5,31,36,32,35
+49,Units in Structure: Mobile Home,GA,Richmond,6995,6855,6982,7047,6775,6662,6900,7113,6890,6900
+40,Units in Structure: 1 ATTACHED,GA,Rockdale,748,681,719,708,810,782,769,861,937,796
+41,Units in Structure: 1 DETACHED,GA,Rockdale,24007,24897,25294,25172,25510,25339,25242,25505,25827,25950
+42,Units in Structure: 10-19,GA,Rockdale,1507,1439,1246,1188,1050,916,971,1045,1183,1083
+43,Units in Structure: 2,GA,Rockdale,1457,1231,1202,1188,1151,1114,1173,1122,979,1042
+44,Units in Structure: 20-49,GA,Rockdale,564,554,484,340,346,428,344,383,441,382
+45,Units in Structure: 3-4,GA,Rockdale,1098,1107,1152,1357,1275,1359,1381,1400,1191,1171
+46,Units in Structure: 5-9,GA,Rockdale,1856,1731,1812,2011,2024,2198,2254,1967,1783,1562
+47,Units in Structure: 50+,GA,Rockdale,275,287,290,214,180,174,158,157,289,460
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Rockdale,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Rockdale,1002,1076,949,1038,942,1009,1007,981,908,1235
+40,Units in Structure: 1 ATTACHED,GA,Schley,13,11,5,4,4,4,3,2,8,9
+41,Units in Structure: 1 DETACHED,GA,Schley,1268,1285,1285,1287,1271,1167,1182,1184,1259,1315
+42,Units in Structure: 10-19,GA,Schley,14,16,9,0,4,3,3,3,3,0
+43,Units in Structure: 2,GA,Schley,79,85,76,65,80,64,65,80,84,83
+44,Units in Structure: 20-49,GA,Schley,4,12,14,29,28,28,22,14,11,7
+45,Units in Structure: 3-4,GA,Schley,11,8,19,12,9,22,29,35,30,29
+46,Units in Structure: 5-9,GA,Schley,63,62,56,50,39,22,22,25,15,24
+47,Units in Structure: 50+,GA,Schley,0,0,0,0,0,0,12,11,4,7
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Schley,5,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Schley,746,744,714,742,894,866,845,842,777,732
+40,Units in Structure: 1 ATTACHED,GA,Screven,68,31,48,27,19,21,8,8,12,15
+41,Units in Structure: 1 DETACHED,GA,Screven,3969,3865,3850,3970,4020,4013,4070,4098,3877,3891
+42,Units in Structure: 10-19,GA,Screven,26,2,5,5,7,5,0,0,0,0
+43,Units in Structure: 2,GA,Screven,166,190,175,169,215,192,160,180,215,219
+44,Units in Structure: 20-49,GA,Screven,96,96,91,37,38,20,26,5,5,0
+45,Units in Structure: 3-4,GA,Screven,90,103,70,60,112,140,158,248,287,295
+46,Units in Structure: 5-9,GA,Screven,72,67,74,119,114,106,85,118,65,111
+47,Units in Structure: 50+,GA,Screven,25,26,8,7,6,8,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Screven,11,27,27,30,25,15,6,28,28,26
+49,Units in Structure: Mobile Home,GA,Screven,2302,2369,2414,2282,2131,2155,2135,2051,2263,2228
+40,Units in Structure: 1 ATTACHED,GA,Seminole,10,0,0,12,21,27,29,47,52,65
+41,Units in Structure: 1 DETACHED,GA,Seminole,3106,3105,3046,3139,3233,3180,3082,3132,3093,2906
+42,Units in Structure: 10-19,GA,Seminole,15,11,14,9,8,3,1,3,4,0
+43,Units in Structure: 2,GA,Seminole,70,78,92,86,71,97,63,81,62,45
+44,Units in Structure: 20-49,GA,Seminole,0,0,0,0,0,11,54,61,49,62
+45,Units in Structure: 3-4,GA,Seminole,42,18,18,21,9,47,67,87,81,136
+46,Units in Structure: 5-9,GA,Seminole,7,24,20,36,36,70,82,124,110,110
+47,Units in Structure: 50+,GA,Seminole,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Seminole,13,16,12,9,12,0,0,0,0,8
+49,Units in Structure: Mobile Home,GA,Seminole,1557,1555,1615,1483,1410,1366,1407,1295,1383,1500
+40,Units in Structure: 1 ATTACHED,GA,Spalding,698,600,479,576,410,518,548,584,472,461
+41,Units in Structure: 1 DETACHED,GA,Spalding,19442,19311,19714,19952,20412,20401,20735,20723,20991,21418
+42,Units in Structure: 10-19,GA,Spalding,378,333,321,371,324,397,367,425,516,577
+43,Units in Structure: 2,GA,Spalding,1193,1322,1071,1006,1025,843,870,1081,1056,899
+44,Units in Structure: 20-49,GA,Spalding,200,256,241,318,307,279,223,305,244,229
+45,Units in Structure: 3-4,GA,Spalding,1048,1032,1071,987,937,963,890,887,861,852
+46,Units in Structure: 5-9,GA,Spalding,1080,1430,1354,1275,1286,1145,848,864,895,874
+47,Units in Structure: 50+,GA,Spalding,263,203,235,256,282,322,320,286,225,227
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Spalding,0,0,0,0,0,9,9,11,10,11
+49,Units in Structure: Mobile Home,GA,Spalding,2133,2173,2273,2052,1900,2049,2195,2012,1999,1859
+40,Units in Structure: 1 ATTACHED,GA,Stephens,171,153,133,93,145,165,231,287,232,265
+41,Units in Structure: 1 DETACHED,GA,Stephens,7875,8446,8249,8544,8618,8368,8342,8404,8377,8246
+42,Units in Structure: 10-19,GA,Stephens,64,57,68,78,91,21,71,106,71,118
+43,Units in Structure: 2,GA,Stephens,304,313,421,398,372,489,399,222,197,247
+44,Units in Structure: 20-49,GA,Stephens,59,89,117,101,101,77,51,44,69,69
+45,Units in Structure: 3-4,GA,Stephens,463,410,406,348,338,441,452,513,574,514
+46,Units in Structure: 5-9,GA,Stephens,110,90,101,146,162,176,163,125,144,184
+47,Units in Structure: 50+,GA,Stephens,37,45,46,32,54,35,33,49,55,44
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Stephens,0,14,20,26,13,16,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Stephens,3452,2975,3054,2798,2690,2753,2780,2874,2906,2937
+40,Units in Structure: 1 ATTACHED,GA,Stewart,9,9,9,9,9,14,10,12,20,20
+41,Units in Structure: 1 DETACHED,GA,Stewart,1935,1772,1452,1391,1337,1372,1425,1472,1541,1481
+42,Units in Structure: 10-19,GA,Stewart,2,0,3,3,5,3,4,0,0,28
+43,Units in Structure: 2,GA,Stewart,67,77,88,98,105,94,101,70,64,49
+44,Units in Structure: 20-49,GA,Stewart,8,6,16,23,26,21,22,6,4,0
+45,Units in Structure: 3-4,GA,Stewart,38,35,20,16,10,3,3,3,33,28
+46,Units in Structure: 5-9,GA,Stewart,17,4,4,19,14,13,15,16,0,9
+47,Units in Structure: 50+,GA,Stewart,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Stewart,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Stewart,660,709,786,805,851,822,760,776,687,731
+40,Units in Structure: 1 ATTACHED,GA,Sumter,110,82,70,111,99,80,61,65,55,68
+41,Units in Structure: 1 DETACHED,GA,Sumter,8426,8383,8123,8306,8519,8522,8327,8925,8557,8651
+42,Units in Structure: 10-19,GA,Sumter,169,187,259,258,173,213,276,256,253,282
+43,Units in Structure: 2,GA,Sumter,813,823,1114,1057,1108,1077,969,739,1271,1252
+44,Units in Structure: 20-49,GA,Sumter,170,200,209,148,134,84,74,39,42,52
+45,Units in Structure: 3-4,GA,Sumter,614,493,565,716,665,598,691,609,494,420
+46,Units in Structure: 5-9,GA,Sumter,924,939,895,717,788,791,949,825,795,660
+47,Units in Structure: 50+,GA,Sumter,47,52,53,68,64,79,135,127,149,155
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Sumter,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Sumter,2685,2763,2624,2479,2322,2413,2351,2303,2283,2351
+40,Units in Structure: 1 ATTACHED,GA,Talbot,45,39,0,11,18,24,25,34,22,17
+41,Units in Structure: 1 DETACHED,GA,Talbot,2342,2213,2132,2087,2029,1993,2026,2106,2085,2155
+42,Units in Structure: 10-19,GA,Talbot,0,0,0,0,10,21,33,64,62,80
+43,Units in Structure: 2,GA,Talbot,58,64,69,69,73,65,45,28,53,44
+44,Units in Structure: 20-49,GA,Talbot,0,4,14,10,12,15,15,5,5,15
+45,Units in Structure: 3-4,GA,Talbot,113,77,40,43,26,17,17,13,9,13
+46,Units in Structure: 5-9,GA,Talbot,25,22,34,28,15,12,23,6,26,27
+47,Units in Structure: 50+,GA,Talbot,0,0,0,13,32,11,9,8,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Talbot,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Talbot,761,961,1086,1108,1164,1218,1169,1144,1151,1074
+40,Units in Structure: 1 ATTACHED,GA,Taliaferro,7,0,9,5,6,7,8,8,6,6
+41,Units in Structure: 1 DETACHED,GA,Taliaferro,656,657,684,674,652,644,608,611,541,561
+42,Units in Structure: 10-19,GA,Taliaferro,0,0,0,0,8,9,9,11,10,2
+43,Units in Structure: 2,GA,Taliaferro,5,0,2,10,12,17,20,20,9,16
+44,Units in Structure: 20-49,GA,Taliaferro,10,16,4,5,8,0,2,2,2,2
+45,Units in Structure: 3-4,GA,Taliaferro,30,45,29,30,32,6,0,2,1,1
+46,Units in Structure: 5-9,GA,Taliaferro,5,4,5,4,3,8,14,14,18,19
+47,Units in Structure: 50+,GA,Taliaferro,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Taliaferro,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Taliaferro,372,316,299,332,296,382,420,423,431,413
+40,Units in Structure: 1 ATTACHED,GA,Tattnall,207,91,68,78,118,59,104,104,77,57
+41,Units in Structure: 1 DETACHED,GA,Tattnall,5742,5733,5727,5782,5691,5572,5432,5613,5661,5766
+42,Units in Structure: 10-19,GA,Tattnall,35,50,19,8,9,7,7,16,13,14
+43,Units in Structure: 2,GA,Tattnall,325,372,378,278,319,386,370,358,410,362
+44,Units in Structure: 20-49,GA,Tattnall,34,31,47,45,31,22,20,7,6,0
+45,Units in Structure: 3-4,GA,Tattnall,160,161,188,120,108,102,141,85,88,125
+46,Units in Structure: 5-9,GA,Tattnall,19,30,41,95,109,92,79,52,13,11
+47,Units in Structure: 50+,GA,Tattnall,0,0,0,0,11,10,8,23,25,17
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Tattnall,0,0,0,0,0,0,0,0,29,38
+49,Units in Structure: Mobile Home,GA,Tattnall,3226,3413,3434,3469,3510,3638,3702,3721,3662,3636
+40,Units in Structure: 1 ATTACHED,GA,Taylor,30,15,13,13,22,9,11,16,27,17
+41,Units in Structure: 1 DETACHED,GA,Taylor,2684,2721,2742,2581,2585,2356,2367,2393,2448,2440
+42,Units in Structure: 10-19,GA,Taylor,0,0,0,0,4,2,3,21,28,30
+43,Units in Structure: 2,GA,Taylor,157,147,89,137,161,175,193,233,171,161
+44,Units in Structure: 20-49,GA,Taylor,22,6,5,6,4,4,0,0,7,26
+45,Units in Structure: 3-4,GA,Taylor,53,42,36,38,17,27,61,52,82,95
+46,Units in Structure: 5-9,GA,Taylor,59,52,45,34,24,28,31,59,60,19
+47,Units in Structure: 50+,GA,Taylor,2,3,3,4,5,3,3,8,33,20
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Taylor,0,0,0,0,0,0,0,6,7,6
+49,Units in Structure: Mobile Home,GA,Taylor,1484,1551,1610,1707,1708,1909,1827,1790,1726,1791
+40,Units in Structure: 1 ATTACHED,GA,Telfair,12,0,11,9,15,14,23,18,19,12
+41,Units in Structure: 1 DETACHED,GA,Telfair,4586,4782,4730,4611,4522,4416,4240,4317,4413,4614
+42,Units in Structure: 10-19,GA,Telfair,31,58,61,44,42,26,0,10,58,44
+43,Units in Structure: 2,GA,Telfair,164,200,216,219,259,129,185,347,290,247
+44,Units in Structure: 20-49,GA,Telfair,22,21,21,46,26,14,18,10,4,4
+45,Units in Structure: 3-4,GA,Telfair,255,244,153,196,141,79,92,90,58,112
+46,Units in Structure: 5-9,GA,Telfair,126,174,163,191,228,142,184,107,162,133
+47,Units in Structure: 50+,GA,Telfair,13,16,5,6,3,3,2,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Telfair,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Telfair,1677,1632,1805,1894,2004,2405,2458,2355,2259,2114
+40,Units in Structure: 1 ATTACHED,GA,Terrell,30,0,0,0,0,4,10,14,18,17
+41,Units in Structure: 1 DETACHED,GA,Terrell,2753,2830,2887,3040,3071,3172,3127,3079,3111,3004
+42,Units in Structure: 10-19,GA,Terrell,4,5,12,21,25,25,39,40,35,69
+43,Units in Structure: 2,GA,Terrell,124,66,66,108,100,110,150,159,145,168
+44,Units in Structure: 20-49,GA,Terrell,6,8,7,8,0,6,14,14,16,22
+45,Units in Structure: 3-4,GA,Terrell,183,159,139,107,88,97,60,68,118,109
+46,Units in Structure: 5-9,GA,Terrell,158,170,122,101,81,98,113,107,74,94
+47,Units in Structure: 50+,GA,Terrell,5,17,17,9,9,13,9,6,10,37
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Terrell,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Terrell,913,861,860,696,796,642,645,690,646,645
+40,Units in Structure: 1 ATTACHED,GA,Thomas,304,303,281,301,278,374,410,473,515,526
+41,Units in Structure: 1 DETACHED,GA,Thomas,13352,13500,13707,13558,13775,13503,13870,14026,13832,13999
+42,Units in Structure: 10-19,GA,Thomas,200,235,167,165,126,168,197,275,293,334
+43,Units in Structure: 2,GA,Thomas,399,383,372,526,544,499,341,437,406,462
+44,Units in Structure: 20-49,GA,Thomas,115,113,123,122,132,93,89,117,81,57
+45,Units in Structure: 3-4,GA,Thomas,618,758,711,639,729,820,703,675,711,632
+46,Units in Structure: 5-9,GA,Thomas,913,864,925,1122,1032,1187,1210,1088,1004,1160
+47,Units in Structure: 50+,GA,Thomas,96,120,157,114,122,140,96,77,71,132
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Thomas,0,0,0,0,21,23,33,34,36,6
+49,Units in Structure: Mobile Home,GA,Thomas,3933,3827,3722,3635,3511,3499,3374,3344,3666,3407
+40,Units in Structure: 1 ATTACHED,GA,Tift,109,146,167,266,290,381,272,326,260,245
+41,Units in Structure: 1 DETACHED,GA,Tift,9687,9308,9249,9339,9504,9251,9865,9888,10028,10107
+42,Units in Structure: 10-19,GA,Tift,174,223,187,226,182,123,64,80,73,100
+43,Units in Structure: 2,GA,Tift,504,632,809,888,783,814,574,628,529,514
+44,Units in Structure: 20-49,GA,Tift,85,102,102,189,188,210,219,203,217,187
+45,Units in Structure: 3-4,GA,Tift,808,729,705,663,709,697,763,786,728,827
+46,Units in Structure: 5-9,GA,Tift,694,774,602,489,507,624,542,579,554,680
+47,Units in Structure: 50+,GA,Tift,203,205,262,220,181,198,211,199,202,195
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Tift,28,28,24,31,15,0,0,0,29,27
+49,Units in Structure: Mobile Home,GA,Tift,4080,4264,4307,4050,4040,4116,3905,3919,4035,3863
+40,Units in Structure: 1 ATTACHED,GA,Toombs,37,0,12,13,37,97,135,127,158,127
+41,Units in Structure: 1 DETACHED,GA,Toombs,7423,7518,7351,7165,7373,7241,7362,7405,7475,7441
+42,Units in Structure: 10-19,GA,Toombs,136,200,281,262,241,214,192,108,98,72
+43,Units in Structure: 2,GA,Toombs,603,581,522,662,685,744,742,741,726,634
+44,Units in Structure: 20-49,GA,Toombs,37,40,33,57,57,35,34,115,115,96
+45,Units in Structure: 3-4,GA,Toombs,546,517,592,482,388,387,344,340,362,512
+46,Units in Structure: 5-9,GA,Toombs,258,298,306,390,368,343,391,458,481,474
+47,Units in Structure: 50+,GA,Toombs,53,51,32,29,52,75,82,75,142,87
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Toombs,0,0,0,0,0,11,8,38,47,36
+49,Units in Structure: Mobile Home,GA,Toombs,3012,2933,2991,3035,2918,2954,2784,2771,2578,2739
+40,Units in Structure: 1 ATTACHED,GA,Towns,46,30,24,61,62,52,69,68,123,128
+41,Units in Structure: 1 DETACHED,GA,Towns,5748,5668,5818,5955,6056,6171,6434,6545,6527,6479
+42,Units in Structure: 10-19,GA,Towns,28,25,60,48,61,73,104,79,92,71
+43,Units in Structure: 2,GA,Towns,9,2,4,47,47,53,67,67,27,39
+44,Units in Structure: 20-49,GA,Towns,39,78,103,102,112,114,116,108,114,101
+45,Units in Structure: 3-4,GA,Towns,51,144,161,174,173,188,92,120,114,117
+46,Units in Structure: 5-9,GA,Towns,17,23,30,45,41,82,87,86,68,77
+47,Units in Structure: 50+,GA,Towns,28,26,37,35,24,22,20,33,60,100
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Towns,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Towns,1720,1728,1543,1306,1240,1099,926,949,1033,1117
+40,Units in Structure: 1 ATTACHED,GA,Treutlen,4,8,5,6,7,0,0,0,0,9
+41,Units in Structure: 1 DETACHED,GA,Treutlen,1899,1701,1670,1796,1993,2034,1985,1989,1937,1897
+42,Units in Structure: 10-19,GA,Treutlen,0,0,0,0,0,0,5,7,8,8
+43,Units in Structure: 2,GA,Treutlen,93,117,92,61,120,98,72,61,93,88
+44,Units in Structure: 20-49,GA,Treutlen,0,0,4,4,6,7,5,0,0,0
+45,Units in Structure: 3-4,GA,Treutlen,68,69,74,54,77,82,75,51,43,33
+46,Units in Structure: 5-9,GA,Treutlen,13,17,0,10,13,11,11,13,0,0
+47,Units in Structure: 50+,GA,Treutlen,0,4,4,5,6,8,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Treutlen,15,9,12,13,10,0,0,0,6,6
+49,Units in Structure: Mobile Home,GA,Treutlen,880,1058,893,1011,880,991,1090,1219,1289,1164
+40,Units in Structure: 1 ATTACHED,GA,Troup,212,239,223,172,203,227,268,250,292,250
+41,Units in Structure: 1 DETACHED,GA,Troup,21017,20786,20603,20756,20931,21060,20886,20924,20989,20779
+42,Units in Structure: 10-19,GA,Troup,572,652,766,783,785,732,699,682,583,603
+43,Units in Structure: 2,GA,Troup,851,988,802,784,840,824,687,822,964,902
+44,Units in Structure: 20-49,GA,Troup,203,277,339,427,390,368,413,453,371,439
+45,Units in Structure: 3-4,GA,Troup,1061,1216,1305,1138,1065,1136,988,937,932,912
+46,Units in Structure: 5-9,GA,Troup,1167,1086,1280,1276,1467,1549,1640,1339,1086,954
+47,Units in Structure: 50+,GA,Troup,302,327,303,352,324,368,502,825,1196,1515
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Troup,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Troup,2093,2257,2358,2371,2200,1977,2199,2148,2027,2175
+40,Units in Structure: 1 ATTACHED,GA,Turner,68,78,85,83,32,37,18,31,0,0
+41,Units in Structure: 1 DETACHED,GA,Turner,2378,2399,2421,2473,2325,2310,2485,2622,2663,2710
+42,Units in Structure: 10-19,GA,Turner,123,79,120,58,103,65,54,69,40,0
+43,Units in Structure: 2,GA,Turner,231,256,193,108,124,168,86,82,174,158
+44,Units in Structure: 20-49,GA,Turner,28,19,12,21,13,14,18,24,49,29
+45,Units in Structure: 3-4,GA,Turner,116,131,93,104,98,93,51,88,53,158
+46,Units in Structure: 5-9,GA,Turner,257,186,184,105,136,152,203,171,171,155
+47,Units in Structure: 50+,GA,Turner,0,10,8,12,12,12,0,0,0,10
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Turner,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Turner,672,696,740,850,980,976,923,814,764,718
+40,Units in Structure: 1 ATTACHED,GA,Twiggs,41,18,15,17,9,8,7,15,18,39
+41,Units in Structure: 1 DETACHED,GA,Twiggs,2438,2422,2372,2259,2306,2408,2494,2494,2675,2846
+42,Units in Structure: 10-19,GA,Twiggs,19,16,11,10,16,22,23,20,14,6
+43,Units in Structure: 2,GA,Twiggs,52,49,40,33,10,12,19,19,24,21
+44,Units in Structure: 20-49,GA,Twiggs,0,0,0,0,0,0,0,4,3,2
+45,Units in Structure: 3-4,GA,Twiggs,0,0,7,12,20,26,24,18,9,12
+46,Units in Structure: 5-9,GA,Twiggs,32,39,31,38,50,47,60,58,48,40
+47,Units in Structure: 50+,GA,Twiggs,10,12,10,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Twiggs,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Twiggs,1680,1698,1758,1834,1800,1674,1563,1615,1449,1287
+40,Units in Structure: 1 ATTACHED,GA,Union,211,149,105,86,80,51,19,42,48,32
+41,Units in Structure: 1 DETACHED,GA,Union,11133,11613,11573,11643,11760,11924,11966,12168,12106,12074
+42,Units in Structure: 10-19,GA,Union,99,115,99,153,197,258,301,259,228,179
+43,Units in Structure: 2,GA,Union,112,127,44,43,48,43,46,60,63,88
+44,Units in Structure: 20-49,GA,Union,19,12,19,17,16,23,32,24,26,24
+45,Units in Structure: 3-4,GA,Union,71,70,72,48,63,69,84,112,121,88
+46,Units in Structure: 5-9,GA,Union,171,165,148,57,113,73,63,72,71,45
+47,Units in Structure: 50+,GA,Union,137,205,222,284,242,223,189,199,102,132
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Union,25,51,56,64,67,58,23,18,49,88
+49,Units in Structure: Mobile Home,GA,Union,1736,1428,1689,1685,1561,1481,1525,1460,1709,1909
+40,Units in Structure: 1 ATTACHED,GA,Upson,101,124,153,98,95,90,62,61,88,87
+41,Units in Structure: 1 DETACHED,GA,Upson,8902,9043,8935,8920,8607,8702,8625,8545,8578,8811
+42,Units in Structure: 10-19,GA,Upson,34,23,29,24,62,60,50,88,88,48
+43,Units in Structure: 2,GA,Upson,401,407,398,332,314,362,300,335,384,354
+44,Units in Structure: 20-49,GA,Upson,43,30,45,62,83,98,143,193,171,121
+45,Units in Structure: 3-4,GA,Upson,479,445,476,466,502,475,503,487,398,353
+46,Units in Structure: 5-9,GA,Upson,163,205,242,254,297,253,219,177,159,190
+47,Units in Structure: 50+,GA,Upson,46,47,73,53,53,41,30,16,9,9
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Upson,0,0,0,8,8,9,13,14,5,4
+49,Units in Structure: Mobile Home,GA,Upson,2019,1858,1827,1926,2130,2034,2169,2231,2273,2178
+40,Units in Structure: 1 ATTACHED,GA,Walker,286,334,389,350,335,274,172,153,223,330
+41,Units in Structure: 1 DETACHED,GA,Walker,21825,22226,22530,22531,22445,22588,22722,23179,23409,23428
+42,Units in Structure: 10-19,GA,Walker,339,323,228,251,289,390,393,452,439,449
+43,Units in Structure: 2,GA,Walker,1018,1056,1080,924,980,845,884,915,1074,1064
+44,Units in Structure: 20-49,GA,Walker,179,186,149,79,92,187,196,255,304,361
+45,Units in Structure: 3-4,GA,Walker,608,686,738,830,776,711,750,668,507,459
+46,Units in Structure: 5-9,GA,Walker,409,358,357,482,577,607,539,450,344,245
+47,Units in Structure: 50+,GA,Walker,157,247,163,104,112,112,70,114,171,197
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Walker,67,100,107,105,111,41,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Walker,4804,4426,4295,4344,4355,4335,4356,4090,3817,3820
+40,Units in Structure: 1 ATTACHED,GA,Walton,328,364,439,433,604,562,738,755,780,625
+41,Units in Structure: 1 DETACHED,GA,Walton,26420,26856,26668,26790,26724,26832,26772,27238,27581,28047
+42,Units in Structure: 10-19,GA,Walton,9,0,13,12,85,133,186,167,192,148
+43,Units in Structure: 2,GA,Walton,1264,1374,1404,1463,1298,1334,1208,1147,1017,1040
+44,Units in Structure: 20-49,GA,Walton,59,53,49,103,115,89,87,98,35,35
+45,Units in Structure: 3-4,GA,Walton,597,616,710,630,584,545,350,342,413,542
+46,Units in Structure: 5-9,GA,Walton,718,630,738,665,584,556,660,582,543,630
+47,Units in Structure: 50+,GA,Walton,85,106,151,148,188,142,96,59,48,82
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Walton,0,0,0,0,50,61,146,154,145,49
+49,Units in Structure: Mobile Home,GA,Walton,2418,2259,2228,2141,2224,2248,2393,2499,2653,2596
+40,Units in Structure: 1 ATTACHED,GA,Ware,183,183,181,165,169,227,225,195,157,167
+41,Units in Structure: 1 DETACHED,GA,Ware,10360,10521,10595,10840,10545,10626,10563,10697,10941,10783
+42,Units in Structure: 10-19,GA,Ware,271,171,180,190,274,250,267,236,269,225
+43,Units in Structure: 2,GA,Ware,631,702,806,784,706,745,650,699,687,820
+44,Units in Structure: 20-49,GA,Ware,102,110,141,164,161,122,185,96,99,97
+45,Units in Structure: 3-4,GA,Ware,559,535,479,347,312,361,357,442,413,456
+46,Units in Structure: 5-9,GA,Ware,601,591,555,490,433,480,724,638,697,832
+47,Units in Structure: 50+,GA,Ware,85,101,86,100,111,128,102,87,81,65
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Ware,0,0,0,0,2,3,4,6,15,28
+49,Units in Structure: Mobile Home,GA,Ware,3557,3414,3323,3229,3646,3452,3334,3456,3264,3245
+40,Units in Structure: 1 ATTACHED,GA,Warren,17,11,17,11,12,24,36,53,56,49
+41,Units in Structure: 1 DETACHED,GA,Warren,1581,1825,1928,1841,1796,1877,1675,1567,1540,1542
+42,Units in Structure: 10-19,GA,Warren,8,0,4,3,14,22,52,73,79,61
+43,Units in Structure: 2,GA,Warren,91,56,69,77,75,93,93,66,63,102
+44,Units in Structure: 20-49,GA,Warren,14,13,7,35,56,51,78,92,58,36
+45,Units in Structure: 3-4,GA,Warren,122,78,67,69,39,31,46,43,46,35
+46,Units in Structure: 5-9,GA,Warren,39,48,46,36,6,29,42,72,75,61
+47,Units in Structure: 50+,GA,Warren,0,2,3,2,4,8,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Warren,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Warren,1082,932,830,882,959,820,922,1007,1063,1090
+40,Units in Structure: 1 ATTACHED,GA,Washington,60,34,24,18,12,21,23,20,15,27
+41,Units in Structure: 1 DETACHED,GA,Washington,5638,5417,5426,5307,5449,5477,5567,5459,5542,5588
+42,Units in Structure: 10-19,GA,Washington,0,32,45,44,51,52,24,0,14,12
+43,Units in Structure: 2,GA,Washington,81,124,101,187,195,244,246,280,219,191
+44,Units in Structure: 20-49,GA,Washington,54,46,33,14,0,0,0,0,0,15
+45,Units in Structure: 3-4,GA,Washington,245,207,188,175,178,197,179,167,186,257
+46,Units in Structure: 5-9,GA,Washington,102,113,140,220,197,191,212,279,251,223
+47,Units in Structure: 50+,GA,Washington,36,80,78,36,49,55,76,36,37,34
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Washington,4,4,0,0,0,8,6,7,7,8
+49,Units in Structure: Mobile Home,GA,Washington,2753,2953,2985,2987,2903,2795,2717,2925,2976,2977
+40,Units in Structure: 1 ATTACHED,GA,Wayne,88,72,73,64,40,15,21,17,56,88
+41,Units in Structure: 1 DETACHED,GA,Wayne,7075,6981,6857,6816,7192,7251,7204,7343,7414,7601
+42,Units in Structure: 10-19,GA,Wayne,33,44,33,41,42,36,9,37,37,37
+43,Units in Structure: 2,GA,Wayne,247,263,167,182,198,173,178,174,184,291
+44,Units in Structure: 20-49,GA,Wayne,46,29,42,45,73,115,132,90,60,72
+45,Units in Structure: 3-4,GA,Wayne,289,293,258,242,278,331,317,300,250,285
+46,Units in Structure: 5-9,GA,Wayne,173,212,237,243,302,254,213,298,371,393
+47,Units in Structure: 50+,GA,Wayne,44,58,54,38,34,24,51,72,81,53
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Wayne,12,10,13,13,0,11,9,7,8,16
+49,Units in Structure: Mobile Home,GA,Wayne,4001,4147,4396,4445,3987,3915,3966,3891,3780,3451
+40,Units in Structure: 1 ATTACHED,GA,Webster,6,0,0,0,0,0,0,0,0,0
+41,Units in Structure: 1 DETACHED,GA,Webster,758,903,811,676,640,576,655,731,761,765
+42,Units in Structure: 10-19,GA,Webster,17,16,17,12,7,0,0,0,5,5
+43,Units in Structure: 2,GA,Webster,0,0,0,0,0,16,16,15,18,16
+44,Units in Structure: 20-49,GA,Webster,9,0,0,0,0,0,0,0,4,5
+45,Units in Structure: 3-4,GA,Webster,0,0,0,19,27,24,25,30,0,0
+46,Units in Structure: 5-9,GA,Webster,27,17,15,7,5,5,13,12,14,29
+47,Units in Structure: 50+,GA,Webster,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Webster,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Webster,626,663,673,734,803,771,656,658,624,660
+40,Units in Structure: 1 ATTACHED,GA,Wheeler,0,0,0,0,0,0,0,0,0,2
+41,Units in Structure: 1 DETACHED,GA,Wheeler,1323,1411,1521,1484,1443,1485,1439,1488,1619,1597
+42,Units in Structure: 10-19,GA,Wheeler,13,4,20,3,3,3,4,1,24,34
+43,Units in Structure: 2,GA,Wheeler,67,61,66,67,54,46,41,39,37,48
+44,Units in Structure: 20-49,GA,Wheeler,0,10,10,4,1,7,0,0,0,0
+45,Units in Structure: 3-4,GA,Wheeler,37,38,34,47,26,25,24,56,48,87
+46,Units in Structure: 5-9,GA,Wheeler,25,36,49,63,66,44,53,47,52,64
+47,Units in Structure: 50+,GA,Wheeler,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Wheeler,0,0,0,0,0,0,8,8,7,5
+49,Units in Structure: Mobile Home,GA,Wheeler,629,725,912,904,824,980,1025,980,832,797
+40,Units in Structure: 1 ATTACHED,GA,White,179,240,235,257,295,237,144,108,65,32
+41,Units in Structure: 1 DETACHED,GA,White,10971,11415,11743,11792,11889,11928,11870,11835,12196,11963
+42,Units in Structure: 10-19,GA,White,0,74,86,182,220,249,220,211,134,129
+43,Units in Structure: 2,GA,White,193,227,161,114,102,166,129,178,219,220
+44,Units in Structure: 20-49,GA,White,14,83,33,64,93,76,56,49,46,5
+45,Units in Structure: 3-4,GA,White,231,211,233,267,208,133,114,142,140,206
+46,Units in Structure: 5-9,GA,White,399,529,567,473,523,507,537,557,551,621
+47,Units in Structure: 50+,GA,White,0,38,43,45,42,54,17,16,22,25
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,White,76,80,84,16,32,115,144,113,174,143
+49,Units in Structure: Mobile Home,GA,White,2951,2713,2580,2722,2634,2536,2769,2951,2647,2910
+40,Units in Structure: 1 ATTACHED,GA,Whitfield,1135,1161,1200,1152,1016,976,1040,967,911,959
+41,Units in Structure: 1 DETACHED,GA,Whitfield,24325,24479,25110,25194,25406,25670,25705,25297,25217,25196
+42,Units in Structure: 10-19,GA,Whitfield,1113,1224,1490,1599,1795,1723,1717,1438,1556,1552
+43,Units in Structure: 2,GA,Whitfield,1649,1626,1407,1268,1193,1205,1237,1531,1644,1319
+44,Units in Structure: 20-49,GA,Whitfield,739,617,689,690,722,787,815,720,795,766
+45,Units in Structure: 3-4,GA,Whitfield,1911,1843,1756,2136,2055,1706,1825,2073,1616,1880
+46,Units in Structure: 5-9,GA,Whitfield,1602,2134,1805,1846,1982,2043,1862,2110,2035,1937
+47,Units in Structure: 50+,GA,Whitfield,378,377,292,186,186,304,299,351,368,285
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Whitfield,18,20,11,0,0,0,0,15,15,15
+49,Units in Structure: Mobile Home,GA,Whitfield,5877,5939,5839,5616,5422,5317,5179,5349,5756,6130
+40,Units in Structure: 1 ATTACHED,GA,Wilcox,17,17,17,14,8,7,7,7,3,3
+41,Units in Structure: 1 DETACHED,GA,Wilcox,2343,2222,2109,2095,2056,2098,2192,2278,2362,2320
+42,Units in Structure: 10-19,GA,Wilcox,3,4,4,5,4,4,3,23,27,24
+43,Units in Structure: 2,GA,Wilcox,11,58,42,31,76,79,54,51,47,24
+44,Units in Structure: 20-49,GA,Wilcox,11,12,18,21,17,12,6,4,6,17
+45,Units in Structure: 3-4,GA,Wilcox,6,2,3,0,0,5,16,18,12,12
+46,Units in Structure: 5-9,GA,Wilcox,100,70,57,51,35,19,22,28,45,32
+47,Units in Structure: 50+,GA,Wilcox,2,3,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Wilcox,0,0,0,0,0,0,5,7,7,6
+49,Units in Structure: Mobile Home,GA,Wilcox,998,1126,1267,1273,1293,1276,1178,1104,998,1084
+40,Units in Structure: 1 ATTACHED,GA,Wilkes,95,115,64,53,60,50,57,59,49,26
+41,Units in Structure: 1 DETACHED,GA,Wilkes,3699,3755,3744,3678,3581,3621,3593,3700,3735,3749
+42,Units in Structure: 10-19,GA,Wilkes,39,62,36,32,29,29,11,9,0,0
+43,Units in Structure: 2,GA,Wilkes,171,155,146,154,201,199,223,237,206,199
+44,Units in Structure: 20-49,GA,Wilkes,15,17,27,33,33,9,8,13,9,12
+45,Units in Structure: 3-4,GA,Wilkes,63,71,84,77,74,87,97,72,91,85
+46,Units in Structure: 5-9,GA,Wilkes,41,46,66,79,80,67,58,40,37,15
+47,Units in Structure: 50+,GA,Wilkes,0,0,0,0,0,0,8,10,7,6
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Wilkes,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Wilkes,1046,939,991,1045,1096,1098,1092,1031,1025,1073
+40,Units in Structure: 1 ATTACHED,GA,Wilkinson,26,10,11,0,5,7,6,15,15,7
+41,Units in Structure: 1 DETACHED,GA,Wilkinson,2931,3008,2931,2847,2813,2810,2729,2884,2818,2941
+42,Units in Structure: 10-19,GA,Wilkinson,0,0,8,7,7,4,6,0,0,1
+43,Units in Structure: 2,GA,Wilkinson,21,35,33,40,35,35,28,26,13,9
+44,Units in Structure: 20-49,GA,Wilkinson,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,GA,Wilkinson,22,41,64,63,25,32,47,59,60,68
+46,Units in Structure: 5-9,GA,Wilkinson,55,56,29,55,101,110,99,94,99,61
+47,Units in Structure: 50+,GA,Wilkinson,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Wilkinson,0,0,0,9,5,6,6,6,0,0
+49,Units in Structure: Mobile Home,GA,Wilkinson,1453,1334,1409,1437,1469,1440,1506,1389,1472,1401
+40,Units in Structure: 1 ATTACHED,GA,Worth,74,63,86,98,63,84,93,59,90,128
+41,Units in Structure: 1 DETACHED,GA,Worth,5474,5237,5053,4910,4889,4727,4851,5243,5430,5340
+42,Units in Structure: 10-19,GA,Worth,83,100,73,50,51,63,69,97,98,121
+43,Units in Structure: 2,GA,Worth,123,110,174,189,212,284,312,301,534,348
+44,Units in Structure: 20-49,GA,Worth,15,30,21,25,44,55,37,35,21,0
+45,Units in Structure: 3-4,GA,Worth,207,196,159,144,176,150,160,157,43,123
+46,Units in Structure: 5-9,GA,Worth,156,149,135,88,21,25,53,40,100,267
+47,Units in Structure: 50+,GA,Worth,61,64,88,75,63,48,69,0,16,14
+48,"Units in Structure: Boat,RV,Van,Etc.",GA,Worth,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,GA,Worth,3088,3310,3489,3647,3718,3786,3561,3384,2997,2995

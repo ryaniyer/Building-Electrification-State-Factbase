@@ -1,0 +1,671 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40,Units in Structure: 1 ATTACHED,SD,Aurora,7,9,6,7,5,11,8,4,5,7
+41,Units in Structure: 1 DETACHED,SD,Aurora,1058,1109,1097,1132,1124,1170,1128,1166,1139,1151
+42,Units in Structure: 10-19,SD,Aurora,0,0,0,0,0,1,2,1,8,8
+43,Units in Structure: 2,SD,Aurora,16,25,20,8,17,30,29,28,33,28
+44,Units in Structure: 20-49,SD,Aurora,0,0,0,0,3,4,6,7,11,6
+45,Units in Structure: 3-4,SD,Aurora,38,18,20,27,29,20,23,34,31,32
+46,Units in Structure: 5-9,SD,Aurora,9,10,10,13,10,13,11,14,12,10
+47,Units in Structure: 50+,SD,Aurora,0,0,0,0,0,0,0,0,0,2
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Aurora,4,3,2,3,3,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Aurora,93,93,93,114,113,112,120,121,110,104
+40,Units in Structure: 1 ATTACHED,SD,Beadle,112,102,164,163,126,165,218,215,195,216
+41,Units in Structure: 1 DETACHED,SD,Beadle,6000,5756,6024,5795,6011,6171,6298,6309,6350,5944
+42,Units in Structure: 10-19,SD,Beadle,422,473,430,526,528,445,404,447,366,379
+43,Units in Structure: 2,SD,Beadle,331,297,303,161,143,119,117,71,91,83
+44,Units in Structure: 20-49,SD,Beadle,338,361,229,215,215,192,186,161,197,325
+45,Units in Structure: 3-4,SD,Beadle,242,292,290,397,341,394,379,380,309,591
+46,Units in Structure: 5-9,SD,Beadle,272,414,389,496,444,413,349,421,530,476
+47,Units in Structure: 50+,SD,Beadle,95,130,104,112,135,128,80,86,70,38
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Beadle,0,0,2,2,3,3,4,0,0,0
+49,Units in Structure: Mobile Home,SD,Beadle,476,478,366,453,393,328,341,366,374,448
+40,Units in Structure: 1 ATTACHED,SD,Bennett,9,18,27,27,27,28,17,9,16,15
+41,Units in Structure: 1 DETACHED,SD,Bennett,942,1015,944,881,888,921,900,913,997,1007
+42,Units in Structure: 10-19,SD,Bennett,0,0,12,19,19,14,13,1,0,0
+43,Units in Structure: 2,SD,Bennett,24,24,40,34,38,17,14,13,9,11
+44,Units in Structure: 20-49,SD,Bennett,28,32,23,22,12,0,0,0,3,4
+45,Units in Structure: 3-4,SD,Bennett,29,19,32,31,35,37,36,25,17,16
+46,Units in Structure: 5-9,SD,Bennett,42,42,19,19,20,20,14,16,15,13
+47,Units in Structure: 50+,SD,Bennett,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Bennett,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Bennett,193,156,169,175,190,180,163,159,146,126
+40,Units in Structure: 1 ATTACHED,SD,Bon Homme,21,24,10,8,8,7,2,0,0,0
+41,Units in Structure: 1 DETACHED,SD,Bon Homme,2505,2511,2481,2435,2525,2515,2477,2510,2543,2532
+42,Units in Structure: 10-19,SD,Bon Homme,40,37,37,53,59,57,59,52,55,51
+43,Units in Structure: 2,SD,Bon Homme,24,16,21,24,24,8,9,10,2,2
+44,Units in Structure: 20-49,SD,Bon Homme,26,25,32,39,48,67,74,76,63,65
+45,Units in Structure: 3-4,SD,Bon Homme,16,20,29,24,25,36,51,54,78,68
+46,Units in Structure: 5-9,SD,Bon Homme,161,174,189,187,136,125,120,113,94,100
+47,Units in Structure: 50+,SD,Bon Homme,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Bon Homme,4,4,5,0,0,0,0,0,0,12
+49,Units in Structure: Mobile Home,SD,Bon Homme,153,132,123,153,115,126,151,160,138,139
+40,Units in Structure: 1 ATTACHED,SD,Brookings,542,622,601,572,595,755,663,746,686,744
+41,Units in Structure: 1 DETACHED,SD,Brookings,7235,7088,7179,7278,7648,7793,8209,8457,8300,8552
+42,Units in Structure: 10-19,SD,Brookings,1049,1078,1120,1121,1032,1051,1135,1165,1188,1123
+43,Units in Structure: 2,SD,Brookings,303,315,350,336,229,255,241,195,218,230
+44,Units in Structure: 20-49,SD,Brookings,850,847,798,829,820,816,761,762,908,837
+45,Units in Structure: 3-4,SD,Brookings,360,363,366,343,438,472,483,467,516,467
+46,Units in Structure: 5-9,SD,Brookings,1045,945,953,1062,1034,885,912,1065,1114,1229
+47,Units in Structure: 50+,SD,Brookings,97,244,268,333,410,388,317,336,311,230
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Brookings,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Brookings,1301,1481,1469,1419,1269,1223,1105,958,1109,1151
+40,Units in Structure: 1 ATTACHED,SD,Brown,469,560,576,476,486,456,433,561,728,733
+41,Units in Structure: 1 DETACHED,SD,Brown,10780,11007,11202,11381,11421,11535,11492,11413,11426,11284
+42,Units in Structure: 10-19,SD,Brown,704,625,699,681,789,894,949,982,1138,1223
+43,Units in Structure: 2,SD,Brown,333,391,398,441,433,412,391,437,495,513
+44,Units in Structure: 20-49,SD,Brown,459,383,363,454,558,645,777,863,883,894
+45,Units in Structure: 3-4,SD,Brown,957,979,931,830,815,829,819,896,700,759
+46,Units in Structure: 5-9,SD,Brown,1245,1121,1102,1050,946,1016,948,946,921,925
+47,Units in Structure: 50+,SD,Brown,471,491,422,377,370,330,406,361,405,528
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Brown,0,5,8,10,8,9,1,36,79,80
+49,Units in Structure: Mobile Home,SD,Brown,1098,1065,1045,1183,1284,1154,1255,1267,1159,1079
+40,Units in Structure: 1 ATTACHED,SD,Brule,18,22,23,22,37,45,67,68,85,80
+41,Units in Structure: 1 DETACHED,SD,Brule,1686,1633,1682,1728,1741,1758,1677,1702,1681,1763
+42,Units in Structure: 10-19,SD,Brule,71,103,73,79,81,78,99,99,136,138
+43,Units in Structure: 2,SD,Brule,72,66,64,75,58,33,38,54,44,41
+44,Units in Structure: 20-49,SD,Brule,38,27,39,23,9,7,20,30,31,26
+45,Units in Structure: 3-4,SD,Brule,74,71,46,73,59,50,62,83,86,86
+46,Units in Structure: 5-9,SD,Brule,81,113,207,140,195,177,165,120,134,113
+47,Units in Structure: 50+,SD,Brule,26,20,16,5,5,5,7,19,26,21
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Brule,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Brule,346,276,266,275,260,308,336,359,326,304
+40,Units in Structure: 1 ATTACHED,SD,Buffalo,0,18,18,15,25,26,12,18,20,15
+41,Units in Structure: 1 DETACHED,SD,Buffalo,478,472,460,443,418,456,445,456,485,492
+42,Units in Structure: 10-19,SD,Buffalo,22,25,26,30,32,31,25,28,28,30
+43,Units in Structure: 2,SD,Buffalo,27,13,14,7,13,4,11,12,11,11
+44,Units in Structure: 20-49,SD,Buffalo,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,SD,Buffalo,10,18,9,11,7,8,0,0,0,0
+46,Units in Structure: 5-9,SD,Buffalo,7,4,5,4,0,0,0,0,0,0
+47,Units in Structure: 50+,SD,Buffalo,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Buffalo,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Buffalo,46,75,111,99,115,104,85,100,106,109
+40,Units in Structure: 1 ATTACHED,SD,Butte,87,102,124,126,80,70,55,88,82,88
+41,Units in Structure: 1 DETACHED,SD,Butte,3009,3154,3175,3114,3112,3266,3254,3205,3231,3107
+42,Units in Structure: 10-19,SD,Butte,103,138,239,220,214,280,218,170,155,107
+43,Units in Structure: 2,SD,Butte,102,43,14,65,59,62,51,132,125,204
+44,Units in Structure: 20-49,SD,Butte,60,27,18,26,31,38,48,73,42,33
+45,Units in Structure: 3-4,SD,Butte,96,96,79,72,46,17,44,61,66,57
+46,Units in Structure: 5-9,SD,Butte,20,33,40,40,30,18,25,9,9,27
+47,Units in Structure: 50+,SD,Butte,16,2,0,0,0,0,0,0,13,12
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Butte,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Butte,1034,994,920,961,1074,916,991,1029,1068,1204
+40,Units in Structure: 1 ATTACHED,SD,Campbell,7,9,2,3,2,4,3,11,11,12
+41,Units in Structure: 1 DETACHED,SD,Campbell,721,681,758,773,802,799,798,833,817,818
+42,Units in Structure: 10-19,SD,Campbell,0,0,15,14,16,15,17,2,11,10
+43,Units in Structure: 2,SD,Campbell,9,6,10,0,0,0,0,0,9,9
+44,Units in Structure: 20-49,SD,Campbell,2,3,3,0,0,0,0,0,0,6
+45,Units in Structure: 3-4,SD,Campbell,2,6,4,10,13,19,15,15,11,9
+46,Units in Structure: 5-9,SD,Campbell,8,10,13,20,8,5,5,5,4,15
+47,Units in Structure: 50+,SD,Campbell,0,0,0,7,6,6,6,6,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Campbell,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Campbell,156,154,156,168,151,152,150,146,135,109
+40,Units in Structure: 1 ATTACHED,SD,Charles Mix,72,58,54,52,49,45,40,42,50,57
+41,Units in Structure: 1 DETACHED,SD,Charles Mix,3195,3204,3219,3173,3199,3174,3183,3153,3248,3278
+42,Units in Structure: 10-19,SD,Charles Mix,68,68,60,57,53,61,60,66,67,63
+43,Units in Structure: 2,SD,Charles Mix,39,51,59,69,71,76,78,76,67,69
+44,Units in Structure: 20-49,SD,Charles Mix,50,47,49,35,45,63,59,63,61,54
+45,Units in Structure: 3-4,SD,Charles Mix,50,61,40,35,46,41,59,76,70,78
+46,Units in Structure: 5-9,SD,Charles Mix,135,113,117,127,116,131,130,123,94,87
+47,Units in Structure: 50+,SD,Charles Mix,2,2,2,4,4,4,4,3,3,3
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Charles Mix,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Charles Mix,263,256,256,295,266,255,254,283,216,221
+40,Units in Structure: 1 ATTACHED,SD,Clark,16,23,11,16,16,15,9,12,14,12
+41,Units in Structure: 1 DETACHED,SD,Clark,1434,1395,1448,1484,1485,1552,1536,1546,1555,1551
+42,Units in Structure: 10-19,SD,Clark,0,6,10,16,24,30,25,20,11,4
+43,Units in Structure: 2,SD,Clark,21,11,17,14,12,11,17,15,16,15
+44,Units in Structure: 20-49,SD,Clark,0,3,13,15,17,20,30,17,14,22
+45,Units in Structure: 3-4,SD,Clark,81,84,78,73,82,55,57,76,89,70
+46,Units in Structure: 5-9,SD,Clark,65,63,47,39,31,31,25,40,48,57
+47,Units in Structure: 50+,SD,Clark,0,0,8,9,10,11,10,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Clark,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Clark,123,133,94,80,81,60,80,85,79,92
+40,Units in Structure: 1 ATTACHED,SD,Clay,142,122,122,168,142,169,155,89,139,155
+41,Units in Structure: 1 DETACHED,SD,Clay,3137,3053,3152,3107,3124,3244,3308,3381,3449,3562
+42,Units in Structure: 10-19,SD,Clay,447,501,558,503,489,423,412,430,510,541
+43,Units in Structure: 2,SD,Clay,336,361,303,357,316,212,175,155,120,148
+44,Units in Structure: 20-49,SD,Clay,213,123,143,161,179,146,197,124,98,82
+45,Units in Structure: 3-4,SD,Clay,317,262,260,294,340,348,367,503,415,392
+46,Units in Structure: 5-9,SD,Clay,289,414,417,499,527,553,443,496,395,366
+47,Units in Structure: 50+,SD,Clay,75,59,48,33,63,96,83,67,63,35
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Clay,0,0,0,9,9,14,15,16,0,0
+49,Units in Structure: Mobile Home,SD,Clay,661,739,646,545,514,544,632,633,759,758
+40,Units in Structure: 1 ATTACHED,SD,Codington,433,475,421,462,529,522,473,526,596,648
+41,Units in Structure: 1 DETACHED,SD,Codington,8667,8628,8571,8434,8292,8377,8465,8552,8572,8628
+42,Units in Structure: 10-19,SD,Codington,200,275,213,229,265,379,486,533,512,502
+43,Units in Structure: 2,SD,Codington,336,327,267,240,296,228,252,337,333,305
+44,Units in Structure: 20-49,SD,Codington,290,394,477,490,446,388,325,325,395,429
+45,Units in Structure: 3-4,SD,Codington,562,504,641,696,691,662,643,639,573,510
+46,Units in Structure: 5-9,SD,Codington,296,267,315,344,466,599,672,630,673,727
+47,Units in Structure: 50+,SD,Codington,242,215,228,270,295,291,265,307,338,388
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Codington,0,0,0,0,0,0,0,2,2,1
+49,Units in Structure: Mobile Home,SD,Codington,1263,1258,1281,1281,1247,1175,1141,1047,1019,978
+40,Units in Structure: 1 ATTACHED,SD,Corson,7,15,17,21,27,21,11,8,2,4
+41,Units in Structure: 1 DETACHED,SD,Corson,1232,1202,1197,1172,1182,1178,1182,1180,1199,1211
+42,Units in Structure: 10-19,SD,Corson,0,0,0,0,0,2,2,2,2,3
+43,Units in Structure: 2,SD,Corson,11,51,51,38,29,26,18,19,17,23
+44,Units in Structure: 20-49,SD,Corson,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,SD,Corson,24,25,27,52,62,61,74,70,57,58
+46,Units in Structure: 5-9,SD,Corson,42,27,29,29,21,14,9,10,11,15
+47,Units in Structure: 50+,SD,Corson,6,8,5,4,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Corson,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Corson,223,215,216,224,217,225,220,258,241,227
+40,Units in Structure: 1 ATTACHED,SD,Custer,66,88,128,113,108,89,84,57,45,48
+41,Units in Structure: 1 DETACHED,SD,Custer,3328,3486,3415,3557,3682,3655,3692,3785,3950,3779
+42,Units in Structure: 10-19,SD,Custer,146,134,111,139,89,66,47,95,113,133
+43,Units in Structure: 2,SD,Custer,24,24,23,13,13,8,16,20,26,35
+44,Units in Structure: 20-49,SD,Custer,27,31,37,25,30,38,48,44,43,44
+45,Units in Structure: 3-4,SD,Custer,109,60,50,49,15,14,19,11,10,48
+46,Units in Structure: 5-9,SD,Custer,28,29,36,24,40,43,42,39,40,52
+47,Units in Structure: 50+,SD,Custer,0,0,0,0,0,0,0,0,0,5
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Custer,20,0,0,0,0,0,0,2,34,19
+49,Units in Structure: Mobile Home,SD,Custer,748,714,823,738,750,882,913,965,842,1009
+40,Units in Structure: 1 ATTACHED,SD,Davison,201,142,87,130,114,123,184,226,276,339
+41,Units in Structure: 1 DETACHED,SD,Davison,5851,6136,6237,6230,6379,6607,6320,6396,6183,6255
+42,Units in Structure: 10-19,SD,Davison,601,554,510,626,630,569,550,495,429,382
+43,Units in Structure: 2,SD,Davison,207,161,187,149,220,193,264,319,265,123
+44,Units in Structure: 20-49,SD,Davison,407,386,399,336,297,298,368,467,485,594
+45,Units in Structure: 3-4,SD,Davison,382,417,412,401,372,366,400,372,524,503
+46,Units in Structure: 5-9,SD,Davison,460,404,368,293,211,201,216,239,349,442
+47,Units in Structure: 50+,SD,Davison,172,203,208,298,331,307,316,284,355,432
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Davison,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Davison,511,425,451,429,436,403,512,521,557,433
+40,Units in Structure: 1 ATTACHED,SD,Day,26,32,41,52,45,29,20,14,4,4
+41,Units in Structure: 1 DETACHED,SD,Day,3024,2971,3022,2998,2988,3002,3067,3066,3035,3160
+42,Units in Structure: 10-19,SD,Day,59,61,62,68,54,40,26,26,53,51
+43,Units in Structure: 2,SD,Day,38,51,50,55,40,28,29,10,13,11
+44,Units in Structure: 20-49,SD,Day,29,42,41,44,49,36,23,26,12,21
+45,Units in Structure: 3-4,SD,Day,129,143,129,111,95,130,150,148,160,181
+46,Units in Structure: 5-9,SD,Day,51,71,75,91,118,132,106,116,116,68
+47,Units in Structure: 50+,SD,Day,11,0,0,0,0,0,1,1,1,1
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Day,0,3,2,3,3,3,0,3,2,2
+49,Units in Structure: Mobile Home,SD,Day,273,266,221,213,266,270,250,325,349,294
+40,Units in Structure: 1 ATTACHED,SD,Deuel,0,2,3,4,5,14,9,10,9,8
+41,Units in Structure: 1 DETACHED,SD,Deuel,1883,1855,1850,1842,1872,1896,1926,1864,1856,1883
+42,Units in Structure: 10-19,SD,Deuel,51,53,43,40,34,30,27,45,54,55
+43,Units in Structure: 2,SD,Deuel,22,25,18,18,11,13,4,4,10,12
+44,Units in Structure: 20-49,SD,Deuel,2,2,2,2,0,0,0,0,0,0
+45,Units in Structure: 3-4,SD,Deuel,48,47,51,55,57,43,41,70,82,87
+46,Units in Structure: 5-9,SD,Deuel,77,72,84,97,83,130,125,152,115,101
+47,Units in Structure: 50+,SD,Deuel,0,0,0,0,0,0,0,0,0,6
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Deuel,0,0,0,0,0,0,0,0,3,2
+49,Units in Structure: Mobile Home,SD,Deuel,139,154,149,149,148,97,73,80,80,64
+40,Units in Structure: 1 ATTACHED,SD,Dewey,49,115,103,92,59,63,23,6,6,8
+41,Units in Structure: 1 DETACHED,SD,Dewey,1517,1436,1372,1356,1386,1271,1312,1329,1342,1346
+42,Units in Structure: 10-19,SD,Dewey,16,17,21,27,23,31,30,33,30,32
+43,Units in Structure: 2,SD,Dewey,13,3,5,11,30,50,59,86,97,88
+44,Units in Structure: 20-49,SD,Dewey,71,52,59,60,51,50,50,43,38,41
+45,Units in Structure: 3-4,SD,Dewey,29,22,25,29,27,40,38,47,39,42
+46,Units in Structure: 5-9,SD,Dewey,20,28,36,25,22,30,46,47,51,53
+47,Units in Structure: 50+,SD,Dewey,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Dewey,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Dewey,324,346,401,400,400,461,447,424,416,415
+40,Units in Structure: 1 ATTACHED,SD,Douglas,12,11,10,11,6,6,3,5,4,10
+41,Units in Structure: 1 DETACHED,SD,Douglas,1246,1244,1263,1263,1240,1221,1231,1191,1207,1244
+42,Units in Structure: 10-19,SD,Douglas,4,6,14,22,21,26,34,21,26,27
+43,Units in Structure: 2,SD,Douglas,15,17,13,0,0,0,0,0,0,4
+44,Units in Structure: 20-49,SD,Douglas,31,33,25,28,27,21,16,22,33,29
+45,Units in Structure: 3-4,SD,Douglas,30,29,27,28,35,34,34,30,19,26
+46,Units in Structure: 5-9,SD,Douglas,28,26,16,18,16,53,40,82,95,77
+47,Units in Structure: 50+,SD,Douglas,0,6,5,5,4,4,0,0,0,2
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Douglas,0,0,0,1,1,1,2,1,0,0
+49,Units in Structure: Mobile Home,SD,Douglas,85,76,77,71,77,68,77,76,68,48
+40,Units in Structure: 1 ATTACHED,SD,Edmunds,41,47,22,17,11,11,9,7,2,0
+41,Units in Structure: 1 DETACHED,SD,Edmunds,1650,1636,1649,1692,1653,1608,1670,1749,1729,1751
+42,Units in Structure: 10-19,SD,Edmunds,14,5,11,12,10,21,19,8,7,7
+43,Units in Structure: 2,SD,Edmunds,3,6,16,39,26,22,21,15,18,20
+44,Units in Structure: 20-49,SD,Edmunds,8,5,0,0,0,5,4,4,4,3
+45,Units in Structure: 3-4,SD,Edmunds,47,49,35,33,37,37,40,34,37,44
+46,Units in Structure: 5-9,SD,Edmunds,57,62,73,58,62,65,62,52,53,50
+47,Units in Structure: 50+,SD,Edmunds,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Edmunds,0,0,0,0,0,0,8,6,6,6
+49,Units in Structure: Mobile Home,SD,Edmunds,169,170,133,116,152,142,121,152,208,176
+40,Units in Structure: 1 ATTACHED,SD,Fall River,226,175,174,117,117,80,78,85,70,58
+41,Units in Structure: 1 DETACHED,SD,Fall River,2445,2567,2510,2646,2653,2729,2788,2770,2773,2847
+42,Units in Structure: 10-19,SD,Fall River,49,78,65,62,90,71,52,83,57,32
+43,Units in Structure: 2,SD,Fall River,19,48,52,57,56,56,36,33,36,38
+44,Units in Structure: 20-49,SD,Fall River,17,9,9,12,16,3,16,20,49,64
+45,Units in Structure: 3-4,SD,Fall River,74,74,68,99,65,93,140,112,202,202
+46,Units in Structure: 5-9,SD,Fall River,92,124,125,147,167,155,188,228,141,131
+47,Units in Structure: 50+,SD,Fall River,283,384,341,276,230,175,115,97,112,146
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Fall River,7,13,16,4,5,20,21,13,8,8
+49,Units in Structure: Mobile Home,SD,Fall River,685,704,820,748,775,789,733,786,785,706
+40,Units in Structure: 1 ATTACHED,SD,Faulk,27,16,23,21,12,8,10,4,5,2
+41,Units in Structure: 1 DETACHED,SD,Faulk,908,913,911,891,941,948,957,968,942,963
+42,Units in Structure: 10-19,SD,Faulk,7,6,8,6,8,4,5,0,0,0
+43,Units in Structure: 2,SD,Faulk,24,21,22,7,14,11,10,21,15,9
+44,Units in Structure: 20-49,SD,Faulk,4,9,9,18,17,17,16,15,16,17
+45,Units in Structure: 3-4,SD,Faulk,50,38,33,45,26,34,54,49,43,45
+46,Units in Structure: 5-9,SD,Faulk,35,40,40,46,46,36,31,45,32,41
+47,Units in Structure: 50+,SD,Faulk,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Faulk,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Faulk,88,117,131,115,107,122,116,101,120,129
+40,Units in Structure: 1 ATTACHED,SD,Grant,79,87,85,98,72,68,64,65,66,48
+41,Units in Structure: 1 DETACHED,SD,Grant,2609,2617,2629,2703,2799,2874,2998,2982,3074,3036
+42,Units in Structure: 10-19,SD,Grant,99,119,63,71,27,30,18,20,14,58
+43,Units in Structure: 2,SD,Grant,86,61,69,35,18,11,10,9,0,64
+44,Units in Structure: 20-49,SD,Grant,45,59,80,75,91,87,73,95,95,40
+45,Units in Structure: 3-4,SD,Grant,144,125,154,129,113,90,88,82,64,90
+46,Units in Structure: 5-9,SD,Grant,196,220,180,189,193,194,85,112,102,142
+47,Units in Structure: 50+,SD,Grant,0,0,0,0,0,0,0,14,10,2
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Grant,4,2,2,3,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Grant,262,230,260,223,207,189,205,182,177,124
+40,Units in Structure: 1 ATTACHED,SD,Gregory,25,22,35,26,37,37,34,22,14,15
+41,Units in Structure: 1 DETACHED,SD,Gregory,2085,2053,2046,2028,2031,1979,2026,2073,2044,2047
+42,Units in Structure: 10-19,SD,Gregory,20,33,35,50,44,63,62,64,75,88
+43,Units in Structure: 2,SD,Gregory,21,25,21,27,7,10,9,8,24,28
+44,Units in Structure: 20-49,SD,Gregory,16,18,17,19,22,18,11,10,10,11
+45,Units in Structure: 3-4,SD,Gregory,21,20,25,26,25,43,39,31,37,46
+46,Units in Structure: 5-9,SD,Gregory,71,84,102,110,120,136,119,101,90,93
+47,Units in Structure: 50+,SD,Gregory,11,10,11,18,13,0,0,0,4,4
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Gregory,0,0,0,3,2,2,2,3,0,0
+49,Units in Structure: Mobile Home,SD,Gregory,224,232,210,200,200,215,197,216,232,211
+40,Units in Structure: 1 ATTACHED,SD,Haakon,9,15,16,16,14,7,3,3,3,1
+41,Units in Structure: 1 DETACHED,SD,Haakon,851,847,816,826,850,809,817,798,793,708
+42,Units in Structure: 10-19,SD,Haakon,17,25,18,19,19,23,35,39,41,39
+43,Units in Structure: 2,SD,Haakon,9,3,9,5,6,16,14,14,13,15
+44,Units in Structure: 20-49,SD,Haakon,0,0,0,0,2,2,3,2,3,0
+45,Units in Structure: 3-4,SD,Haakon,0,0,0,0,0,0,0,0,7,16
+46,Units in Structure: 5-9,SD,Haakon,11,17,25,28,27,26,12,12,8,18
+47,Units in Structure: 50+,SD,Haakon,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Haakon,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Haakon,124,121,130,121,149,150,156,219,280,305
+40,Units in Structure: 1 ATTACHED,SD,Hamlin,98,137,128,105,88,45,13,7,7,9
+41,Units in Structure: 1 DETACHED,SD,Hamlin,2306,2286,2330,2394,2427,2478,2532,2547,2556,2579
+42,Units in Structure: 10-19,SD,Hamlin,11,10,9,9,9,15,15,16,20,27
+43,Units in Structure: 2,SD,Hamlin,12,14,10,10,9,8,2,2,4,1
+44,Units in Structure: 20-49,SD,Hamlin,30,20,20,21,19,5,6,15,16,13
+45,Units in Structure: 3-4,SD,Hamlin,23,20,32,19,28,27,29,29,43,33
+46,Units in Structure: 5-9,SD,Hamlin,64,96,106,96,91,78,70,57,74,93
+47,Units in Structure: 50+,SD,Hamlin,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Hamlin,2,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Hamlin,199,178,134,123,131,146,136,130,141,130
+40,Units in Structure: 1 ATTACHED,SD,Hand,5,25,27,36,36,41,28,23,12,13
+41,Units in Structure: 1 DETACHED,SD,Hand,1472,1463,1495,1469,1506,1499,1499,1495,1482,1489
+42,Units in Structure: 10-19,SD,Hand,30,32,39,37,46,46,47,36,39,55
+43,Units in Structure: 2,SD,Hand,6,15,11,19,26,25,17,16,11,3
+44,Units in Structure: 20-49,SD,Hand,60,60,67,63,62,67,73,70,74,88
+45,Units in Structure: 3-4,SD,Hand,29,34,24,24,23,19,16,19,20,17
+46,Units in Structure: 5-9,SD,Hand,2,8,4,8,11,3,2,3,0,0
+47,Units in Structure: 50+,SD,Hand,8,16,3,3,3,3,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Hand,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Hand,151,162,133,147,111,128,135,165,170,167
+40,Units in Structure: 1 ATTACHED,SD,Hanson,25,10,11,11,0,2,3,3,5,5
+41,Units in Structure: 1 DETACHED,SD,Hanson,1129,1131,1072,1073,1092,1087,1113,1121,1145,1132
+42,Units in Structure: 10-19,SD,Hanson,0,0,0,0,2,3,4,3,3,0
+43,Units in Structure: 2,SD,Hanson,9,7,3,2,0,0,0,0,0,0
+44,Units in Structure: 20-49,SD,Hanson,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,SD,Hanson,34,30,24,26,21,25,19,17,16,14
+46,Units in Structure: 5-9,SD,Hanson,8,12,8,8,8,10,7,3,2,8
+47,Units in Structure: 50+,SD,Hanson,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Hanson,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Hanson,52,60,66,56,53,48,37,37,33,45
+40,Units in Structure: 1 ATTACHED,SD,Harding,8,8,9,4,5,6,6,7,13,6
+41,Units in Structure: 1 DETACHED,SD,Harding,565,560,569,552,536,538,506,464,494,501
+42,Units in Structure: 10-19,SD,Harding,4,4,0,0,0,0,3,8,9,15
+43,Units in Structure: 2,SD,Harding,0,0,0,0,0,0,0,0,4,6
+44,Units in Structure: 20-49,SD,Harding,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,SD,Harding,6,2,4,3,5,7,6,4,5,3
+46,Units in Structure: 5-9,SD,Harding,13,13,15,6,9,10,9,8,13,9
+47,Units in Structure: 50+,SD,Harding,2,2,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Harding,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Harding,107,112,114,140,122,121,146,202,158,161
+40,Units in Structure: 1 ATTACHED,SD,Hughes,189,210,253,245,170,139,157,236,309,271
+41,Units in Structure: 1 DETACHED,SD,Hughes,4483,4670,4659,4785,4707,4883,4775,4776,4660,4839
+42,Units in Structure: 10-19,SD,Hughes,330,375,317,350,320,352,330,363,337,340
+43,Units in Structure: 2,SD,Hughes,45,74,76,60,104,100,115,158,180,127
+44,Units in Structure: 20-49,SD,Hughes,367,313,390,371,302,288,309,325,309,383
+45,Units in Structure: 3-4,SD,Hughes,252,272,216,260,409,411,436,417,421,387
+46,Units in Structure: 5-9,SD,Hughes,473,452,426,452,547,453,462,427,446,401
+47,Units in Structure: 50+,SD,Hughes,213,299,277,294,338,302,348,319,337,323
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Hughes,0,19,11,7,10,9,0,1,1,1
+49,Units in Structure: Mobile Home,SD,Hughes,1205,920,1005,828,804,821,882,915,976,962
+40,Units in Structure: 1 ATTACHED,SD,Hutchinson,64,80,58,57,30,38,14,6,12,12
+41,Units in Structure: 1 DETACHED,SD,Hutchinson,2950,2922,2906,2921,2969,2954,2996,3082,3044,3033
+42,Units in Structure: 10-19,SD,Hutchinson,62,55,61,65,65,54,37,27,28,32
+43,Units in Structure: 2,SD,Hutchinson,28,28,29,17,13,12,12,11,22,22
+44,Units in Structure: 20-49,SD,Hutchinson,9,12,23,32,36,56,62,52,63,66
+45,Units in Structure: 3-4,SD,Hutchinson,111,101,80,71,55,61,75,80,79,93
+46,Units in Structure: 5-9,SD,Hutchinson,90,81,89,83,62,77,73,66,76,69
+47,Units in Structure: 50+,SD,Hutchinson,0,8,11,11,20,19,10,17,14,9
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Hutchinson,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Hutchinson,77,76,108,94,89,82,73,47,60,67
+40,Units in Structure: 1 ATTACHED,SD,Hyde,0,2,3,2,8,7,5,6,16,2
+41,Units in Structure: 1 DETACHED,SD,Hyde,603,641,605,576,569,564,571,601,614,607
+42,Units in Structure: 10-19,SD,Hyde,0,0,0,9,9,10,10,12,0,0
+43,Units in Structure: 2,SD,Hyde,27,19,18,15,8,4,5,4,6,11
+44,Units in Structure: 20-49,SD,Hyde,12,7,2,2,2,3,2,0,3,3
+45,Units in Structure: 3-4,SD,Hyde,9,0,9,8,11,8,8,2,3,0
+46,Units in Structure: 5-9,SD,Hyde,3,0,0,0,0,0,0,12,13,12
+47,Units in Structure: 50+,SD,Hyde,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Hyde,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Hyde,75,79,92,98,92,90,98,82,75,85
+40,Units in Structure: 1 ATTACHED,SD,Jackson,23,29,30,10,9,6,6,0,0,0
+41,Units in Structure: 1 DETACHED,SD,Jackson,902,836,901,866,865,841,870,896,878,891
+42,Units in Structure: 10-19,SD,Jackson,12,12,0,0,0,0,0,5,3,7
+43,Units in Structure: 2,SD,Jackson,0,0,10,11,36,36,37,23,20,4
+44,Units in Structure: 20-49,SD,Jackson,25,35,35,39,27,35,35,35,37,32
+45,Units in Structure: 3-4,SD,Jackson,28,26,11,17,16,17,16,34,17,16
+46,Units in Structure: 5-9,SD,Jackson,24,21,62,77,64,51,31,13,4,21
+47,Units in Structure: 50+,SD,Jackson,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Jackson,4,0,0,0,0,0,1,2,1,1
+49,Units in Structure: Mobile Home,SD,Jackson,184,193,152,218,201,248,292,323,309,306
+40,Units in Structure: 1 ATTACHED,SD,Jerauld,4,3,3,2,0,2,7,7,7,6
+41,Units in Structure: 1 DETACHED,SD,Jerauld,983,967,999,960,942,910,878,899,916,921
+42,Units in Structure: 10-19,SD,Jerauld,35,29,29,14,13,14,12,15,12,20
+43,Units in Structure: 2,SD,Jerauld,3,6,7,5,4,3,0,0,0,0
+44,Units in Structure: 20-49,SD,Jerauld,18,17,16,15,10,6,3,13,22,26
+45,Units in Structure: 3-4,SD,Jerauld,29,21,14,7,6,5,0,0,0,2
+46,Units in Structure: 5-9,SD,Jerauld,54,26,21,17,19,13,44,39,35,30
+47,Units in Structure: 50+,SD,Jerauld,0,0,0,0,4,3,3,3,3,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Jerauld,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Jerauld,54,64,73,80,85,82,107,94,92,87
+40,Units in Structure: 1 ATTACHED,SD,Jones,0,0,0,0,0,0,0,0,0,0
+41,Units in Structure: 1 DETACHED,SD,Jones,434,440,417,405,393,373,365,372,392,393
+42,Units in Structure: 10-19,SD,Jones,3,3,3,3,0,9,7,6,5,6
+43,Units in Structure: 2,SD,Jones,13,0,7,6,6,12,15,13,14,23
+44,Units in Structure: 20-49,SD,Jones,0,0,0,2,2,2,2,2,0,0
+45,Units in Structure: 3-4,SD,Jones,2,7,1,1,7,16,14,15,28,23
+46,Units in Structure: 5-9,SD,Jones,32,29,28,12,19,19,7,13,16,20
+47,Units in Structure: 50+,SD,Jones,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Jones,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Jones,95,95,110,123,113,113,109,104,99,111
+40,Units in Structure: 1 ATTACHED,SD,Kingsbury,39,39,48,47,32,28,34,35,25,28
+41,Units in Structure: 1 DETACHED,SD,Kingsbury,2243,2217,2180,2157,2162,2212,2237,2273,2285,2327
+42,Units in Structure: 10-19,SD,Kingsbury,59,46,58,39,38,35,46,38,63,61
+43,Units in Structure: 2,SD,Kingsbury,10,9,9,12,22,25,27,26,20,3
+44,Units in Structure: 20-49,SD,Kingsbury,13,8,20,23,22,22,25,12,19,21
+45,Units in Structure: 3-4,SD,Kingsbury,110,152,130,142,149,131,96,110,118,95
+46,Units in Structure: 5-9,SD,Kingsbury,67,58,92,95,116,127,142,113,81,63
+47,Units in Structure: 50+,SD,Kingsbury,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Kingsbury,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Kingsbury,190,188,181,164,155,138,125,130,151,172
+40,Units in Structure: 1 ATTACHED,SD,Lake,127,129,97,104,112,163,179,224,230,230
+41,Units in Structure: 1 DETACHED,SD,Lake,4346,4269,4190,4328,4247,4269,4341,4402,4207,4295
+42,Units in Structure: 10-19,SD,Lake,176,201,180,158,189,183,212,279,235,225
+43,Units in Structure: 2,SD,Lake,80,70,88,43,23,19,18,40,154,148
+44,Units in Structure: 20-49,SD,Lake,126,109,111,101,104,28,21,50,110,109
+45,Units in Structure: 3-4,SD,Lake,162,209,221,117,148,167,140,118,195,137
+46,Units in Structure: 5-9,SD,Lake,130,129,171,215,259,320,310,193,167,195
+47,Units in Structure: 50+,SD,Lake,100,82,100,113,123,97,103,90,60,91
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Lake,7,0,0,4,4,5,6,6,2,2
+49,Units in Structure: Mobile Home,SD,Lake,287,340,409,391,376,368,322,319,394,353
+40,Units in Structure: 1 ATTACHED,SD,Lawrence,466,546,406,400,381,437,502,658,640,695
+41,Units in Structure: 1 DETACHED,SD,Lawrence,7602,7853,7972,8251,8490,8561,8656,8656,8898,8739
+42,Units in Structure: 10-19,SD,Lawrence,650,647,617,526,552,568,590,570,648,650
+43,Units in Structure: 2,SD,Lawrence,149,124,166,222,227,250,250,297,252,321
+44,Units in Structure: 20-49,SD,Lawrence,618,577,555,622,542,562,563,568,533,684
+45,Units in Structure: 3-4,SD,Lawrence,580,498,459,527,588,551,491,606,462,476
+46,Units in Structure: 5-9,SD,Lawrence,564,605,658,610,517,435,491,420,378,376
+47,Units in Structure: 50+,SD,Lawrence,150,182,184,224,214,291,227,235,239,277
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Lawrence,10,11,10,8,0,16,17,17,17,17
+49,Units in Structure: Mobile Home,SD,Lawrence,1634,1552,1718,1478,1536,1512,1568,1617,1773,1781
+40,Units in Structure: 1 ATTACHED,SD,Lincoln,1022,1038,1107,1225,1189,1380,1544,1641,1866,2075
+41,Units in Structure: 1 DETACHED,SD,Lincoln,12156,12585,12865,13064,13372,13522,13735,14020,14032,14116
+42,Units in Structure: 10-19,SD,Lincoln,294,400,350,417,443,521,684,720,843,952
+43,Units in Structure: 2,SD,Lincoln,131,177,148,134,147,177,96,157,320,427
+44,Units in Structure: 20-49,SD,Lincoln,512,561,617,543,578,592,542,605,617,635
+45,Units in Structure: 3-4,SD,Lincoln,398,473,521,539,583,616,571,580,613,657
+46,Units in Structure: 5-9,SD,Lincoln,375,559,619,761,746,693,545,575,550,431
+47,Units in Structure: 50+,SD,Lincoln,1275,1063,908,986,898,784,927,939,853,867
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Lincoln,0,34,46,45,47,42,0,0,0,4
+49,Units in Structure: Mobile Home,SD,Lincoln,416,445,530,390,438,454,440,330,366,368
+40,Units in Structure: 1 ATTACHED,SD,Lyman,5,22,29,34,29,24,9,8,11,12
+41,Units in Structure: 1 DETACHED,SD,Lyman,1320,1301,1272,1279,1326,1298,1326,1390,1407,1400
+42,Units in Structure: 10-19,SD,Lyman,5,6,6,0,14,21,28,36,40,28
+43,Units in Structure: 2,SD,Lyman,52,30,20,21,18,15,21,25,30,27
+44,Units in Structure: 20-49,SD,Lyman,0,0,2,7,6,6,6,3,4,6
+45,Units in Structure: 3-4,SD,Lyman,38,29,37,24,12,17,16,7,12,22
+46,Units in Structure: 5-9,SD,Lyman,64,63,68,52,52,43,41,38,41,38
+47,Units in Structure: 50+,SD,Lyman,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Lyman,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Lyman,207,252,271,281,257,293,279,230,201,199
+40,Units in Structure: 1 ATTACHED,SD,McCook,17,16,19,8,12,18,21,25,25,25
+41,Units in Structure: 1 DETACHED,SD,McCook,2172,2166,2199,2206,2221,2215,2207,2165,2049,2105
+42,Units in Structure: 10-19,SD,McCook,59,36,12,25,25,36,37,39,17,16
+43,Units in Structure: 2,SD,McCook,33,43,63,56,33,35,39,48,81,79
+44,Units in Structure: 20-49,SD,McCook,16,18,9,0,4,7,17,27,29,37
+45,Units in Structure: 3-4,SD,McCook,94,112,98,98,96,105,86,98,147,169
+46,Units in Structure: 5-9,SD,McCook,33,33,27,27,12,8,6,2,1,2
+47,Units in Structure: 50+,SD,McCook,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,McCook,4,3,2,3,2,2,3,2,3,2
+49,Units in Structure: Mobile Home,SD,McCook,77,60,61,56,80,75,90,112,145,90
+40,Units in Structure: 1 ATTACHED,SD,McPherson,25,23,12,3,4,3,7,8,11,12
+41,Units in Structure: 1 DETACHED,SD,McPherson,1151,1130,1196,1164,1183,1144,1209,1212,1225,1235
+42,Units in Structure: 10-19,SD,McPherson,4,0,0,0,0,0,0,0,6,6
+43,Units in Structure: 2,SD,McPherson,13,13,0,0,0,2,9,13,13,16
+44,Units in Structure: 20-49,SD,McPherson,11,14,15,3,4,20,21,21,21,27
+45,Units in Structure: 3-4,SD,McPherson,46,50,59,93,102,100,59,55,61,57
+46,Units in Structure: 5-9,SD,McPherson,65,54,63,36,35,25,14,15,10,10
+47,Units in Structure: 50+,SD,McPherson,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,McPherson,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,McPherson,109,117,97,92,79,94,86,79,68,74
+40,Units in Structure: 1 ATTACHED,SD,Marshall,3,15,16,14,14,18,4,5,6,16
+41,Units in Structure: 1 DETACHED,SD,Marshall,1938,1955,2017,2051,2049,2094,2080,2051,2047,2058
+42,Units in Structure: 10-19,SD,Marshall,13,9,0,13,16,21,22,29,19,36
+43,Units in Structure: 2,SD,Marshall,5,4,1,3,4,5,26,30,30,32
+44,Units in Structure: 20-49,SD,Marshall,8,6,3,16,16,19,15,24,10,3
+45,Units in Structure: 3-4,SD,Marshall,139,129,105,99,90,66,75,95,108,113
+46,Units in Structure: 5-9,SD,Marshall,82,69,66,52,72,74,86,116,130,111
+47,Units in Structure: 50+,SD,Marshall,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Marshall,0,0,0,0,0,0,10,15,16,17
+49,Units in Structure: Mobile Home,SD,Marshall,370,358,333,296,287,258,246,249,263,251
+40,Units in Structure: 1 ATTACHED,SD,Meade,882,959,903,876,951,898,956,971,1166,897
+41,Units in Structure: 1 DETACHED,SD,Meade,6857,7148,7439,7274,7364,7356,7412,7618,7933,8178
+42,Units in Structure: 10-19,SD,Meade,119,88,101,119,126,107,138,230,214,286
+43,Units in Structure: 2,SD,Meade,404,239,219,153,180,214,208,253,165,110
+44,Units in Structure: 20-49,SD,Meade,145,160,215,174,171,138,130,136,207,214
+45,Units in Structure: 3-4,SD,Meade,495,396,406,387,322,299,240,226,162,167
+46,Units in Structure: 5-9,SD,Meade,170,187,207,186,178,311,327,239,260,285
+47,Units in Structure: 50+,SD,Meade,30,42,68,51,59,71,63,35,87,69
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Meade,15,16,7,7,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Meade,1885,1773,1539,1909,1904,1967,2015,2051,1737,1859
+40,Units in Structure: 1 ATTACHED,SD,Mellette,10,13,13,8,8,15,11,9,7,9
+41,Units in Structure: 1 DETACHED,SD,Mellette,644,620,582,633,616,589,595,610,569,514
+42,Units in Structure: 10-19,SD,Mellette,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,SD,Mellette,20,16,17,4,4,3,10,15,19,26
+44,Units in Structure: 20-49,SD,Mellette,0,0,0,0,0,0,0,0,0,3
+45,Units in Structure: 3-4,SD,Mellette,15,16,18,19,32,27,27,20,19,5
+46,Units in Structure: 5-9,SD,Mellette,0,0,0,0,0,0,0,7,7,8
+47,Units in Structure: 50+,SD,Mellette,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Mellette,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Mellette,180,158,179,170,167,183,215,186,191,244
+40,Units in Structure: 1 ATTACHED,SD,Miner,14,12,15,16,14,7,7,3,2,0
+41,Units in Structure: 1 DETACHED,SD,Miner,1190,1168,1181,1140,1102,1088,1088,1109,1130,1185
+42,Units in Structure: 10-19,SD,Miner,14,25,20,20,27,15,8,8,17,7
+43,Units in Structure: 2,SD,Miner,7,3,0,6,5,18,26,40,34,31
+44,Units in Structure: 20-49,SD,Miner,5,5,12,18,12,11,12,5,2,15
+45,Units in Structure: 3-4,SD,Miner,14,30,30,38,51,61,46,50,40,26
+46,Units in Structure: 5-9,SD,Miner,41,42,35,46,27,31,31,29,41,44
+47,Units in Structure: 50+,SD,Miner,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Miner,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Miner,62,37,51,34,36,27,43,29,33,35
+40,Units in Structure: 1 ATTACHED,SD,Minnehaha,3178,3551,3644,3572,3536,3606,3459,3245,3195,3561
+41,Units in Structure: 1 DETACHED,SD,Minnehaha,44454,44917,45310,46052,46567,46834,47554,48336,49266,49574
+42,Units in Structure: 10-19,SD,Minnehaha,3760,3874,4334,4327,4741,4960,5164,5480,5626,5626
+43,Units in Structure: 2,SD,Minnehaha,1920,1652,1512,1441,1444,1479,1472,1498,1566,1523
+44,Units in Structure: 20-49,SD,Minnehaha,5296,5350,5209,5127,5474,5568,5958,6371,6418,6713
+45,Units in Structure: 3-4,SD,Minnehaha,2556,2551,2587,2609,2621,2757,2857,3099,3012,3061
+46,Units in Structure: 5-9,SD,Minnehaha,2922,2957,3293,3458,3465,3545,3657,3729,3937,4359
+47,Units in Structure: 50+,SD,Minnehaha,2694,2750,2697,2678,2708,2962,2955,3334,3713,3814
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Minnehaha,0,0,0,0,2,1,2,2,18,13
+49,Units in Structure: Mobile Home,SD,Minnehaha,3109,3190,3129,3179,3038,3040,2979,3005,3234,3507
+40,Units in Structure: 1 ATTACHED,SD,Moody,39,34,45,38,35,32,45,51,64,61
+41,Units in Structure: 1 DETACHED,SD,Moody,2356,2334,2297,2249,2300,2228,2225,2240,2269,2287
+42,Units in Structure: 10-19,SD,Moody,45,60,44,67,67,70,49,42,44,62
+43,Units in Structure: 2,SD,Moody,44,29,39,40,29,31,21,15,12,14
+44,Units in Structure: 20-49,SD,Moody,0,2,4,4,7,14,30,33,39,56
+45,Units in Structure: 3-4,SD,Moody,126,145,162,157,136,135,96,125,96,98
+46,Units in Structure: 5-9,SD,Moody,65,54,60,51,71,110,162,151,154,147
+47,Units in Structure: 50+,SD,Moody,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Moody,0,0,0,3,3,3,3,13,0,0
+49,Units in Structure: Mobile Home,SD,Moody,140,162,172,208,170,201,196,193,194,175
+40,Units in Structure: 1 ATTACHED,SD,Pennington,1688,1785,1915,1894,1950,2032,1975,2037,2250,2643
+41,Units in Structure: 1 DETACHED,SD,Pennington,27239,27825,27845,28050,28494,28773,29392,29866,30590,30362
+42,Units in Structure: 10-19,SD,Pennington,1422,1670,1909,2013,1946,1869,1692,1653,1579,1912
+43,Units in Structure: 2,SD,Pennington,1621,1577,1376,1552,1338,1306,1411,1508,961,1041
+44,Units in Structure: 20-49,SD,Pennington,2311,2233,2439,2260,2162,2283,2423,2429,2447,2379
+45,Units in Structure: 3-4,SD,Pennington,1513,1584,1724,1767,1767,1549,1368,1420,1513,1620
+46,Units in Structure: 5-9,SD,Pennington,1351,1337,1245,1315,1314,1389,1377,1539,1497,1572
+47,Units in Structure: 50+,SD,Pennington,1245,1169,1138,1142,1178,1267,1359,1436,1583,1516
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Pennington,10,11,6,9,0,0,0,6,5,4
+49,Units in Structure: Mobile Home,SD,Pennington,5503,5351,5372,5268,5628,5738,5697,5683,5726,5636
+40,Units in Structure: 1 ATTACHED,SD,Perkins,6,9,13,10,13,11,16,6,15,14
+41,Units in Structure: 1 DETACHED,SD,Perkins,1349,1352,1340,1317,1337,1321,1319,1345,1372,1385
+42,Units in Structure: 10-19,SD,Perkins,47,66,64,52,64,63,53,51,46,41
+43,Units in Structure: 2,SD,Perkins,0,0,0,0,1,2,5,5,5,4
+44,Units in Structure: 20-49,SD,Perkins,45,50,35,55,45,40,37,41,18,26
+45,Units in Structure: 3-4,SD,Perkins,86,76,70,77,78,53,66,71,70,51
+46,Units in Structure: 5-9,SD,Perkins,14,11,15,15,19,23,21,11,11,3
+47,Units in Structure: 50+,SD,Perkins,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Perkins,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Perkins,256,210,236,247,235,262,269,273,250,253
+40,Units in Structure: 1 ATTACHED,SD,Potter,13,16,10,9,16,14,8,7,12,10
+41,Units in Structure: 1 DETACHED,SD,Potter,1068,1073,1034,1020,1018,1032,1020,991,1019,1022
+42,Units in Structure: 10-19,SD,Potter,22,20,14,17,12,3,3,5,3,3
+43,Units in Structure: 2,SD,Potter,0,6,13,11,16,17,13,12,14,14
+44,Units in Structure: 20-49,SD,Potter,0,0,0,0,0,0,3,3,2,3
+45,Units in Structure: 3-4,SD,Potter,32,32,21,22,25,27,24,32,27,23
+46,Units in Structure: 5-9,SD,Potter,42,29,43,51,51,54,55,51,57,61
+47,Units in Structure: 50+,SD,Potter,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Potter,0,0,0,2,2,2,2,2,0,0
+49,Units in Structure: Mobile Home,SD,Potter,453,455,447,432,415,408,425,473,463,471
+40,Units in Structure: 1 ATTACHED,SD,Roberts,14,24,18,17,22,31,15,29,34,35
+41,Units in Structure: 1 DETACHED,SD,Roberts,3986,4072,4151,4151,4239,4155,4150,4142,4128,4148
+42,Units in Structure: 10-19,SD,Roberts,46,42,51,44,53,64,74,86,91,87
+43,Units in Structure: 2,SD,Roberts,15,18,35,41,38,33,49,34,43,44
+44,Units in Structure: 20-49,SD,Roberts,84,54,45,53,58,75,94,80,74,70
+45,Units in Structure: 3-4,SD,Roberts,129,122,115,104,83,61,64,69,73,74
+46,Units in Structure: 5-9,SD,Roberts,64,74,47,55,74,75,79,85,90,82
+47,Units in Structure: 50+,SD,Roberts,6,12,12,17,21,15,10,9,5,5
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Roberts,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Roberts,554,483,435,418,335,412,417,456,493,503
+40,Units in Structure: 1 ATTACHED,SD,Sanborn,31,35,31,17,6,5,2,2,9,9
+41,Units in Structure: 1 DETACHED,SD,Sanborn,944,977,931,943,996,1030,1030,1060,1037,1020
+42,Units in Structure: 10-19,SD,Sanborn,12,13,9,8,12,5,4,4,12,7
+43,Units in Structure: 2,SD,Sanborn,21,12,18,23,23,24,21,20,23,12
+44,Units in Structure: 20-49,SD,Sanborn,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,SD,Sanborn,32,31,25,28,15,11,28,27,35,43
+46,Units in Structure: 5-9,SD,Sanborn,17,19,19,26,28,17,13,11,8,7
+47,Units in Structure: 50+,SD,Sanborn,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Sanborn,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Sanborn,88,70,107,126,135,129,146,127,116,117
+40,Units in Structure: 1 ATTACHED,SD,Shannon,26,38,45,26,39,,,,,
+41,Units in Structure: 1 DETACHED,SD,Shannon,2418,2336,2277,2187,2140,,,,,
+42,Units in Structure: 10-19,SD,Shannon,0,0,9,35,33,,,,,
+43,Units in Structure: 2,SD,Shannon,86,86,105,90,53,,,,,
+44,Units in Structure: 20-49,SD,Shannon,11,8,0,0,0,,,,,
+45,Units in Structure: 3-4,SD,Shannon,19,20,20,16,44,,,,,
+46,Units in Structure: 5-9,SD,Shannon,22,24,18,14,21,,,,,
+47,Units in Structure: 50+,SD,Shannon,0,0,5,6,7,,,,,
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Shannon,0,0,0,0,0,,,,,
+49,Units in Structure: Mobile Home,SD,Shannon,958,1060,1101,1199,1255,,,,,
+40,Units in Structure: 1 ATTACHED,SD,Spink,53,43,44,35,33,28,45,30,47,54
+41,Units in Structure: 1 DETACHED,SD,Spink,2482,2501,2479,2476,2495,2505,2540,2587,2596,2627
+42,Units in Structure: 10-19,SD,Spink,71,49,52,63,66,72,62,64,75,52
+43,Units in Structure: 2,SD,Spink,66,51,39,63,53,37,52,61,46,53
+44,Units in Structure: 20-49,SD,Spink,72,72,79,59,77,63,83,88,96,84
+45,Units in Structure: 3-4,SD,Spink,98,102,114,95,118,111,90,84,101,77
+46,Units in Structure: 5-9,SD,Spink,74,106,128,110,76,74,55,60,60,65
+47,Units in Structure: 50+,SD,Spink,0,0,5,13,11,8,10,5,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Spink,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Spink,214,230,209,230,215,242,235,244,220,234
+40,Units in Structure: 1 ATTACHED,SD,Stanley,1,3,8,14,26,21,31,19,20,19
+41,Units in Structure: 1 DETACHED,SD,Stanley,856,863,950,925,956,899,893,893,895,869
+42,Units in Structure: 10-19,SD,Stanley,37,22,27,36,58,58,123,119,73,80
+43,Units in Structure: 2,SD,Stanley,12,12,6,5,0,0,0,7,7,5
+44,Units in Structure: 20-49,SD,Stanley,18,8,19,22,5,5,4,0,16,12
+45,Units in Structure: 3-4,SD,Stanley,43,52,60,71,64,48,45,38,53,78
+46,Units in Structure: 5-9,SD,Stanley,0,0,0,0,0,0,0,7,5,5
+47,Units in Structure: 50+,SD,Stanley,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Stanley,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Stanley,346,368,353,353,299,424,403,433,374,441
+40,Units in Structure: 1 ATTACHED,SD,Sully,12,10,9,0,0,0,16,28,33,32
+41,Units in Structure: 1 DETACHED,SD,Sully,639,611,577,594,615,614,600,612,615,595
+42,Units in Structure: 10-19,SD,Sully,2,2,1,0,0,0,1,2,3,4
+43,Units in Structure: 2,SD,Sully,0,0,2,9,12,16,12,6,0,0
+44,Units in Structure: 20-49,SD,Sully,14,26,12,28,31,42,29,32,22,19
+45,Units in Structure: 3-4,SD,Sully,21,19,25,12,0,4,5,4,5,6
+46,Units in Structure: 5-9,SD,Sully,0,0,0,0,0,0,0,0,0,0
+47,Units in Structure: 50+,SD,Sully,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Sully,0,0,0,0,3,2,2,2,2,0
+49,Units in Structure: Mobile Home,SD,Sully,147,142,147,139,141,124,144,132,133,158
+40,Units in Structure: 1 ATTACHED,SD,Todd,18,16,55,64,41,40,48,19,15,11
+41,Units in Structure: 1 DETACHED,SD,Todd,2464,2344,2320,2211,2226,2174,2116,2060,2084,2083
+42,Units in Structure: 10-19,SD,Todd,0,63,89,114,132,158,135,136,140,138
+43,Units in Structure: 2,SD,Todd,114,140,118,120,120,97,51,96,102,119
+44,Units in Structure: 20-49,SD,Todd,172,174,111,128,112,90,98,79,61,57
+45,Units in Structure: 3-4,SD,Todd,53,76,77,81,70,80,59,70,70,74
+46,Units in Structure: 5-9,SD,Todd,121,94,95,86,73,86,89,112,125,118
+47,Units in Structure: 50+,SD,Todd,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Todd,0,0,0,0,0,0,0,3,3,3
+49,Units in Structure: Mobile Home,SD,Todd,152,223,277,328,354,415,538,578,562,592
+40,Units in Structure: 1 ATTACHED,SD,Tripp,31,38,38,22,12,25,19,16,22,37
+41,Units in Structure: 1 DETACHED,SD,Tripp,2183,2197,2218,2260,2372,2331,2274,2281,2296,2299
+42,Units in Structure: 10-19,SD,Tripp,59,98,101,96,92,73,35,38,55,91
+43,Units in Structure: 2,SD,Tripp,37,35,32,36,8,3,24,24,22,22
+44,Units in Structure: 20-49,SD,Tripp,21,23,41,54,63,49,66,52,52,47
+45,Units in Structure: 3-4,SD,Tripp,113,112,89,126,127,122,107,108,44,62
+46,Units in Structure: 5-9,SD,Tripp,157,147,80,38,32,65,57,70,82,58
+47,Units in Structure: 50+,SD,Tripp,18,17,16,13,12,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Tripp,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Tripp,457,409,455,424,356,402,485,496,524,490
+40,Units in Structure: 1 ATTACHED,SD,Turner,40,42,45,37,36,25,27,28,30,32
+41,Units in Structure: 1 DETACHED,SD,Turner,3370,3413,3406,3401,3439,3415,3408,3453,3391,3440
+42,Units in Structure: 10-19,SD,Turner,65,88,68,97,110,112,100,114,122,131
+43,Units in Structure: 2,SD,Turner,20,21,21,21,26,30,33,40,44,36
+44,Units in Structure: 20-49,SD,Turner,17,11,11,19,18,18,16,20,18,8
+45,Units in Structure: 3-4,SD,Turner,128,113,151,118,122,117,103,87,95,100
+46,Units in Structure: 5-9,SD,Turner,91,91,91,88,83,80,81,89,105,92
+47,Units in Structure: 50+,SD,Turner,0,0,0,0,2,2,2,2,2,2
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Turner,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Turner,201,170,158,162,143,182,191,184,208,190
+40,Units in Structure: 1 ATTACHED,SD,Union,96,152,159,189,192,202,180,201,160,225
+41,Units in Structure: 1 DETACHED,SD,Union,4653,4616,4645,4689,4762,4849,4929,4955,5035,5059
+42,Units in Structure: 10-19,SD,Union,67,98,139,142,152,168,142,158,155,198
+43,Units in Structure: 2,SD,Union,44,33,13,16,12,30,62,88,119,150
+44,Units in Structure: 20-49,SD,Union,243,234,298,296,372,349,383,333,442,407
+45,Units in Structure: 3-4,SD,Union,179,177,153,157,158,182,186,240,226,272
+46,Units in Structure: 5-9,SD,Union,256,273,277,304,319,296,318,378,325,314
+47,Units in Structure: 50+,SD,Union,170,229,194,222,182,201,225,229,226,219
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Union,4,3,4,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Union,462,430,419,331,310,284,258,264,288,292
+40,Units in Structure: 1 ATTACHED,SD,Walworth,4,0,2,1,2,12,9,8,27,27
+41,Units in Structure: 1 DETACHED,SD,Walworth,2169,2112,2182,2131,2130,2186,2191,2132,2144,2106
+42,Units in Structure: 10-19,SD,Walworth,124,116,49,58,51,48,45,53,59,62
+43,Units in Structure: 2,SD,Walworth,59,70,73,68,20,9,7,15,29,79
+44,Units in Structure: 20-49,SD,Walworth,14,50,65,78,108,89,43,38,41,27
+45,Units in Structure: 3-4,SD,Walworth,132,160,158,69,98,117,101,148,128,111
+46,Units in Structure: 5-9,SD,Walworth,29,27,15,48,59,61,93,122,94,110
+47,Units in Structure: 50+,SD,Walworth,19,6,33,92,86,47,87,80,37,65
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Walworth,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Walworth,486,476,443,451,451,423,427,437,480,470
+40,Units in Structure: 1 ATTACHED,SD,Yankton,352,365,396,367,338,390,358,310,311,291
+41,Units in Structure: 1 DETACHED,SD,Yankton,6508,6579,6585,6495,6557,6614,6667,6821,6869,6889
+42,Units in Structure: 10-19,SD,Yankton,382,355,341,375,405,442,428,549,581,558
+43,Units in Structure: 2,SD,Yankton,98,87,126,148,246,248,250,222,221,132
+44,Units in Structure: 20-49,SD,Yankton,418,419,450,536,465,590,551,558,489,509
+45,Units in Structure: 3-4,SD,Yankton,372,355,364,354,429,319,375,420,455,420
+46,Units in Structure: 5-9,SD,Yankton,300,307,269,252,252,280,396,399,461,543
+47,Units in Structure: 50+,SD,Yankton,199,212,210,195,201,147,143,141,125,149
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Yankton,25,27,36,41,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Yankton,869,881,875,902,835,716,619,522,534,619
+40,Units in Structure: 1 ATTACHED,SD,Ziebach,29,29,23,23,14,9,7,3,3,2
+41,Units in Structure: 1 DETACHED,SD,Ziebach,614,610,607,619,622,597,626,610,609,613
+42,Units in Structure: 10-19,SD,Ziebach,20,24,24,24,31,40,35,40,45,36
+43,Units in Structure: 2,SD,Ziebach,12,16,14,18,22,28,22,23,20,24
+44,Units in Structure: 20-49,SD,Ziebach,11,22,26,33,34,38,29,31,24,25
+45,Units in Structure: 3-4,SD,Ziebach,9,10,17,19,23,31,18,18,15,17
+46,Units in Structure: 5-9,SD,Ziebach,15,17,18,20,22,19,14,13,13,16
+47,Units in Structure: 50+,SD,Ziebach,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Ziebach,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Ziebach,266,256,257,227,210,234,245,256,273,276
+40,Units in Structure: 1 ATTACHED,SD,Oglala Lakota,,,,,,41,48,64,117,133
+41,Units in Structure: 1 DETACHED,SD,Oglala Lakota,,,,,,2126,2159,2162,2200,2181
+42,Units in Structure: 10-19,SD,Oglala Lakota,,,,,,51,63,111,67,76
+43,Units in Structure: 2,SD,Oglala Lakota,,,,,,32,34,19,33,62
+44,Units in Structure: 20-49,SD,Oglala Lakota,,,,,,0,0,0,0,0
+45,Units in Structure: 3-4,SD,Oglala Lakota,,,,,,77,65,73,85,67
+46,Units in Structure: 5-9,SD,Oglala Lakota,,,,,,22,27,33,18,15
+47,Units in Structure: 50+,SD,Oglala Lakota,,,,,,9,9,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SD,Oglala Lakota,,,,,,0,0,0,0,0
+49,Units in Structure: Mobile Home,SD,Oglala Lakota,,,,,,1220,1180,1171,1120,1112

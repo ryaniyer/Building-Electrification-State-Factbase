@@ -1,0 +1,671 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,VA,Accomack,4863,4729,5357,5552,6273,6528,6997,7178,7381,7487
+4,House Heating Fuel: Fuel Oil,VA,Accomack,4518,4366,4103,4073,3583,3302,2712,2637,2406,2369
+5,House Heating Fuel: Gas,VA,Accomack,433,437,328,281,265,220,193,193,179,227
+6,House Heating Fuel: Propane,VA,Accomack,3852,3684,3854,3784,3623,3365,3417,3077,3016,2905
+7,House Heating Fuel: Wood,VA,Accomack,345,436,566,562,460,429,376,301,278,318
+3,House Heating Fuel: Electric,VA,Albemarle,23086,23296,23649,24401,24906,25297,25713,26357,26514,27656
+4,House Heating Fuel: Fuel Oil,VA,Albemarle,3282,3091,3178,2690,2584,2530,2347,2397,2445,2407
+5,House Heating Fuel: Gas,VA,Albemarle,5503,5610,5270,5485,5710,5779,6013,6252,6591,6525
+6,House Heating Fuel: Propane,VA,Albemarle,3924,3793,3719,3727,3515,3329,3406,3296,3397,3460
+7,House Heating Fuel: Wood,VA,Albemarle,1436,1381,1492,1460,1571,1645,1695,1444,1370,1108
+3,House Heating Fuel: Electric,VA,Alleghany,2300,2414,2641,2820,2982,2938,2906,3167,3261,3313
+4,House Heating Fuel: Fuel Oil,VA,Alleghany,1456,1314,1166,1149,1089,1150,1249,1121,1099,908
+5,House Heating Fuel: Gas,VA,Alleghany,1706,1628,1538,1394,1265,1258,1300,1284,1131,1161
+6,House Heating Fuel: Propane,VA,Alleghany,357,336,320,333,310,255,275,262,281,285
+7,House Heating Fuel: Wood,VA,Alleghany,1074,1162,1131,1019,1018,1101,1064,983,879,831
+3,House Heating Fuel: Electric,VA,Amelia,2721,2986,2994,2986,2963,2945,3028,3098,3304,3355
+4,House Heating Fuel: Fuel Oil,VA,Amelia,781,640,550,506,465,470,368,359,490,563
+5,House Heating Fuel: Gas,VA,Amelia,167,162,141,134,49,44,39,45,63,68
+6,House Heating Fuel: Propane,VA,Amelia,811,710,652,709,709,676,633,696,519,501
+7,House Heating Fuel: Wood,VA,Amelia,389,452,403,444,538,561,472,501,402,426
+3,House Heating Fuel: Electric,VA,Amherst,9315,9373,9454,9448,9785,9888,9720,9610,9882,9933
+4,House Heating Fuel: Fuel Oil,VA,Amherst,1466,1375,1237,1288,1113,952,914,868,749,788
+5,House Heating Fuel: Gas,VA,Amherst,273,227,248,212,178,191,193,259,257,277
+6,House Heating Fuel: Propane,VA,Amherst,693,662,631,677,502,515,541,415,404,424
+7,House Heating Fuel: Wood,VA,Amherst,947,1031,1056,997,866,824,754,759,565,588
+3,House Heating Fuel: Electric,VA,Appomattox,3685,3851,3972,3919,4017,4182,4220,4296,4472,4550
+4,House Heating Fuel: Fuel Oil,VA,Appomattox,1008,869,670,592,544,519,498,426,497,413
+5,House Heating Fuel: Gas,VA,Appomattox,158,135,110,101,57,43,54,59,46,78
+6,House Heating Fuel: Propane,VA,Appomattox,373,278,387,339,425,484,536,592,604,665
+7,House Heating Fuel: Wood,VA,Appomattox,752,700,719,808,872,663,623,534,424,318
+3,House Heating Fuel: Electric,VA,Arlington,39508,39776,40795,42830,43854,45077,46448,47310,48618,49976
+4,House Heating Fuel: Fuel Oil,VA,Arlington,2521,2006,2004,1794,1573,1398,1294,1215,1075,910
+5,House Heating Fuel: Gas,VA,Arlington,48065,48948,48335,47722,48392,49468,49959,50828,52100,53278
+6,House Heating Fuel: Propane,VA,Arlington,1032,920,945,1138,1235,1264,1501,1473,1263,1255
+7,House Heating Fuel: Wood,VA,Arlington,87,87,106,110,91,88,90,84,95,106
+3,House Heating Fuel: Electric,VA,Augusta,10924,11113,11295,11533,11909,12700,12970,13388,13631,14067
+4,House Heating Fuel: Fuel Oil,VA,Augusta,5153,4979,4740,4320,3946,3621,3350,3168,3702,3785
+5,House Heating Fuel: Gas,VA,Augusta,4241,3979,4192,3796,3699,3410,3625,3532,3883,3803
+6,House Heating Fuel: Propane,VA,Augusta,4818,4841,4875,4848,4940,4932,5004,5097,4891,4539
+7,House Heating Fuel: Wood,VA,Augusta,2537,2726,2845,3177,3245,3123,3156,3269,2876,3038
+3,House Heating Fuel: Electric,VA,Bath,394,478,463,435,497,582,642,750,917,923
+4,House Heating Fuel: Fuel Oil,VA,Bath,758,689,627,697,654,523,386,313,302,248
+5,House Heating Fuel: Gas,VA,Bath,41,36,36,0,12,45,51,41,50,27
+6,House Heating Fuel: Propane,VA,Bath,322,260,380,418,470,442,374,253,253,130
+7,House Heating Fuel: Wood,VA,Bath,495,450,482,493,529,475,556,412,463,455
+3,House Heating Fuel: Electric,VA,Bedford,20049,20140,20649,21050,23337,24030,24100,24189,24517,24831
+4,House Heating Fuel: Fuel Oil,VA,Bedford,2723,2531,2499,2382,2679,2588,2504,2328,2377,2133
+5,House Heating Fuel: Gas,VA,Bedford,627,551,409,413,417,429,624,779,761,778
+6,House Heating Fuel: Propane,VA,Bedford,1719,1614,1499,1462,1637,1568,1616,1707,1789,1869
+7,House Heating Fuel: Wood,VA,Bedford,1809,1908,1773,1739,1824,1745,1763,1690,1530,1466
+3,House Heating Fuel: Electric,VA,Bland,1349,1372,1306,1290,1412,1524,1585,1711,1832,1728
+4,House Heating Fuel: Fuel Oil,VA,Bland,474,524,410,350,323,320,243,240,211,214
+5,House Heating Fuel: Gas,VA,Bland,47,27,48,85,49,78,67,56,29,22
+6,House Heating Fuel: Propane,VA,Bland,121,90,102,145,162,134,115,109,56,30
+7,House Heating Fuel: Wood,VA,Bland,580,650,598,554,602,494,487,392,381,355
+3,House Heating Fuel: Electric,VA,Botetourt,7113,7175,7341,7352,7244,7274,7334,7375,7427,7607
+4,House Heating Fuel: Fuel Oil,VA,Botetourt,1580,1643,1403,1143,1174,1095,949,978,921,838
+5,House Heating Fuel: Gas,VA,Botetourt,2136,2021,2187,2379,2441,2653,2914,2761,2615,2494
+6,House Heating Fuel: Propane,VA,Botetourt,1244,1058,1000,1076,1049,848,999,1053,1109,1208
+7,House Heating Fuel: Wood,VA,Botetourt,802,858,863,842,935,1010,1045,1004,1023,1047
+3,House Heating Fuel: Electric,VA,Brunswick,2592,2835,3162,3187,3274,3426,3697,3667,3601,3665
+4,House Heating Fuel: Fuel Oil,VA,Brunswick,890,981,841,697,694,738,570,563,605,732
+5,House Heating Fuel: Gas,VA,Brunswick,254,213,244,270,212,252,251,216,255,278
+6,House Heating Fuel: Propane,VA,Brunswick,1802,1575,1315,1115,1182,1027,1067,1027,1093,869
+7,House Heating Fuel: Wood,VA,Brunswick,506,504,436,521,452,411,484,490,408,448
+3,House Heating Fuel: Electric,VA,Buchanan,6349,6466,6528,6760,7078,7341,7227,7224,7174,7050
+4,House Heating Fuel: Fuel Oil,VA,Buchanan,1298,1044,1009,834,672,514,478,567,659,534
+5,House Heating Fuel: Gas,VA,Buchanan,170,182,126,176,146,142,147,131,134,156
+6,House Heating Fuel: Propane,VA,Buchanan,316,419,521,660,650,667,545,481,318,263
+7,House Heating Fuel: Wood,VA,Buchanan,355,397,491,490,382,345,370,310,272,314
+3,House Heating Fuel: Electric,VA,Buckingham,2420,2914,3157,3202,3128,3099,3466,3566,3789,4046
+4,House Heating Fuel: Fuel Oil,VA,Buckingham,768,849,735,639,599,409,366,433,359,324
+5,House Heating Fuel: Gas,VA,Buckingham,64,82,76,69,97,83,102,80,104,77
+6,House Heating Fuel: Propane,VA,Buckingham,705,883,897,1065,1164,1146,989,910,852,741
+7,House Heating Fuel: Wood,VA,Buckingham,877,947,863,842,812,858,729,679,673,558
+3,House Heating Fuel: Electric,VA,Campbell,16150,16025,16308,16708,16886,17053,17667,18078,18165,18467
+4,House Heating Fuel: Fuel Oil,VA,Campbell,2604,2390,2354,2090,1874,1695,1694,1723,1901,1767
+5,House Heating Fuel: Gas,VA,Campbell,550,489,506,487,479,534,671,641,767,816
+6,House Heating Fuel: Propane,VA,Campbell,1343,1414,1182,1274,1207,1314,1259,1222,1180,1148
+7,House Heating Fuel: Wood,VA,Campbell,1203,1092,1034,1089,1142,983,841,786,743,651
+3,House Heating Fuel: Electric,VA,Caroline,6842,7056,7267,7285,7603,7857,7883,7985,8116,8005
+4,House Heating Fuel: Fuel Oil,VA,Caroline,1351,1295,1239,1154,1114,1131,1125,1049,1073,1102
+5,House Heating Fuel: Gas,VA,Caroline,330,336,394,398,399,458,499,498,577,544
+6,House Heating Fuel: Propane,VA,Caroline,1008,998,973,1125,969,944,957,842,721,743
+7,House Heating Fuel: Wood,VA,Caroline,643,720,664,596,529,452,403,364,349,443
+3,House Heating Fuel: Electric,VA,Carroll,6670,6649,7081,7220,7178,7158,7253,7409,7420,7612
+4,House Heating Fuel: Fuel Oil,VA,Carroll,3228,2990,2599,2528,2443,2280,2105,2096,2045,1966
+5,House Heating Fuel: Gas,VA,Carroll,225,172,123,112,138,193,204,270,150,142
+6,House Heating Fuel: Propane,VA,Carroll,1019,952,757,745,658,793,884,1005,909,939
+7,House Heating Fuel: Wood,VA,Carroll,1550,1647,1908,1856,2023,2052,2138,1661,1736,1544
+3,House Heating Fuel: Electric,VA,Charles City,1651,1767,1822,1932,1981,2068,2035,2040,2040,2138
+4,House Heating Fuel: Fuel Oil,VA,Charles City,404,388,393,408,371,352,349,354,336,304
+5,House Heating Fuel: Gas,VA,Charles City,65,60,50,46,52,34,30,41,28,43
+6,House Heating Fuel: Propane,VA,Charles City,336,315,269,260,216,218,212,238,245,215
+7,House Heating Fuel: Wood,VA,Charles City,249,211,219,185,188,174,180,188,172,160
+3,House Heating Fuel: Electric,VA,Charlotte,1716,1794,2186,2110,2212,2376,2410,2359,2492,2541
+4,House Heating Fuel: Fuel Oil,VA,Charlotte,1085,1020,955,873,721,649,667,624,709,704
+5,House Heating Fuel: Gas,VA,Charlotte,78,58,78,42,21,23,14,18,39,91
+6,House Heating Fuel: Propane,VA,Charlotte,1075,1048,999,1068,1025,943,836,769,712,649
+7,House Heating Fuel: Wood,VA,Charlotte,450,598,561,632,690,702,639,687,567,645
+3,House Heating Fuel: Electric,VA,Chesterfield,71003,72307,73215,74048,75300,76268,78131,79182,80266,82096
+4,House Heating Fuel: Fuel Oil,VA,Chesterfield,6593,5967,5614,5467,5566,5154,4663,4515,3982,3543
+5,House Heating Fuel: Gas,VA,Chesterfield,31189,31183,31109,30815,30694,31565,32068,32945,34106,34345
+6,House Heating Fuel: Propane,VA,Chesterfield,2284,2088,1958,2082,2079,2189,2324,2487,2876,3174
+7,House Heating Fuel: Wood,VA,Chesterfield,1078,1074,904,904,957,1132,1146,1190,1073,946
+3,House Heating Fuel: Electric,VA,Clarke,2489,2441,2584,2396,2485,2594,2788,2815,2888,3089
+4,House Heating Fuel: Fuel Oil,VA,Clarke,915,969,944,987,986,938,814,851,883,701
+5,House Heating Fuel: Gas,VA,Clarke,654,591,572,716,719,659,672,563,587,548
+6,House Heating Fuel: Propane,VA,Clarke,904,953,837,832,796,731,776,779,723,606
+7,House Heating Fuel: Wood,VA,Clarke,516,579,602,613,592,573,479,531,492,550
+3,House Heating Fuel: Electric,VA,Craig,798,686,758,726,800,904,1068,1263,1421,1362
+4,House Heating Fuel: Fuel Oil,VA,Craig,288,382,360,340,398,395,293,188,174,75
+5,House Heating Fuel: Gas,VA,Craig,24,9,20,48,45,40,43,21,10,10
+6,House Heating Fuel: Propane,VA,Craig,305,310,245,205,148,128,202,228,237,434
+7,House Heating Fuel: Wood,VA,Craig,564,582,682,745,706,699,653,587,424,402
+3,House Heating Fuel: Electric,VA,Culpeper,6094,6406,6477,6665,7171,7148,7191,7317,7477,7656
+4,House Heating Fuel: Fuel Oil,VA,Culpeper,1323,1277,1098,1007,1052,1076,1016,951,1063,995
+5,House Heating Fuel: Gas,VA,Culpeper,4834,4566,4422,4393,4210,4232,4563,4777,4867,5084
+6,House Heating Fuel: Propane,VA,Culpeper,2578,2440,2570,2676,2647,2656,2764,2596,2448,2417
+7,House Heating Fuel: Wood,VA,Culpeper,914,998,1203,1203,1251,1257,1233,992,893,827
+3,House Heating Fuel: Electric,VA,Cumberland,1889,2104,2254,2560,2613,2732,2697,2513,2333,2451
+4,House Heating Fuel: Fuel Oil,VA,Cumberland,944,946,815,615,528,476,500,524,579,560
+5,House Heating Fuel: Gas,VA,Cumberland,98,72,100,105,52,77,64,23,72,138
+6,House Heating Fuel: Propane,VA,Cumberland,612,451,384,361,417,404,461,523,593,534
+7,House Heating Fuel: Wood,VA,Cumberland,403,367,426,392,406,299,355,378,379,292
+3,House Heating Fuel: Electric,VA,Dickenson,4832,4891,5203,5187,5021,5014,4909,4930,4754,4868
+4,House Heating Fuel: Fuel Oil,VA,Dickenson,689,622,566,420,380,354,333,280,239,200
+5,House Heating Fuel: Gas,VA,Dickenson,92,126,130,122,72,113,92,163,200,184
+6,House Heating Fuel: Propane,VA,Dickenson,208,212,202,241,244,212,177,187,168,198
+7,House Heating Fuel: Wood,VA,Dickenson,262,247,219,251,353,340,367,371,392,244
+3,House Heating Fuel: Electric,VA,Dinwiddie,6440,6724,6832,7177,7191,7059,7301,7415,7456,7327
+4,House Heating Fuel: Fuel Oil,VA,Dinwiddie,960,826,830,865,854,790,749,649,573,651
+5,House Heating Fuel: Gas,VA,Dinwiddie,583,545,548,380,385,474,500,464,539,502
+6,House Heating Fuel: Propane,VA,Dinwiddie,1426,1173,1207,1072,1084,1243,1354,1428,1349,1490
+7,House Heating Fuel: Wood,VA,Dinwiddie,328,288,307,360,382,327,394,358,375,318
+3,House Heating Fuel: Electric,VA,Essex,2859,2881,2868,2805,2833,2969,3046,3038,3211,3345
+4,House Heating Fuel: Fuel Oil,VA,Essex,843,803,796,796,625,541,473,437,391,455
+5,House Heating Fuel: Gas,VA,Essex,48,29,29,42,30,33,102,135,169,136
+6,House Heating Fuel: Propane,VA,Essex,525,502,434,342,435,434,446,473,401,389
+7,House Heating Fuel: Wood,VA,Essex,166,187,207,280,345,318,302,335,227,142
+3,House Heating Fuel: Electric,VA,Fairfax,137352,140901,143464,147604,150362,152428,155700,157282,158866,160580
+4,House Heating Fuel: Fuel Oil,VA,Fairfax,11432,10647,9885,9425,8731,8249,7958,7383,7199,7243
+5,House Heating Fuel: Gas,VA,Fairfax,226755,227332,227807,225908,225461,224503,222570,221131,220383,220386
+6,House Heating Fuel: Propane,VA,Fairfax,4551,4869,5155,4877,4981,4862,4837,5113,5491,5630
+7,House Heating Fuel: Wood,VA,Fairfax,781,905,1018,928,799,707,518,493,464,502
+3,House Heating Fuel: Electric,VA,Fauquier,10797,10745,10932,10811,11013,11541,11726,12009,12093,12097
+4,House Heating Fuel: Fuel Oil,VA,Fauquier,2934,2849,2790,2490,2269,2074,2107,1992,2027,2107
+5,House Heating Fuel: Gas,VA,Fauquier,3734,4247,4248,4445,4279,4299,4289,4409,4728,4875
+6,House Heating Fuel: Propane,VA,Fauquier,3721,3785,3651,4063,4316,4271,4402,4286,4141,4179
+7,House Heating Fuel: Wood,VA,Fauquier,1107,1206,1324,1216,1118,1203,1111,1006,944,913
+3,House Heating Fuel: Electric,VA,Floyd,3205,3127,3065,3086,3235,3240,3395,3581,3617,3806
+4,House Heating Fuel: Fuel Oil,VA,Floyd,1195,1017,1001,735,553,498,543,452,476,520
+5,House Heating Fuel: Gas,VA,Floyd,38,43,52,88,140,183,201,220,216,121
+6,House Heating Fuel: Propane,VA,Floyd,488,436,477,545,573,567,514,521,539,602
+7,House Heating Fuel: Wood,VA,Floyd,1379,1492,1403,1577,1494,1672,1553,1629,1613,1423
+3,House Heating Fuel: Electric,VA,Fluvanna,6500,6711,6928,7002,7095,7298,7292,7171,7502,7296
+4,House Heating Fuel: Fuel Oil,VA,Fluvanna,627,603,500,494,557,588,503,476,373,308
+5,House Heating Fuel: Gas,VA,Fluvanna,145,171,175,197,158,125,110,155,144,183
+6,House Heating Fuel: Propane,VA,Fluvanna,1133,971,944,893,1112,1163,1254,1388,1224,1430
+7,House Heating Fuel: Wood,VA,Fluvanna,646,745,776,799,775,640,636,563,553,614
+3,House Heating Fuel: Electric,VA,Franklin,15151,15744,16291,16106,16287,16639,16535,16626,16654,16873
+4,House Heating Fuel: Fuel Oil,VA,Franklin,2808,2386,2166,2127,1944,1630,1575,1372,1217,1336
+5,House Heating Fuel: Gas,VA,Franklin,397,471,374,403,314,279,306,401,569,568
+6,House Heating Fuel: Propane,VA,Franklin,2995,3067,2825,2734,2595,2535,2389,2405,2424,2202
+7,House Heating Fuel: Wood,VA,Franklin,1786,1696,1780,1876,1978,2005,2005,2211,2030,1799
+3,House Heating Fuel: Electric,VA,Frederick,13227,13692,13855,13897,13632,14166,14693,14960,15453,15935
+4,House Heating Fuel: Fuel Oil,VA,Frederick,2590,2347,1973,1898,2084,2079,2098,2186,2017,1875
+5,House Heating Fuel: Gas,VA,Frederick,7593,7509,7890,8051,8339,8333,8158,8454,8419,8616
+6,House Heating Fuel: Propane,VA,Frederick,2800,2764,2860,2678,2418,2287,2202,2081,2216,2157
+7,House Heating Fuel: Wood,VA,Frederick,2075,2026,2232,2269,2283,2141,2257,2144,2113,2126
+3,House Heating Fuel: Electric,VA,Giles,4225,4062,4163,4158,4218,4186,4197,4111,4288,4550
+4,House Heating Fuel: Fuel Oil,VA,Giles,1010,1013,1004,977,839,864,786,703,613,601
+5,House Heating Fuel: Gas,VA,Giles,697,778,746,708,737,744,706,696,676,574
+6,House Heating Fuel: Propane,VA,Giles,363,386,292,364,386,435,512,587,518,398
+7,House Heating Fuel: Wood,VA,Giles,777,783,858,907,1018,950,1034,931,812,703
+3,House Heating Fuel: Electric,VA,Gloucester,10299,10436,10323,10566,10849,11353,11560,12004,11744,11494
+4,House Heating Fuel: Fuel Oil,VA,Gloucester,1104,948,907,816,738,625,649,572,629,856
+5,House Heating Fuel: Gas,VA,Gloucester,214,202,301,290,323,301,311,232,346,334
+6,House Heating Fuel: Propane,VA,Gloucester,1717,1596,1616,1505,1549,1486,1470,1410,1454,1516
+7,House Heating Fuel: Wood,VA,Gloucester,576,613,627,594,491,438,456,469,511,469
+3,House Heating Fuel: Electric,VA,Goochland,4519,5357,5371,5578,5798,5796,5787,6005,6068,6193
+4,House Heating Fuel: Fuel Oil,VA,Goochland,735,715,656,565,543,453,440,406,489,394
+5,House Heating Fuel: Gas,VA,Goochland,447,462,485,570,605,543,598,623,591,604
+6,House Heating Fuel: Propane,VA,Goochland,707,775,824,846,778,823,803,743,684,784
+7,House Heating Fuel: Wood,VA,Goochland,399,488,534,434,398,434,417,370,472,373
+3,House Heating Fuel: Electric,VA,Grayson,2917,2962,3140,3148,3105,3176,3080,3015,2974,3160
+4,House Heating Fuel: Fuel Oil,VA,Grayson,2458,2298,2060,1805,1881,1714,1619,1581,1556,1449
+5,House Heating Fuel: Gas,VA,Grayson,62,68,65,67,50,58,51,66,62,54
+6,House Heating Fuel: Propane,VA,Grayson,360,312,302,408,502,566,548,580,539,473
+7,House Heating Fuel: Wood,VA,Grayson,1036,1096,1210,1142,1103,1217,1341,1342,1364,1327
+3,House Heating Fuel: Electric,VA,Greene,4720,4940,5029,5167,4987,5235,5193,5397,5424,5608
+4,House Heating Fuel: Fuel Oil,VA,Greene,576,501,473,312,331,251,258,197,238,147
+5,House Heating Fuel: Gas,VA,Greene,190,136,168,140,125,150,176,182,263,286
+6,House Heating Fuel: Propane,VA,Greene,755,735,759,773,907,767,782,798,776,807
+7,House Heating Fuel: Wood,VA,Greene,461,481,438,486,592,689,664,623,599,617
+3,House Heating Fuel: Electric,VA,Greensville,1588,1561,1783,1916,1980,2181,2347,2417,2568,2424
+4,House Heating Fuel: Fuel Oil,VA,Greensville,414,398,356,336,336,289,277,237,184,280
+5,House Heating Fuel: Gas,VA,Greensville,63,48,43,21,17,79,74,83,144,169
+6,House Heating Fuel: Propane,VA,Greensville,1083,1004,869,934,891,818,899,786,665,647
+7,House Heating Fuel: Wood,VA,Greensville,222,233,245,176,163,107,79,104,116,119
+3,House Heating Fuel: Electric,VA,Halifax,7084,7051,7497,7904,7879,8011,7978,8181,8502,8516
+4,House Heating Fuel: Fuel Oil,VA,Halifax,3141,2946,2713,2500,2418,2215,2262,2002,1861,1676
+5,House Heating Fuel: Gas,VA,Halifax,496,434,413,330,209,231,329,356,310,310
+6,House Heating Fuel: Propane,VA,Halifax,2613,2569,2629,2580,2494,2397,2329,2172,2139,2396
+7,House Heating Fuel: Wood,VA,Halifax,1112,1325,1245,1259,1311,1300,1179,1216,1083,1054
+3,House Heating Fuel: Electric,VA,Hanover,23465,23694,24075,24584,24543,24781,25317,25613,25717,26159
+4,House Heating Fuel: Fuel Oil,VA,Hanover,3864,4014,3683,3336,3195,2967,2702,2541,2314,2298
+5,House Heating Fuel: Gas,VA,Hanover,5716,5861,5972,6271,6311,6747,6842,7068,7438,7539
+6,House Heating Fuel: Propane,VA,Hanover,1797,1683,1490,1511,1565,1428,1360,1493,1579,1748
+7,House Heating Fuel: Wood,VA,Hanover,1136,1028,986,962,987,1100,1078,1088,1178,1069
+3,House Heating Fuel: Electric,VA,Henrico,61624,63116,64473,66037,67253,68972,69686,71448,72671,74153
+4,House Heating Fuel: Fuel Oil,VA,Henrico,10627,10516,9834,8647,7698,7176,6406,5986,5705,5429
+5,House Heating Fuel: Gas,VA,Henrico,46975,46987,46944,46984,46612,45977,46560,45864,45887,46055
+6,House Heating Fuel: Propane,VA,Henrico,1459,1354,1279,1249,1359,1583,1667,1551,1610,1616
+7,House Heating Fuel: Wood,VA,Henrico,692,578,551,463,570,496,651,699,729,606
+3,House Heating Fuel: Electric,VA,Henry,15623,15912,16053,16049,16119,16359,16492,16502,16105,15839
+4,House Heating Fuel: Fuel Oil,VA,Henry,3864,3520,3130,3002,2699,2558,2249,2169,1909,2021
+5,House Heating Fuel: Gas,VA,Henry,834,814,791,743,747,669,677,856,800,977
+6,House Heating Fuel: Propane,VA,Henry,1446,1459,1501,1562,1552,1650,1691,1595,1555,1461
+7,House Heating Fuel: Wood,VA,Henry,1041,976,989,974,977,869,742,798,1067,738
+3,House Heating Fuel: Electric,VA,Highland,145,134,179,229,277,275,360,396,379,374
+4,House Heating Fuel: Fuel Oil,VA,Highland,155,150,103,95,81,98,107,127,107,113
+5,House Heating Fuel: Gas,VA,Highland,10,10,9,8,15,33,37,42,33,15
+6,House Heating Fuel: Propane,VA,Highland,147,158,153,121,112,116,126,144,139,142
+7,House Heating Fuel: Wood,VA,Highland,670,654,608,553,582,549,491,440,452,411
+3,House Heating Fuel: Electric,VA,Isle of Wight,6747,6819,7361,7382,7488,7873,7698,7951,8370,8668
+4,House Heating Fuel: Fuel Oil,VA,Isle of Wight,1222,1120,964,844,791,758,792,752,703,609
+5,House Heating Fuel: Gas,VA,Isle of Wight,2914,2843,2779,2909,2880,2837,3199,3263,3096,3221
+6,House Heating Fuel: Propane,VA,Isle of Wight,2254,2264,2020,1972,1943,1940,1819,1780,1758,1690
+7,House Heating Fuel: Wood,VA,Isle of Wight,270,347,305,322,276,232,223,260,244,271
+3,House Heating Fuel: Electric,VA,James City,11048,11590,12119,12426,13155,13237,13144,13117,13434,13359
+4,House Heating Fuel: Fuel Oil,VA,James City,1038,909,813,699,679,620,594,531,513,427
+5,House Heating Fuel: Gas,VA,James City,12814,12991,12785,12982,12895,13199,13549,13803,13948,14248
+6,House Heating Fuel: Propane,VA,James City,642,575,619,538,588,586,667,522,492,562
+7,House Heating Fuel: Wood,VA,James City,163,144,138,152,215,231,270,273,238,195
+3,House Heating Fuel: Electric,VA,King and Queen,1677,1690,1710,1780,1808,1883,1824,1887,1804,1842
+4,House Heating Fuel: Fuel Oil,VA,King and Queen,540,514,554,450,378,390,365,357,328,275
+5,House Heating Fuel: Gas,VA,King and Queen,0,0,8,12,45,53,69,58,82,20
+6,House Heating Fuel: Propane,VA,King and Queen,427,428,398,308,273,245,266,259,341,396
+7,House Heating Fuel: Wood,VA,King and Queen,138,225,212,257,308,300,255,219,252,153
+3,House Heating Fuel: Electric,VA,King George,5627,5668,5821,6114,6418,6433,6877,6916,7167,7265
+4,House Heating Fuel: Fuel Oil,VA,King George,864,938,864,771,584,555,489,543,540,533
+5,House Heating Fuel: Gas,VA,King George,225,233,208,162,185,234,266,327,308,274
+6,House Heating Fuel: Propane,VA,King George,1192,1062,934,965,831,796,778,899,839,865
+7,House Heating Fuel: Wood,VA,King George,269,276,296,248,267,329,238,276,239,241
+3,House Heating Fuel: Electric,VA,King William,4440,4663,4627,4674,4802,4624,4599,4719,4860,4944
+4,House Heating Fuel: Fuel Oil,VA,King William,677,599,624,543,613,594,650,525,508,344
+5,House Heating Fuel: Gas,VA,King William,13,4,9,24,29,101,107,164,141,142
+6,House Heating Fuel: Propane,VA,King William,366,355,356,390,388,422,431,391,378,355
+7,House Heating Fuel: Wood,VA,King William,379,329,363,298,252,239,233,228,242,250
+3,House Heating Fuel: Electric,VA,Lancaster,3144,3371,3270,3217,3326,3283,3294,3396,3402,3374
+4,House Heating Fuel: Fuel Oil,VA,Lancaster,1407,1257,1259,1058,1132,1080,1065,967,960,760
+5,House Heating Fuel: Gas,VA,Lancaster,48,63,51,29,41,50,48,46,62,78
+6,House Heating Fuel: Propane,VA,Lancaster,686,692,689,696,578,564,500,504,538,698
+7,House Heating Fuel: Wood,VA,Lancaster,118,170,121,171,175,135,147,127,128,107
+3,House Heating Fuel: Electric,VA,Lee,7558,7735,7696,7415,7242,7067,6878,6932,6897,7077
+4,House Heating Fuel: Fuel Oil,VA,Lee,950,843,814,812,764,732,803,768,639,515
+5,House Heating Fuel: Gas,VA,Lee,146,157,69,70,85,56,81,120,155,148
+6,House Heating Fuel: Propane,VA,Lee,322,345,352,349,456,570,577,565,671,592
+7,House Heating Fuel: Wood,VA,Lee,558,610,629,749,754,789,741,673,583,632
+3,House Heating Fuel: Electric,VA,Loudoun,25354,26685,29163,30107,31455,32807,34335,36064,37752,39258
+4,House Heating Fuel: Fuel Oil,VA,Loudoun,3633,3331,3488,3082,2928,2603,2666,2543,2747,2690
+5,House Heating Fuel: Gas,VA,Loudoun,58832,61819,63337,65505,67091,68799,70738,72794,74868,76770
+6,House Heating Fuel: Propane,VA,Loudoun,6318,6620,6993,6985,7140,7781,7668,8049,8072,8124
+7,House Heating Fuel: Wood,VA,Loudoun,879,965,926,914,958,995,1029,1088,1238,1096
+3,House Heating Fuel: Electric,VA,Louisa,8040,8348,8327,8538,8434,8525,8907,9186,9024,9455
+4,House Heating Fuel: Fuel Oil,VA,Louisa,1570,1597,1397,1281,1003,927,856,922,1005,1129
+5,House Heating Fuel: Gas,VA,Louisa,281,244,284,322,263,241,214,164,158,184
+6,House Heating Fuel: Propane,VA,Louisa,1657,1489,1487,1476,1563,1706,1737,1894,1890,1792
+7,House Heating Fuel: Wood,VA,Louisa,1583,1463,1467,1369,1445,1307,1299,1158,1363,1208
+3,House Heating Fuel: Electric,VA,Lunenburg,1515,1577,1714,1814,1957,1974,2049,2025,1961,2043
+4,House Heating Fuel: Fuel Oil,VA,Lunenburg,1269,1154,1198,1090,1050,995,1145,929,884,876
+5,House Heating Fuel: Gas,VA,Lunenburg,101,119,80,95,79,66,44,37,27,13
+6,House Heating Fuel: Propane,VA,Lunenburg,1087,1064,1067,1105,1084,997,914,936,869,826
+7,House Heating Fuel: Wood,VA,Lunenburg,537,549,536,462,457,475,485,516,545,493
+3,House Heating Fuel: Electric,VA,Madison,2137,2173,2172,2149,2200,2356,2424,2541,2608,2574
+4,House Heating Fuel: Fuel Oil,VA,Madison,1059,1120,1066,914,958,873,847,736,666,694
+5,House Heating Fuel: Gas,VA,Madison,374,289,189,151,146,151,123,106,116,76
+6,House Heating Fuel: Propane,VA,Madison,866,794,874,830,766,674,761,801,752,737
+7,House Heating Fuel: Wood,VA,Madison,747,782,742,896,946,881,808,851,911,806
+3,House Heating Fuel: Electric,VA,Mathews,2544,2599,2648,2759,2761,2741,2721,2768,2717,2835
+4,House Heating Fuel: Fuel Oil,VA,Mathews,603,604,431,361,364,358,335,397,481,408
+5,House Heating Fuel: Gas,VA,Mathews,4,17,56,61,81,73,88,47,29,10
+6,House Heating Fuel: Propane,VA,Mathews,480,369,472,473,379,344,381,283,385,376
+7,House Heating Fuel: Wood,VA,Mathews,126,167,153,149,164,182,229,202,202,207
+3,House Heating Fuel: Electric,VA,Mecklenburg,6231,6155,6300,6361,6706,6583,6540,6588,6902,7198
+4,House Heating Fuel: Fuel Oil,VA,Mecklenburg,2492,2291,2059,1974,1801,1548,1512,1529,1313,1217
+5,House Heating Fuel: Gas,VA,Mecklenburg,888,1021,1151,1045,1053,1046,930,725,804,940
+6,House Heating Fuel: Propane,VA,Mecklenburg,2253,2282,2226,2338,2341,2410,2321,2274,2150,2080
+7,House Heating Fuel: Wood,VA,Mecklenburg,654,715,818,856,890,830,715,615,567,578
+3,House Heating Fuel: Electric,VA,Middlesex,2735,2945,2972,2970,2999,3060,3079,3171,3053,3220
+4,House Heating Fuel: Fuel Oil,VA,Middlesex,808,686,699,680,683,576,587,568,617,583
+5,House Heating Fuel: Gas,VA,Middlesex,60,62,103,97,114,68,96,101,121,129
+6,House Heating Fuel: Propane,VA,Middlesex,557,523,509,529,492,454,571,535,487,482
+7,House Heating Fuel: Wood,VA,Middlesex,138,120,110,124,144,172,130,114,144,141
+3,House Heating Fuel: Electric,VA,Montgomery,22198,22605,23025,23672,23541,24064,24412,24249,24796,25706
+4,House Heating Fuel: Fuel Oil,VA,Montgomery,2920,2734,2449,2349,2194,2009,1798,1800,1641,1531
+5,House Heating Fuel: Gas,VA,Montgomery,6252,6400,6282,5936,6317,6579,6795,6829,6344,5976
+6,House Heating Fuel: Propane,VA,Montgomery,1270,1034,1041,990,982,944,1000,1080,1144,910
+7,House Heating Fuel: Wood,VA,Montgomery,1609,1737,1825,1609,1540,1394,1412,1347,1273,1198
+3,House Heating Fuel: Electric,VA,Nelson,3351,3546,3527,3621,3444,3452,3715,3995,4112,4198
+4,House Heating Fuel: Fuel Oil,VA,Nelson,1055,971,896,820,889,779,710,594,593,560
+5,House Heating Fuel: Gas,VA,Nelson,100,116,166,139,205,159,136,117,165,158
+6,House Heating Fuel: Propane,VA,Nelson,922,745,656,691,771,887,896,989,852,876
+7,House Heating Fuel: Wood,VA,Nelson,1019,1052,1065,1017,996,989,863,789,673,601
+3,House Heating Fuel: Electric,VA,New Kent,5052,4985,4989,5174,5493,5528,5922,6036,6199,6367
+4,House Heating Fuel: Fuel Oil,VA,New Kent,332,346,353,382,349,386,346,325,283,252
+5,House Heating Fuel: Gas,VA,New Kent,174,224,354,393,442,485,447,283,321,404
+6,House Heating Fuel: Propane,VA,New Kent,622,513,571,539,489,498,534,547,614,622
+7,House Heating Fuel: Wood,VA,New Kent,295,397,376,307,266,317,240,306,295,260
+3,House Heating Fuel: Electric,VA,Northampton,2047,2368,2566,2642,2827,2834,2887,2915,2998,3171
+4,House Heating Fuel: Fuel Oil,VA,Northampton,1512,1384,1261,1375,1308,1221,1117,1046,922,790
+5,House Heating Fuel: Gas,VA,Northampton,51,57,48,40,26,28,28,19,44,53
+6,House Heating Fuel: Propane,VA,Northampton,1341,1170,947,893,891,961,842,945,922,938
+7,House Heating Fuel: Wood,VA,Northampton,122,207,190,188,159,185,172,218,225,162
+3,House Heating Fuel: Electric,VA,Northumberland,2917,3166,3402,3533,3465,3750,3715,3673,3784,3861
+4,House Heating Fuel: Fuel Oil,VA,Northumberland,1357,1212,1062,1194,1061,1018,997,1056,920,896
+5,House Heating Fuel: Gas,VA,Northumberland,88,62,89,102,106,142,129,87,75,65
+6,House Heating Fuel: Propane,VA,Northumberland,832,855,737,557,731,753,708,645,636,543
+7,House Heating Fuel: Wood,VA,Northumberland,237,213,206,214,200,119,89,141,106,54
+3,House Heating Fuel: Electric,VA,Nottoway,2611,2546,2519,2798,2784,2938,3011,3090,3072,3178
+4,House Heating Fuel: Fuel Oil,VA,Nottoway,1056,1223,1385,1350,1314,1266,1236,1050,899,981
+5,House Heating Fuel: Gas,VA,Nottoway,118,101,130,125,171,127,98,108,83,78
+6,House Heating Fuel: Propane,VA,Nottoway,1277,1239,1020,951,943,939,974,1043,1145,967
+7,House Heating Fuel: Wood,VA,Nottoway,477,420,400,405,366,265,297,275,305,208
+3,House Heating Fuel: Electric,VA,Orange,7786,7693,8008,7803,7873,8340,8855,9090,9155,9288
+4,House Heating Fuel: Fuel Oil,VA,Orange,2131,1872,1713,1480,1475,1423,1367,1307,1469,1339
+5,House Heating Fuel: Gas,VA,Orange,507,565,536,620,652,657,791,694,620,633
+6,House Heating Fuel: Propane,VA,Orange,1540,1397,1305,1572,1484,1438,1455,1530,1345,1438
+7,House Heating Fuel: Wood,VA,Orange,633,1001,975,1058,851,795,597,693,697,817
+3,House Heating Fuel: Electric,VA,Page,3939,4323,4431,4780,4843,4709,4923,4845,4721,4557
+4,House Heating Fuel: Fuel Oil,VA,Page,2419,2176,2115,2027,1941,1770,1592,1541,1521,1615
+5,House Heating Fuel: Gas,VA,Page,102,126,96,135,116,144,119,163,165,217
+6,House Heating Fuel: Propane,VA,Page,2039,1739,1661,1543,1377,1373,1501,1492,1494,1329
+7,House Heating Fuel: Wood,VA,Page,1058,1066,1079,1052,1143,1271,1298,1289,1275,1366
+3,House Heating Fuel: Electric,VA,Patrick,3822,3741,3916,4273,4413,4683,4759,4974,4974,4987
+4,House Heating Fuel: Fuel Oil,VA,Patrick,1567,1551,1362,1126,1126,919,846,799,711,682
+5,House Heating Fuel: Gas,VA,Patrick,83,47,83,93,83,98,145,126,139,117
+6,House Heating Fuel: Propane,VA,Patrick,798,763,712,796,809,740,754,748,816,970
+7,House Heating Fuel: Wood,VA,Patrick,1051,1038,1369,1495,1174,1264,1229,1012,978,929
+3,House Heating Fuel: Electric,VA,Pittsylvania,13526,13966,14943,15646,16066,16496,16392,16832,16826,16733
+4,House Heating Fuel: Fuel Oil,VA,Pittsylvania,4269,3955,3457,2906,2886,2865,2868,2680,2605,2634
+5,House Heating Fuel: Gas,VA,Pittsylvania,1308,1347,1191,1149,1202,1156,1236,1238,1224,1303
+6,House Heating Fuel: Propane,VA,Pittsylvania,4988,4567,4245,4154,3847,3721,3821,3996,3890,3798
+7,House Heating Fuel: Wood,VA,Pittsylvania,2242,2292,2205,2019,1848,1791,1788,1732,1564,1479
+3,House Heating Fuel: Electric,VA,Powhatan,6460,7295,7344,7616,7772,7815,7886,7968,8089,8142
+4,House Heating Fuel: Fuel Oil,VA,Powhatan,649,588,547,471,380,377,361,336,368,375
+5,House Heating Fuel: Gas,VA,Powhatan,211,207,227,214,191,256,292,314,339,329
+6,House Heating Fuel: Propane,VA,Powhatan,789,782,706,703,669,666,709,774,754,714
+7,House Heating Fuel: Wood,VA,Powhatan,518,584,594,526,552,578,581,538,580,664
+3,House Heating Fuel: Electric,VA,Prince Edward,4277,4343,4344,4628,4579,4581,4813,5157,5200,5499
+4,House Heating Fuel: Fuel Oil,VA,Prince Edward,1274,1243,1144,1072,1031,1109,996,869,732,674
+5,House Heating Fuel: Gas,VA,Prince Edward,155,164,126,105,108,79,46,122,125,84
+6,House Heating Fuel: Propane,VA,Prince Edward,960,852,900,908,999,857,815,584,617,562
+7,House Heating Fuel: Wood,VA,Prince Edward,625,688,682,712,843,725,588,492,438,291
+3,House Heating Fuel: Electric,VA,Prince George,7673,7944,8107,8003,8038,8085,8202,8364,8598,8762
+4,House Heating Fuel: Fuel Oil,VA,Prince George,637,530,448,431,362,342,340,330,308,369
+5,House Heating Fuel: Gas,VA,Prince George,860,899,974,1119,1208,1296,1381,1379,1346,1346
+6,House Heating Fuel: Propane,VA,Prince George,1039,950,884,860,908,952,900,736,655,574
+7,House Heating Fuel: Wood,VA,Prince George,197,350,341,363,337,358,277,371,403,315
+3,House Heating Fuel: Electric,VA,Prince William,44902,45349,47057,49115,50876,52329,54103,54553,55944,56229
+4,House Heating Fuel: Fuel Oil,VA,Prince William,4079,4062,3763,3813,3436,3540,3186,3165,3016,3084
+5,House Heating Fuel: Gas,VA,Prince William,71212,72957,74148,74912,75880,76454,76096,76851,76808,78195
+6,House Heating Fuel: Propane,VA,Prince William,3771,3674,3502,3284,3272,3198,3452,3605,3646,3509
+7,House Heating Fuel: Wood,VA,Prince William,657,778,800,899,867,816,721,652,620,616
+3,House Heating Fuel: Electric,VA,Pulaski,9367,9643,9844,9841,10286,9947,10013,9997,10218,10270
+4,House Heating Fuel: Fuel Oil,VA,Pulaski,2567,2314,2001,2034,1780,1669,1611,1583,1336,1427
+5,House Heating Fuel: Gas,VA,Pulaski,1623,1517,1547,1502,1467,1484,1411,1532,1539,1327
+6,House Heating Fuel: Propane,VA,Pulaski,471,396,368,352,413,332,443,503,530,695
+7,House Heating Fuel: Wood,VA,Pulaski,745,892,1004,1006,1056,1074,978,865,807,706
+3,House Heating Fuel: Electric,VA,Rappahannock,1145,1201,1158,1223,1211,1244,1303,1314,1235,1209
+4,House Heating Fuel: Fuel Oil,VA,Rappahannock,673,621,563,560,581,529,504,467,448,391
+5,House Heating Fuel: Gas,VA,Rappahannock,60,54,65,71,97,97,86,65,36,20
+6,House Heating Fuel: Propane,VA,Rappahannock,654,676,800,799,766,814,821,818,795,710
+7,House Heating Fuel: Wood,VA,Rappahannock,615,758,690,608,613,548,474,413,413,492
+3,House Heating Fuel: Electric,VA,Richmond,1674,1723,1556,1784,1707,1872,2063,2104,2070,2182
+4,House Heating Fuel: Fuel Oil,VA,Richmond,810,738,781,672,720,673,615,746,656,513
+5,House Heating Fuel: Gas,VA,Richmond,22,22,25,9,25,10,6,17,36,35
+6,House Heating Fuel: Propane,VA,Richmond,357,309,245,223,215,185,222,208,236,173
+7,House Heating Fuel: Wood,VA,Richmond,137,100,91,90,63,67,143,153,114,146
+3,House Heating Fuel: Electric,VA,Roanoke,14878,15148,15375,15933,16762,17153,17348,17404,17443,17659
+4,House Heating Fuel: Fuel Oil,VA,Roanoke,3436,3301,3249,3129,2705,2563,2578,2213,1895,1828
+5,House Heating Fuel: Gas,VA,Roanoke,17562,17688,17317,16816,16494,16137,16120,16546,16970,16867
+6,House Heating Fuel: Propane,VA,Roanoke,1069,849,848,993,1031,1064,1116,1081,918,921
+7,House Heating Fuel: Wood,VA,Roanoke,775,880,993,950,1035,1092,1003,931,863,736
+3,House Heating Fuel: Electric,VA,Rockbridge,3084,3128,3385,3666,3802,3964,4231,4411,4206,4704
+4,House Heating Fuel: Fuel Oil,VA,Rockbridge,2177,2013,1800,1662,1510,1396,1237,1228,1320,1349
+5,House Heating Fuel: Gas,VA,Rockbridge,539,583,533,610,631,686,689,679,625,556
+6,House Heating Fuel: Propane,VA,Rockbridge,1664,1528,1280,1245,1350,1321,1344,1227,1294,1279
+7,House Heating Fuel: Wood,VA,Rockbridge,1763,1872,1917,1918,1808,1800,1666,1493,1412,1284
+3,House Heating Fuel: Electric,VA,Rockingham,15522,15890,16149,16492,16800,16856,17191,17900,18600,19017
+4,House Heating Fuel: Fuel Oil,VA,Rockingham,6484,6014,5576,5185,4880,4675,4627,4424,4424,4287
+5,House Heating Fuel: Gas,VA,Rockingham,1063,931,867,873,802,884,843,870,887,890
+6,House Heating Fuel: Propane,VA,Rockingham,3444,3627,3624,3498,3499,3315,3306,3338,3297,3355
+7,House Heating Fuel: Wood,VA,Rockingham,2941,2967,3137,3117,3195,3643,3662,3698,3457,3181
+3,House Heating Fuel: Electric,VA,Russell,8481,8625,8634,8660,8603,8473,8350,8389,8293,8457
+4,House Heating Fuel: Fuel Oil,VA,Russell,1339,1112,1090,1050,1117,1020,958,898,937,714
+5,House Heating Fuel: Gas,VA,Russell,271,296,255,221,173,215,209,218,200,191
+6,House Heating Fuel: Propane,VA,Russell,403,352,271,337,353,453,499,644,620,619
+7,House Heating Fuel: Wood,VA,Russell,610,591,572,604,530,612,630,706,706,658
+3,House Heating Fuel: Electric,VA,Scott,7091,7490,7791,8012,7712,7775,7552,7405,7209,7374
+4,House Heating Fuel: Fuel Oil,VA,Scott,918,617,451,422,420,370,393,355,341,272
+5,House Heating Fuel: Gas,VA,Scott,134,87,79,43,39,33,47,92,74,85
+6,House Heating Fuel: Propane,VA,Scott,443,425,329,300,314,437,445,463,502,552
+7,House Heating Fuel: Wood,VA,Scott,698,758,637,662,686,614,550,560,481,371
+3,House Heating Fuel: Electric,VA,Shenandoah,7814,8236,8413,8635,8745,8727,8884,9122,9186,9557
+4,House Heating Fuel: Fuel Oil,VA,Shenandoah,3580,3143,2809,2637,2565,2347,2189,2222,2246,2213
+5,House Heating Fuel: Gas,VA,Shenandoah,1027,1120,1323,1230,1260,1288,1235,1170,1249,1127
+6,House Heating Fuel: Propane,VA,Shenandoah,2886,2714,2591,2593,2349,2285,2397,2444,2366,2417
+7,House Heating Fuel: Wood,VA,Shenandoah,1916,1795,1935,2069,2083,2137,2202,2031,1993,1796
+3,House Heating Fuel: Electric,VA,Smyth,7200,7003,7304,7609,7784,7726,7882,7746,8101,8248
+4,House Heating Fuel: Fuel Oil,VA,Smyth,3059,2919,2701,2386,2265,2133,1983,1934,1647,1424
+5,House Heating Fuel: Gas,VA,Smyth,1076,1103,935,946,991,1010,952,1061,1102,1024
+6,House Heating Fuel: Propane,VA,Smyth,491,505,474,451,434,448,448,490,484,481
+7,House Heating Fuel: Wood,VA,Smyth,1087,1064,1039,1167,1286,1390,1507,1472,1421,1357
+3,House Heating Fuel: Electric,VA,Southampton,3698,3908,4083,4318,4457,4387,4485,4437,4471,4460
+4,House Heating Fuel: Fuel Oil,VA,Southampton,916,942,819,825,722,786,713,667,578,788
+5,House Heating Fuel: Gas,VA,Southampton,115,88,94,112,111,126,148,120,87,107
+6,House Heating Fuel: Propane,VA,Southampton,1659,1445,1283,1178,1141,1140,1113,1199,1150,958
+7,House Heating Fuel: Wood,VA,Southampton,163,221,241,251,190,196,177,158,112,113
+3,House Heating Fuel: Electric,VA,Spotsylvania,22415,22635,23127,23649,23812,23978,24687,25130,25221,25591
+4,House Heating Fuel: Fuel Oil,VA,Spotsylvania,1802,1884,1670,1601,1574,1482,1225,1123,1074,1102
+5,House Heating Fuel: Gas,VA,Spotsylvania,12191,11828,11800,11656,11889,12669,12620,12619,12960,13412
+6,House Heating Fuel: Propane,VA,Spotsylvania,3373,3534,3477,3436,3484,3257,3265,3184,3248,3160
+7,House Heating Fuel: Wood,VA,Spotsylvania,1035,1082,992,979,1107,1046,1020,923,893,811
+3,House Heating Fuel: Electric,VA,Stafford,22219,22704,23349,23804,24113,24274,24761,25559,26241,26301
+4,House Heating Fuel: Fuel Oil,VA,Stafford,1652,1634,1558,1535,1512,1605,1437,1593,1577,1480
+5,House Heating Fuel: Gas,VA,Stafford,11723,11960,12165,12574,12895,13134,13233,13607,14015,14692
+6,House Heating Fuel: Propane,VA,Stafford,3573,3439,3141,3344,3350,3650,3981,3754,3618,3773
+7,House Heating Fuel: Wood,VA,Stafford,718,664,680,629,617,492,563,540,567,509
+3,House Heating Fuel: Electric,VA,Surry,1408,1489,1664,1728,1775,1668,1826,1779,1696,1741
+4,House Heating Fuel: Fuel Oil,VA,Surry,304,305,256,241,231,267,227,239,313,304
+5,House Heating Fuel: Gas,VA,Surry,72,84,40,41,31,54,50,38,46,72
+6,House Heating Fuel: Propane,VA,Surry,574,550,500,472,467,546,486,546,534,437
+7,House Heating Fuel: Wood,VA,Surry,122,106,100,94,117,93,93,131,164,172
+3,House Heating Fuel: Electric,VA,Sussex,2055,2111,2351,2239,2096,2053,2441,2150,2570,2560
+4,House Heating Fuel: Fuel Oil,VA,Sussex,742,624,447,465,428,331,431,366,380,305
+5,House Heating Fuel: Gas,VA,Sussex,74,59,73,78,80,74,151,141,183,215
+6,House Heating Fuel: Propane,VA,Sussex,768,739,695,848,539,558,639,605,495,534
+7,House Heating Fuel: Wood,VA,Sussex,134,55,64,73,90,92,100,95,122,121
+3,House Heating Fuel: Electric,VA,Tazewell,12365,12772,13043,13272,13202,13165,12853,12363,12108,11880
+4,House Heating Fuel: Fuel Oil,VA,Tazewell,2003,1872,1646,1360,1322,1273,1193,1251,1314,1177
+5,House Heating Fuel: Gas,VA,Tazewell,947,920,974,1013,895,779,865,904,1008,1042
+6,House Heating Fuel: Propane,VA,Tazewell,1218,1148,988,1122,1272,1117,1179,1459,1296,1158
+7,House Heating Fuel: Wood,VA,Tazewell,815,833,1115,1077,1171,1130,1091,934,895,879
+3,House Heating Fuel: Electric,VA,Warren,7920,8067,8144,8265,8611,9010,8796,9080,9380,9406
+4,House Heating Fuel: Fuel Oil,VA,Warren,2398,2264,2198,2195,1904,2020,1846,1845,1826,1774
+5,House Heating Fuel: Gas,VA,Warren,426,484,490,498,378,349,296,306,255,281
+6,House Heating Fuel: Propane,VA,Warren,1995,2163,2257,2233,2216,1839,1967,1744,1724,1727
+7,House Heating Fuel: Wood,VA,Warren,1283,1116,1161,1132,1117,1011,1069,1003,955,1112
+3,House Heating Fuel: Electric,VA,Washington,16568,17018,16795,16665,17010,16829,16848,16816,17020,17256
+4,House Heating Fuel: Fuel Oil,VA,Washington,1950,1800,1543,1464,1332,1361,1241,1212,1007,993
+5,House Heating Fuel: Gas,VA,Washington,2027,1970,2096,2095,1976,1839,1837,1787,1809,1682
+6,House Heating Fuel: Propane,VA,Washington,733,844,845,772,896,1020,960,954,949,1000
+7,House Heating Fuel: Wood,VA,Washington,1277,1287,1462,1551,1426,1430,1456,1454,1388,1266
+3,House Heating Fuel: Electric,VA,Westmoreland,4308,4525,4629,4796,4943,5125,5174,5598,5756,5869
+4,House Heating Fuel: Fuel Oil,VA,Westmoreland,1675,1626,1660,1594,1374,1153,1123,929,826,972
+5,House Heating Fuel: Gas,VA,Westmoreland,156,63,70,69,82,123,118,126,140,153
+6,House Heating Fuel: Propane,VA,Westmoreland,746,571,437,370,283,244,409,476,588,622
+7,House Heating Fuel: Wood,VA,Westmoreland,216,262,262,263,264,251,259,211,223,251
+3,House Heating Fuel: Electric,VA,Wise,13505,13610,13759,13385,13359,13189,13152,12899,13052,12925
+4,House Heating Fuel: Fuel Oil,VA,Wise,1046,756,783,835,839,744,658,739,609,519
+5,House Heating Fuel: Gas,VA,Wise,209,183,218,184,222,266,280,234,256,274
+6,House Heating Fuel: Propane,VA,Wise,366,286,323,317,328,332,412,607,700,713
+7,House Heating Fuel: Wood,VA,Wise,268,318,310,389,511,510,434,379,291,277
+3,House Heating Fuel: Electric,VA,Wythe,6556,6930,7004,7293,7300,7611,7699,7588,7600,7731
+4,House Heating Fuel: Fuel Oil,VA,Wythe,2521,2109,2102,1914,2022,1710,1657,1532,1367,1282
+5,House Heating Fuel: Gas,VA,Wythe,900,940,881,928,996,981,1001,1079,1012,987
+6,House Heating Fuel: Propane,VA,Wythe,406,329,267,333,357,291,308,389,442,590
+7,House Heating Fuel: Wood,VA,Wythe,1194,1240,1245,1077,1196,1136,1220,1219,1415,1288
+3,House Heating Fuel: Electric,VA,York,8991,8786,9021,8987,9446,9484,9559,9475,9846,10354
+4,House Heating Fuel: Fuel Oil,VA,York,1985,1947,1800,1691,1458,1165,945,1019,1092,1182
+5,House Heating Fuel: Gas,VA,York,12169,12738,12406,12622,12320,12612,12579,13056,12875,12763
+6,House Heating Fuel: Propane,VA,York,405,316,358,454,457,485,474,452,474,490
+7,House Heating Fuel: Wood,VA,York,294,335,311,229,220,211,202,197,187,151
+3,House Heating Fuel: Electric,VA,Alexandr,26191,27406,28498,28878,29701,30633,30991,31003,32519,33027
+4,House Heating Fuel: Fuel Oil,VA,Alexandr,1643,1279,1071,952,957,844,832,892,925,781
+5,House Heating Fuel: Gas,VA,Alexandr,34443,34140,34007,34319,33852,33865,34761,35106,34721,34890
+6,House Heating Fuel: Propane,VA,Alexandr,785,720,586,650,751,821,786,715,852,946
+7,House Heating Fuel: Wood,VA,Alexandr,166,171,66,42,45,30,23,17,24,20
+3,House Heating Fuel: Electric,VA,Bedfo,1753,1734,1775,2059,,,,,,
+4,House Heating Fuel: Fuel Oil,VA,Bedfo,817,841,784,574,,,,,,
+5,House Heating Fuel: Gas,VA,Bedfo,35,28,13,17,,,,,,
+6,House Heating Fuel: Propane,VA,Bedfo,88,35,21,24,,,,,,
+7,House Heating Fuel: Wood,VA,Bedfo,77,64,65,82,,,,,,
+3,House Heating Fuel: Electric,VA,Brist,5467,5372,5280,5152,5235,5214,5408,5268,5268,5383
+4,House Heating Fuel: Fuel Oil,VA,Brist,213,202,162,98,165,159,187,144,181,82
+5,House Heating Fuel: Gas,VA,Brist,1839,1912,1866,2019,2038,2042,1729,1726,1627,1510
+6,House Heating Fuel: Propane,VA,Brist,243,181,228,229,167,135,168,131,144,193
+7,House Heating Fuel: Wood,VA,Brist,59,58,56,40,35,31,73,84,107,94
+3,House Heating Fuel: Electric,VA,Buena Vis,1061,1071,987,1207,1156,1249,1144,1104,1090,1281
+4,House Heating Fuel: Fuel Oil,VA,Buena Vis,70,44,70,68,77,29,50,36,79,59
+5,House Heating Fuel: Gas,VA,Buena Vis,1308,1223,1339,1136,1088,1155,1210,1174,1099,1042
+6,House Heating Fuel: Propane,VA,Buena Vis,86,154,136,117,84,35,10,10,36,37
+7,House Heating Fuel: Wood,VA,Buena Vis,168,189,200,210,336,269,295,282,235,98
+3,House Heating Fuel: Electric,VA,Charlottesvil,7518,7946,8142,8544,8769,8681,8925,9398,9579,9826
+4,House Heating Fuel: Fuel Oil,VA,Charlottesvil,307,227,206,220,246,285,323,321,266,243
+5,House Heating Fuel: Gas,VA,Charlottesvil,8980,8808,8518,8292,8215,8351,8283,8205,8284,8030
+6,House Heating Fuel: Propane,VA,Charlottesvil,227,143,174,185,168,156,177,175,149,214
+7,House Heating Fuel: Wood,VA,Charlottesvil,164,161,191,115,116,183,200,243,262,219
+3,House Heating Fuel: Electric,VA,Chesapea,38847,39582,40909,42103,42365,44028,44970,44597,44542,45057
+4,House Heating Fuel: Fuel Oil,VA,Chesapea,3344,3075,2819,2406,2243,2092,2064,2024,2129,1988
+5,House Heating Fuel: Gas,VA,Chesapea,33930,33633,33241,32544,33305,33144,33478,33972,35371,35809
+6,House Heating Fuel: Propane,VA,Chesapea,1846,1565,1279,1212,1366,1237,1248,1563,1389,1275
+7,House Heating Fuel: Wood,VA,Chesapea,360,491,505,485,475,406,270,289,245,221
+3,House Heating Fuel: Electric,VA,Colonial Heigh,3868,3933,4036,4147,4213,4058,4124,3940,3992,3909
+4,House Heating Fuel: Fuel Oil,VA,Colonial Heigh,366,330,329,279,285,249,277,256,229,171
+5,House Heating Fuel: Gas,VA,Colonial Heigh,2734,2778,2536,2491,2420,2700,2683,2757,2698,2810
+6,House Heating Fuel: Propane,VA,Colonial Heigh,59,47,39,24,37,45,85,108,107,107
+7,House Heating Fuel: Wood,VA,Colonial Heigh,13,15,9,23,25,29,17,16,10,20
+3,House Heating Fuel: Electric,VA,Covingt,656,559,608,620,570,631,680,674,818,960
+4,House Heating Fuel: Fuel Oil,VA,Covingt,67,69,64,80,106,85,101,80,68,48
+5,House Heating Fuel: Gas,VA,Covingt,1716,1734,1687,1671,1576,1581,1479,1462,1384,1230
+6,House Heating Fuel: Propane,VA,Covingt,106,95,121,70,50,49,54,20,17,23
+7,House Heating Fuel: Wood,VA,Covingt,96,89,104,104,161,124,151,142,105,116
+3,House Heating Fuel: Electric,VA,Danvil,7215,7106,7558,7765,7993,8279,8628,8893,9057,9108
+4,House Heating Fuel: Fuel Oil,VA,Danvil,932,845,833,628,574,456,375,396,426,495
+5,House Heating Fuel: Gas,VA,Danvil,10753,10446,10072,9789,9506,9312,9061,8638,8332,7977
+6,House Heating Fuel: Propane,VA,Danvil,344,350,327,263,302,262,304,322,369,367
+7,House Heating Fuel: Wood,VA,Danvil,171,147,119,140,84,96,117,111,145,171
+3,House Heating Fuel: Electric,VA,Empor,1383,1596,1675,1641,1729,1830,1589,1522,1571,1527
+4,House Heating Fuel: Fuel Oil,VA,Empor,412,402,379,365,313,311,279,275,261,315
+5,House Heating Fuel: Gas,VA,Empor,51,50,32,57,20,0,9,7,17,16
+6,House Heating Fuel: Propane,VA,Empor,482,394,309,316,267,271,234,206,152,114
+7,House Heating Fuel: Wood,VA,Empor,78,83,91,109,77,29,72,74,77,72
+3,House Heating Fuel: Electric,VA,Fairf,1975,2024,2296,2199,2214,2334,2327,2373,2333,2516
+4,House Heating Fuel: Fuel Oil,VA,Fairf,871,784,713,695,665,665,687,714,691,728
+5,House Heating Fuel: Gas,VA,Fairf,5564,5534,5401,5530,5467,5340,5366,5326,5345,5148
+6,House Heating Fuel: Propane,VA,Fairf,75,118,91,50,106,98,70,67,137,112
+7,House Heating Fuel: Wood,VA,Fairf,21,10,0,0,0,6,6,7,20,24
+3,House Heating Fuel: Electric,VA,Falls Chur,1400,1396,1622,1639,1703,1810,1914,1836,1953,2178
+4,House Heating Fuel: Fuel Oil,VA,Falls Chur,107,87,62,41,74,87,87,79,81,50
+5,House Heating Fuel: Gas,VA,Falls Chur,3172,3238,3101,3230,3067,3160,3228,3309,3163,3203
+6,House Heating Fuel: Propane,VA,Falls Chur,18,77,64,98,86,76,32,33,21,39
+7,House Heating Fuel: Wood,VA,Falls Chur,0,0,0,0,0,4,6,6,6,6
+3,House Heating Fuel: Electric,VA,Frankl,2716,2557,2608,2530,2572,2356,2504,2622,2856,2952
+4,House Heating Fuel: Fuel Oil,VA,Frankl,514,559,449,534,434,448,391,388,291,355
+5,House Heating Fuel: Gas,VA,Frankl,39,50,152,195,224,256,200,193,84,53
+6,House Heating Fuel: Propane,VA,Frankl,247,289,268,224,238,285,207,201,219,143
+7,House Heating Fuel: Wood,VA,Frankl,0,0,0,19,78,68,86,66,76,19
+3,House Heating Fuel: Electric,VA,Fredericksbu,4352,4478,4877,4699,4782,5187,5085,5114,5233,5807
+4,House Heating Fuel: Fuel Oil,VA,Fredericksbu,556,457,293,263,271,245,263,211,200,159
+5,House Heating Fuel: Gas,VA,Fredericksbu,4083,4115,4254,4553,4485,4390,4663,4812,4806,4530
+6,House Heating Fuel: Propane,VA,Fredericksbu,146,181,203,190,232,177,192,202,235,126
+7,House Heating Fuel: Wood,VA,Fredericksbu,32,39,33,5,4,4,8,0,0,0
+3,House Heating Fuel: Electric,VA,Gal,1881,1934,1961,1848,1792,1726,1589,1709,1501,1618
+4,House Heating Fuel: Fuel Oil,VA,Gal,1179,1279,1142,932,879,828,739,667,748,691
+5,House Heating Fuel: Gas,VA,Gal,26,42,11,10,16,57,43,65,64,64
+6,House Heating Fuel: Propane,VA,Gal,121,95,25,38,39,57,83,97,104,91
+7,House Heating Fuel: Wood,VA,Gal,119,175,207,182,234,285,307,299,325,199
+3,House Heating Fuel: Electric,VA,Hampt,21079,21120,21757,21834,22036,23394,24429,24873,26124,27203
+4,House Heating Fuel: Fuel Oil,VA,Hampt,1631,1659,1493,1315,1109,1216,1005,903,769,769
+5,House Heating Fuel: Gas,VA,Hampt,29654,29047,28482,28562,28771,27547,27347,26857,25845,24839
+6,House Heating Fuel: Propane,VA,Hampt,537,492,508,454,422,440,456,410,566,660
+7,House Heating Fuel: Wood,VA,Hampt,258,239,195,191,150,96,121,154,156,231
+3,House Heating Fuel: Electric,VA,Harrisonbu,9710,10163,10211,10706,11012,11585,11829,11869,11985,12231
+4,House Heating Fuel: Fuel Oil,VA,Harrisonbu,1790,1517,1583,1499,1349,1509,1529,1508,1341,1121
+5,House Heating Fuel: Gas,VA,Harrisonbu,2918,2871,2887,2816,2916,2751,2753,2995,3008,2845
+6,House Heating Fuel: Propane,VA,Harrisonbu,342,338,306,324,249,250,322,296,277,298
+7,House Heating Fuel: Wood,VA,Harrisonbu,133,180,240,256,259,213,134,123,111,119
+3,House Heating Fuel: Electric,VA,Hopewe,5808,6065,6018,5862,5944,5862,5938,6195,6588,6556
+4,House Heating Fuel: Fuel Oil,VA,Hopewe,549,552,549,568,497,506,442,405,236,217
+5,House Heating Fuel: Gas,VA,Hopewe,2351,1979,1949,2176,2205,2176,2336,2302,2129,2154
+6,House Heating Fuel: Propane,VA,Hopewe,144,183,100,90,86,103,75,140,204,194
+7,House Heating Fuel: Wood,VA,Hopewe,43,29,29,34,0,0,0,12,10,12
+3,House Heating Fuel: Electric,VA,Lexingt,706,687,750,753,700,651,657,698,599,723
+4,House Heating Fuel: Fuel Oil,VA,Lexingt,21,43,40,49,56,42,22,25,13,14
+5,House Heating Fuel: Gas,VA,Lexingt,1286,919,930,872,947,926,1139,1174,1341,1377
+6,House Heating Fuel: Propane,VA,Lexingt,27,22,26,20,16,4,14,17,14,28
+7,House Heating Fuel: Wood,VA,Lexingt,17,19,10,15,8,15,24,21,17,16
+3,House Heating Fuel: Electric,VA,Lynchbu,17172,18271,18661,18760,18806,18756,18259,18437,19047,19907
+4,House Heating Fuel: Fuel Oil,VA,Lynchbu,2669,2367,2001,2061,2018,2211,2308,2227,1963,1779
+5,House Heating Fuel: Gas,VA,Lynchbu,7416,7182,7029,6891,6682,6564,6826,6592,6175,5702
+6,House Heating Fuel: Propane,VA,Lynchbu,207,275,384,430,470,474,434,356,310,384
+7,House Heating Fuel: Wood,VA,Lynchbu,340,336,294,291,323,354,281,344,367,283
+3,House Heating Fuel: Electric,VA,Manass,6248,6502,6649,6912,6987,7108,7367,7373,7231,7107
+4,House Heating Fuel: Fuel Oil,VA,Manass,200,184,152,134,133,72,73,137,135,130
+5,House Heating Fuel: Gas,VA,Manass,5068,5044,4993,4767,4949,5095,4800,4871,5238,5529
+6,House Heating Fuel: Propane,VA,Manass,173,106,174,197,167,118,136,101,98,75
+7,House Heating Fuel: Wood,VA,Manass,17,18,32,45,11,9,24,16,14,17
+3,House Heating Fuel: Electric,VA,Manassas Pa,922,937,975,1053,1162,1103,1260,1238,1336,1127
+4,House Heating Fuel: Fuel Oil,VA,Manassas Pa,20,12,0,0,0,11,14,15,18,17
+5,House Heating Fuel: Gas,VA,Manassas Pa,3240,3250,3248,3298,3237,3508,3339,3399,3249,3439
+6,House Heating Fuel: Propane,VA,Manassas Pa,8,25,41,56,96,82,97,92,100,53
+7,House Heating Fuel: Wood,VA,Manassas Pa,16,14,13,8,10,0,0,0,3,5
+3,House Heating Fuel: Electric,VA,Martinsvil,2241,2475,2383,2563,2694,2780,2802,2988,2978,3100
+4,House Heating Fuel: Fuel Oil,VA,Martinsvil,1286,1102,1050,968,786,736,751,668,636,513
+5,House Heating Fuel: Gas,VA,Martinsvil,2161,2199,2383,2240,2236,2113,1998,1861,1829,1750
+6,House Heating Fuel: Propane,VA,Martinsvil,124,71,87,149,171,154,141,148,110,84
+7,House Heating Fuel: Wood,VA,Martinsvil,14,14,15,15,23,21,40,32,42,27
+3,House Heating Fuel: Electric,VA,Newport Ne,36239,36493,36855,37720,37926,38352,39358,39162,39513,39625
+4,House Heating Fuel: Fuel Oil,VA,Newport Ne,3122,2879,2645,2347,2190,1874,1609,1593,1585,1393
+5,House Heating Fuel: Gas,VA,Newport Ne,30149,29504,28945,28227,28011,27941,27300,26936,27089,27610
+6,House Heating Fuel: Propane,VA,Newport Ne,520,507,536,473,403,439,559,550,675,751
+7,House Heating Fuel: Wood,VA,Newport Ne,412,305,168,144,137,133,117,103,106,96
+3,House Heating Fuel: Electric,VA,Norfo,39852,41213,42516,43521,45135,46331,46706,47068,48662,49747
+4,House Heating Fuel: Fuel Oil,VA,Norfo,5316,5107,4977,4359,3998,3454,3176,2792,2558,2377
+5,House Heating Fuel: Gas,VA,Norfo,38180,37126,36054,35994,35511,35650,35765,35524,35051,34373
+6,House Heating Fuel: Propane,VA,Norfo,563,568,499,617,599,580,659,688,671,753
+7,House Heating Fuel: Wood,VA,Norfo,207,273,283,273,358,342,280,314,271,185
+3,House Heating Fuel: Electric,VA,Nort,1592,1536,1539,1525,1456,1613,1722,1630,1684,1530
+4,House Heating Fuel: Fuel Oil,VA,Nort,136,127,97,91,96,56,50,33,27,16
+5,House Heating Fuel: Gas,VA,Nort,9,46,50,48,42,21,5,8,16,9
+6,House Heating Fuel: Propane,VA,Nort,7,0,0,6,10,9,18,51,64,52
+7,House Heating Fuel: Wood,VA,Nort,15,34,8,16,27,27,11,12,4,0
+3,House Heating Fuel: Electric,VA,Petersbu,6660,7045,7495,7747,7616,7841,7969,8106,8110,8197
+4,House Heating Fuel: Fuel Oil,VA,Petersbu,1002,759,652,533,561,448,515,506,491,425
+5,House Heating Fuel: Gas,VA,Petersbu,4329,4117,3829,3852,3924,4101,4228,4233,4239,4161
+6,House Heating Fuel: Propane,VA,Petersbu,241,209,229,240,235,214,230,188,267,239
+7,House Heating Fuel: Wood,VA,Petersbu,40,13,9,26,30,49,53,58,30,39
+3,House Heating Fuel: Electric,VA,Poquos,2002,2091,2114,1946,2238,2117,2167,2081,2244,2221
+4,House Heating Fuel: Fuel Oil,VA,Poquos,399,416,473,446,438,450,400,315,329,262
+5,House Heating Fuel: Gas,VA,Poquos,1991,1898,1910,2083,1793,1908,1857,2040,1955,2027
+6,House Heating Fuel: Propane,VA,Poquos,78,48,35,47,68,72,78,49,39,29
+7,House Heating Fuel: Wood,VA,Poquos,44,58,41,53,76,83,84,73,37,43
+3,House Heating Fuel: Electric,VA,Portsmou,14430,14949,15122,15790,16167,16215,16106,16665,16459,16940
+4,House Heating Fuel: Fuel Oil,VA,Portsmou,1228,1135,1044,956,769,716,673,520,487,457
+5,House Heating Fuel: Gas,VA,Portsmou,21053,20180,19969,19382,19204,19161,19455,18673,18728,18077
+6,House Heating Fuel: Propane,VA,Portsmou,364,388,422,344,416,447,416,461,470,498
+7,House Heating Fuel: Wood,VA,Portsmou,148,115,122,134,96,82,79,66,61,68
+3,House Heating Fuel: Electric,VA,Radfo,3239,3240,3630,3523,3331,3328,3407,3101,3168,3465
+4,House Heating Fuel: Fuel Oil,VA,Radfo,331,355,294,319,331,421,460,426,348,317
+5,House Heating Fuel: Gas,VA,Radfo,1987,1910,1616,1593,1609,1629,1637,1839,1768,1542
+6,House Heating Fuel: Propane,VA,Radfo,79,78,31,22,14,43,52,79,96,176
+7,House Heating Fuel: Wood,VA,Radfo,16,29,17,14,12,12,0,0,7,29
+3,House Heating Fuel: Electric,VA,Richmo,33170,34943,36545,38102,39813,42276,44271,45421,47229,48654
+4,House Heating Fuel: Fuel Oil,VA,Richmo,10056,9264,8443,7503,6936,6446,5946,6094,5807,5458
+5,House Heating Fuel: Gas,VA,Richmo,38308,37638,37085,37541,37432,36920,37148,36078,35125,34380
+6,House Heating Fuel: Propane,VA,Richmo,949,799,708,721,718,738,709,760,905,966
+7,House Heating Fuel: Wood,VA,Richmo,272,236,251,149,138,117,142,118,109,125
+3,House Heating Fuel: Electric,VA,Roano,16055,16124,17154,17638,17653,17508,18333,18131,17645,17917
+4,House Heating Fuel: Fuel Oil,VA,Roano,4240,4068,3604,3318,3038,3029,3054,3093,2980,2720
+5,House Heating Fuel: Gas,VA,Roano,21581,21956,21010,20791,21034,20825,20176,20268,20531,20106
+6,House Heating Fuel: Propane,VA,Roano,454,300,352,359,415,368,394,369,382,448
+7,House Heating Fuel: Wood,VA,Roano,344,267,376,265,219,246,308,233,193,221
+3,House Heating Fuel: Electric,VA,Sal,3414,3559,3540,3616,3802,3900,4177,4354,4256,4338
+4,House Heating Fuel: Fuel Oil,VA,Sal,697,589,524,471,478,505,518,495,388,341
+5,House Heating Fuel: Gas,VA,Sal,5691,5664,5677,5509,5361,5313,5108,4943,5052,5053
+6,House Heating Fuel: Propane,VA,Sal,41,23,45,104,120,145,142,168,85,74
+7,House Heating Fuel: Wood,VA,Sal,47,76,108,138,122,103,69,26,34,23
+3,House Heating Fuel: Electric,VA,Staunt,3419,3614,3964,4060,4016,4246,4365,4263,4533,4798
+4,House Heating Fuel: Fuel Oil,VA,Staunt,374,393,295,315,242,231,187,170,154,186
+5,House Heating Fuel: Gas,VA,Staunt,6146,6044,5881,5607,5660,5293,5289,5608,5436,5293
+6,House Heating Fuel: Propane,VA,Staunt,241,228,243,282,347,357,314,270,213,168
+7,House Heating Fuel: Wood,VA,Staunt,193,191,194,184,195,188,154,128,136,105
+3,House Heating Fuel: Electric,VA,Suffo,13508,14072,14761,14817,15285,15832,16489,16901,17658,18135
+4,House Heating Fuel: Fuel Oil,VA,Suffo,2845,2596,2152,2024,1790,1544,1468,1395,1248,1130
+5,House Heating Fuel: Gas,VA,Suffo,11158,11076,11063,11296,11352,11226,11348,11532,11825,12254
+6,House Heating Fuel: Propane,VA,Suffo,2224,2133,2115,1995,1938,1871,1832,1882,1906,1713
+7,House Heating Fuel: Wood,VA,Suffo,266,278,280,194,256,296,355,339,305,304
+3,House Heating Fuel: Electric,VA,Virginia Bea,97572,98557,99837,101180,100640,102565,104648,105450,106530,107722
+4,House Heating Fuel: Fuel Oil,VA,Virginia Bea,6785,6184,5564,5193,5076,4671,4232,3885,3472,3149
+5,House Heating Fuel: Gas,VA,Virginia Bea,56886,56643,56138,55953,56717,56005,55642,55298,56167,56844
+6,House Heating Fuel: Propane,VA,Virginia Bea,1487,1356,1415,1270,1489,1480,1472,1525,1518,1461
+7,House Heating Fuel: Wood,VA,Virginia Bea,536,516,550,620,532,594,630,636,512,468
+3,House Heating Fuel: Electric,VA,Waynesbo,2581,2962,3019,3122,3093,3331,3435,3703,3633,3726
+4,House Heating Fuel: Fuel Oil,VA,Waynesbo,364,354,220,260,238,279,275,227,138,155
+5,House Heating Fuel: Gas,VA,Waynesbo,5252,5005,5026,4840,4871,4733,4751,4707,4853,4972
+6,House Heating Fuel: Propane,VA,Waynesbo,135,247,274,326,438,452,358,291,259,141
+7,House Heating Fuel: Wood,VA,Waynesbo,85,114,107,91,173,171,165,192,261,181
+3,House Heating Fuel: Electric,VA,Williamsbu,1825,1978,2128,2185,2022,2098,2167,2226,2126,2205
+4,House Heating Fuel: Fuel Oil,VA,Williamsbu,387,398,351,389,332,295,222,224,147,135
+5,House Heating Fuel: Gas,VA,Williamsbu,1767,1740,1723,1757,1948,2067,2170,2123,2302,2302
+6,House Heating Fuel: Propane,VA,Williamsbu,66,47,40,29,31,39,37,31,60,26
+7,House Heating Fuel: Wood,VA,Williamsbu,18,13,13,9,8,14,13,15,10,11
+3,House Heating Fuel: Electric,VA,Winchest,3889,3840,4444,4731,5046,4971,5401,5323,5116,5119
+4,House Heating Fuel: Fuel Oil,VA,Winchest,1581,1432,1241,988,919,981,1014,960,975,771
+5,House Heating Fuel: Gas,VA,Winchest,4470,4538,4435,4364,4380,4330,3912,3892,4104,4205
+6,House Heating Fuel: Propane,VA,Winchest,118,175,182,148,202,174,157,181,191,194
+7,House Heating Fuel: Wood,VA,Winchest,67,57,58,87,94,101,65,63,40,58

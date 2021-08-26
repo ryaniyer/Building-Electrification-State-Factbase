@@ -1,0 +1,57 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,MA,Barnstable,2.23,2.23,2.25,2.25,2.27,2.28,2.28,2.25,2.27,2.26
+1,Avg household size of renter-occupied unit,MA,Barnstable,1.94,1.98,2.06,2.09,2.14,2.11,2.13,2.11,2.11,2.12
+36,Owner-Occupied,MA,Barnstable,175870,172464,171599,169454,168617,169598,169984,168652,170175,170502
+37,Renter-Occupied,MA,Barnstable,37466,38664,39554,41850,43069,42189,41889,42430,40734,40286
+0,Avg household size of owner-occupied unit,MA,Berkshire,2.41,2.39,2.38,2.38,2.35,2.33,2.32,2.31,2.3,2.3
+1,Avg household size of renter-occupied unit,MA,Berkshire,1.93,1.92,1.94,1.95,1.96,1.96,1.99,1.94,1.92,1.91
+36,Owner-Occupied,MA,Berkshire,92230,92117,90810,89969,89201,88422,87179,87781,87533,87398
+37,Renter-Occupied,MA,Berkshire,33350,33214,33907,34162,34211,33991,34589,33046,32893,32200
+0,Avg household size of owner-occupied unit,MA,Bristol,2.74,2.75,2.75,2.75,2.74,2.73,2.73,2.69,2.7,2.69
+1,Avg household size of renter-occupied unit,MA,Bristol,2.13,2.16,2.2,2.19,2.2,2.2,2.2,2.19,2.19,2.2
+36,Owner-Occupied,MA,Bristol,369998,370030,366598,364400,360693,359191,360639,363709,365003,366646
+37,Renter-Occupied,MA,Bristol,161742,163718,167378,169806,174045,176774,177726,177161,178238,179030
+0,Avg household size of owner-occupied unit,MA,Dukes,2.93,2.95,2.92,2.93,2.97,2.9,2.92,2.92,2.69,2.6
+1,Avg household size of renter-occupied unit,MA,Dukes,2.89,2.68,2.49,2.35,2.46,2.36,2.19,2.24,2.65,2.32
+36,Owner-Occupied,MA,Dukes,13121,13408,13325,13517,13515,13943,13716,13941,13249,12712
+37,Renter-Occupied,MA,Dukes,3024,2728,3026,2989,3172,2841,3156,3069,3805,4345
+0,Avg household size of owner-occupied unit,MA,Essex,2.74,2.72,2.73,2.73,2.74,2.74,2.76,2.74,2.74,2.75
+1,Avg household size of renter-occupied unit,MA,Essex,2.19,2.19,2.23,2.27,2.31,2.33,2.34,2.35,2.36,2.34
+36,Owner-Occupied,MA,Essex,507118,503493,499950,495545,494900,497239,503171,509741,514673,518472
+37,Renter-Occupied,MA,Essex,214537,219169,227722,237757,244866,248573,248106,248028,248343,247137
+0,Avg household size of owner-occupied unit,MA,Franklin,2.45,2.41,2.41,2.4,2.4,2.42,2.42,2.39,2.42,2.4
+1,Avg household size of renter-occupied unit,MA,Franklin,2.02,2.07,2.06,2.06,2.06,2.04,1.98,2.0,1.98,1.95
+36,Owner-Occupied,MA,Franklin,52123,50785,50386,50121,50113,50413,50416,50320,50879,50279
+37,Renter-Occupied,MA,Franklin,18423,19269,19656,19831,19677,19109,18864,18955,18401,18731
+0,Avg household size of owner-occupied unit,MA,Hampden,2.62,2.62,2.63,2.62,2.62,2.65,2.63,2.61,2.62,2.62
+1,Avg household size of renter-occupied unit,MA,Hampden,2.31,2.32,2.34,2.39,2.41,2.43,2.45,2.43,2.41,2.38
+36,Owner-Occupied,MA,Hampden,293995,294172,293315,287917,286821,288914,287104,285787,285384,286966
+37,Renter-Occupied,MA,Hampden,151418,152648,155244,162409,165077,164852,166602,168845,169044,166304
+0,Avg household size of owner-occupied unit,MA,Hampshire,2.47,2.43,2.42,2.41,2.45,2.47,2.49,2.49,2.52,2.5
+1,Avg household size of renter-occupied unit,MA,Hampshire,1.92,1.94,2.02,2.11,2.11,2.14,2.12,2.09,2.04,2.03
+36,Owner-Occupied,MA,Hampshire,98499,96361,95588,94992,94726,95387,96349,96860,97361,98344
+37,Renter-Occupied,MA,Hampshire,36080,37575,39329,41027,42595,42841,41828,41568,40921,39668
+0,Avg household size of owner-occupied unit,MA,Middlesex,2.7,2.71,2.71,2.72,2.74,2.77,2.77,2.76,2.75,2.74
+1,Avg household size of renter-occupied unit,MA,Middlesex,2.1,2.11,2.15,2.18,2.2,2.21,2.23,2.24,2.25,2.25
+36,Owner-Occupied,MA,Middlesex,990436,991924,993870,993288,998227,1010749,1014208,1025147,1028732,1032055
+37,Renter-Occupied,MA,Middlesex,433772,446507,458018,471890,482905,486431,494137,498441,507755,510887
+0,Avg household size of owner-occupied unit,MA,Nantucket,2.69,2.62,2.53,2.41,2.53,2.64,2.79,2.93,2.91,2.83
+1,Avg household size of renter-occupied unit,MA,Nantucket,2.27,2.27,2.2,2.36,2.52,2.57,2.59,2.64,2.89,3.17
+36,Owner-Occupied,MA,Nantucket,7147,6877,7037,6457,6465,6786,6831,7134,7501,7418
+37,Renter-Occupied,MA,Nantucket,2190,2542,2551,3292,3582,3483,3588,3495,3313,3464
+0,Avg household size of owner-occupied unit,MA,Norfolk,2.74,2.75,2.78,2.8,2.82,2.83,2.83,2.8,2.81,2.8
+1,Avg household size of renter-occupied unit,MA,Norfolk,2.01,2.0,1.99,2.01,2.01,2.03,2.06,2.06,2.06,2.07
+36,Owner-Occupied,MA,Norfolk,492004,496069,498258,499204,502693,504667,504344,509963,512234,511365
+37,Renter-Occupied,MA,Norfolk,151602,151610,154779,159204,161456,164478,168478,166069,167545,170702
+0,Avg household size of owner-occupied unit,MA,Plymouth,2.8,2.81,2.81,2.83,2.82,2.82,2.83,2.82,2.8,2.82
+1,Avg household size of renter-occupied unit,MA,Plymouth,2.19,2.26,2.28,2.29,2.33,2.37,2.36,2.34,2.32,2.28
+36,Owner-Occupied,MA,Plymouth,390572,390490,390650,391208,389384,389055,391596,394010,396702,403715
+37,Renter-Occupied,MA,Plymouth,86727,90754,92982,94364,99543,102954,103437,103694,104034,100294
+0,Avg household size of owner-occupied unit,MA,Suffolk,2.52,2.51,2.55,2.55,2.56,2.52,2.52,2.53,2.55,2.59
+1,Avg household size of renter-occupied unit,MA,Suffolk,2.22,2.24,2.26,2.31,2.33,2.32,2.33,2.34,2.33,2.32
+36,Owner-Occupied,MA,Suffolk,261494,259674,261616,260877,264574,266369,270761,279559,284047,289575
+37,Renter-Occupied,MA,Suffolk,400206,409434,417765,428470,435996,443904,447936,452120,458709,458648
+0,Avg household size of owner-occupied unit,MA,Worcester,2.75,2.75,2.76,2.76,2.77,2.77,2.77,2.76,2.76,2.75
+1,Avg household size of renter-occupied unit,MA,Worcester,2.16,2.19,2.23,2.26,2.28,2.29,2.27,2.26,2.24,2.22
+36,Owner-Occupied,MA,Worcester,555187,553261,548059,543989,541767,540064,541847,545553,551182,554181
+37,Renter-Occupied,MA,Worcester,208863,214742,223981,231774,238091,243150,243070,243513,241163,240594

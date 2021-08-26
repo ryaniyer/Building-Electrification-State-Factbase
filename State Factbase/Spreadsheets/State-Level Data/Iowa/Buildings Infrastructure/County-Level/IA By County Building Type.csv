@@ -1,0 +1,991 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40,Units in Structure: 1 ATTACHED,IA,Adair,28,24,20,23,5,12,10,24,35,37
+41,Units in Structure: 1 DETACHED,IA,Adair,3247,3233,3188,3219,3216,3174,3161,3089,3057,3018
+42,Units in Structure: 10-19,IA,Adair,35,45,46,46,52,48,48,32,27,46
+43,Units in Structure: 2,IA,Adair,14,17,22,29,33,32,36,35,80,78
+44,Units in Structure: 20-49,IA,Adair,20,31,17,18,13,25,14,23,24,43
+45,Units in Structure: 3-4,IA,Adair,226,224,216,192,173,170,206,232,223,246
+46,Units in Structure: 5-9,IA,Adair,69,65,73,57,72,85,83,104,92,91
+47,Units in Structure: 50+,IA,Adair,0,0,0,0,0,0,0,0,14,14
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Adair,8,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Adair,120,134,107,110,110,126,113,151,145,138
+40,Units in Structure: 1 ATTACHED,IA,Adams,3,6,15,15,13,13,12,17,14,24
+41,Units in Structure: 1 DETACHED,IA,Adams,1763,1743,1744,1757,1774,1733,1739,1752,1777,1767
+42,Units in Structure: 10-19,IA,Adams,27,16,14,9,16,22,23,19,22,15
+43,Units in Structure: 2,IA,Adams,32,27,21,6,7,26,21,25,21,30
+44,Units in Structure: 20-49,IA,Adams,3,3,4,0,6,7,6,3,5,0
+45,Units in Structure: 3-4,IA,Adams,75,74,59,45,31,27,34,30,42,38
+46,Units in Structure: 5-9,IA,Adams,18,12,26,35,30,44,52,45,33,37
+47,Units in Structure: 50+,IA,Adams,2,3,4,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Adams,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Adams,68,79,121,135,124,120,117,119,95,95
+40,Units in Structure: 1 ATTACHED,IA,Allamakee,134,110,82,124,90,81,105,132,132,124
+41,Units in Structure: 1 DETACHED,IA,Allamakee,5638,5650,5763,5815,5874,5778,5798,5693,5672,5729
+42,Units in Structure: 10-19,IA,Allamakee,133,111,130,85,154,225,238,251,242,194
+43,Units in Structure: 2,IA,Allamakee,259,224,227,258,239,127,123,196,200,224
+44,Units in Structure: 20-49,IA,Allamakee,25,26,28,23,22,10,25,31,39,42
+45,Units in Structure: 3-4,IA,Allamakee,224,265,212,193,139,146,114,106,119,117
+46,Units in Structure: 5-9,IA,Allamakee,179,189,163,147,147,200,209,229,230,211
+47,Units in Structure: 50+,IA,Allamakee,0,0,0,0,0,9,10,18,17,17
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Allamakee,0,0,0,5,6,6,6,12,5,5
+49,Units in Structure: Mobile Home,IA,Allamakee,1012,1054,1012,956,952,1044,1012,1048,1120,1119
+40,Units in Structure: 1 ATTACHED,IA,Appanoose,40,47,33,38,46,51,84,83,93,44
+41,Units in Structure: 1 DETACHED,IA,Appanoose,5262,5213,5157,5101,5152,5237,5198,5277,5258,5227
+42,Units in Structure: 10-19,IA,Appanoose,41,58,75,80,97,101,63,49,44,17
+43,Units in Structure: 2,IA,Appanoose,71,99,89,114,138,117,89,125,112,134
+44,Units in Structure: 20-49,IA,Appanoose,44,44,95,109,167,145,149,119,164,136
+45,Units in Structure: 3-4,IA,Appanoose,256,272,250,273,249,252,239,242,243,180
+46,Units in Structure: 5-9,IA,Appanoose,149,167,152,139,93,120,139,162,171,253
+47,Units in Structure: 50+,IA,Appanoose,124,135,100,81,93,90,70,45,52,43
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Appanoose,0,2,1,1,1,1,0,0,0,1
+49,Units in Structure: Mobile Home,IA,Appanoose,680,616,677,676,574,482,541,517,490,590
+40,Units in Structure: 1 ATTACHED,IA,Audubon,19,23,20,32,26,41,40,56,53,43
+41,Units in Structure: 1 DETACHED,IA,Audubon,2717,2732,2751,2704,2782,2749,2715,2703,2749,2747
+42,Units in Structure: 10-19,IA,Audubon,6,3,5,4,4,1,2,0,0,2
+43,Units in Structure: 2,IA,Audubon,61,79,64,101,92,101,93,71,29,34
+44,Units in Structure: 20-49,IA,Audubon,6,6,5,0,0,11,10,13,13,13
+45,Units in Structure: 3-4,IA,Audubon,67,66,57,74,45,28,41,61,53,55
+46,Units in Structure: 5-9,IA,Audubon,72,49,51,42,22,32,48,61,68,60
+47,Units in Structure: 50+,IA,Audubon,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Audubon,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Audubon,11,13,17,23,20,42,42,41,44,47
+40,Units in Structure: 1 ATTACHED,IA,Benton,185,106,85,86,107,101,110,88,75,105
+41,Units in Structure: 1 DETACHED,IA,Benton,9452,9540,9531,9594,9605,9646,9630,9745,9857,9889
+42,Units in Structure: 10-19,IA,Benton,91,161,165,125,157,142,120,116,112,122
+43,Units in Structure: 2,IA,Benton,175,185,181,169,200,145,150,188,180,136
+44,Units in Structure: 20-49,IA,Benton,69,78,82,93,71,90,102,81,64,69
+45,Units in Structure: 3-4,IA,Benton,396,360,451,346,374,335,314,316,363,343
+46,Units in Structure: 5-9,IA,Benton,189,166,180,200,217,303,347,298,208,197
+47,Units in Structure: 50+,IA,Benton,0,0,0,0,0,13,17,21,21,18
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Benton,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Benton,533,495,420,466,358,307,302,279,251,265
+40,Units in Structure: 1 ATTACHED,IA,Black Hawk,1702,1796,1965,2048,2152,2109,2150,2116,2166,2141
+41,Units in Structure: 1 DETACHED,IA,Black Hawk,39396,39053,38825,38719,39321,39110,39509,39898,40013,40090
+42,Units in Structure: 10-19,IA,Black Hawk,2650,2660,2936,2859,2786,2914,3045,2949,3167,3405
+43,Units in Structure: 2,IA,Black Hawk,2361,2350,2296,2313,2029,2180,2262,2213,1931,2037
+44,Units in Structure: 20-49,IA,Black Hawk,1277,1298,1365,1432,1382,1371,1253,1249,1239,1305
+45,Units in Structure: 3-4,IA,Black Hawk,1965,1926,1929,2051,2122,2227,2308,2218,2221,2100
+46,Units in Structure: 5-9,IA,Black Hawk,3055,3203,3060,2946,2794,2692,2374,2579,2618,2636
+47,Units in Structure: 50+,IA,Black Hawk,1311,1548,1632,1892,1982,2031,1945,2051,2144,2021
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Black Hawk,0,0,0,0,0,0,6,18,21,30
+49,Units in Structure: Mobile Home,IA,Black Hawk,1769,1884,1915,1819,1807,1957,1952,2009,2083,2129
+40,Units in Structure: 1 ATTACHED,IA,Boone,221,253,250,278,314,364,312,292,264,212
+41,Units in Structure: 1 DETACHED,IA,Boone,9060,9170,9126,9192,9255,9219,9234,9424,9474,9599
+42,Units in Structure: 10-19,IA,Boone,308,268,221,280,334,402,440,479,421,298
+43,Units in Structure: 2,IA,Boone,579,472,408,336,341,265,252,234,261,261
+44,Units in Structure: 20-49,IA,Boone,339,343,338,327,292,338,361,355,398,412
+45,Units in Structure: 3-4,IA,Boone,243,270,259,300,316,307,252,244,210,224
+46,Units in Structure: 5-9,IA,Boone,327,312,461,438,376,297,374,256,264,304
+47,Units in Structure: 50+,IA,Boone,66,76,68,73,57,81,95,134,139,140
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Boone,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Boone,537,555,614,532,486,516,467,455,484,513
+40,Units in Structure: 1 ATTACHED,IA,Bremer,133,132,102,143,181,227,221,253,259,309
+41,Units in Structure: 1 DETACHED,IA,Bremer,8295,8354,8281,8322,8264,8262,8456,8568,8687,8789
+42,Units in Structure: 10-19,IA,Bremer,91,131,130,130,184,184,140,165,224,187
+43,Units in Structure: 2,IA,Bremer,232,266,292,276,261,300,239,222,209,202
+44,Units in Structure: 20-49,IA,Bremer,188,163,171,176,176,178,191,196,200,278
+45,Units in Structure: 3-4,IA,Bremer,396,367,407,355,395,365,361,333,279,266
+46,Units in Structure: 5-9,IA,Bremer,181,189,224,290,270,287,274,261,207,183
+47,Units in Structure: 50+,IA,Bremer,51,52,48,46,41,44,45,40,47,66
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Bremer,9,2,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Bremer,322,263,284,205,227,220,209,194,202,134
+40,Units in Structure: 1 ATTACHED,IA,Buchanan,81,99,134,115,139,165,153,111,133,203
+41,Units in Structure: 1 DETACHED,IA,Buchanan,7524,7546,7498,7601,7620,7637,7592,7737,7728,7617
+42,Units in Structure: 10-19,IA,Buchanan,64,87,112,101,119,117,97,57,38,52
+43,Units in Structure: 2,IA,Buchanan,136,139,148,149,139,142,126,141,116,76
+44,Units in Structure: 20-49,IA,Buchanan,64,64,43,19,36,57,91,82,120,135
+45,Units in Structure: 3-4,IA,Buchanan,400,370,352,277,333,296,330,346,394,336
+46,Units in Structure: 5-9,IA,Buchanan,99,60,54,114,111,175,183,174,105,130
+47,Units in Structure: 50+,IA,Buchanan,44,53,37,34,3,0,0,49,42,40
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Buchanan,0,0,0,0,0,0,0,0,0,1
+49,Units in Structure: Mobile Home,IA,Buchanan,590,554,587,538,488,400,424,377,404,504
+40,Units in Structure: 1 ATTACHED,IA,Buena Vista,201,228,176,172,159,115,94,88,87,84
+41,Units in Structure: 1 DETACHED,IA,Buena Vista,6591,6474,6493,6315,6340,6330,6341,6406,6614,6547
+42,Units in Structure: 10-19,IA,Buena Vista,169,237,194,192,221,242,217,215,261,325
+43,Units in Structure: 2,IA,Buena Vista,143,113,122,136,175,186,227,265,221,157
+44,Units in Structure: 20-49,IA,Buena Vista,240,268,295,293,338,270,288,315,306,264
+45,Units in Structure: 3-4,IA,Buena Vista,321,251,205,283,301,303,398,401,321,393
+46,Units in Structure: 5-9,IA,Buena Vista,297,411,493,551,442,506,398,331,229,274
+47,Units in Structure: 50+,IA,Buena Vista,39,39,52,20,9,10,13,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Buena Vista,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Buena Vista,232,222,205,261,243,301,294,269,257,241
+40,Units in Structure: 1 ATTACHED,IA,Butler,37,43,47,41,39,46,30,37,34,42
+41,Units in Structure: 1 DETACHED,IA,Butler,5964,5922,5948,5968,5959,5952,5962,5913,5923,5943
+42,Units in Structure: 10-19,IA,Butler,17,28,56,71,102,114,123,121,113,95
+43,Units in Structure: 2,IA,Butler,53,59,66,85,96,100,77,119,105,113
+44,Units in Structure: 20-49,IA,Butler,72,65,54,71,69,46,46,37,33,40
+45,Units in Structure: 3-4,IA,Butler,214,233,207,203,179,206,210,237,226,242
+46,Units in Structure: 5-9,IA,Butler,50,67,77,88,114,127,139,150,172,145
+47,Units in Structure: 50+,IA,Butler,4,2,2,6,6,6,4,3,3,3
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Butler,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Butler,171,198,188,151,136,110,144,141,165,161
+40,Units in Structure: 1 ATTACHED,IA,Calhoun,22,20,17,31,34,28,47,42,38,43
+41,Units in Structure: 1 DETACHED,IA,Calhoun,4438,4345,4482,4483,4456,4414,4361,4411,4454,4451
+42,Units in Structure: 10-19,IA,Calhoun,16,32,35,29,24,22,11,12,14,15
+43,Units in Structure: 2,IA,Calhoun,24,26,25,29,31,37,38,45,47,58
+44,Units in Structure: 20-49,IA,Calhoun,22,26,37,67,70,82,68,60,47,47
+45,Units in Structure: 3-4,IA,Calhoun,96,104,128,190,181,181,185,183,149,136
+46,Units in Structure: 5-9,IA,Calhoun,132,123,155,134,152,175,205,153,145,165
+47,Units in Structure: 50+,IA,Calhoun,71,45,62,57,76,84,98,79,106,78
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Calhoun,2,1,2,1,2,2,2,1,2,2
+49,Units in Structure: Mobile Home,IA,Calhoun,58,73,88,67,72,69,66,61,65,77
+40,Units in Structure: 1 ATTACHED,IA,Carroll,71,77,73,201,218,206,277,253,147,176
+41,Units in Structure: 1 DETACHED,IA,Carroll,7549,7709,7651,7757,7773,7684,7712,7789,7881,7755
+42,Units in Structure: 10-19,IA,Carroll,208,160,168,137,153,175,206,228,290,273
+43,Units in Structure: 2,IA,Carroll,201,179,192,125,125,143,160,151,170,152
+44,Units in Structure: 20-49,IA,Carroll,212,238,268,253,235,252,215,181,139,199
+45,Units in Structure: 3-4,IA,Carroll,449,432,503,459,450,475,375,390,385,440
+46,Units in Structure: 5-9,IA,Carroll,412,346,354,314,271,292,311,313,313,346
+47,Units in Structure: 50+,IA,Carroll,102,76,52,74,100,106,120,107,122,70
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Carroll,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Carroll,126,130,118,70,77,65,39,40,41,81
+40,Units in Structure: 1 ATTACHED,IA,Cass,62,47,78,59,49,80,98,73,95,119
+41,Units in Structure: 1 DETACHED,IA,Cass,5400,5298,5291,5275,5428,5297,5432,5499,5476,5381
+42,Units in Structure: 10-19,IA,Cass,64,31,40,85,129,130,129,132,93,58
+43,Units in Structure: 2,IA,Cass,159,164,175,163,160,165,199,230,233,228
+44,Units in Structure: 20-49,IA,Cass,128,184,186,166,126,149,138,156,141,199
+45,Units in Structure: 3-4,IA,Cass,359,377,380,349,305,289,223,162,215,277
+46,Units in Structure: 5-9,IA,Cass,175,200,185,228,199,223,186,174,201,184
+47,Units in Structure: 50+,IA,Cass,26,48,62,61,60,56,33,0,12,12
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Cass,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Cass,249,255,206,176,131,170,122,139,125,119
+40,Units in Structure: 1 ATTACHED,IA,Cedar,191,203,227,179,221,214,216,204,202,162
+41,Units in Structure: 1 DETACHED,IA,Cedar,6725,6879,6844,6797,6765,6813,6701,6719,6812,6813
+42,Units in Structure: 10-19,IA,Cedar,96,74,89,103,98,98,111,73,128,115
+43,Units in Structure: 2,IA,Cedar,152,163,166,146,160,207,241,275,244,204
+44,Units in Structure: 20-49,IA,Cedar,31,45,33,32,35,17,11,7,9,12
+45,Units in Structure: 3-4,IA,Cedar,239,211,182,249,229,192,191,226,227,239
+46,Units in Structure: 5-9,IA,Cedar,180,115,162,178,166,149,245,219,193,239
+47,Units in Structure: 50+,IA,Cedar,0,0,14,14,13,13,13,2,8,9
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Cedar,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Cedar,405,363,343,366,378,408,379,452,391,388
+40,Units in Structure: 1 ATTACHED,IA,Cerro Gordo,509,460,441,617,549,507,643,682,561,740
+41,Units in Structure: 1 DETACHED,IA,Cerro Gordo,17167,17580,17416,17375,17338,17358,17008,17117,17083,16929
+42,Units in Structure: 10-19,IA,Cerro Gordo,602,644,631,630,627,714,658,578,506,565
+43,Units in Structure: 2,IA,Cerro Gordo,464,322,341,406,502,493,546,562,546,604
+44,Units in Structure: 20-49,IA,Cerro Gordo,1003,901,834,679,723,551,614,724,808,765
+45,Units in Structure: 3-4,IA,Cerro Gordo,563,547,770,708,655,669,697,623,676,749
+46,Units in Structure: 5-9,IA,Cerro Gordo,970,848,914,977,970,1148,1224,1236,1288,1088
+47,Units in Structure: 50+,IA,Cerro Gordo,335,344,304,313,273,294,372,379,400,545
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Cerro Gordo,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Cerro Gordo,479,464,504,410,545,481,492,424,478,363
+40,Units in Structure: 1 ATTACHED,IA,Cherokee,57,58,48,40,36,36,46,45,53,47
+41,Units in Structure: 1 DETACHED,IA,Cherokee,4965,4908,4860,4848,4850,4845,4915,5014,5001,5064
+42,Units in Structure: 10-19,IA,Cherokee,204,195,166,102,135,115,96,124,143,40
+43,Units in Structure: 2,IA,Cherokee,13,60,43,57,58,103,83,98,113,128
+44,Units in Structure: 20-49,IA,Cherokee,160,155,205,319,327,314,308,245,225,244
+45,Units in Structure: 3-4,IA,Cherokee,221,186,238,177,170,177,183,99,150,116
+46,Units in Structure: 5-9,IA,Cherokee,99,105,111,82,61,23,22,17,25,53
+47,Units in Structure: 50+,IA,Cherokee,0,0,0,0,0,0,2,2,3,3
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Cherokee,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Cherokee,87,115,116,149,148,153,115,132,72,75
+40,Units in Structure: 1 ATTACHED,IA,Chickasaw,69,66,60,83,73,68,75,93,91,83
+41,Units in Structure: 1 DETACHED,IA,Chickasaw,4963,4990,4907,4884,4886,4890,4910,4971,4920,4941
+42,Units in Structure: 10-19,IA,Chickasaw,103,105,184,199,153,172,142,94,75,86
+43,Units in Structure: 2,IA,Chickasaw,103,99,93,82,64,46,9,23,43,98
+44,Units in Structure: 20-49,IA,Chickasaw,20,14,25,40,61,67,78,75,71,51
+45,Units in Structure: 3-4,IA,Chickasaw,125,133,98,81,82,77,80,91,126,150
+46,Units in Structure: 5-9,IA,Chickasaw,116,127,145,167,200,173,232,225,194,152
+47,Units in Structure: 50+,IA,Chickasaw,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Chickasaw,0,0,0,0,0,9,6,6,9,9
+49,Units in Structure: Mobile Home,IA,Chickasaw,190,147,160,142,151,156,140,124,166,138
+40,Units in Structure: 1 ATTACHED,IA,Clarke,14,16,69,82,134,144,150,85,91,61
+41,Units in Structure: 1 DETACHED,IA,Clarke,3289,3376,3320,3280,3210,3216,3130,3200,3214,3161
+42,Units in Structure: 10-19,IA,Clarke,17,15,15,14,40,28,68,93,119,91
+43,Units in Structure: 2,IA,Clarke,84,75,57,63,60,101,206,257,197,363
+44,Units in Structure: 20-49,IA,Clarke,68,53,93,101,90,90,73,68,47,38
+45,Units in Structure: 3-4,IA,Clarke,126,153,126,105,113,128,113,138,157,159
+46,Units in Structure: 5-9,IA,Clarke,140,76,68,94,103,116,61,43,113,141
+47,Units in Structure: 50+,IA,Clarke,0,0,0,0,0,0,0,0,0,8
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Clarke,0,0,0,0,0,14,15,14,13,14
+49,Units in Structure: Mobile Home,IA,Clarke,336,320,357,357,378,289,332,280,257,229
+40,Units in Structure: 1 ATTACHED,IA,Clay,202,224,219,144,212,261,158,211,190,131
+41,Units in Structure: 1 DETACHED,IA,Clay,6140,6022,6070,6157,6165,6418,6550,6459,6474,6423
+42,Units in Structure: 10-19,IA,Clay,269,236,278,231,145,112,192,166,187,215
+43,Units in Structure: 2,IA,Clay,48,55,79,83,139,148,185,230,231,284
+44,Units in Structure: 20-49,IA,Clay,197,175,174,253,326,298,284,382,287,226
+45,Units in Structure: 3-4,IA,Clay,480,483,369,318,337,192,202,151,275,276
+46,Units in Structure: 5-9,IA,Clay,339,343,345,405,365,310,325,385,372,463
+47,Units in Structure: 50+,IA,Clay,214,283,267,254,193,180,92,90,96,95
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Clay,0,0,0,0,6,5,5,5,6,0
+49,Units in Structure: Mobile Home,IA,Clay,157,235,248,216,179,145,106,82,101,119
+40,Units in Structure: 1 ATTACHED,IA,Clayton,71,85,83,93,125,130,162,164,165,127
+41,Units in Structure: 1 DETACHED,IA,Clayton,7299,7475,7472,7388,7375,7298,7138,7181,7344,7386
+42,Units in Structure: 10-19,IA,Clayton,112,136,134,171,162,154,128,155,126,185
+43,Units in Structure: 2,IA,Clayton,332,315,298,259,257,222,240,264,235,256
+44,Units in Structure: 20-49,IA,Clayton,81,95,116,123,147,120,138,132,160,120
+45,Units in Structure: 3-4,IA,Clayton,254,197,212,235,242,239,295,315,314,270
+46,Units in Structure: 5-9,IA,Clayton,284,248,219,216,192,200,201,162,154,165
+47,Units in Structure: 50+,IA,Clayton,0,0,0,3,13,12,12,24,22,11
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Clayton,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Clayton,539,429,455,507,505,650,705,681,579,602
+40,Units in Structure: 1 ATTACHED,IA,Clinton,257,259,265,333,276,206,245,264,313,439
+41,Units in Structure: 1 DETACHED,IA,Clinton,17118,16884,17200,17221,17173,16995,17134,17190,16949,16864
+42,Units in Structure: 10-19,IA,Clinton,505,624,652,623,634,858,836,734,775,825
+43,Units in Structure: 2,IA,Clinton,904,1034,909,813,783,791,674,706,643,674
+44,Units in Structure: 20-49,IA,Clinton,333,345,335,422,513,520,571,570,702,778
+45,Units in Structure: 3-4,IA,Clinton,1134,1083,801,733,824,868,794,921,979,940
+46,Units in Structure: 5-9,IA,Clinton,450,483,600,602,717,725,609,592,723,575
+47,Units in Structure: 50+,IA,Clinton,500,500,454,449,372,367,376,409,400,426
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Clinton,0,0,0,0,0,2,4,3,4,4
+49,Units in Structure: Mobile Home,IA,Clinton,627,559,537,515,470,428,538,511,507,501
+40,Units in Structure: 1 ATTACHED,IA,Crawford,76,65,61,38,66,92,73,87,146,204
+41,Units in Structure: 1 DETACHED,IA,Crawford,5772,5836,5725,5790,5762,5768,5691,5730,5724,5579
+42,Units in Structure: 10-19,IA,Crawford,96,116,150,131,138,165,187,150,172,157
+43,Units in Structure: 2,IA,Crawford,141,61,85,111,130,92,157,210,208,306
+44,Units in Structure: 20-49,IA,Crawford,111,78,52,127,136,153,170,178,81,91
+45,Units in Structure: 3-4,IA,Crawford,221,233,324,202,203,193,168,80,93,107
+46,Units in Structure: 5-9,IA,Crawford,128,219,185,176,201,180,169,162,108,119
+47,Units in Structure: 50+,IA,Crawford,126,85,69,75,104,31,34,37,18,39
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Crawford,1,2,2,0,0,0,0,6,6,6
+49,Units in Structure: Mobile Home,IA,Crawford,287,261,290,293,219,307,353,371,474,457
+40,Units in Structure: 1 ATTACHED,IA,Dallas,2836,3196,3464,3342,3159,3122,3663,3939,4366,4640
+41,Units in Structure: 1 DETACHED,IA,Dallas,16766,17697,18500,18889,19465,20387,21255,21874,22550,23214
+42,Units in Structure: 10-19,IA,Dallas,1090,1212,1204,1201,1202,1432,1607,1892,1892,1997
+43,Units in Structure: 2,IA,Dallas,488,341,281,321,284,216,278,260,294,348
+44,Units in Structure: 20-49,IA,Dallas,1511,1463,1332,1656,1787,1599,1770,2037,2126,2370
+45,Units in Structure: 3-4,IA,Dallas,949,828,711,633,521,507,539,515,620,715
+46,Units in Structure: 5-9,IA,Dallas,835,682,651,773,948,900,1235,1258,1092,1022
+47,Units in Structure: 50+,IA,Dallas,268,255,260,282,372,356,567,690,1023,1154
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Dallas,0,7,5,5,4,5,0,18,31,28
+49,Units in Structure: Mobile Home,IA,Dallas,992,889,774,723,738,733,764,782,943,930
+40,Units in Structure: 1 ATTACHED,IA,Davis,0,8,11,18,36,73,68,57,55,43
+41,Units in Structure: 1 DETACHED,IA,Davis,2990,2966,2991,3007,3010,2990,3102,3131,3083,3120
+42,Units in Structure: 10-19,IA,Davis,35,30,25,29,37,37,41,45,42,39
+43,Units in Structure: 2,IA,Davis,78,81,68,68,83,56,41,45,61,36
+44,Units in Structure: 20-49,IA,Davis,0,0,0,2,3,3,2,2,5,4
+45,Units in Structure: 3-4,IA,Davis,59,88,68,77,88,86,64,56,98,102
+46,Units in Structure: 5-9,IA,Davis,121,68,75,53,27,56,50,51,49,54
+47,Units in Structure: 50+,IA,Davis,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Davis,36,44,21,21,20,10,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Davis,288,319,342,310,281,272,213,218,204,199
+40,Units in Structure: 1 ATTACHED,IA,Decatur,28,38,44,44,29,24,26,38,30,32
+41,Units in Structure: 1 DETACHED,IA,Decatur,2999,2998,2958,2943,2949,2997,2988,2990,2968,2983
+42,Units in Structure: 10-19,IA,Decatur,59,74,80,76,75,63,67,69,77,83
+43,Units in Structure: 2,IA,Decatur,52,62,72,95,93,91,89,98,59,42
+44,Units in Structure: 20-49,IA,Decatur,69,74,63,75,79,70,101,93,98,85
+45,Units in Structure: 3-4,IA,Decatur,110,92,103,111,148,154,156,169,188,164
+46,Units in Structure: 5-9,IA,Decatur,140,143,148,161,123,127,103,107,131,165
+47,Units in Structure: 50+,IA,Decatur,15,7,9,21,24,22,26,21,13,21
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Decatur,0,0,0,0,0,3,4,4,5,6
+49,Units in Structure: Mobile Home,IA,Decatur,372,347,353,303,319,296,286,272,287,272
+40,Units in Structure: 1 ATTACHED,IA,Delaware,72,68,119,122,137,119,138,62,86,63
+41,Units in Structure: 1 DETACHED,IA,Delaware,6796,6806,6855,6952,6987,6958,6897,6968,7046,7101
+42,Units in Structure: 10-19,IA,Delaware,44,41,22,17,29,46,60,72,37,18
+43,Units in Structure: 2,IA,Delaware,186,148,159,118,124,131,131,135,62,58
+44,Units in Structure: 20-49,IA,Delaware,132,132,143,141,152,70,99,109,168,165
+45,Units in Structure: 3-4,IA,Delaware,257,253,253,258,307,306,279,256,229,177
+46,Units in Structure: 5-9,IA,Delaware,144,138,116,88,75,45,56,79,88,99
+47,Units in Structure: 50+,IA,Delaware,0,0,0,23,20,30,29,35,17,28
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Delaware,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Delaware,375,433,355,293,201,326,339,349,371,386
+40,Units in Structure: 1 ATTACHED,IA,Des Moines,222,225,296,366,416,451,425,349,453,553
+41,Units in Structure: 1 DETACHED,IA,Des Moines,14253,14128,14289,14337,14159,14206,14029,14209,14065,14016
+42,Units in Structure: 10-19,IA,Des Moines,258,320,309,358,382,412,394,371,386,342
+43,Units in Structure: 2,IA,Des Moines,713,635,660,630,583,445,417,462,446,515
+44,Units in Structure: 20-49,IA,Des Moines,186,223,287,326,293,277,356,373,341,403
+45,Units in Structure: 3-4,IA,Des Moines,974,962,920,806,830,927,934,821,789,778
+46,Units in Structure: 5-9,IA,Des Moines,839,832,634,606,679,566,642,592,582,547
+47,Units in Structure: 50+,IA,Des Moines,311,358,305,280,333,315,280,371,438,396
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Des Moines,0,14,12,17,11,9,9,10,10,49
+49,Units in Structure: Mobile Home,IA,Des Moines,873,882,829,773,807,869,986,999,1056,1004
+40,Units in Structure: 1 ATTACHED,IA,Dickinson,227,254,242,275,308,337,305,306,288,295
+41,Units in Structure: 1 DETACHED,IA,Dickinson,9853,9752,9823,9771,9638,9456,9458,9662,9808,10174
+42,Units in Structure: 10-19,IA,Dickinson,369,404,370,339,478,469,527,560,625,532
+43,Units in Structure: 2,IA,Dickinson,83,59,65,91,80,85,130,132,159,178
+44,Units in Structure: 20-49,IA,Dickinson,319,306,391,379,367,457,561,567,481,441
+45,Units in Structure: 3-4,IA,Dickinson,332,501,345,387,379,468,465,512,447,377
+46,Units in Structure: 5-9,IA,Dickinson,651,614,688,690,657,595,642,570,557,685
+47,Units in Structure: 50+,IA,Dickinson,0,18,64,62,95,92,68,29,74,101
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Dickinson,0,0,0,0,1,1,1,2,1,0
+49,Units in Structure: Mobile Home,IA,Dickinson,858,859,857,907,993,1127,1094,1102,1180,1071
+40,Units in Structure: 1 ATTACHED,IA,Dubuque,1141,1139,1179,1165,1337,1381,1400,1427,1451,1398
+41,Units in Structure: 1 DETACHED,IA,Dubuque,27449,27677,27834,28133,28193,28392,28442,28709,28863,29032
+42,Units in Structure: 10-19,IA,Dubuque,1025,1138,1224,1159,1182,1194,1130,1109,1155,1271
+43,Units in Structure: 2,IA,Dubuque,1889,1843,1821,1946,1929,2106,2115,2049,1870,1801
+44,Units in Structure: 20-49,IA,Dubuque,886,875,901,867,951,929,916,992,1023,1131
+45,Units in Structure: 3-4,IA,Dubuque,2126,2148,2235,2191,2019,2257,2292,2480,2525,2410
+46,Units in Structure: 5-9,IA,Dubuque,1568,1501,1514,1488,1561,1371,1494,1536,1569,1627
+47,Units in Structure: 50+,IA,Dubuque,935,967,1044,1022,1073,988,1106,978,1052,1118
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Dubuque,0,0,9,7,9,9,8,0,0,0
+49,Units in Structure: Mobile Home,IA,Dubuque,1600,1551,1389,1410,1516,1450,1521,1538,1557,1511
+40,Units in Structure: 1 ATTACHED,IA,Emmet,45,16,27,47,54,53,51,44,29,64
+41,Units in Structure: 1 DETACHED,IA,Emmet,4152,4173,4110,4103,4128,4084,4065,4136,4174,4194
+42,Units in Structure: 10-19,IA,Emmet,144,128,100,94,59,63,77,54,36,39
+43,Units in Structure: 2,IA,Emmet,45,79,127,81,107,116,63,56,75,93
+44,Units in Structure: 20-49,IA,Emmet,85,57,73,75,56,59,78,110,83,78
+45,Units in Structure: 3-4,IA,Emmet,108,99,125,103,129,150,156,114,113,119
+46,Units in Structure: 5-9,IA,Emmet,100,84,91,75,109,109,108,86,99,50
+47,Units in Structure: 50+,IA,Emmet,12,0,0,10,14,12,9,8,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Emmet,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Emmet,97,127,129,172,105,119,166,190,186,172
+40,Units in Structure: 1 ATTACHED,IA,Fayette,98,87,82,92,69,84,58,44,64,57
+41,Units in Structure: 1 DETACHED,IA,Fayette,8175,8170,8123,8179,8110,8161,8174,8221,8125,8125
+42,Units in Structure: 10-19,IA,Fayette,120,153,156,90,108,104,91,95,102,142
+43,Units in Structure: 2,IA,Fayette,294,283,278,229,230,210,210,169,255,242
+44,Units in Structure: 20-49,IA,Fayette,15,40,55,108,116,120,125,124,93,108
+45,Units in Structure: 3-4,IA,Fayette,340,339,365,356,364,373,318,309,251,260
+46,Units in Structure: 5-9,IA,Fayette,212,198,189,195,209,187,169,159,191,189
+47,Units in Structure: 50+,IA,Fayette,0,0,5,6,8,51,51,35,39,34
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Fayette,12,14,14,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Fayette,313,283,293,288,336,264,344,426,451,440
+40,Units in Structure: 1 ATTACHED,IA,Floyd,102,95,101,84,74,67,83,80,90,107
+41,Units in Structure: 1 DETACHED,IA,Floyd,6213,6397,6431,6427,6335,6326,6209,6251,6178,6157
+42,Units in Structure: 10-19,IA,Floyd,91,122,142,76,174,147,90,71,83,82
+43,Units in Structure: 2,IA,Floyd,172,133,129,60,50,135,159,150,213,230
+44,Units in Structure: 20-49,IA,Floyd,145,116,105,109,114,64,61,54,93,100
+45,Units in Structure: 3-4,IA,Floyd,354,256,320,402,410,433,480,504,441,431
+46,Units in Structure: 5-9,IA,Floyd,222,187,99,135,182,227,317,295,296,306
+47,Units in Structure: 50+,IA,Floyd,23,35,37,29,34,13,27,30,33,41
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Floyd,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Floyd,199,185,156,172,137,112,106,107,128,126
+40,Units in Structure: 1 ATTACHED,IA,Franklin,23,22,22,28,30,37,21,34,45,46
+41,Units in Structure: 1 DETACHED,IA,Franklin,4155,4166,4200,4264,4348,4309,4323,4306,4321,4260
+42,Units in Structure: 10-19,IA,Franklin,41,34,31,38,18,22,27,33,26,27
+43,Units in Structure: 2,IA,Franklin,160,132,107,107,57,83,95,75,84,112
+44,Units in Structure: 20-49,IA,Franklin,83,61,52,68,77,60,57,74,35,42
+45,Units in Structure: 3-4,IA,Franklin,203,293,247,155,117,93,38,47,65,91
+46,Units in Structure: 5-9,IA,Franklin,86,101,161,162,159,204,226,187,172,109
+47,Units in Structure: 50+,IA,Franklin,0,0,0,0,0,0,0,0,0,10
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Franklin,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Franklin,131,89,65,67,66,57,83,100,120,159
+40,Units in Structure: 1 ATTACHED,IA,Fremont,6,6,7,3,0,11,14,28,41,46
+41,Units in Structure: 1 DETACHED,IA,Fremont,2992,2985,2978,2990,2995,2980,3020,3007,2963,3014
+42,Units in Structure: 10-19,IA,Fremont,0,0,0,0,0,3,3,8,8,11
+43,Units in Structure: 2,IA,Fremont,44,48,48,39,47,41,32,14,35,26
+44,Units in Structure: 20-49,IA,Fremont,15,16,23,23,21,16,16,7,9,9
+45,Units in Structure: 3-4,IA,Fremont,90,86,92,78,96,108,118,133,132,118
+46,Units in Structure: 5-9,IA,Fremont,40,51,43,55,63,61,57,66,75,67
+47,Units in Structure: 50+,IA,Fremont,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Fremont,4,0,0,0,0,0,0,0,0,3
+49,Units in Structure: Mobile Home,IA,Fremont,254,248,248,245,228,212,175,194,182,160
+40,Units in Structure: 1 ATTACHED,IA,Greene,59,58,64,55,53,28,56,52,68,75
+41,Units in Structure: 1 DETACHED,IA,Greene,4070,4025,3894,3899,3907,3909,3932,4014,3972,3933
+42,Units in Structure: 10-19,IA,Greene,31,35,41,17,3,10,8,8,32,44
+43,Units in Structure: 2,IA,Greene,64,58,51,26,72,69,81,85,109,37
+44,Units in Structure: 20-49,IA,Greene,31,41,91,87,91,79,68,35,57,72
+45,Units in Structure: 3-4,IA,Greene,94,131,172,183,177,214,173,133,119,134
+46,Units in Structure: 5-9,IA,Greene,123,95,139,169,128,145,173,145,134,193
+47,Units in Structure: 50+,IA,Greene,0,10,9,8,8,9,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Greene,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Greene,91,92,87,96,91,76,50,72,60,56
+40,Units in Structure: 1 ATTACHED,IA,Grundy,85,99,83,95,92,102,101,102,116,95
+41,Units in Structure: 1 DETACHED,IA,Grundy,4737,4734,4768,4762,4776,4811,4852,4843,4833,4766
+42,Units in Structure: 10-19,IA,Grundy,11,23,47,50,44,41,28,3,6,11
+43,Units in Structure: 2,IA,Grundy,107,117,106,123,125,90,52,57,63,80
+44,Units in Structure: 20-49,IA,Grundy,62,60,58,54,68,58,54,57,52,45
+45,Units in Structure: 3-4,IA,Grundy,246,227,232,213,201,211,199,234,252,247
+46,Units in Structure: 5-9,IA,Grundy,66,73,74,63,77,113,112,128,124,148
+47,Units in Structure: 50+,IA,Grundy,3,4,4,4,4,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Grundy,0,0,0,0,5,5,5,5,5,0
+49,Units in Structure: Mobile Home,IA,Grundy,220,196,156,156,142,107,142,135,123,192
+40,Units in Structure: 1 ATTACHED,IA,Guthrie,138,186,191,246,330,332,307,282,270,214
+41,Units in Structure: 1 DETACHED,IA,Guthrie,5039,4952,4896,4840,4771,4733,4732,4690,4745,4785
+42,Units in Structure: 10-19,IA,Guthrie,63,72,100,111,93,101,98,89,71,69
+43,Units in Structure: 2,IA,Guthrie,37,34,42,26,20,26,69,84,91,99
+44,Units in Structure: 20-49,IA,Guthrie,36,0,0,0,3,3,3,3,4,0
+45,Units in Structure: 3-4,IA,Guthrie,117,114,124,133,123,126,143,167,154,152
+46,Units in Structure: 5-9,IA,Guthrie,199,201,182,205,216,209,178,240,211,224
+47,Units in Structure: 50+,IA,Guthrie,12,13,13,11,12,28,34,41,46,53
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Guthrie,0,0,3,2,2,2,1,0,0,0
+49,Units in Structure: Mobile Home,IA,Guthrie,108,181,195,185,205,181,182,186,194,208
+40,Units in Structure: 1 ATTACHED,IA,Hamilton,148,172,156,138,180,114,88,106,92,49
+41,Units in Structure: 1 DETACHED,IA,Hamilton,5864,5796,5807,5777,5843,5811,5929,5912,5804,5690
+42,Units in Structure: 10-19,IA,Hamilton,62,58,56,57,67,84,152,125,158,201
+43,Units in Structure: 2,IA,Hamilton,211,197,177,208,152,157,154,152,108,101
+44,Units in Structure: 20-49,IA,Hamilton,86,150,137,149,174,246,232,271,326,353
+45,Units in Structure: 3-4,IA,Hamilton,289,303,332,310,284,324,228,219,283,245
+46,Units in Structure: 5-9,IA,Hamilton,380,319,351,391,383,304,261,227,227,350
+47,Units in Structure: 50+,IA,Hamilton,32,16,15,15,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Hamilton,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Hamilton,150,209,186,145,112,144,126,177,191,206
+40,Units in Structure: 1 ATTACHED,IA,Hancock,93,71,40,33,49,53,56,67,69,48
+41,Units in Structure: 1 DETACHED,IA,Hancock,4450,4598,4604,4530,4548,4548,4529,4546,4639,4718
+42,Units in Structure: 10-19,IA,Hancock,117,86,90,76,11,42,32,32,32,81
+43,Units in Structure: 2,IA,Hancock,92,58,87,87,87,51,39,29,2,0
+44,Units in Structure: 20-49,IA,Hancock,57,47,46,62,90,110,129,154,137,116
+45,Units in Structure: 3-4,IA,Hancock,99,87,82,138,128,126,139,157,115,105
+46,Units in Structure: 5-9,IA,Hancock,90,110,152,125,131,154,159,140,131,114
+47,Units in Structure: 50+,IA,Hancock,45,22,18,21,0,0,16,23,27,42
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Hancock,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Hancock,291,257,214,233,259,204,204,189,159,109
+40,Units in Structure: 1 ATTACHED,IA,Hardin,46,44,63,98,103,82,95,86,67,79
+41,Units in Structure: 1 DETACHED,IA,Hardin,6959,7023,6892,6821,6786,6755,6701,6782,6776,6801
+42,Units in Structure: 10-19,IA,Hardin,70,52,56,70,68,62,65,74,70,72
+43,Units in Structure: 2,IA,Hardin,308,268,315,296,297,254,247,234,232,210
+44,Units in Structure: 20-49,IA,Hardin,174,162,150,183,131,81,108,139,116,137
+45,Units in Structure: 3-4,IA,Hardin,381,379,423,383,435,494,473,429,397,402
+46,Units in Structure: 5-9,IA,Hardin,196,161,199,189,179,217,260,196,242,247
+47,Units in Structure: 50+,IA,Hardin,13,22,24,27,26,16,4,4,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Hardin,0,0,0,0,0,0,0,5,5,5
+49,Units in Structure: Mobile Home,IA,Hardin,143,128,114,137,176,219,214,250,267,223
+40,Units in Structure: 1 ATTACHED,IA,Harrison,101,103,120,154,107,87,70,64,23,46
+41,Units in Structure: 1 DETACHED,IA,Harrison,5712,5700,5570,5573,5653,5658,5746,5839,5862,5862
+42,Units in Structure: 10-19,IA,Harrison,50,50,75,57,50,44,50,27,30,39
+43,Units in Structure: 2,IA,Harrison,113,96,116,93,108,112,105,99,107,104
+44,Units in Structure: 20-49,IA,Harrison,150,131,143,119,95,72,76,69,78,89
+45,Units in Structure: 3-4,IA,Harrison,238,234,185,219,246,245,202,247,263,192
+46,Units in Structure: 5-9,IA,Harrison,44,67,78,66,97,105,117,109,117,104
+47,Units in Structure: 50+,IA,Harrison,54,43,61,61,62,87,75,52,82,71
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Harrison,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Harrison,298,318,376,385,290,317,290,269,245,314
+40,Units in Structure: 1 ATTACHED,IA,Henry,152,104,66,89,135,137,145,195,200,215
+41,Units in Structure: 1 DETACHED,IA,Henry,6424,6471,6406,6501,6507,6414,6337,6407,6345,6391
+42,Units in Structure: 10-19,IA,Henry,116,107,147,154,141,190,188,144,146,159
+43,Units in Structure: 2,IA,Henry,481,391,372,310,299,267,317,338,322,309
+44,Units in Structure: 20-49,IA,Henry,140,156,159,107,119,93,120,94,126,137
+45,Units in Structure: 3-4,IA,Henry,247,336,368,429,413,507,493,561,576,582
+46,Units in Structure: 5-9,IA,Henry,215,237,234,228,200,155,153,136,141,114
+47,Units in Structure: 50+,IA,Henry,18,18,8,8,10,6,6,8,17,16
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Henry,0,0,0,0,0,0,0,6,7,10
+49,Units in Structure: Mobile Home,IA,Henry,515,463,537,443,450,482,507,439,472,440
+40,Units in Structure: 1 ATTACHED,IA,Howard,31,31,44,53,61,64,67,68,50,58
+41,Units in Structure: 1 DETACHED,IA,Howard,3853,3842,3837,3825,3812,3773,3743,3793,3743,3879
+42,Units in Structure: 10-19,IA,Howard,49,71,47,43,62,71,80,70,83,63
+43,Units in Structure: 2,IA,Howard,93,86,118,112,106,91,87,73,63,49
+44,Units in Structure: 20-49,IA,Howard,19,43,45,39,39,36,27,21,13,18
+45,Units in Structure: 3-4,IA,Howard,96,81,76,82,127,157,159,177,282,151
+46,Units in Structure: 5-9,IA,Howard,51,70,70,70,71,69,75,52,15,13
+47,Units in Structure: 50+,IA,Howard,0,0,0,0,0,0,0,0,0,2
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Howard,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Howard,190,154,130,136,95,105,118,112,123,131
+40,Units in Structure: 1 ATTACHED,IA,Humboldt,77,55,87,91,87,42,25,4,4,2
+41,Units in Structure: 1 DETACHED,IA,Humboldt,3930,3927,3925,3936,3852,3902,3998,4004,4014,4038
+42,Units in Structure: 10-19,IA,Humboldt,93,118,98,79,113,147,133,132,116,76
+43,Units in Structure: 2,IA,Humboldt,89,114,88,86,65,60,55,67,63,71
+44,Units in Structure: 20-49,IA,Humboldt,61,38,44,44,67,53,46,43,51,42
+45,Units in Structure: 3-4,IA,Humboldt,239,233,201,185,214,180,191,207,219,265
+46,Units in Structure: 5-9,IA,Humboldt,130,126,168,155,151,167,153,127,130,128
+47,Units in Structure: 50+,IA,Humboldt,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Humboldt,3,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Humboldt,70,67,82,97,123,120,97,139,132,122
+40,Units in Structure: 1 ATTACHED,IA,Ida,8,10,20,20,19,33,27,24,42,47
+41,Units in Structure: 1 DETACHED,IA,Ida,3031,2973,2940,2849,2852,2856,2897,2882,2932,2947
+42,Units in Structure: 10-19,IA,Ida,48,39,35,26,66,60,55,41,39,10
+43,Units in Structure: 2,IA,Ida,76,86,82,141,113,101,110,91,46,49
+44,Units in Structure: 20-49,IA,Ida,6,16,39,38,55,63,74,61,68,92
+45,Units in Structure: 3-4,IA,Ida,126,135,118,139,123,116,109,141,107,98
+46,Units in Structure: 5-9,IA,Ida,93,104,116,142,117,95,98,118,110,100
+47,Units in Structure: 50+,IA,Ida,15,14,14,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Ida,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Ida,55,49,70,66,71,86,49,70,87,103
+40,Units in Structure: 1 ATTACHED,IA,Iowa,121,97,159,186,179,178,187,102,100,175
+41,Units in Structure: 1 DETACHED,IA,Iowa,5837,6039,5911,5833,5839,5693,5618,5734,5835,5820
+42,Units in Structure: 10-19,IA,Iowa,104,101,119,101,118,102,119,98,148,102
+43,Units in Structure: 2,IA,Iowa,154,136,194,291,333,385,401,365,294,203
+44,Units in Structure: 20-49,IA,Iowa,86,74,69,31,47,56,47,49,54,53
+45,Units in Structure: 3-4,IA,Iowa,311,291,268,229,235,279,254,206,197,232
+46,Units in Structure: 5-9,IA,Iowa,124,149,173,261,218,214,297,361,320,315
+47,Units in Structure: 50+,IA,Iowa,42,67,56,36,40,54,44,79,69,73
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Iowa,0,0,0,18,13,9,7,8,0,0
+49,Units in Structure: Mobile Home,IA,Iowa,399,264,275,258,226,285,305,291,302,376
+40,Units in Structure: 1 ATTACHED,IA,Jackson,77,74,90,94,70,102,83,64,80,112
+41,Units in Structure: 1 DETACHED,IA,Jackson,7556,7658,7599,7555,7480,7449,7345,7577,7618,7620
+42,Units in Structure: 10-19,IA,Jackson,85,91,56,62,69,37,45,61,43,85
+43,Units in Structure: 2,IA,Jackson,233,246,242,266,262,307,268,253,238,229
+44,Units in Structure: 20-49,IA,Jackson,172,138,162,161,164,135,167,115,99,92
+45,Units in Structure: 3-4,IA,Jackson,264,286,304,311,418,419,452,433,423,309
+46,Units in Structure: 5-9,IA,Jackson,318,321,342,263,246,259,239,196,175,168
+47,Units in Structure: 50+,IA,Jackson,10,0,0,0,25,37,38,37,51,41
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Jackson,0,0,0,0,0,0,0,0,3,3
+49,Units in Structure: Mobile Home,IA,Jackson,669,587,605,684,700,684,804,766,788,891
+40,Units in Structure: 1 ATTACHED,IA,Jasper,338,327,270,342,366,375,440,383,381,399
+41,Units in Structure: 1 DETACHED,IA,Jasper,12501,12527,12247,12282,12602,12644,12672,12778,12857,12953
+42,Units in Structure: 10-19,IA,Jasper,624,711,729,721,624,620,522,529,511,559
+43,Units in Structure: 2,IA,Jasper,310,324,377,274,208,248,303,243,203,163
+44,Units in Structure: 20-49,IA,Jasper,250,172,234,308,269,344,372,372,337,325
+45,Units in Structure: 3-4,IA,Jasper,840,732,791,743,669,529,496,548,542,610
+46,Units in Structure: 5-9,IA,Jasper,357,401,521,435,399,387,321,249,283,266
+47,Units in Structure: 50+,IA,Jasper,263,298,264,234,220,262,247,339,353,350
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Jasper,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Jasper,677,692,746,816,799,749,774,786,797,673
+40,Units in Structure: 1 ATTACHED,IA,Jefferson,103,92,82,51,27,69,69,76,129,156
+41,Units in Structure: 1 DETACHED,IA,Jefferson,5545,5649,5601,5560,5275,5275,5356,5559,5441,5510
+42,Units in Structure: 10-19,IA,Jefferson,59,48,74,58,46,52,61,53,59,107
+43,Units in Structure: 2,IA,Jefferson,308,254,203,193,199,226,227,226,239,235
+44,Units in Structure: 20-49,IA,Jefferson,241,187,159,163,162,174,212,297,317,274
+45,Units in Structure: 3-4,IA,Jefferson,370,408,559,584,637,606,593,454,381,451
+46,Units in Structure: 5-9,IA,Jefferson,144,123,101,133,222,267,273,248,217,166
+47,Units in Structure: 50+,IA,Jefferson,89,95,45,38,23,22,15,16,4,3
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Jefferson,11,11,16,41,21,16,11,12,0,0
+49,Units in Structure: Mobile Home,IA,Jefferson,732,739,755,747,958,850,737,664,827,738
+40,Units in Structure: 1 ATTACHED,IA,Johnson,5307,5526,5842,5867,6272,6487,6547,6917,7129,7062
+41,Units in Structure: 1 DETACHED,IA,Johnson,26987,27239,27560,27779,28269,28356,29217,29856,30508,30839
+42,Units in Structure: 10-19,IA,Johnson,6563,6948,6962,7069,7215,7162,7412,7807,7366,8030
+43,Units in Structure: 2,IA,Johnson,1663,1653,1505,1556,1256,1567,1584,1689,1657,1860
+44,Units in Structure: 20-49,IA,Johnson,3275,3076,3278,3316,3316,3350,3470,3191,3635,3560
+45,Units in Structure: 3-4,IA,Johnson,2324,2205,2298,2325,2413,2478,2722,2612,2342,2268
+46,Units in Structure: 5-9,IA,Johnson,4836,4786,4368,4465,4077,3887,4292,4415,4634,4969
+47,Units in Structure: 50+,IA,Johnson,1027,1002,999,921,1237,1437,1497,1596,1946,2129
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Johnson,0,0,0,0,18,20,27,37,36,15
+49,Units in Structure: Mobile Home,IA,Johnson,2912,3073,3233,3245,3207,3253,2783,2832,3027,2891
+40,Units in Structure: 1 ATTACHED,IA,Jones,132,138,147,138,136,209,208,251,225,225
+41,Units in Structure: 1 DETACHED,IA,Jones,7188,7240,7303,7103,6998,7107,7102,7171,7232,7265
+42,Units in Structure: 10-19,IA,Jones,106,67,74,110,120,112,189,115,156,158
+43,Units in Structure: 2,IA,Jones,257,243,274,345,336,300,262,225,203,218
+44,Units in Structure: 20-49,IA,Jones,83,90,100,138,181,127,129,123,139,113
+45,Units in Structure: 3-4,IA,Jones,324,343,316,269,288,291,309,332,302,284
+46,Units in Structure: 5-9,IA,Jones,143,153,94,165,161,137,118,117,103,125
+47,Units in Structure: 50+,IA,Jones,0,29,48,57,56,52,13,20,15,30
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Jones,9,9,12,4,3,4,4,4,0,0
+49,Units in Structure: Mobile Home,IA,Jones,564,565,507,547,622,563,571,598,592,567
+40,Units in Structure: 1 ATTACHED,IA,Keokuk,27,26,40,41,26,31,35,16,24,28
+41,Units in Structure: 1 DETACHED,IA,Keokuk,4309,4221,4221,4209,4294,4275,4249,4349,4318,4298
+42,Units in Structure: 10-19,IA,Keokuk,15,17,19,15,14,28,33,46,45,41
+43,Units in Structure: 2,IA,Keokuk,64,71,63,62,71,94,115,116,111,85
+44,Units in Structure: 20-49,IA,Keokuk,3,4,10,19,18,17,48,43,31,28
+45,Units in Structure: 3-4,IA,Keokuk,203,225,235,213,180,174,148,117,151,173
+46,Units in Structure: 5-9,IA,Keokuk,51,52,58,97,68,74,72,64,50,62
+47,Units in Structure: 50+,IA,Keokuk,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Keokuk,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Keokuk,299,328,297,255,230,206,191,141,150,168
+40,Units in Structure: 1 ATTACHED,IA,Kossuth,132,85,89,81,77,87,122,97,100,117
+41,Units in Structure: 1 DETACHED,IA,Kossuth,6532,6624,6572,6523,6548,6532,6491,6453,6427,6377
+42,Units in Structure: 10-19,IA,Kossuth,55,43,22,70,61,79,82,77,64,81
+43,Units in Structure: 2,IA,Kossuth,58,50,54,86,84,90,97,101,97,121
+44,Units in Structure: 20-49,IA,Kossuth,75,70,63,78,62,96,107,95,143,213
+45,Units in Structure: 3-4,IA,Kossuth,169,170,161,193,227,194,204,180,140,121
+46,Units in Structure: 5-9,IA,Kossuth,334,305,361,342,345,322,291,341,378,323
+47,Units in Structure: 50+,IA,Kossuth,45,59,79,31,46,49,34,95,97,84
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Kossuth,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Kossuth,105,97,80,76,45,34,57,69,60,71
+40,Units in Structure: 1 ATTACHED,IA,Lee,180,189,227,290,287,284,314,321,281,303
+41,Units in Structure: 1 DETACHED,IA,Lee,12502,12188,12444,12509,12530,12606,12562,12500,12502,12551
+42,Units in Structure: 10-19,IA,Lee,118,119,99,102,107,108,134,206,274,273
+43,Units in Structure: 2,IA,Lee,512,509,438,387,446,370,351,380,414,374
+44,Units in Structure: 20-49,IA,Lee,213,214,262,281,330,315,379,378,387,502
+45,Units in Structure: 3-4,IA,Lee,864,812,738,684,634,736,746,746,796,761
+46,Units in Structure: 5-9,IA,Lee,363,370,295,309,363,305,369,393,348,287
+47,Units in Structure: 50+,IA,Lee,510,597,446,430,429,456,407,374,333,288
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Lee,19,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Lee,1057,1257,1313,1224,1095,1037,927,948,920,885
+40,Units in Structure: 1 ATTACHED,IA,Linn,3368,3632,3712,4003,4384,4638,4589,4937,4880,4965
+41,Units in Structure: 1 DETACHED,IA,Linn,61132,61780,61781,62198,62852,63187,63333,64499,65131,65616
+42,Units in Structure: 10-19,IA,Linn,6243,6335,6280,6438,6552,6685,6538,6477,6102,6344
+43,Units in Structure: 2,IA,Linn,2118,2026,1896,1870,1840,1575,1557,1512,1328,1452
+44,Units in Structure: 20-49,IA,Linn,3351,3361,3526,3837,3574,3646,3691,3532,3275,3217
+45,Units in Structure: 3-4,IA,Linn,4282,4305,4519,4043,4015,3960,4349,4028,4531,4514
+46,Units in Structure: 5-9,IA,Linn,4590,4648,4861,4667,4689,4532,4541,4333,4817,4772
+47,Units in Structure: 50+,IA,Linn,1787,1775,1709,1744,1673,1808,1827,1919,2072,2273
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Linn,0,0,0,0,17,18,24,41,51,20
+49,Units in Structure: Mobile Home,IA,Linn,4280,3952,4091,4048,3878,4009,4289,4428,4286,4099
+40,Units in Structure: 1 ATTACHED,IA,Louisa,48,68,64,47,24,36,28,31,31,37
+41,Units in Structure: 1 DETACHED,IA,Louisa,3946,3939,3939,3991,4087,4119,4016,4063,3975,3928
+42,Units in Structure: 10-19,IA,Louisa,23,20,9,43,43,44,44,46,21,21
+43,Units in Structure: 2,IA,Louisa,73,73,93,56,88,108,129,108,147,138
+44,Units in Structure: 20-49,IA,Louisa,2,2,1,1,2,2,3,10,16,21
+45,Units in Structure: 3-4,IA,Louisa,134,137,133,135,161,114,129,156,157,161
+46,Units in Structure: 5-9,IA,Louisa,84,85,100,117,127,104,80,62,75,116
+47,Units in Structure: 50+,IA,Louisa,0,0,13,13,10,11,13,3,2,3
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Louisa,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Louisa,706,682,662,591,477,478,566,553,617,627
+40,Units in Structure: 1 ATTACHED,IA,Lucas,10,2,0,20,39,39,44,51,39,33
+41,Units in Structure: 1 DETACHED,IA,Lucas,3432,3411,3418,3531,3505,3572,3557,3552,3545,3562
+42,Units in Structure: 10-19,IA,Lucas,14,25,37,14,15,23,20,21,48,47
+43,Units in Structure: 2,IA,Lucas,129,144,151,118,128,134,85,48,39,24
+44,Units in Structure: 20-49,IA,Lucas,63,92,86,87,83,88,85,108,98,113
+45,Units in Structure: 3-4,IA,Lucas,84,88,60,33,19,29,32,57,59,65
+46,Units in Structure: 5-9,IA,Lucas,82,82,41,26,43,46,62,57,65,49
+47,Units in Structure: 50+,IA,Lucas,107,93,93,107,113,112,125,129,123,142
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Lucas,5,4,0,0,0,0,0,0,0,1
+49,Units in Structure: Mobile Home,IA,Lucas,331,302,339,289,280,165,209,196,200,178
+40,Units in Structure: 1 ATTACHED,IA,Lyon,55,42,38,44,51,29,25,37,27,22
+41,Units in Structure: 1 DETACHED,IA,Lyon,4388,4406,4397,4464,4458,4496,4502,4560,4516,4605
+42,Units in Structure: 10-19,IA,Lyon,40,48,61,35,55,62,64,42,79,52
+43,Units in Structure: 2,IA,Lyon,43,41,45,20,32,42,62,62,67,56
+44,Units in Structure: 20-49,IA,Lyon,5,8,21,35,54,48,63,69,82,68
+45,Units in Structure: 3-4,IA,Lyon,50,56,41,54,57,67,69,38,42,40
+46,Units in Structure: 5-9,IA,Lyon,62,47,49,42,37,47,49,44,44,34
+47,Units in Structure: 50+,IA,Lyon,66,93,77,83,71,68,38,38,45,27
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Lyon,0,0,0,0,4,4,3,1,1,0
+49,Units in Structure: Mobile Home,IA,Lyon,117,103,129,102,85,61,63,99,113,135
+40,Units in Structure: 1 ATTACHED,IA,Madison,227,232,212,200,160,146,80,74,113,196
+41,Units in Structure: 1 DETACHED,IA,Madison,5289,5365,5363,5416,5508,5565,5653,5736,5877,5947
+42,Units in Structure: 10-19,IA,Madison,50,53,52,59,64,21,8,12,15,21
+43,Units in Structure: 2,IA,Madison,121,162,207,162,192,190,204,220,214,174
+44,Units in Structure: 20-49,IA,Madison,92,85,80,125,82,106,60,92,48,93
+45,Units in Structure: 3-4,IA,Madison,257,224,193,194,152,161,135,156,156,131
+46,Units in Structure: 5-9,IA,Madison,150,142,169,158,158,141,149,120,72,86
+47,Units in Structure: 50+,IA,Madison,0,0,15,15,18,18,63,45,39,41
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Madison,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Madison,305,274,275,256,284,319,327,356,349,291
+40,Units in Structure: 1 ATTACHED,IA,Mahaska,143,140,94,92,82,87,68,74,39,30
+41,Units in Structure: 1 DETACHED,IA,Mahaska,7679,7753,7817,7743,7697,7702,7654,7716,7849,7854
+42,Units in Structure: 10-19,IA,Mahaska,116,137,120,204,149,139,188,183,96,142
+43,Units in Structure: 2,IA,Mahaska,257,301,228,280,262,287,251,274,202,244
+44,Units in Structure: 20-49,IA,Mahaska,219,231,293,242,229,218,189,163,172,155
+45,Units in Structure: 3-4,IA,Mahaska,409,403,319,369,368,296,451,496,458,545
+46,Units in Structure: 5-9,IA,Mahaska,168,162,204,205,345,406,373,355,351,222
+47,Units in Structure: 50+,IA,Mahaska,61,62,71,77,94,92,89,88,88,70
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Mahaska,27,7,5,5,4,6,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Mahaska,695,569,608,522,505,526,522,490,584,607
+40,Units in Structure: 1 ATTACHED,IA,Marion,319,328,371,342,336,277,312,302,327,285
+41,Units in Structure: 1 DETACHED,IA,Marion,10781,11029,11111,10961,11055,11144,10939,10879,10812,11006
+42,Units in Structure: 10-19,IA,Marion,411,370,319,387,380,365,483,508,582,576
+43,Units in Structure: 2,IA,Marion,366,351,306,374,348,379,363,396,361,360
+44,Units in Structure: 20-49,IA,Marion,271,229,215,285,252,231,250,295,284,310
+45,Units in Structure: 3-4,IA,Marion,240,223,299,291,327,334,336,316,342,357
+46,Units in Structure: 5-9,IA,Marion,490,405,386,442,450,466,520,546,548,462
+47,Units in Structure: 50+,IA,Marion,172,188,193,154,141,182,199,203,191,228
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Marion,0,0,0,0,0,0,0,0,1,2
+49,Units in Structure: Mobile Home,IA,Marion,812,756,713,688,660,608,595,665,719,650
+40,Units in Structure: 1 ATTACHED,IA,Marshall,218,220,272,254,231,237,259,296,296,347
+41,Units in Structure: 1 DETACHED,IA,Marshall,13234,13282,13170,13004,13081,12862,12821,12747,13049,12765
+42,Units in Structure: 10-19,IA,Marshall,327,366,309,314,348,358,326,415,387,487
+43,Units in Structure: 2,IA,Marshall,425,417,555,529,382,480,539,471,459,476
+44,Units in Structure: 20-49,IA,Marshall,434,345,331,429,418,437,410,465,398,399
+45,Units in Structure: 3-4,IA,Marshall,840,922,939,944,1016,952,926,971,959,969
+46,Units in Structure: 5-9,IA,Marshall,562,498,416,422,451,555,537,512,520,526
+47,Units in Structure: 50+,IA,Marshall,254,258,265,239,245,250,302,284,210,299
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Marshall,6,9,11,15,17,1,0,0,0,16
+49,Units in Structure: Mobile Home,IA,Marshall,545,534,584,642,590,604,609,590,488,509
+40,Units in Structure: 1 ATTACHED,IA,Mills,104,94,105,108,93,72,154,112,136,137
+41,Units in Structure: 1 DETACHED,IA,Mills,5086,5131,5093,5061,5118,5112,5008,5244,5264,5292
+42,Units in Structure: 10-19,IA,Mills,146,111,118,108,107,108,137,150,127,95
+43,Units in Structure: 2,IA,Mills,81,81,66,84,78,76,56,64,30,46
+44,Units in Structure: 20-49,IA,Mills,26,29,33,29,28,22,29,20,15,28
+45,Units in Structure: 3-4,IA,Mills,130,134,144,191,168,147,170,128,130,188
+46,Units in Structure: 5-9,IA,Mills,142,131,153,137,168,212,187,131,164,102
+47,Units in Structure: 50+,IA,Mills,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Mills,8,9,9,11,9,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Mills,351,372,360,368,338,333,346,291,269,245
+40,Units in Structure: 1 ATTACHED,IA,Mitchell,102,93,127,138,149,110,91,81,58,101
+41,Units in Structure: 1 DETACHED,IA,Mitchell,4288,4353,4403,4328,4286,4346,4388,4357,4406,4332
+42,Units in Structure: 10-19,IA,Mitchell,3,3,16,17,13,15,17,5,5,6
+43,Units in Structure: 2,IA,Mitchell,85,115,87,143,162,185,160,156,129,166
+44,Units in Structure: 20-49,IA,Mitchell,43,40,37,53,66,54,57,93,119,127
+45,Units in Structure: 3-4,IA,Mitchell,133,74,49,47,59,49,56,67,62,47
+46,Units in Structure: 5-9,IA,Mitchell,58,75,51,57,53,48,40,44,44,55
+47,Units in Structure: 50+,IA,Mitchell,0,0,0,0,0,0,0,0,0,26
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Mitchell,0,0,0,3,3,3,3,3,0,0
+49,Units in Structure: Mobile Home,IA,Mitchell,101,81,82,76,85,87,105,130,123,114
+40,Units in Structure: 1 ATTACHED,IA,Monona,30,29,37,35,7,12,25,22,23,24
+41,Units in Structure: 1 DETACHED,IA,Monona,3889,3937,3899,3876,3937,3996,4007,4053,4054,4039
+42,Units in Structure: 10-19,IA,Monona,56,62,64,84,82,66,65,51,46,39
+43,Units in Structure: 2,IA,Monona,96,68,55,53,29,21,69,67,69,73
+44,Units in Structure: 20-49,IA,Monona,51,54,76,73,106,85,82,56,53,55
+45,Units in Structure: 3-4,IA,Monona,108,97,106,109,149,156,143,150,108,108
+46,Units in Structure: 5-9,IA,Monona,103,125,137,134,106,84,88,106,138,124
+47,Units in Structure: 50+,IA,Monona,97,66,73,79,52,75,80,103,95,104
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Monona,7,2,2,2,2,5,3,4,4,4
+49,Units in Structure: Mobile Home,IA,Monona,271,266,263,252,244,219,153,130,129,152
+40,Units in Structure: 1 ATTACHED,IA,Monroe,43,59,52,49,39,39,47,22,22,27
+41,Units in Structure: 1 DETACHED,IA,Monroe,3053,3062,3037,3004,3031,3033,2969,3040,3031,2985
+42,Units in Structure: 10-19,IA,Monroe,0,0,24,13,11,11,18,0,0,0
+43,Units in Structure: 2,IA,Monroe,59,71,57,64,103,91,61,64,128,189
+44,Units in Structure: 20-49,IA,Monroe,34,32,42,88,61,61,86,83,37,81
+45,Units in Structure: 3-4,IA,Monroe,80,57,26,20,27,49,104,136,121,124
+46,Units in Structure: 5-9,IA,Monroe,109,68,74,96,114,30,55,53,33,28
+47,Units in Structure: 50+,IA,Monroe,0,0,0,23,7,23,11,57,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Monroe,16,15,11,9,11,9,13,11,14,13
+49,Units in Structure: Mobile Home,IA,Monroe,437,489,546,504,497,550,545,490,590,564
+40,Units in Structure: 1 ATTACHED,IA,Montgomery,17,10,25,25,36,72,72,77,72,60
+41,Units in Structure: 1 DETACHED,IA,Montgomery,4454,4474,4432,4342,4332,4329,4294,4318,4384,4348
+42,Units in Structure: 10-19,IA,Montgomery,109,75,81,47,50,48,71,49,49,40
+43,Units in Structure: 2,IA,Montgomery,152,130,55,106,118,163,160,177,153,220
+44,Units in Structure: 20-49,IA,Montgomery,34,60,78,81,90,67,50,40,34,42
+45,Units in Structure: 3-4,IA,Montgomery,222,227,251,256,239,224,271,291,300,299
+46,Units in Structure: 5-9,IA,Montgomery,151,129,168,194,160,120,127,101,87,127
+47,Units in Structure: 50+,IA,Montgomery,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Montgomery,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Montgomery,136,147,162,172,192,184,158,178,151,97
+40,Units in Structure: 1 ATTACHED,IA,Muscatine,266,263,254,255,332,387,367,457,459,384
+41,Units in Structure: 1 DETACHED,IA,Muscatine,13603,13517,13528,13617,13471,13313,13563,13382,13339,13535
+42,Units in Structure: 10-19,IA,Muscatine,565,675,612,685,731,737,648,819,762,656
+43,Units in Structure: 2,IA,Muscatine,566,674,747,646,647,640,495,398,519,470
+44,Units in Structure: 20-49,IA,Muscatine,144,212,187,218,313,314,241,258,187,107
+45,Units in Structure: 3-4,IA,Muscatine,744,640,622,662,668,642,562,638,518,614
+46,Units in Structure: 5-9,IA,Muscatine,346,384,373,338,338,417,624,757,855,800
+47,Units in Structure: 50+,IA,Muscatine,198,187,218,214,206,249,253,217,223,343
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Muscatine,2,3,3,3,3,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Muscatine,1415,1340,1383,1254,1215,1256,1213,1125,1235,1250
+40,Units in Structure: 1 ATTACHED,IA,O'Brien,166,166,154,142,156,206,191,235,209,134
+41,Units in Structure: 1 DETACHED,IA,O'Brien,5584,5548,5457,5255,5327,5334,5384,5390,5512,5491
+42,Units in Structure: 10-19,IA,O'Brien,216,164,180,162,163,139,125,137,116,127
+43,Units in Structure: 2,IA,O'Brien,99,138,186,261,183,197,158,104,66,88
+44,Units in Structure: 20-49,IA,O'Brien,114,77,100,144,177,115,109,72,52,101
+45,Units in Structure: 3-4,IA,O'Brien,86,90,97,154,149,163,222,248,199,210
+46,Units in Structure: 5-9,IA,O'Brien,115,115,126,155,119,142,192,195,221,318
+47,Units in Structure: 50+,IA,O'Brien,142,218,186,203,153,179,127,139,167,134
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,O'Brien,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,O'Brien,116,141,148,148,208,157,139,141,134,87
+40,Units in Structure: 1 ATTACHED,IA,Osceola,26,36,41,26,32,32,17,19,31,27
+41,Units in Structure: 1 DETACHED,IA,Osceola,2751,2768,2751,2766,2763,2738,2679,2682,2646,2626
+42,Units in Structure: 10-19,IA,Osceola,30,19,13,21,34,28,30,31,39,40
+43,Units in Structure: 2,IA,Osceola,8,7,13,17,14,13,15,12,5,17
+44,Units in Structure: 20-49,IA,Osceola,15,17,17,17,19,16,18,12,11,4
+45,Units in Structure: 3-4,IA,Osceola,91,70,72,65,49,50,81,109,126,123
+46,Units in Structure: 5-9,IA,Osceola,22,22,26,28,45,67,86,77,71,83
+47,Units in Structure: 50+,IA,Osceola,3,2,4,0,0,0,3,4,6,6
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Osceola,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Osceola,51,52,47,32,28,30,33,37,29,30
+40,Units in Structure: 1 ATTACHED,IA,Page,47,27,25,32,38,93,100,78,108,148
+41,Units in Structure: 1 DETACHED,IA,Page,6094,6185,6224,6178,6128,5983,5833,5869,5844,5759
+42,Units in Structure: 10-19,IA,Page,108,108,106,170,149,137,201,220,168,153
+43,Units in Structure: 2,IA,Page,109,106,86,121,117,123,107,121,93,162
+44,Units in Structure: 20-49,IA,Page,166,172,181,78,78,92,103,134,164,168
+45,Units in Structure: 3-4,IA,Page,210,117,166,180,215,274,304,279,320,309
+46,Units in Structure: 5-9,IA,Page,172,201,153,165,163,160,149,140,154,148
+47,Units in Structure: 50+,IA,Page,191,151,126,106,105,146,179,177,181,170
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Page,0,0,0,0,0,0,0,0,2,2
+49,Units in Structure: Mobile Home,IA,Page,103,116,119,152,181,177,197,188,180,171
+40,Units in Structure: 1 ATTACHED,IA,Palo Alto,17,19,23,30,31,17,9,10,13,5
+41,Units in Structure: 1 DETACHED,IA,Palo Alto,3842,3930,3978,3929,3845,3808,3815,3825,3815,3813
+42,Units in Structure: 10-19,IA,Palo Alto,149,111,126,84,61,100,82,58,99,132
+43,Units in Structure: 2,IA,Palo Alto,81,75,76,69,84,63,87,87,71,71
+44,Units in Structure: 20-49,IA,Palo Alto,57,57,70,103,138,166,165,196,179,161
+45,Units in Structure: 3-4,IA,Palo Alto,223,174,141,148,160,153,165,178,204,194
+46,Units in Structure: 5-9,IA,Palo Alto,161,137,136,145,177,158,181,172,180,178
+47,Units in Structure: 50+,IA,Palo Alto,3,4,3,3,9,8,10,9,9,4
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Palo Alto,0,0,0,14,13,13,14,14,0,0
+49,Units in Structure: Mobile Home,IA,Palo Alto,113,136,80,88,104,125,90,68,50,38
+40,Units in Structure: 1 ATTACHED,IA,Plymouth,195,195,256,244,217,251,239,172,237,246
+41,Units in Structure: 1 DETACHED,IA,Plymouth,8777,8717,8906,9038,9141,9069,9177,9272,9203,9128
+42,Units in Structure: 10-19,IA,Plymouth,42,39,25,34,88,71,96,114,141,132
+43,Units in Structure: 2,IA,Plymouth,125,118,89,69,82,145,145,189,267,259
+44,Units in Structure: 20-49,IA,Plymouth,350,378,290,260,178,182,138,134,152,184
+45,Units in Structure: 3-4,IA,Plymouth,350,329,283,312,209,170,170,187,143,183
+46,Units in Structure: 5-9,IA,Plymouth,215,281,212,239,217,223,182,199,179,261
+47,Units in Structure: 50+,IA,Plymouth,60,32,91,84,110,127,142,71,60,35
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Plymouth,0,5,5,5,7,6,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Plymouth,403,427,396,287,333,380,368,396,386,406
+40,Units in Structure: 1 ATTACHED,IA,Pocahontas,34,26,24,29,30,28,20,34,21,16
+41,Units in Structure: 1 DETACHED,IA,Pocahontas,3480,3431,3426,3450,3452,3405,3427,3410,3421,3340
+42,Units in Structure: 10-19,IA,Pocahontas,12,19,17,23,18,18,17,18,10,5
+43,Units in Structure: 2,IA,Pocahontas,61,62,59,21,27,15,15,27,34,41
+44,Units in Structure: 20-49,IA,Pocahontas,36,44,41,39,28,43,34,35,36,29
+45,Units in Structure: 3-4,IA,Pocahontas,80,90,82,75,81,90,92,86,119,115
+46,Units in Structure: 5-9,IA,Pocahontas,97,98,110,107,108,104,114,84,83,111
+47,Units in Structure: 50+,IA,Pocahontas,0,0,0,5,4,4,2,3,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Pocahontas,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Pocahontas,47,48,49,45,43,56,44,61,43,70
+40,Units in Structure: 1 ATTACHED,IA,Polk,13665,14002,14085,14294,14006,14004,14149,15017,15261,15679
+41,Units in Structure: 1 DETACHED,IA,Polk,117514,118412,121084,122278,122942,123208,124531,125348,127320,129009
+42,Units in Structure: 10-19,IA,Polk,9730,9466,9073,9148,9581,10313,10165,10319,10281,10512
+43,Units in Structure: 2,IA,Polk,3322,3035,3170,3045,3119,3361,3216,3198,3367,3339
+44,Units in Structure: 20-49,IA,Polk,12767,12966,12498,12683,13290,13758,14313,15664,16267,16810
+45,Units in Structure: 3-4,IA,Polk,3694,3867,3708,3971,4143,4345,3964,3906,4008,3800
+46,Units in Structure: 5-9,IA,Polk,7985,8064,7651,7334,7666,8140,8120,7684,7744,7896
+47,Units in Structure: 50+,IA,Polk,6715,7094,7137,7512,7931,7970,8154,8636,8824,9354
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Polk,43,16,22,20,9,12,30,30,66,76
+49,Units in Structure: Mobile Home,IA,Polk,4742,4582,4601,4280,4251,4209,4063,4185,4110,4118
+40,Units in Structure: 1 ATTACHED,IA,Pottawattamie,830,862,800,857,827,837,846,901,883,833
+41,Units in Structure: 1 DETACHED,IA,Pottawattamie,29312,29234,29171,29645,29701,29874,29987,30018,29907,29679
+42,Units in Structure: 10-19,IA,Pottawattamie,1680,1709,1577,1466,1458,1384,1343,1377,1366,1526
+43,Units in Structure: 2,IA,Pottawattamie,997,932,991,895,921,917,1030,978,954,916
+44,Units in Structure: 20-49,IA,Pottawattamie,1050,1127,1336,1298,1300,1268,1217,1038,899,900
+45,Units in Structure: 3-4,IA,Pottawattamie,1015,1142,1201,1112,1029,982,873,927,1083,1216
+46,Units in Structure: 5-9,IA,Pottawattamie,1936,1731,1629,1479,1482,1575,1704,1889,1965,1886
+47,Units in Structure: 50+,IA,Pottawattamie,996,1052,1100,1123,1237,1332,1292,1360,1375,1261
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Pottawattamie,10,23,15,14,17,25,0,0,35,43
+49,Units in Structure: Mobile Home,IA,Pottawattamie,1320,1463,1530,1497,1492,1338,1245,1358,1458,1676
+40,Units in Structure: 1 ATTACHED,IA,Poweshiek,204,204,148,166,162,187,177,174,196,230
+41,Units in Structure: 1 DETACHED,IA,Poweshiek,6929,6978,7089,7071,7109,7180,7156,7149,6990,6923
+42,Units in Structure: 10-19,IA,Poweshiek,297,290,264,204,252,183,156,204,237,210
+43,Units in Structure: 2,IA,Poweshiek,230,237,225,222,222,255,354,363,407,434
+44,Units in Structure: 20-49,IA,Poweshiek,185,203,155,165,129,153,115,147,201,208
+45,Units in Structure: 3-4,IA,Poweshiek,363,401,425,473,520,436,413,349,363,373
+46,Units in Structure: 5-9,IA,Poweshiek,226,194,212,209,197,183,181,254,282,308
+47,Units in Structure: 50+,IA,Poweshiek,80,99,67,70,63,69,53,47,50,43
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Poweshiek,0,0,0,8,9,10,10,17,10,9
+49,Units in Structure: Mobile Home,IA,Poweshiek,437,339,355,357,291,312,382,361,369,396
+40,Units in Structure: 1 ATTACHED,IA,Ringgold,5,11,7,12,12,22,14,24,17,35
+41,Units in Structure: 1 DETACHED,IA,Ringgold,2229,2170,2231,2211,2236,2263,2225,2256,2288,2281
+42,Units in Structure: 10-19,IA,Ringgold,26,20,22,21,30,29,30,22,28,22
+43,Units in Structure: 2,IA,Ringgold,18,24,26,27,13,11,10,11,9,24
+44,Units in Structure: 20-49,IA,Ringgold,27,32,22,13,13,4,7,7,11,7
+45,Units in Structure: 3-4,IA,Ringgold,62,63,45,38,56,49,64,62,58,44
+46,Units in Structure: 5-9,IA,Ringgold,46,57,55,49,43,47,50,62,41,49
+47,Units in Structure: 50+,IA,Ringgold,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Ringgold,0,0,0,0,0,0,0,0,0,2
+49,Units in Structure: Mobile Home,IA,Ringgold,253,258,225,225,209,177,198,169,167,150
+40,Units in Structure: 1 ATTACHED,IA,Sac,65,53,48,41,39,32,55,64,63,69
+41,Units in Structure: 1 DETACHED,IA,Sac,4808,4777,4789,4825,4835,4866,4824,4884,4876,4872
+42,Units in Structure: 10-19,IA,Sac,5,16,22,25,23,20,19,12,13,13
+43,Units in Structure: 2,IA,Sac,71,73,76,69,69,54,59,64,63,63
+44,Units in Structure: 20-49,IA,Sac,102,99,111,76,79,63,87,66,62,44
+45,Units in Structure: 3-4,IA,Sac,194,223,203,206,186,196,176,189,158,140
+46,Units in Structure: 5-9,IA,Sac,91,89,73,67,68,61,78,61,70,63
+47,Units in Structure: 50+,IA,Sac,6,5,3,3,9,6,5,5,5,5
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Sac,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Sac,114,102,111,99,116,111,93,69,92,126
+40,Units in Structure: 1 ATTACHED,IA,Scott,3650,3361,3269,2885,2976,2688,2813,3125,3331,3686
+41,Units in Structure: 1 DETACHED,IA,Scott,48244,48977,49103,49237,49643,50315,50652,51367,51376,51228
+42,Units in Structure: 10-19,IA,Scott,4173,4340,4230,4394,4207,4228,3921,4214,3941,3984
+43,Units in Structure: 2,IA,Scott,2801,2736,2798,2838,2549,2420,2338,2320,2578,2461
+44,Units in Structure: 20-49,IA,Scott,2206,2194,2311,2294,2247,2343,2225,2021,2131,2382
+45,Units in Structure: 3-4,IA,Scott,2729,2425,2362,2526,2484,2513,2888,2730,3064,3124
+46,Units in Structure: 5-9,IA,Scott,3527,3874,4163,4044,4337,4266,4057,3883,3701,3696
+47,Units in Structure: 50+,IA,Scott,1474,1421,1477,1764,1889,2056,2231,2120,1909,2029
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Scott,16,0,0,11,10,9,8,8,7,9
+49,Units in Structure: Mobile Home,IA,Scott,2186,2187,2136,2134,2145,1962,1931,1716,1831,1633
+40,Units in Structure: 1 ATTACHED,IA,Shelby,63,49,47,37,55,62,96,110,111,113
+41,Units in Structure: 1 DETACHED,IA,Shelby,4711,4775,4751,4742,4816,4906,4877,4912,4900,4931
+42,Units in Structure: 10-19,IA,Shelby,50,50,28,31,40,12,15,15,15,16
+43,Units in Structure: 2,IA,Shelby,115,98,91,66,67,42,21,19,42,29
+44,Units in Structure: 20-49,IA,Shelby,51,55,54,50,44,40,31,39,36,47
+45,Units in Structure: 3-4,IA,Shelby,152,138,181,201,200,173,208,229,191,213
+46,Units in Structure: 5-9,IA,Shelby,166,136,143,132,117,128,119,95,167,94
+47,Units in Structure: 50+,IA,Shelby,105,119,108,131,101,91,73,75,54,86
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Shelby,3,3,2,4,4,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Shelby,96,102,126,155,106,99,117,77,66,51
+40,Units in Structure: 1 ATTACHED,IA,Sioux,510,496,515,438,453,485,439,520,444,465
+41,Units in Structure: 1 DETACHED,IA,Sioux,10066,10118,10125,10227,10225,10205,10465,10580,10573,10680
+42,Units in Structure: 10-19,IA,Sioux,237,269,189,193,321,343,307,290,301,198
+43,Units in Structure: 2,IA,Sioux,188,212,202,219,232,185,109,139,140,121
+44,Units in Structure: 20-49,IA,Sioux,184,189,167,182,165,172,131,131,215,265
+45,Units in Structure: 3-4,IA,Sioux,371,373,431,453,385,420,473,433,537,551
+46,Units in Structure: 5-9,IA,Sioux,161,160,226,179,190,206,198,170,161,172
+47,Units in Structure: 50+,IA,Sioux,86,69,41,30,26,28,27,23,15,23
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Sioux,6,9,8,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Sioux,313,326,367,414,431,460,425,427,430,453
+40,Units in Structure: 1 ATTACHED,IA,Story,1696,1700,1712,2020,2148,2213,2136,2085,2243,2338
+41,Units in Structure: 1 DETACHED,IA,Story,18940,18967,19322,19612,19434,19548,19924,20006,20264,20936
+42,Units in Structure: 10-19,IA,Story,3513,3463,3254,3118,3339,3249,3777,3954,4203,4185
+43,Units in Structure: 2,IA,Story,1572,1667,1548,1405,1494,1561,1517,1664,1645,1497
+44,Units in Structure: 20-49,IA,Story,3759,3859,4175,4280,4372,4559,4606,4411,4104,3885
+45,Units in Structure: 3-4,IA,Story,1389,1525,1668,1570,1501,1508,1370,1482,1518,1516
+46,Units in Structure: 5-9,IA,Story,2565,2650,2428,2418,2485,2552,2515,2585,2547,2406
+47,Units in Structure: 50+,IA,Story,920,968,965,973,1048,984,899,1148,1393,1684
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Story,0,0,0,24,26,29,28,24,4,5
+49,Units in Structure: Mobile Home,IA,Story,1677,1645,1669,1556,1503,1485,1396,1424,1469,1510
+40,Units in Structure: 1 ATTACHED,IA,Tama,60,51,56,84,103,93,82,84,68,34
+41,Units in Structure: 1 DETACHED,IA,Tama,6718,6695,6645,6644,6765,6687,6744,6748,6742,6689
+42,Units in Structure: 10-19,IA,Tama,94,68,77,59,59,71,85,83,96,123
+43,Units in Structure: 2,IA,Tama,111,114,134,124,148,114,120,154,205,210
+44,Units in Structure: 20-49,IA,Tama,96,89,73,85,58,53,52,48,24,49
+45,Units in Structure: 3-4,IA,Tama,241,214,230,220,169,192,174,159,159,157
+46,Units in Structure: 5-9,IA,Tama,136,154,181,167,149,179,176,146,186,190
+47,Units in Structure: 50+,IA,Tama,0,4,4,4,4,4,0,7,4,8
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Tama,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Tama,301,377,369,369,322,352,301,342,308,334
+40,Units in Structure: 1 ATTACHED,IA,Taylor,22,26,34,62,39,42,40,32,10,18
+41,Units in Structure: 1 DETACHED,IA,Taylor,2788,2734,2683,2658,2634,2624,2640,2671,2664,2647
+42,Units in Structure: 10-19,IA,Taylor,3,13,16,15,17,11,0,0,4,5
+43,Units in Structure: 2,IA,Taylor,49,62,52,37,31,31,17,19,15,36
+44,Units in Structure: 20-49,IA,Taylor,38,37,54,60,71,68,68,65,49,43
+45,Units in Structure: 3-4,IA,Taylor,92,71,74,72,76,91,106,114,118,141
+46,Units in Structure: 5-9,IA,Taylor,11,10,22,23,34,33,44,30,46,30
+47,Units in Structure: 50+,IA,Taylor,0,11,11,12,11,13,0,0,9,10
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Taylor,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Taylor,136,157,157,166,182,173,174,173,189,175
+40,Units in Structure: 1 ATTACHED,IA,Union,28,35,53,33,39,24,32,45,62,96
+41,Units in Structure: 1 DETACHED,IA,Union,4676,4690,4728,4845,4889,4757,4671,4558,4500,4476
+42,Units in Structure: 10-19,IA,Union,138,159,110,168,155,152,166,187,128,225
+43,Units in Structure: 2,IA,Union,195,190,176,115,48,85,79,117,139,164
+44,Units in Structure: 20-49,IA,Union,145,145,158,141,202,185,211,182,178,125
+45,Units in Structure: 3-4,IA,Union,261,232,253,197,173,210,257,287,343,373
+46,Units in Structure: 5-9,IA,Union,69,80,74,60,74,95,125,150,201,157
+47,Units in Structure: 50+,IA,Union,46,38,32,30,45,44,41,65,73,54
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Union,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Union,350,356,346,333,292,358,337,347,294,272
+40,Units in Structure: 1 ATTACHED,IA,Van Buren,17,20,8,25,23,29,36,41,36,30
+41,Units in Structure: 1 DETACHED,IA,Van Buren,3053,3079,3088,3117,3083,3063,3074,3032,3053,3046
+42,Units in Structure: 10-19,IA,Van Buren,0,0,2,11,12,14,16,21,16,20
+43,Units in Structure: 2,IA,Van Buren,42,35,30,21,32,36,35,29,29,39
+44,Units in Structure: 20-49,IA,Van Buren,16,16,22,23,16,11,10,6,6,13
+45,Units in Structure: 3-4,IA,Van Buren,201,177,167,155,131,131,130,160,156,152
+46,Units in Structure: 5-9,IA,Van Buren,13,18,21,8,16,17,17,11,17,12
+47,Units in Structure: 50+,IA,Van Buren,0,5,6,4,5,6,3,3,2,3
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Van Buren,0,0,4,4,5,5,4,3,2,2
+49,Units in Structure: Mobile Home,IA,Van Buren,337,320,310,284,322,327,330,342,338,329
+40,Units in Structure: 1 ATTACHED,IA,Wapello,189,156,202,165,148,119,181,158,155,161
+41,Units in Structure: 1 DETACHED,IA,Wapello,12607,12607,12637,12510,12534,12692,12675,12587,12697,12764
+42,Units in Structure: 10-19,IA,Wapello,202,165,144,180,180,251,303,331,288,315
+43,Units in Structure: 2,IA,Wapello,446,468,396,481,469,575,535,496,426,406
+44,Units in Structure: 20-49,IA,Wapello,267,291,288,364,407,370,411,379,359,306
+45,Units in Structure: 3-4,IA,Wapello,488,509,502,451,413,325,333,402,467,464
+46,Units in Structure: 5-9,IA,Wapello,456,478,427,474,522,498,547,606,540,502
+47,Units in Structure: 50+,IA,Wapello,371,373,386,363,311,282,246,266,308,328
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Wapello,0,0,0,0,0,0,0,17,18,17
+49,Units in Structure: Mobile Home,IA,Wapello,1108,1051,1103,1065,1079,905,795,834,808,807
+40,Units in Structure: 1 ATTACHED,IA,Warren,727,825,826,873,971,1119,1055,1051,1123,1095
+41,Units in Structure: 1 DETACHED,IA,Warren,13738,14083,14141,14260,14359,14558,14661,14825,14933,15265
+42,Units in Structure: 10-19,IA,Warren,704,698,814,782,845,726,708,644,767,717
+43,Units in Structure: 2,IA,Warren,181,139,113,117,130,101,115,127,121,163
+44,Units in Structure: 20-49,IA,Warren,603,592,570,520,533,584,651,806,759,763
+45,Units in Structure: 3-4,IA,Warren,374,324,378,416,336,382,437,392,344,438
+46,Units in Structure: 5-9,IA,Warren,514,474,515,491,516,470,454,551,648,554
+47,Units in Structure: 50+,IA,Warren,161,180,187,204,230,233,230,265,232,251
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Warren,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Warren,929,900,841,896,828,778,792,765,789,758
+40,Units in Structure: 1 ATTACHED,IA,Washington,156,145,171,176,173,175,223,237,265,252
+41,Units in Structure: 1 DETACHED,IA,Washington,7487,7463,7362,7478,7373,7428,7459,7464,7490,7692
+42,Units in Structure: 10-19,IA,Washington,191,257,325,336,320,341,324,292,251,245
+43,Units in Structure: 2,IA,Washington,196,237,260,234,305,304,273,243,236,256
+44,Units in Structure: 20-49,IA,Washington,175,188,201,177,153,141,159,215,190,200
+45,Units in Structure: 3-4,IA,Washington,443,424,430,423,446,399,364,405,374,349
+46,Units in Structure: 5-9,IA,Washington,158,151,130,114,151,146,163,200,251,214
+47,Units in Structure: 50+,IA,Washington,33,52,68,61,37,43,24,23,41,45
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Washington,13,14,13,14,13,0,0,0,21,23
+49,Units in Structure: Mobile Home,IA,Washington,520,533,519,478,539,552,568,550,567,466
+40,Units in Structure: 1 ATTACHED,IA,Wayne,29,17,19,14,26,19,14,25,39,30
+41,Units in Structure: 1 DETACHED,IA,Wayne,2633,2635,2626,2688,2699,2775,2727,2738,2728,2722
+42,Units in Structure: 10-19,IA,Wayne,7,15,18,19,11,11,2,0,0,0
+43,Units in Structure: 2,IA,Wayne,85,67,76,65,50,65,83,74,86,95
+44,Units in Structure: 20-49,IA,Wayne,0,0,0,0,3,2,3,6,5,4
+45,Units in Structure: 3-4,IA,Wayne,125,114,94,89,89,86,107,100,98,94
+46,Units in Structure: 5-9,IA,Wayne,37,45,46,45,37,27,19,17,12,13
+47,Units in Structure: 50+,IA,Wayne,0,0,0,3,3,3,3,3,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Wayne,3,3,3,2,5,5,5,5,5,0
+49,Units in Structure: Mobile Home,IA,Wayne,340,328,322,274,262,203,210,221,220,256
+40,Units in Structure: 1 ATTACHED,IA,Webster,286,456,475,522,501,485,318,265,309,282
+41,Units in Structure: 1 DETACHED,IA,Webster,12976,12623,12601,12756,13015,13234,13425,13474,13373,13356
+42,Units in Structure: 10-19,IA,Webster,380,493,425,378,424,369,331,371,378,351
+43,Units in Structure: 2,IA,Webster,745,846,860,766,687,560,461,348,307,329
+44,Units in Structure: 20-49,IA,Webster,552,491,457,350,279,268,259,402,424,517
+45,Units in Structure: 3-4,IA,Webster,930,1006,983,887,764,639,621,670,784,757
+46,Units in Structure: 5-9,IA,Webster,387,368,460,563,661,781,854,798,722,638
+47,Units in Structure: 50+,IA,Webster,221,168,170,202,198,175,238,234,243,256
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Webster,0,0,0,12,14,15,14,12,0,22
+49,Units in Structure: Mobile Home,IA,Webster,620,631,608,559,492,480,482,457,504,514
+40,Units in Structure: 1 ATTACHED,IA,Winnebago,94,71,52,52,78,77,97,105,129,82
+41,Units in Structure: 1 DETACHED,IA,Winnebago,4076,4052,4174,4229,4284,4279,4308,4308,4252,4368
+42,Units in Structure: 10-19,IA,Winnebago,127,130,126,125,124,89,72,44,32,27
+43,Units in Structure: 2,IA,Winnebago,147,161,135,145,121,134,128,114,106,98
+44,Units in Structure: 20-49,IA,Winnebago,144,174,169,163,134,115,58,83,90,126
+45,Units in Structure: 3-4,IA,Winnebago,185,171,137,111,105,166,261,272,246,240
+46,Units in Structure: 5-9,IA,Winnebago,240,225,192,189,219,215,184,226,275,200
+47,Units in Structure: 50+,IA,Winnebago,57,64,68,60,52,43,37,4,47,42
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Winnebago,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Winnebago,121,150,136,97,65,61,30,32,24,17
+40,Units in Structure: 1 ATTACHED,IA,Winneshiek,137,124,121,144,122,113,125,129,139,142
+41,Units in Structure: 1 DETACHED,IA,Winneshiek,7064,7151,7195,7177,7381,7362,7430,7493,7561,7501
+42,Units in Structure: 10-19,IA,Winneshiek,126,118,151,170,153,129,135,90,94,107
+43,Units in Structure: 2,IA,Winneshiek,237,259,332,277,273,338,284,213,223,238
+44,Units in Structure: 20-49,IA,Winneshiek,137,106,117,139,120,163,168,165,124,150
+45,Units in Structure: 3-4,IA,Winneshiek,335,334,232,256,280,262,241,333,285,309
+46,Units in Structure: 5-9,IA,Winneshiek,313,283,279,254,232,191,175,139,145,147
+47,Units in Structure: 50+,IA,Winneshiek,18,23,18,19,17,18,26,52,69,69
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Winneshiek,4,0,3,4,3,3,3,0,0,0
+49,Units in Structure: Mobile Home,IA,Winneshiek,309,308,278,281,176,198,235,256,287,313
+40,Units in Structure: 1 ATTACHED,IA,Woodbury,874,899,936,998,1134,1366,1426,1407,1349,1268
+41,Units in Structure: 1 DETACHED,IA,Woodbury,30882,30625,30853,30886,30707,30772,30885,31144,30802,31094
+42,Units in Structure: 10-19,IA,Woodbury,955,1223,1301,1283,1407,1390,1128,1218,1244,1226
+43,Units in Structure: 2,IA,Woodbury,1597,1409,1185,1222,1338,1240,1224,1295,1441,1472
+44,Units in Structure: 20-49,IA,Woodbury,1300,1375,1473,1558,1530,1646,1488,1584,1612,1729
+45,Units in Structure: 3-4,IA,Woodbury,1509,1419,1265,1406,1414,1401,1540,1496,1511,1431
+46,Units in Structure: 5-9,IA,Woodbury,1383,1595,1372,1374,1326,1248,1440,1433,1567,1387
+47,Units in Structure: 50+,IA,Woodbury,1111,1125,1158,1055,1098,1136,1044,1022,1103,1098
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Woodbury,0,0,0,0,7,8,38,33,38,43
+49,Units in Structure: Mobile Home,IA,Woodbury,2005,1860,1914,1665,1502,1281,1395,1283,1428,1512
+40,Units in Structure: 1 ATTACHED,IA,Worth,49,40,34,56,51,32,28,29,26,15
+41,Units in Structure: 1 DETACHED,IA,Worth,3037,3064,3120,3121,3096,3036,3123,3144,3106,3148
+42,Units in Structure: 10-19,IA,Worth,16,25,11,24,30,30,21,22,15,23
+43,Units in Structure: 2,IA,Worth,84,69,70,27,46,52,54,58,84,49
+44,Units in Structure: 20-49,IA,Worth,28,26,25,11,10,16,10,15,23,19
+45,Units in Structure: 3-4,IA,Worth,99,104,117,109,119,126,107,81,81,115
+46,Units in Structure: 5-9,IA,Worth,92,72,64,78,80,123,116,120,136,112
+47,Units in Structure: 50+,IA,Worth,14,0,0,1,1,1,1,2,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Worth,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Worth,135,143,105,114,104,108,62,68,46,43
+40,Units in Structure: 1 ATTACHED,IA,Wright,135,109,69,56,52,60,57,65,52,56
+41,Units in Structure: 1 DETACHED,IA,Wright,5430,5462,5508,5437,5387,5352,5447,5539,5599,5541
+42,Units in Structure: 10-19,IA,Wright,49,86,90,95,105,99,62,59,68,57
+43,Units in Structure: 2,IA,Wright,151,105,124,121,104,107,121,114,102,149
+44,Units in Structure: 20-49,IA,Wright,90,128,109,134,150,126,95,103,74,103
+45,Units in Structure: 3-4,IA,Wright,342,255,266,275,245,268,277,199,202,288
+46,Units in Structure: 5-9,IA,Wright,148,201,207,276,281,330,283,254,221,171
+47,Units in Structure: 50+,IA,Wright,138,101,74,40,53,48,76,69,78,84
+48,"Units in Structure: Boat,RV,Van,Etc.",IA,Wright,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IA,Wright,61,88,90,83,126,120,85,102,119,65

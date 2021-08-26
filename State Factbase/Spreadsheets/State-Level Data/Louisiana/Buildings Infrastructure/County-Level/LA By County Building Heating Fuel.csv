@@ -1,0 +1,326 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,LA,Acadia,12704,12885,13364,14066,14785,14900,15280,15550,15300,15431
+4,House Heating Fuel: Fuel Oil,LA,Acadia,11,0,0,41,38,26,24,30,0,0
+5,House Heating Fuel: Gas,LA,Acadia,8185,8166,7696,7449,7080,6772,6557,6380,6624,6131
+6,House Heating Fuel: Propane,LA,Acadia,860,813,855,713,637,628,612,581,537,570
+7,House Heating Fuel: Wood,LA,Acadia,127,106,115,80,63,93,78,44,52,59
+3,House Heating Fuel: Electric,LA,Allen,4799,4751,4870,4953,5172,5225,5446,5551,5463,5335
+4,House Heating Fuel: Fuel Oil,LA,Allen,5,6,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Allen,2884,2805,2807,2591,2433,2306,1910,1705,1765,1931
+6,House Heating Fuel: Propane,LA,Allen,525,536,499,422,366,335,295,334,353,295
+7,House Heating Fuel: Wood,LA,Allen,172,149,110,109,111,121,189,205,277,283
+3,House Heating Fuel: Electric,LA,Ascension,21349,22265,22756,23374,24595,24455,24140,25544,26812,26921
+4,House Heating Fuel: Fuel Oil,LA,Ascension,74,21,21,10,7,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Ascension,13653,13696,14037,14413,14256,15071,15889,15599,15054,15284
+6,House Heating Fuel: Propane,LA,Ascension,271,329,336,253,282,280,236,297,389,415
+7,House Heating Fuel: Wood,LA,Ascension,134,153,115,149,194,161,179,207,186,178
+3,House Heating Fuel: Electric,LA,Assumption,5370,5681,5756,5481,5459,5570,5746,5983,6452,6256
+4,House Heating Fuel: Fuel Oil,LA,Assumption,0,0,0,0,0,0,7,10,12,9
+5,House Heating Fuel: Gas,LA,Assumption,2860,2685,2702,2835,3042,2875,2713,2481,2125,2039
+6,House Heating Fuel: Propane,LA,Assumption,181,172,132,133,100,114,108,116,133,150
+7,House Heating Fuel: Wood,LA,Assumption,22,24,20,84,74,77,90,82,35,48
+3,House Heating Fuel: Electric,LA,Avoyelles,6807,6799,7132,7041,7302,7291,7523,7603,7869,7755
+4,House Heating Fuel: Fuel Oil,LA,Avoyelles,38,26,27,12,0,0,0,0,12,14
+5,House Heating Fuel: Gas,LA,Avoyelles,7709,7843,7366,7076,6668,6495,6406,6329,6299,6447
+6,House Heating Fuel: Propane,LA,Avoyelles,744,758,728,831,801,855,846,767,644,613
+7,House Heating Fuel: Wood,LA,Avoyelles,408,318,266,293,255,224,203,187,218,292
+3,House Heating Fuel: Electric,LA,Beauregard,8680,8668,9068,9122,9217,9321,9382,9517,9523,9975
+4,House Heating Fuel: Fuel Oil,LA,Beauregard,18,15,4,0,0,0,0,0,57,45
+5,House Heating Fuel: Gas,LA,Beauregard,2444,2499,2345,2233,2252,2292,2173,2248,2218,2088
+6,House Heating Fuel: Propane,LA,Beauregard,1090,1157,1147,1166,1168,1153,1118,1100,885,861
+7,House Heating Fuel: Wood,LA,Beauregard,519,483,363,396,390,307,361,394,390,448
+3,House Heating Fuel: Electric,LA,Bienville,2777,2712,2775,2922,2995,3098,3199,3409,3389,3356
+4,House Heating Fuel: Fuel Oil,LA,Bienville,25,26,28,26,22,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Bienville,1938,1928,2014,2009,2110,2021,1865,1800,1905,1915
+6,House Heating Fuel: Propane,LA,Bienville,692,632,576,486,509,440,503,461,432,362
+7,House Heating Fuel: Wood,LA,Bienville,229,246,251,207,241,246,171,160,156,167
+3,House Heating Fuel: Electric,LA,Bossier,21519,22180,22951,24388,24775,25961,26408,27088,27505,28060
+4,House Heating Fuel: Fuel Oil,LA,Bossier,16,16,0,0,90,98,100,113,96,0
+5,House Heating Fuel: Gas,LA,Bossier,20108,20208,20448,20125,20411,20080,19920,19892,20281,20254
+6,House Heating Fuel: Propane,LA,Bossier,980,990,926,890,650,682,688,565,635,709
+7,House Heating Fuel: Wood,LA,Bossier,405,395,362,225,204,176,207,274,242,192
+3,House Heating Fuel: Electric,LA,Caddo,44097,45595,46480,48557,49476,50177,50140,50709,50593,50923
+4,House Heating Fuel: Fuel Oil,LA,Caddo,43,30,11,12,30,66,61,115,121,108
+5,House Heating Fuel: Gas,LA,Caddo,51293,50943,50315,48531,47367,46347,45889,44896,44026,43276
+6,House Heating Fuel: Propane,LA,Caddo,1300,1087,900,852,916,817,786,906,1024,974
+7,House Heating Fuel: Wood,LA,Caddo,271,285,272,294,343,292,269,296,217,182
+3,House Heating Fuel: Electric,LA,Calcasieu,41173,42535,43800,45735,47139,47972,48856,50973,52608,53365
+4,House Heating Fuel: Fuel Oil,LA,Calcasieu,51,61,39,51,39,47,25,8,0,0
+5,House Heating Fuel: Gas,LA,Calcasieu,27812,27381,26882,26086,25737,25519,25514,24430,22977,22755
+6,House Heating Fuel: Propane,LA,Calcasieu,2168,1718,1728,1482,1390,1283,1303,1146,1106,1126
+7,House Heating Fuel: Wood,LA,Calcasieu,278,224,184,203,210,214,207,229,216,166
+3,House Heating Fuel: Electric,LA,Caldwell,2106,2324,2472,2534,2524,2403,2282,2374,2373,2438
+4,House Heating Fuel: Fuel Oil,LA,Caldwell,0,0,12,45,43,55,62,69,23,19
+5,House Heating Fuel: Gas,LA,Caldwell,873,847,806,783,707,736,671,663,621,563
+6,House Heating Fuel: Propane,LA,Caldwell,413,415,397,341,384,473,464,440,539,515
+7,House Heating Fuel: Wood,LA,Caldwell,242,219,219,179,161,129,131,125,101,118
+3,House Heating Fuel: Electric,LA,Cameron,1761,1803,1864,1943,2017,2012,2057,2097,2153,2155
+4,House Heating Fuel: Fuel Oil,LA,Cameron,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Cameron,546,479,422,447,414,410,403,400,324,380
+6,House Heating Fuel: Propane,LA,Cameron,356,179,187,130,138,162,162,178,226,180
+7,House Heating Fuel: Wood,LA,Cameron,0,0,9,9,8,17,26,6,9,11
+3,House Heating Fuel: Electric,LA,Catahoula,1389,1558,1737,1847,1777,1712,1714,1797,1828,1735
+4,House Heating Fuel: Fuel Oil,LA,Catahoula,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Catahoula,1263,1113,999,907,966,1133,1199,1241,1177,1127
+6,House Heating Fuel: Propane,LA,Catahoula,961,901,862,848,918,814,745,657,507,415
+7,House Heating Fuel: Wood,LA,Catahoula,168,162,125,148,108,69,52,41,78,54
+3,House Heating Fuel: Electric,LA,Claiborne,2195,2292,2411,2659,2703,2720,2793,2741,2769,2639
+4,House Heating Fuel: Fuel Oil,LA,Claiborne,41,19,19,18,11,15,17,3,3,3
+5,House Heating Fuel: Gas,LA,Claiborne,2503,2312,2142,2099,2094,2177,2143,2346,2358,2439
+6,House Heating Fuel: Propane,LA,Claiborne,918,814,733,629,604,670,658,714,602,720
+7,House Heating Fuel: Wood,LA,Claiborne,233,255,296,298,244,219,191,153,133,85
+3,House Heating Fuel: Electric,LA,Concordia,2873,3244,3275,3375,3520,3376,3085,3236,3473,3353
+4,House Heating Fuel: Fuel Oil,LA,Concordia,14,0,0,0,0,0,0,2,2,2
+5,House Heating Fuel: Gas,LA,Concordia,3772,3597,3528,3364,3370,3671,3665,3395,3102,3067
+6,House Heating Fuel: Propane,LA,Concordia,819,775,874,824,739,704,702,699,662,661
+7,House Heating Fuel: Wood,LA,Concordia,80,81,75,64,110,132,116,97,124,79
+3,House Heating Fuel: Electric,LA,De Soto,5377,5661,5954,6127,6153,6550,6553,6426,6658,6868
+4,House Heating Fuel: Fuel Oil,LA,De Soto,16,23,18,18,19,6,1,1,0,0
+5,House Heating Fuel: Gas,LA,De Soto,3344,3269,3125,3108,2969,2858,2913,3088,3009,3104
+6,House Heating Fuel: Propane,LA,De Soto,1149,1060,905,799,806,567,531,511,591,519
+7,House Heating Fuel: Wood,LA,De Soto,194,257,173,200,198,199,187,208,165,230
+3,House Heating Fuel: Electric,LA,East Baton Rouge,101870,104400,107147,107033,108134,108271,108035,107321,106785,105138
+4,House Heating Fuel: Fuel Oil,LA,East Baton Rouge,55,13,40,46,51,43,36,7,8,23
+5,House Heating Fuel: Gas,LA,East Baton Rouge,62653,60912,58484,58718,58554,59121,58814,58139,57420,57371
+6,House Heating Fuel: Propane,LA,East Baton Rouge,937,830,697,768,911,850,893,873,878,843
+7,House Heating Fuel: Wood,LA,East Baton Rouge,551,495,410,305,234,172,128,136,115,129
+3,House Heating Fuel: Electric,LA,East Carroll,699,809,713,832,762,746,957,1016,1002,993
+4,House Heating Fuel: Fuel Oil,LA,East Carroll,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,East Carroll,1284,1302,1302,1296,1519,1547,1324,1193,908,796
+6,House Heating Fuel: Propane,LA,East Carroll,361,350,300,304,267,341,242,174,186,202
+7,House Heating Fuel: Wood,LA,East Carroll,33,37,17,10,12,44,34,34,57,46
+3,House Heating Fuel: Electric,LA,East Feliciana,3813,4212,4130,4557,4515,4602,4544,4592,4772,4976
+4,House Heating Fuel: Fuel Oil,LA,East Feliciana,17,13,14,34,31,16,17,18,0,0
+5,House Heating Fuel: Gas,LA,East Feliciana,1755,1644,1760,1608,1628,1587,1607,1520,1338,1373
+6,House Heating Fuel: Propane,LA,East Feliciana,817,792,699,569,592,577,522,531,482,434
+7,House Heating Fuel: Wood,LA,East Feliciana,236,288,214,179,137,149,102,121,129,130
+3,House Heating Fuel: Electric,LA,Evangeline,7378,7696,7904,7869,8011,7682,7695,7879,7921,8023
+4,House Heating Fuel: Fuel Oil,LA,Evangeline,16,16,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Evangeline,4237,3888,3636,3537,3470,3556,3529,3382,3496,3522
+6,House Heating Fuel: Propane,LA,Evangeline,585,476,428,455,437,594,520,559,428,424
+7,House Heating Fuel: Wood,LA,Evangeline,63,75,83,92,115,86,67,45,108,87
+3,House Heating Fuel: Electric,LA,Franklin,3836,4115,4047,4210,4065,4000,4196,4416,4531,4693
+4,House Heating Fuel: Fuel Oil,LA,Franklin,31,43,26,24,26,13,6,6,8,10
+5,House Heating Fuel: Gas,LA,Franklin,1879,1881,1887,1880,2052,1941,1937,1828,1604,1276
+6,House Heating Fuel: Propane,LA,Franklin,1758,1609,1473,1367,1437,1289,1199,1193,1266,1240
+7,House Heating Fuel: Wood,LA,Franklin,302,281,266,171,107,141,104,129,162,162
+3,House Heating Fuel: Electric,LA,Grant,4217,4180,4377,4523,4799,4955,5199,5396,5135,5140
+4,House Heating Fuel: Fuel Oil,LA,Grant,13,12,11,12,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Grant,2214,2188,2154,1992,1717,1586,1411,1237,1135,1125
+6,House Heating Fuel: Propane,LA,Grant,551,522,523,544,434,372,379,355,410,416
+7,House Heating Fuel: Wood,LA,Grant,379,301,281,231,213,244,274,246,271,256
+3,House Heating Fuel: Electric,LA,Iberia,14354,15126,15396,15621,15882,15570,15628,16181,16319,17260
+4,House Heating Fuel: Fuel Oil,LA,Iberia,0,0,0,0,0,0,0,0,14,14
+5,House Heating Fuel: Gas,LA,Iberia,11266,10800,10673,10419,10211,10388,10220,9875,9383,8506
+6,House Heating Fuel: Propane,LA,Iberia,437,316,291,333,256,255,215,225,209,306
+7,House Heating Fuel: Wood,LA,Iberia,13,24,35,72,59,84,66,61,19,2
+3,House Heating Fuel: Electric,LA,Iberville,5939,6137,6365,6682,6727,6593,6481,6201,6192,6467
+4,House Heating Fuel: Fuel Oil,LA,Iberville,15,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Iberville,4881,4583,4306,4301,4309,4403,4491,4755,4514,4264
+6,House Heating Fuel: Propane,LA,Iberville,198,223,216,159,182,159,151,132,138,97
+7,House Heating Fuel: Wood,LA,Iberville,58,73,72,43,39,24,13,16,19,31
+3,House Heating Fuel: Electric,LA,Jackson,2847,2995,3155,3107,3345,3144,3372,3350,3293,3143
+4,House Heating Fuel: Fuel Oil,LA,Jackson,4,3,10,17,10,8,10,0,0,7
+5,House Heating Fuel: Gas,LA,Jackson,2259,2187,2141,2095,1959,2014,1885,1902,1967,2068
+6,House Heating Fuel: Propane,LA,Jackson,622,617,536,596,637,616,509,520,495,522
+7,House Heating Fuel: Wood,LA,Jackson,220,227,227,268,208,242,267,230,199,210
+3,House Heating Fuel: Electric,LA,Jefferson,86478,88826,91396,92606,92645,92077,92922,91129,90241,90188
+4,House Heating Fuel: Fuel Oil,LA,Jefferson,86,83,37,23,26,23,17,13,40,34
+5,House Heating Fuel: Gas,LA,Jefferson,74552,74994,73771,73169,73489,74363,74472,75612,76542,77486
+6,House Heating Fuel: Propane,LA,Jefferson,1250,963,814,914,1008,996,1093,1265,1295,1096
+7,House Heating Fuel: Wood,LA,Jefferson,152,160,141,134,100,26,24,28,37,36
+3,House Heating Fuel: Electric,LA,Jefferson Davis,6833,7077,7479,7112,7221,7299,7396,7238,7551,7737
+4,House Heating Fuel: Fuel Oil,LA,Jefferson Davis,8,9,12,12,14,9,10,0,0,0
+5,House Heating Fuel: Gas,LA,Jefferson Davis,3964,3949,3641,3782,3719,3857,3719,3659,3543,3610
+6,House Heating Fuel: Propane,LA,Jefferson Davis,815,722,645,621,505,385,317,429,334,308
+7,House Heating Fuel: Wood,LA,Jefferson Davis,96,80,65,42,27,24,41,44,34,38
+3,House Heating Fuel: Electric,LA,Lafayette,57368,58779,60312,61342,63070,65757,66942,67999,70592,71390
+4,House Heating Fuel: Fuel Oil,LA,Lafayette,21,24,42,46,44,29,35,23,9,30
+5,House Heating Fuel: Gas,LA,Lafayette,25391,25013,24352,24076,23557,22132,21118,20435,19041,19145
+6,House Heating Fuel: Propane,LA,Lafayette,752,581,552,504,494,596,609,710,601,600
+7,House Heating Fuel: Wood,LA,Lafayette,64,48,125,203,196,168,172,124,44,47
+3,House Heating Fuel: Electric,LA,Lafourche,19816,20791,21546,21826,22403,22807,23219,23246,23621,24185
+4,House Heating Fuel: Fuel Oil,LA,Lafourche,43,19,5,14,6,6,5,5,0,0
+5,House Heating Fuel: Gas,LA,Lafourche,13714,13268,13006,12785,12495,12336,12277,12395,12422,12274
+6,House Heating Fuel: Propane,LA,Lafourche,358,242,294,254,246,264,246,218,181,170
+7,House Heating Fuel: Wood,LA,Lafourche,104,87,72,123,128,130,129,149,106,105
+3,House Heating Fuel: Electric,LA,La Salle,2754,2942,,,,,,,,
+4,House Heating Fuel: Fuel Oil,LA,La Salle,0,0,,,,,,,,
+5,House Heating Fuel: Gas,LA,La Salle,1718,1769,,,,,,,,
+6,House Heating Fuel: Propane,LA,La Salle,663,647,,,,,,,,
+7,House Heating Fuel: Wood,LA,La Salle,110,189,,,,,,,,
+3,House Heating Fuel: Electric,LA,Lincoln,6707,7340,7645,7941,8381,8483,8537,8572,8427,8700
+4,House Heating Fuel: Fuel Oil,LA,Lincoln,0,0,0,0,0,0,22,35,37,36
+5,House Heating Fuel: Gas,LA,Lincoln,8244,8139,7942,8066,7821,7841,7679,7827,7986,7972
+6,House Heating Fuel: Propane,LA,Lincoln,964,787,700,546,616,599,657,710,785,686
+7,House Heating Fuel: Wood,LA,Lincoln,257,256,216,230,163,137,138,151,225,282
+3,House Heating Fuel: Electric,LA,Livingston,31115,31710,33733,34757,34996,34571,34909,34534,33662,33512
+4,House Heating Fuel: Fuel Oil,LA,Livingston,14,13,15,14,6,3,3,4,3,0
+5,House Heating Fuel: Gas,LA,Livingston,9667,10434,10206,9884,10457,11486,11528,12383,13649,13393
+6,House Heating Fuel: Propane,LA,Livingston,1090,1033,751,812,795,776,856,993,904,877
+7,House Heating Fuel: Wood,LA,Livingston,911,846,664,619,481,546,528,554,534,438
+3,House Heating Fuel: Electric,LA,Madison,1285,1442,1534,1429,1491,1512,1619,1708,1776,1846
+4,House Heating Fuel: Fuel Oil,LA,Madison,45,18,24,24,15,2,6,9,14,22
+5,House Heating Fuel: Gas,LA,Madison,2087,1901,1957,2135,2052,2133,2084,1987,1834,1613
+6,House Heating Fuel: Propane,LA,Madison,513,511,452,427,413,350,313,327,280,335
+7,House Heating Fuel: Wood,LA,Madison,38,66,77,48,49,53,30,18,13,0
+3,House Heating Fuel: Electric,LA,Morehouse,5510,5678,5952,6119,6177,6636,6535,6540,6387,6273
+4,House Heating Fuel: Fuel Oil,LA,Morehouse,26,15,2,1,2,0,43,63,65,75
+5,House Heating Fuel: Gas,LA,Morehouse,3596,3627,3446,3446,3390,3124,3035,2917,2771,2876
+6,House Heating Fuel: Propane,LA,Morehouse,727,555,522,551,547,452,475,374,341,323
+7,House Heating Fuel: Wood,LA,Morehouse,370,351,376,338,216,173,131,143,154,140
+3,House Heating Fuel: Electric,LA,Natchitoches,7533,7831,8189,8121,8152,8571,9018,9887,10727,11041
+4,House Heating Fuel: Fuel Oil,LA,Natchitoches,36,36,26,10,1,2,1,0,22,22
+5,House Heating Fuel: Gas,LA,Natchitoches,5349,5384,5257,5138,4957,4383,3951,3330,2817,2535
+6,House Heating Fuel: Propane,LA,Natchitoches,1621,1500,1368,1332,1179,1142,988,880,692,643
+7,House Heating Fuel: Wood,LA,Natchitoches,262,233,226,256,255,294,374,384,290,332
+3,House Heating Fuel: Electric,LA,Orleans,55012,68478,77285,83341,87793,92028,94316,95210,96268,96703
+4,House Heating Fuel: Fuel Oil,LA,Orleans,105,77,85,56,54,39,21,29,28,31
+5,House Heating Fuel: Gas,LA,Orleans,58905,63540,64765,63284,60854,59457,58808,57805,55871,55139
+6,House Heating Fuel: Propane,LA,Orleans,1734,1321,941,861,818,646,653,655,594,629
+7,House Heating Fuel: Wood,LA,Orleans,76,68,61,46,67,63,52,44,33,25
+3,House Heating Fuel: Electric,LA,Ouachita,34025,34199,34617,35054,35281,35633,35676,36416,36900,36825
+4,House Heating Fuel: Fuel Oil,LA,Ouachita,26,45,13,25,53,60,66,64,80,53
+5,House Heating Fuel: Gas,LA,Ouachita,20587,20672,21096,20982,20987,20526,19620,18770,18250,18283
+6,House Heating Fuel: Propane,LA,Ouachita,1182,1102,1095,1030,952,925,925,889,864,783
+7,House Heating Fuel: Wood,LA,Ouachita,305,316,334,331,335,396,431,462,399,376
+3,House Heating Fuel: Electric,LA,Plaquemines,3947,4310,4927,5172,5483,5639,5661,5677,5659,5723
+4,House Heating Fuel: Fuel Oil,LA,Plaquemines,35,42,23,19,14,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Plaquemines,3426,3529,3352,3294,3145,2839,2859,2935,3004,2991
+6,House Heating Fuel: Propane,LA,Plaquemines,310,303,115,86,55,104,118,142,148,169
+7,House Heating Fuel: Wood,LA,Plaquemines,0,14,42,44,75,32,0,0,0,0
+3,House Heating Fuel: Electric,LA,Pointe Coupee,3166,3634,3786,3970,4096,3977,3962,3912,3927,3958
+4,House Heating Fuel: Fuel Oil,LA,Pointe Coupee,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Pointe Coupee,5387,5002,4887,4636,4579,4459,4486,4469,4636,4589
+6,House Heating Fuel: Propane,LA,Pointe Coupee,222,185,175,137,104,71,104,105,116,107
+7,House Heating Fuel: Wood,LA,Pointe Coupee,69,71,81,66,99,177,175,216,179,178
+3,House Heating Fuel: Electric,LA,Rapides,29234,29602,30616,30985,31721,30994,31094,30657,30628,31474
+4,House Heating Fuel: Fuel Oil,LA,Rapides,46,49,74,7,25,32,32,22,16,0
+5,House Heating Fuel: Gas,LA,Rapides,15868,15017,14061,14261,13716,14323,14737,15281,15298,15044
+6,House Heating Fuel: Propane,LA,Rapides,1990,1873,1774,1680,1516,1444,1400,1172,1152,1221
+7,House Heating Fuel: Wood,LA,Rapides,815,704,675,449,527,607,646,627,619,457
+3,House Heating Fuel: Electric,LA,Red River,1518,1642,1656,1762,1933,1978,2065,1908,1817,1708
+4,House Heating Fuel: Fuel Oil,LA,Red River,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,Red River,949,924,962,868,877,919,933,992,1081,1122
+6,House Heating Fuel: Propane,LA,Red River,484,412,400,471,398,383,371,320,288,396
+7,House Heating Fuel: Wood,LA,Red River,228,157,171,163,135,106,100,132,129,121
+3,House Heating Fuel: Electric,LA,Richland,3496,3553,3736,4013,4066,4146,4245,4321,4326,4745
+4,House Heating Fuel: Fuel Oil,LA,Richland,20,19,28,25,21,19,38,37,53,41
+5,House Heating Fuel: Gas,LA,Richland,2599,2443,2398,2466,2639,2408,2336,2188,2056,1785
+6,House Heating Fuel: Propane,LA,Richland,1082,1038,985,924,770,813,780,792,773,745
+7,House Heating Fuel: Wood,LA,Richland,191,216,241,175,166,192,155,120,127,85
+3,House Heating Fuel: Electric,LA,Sabine,5328,5620,5988,6150,6202,6481,6359,6453,6674,6831
+4,House Heating Fuel: Fuel Oil,LA,Sabine,37,43,14,24,25,23,17,28,14,9
+5,House Heating Fuel: Gas,LA,Sabine,2127,1947,1806,1591,1585,1355,1348,1375,1313,1255
+6,House Heating Fuel: Propane,LA,Sabine,1588,1522,1175,1156,1085,1019,920,956,863,828
+7,House Heating Fuel: Wood,LA,Sabine,330,250,204,223,254,265,306,336,301,218
+3,House Heating Fuel: Electric,LA,St. Bernard,4264,5284,5600,5876,5936,6450,6588,6896,7196,7689
+4,House Heating Fuel: Fuel Oil,LA,St. Bernard,0,0,0,0,0,8,11,13,16,16
+5,House Heating Fuel: Gas,LA,St. Bernard,5226,6162,6915,7407,7701,7729,7804,7565,7494,7031
+6,House Heating Fuel: Propane,LA,St. Bernard,713,687,473,356,339,265,241,248,239,175
+7,House Heating Fuel: Wood,LA,St. Bernard,62,77,65,40,47,45,30,17,9,6
+3,House Heating Fuel: Electric,LA,St. Charles,10609,10559,10199,10518,10745,10700,10902,11056,11007,11420
+4,House Heating Fuel: Fuel Oil,LA,St. Charles,0,0,19,10,19,25,21,9,9,0
+5,House Heating Fuel: Gas,LA,St. Charles,7703,7913,8083,7889,7508,7489,7507,7662,7565,7621
+6,House Heating Fuel: Propane,LA,St. Charles,102,59,67,89,108,118,103,129,112,80
+7,House Heating Fuel: Wood,LA,St. Charles,9,10,9,8,18,38,30,42,39,35
+3,House Heating Fuel: Electric,LA,St. Helena,2510,2694,2736,2920,3058,3051,2903,2946,2732,2716
+4,House Heating Fuel: Fuel Oil,LA,St. Helena,74,100,58,45,10,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,St. Helena,708,498,518,453,428,485,480,377,396,383
+6,House Heating Fuel: Propane,LA,St. Helena,693,745,731,617,567,507,559,571,581,617
+7,House Heating Fuel: Wood,LA,St. Helena,87,105,158,94,89,86,86,93,154,136
+3,House Heating Fuel: Electric,LA,St. James,4177,4360,4425,4467,4785,4717,4653,4701,5053,4897
+4,House Heating Fuel: Fuel Oil,LA,St. James,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,St. James,3263,3210,3265,3294,3113,3227,3264,3142,2817,2795
+6,House Heating Fuel: Propane,LA,St. James,7,6,6,5,9,12,12,13,10,7
+7,House Heating Fuel: Wood,LA,St. James,0,0,0,0,0,0,0,0,0,0
+3,House Heating Fuel: Electric,LA,St. John the Baptist,11522,11516,11504,11427,11559,11375,11787,11891,12057,11831
+4,House Heating Fuel: Fuel Oil,LA,St. John the Baptist,10,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,St. John the Baptist,4009,4043,3969,3795,3694,3799,3442,3406,3286,3361
+6,House Heating Fuel: Propane,LA,St. John the Baptist,80,105,111,140,113,107,91,85,38,46
+7,House Heating Fuel: Wood,LA,St. John the Baptist,22,36,46,16,19,23,15,13,12,12
+3,House Heating Fuel: Electric,LA,St. Landry,16891,17594,18212,18790,18599,18683,18732,18818,18757,19281
+4,House Heating Fuel: Fuel Oil,LA,St. Landry,49,107,126,61,64,30,4,0,0,0
+5,House Heating Fuel: Gas,LA,St. Landry,11710,11319,11177,10871,10803,10900,10732,10647,10524,10384
+6,House Heating Fuel: Propane,LA,St. Landry,1120,1090,955,859,883,791,705,716,647,657
+7,House Heating Fuel: Wood,LA,St. Landry,168,157,157,187,173,168,170,164,100,109
+3,House Heating Fuel: Electric,LA,St. Martin,13708,13661,13874,14206,14431,14825,15291,15703,15851,16296
+4,House Heating Fuel: Fuel Oil,LA,St. Martin,20,27,17,11,15,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,St. Martin,4577,4537,4214,4089,3894,3689,3460,3254,3264,3140
+6,House Heating Fuel: Propane,LA,St. Martin,446,408,481,296,317,320,305,255,280,223
+7,House Heating Fuel: Wood,LA,St. Martin,45,57,49,32,80,130,116,119,107,36
+3,House Heating Fuel: Electric,LA,St. Mary,11083,11451,11946,12160,12319,13077,13726,14069,14085,14884
+4,House Heating Fuel: Fuel Oil,LA,St. Mary,115,44,8,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,St. Mary,8393,8309,7925,7688,7639,7090,6262,5797,5505,4843
+6,House Heating Fuel: Propane,LA,St. Mary,400,326,261,210,191,123,108,102,84,59
+7,House Heating Fuel: Wood,LA,St. Mary,0,0,0,0,0,7,28,26,27,23
+3,House Heating Fuel: Electric,LA,St. Tammany,50943,52250,54044,54554,55099,56882,57743,58383,57998,58493
+4,House Heating Fuel: Fuel Oil,LA,St. Tammany,19,16,0,4,5,5,5,5,0,0
+5,House Heating Fuel: Gas,LA,St. Tammany,30106,30368,30598,29841,29896,29024,29215,29932,30944,31600
+6,House Heating Fuel: Propane,LA,St. Tammany,2992,3085,2624,2455,2240,2401,2262,2238,2249,2090
+7,House Heating Fuel: Wood,LA,St. Tammany,354,492,456,440,496,448,321,327,337,277
+3,House Heating Fuel: Electric,LA,Tangipahoa,30325,31565,31957,32427,32680,33300,33755,34735,35016,35176
+4,House Heating Fuel: Fuel Oil,LA,Tangipahoa,131,101,105,83,183,133,99,56,68,20
+5,House Heating Fuel: Gas,LA,Tangipahoa,9356,9041,9523,9042,9230,9273,9639,10171,10057,10302
+6,House Heating Fuel: Propane,LA,Tangipahoa,2091,2244,2223,2385,2547,2406,2031,2010,1752,1443
+7,House Heating Fuel: Wood,LA,Tangipahoa,542,422,331,335,298,256,426,490,475,501
+3,House Heating Fuel: Electric,LA,Tensas,912,905,883,848,754,737,804,836,853,931
+4,House Heating Fuel: Fuel Oil,LA,Tensas,27,21,19,17,0,0,0,0,0,3
+5,House Heating Fuel: Gas,LA,Tensas,975,1051,1007,948,908,907,814,777,686,627
+6,House Heating Fuel: Propane,LA,Tensas,232,206,171,212,249,250,280,280,243,191
+7,House Heating Fuel: Wood,LA,Tensas,8,12,15,13,12,17,38,30,28,25
+3,House Heating Fuel: Electric,LA,Terrebonne,21019,22543,23046,23562,24737,25675,25272,25919,25704,25559
+4,House Heating Fuel: Fuel Oil,LA,Terrebonne,0,0,0,0,0,0,0,0,17,13
+5,House Heating Fuel: Gas,LA,Terrebonne,16525,16037,15740,15313,14484,13953,14090,13849,13915,14005
+6,House Heating Fuel: Propane,LA,Terrebonne,373,281,287,193,146,182,263,191,169,206
+7,House Heating Fuel: Wood,LA,Terrebonne,39,60,44,44,49,43,23,32,36,40
+3,House Heating Fuel: Electric,LA,Union,4616,4791,4582,4621,5094,5243,4979,4998,4883,4679
+4,House Heating Fuel: Fuel Oil,LA,Union,14,0,0,0,0,0,11,11,11,7
+5,House Heating Fuel: Gas,LA,Union,2436,2293,2414,2524,2396,2191,2183,2106,1979,2029
+6,House Heating Fuel: Propane,LA,Union,868,859,950,983,977,891,773,597,567,618
+7,House Heating Fuel: Wood,LA,Union,322,340,356,351,177,157,216,219,226,202
+3,House Heating Fuel: Electric,LA,Vermilion,14924,15116,15544,15624,15789,15741,15903,16062,15786,16319
+4,House Heating Fuel: Fuel Oil,LA,Vermilion,45,52,105,90,73,74,67,0,0,0
+5,House Heating Fuel: Gas,LA,Vermilion,5928,5748,5508,5253,5052,5242,5079,5016,5162,5057
+6,House Heating Fuel: Propane,LA,Vermilion,876,802,713,653,502,499,392,390,451,441
+7,House Heating Fuel: Wood,LA,Vermilion,6,8,50,58,72,74,95,51,56,60
+3,House Heating Fuel: Electric,LA,Vernon,12900,13221,13603,13848,13974,13998,13979,14162,14071,14246
+4,House Heating Fuel: Fuel Oil,LA,Vernon,71,67,49,49,25,24,20,20,10,8
+5,House Heating Fuel: Gas,LA,Vernon,2957,2828,2748,2623,2572,2476,2469,2470,2616,2414
+6,House Heating Fuel: Propane,LA,Vernon,1702,1475,1331,1264,1199,983,941,913,768,723
+7,House Heating Fuel: Wood,LA,Vernon,293,289,245,264,230,252,235,225,185,154
+3,House Heating Fuel: Electric,LA,Washington,8748,8975,9340,9717,10049,10355,10695,10915,10760,10948
+4,House Heating Fuel: Fuel Oil,LA,Washington,42,28,7,7,7,7,9,0,41,57
+5,House Heating Fuel: Gas,LA,Washington,6258,5891,5748,5668,5454,5193,5126,5020,4988,4956
+6,House Heating Fuel: Propane,LA,Washington,1859,2099,1905,1754,1673,1561,1277,1218,1199,1321
+7,House Heating Fuel: Wood,LA,Washington,293,355,321,309,249,329,267,250,208,215
+3,House Heating Fuel: Electric,LA,Webster,6052,6233,6462,6409,6620,7059,7050,7062,7047,7244
+4,House Heating Fuel: Fuel Oil,LA,Webster,0,0,0,0,0,0,8,9,12,11
+5,House Heating Fuel: Gas,LA,Webster,9349,9126,8921,8727,8459,7987,7990,7957,8312,8398
+6,House Heating Fuel: Propane,LA,Webster,858,800,666,495,480,466,523,684,739,757
+7,House Heating Fuel: Wood,LA,Webster,237,214,260,287,221,223,204,127,116,137
+3,House Heating Fuel: Electric,LA,West Baton Rouge,4494,4845,5193,5329,5309,5258,5268,5063,5169,5345
+4,House Heating Fuel: Fuel Oil,LA,West Baton Rouge,15,11,3,8,12,11,23,7,0,0
+5,House Heating Fuel: Gas,LA,West Baton Rouge,3557,3401,3317,3344,3555,3824,3881,4266,4314,4207
+6,House Heating Fuel: Propane,LA,West Baton Rouge,208,158,103,89,90,65,57,76,94,78
+7,House Heating Fuel: Wood,LA,West Baton Rouge,39,27,26,27,30,0,0,0,0,0
+3,House Heating Fuel: Electric,LA,West Carroll,1601,1653,1788,1734,1886,1739,1951,2012,2085,2351
+4,House Heating Fuel: Fuel Oil,LA,West Carroll,43,45,17,12,12,20,7,9,10,9
+5,House Heating Fuel: Gas,LA,West Carroll,1207,1259,1259,1341,1404,1471,1258,1181,1045,826
+6,House Heating Fuel: Propane,LA,West Carroll,1016,927,908,844,804,921,836,846,783,792
+7,House Heating Fuel: Wood,LA,West Carroll,162,130,134,121,66,89,83,59,56,52
+3,House Heating Fuel: Electric,LA,West Feliciana,2670,2660,2674,2647,2614,2580,2663,2805,2807,2840
+4,House Heating Fuel: Fuel Oil,LA,West Feliciana,14,13,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,LA,West Feliciana,861,928,883,851,848,776,755,767,807,797
+6,House Heating Fuel: Propane,LA,West Feliciana,447,351,357,386,372,388,363,295,254,208
+7,House Heating Fuel: Wood,LA,West Feliciana,124,160,75,115,134,156,84,73,40,24
+3,House Heating Fuel: Electric,LA,Winn,2883,2845,2868,3073,2977,3263,3407,3657,3535,3722
+4,House Heating Fuel: Fuel Oil,LA,Winn,0,0,0,0,0,0,0,0,2,2
+5,House Heating Fuel: Gas,LA,Winn,1603,1678,1755,1545,1590,1404,1320,1189,1386,1301
+6,House Heating Fuel: Propane,LA,Winn,706,589,540,573,614,571,414,308,256,232
+7,House Heating Fuel: Wood,LA,Winn,216,209,234,182,164,248,279,211,239,217
+3,House Heating Fuel: Electric,LA,LaSalle,,,3048,3199,3500,3405,3246,3201,3088,2989
+4,House Heating Fuel: Fuel Oil,LA,LaSalle,,,0,0,25,22,21,19,22,2
+5,House Heating Fuel: Gas,LA,LaSalle,,,1700,1472,1321,1196,1133,1116,1185,1112
+6,House Heating Fuel: Propane,LA,LaSalle,,,752,769,719,759,759,598,600,568
+7,House Heating Fuel: Wood,LA,LaSalle,,,197,163,127,151,144,104,123,124

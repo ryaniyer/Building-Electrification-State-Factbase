@@ -1,0 +1,41 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,NH,Belknap,2.48,2.51,2.45,2.43,2.42,2.45,2.46,2.47,2.48,2.48
+1,Avg household size of renter-occupied unit,NH,Belknap,1.92,2.0,2.05,2.17,2.24,2.32,2.34,2.25,2.21,2.12
+36,Owner-Occupied,NH,Belknap,47602,47720,46743,45746,45255,45171,45546,46023,47098,46990
+37,Renter-Occupied,NH,Belknap,11088,11301,12417,13514,14083,14303,13925,13430,12616,13024
+0,Avg household size of owner-occupied unit,NH,Carroll,2.47,2.37,2.34,2.32,2.26,2.25,2.29,2.25,2.29,2.26
+1,Avg household size of renter-occupied unit,NH,Carroll,1.97,1.97,2.03,1.97,2.04,2.08,2.13,2.07,2.06,2.06
+36,Owner-Occupied,NH,Carroll,39788,39163,38945,39068,38207,37969,37806,37976,38340,38475
+37,Renter-Occupied,NH,Carroll,7613,7917,8140,8003,8851,9017,9054,8983,8930,9108
+0,Avg household size of owner-occupied unit,NH,Cheshire,2.52,2.51,2.5,2.46,2.45,2.45,2.47,2.48,2.5,2.51
+1,Avg household size of renter-occupied unit,NH,Cheshire,2.16,2.12,2.12,2.11,2.1,2.07,2.08,2.03,2.07,2.07
+36,Owner-Occupied,NH,Cheshire,54195,53634,53674,53531,52835,53319,52803,53186,52851,52462
+37,Renter-Occupied,NH,Cheshire,18526,18696,18401,18442,18985,18395,18862,18399,18896,19067
+0,Avg household size of owner-occupied unit,NH,Coos,2.24,2.25,2.24,2.24,2.23,2.21,2.25,2.25,2.26,2.23
+1,Avg household size of renter-occupied unit,NH,Coos,1.94,1.93,1.93,1.93,1.92,1.93,1.98,1.92,1.93,1.93
+36,Owner-Occupied,NH,Coos,23829,23992,23651,23123,22540,21983,22250,22262,21960,21693
+37,Renter-Occupied,NH,Coos,8242,8103,8024,8125,8193,8198,7949,7656,7702,7803
+0,Avg household size of owner-occupied unit,NH,Grafton,2.49,2.48,2.46,2.43,2.44,2.46,2.46,2.5,2.56,2.56
+1,Avg household size of renter-occupied unit,NH,Grafton,2.17,2.14,2.14,2.16,2.16,2.13,2.15,2.08,2.01,2.02
+36,Owner-Occupied,NH,Grafton,60603,59972,59903,58907,58234,58792,58764,59508,61346,61652
+37,Renter-Occupied,NH,Grafton,21719,21981,22281,23455,24341,23693,23606,22986,21721,21461
+0,Avg household size of owner-occupied unit,NH,Hillsborough,2.7,2.71,2.7,2.69,2.69,2.68,2.67,2.65,2.68,2.66
+1,Avg household size of renter-occupied unit,NH,Hillsborough,2.21,2.23,2.25,2.27,2.29,2.28,2.28,2.26,2.25,2.22
+36,Owner-Occupied,NH,Hillsborough,285626,283869,282775,279351,277461,277693,275628,276027,280946,283487
+37,Renter-Occupied,NH,Hillsborough,105045,108599,110433,114491,117086,117891,120794,121862,121786,121488
+0,Avg household size of owner-occupied unit,NH,Merrimack,2.61,2.6,2.6,2.61,2.59,2.6,2.62,2.6,2.62,2.61
+1,Avg household size of renter-occupied unit,NH,Merrimack,2.07,2.08,2.06,2.1,2.14,2.18,2.16,2.14,2.09,2.04
+36,Owner-Occupied,NH,Merrimack,107047,108322,107181,107071,106341,106429,105362,105778,108388,109603
+37,Renter-Occupied,NH,Merrimack,32927,31864,32981,33073,34161,34499,35765,35531,34309,33608
+0,Avg household size of owner-occupied unit,NH,Rockingham,2.71,2.69,2.68,2.67,2.65,2.64,2.65,2.64,2.66,2.65
+1,Avg household size of renter-occupied unit,NH,Rockingham,1.98,2.01,2.05,2.07,2.08,2.07,2.06,2.05,2.06,2.02
+36,Owner-Occupied,NH,Rockingham,243923,242461,239541,238115,237980,239047,240429,242828,245882,249384
+37,Renter-Occupied,NH,Rockingham,48720,50110,53767,56022,57193,57462,57392,57122,56674,54468
+0,Avg household size of owner-occupied unit,NH,Strafford,2.61,2.63,2.62,2.6,2.61,2.62,2.58,2.55,2.59,2.6
+1,Avg household size of renter-occupied unit,NH,Strafford,2.16,2.18,2.16,2.22,2.23,2.21,2.22,2.18,2.19,2.15
+36,Owner-Occupied,NH,Strafford,81709,82827,82096,79939,79921,80221,80239,81321,83344,84191
+37,Renter-Occupied,NH,Strafford,33063,32514,33606,35975,36312,36629,37089,36410,35889,35850
+0,Avg household size of owner-occupied unit,NH,Sullivan,2.48,2.44,2.45,2.48,2.5,2.54,2.5,2.45,2.44,2.49
+1,Avg household size of renter-occupied unit,NH,Sullivan,2.06,2.19,2.18,2.19,2.16,2.14,2.19,2.19,2.25,2.33
+36,Owner-Occupied,NH,Sullivan,33343,32448,32658,32671,33024,32877,32602,32010,31628,31602
+37,Renter-Occupied,NH,Sullivan,9868,10629,10274,10101,9626,9579,9750,10343,10736,10758

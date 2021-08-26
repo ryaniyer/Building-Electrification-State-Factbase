@@ -1,0 +1,537 @@
+,state,fips code,county,sector,pollutant desc,pollutant type(s),total emissions,emissions uom
+3170,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01351808,TON
+12849,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+31315,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6674131999999999,TON
+36404,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.37238540000000003,TON
+58803,CT,9009,New Haven,Commercial Cooking,Volatile Organic Compounds,CAP,57.664253599999995,TON
+60759,CT,9007,Middlesex,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,77.433969297,TON
+60821,CT,9013,Tolland,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,43.3780999,TON
+64883,CT,9009,New Haven,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,572.9280323,TON
+64884,CT,9013,Tolland,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1974.6329051,TON
+67876,CT,9005,Litchfield,Commercial Cooking,Volatile Organic Compounds,CAP,11.24482976,TON
+88051,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.147455,TON
+88396,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,2.580222907,TON
+96668,CT,9011,New London,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,5.85181405,TON
+101299,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,45.430319067919996,TON
+110324,CT,9015,Windham,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.863925,TON
+116839,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,2.68575149,TON
+118165,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02387558,TON
+140898,CT,9011,New London,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,2.35268,TON
+141738,CT,9013,Tolland,Fuel Comb - Residential - Wood,Ammonia,CAP,13.911133180999999,TON
+161446,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,57.4541585,TON
+165432,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,5.96609851,TON
+176837,CT,9007,Middlesex,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,279.00690642,TON
+184421,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.761012,TON
+197863,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+198439,CT,9011,New London,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,60.43306,TON
+210986,CT,9011,New London,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,15.86493,TON
+212971,CT,9005,Litchfield,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,25.32524142,TON
+214825,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,700.4896755,TON
+219120,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,43.8531459015,TON
+228265,CT,9009,New Haven,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,261.018019118,TON
+233083,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,64.68295,TON
+252965,CT,9007,Middlesex,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,182.87678490000002,TON
+254447,CT,9003,Hartford,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,168.0661781,TON
+266981,CT,9009,New Haven,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,78.42779540000001,TON
+282488,CT,9013,Tolland,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.450106,TON
+306870,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,22.85138,TON
+334836,CT,9007,Middlesex,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.16027149999999998,TON
+342517,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.4470018,TON
+359611,CT,9001,Fairfield,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,137.3761,TON
+366680,CT,9011,New London,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,10.22346766,TON
+376170,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,4.21833902,TON
+396183,CT,9011,New London,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,158.7487,TON
+399520,CT,9011,New London,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,8.2778391,TON
+401252,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,7.60189895,TON
+403323,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,62.321940000000005,TON
+409792,CT,9003,Hartford,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,747.6605351,TON
+416423,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.035842,TON
+417605,CT,9001,Fairfield,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,37.77844,TON
+429223,CT,9003,Hartford,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,702.81659918,TON
+433700,CT,9015,Windham,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01415048,TON
+436434,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,27.900376,TON
+441810,CT,9003,Hartford,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,5.04094,TON
+446331,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,2.4220064999999997,TON
+462025,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,2.339279,TON
+468264,CT,9015,Windham,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1708.679136,TON
+474964,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,2.269205,TON
+475826,CT,9013,Tolland,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,10.56307,TON
+479737,CT,9015,Windham,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.2099361,TON
+497054,CT,9013,Tolland,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,6.807475,TON
+508924,CT,9007,Middlesex,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,12.35716,TON
+524703,CT,9007,Middlesex,Commercial Cooking,Carbon Monoxide,CAP,30.048886,TON
+529818,CT,9011,New London,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.3330633,TON
+537723,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,7.19372,TON
+553652,CT,9013,Tolland,Fuel Comb - Residential - Other,Ammonia,CAP,0.1290601,TON
+559486,CT,9011,New London,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,13.716870000000002,TON
+560507,CT,9015,Windham,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,2.757813285,TON
+562355,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,2.3912619999999998,TON
+586494,CT,9001,Fairfield,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,4.253694,TON
+592399,CT,9015,Windham,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.14479229999999998,TON
+610602,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.210038,TON
+651455,CT,9015,Windham,Fuel Comb - Residential - Other,Ammonia,CAP,0.07688972,TON
+657038,CT,9015,Windham,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.7763724808,TON
+665177,CT,9011,New London,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,72.80919,TON
+669396,CT,9009,New Haven,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.38481,TON
+687250,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.13637670000000002,TON
+688999,CT,9003,Hartford,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,408.80110099999996,TON
+692720,CT,9005,Litchfield,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.3560683,TON
+708039,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+713149,CT,9003,Hartford,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,336.0626,TON
+722239,CT,9001,Fairfield,Fuel Comb - Residential - Other,Ammonia,CAP,0.37858070000000005,TON
+736710,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,203.4716774,TON
+738419,CT,9011,New London,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,102.698925,TON
+748915,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+755770,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,3.24983156,TON
+802908,CT,9015,Windham,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+804309,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.1750305,TON
+808039,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02344698,TON
+824620,CT,9015,Windham,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,22.68413,TON
+858855,CT,9011,New London,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+865116,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+866005,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,3.287475808,TON
+870435,CT,9009,New Haven,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,382.98956400000003,TON
+870989,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,17.14440694,TON
+887919,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.1799446,TON
+915565,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,22.8238579802375,TON
+926024,CT,9007,Middlesex,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.25473629999999997,TON
+930816,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,3.7890181000000003,TON
+933312,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+939075,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.02986833,TON
+972526,CT,9011,New London,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,17.137729999999998,TON
+990127,CT,9011,New London,Commercial Cooking,Carbon Monoxide,CAP,42.469613,TON
+997838,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,3.370545,TON
+1007435,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.1832758,TON
+1022781,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1025995,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,2.353707012,TON
+1028657,CT,9011,New London,Commercial Cooking,Volatile Organic Compounds,CAP,15.43738383,TON
+1059987,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,6.219715,TON
+1077106,CT,9011,New London,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.0624568789,TON
+1099957,CT,9003,Hartford,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,3.6126730000000005,TON
+1102150,CT,9011,New London,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,1.005967672,TON
+1107761,CT,9011,New London,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.2566365,TON
+1120314,CT,9011,New London,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,6.751034,TON
+1138439,CT,9003,Hartford,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,4.3688139999999995,TON
+1146429,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,5.2568304,TON
+1146430,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,453.9340762,TON
+1152929,CT,9013,Tolland,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.1131757,TON
+1160775,CT,9005,Litchfield,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,59.44888244,TON
+1160929,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,20.38291067,TON
+1163215,CT,9007,Middlesex,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1903.6394572000002,TON
+1166339,CT,9011,New London,Fuel Comb - Residential - Wood,Ammonia,CAP,20.411288391,TON
+1166508,CT,9001,Fairfield,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.3319861,TON
+1170023,CT,9011,New London,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,133.348852,TON
+1173312,CT,9011,New London,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.55118254,TON
+1177317,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,9.163839999999999,TON
+1191071,CT,9015,Windham,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,34.575873200000004,TON
+1206278,CT,9011,New London,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,15.491320000000002,TON
+1220453,CT,9007,Middlesex,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,72.97892220000001,TON
+1228448,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02389466,TON
+1238527,CT,9001,Fairfield,Fuel Comb - Residential - Oil,Ammonia,CAP,38.75996055,TON
+1292471,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,46.42985,TON
+1308005,CT,9011,New London,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.056275077,TON
+1308683,CT,9013,Tolland,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.1463607,TON
+1311219,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,71.61256999999999,TON
+1315675,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,37.00651,TON
+1324080,CT,9011,New London,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.8832163000000001,TON
+1327570,CT,9015,Windham,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.2247382,TON
+1338354,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1345306,CT,9001,Fairfield,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.5717790000000003,TON
+1347659,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1350268,CT,9003,Hartford,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,168.0313,TON
+1362677,CT,9001,Fairfield,Commercial Cooking,Carbon Monoxide,CAP,182.17436999999998,TON
+1368669,CT,9015,Windham,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.1427566,TON
+1372706,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,69.901362,TON
+1375919,CT,9001,Fairfield,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4597.085496,TON
+1376232,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,23.957586221,TON
+1393371,CT,9013,Tolland,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,46.717622,TON
+1395338,CT,9003,Hartford,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,101.4688287,TON
+1400592,CT,9005,Litchfield,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,76.0680661,TON
+1404008,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1416901,CT,9005,Litchfield,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,433.86587869999994,TON
+1422331,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1424692,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1425768,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.02813638,TON
+1430595,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,6.496022755,TON
+1432021,CT,9007,Middlesex,Fuel Comb - Residential - Oil,Ammonia,CAP,10.92323138,TON
+1463114,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,91.22485999999999,TON
+1468136,CT,9015,Windham,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,1.558620174,TON
+1474598,CT,9013,Tolland,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,34.00935886,TON
+1485309,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1485776,CT,9011,New London,Fuel Comb - Residential - Oil,Ammonia,CAP,17.09989421,TON
+1490176,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,4.22123368,TON
+1491194,CT,9011,New London,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,110.58245500000001,TON
+1492231,CT,9015,Windham,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,226.69700214,TON
+1498059,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,1.764874,TON
+1503688,CT,9009,New Haven,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,87.6328983,TON
+1510707,CT,9003,Hartford,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,238.281629311,TON
+1511688,CT,9015,Windham,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,239.91036679,TON
+1524836,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,64.01528,TON
+1525197,CT,9011,New London,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,121.21977773200001,TON
+1526104,CT,9015,Windham,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,3.609699038,TON
+1550438,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,580.736034,TON
+1552088,CT,9007,Middlesex,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1850477,TON
+1552119,CT,9005,Litchfield,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,3229.3158804,TON
+1559318,CT,9015,Windham,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,6.293128,TON
+1575306,CT,9015,Windham,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1576392,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,29.36618,TON
+1582670,CT,9011,New London,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,40.69774894,TON
+1582722,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,10.635019999999999,TON
+1586294,CT,9001,Fairfield,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,82.5587676,TON
+1614689,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1626186,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,3.4473403195,TON
+1633534,CT,9011,New London,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.77786837,TON
+1649065,CT,9005,Litchfield,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,50.488946500000004,TON
+1653928,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,80.08958,TON
+1669632,CT,9011,New London,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.4027743,TON
+1673650,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1682037,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,1.8222473375,TON
+1691925,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02986833,TON
+1704589,CT,9001,Fairfield,Fuel Comb - Residential - Wood,Ammonia,CAP,36.744469709,TON
+1711089,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1711416,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.435254408,TON
+1721167,CT,9015,Windham,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,2.2637475,TON
+1775913,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1785196,CT,9013,Tolland,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,6.370574303,TON
+1791695,CT,9015,Windham,Fuel Comb - Residential - Oil,Ammonia,CAP,7.49150085,TON
+1842073,CT,9013,Tolland,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,286.8877941,TON
+1843468,CT,9011,New London,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.4647395,TON
+1850846,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.554456144,TON
+1851620,CT,9005,Litchfield,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,55.784040000000005,TON
+1861610,CT,9005,Litchfield,Fuel Comb - Residential - Wood,Ammonia,CAP,23.17618576,TON
+1871546,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.30793400000000004,TON
+1878940,CT,9015,Windham,Fuel Comb - Residential - Wood,Ammonia,CAP,12.268382261,TON
+1880702,CT,9011,New London,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,10.992964524000001,TON
+1888024,CT,9015,Windham,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.1858412,TON
+1891966,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.08862514,TON
+1896456,CT,9007,Middlesex,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,78.5619267,TON
+1905944,CT,9015,Windham,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1917424,CT,9003,Hartford,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,5092.9358635,TON
+1925176,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1933356,CT,9005,Litchfield,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,8.47718829,TON
+1950176,CT,9015,Windham,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.09423919,TON
+1954121,CT,9007,Middlesex,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,23.26650605,TON
+1957743,CT,9009,New Haven,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,3.9033260000000003,TON
+1965440,CT,9015,Windham,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.06742637,TON
+1973429,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,4.1351855,TON
+1975667,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,277.52592480000004,TON
+1977649,CT,9013,Tolland,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,267.89894155,TON
+2004301,CT,9015,Windham,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,2.377038,TON
+2020885,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,1.2842744517,TON
+2024248,CT,9013,Tolland,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.1769944,TON
+2047435,CT,9011,New London,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.7671629,TON
+2077642,CT,9011,New London,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,8.7311765,TON
+2084580,CT,9007,Middlesex,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,46.04849,TON
+2086577,CT,9015,Windham,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.263467665,TON
+2096928,CT,9005,Litchfield,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,44.86003,TON
+2097290,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2102916,CT,9009,New Haven,Fuel Comb - Residential - Oil,Ammonia,CAP,36.82053625,TON
+2108336,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.016946725,TON
+2122235,CT,9005,Litchfield,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.13630179999999997,TON
+2127830,CT,9013,Tolland,Commercial Cooking,Carbon Monoxide,CAP,18.00682,TON
+2128728,CT,9007,Middlesex,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,33.84019614,TON
+2136752,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,69.01052,TON
+2165786,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,34.939900918296,TON
+2177996,CT,9013,Tolland,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,31.99513,TON
+2180840,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2188049,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,4.17231986,TON
+2196220,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2198660,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,3.737449,TON
+2198995,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.34785879999999997,TON
+2200848,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,7.923088000000001,TON
+2228558,CT,9013,Tolland,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,19.03181885,TON
+2239406,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.2699169,TON
+2253733,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2273073,CT,9003,Hartford,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.3158689,TON
+2285972,CT,9009,New Haven,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,541.91289401,TON
+2286141,CT,9001,Fairfield,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.401878,TON
+2286465,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,24.808067281237502,TON
+2292488,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2298632,CT,9015,Windham,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,1.4338898469999999,TON
+2309412,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2310292,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,2.29197,TON
+2315060,CT,9009,New Haven,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,616.449613,TON
+2339398,CT,9001,Fairfield,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,648.91943,TON
+2343930,CT,9013,Tolland,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,7.81803116,TON
+2368301,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6741089,TON
+2393761,CT,9011,New London,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,286.28639580000004,TON
+2401610,CT,9013,Tolland,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,268.51725155,TON
+2425808,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,29.660790000000002,TON
+2426638,CT,9013,Tolland,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,37.24872,TON
+2429761,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,1.636834678,TON
+2436284,CT,9007,Middlesex,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,54.616166899999996,TON
+2455115,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,9.6980249168,TON
+2458011,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,699.649308,TON
+2477598,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2480578,CT,9011,New London,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2486263,CT,9015,Windham,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,15.95690679,TON
+2495610,CT,9009,New Haven,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.5276940000000003,TON
+2496195,CT,9003,Hartford,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,16.809418010999998,TON
+2496534,CT,9015,Windham,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,226.87406714,TON
+2517173,CT,9009,New Haven,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,130.1109,TON
+2521226,CT,9001,Fairfield,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,442.328725,TON
+2523381,CT,9013,Tolland,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.13700220000000002,TON
+2524245,CT,9003,Hartford,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.3823676,TON
+2525318,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.4743693,TON
+2525583,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2537494,CT,9013,Tolland,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,44.67560829,TON
+2561255,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,1.82045312,TON
+2561774,CT,9001,Fairfield,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,274.7523,TON
+2586604,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.44312570000000007,TON
+2608650,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,17.10724834,TON
+2619230,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,60.26534,TON
+2624364,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.4296754,TON
+2633665,CT,9001,Fairfield,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,30.98537,TON
+2645078,CT,9011,New London,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.5216708,TON
+2652613,CT,9009,New Haven,Fuel Comb - Residential - Wood,Ammonia,CAP,32.480192648,TON
+2653180,CT,9013,Tolland,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,149.5918738,TON
+2666354,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,7.5259536229999995,TON
+2676896,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.1750497,TON
+2680693,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,6.673011,TON
+2682941,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.3013255,TON
+2688045,CT,9007,Middlesex,Fuel Comb - Residential - Wood,Ammonia,CAP,13.487420153,TON
+2689000,CT,9001,Fairfield,Commercial Cooking,Volatile Organic Compounds,CAP,66.0333665,TON
+2694261,CT,9005,Litchfield,Commercial Cooking,Carbon Monoxide,CAP,31.220798,TON
+2701970,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,53.70074,TON
+2710502,CT,9011,New London,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,371.92371981,TON
+2728272,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,3.39017903,TON
+2728514,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2734321,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,26.82285046,TON
+2744868,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02117197,TON
+2749162,CT,9007,Middlesex,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,43.57526,TON
+2755187,CT,9003,Hartford,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,4.047185,TON
+2782250,CT,9015,Windham,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.01521166,TON
+2788848,CT,9011,New London,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2800839,CT,9005,Litchfield,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,28.29767687,TON
+2812732,CT,9015,Windham,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,9.65282,TON
+2820313,CT,9005,Litchfield,Fuel Comb - Residential - Oil,Ammonia,CAP,11.88977849,TON
+2824385,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,4.190587600000001,TON
+2825597,CT,9009,New Haven,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.382882,TON
+2826526,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,258.7960005,TON
+2831644,CT,9003,Hartford,Commercial Cooking,Volatile Organic Compounds,CAP,57.1527313,TON
+2836396,CT,9013,Tolland,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1581813,TON
+2837300,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.2249307,TON
+2843495,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,39.41816029,TON
+2868192,CT,9015,Windham,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2873389,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.02344698,TON
+2890873,CT,9015,Windham,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.25931329999999997,TON
+2891379,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,5.017367,TON
+2894955,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,3.8995059999999997,TON
+2899235,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,38.65892668,TON
+2908793,CT,9015,Windham,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,37.245352399999994,TON
+2932081,CT,9005,Litchfield,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,3.26396,TON
+2933076,CT,9003,Hartford,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,46.20861,TON
+2953053,CT,9011,New London,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,85.49945109999999,TON
+2965044,CT,9011,New London,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.7410762,TON
+2966911,CT,9009,New Haven,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.27532429999999997,TON
+2978456,CT,9001,Fairfield,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,86.87265144,TON
+2987053,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,4.1754667,TON
+2987818,CT,9011,New London,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.045933147,TON
+2990195,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.06957176,TON
+2997528,CT,9003,Hartford,Fuel Comb - Residential - Oil,Ammonia,CAP,33.61322562,TON
+2999353,CT,9011,New London,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.18361860000000002,TON
+3009816,CT,9015,Windham,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.341480000000001,TON
+3010239,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.3509016,TON
+3025803,CT,9003,Hartford,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.44147749999999997,TON
+3026416,CT,9015,Windham,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,43.21888,TON
+3044009,CT,9001,Fairfield,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,645.6678,TON
+3052132,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,101.68984471700001,TON
+3055685,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,26.242592156,TON
+3063422,CT,9003,Hartford,Commercial Cooking,Carbon Monoxide,CAP,157.312272,TON
+3074192,CT,9003,Hartford,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,562.7528010999999,TON
+3074571,CT,9001,Fairfield,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,15.079807543,TON
+3087298,CT,9003,Hartford,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,789.7472,TON
+3095940,CT,9009,New Haven,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,13.198982225,TON
+3095941,CT,9009,New Haven,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,77.47745365,TON
+3106763,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,1.7657880000000001,TON
+3150464,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,587.667618,TON
+3161464,CT,9015,Windham,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,36.30386,TON
+3177631,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3187915,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.2271873,TON
+3188608,CT,9007,Middlesex,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,7.78806041,TON
+3216879,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,59.666740000000004,TON
+3219549,CT,9013,Tolland,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,13.61495,TON
+3224536,CT,9015,Windham,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,16.22164828,TON
+3234884,CT,9015,Windham,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3236827,CT,9003,Hartford,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,379.602402,TON
+3240743,CT,9009,New Haven,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,26.25235167,TON
+3246069,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.211081245,TON
+3247546,CT,9003,Hartford,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,71.5962267,TON
+3249460,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,544.5655625,TON
+3257571,CT,9015,Windham,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,17.829777899999996,TON
+3264836,CT,9001,Fairfield,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,92.24871970000001,TON
+3271071,CT,9011,New London,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3282205,CT,9011,New London,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,2.917091193,TON
+3288208,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,3.05121927,TON
+3295116,CT,9015,Windham,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,1.3272629999999999,TON
+3318810,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3321921,CT,9005,Litchfield,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,84.285717175,TON
+3343037,CT,9007,Middlesex,Commercial Cooking,Volatile Organic Compounds,CAP,10.90332775,TON
+3361695,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,45.570464564,TON
+3362471,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,4.413513099999999,TON
+3363546,CT,9009,New Haven,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,90.61551999999999,TON
+3373909,CT,9013,Tolland,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.2042243,TON
+3389502,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,4.813294,TON
+3394945,CT,9005,Litchfield,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.3085926,TON
+3404694,CT,9011,New London,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,392.77200834,TON
+3407731,CT,9005,Litchfield,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,82.00057029999999,TON
+3408364,CT,9005,Litchfield,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.7464169999999999,TON
+3411998,CT,9015,Windham,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,5.341300401,TON
+3416382,CT,9011,New London,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,18.41191,TON
+3434773,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.5193495,TON
+3444817,CT,9011,New London,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+3472458,CT,9015,Windham,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,5.038468,TON
+3477279,CT,9001,Fairfield,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,274.766436237,TON
+3480239,CT,9015,Windham,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,7.001822238,TON
+3480592,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3493273,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.2249307,TON
+3496351,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.27369164,TON
+3528263,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3546309,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3560395,CT,9011,New London,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3562913,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3566074,CT,9015,Windham,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.08162139,TON
+3576605,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,4.808879599999999,TON
+3581900,CT,9005,Litchfield,Fuel Comb - Residential - Other,Ammonia,CAP,0.15543189999999998,TON
+3583082,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,3.3370660000000005,TON
+3626427,CT,9015,Windham,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,1.8474380000000001,TON
+3631544,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,18.0646538994,TON
+3645801,CT,9015,Windham,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.04198723,TON
+3666536,CT,9005,Litchfield,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1905037,TON
+3679832,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.14004360000000002,TON
+3699669,CT,9015,Windham,Commercial Cooking,Carbon Monoxide,CAP,14.464884900000001,TON
+3700218,CT,9015,Windham,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.10376780000000001,TON
+3702869,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,34.1774846,TON
+3706833,CT,9011,New London,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,13.56230216,TON
+3722710,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,3.061157,TON
+3737628,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,49.814236,TON
+3744157,CT,9011,New London,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.1534326,TON
+3762820,CT,9011,New London,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,36.42278717,TON
+3776582,CT,9015,Windham,Commercial Cooking,Volatile Organic Compounds,CAP,5.27427983,TON
+3777166,CT,9003,Hartford,Fuel Comb - Residential - Other,Ammonia,CAP,0.3602013,TON
+3789866,CT,9009,New Haven,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,35.78048,TON
+3799620,CT,9005,Litchfield,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,11.86894,TON
+3824054,CT,9001,Fairfield,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,193.7998027,TON
+3826339,CT,9001,Fairfield,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,609.37988879,TON
+3834430,CT,9009,New Haven,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.3332873,TON
+3836577,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,76.62888000000001,TON
+3859732,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,35.85396,TON
+3872655,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,80.89307,TON
+3873820,CT,9015,Windham,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.1254867,TON
+3887567,CT,9013,Tolland,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,21.26559249,TON
+3891408,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.3106306,TON
+3897561,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3909990,CT,9015,Windham,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3924692,CT,9011,New London,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.22227510000000003,TON
+3925460,CT,9007,Middlesex,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.13239820000000002,TON
+3963645,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,4.3212237,TON
+3971857,CT,9015,Windham,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,125.42274920000001,TON
+3981464,CT,9001,Fairfield,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,610.72262879,TON
+3992646,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.2438486,TON
+4000248,CT,9003,Hartford,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,79.99949759999998,TON
+4003441,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,12.3935927978,TON
+4009154,CT,9003,Hartford,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,29.481090000000002,TON
+4017107,CT,9015,Windham,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,4.087357,TON
+4026446,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,8.500527,TON
+4028196,CT,9015,Windham,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,4.82641,TON
+4032773,CT,9007,Middlesex,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.2939265,TON
+4036481,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.22871329999999998,TON
+4064202,CT,9015,Windham,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4068520,CT,9011,New London,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.05170965,TON
+4078913,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,30.9196385,TON
+4106331,CT,9015,Windham,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,37.45750923,TON
+4106581,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.39226690000000003,TON
+4109610,CT,9007,Middlesex,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,2.6943259999999998,TON
+4137842,CT,9013,Tolland,Fuel Comb - Residential - Oil,Ammonia,CAP,8.93512166,TON
+4146191,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.01875759,TON
+4146825,CT,9005,Litchfield,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.1649969,TON
+4154355,CT,9003,Hartford,Fuel Comb - Residential - Wood,Ammonia,CAP,39.134789692,TON
+4155780,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,4.802349700000001,TON
+4170810,CT,9015,Windham,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.1493125,TON
+4175777,CT,9007,Middlesex,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.6964,TON
+4175803,CT,9011,New London,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,45.2203922,TON
+4180155,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,2.3735478580000002,TON
+4184512,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,5.82154953,TON
+4188543,CT,9011,New London,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,5.380546392,TON
+4189570,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,2.8777168,TON
+4193180,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,13.881780493499999,TON
+4195187,CT,9011,New London,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2790.832123,TON
+4196525,CT,9011,New London,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,4.260112,TON
+4230620,CT,9007,Middlesex,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,260.1963995,TON
+4240530,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4269599,CT,9009,New Haven,Fuel Comb - Residential - Other,Ammonia,CAP,0.3139663,TON
+4270137,CT,9003,Hartford,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,705.53270918,TON
+4278882,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4281765,CT,9005,Litchfield,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,23.73789,TON
+4281766,CT,9005,Litchfield,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.2551823,TON
+4301041,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.236544,TON
+4306398,CT,9001,Fairfield,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,27.63512448,TON
+4314909,CT,9011,New London,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.9524919,TON
+4318352,CT,9011,New London,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,14.78372805,TON
+4322105,CT,9007,Middlesex,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,9.79755,TON
+4329609,CT,9011,New London,Fuel Comb - Residential - Other,Ammonia,CAP,0.2093896,TON
+4331247,CT,9001,Fairfield,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.46400399999999997,TON
+4334113,CT,9001,Fairfield,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,476.29373300000003,TON
+4337674,CT,9015,Windham,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,53.106681223,TON
+4341043,CT,9007,Middlesex,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,19.5951,TON
+4351223,CT,9011,New London,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4354120,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,4.56953153,TON
+4357589,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4359866,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,60.15456,TON
+4376282,CT,9015,Windham,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.2117725,TON
+4384282,CT,9007,Middlesex,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,25.99729818,TON
+4387069,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4398178,CT,9015,Windham,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,3.753658,TON
+4411740,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,3.585904,TON
+4412674,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,69.70286,TON
+4414158,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4424068,CT,9009,New Haven,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,25.696939999999998,TON
+4465492,CT,9009,New Haven,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,540.61101401,TON
+4465668,CT,9001,Fairfield,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,109.2642,TON
+4474184,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,3.024199733,TON
+4479091,CT,9005,Litchfield,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,199.0586528,TON
+4479252,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,4.9549672,TON
+4484287,CT,9009,New Haven,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,2.797383,TON
+4504106,CT,9005,Litchfield,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,454.85833545,TON
+4508124,CT,9001,Fairfield,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4521542,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,59.01154474,TON
+4533322,CT,9009,New Haven,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,184.1026813,TON
+4537261,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,2.50331264,TON
+4547063,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.04011078,TON
+4548515,CT,9003,Hartford,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4573231,CT,9011,New London,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,12.19189952,TON
+4579874,CT,9005,Litchfield,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,434.16253770000003,TON
+4591378,CT,9015,Windham,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,26.904780600000006,TON
+4596658,CT,9013,Tolland,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,63.340401707,TON
+4606646,CT,9003,Hartford,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,103.9596,TON
+4612934,CT,9005,Litchfield,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,12.7215,TON
+4619610,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,2.596748,TON
+4648753,CT,9007,Middlesex,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.21064729999999998,TON
+4658541,CT,9009,New Haven,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,611.521,TON
+4663306,CT,9003,Hartford,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,23.96560493,TON
+4707785,CT,9015,Windham,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.01705789,TON
+4730415,CT,9011,New London,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,60.970063399999994,TON
+4732954,CT,9011,New London,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,30.982640000000004,TON
+4735372,CT,9013,Tolland,Commercial Cooking,Volatile Organic Compounds,CAP,6.54684635,TON
+4736199,CT,9009,New Haven,Commercial Cooking,Carbon Monoxide,CAP,158.62059399999998,TON
+4756999,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.5196343,TON
+4763868,CT,9001,Fairfield,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,2.9535869999999997,TON
+4779130,CT,9009,New Haven,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,260.2217,TON
+4794808,CT,9015,Windham,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,22.19156,TON
+4799747,CT,9007,Middlesex,Fuel Comb - Residential - Other,Ammonia,CAP,0.1509804,TON
+4806480,CT,9001,Fairfield,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,4.121283999999999,TON
+4812978,CT,9001,Fairfield,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,642.97427671,TON
+4820062,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,8.348611,TON
+4834800,CT,9005,Litchfield,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,13.66602548,TON
+4842945,CT,9015,Windham,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.01804175,TON
+4852727,CT,9005,Litchfield,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,3.9386910000000004,TON
+4864132,CT,9007,Middlesex,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,7.237514343,TON
+4867221,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.2005539,TON
+4873795,CT,9009,New Haven,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,412.377737,TON
+4879461,CT,9009,New Haven,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,19.6210737038,TON
+4883029,CT,9007,Middlesex,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,259.4460395,TON
+4885846,CT,9009,New Haven,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4081.2898053999998,TON
+4895233,CT,9013,Tolland,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,1.8720560000000002,TON
+4920999,CT,9011,New London,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,371.49747981,TON
+4930466,CT,9013,Tolland,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4932672,CT,9007,Middlesex,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.5473492,TON

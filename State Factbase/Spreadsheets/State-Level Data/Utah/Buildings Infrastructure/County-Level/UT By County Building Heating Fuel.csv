@@ -1,0 +1,146 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,UT,Beaver,206,215,217,301,310,361,347,498,617,756
+4,House Heating Fuel: Fuel Oil,UT,Beaver,198,176,155,133,74,52,45,45,58,56
+5,House Heating Fuel: Gas,UT,Beaver,1444,1399,1387,1374,1474,1533,1544,1465,1328,1194
+6,House Heating Fuel: Propane,UT,Beaver,24,70,72,103,104,101,91,84,92,78
+7,House Heating Fuel: Wood,UT,Beaver,215,195,231,201,198,188,201,185,138,153
+3,House Heating Fuel: Electric,UT,Box Elder,680,694,811,936,989,1068,1185,1268,1327,1381
+4,House Heating Fuel: Fuel Oil,UT,Box Elder,61,51,31,56,81,74,65,75,48,28
+5,House Heating Fuel: Gas,UT,Box Elder,13582,13790,13956,13936,13973,13982,14134,14371,14668,14805
+6,House Heating Fuel: Propane,UT,Box Elder,1010,1037,1009,988,848,870,805,808,729,781
+7,House Heating Fuel: Wood,UT,Box Elder,193,201,181,165,185,208,217,248,232,280
+3,House Heating Fuel: Electric,UT,Cache,2863,2844,3040,3310,3492,3424,3668,3737,4071,4139
+4,House Heating Fuel: Fuel Oil,UT,Cache,59,49,56,49,43,46,50,45,58,61
+5,House Heating Fuel: Gas,UT,Cache,29174,29911,30418,30276,30232,30501,30711,31253,31673,32382
+6,House Heating Fuel: Propane,UT,Cache,1260,1229,1249,1271,1300,1194,1220,1298,1371,1374
+7,House Heating Fuel: Wood,UT,Cache,266,315,283,263,178,188,156,214,220,224
+3,House Heating Fuel: Electric,UT,Carbon,663,702,724,771,765,782,821,851,825,866
+4,House Heating Fuel: Fuel Oil,UT,Carbon,8,18,17,21,16,17,0,0,0,0
+5,House Heating Fuel: Gas,UT,Carbon,6691,6678,6476,6389,6510,6404,6298,6436,6457,6427
+6,House Heating Fuel: Propane,UT,Carbon,290,195,289,312,293,320,354,301,314,338
+7,House Heating Fuel: Wood,UT,Carbon,88,103,85,114,137,135,131,133,111,57
+3,House Heating Fuel: Electric,UT,Daggett,56,58,66,58,53,39,38,17,17,30
+4,House Heating Fuel: Fuel Oil,UT,Daggett,0,0,0,0,0,2,2,3,3,3
+5,House Heating Fuel: Gas,UT,Daggett,81,94,61,43,50,47,28,17,15,10
+6,House Heating Fuel: Propane,UT,Daggett,170,173,165,143,122,114,101,85,81,83
+7,House Heating Fuel: Wood,UT,Daggett,29,41,46,56,44,54,41,40,27,34
+3,House Heating Fuel: Electric,UT,Davis,7488,7875,10237,11217,11206,11416,12431,10827,10110,10191
+4,House Heating Fuel: Fuel Oil,UT,Davis,58,10,8,12,12,9,36,45,36,27
+5,House Heating Fuel: Gas,UT,Davis,82132,83927,82953,82807,84313,85200,85684,89074,91255,92857
+6,House Heating Fuel: Propane,UT,Davis,637,567,550,779,720,727,770,859,819,844
+7,House Heating Fuel: Wood,UT,Davis,107,136,223,197,201,220,203,224,254,234
+3,House Heating Fuel: Electric,UT,Duchesne,1052,1111,1256,1232,1323,1310,1407,1334,1429,1512
+4,House Heating Fuel: Fuel Oil,UT,Duchesne,49,52,15,14,12,6,0,0,0,0
+5,House Heating Fuel: Gas,UT,Duchesne,2991,2923,3039,3000,2822,2759,2807,2856,2753,2876
+6,House Heating Fuel: Propane,UT,Duchesne,1653,1766,1711,1747,1676,1543,1286,1145,1000,983
+7,House Heating Fuel: Wood,UT,Duchesne,667,712,675,749,797,836,799,817,753,711
+3,House Heating Fuel: Electric,UT,Emery,284,258,358,394,443,432,471,439,445,508
+4,House Heating Fuel: Fuel Oil,UT,Emery,3,3,3,4,3,0,0,0,0,0
+5,House Heating Fuel: Gas,UT,Emery,2391,2416,2399,2316,2284,2217,2138,2190,2271,2279
+6,House Heating Fuel: Propane,UT,Emery,498,482,369,361,338,306,298,310,289,313
+7,House Heating Fuel: Wood,UT,Emery,157,174,198,227,269,281,318,327,307,316
+3,House Heating Fuel: Electric,UT,Garfield,480,509,462,438,474,435,346,375,398,431
+4,House Heating Fuel: Fuel Oil,UT,Garfield,84,106,87,84,77,62,51,75,93,77
+5,House Heating Fuel: Gas,UT,Garfield,517,554,529,531,480,470,437,476,494,460
+6,House Heating Fuel: Propane,UT,Garfield,513,455,380,363,315,301,277,261,225,215
+7,House Heating Fuel: Wood,UT,Garfield,509,467,482,420,406,392,454,478,436,488
+3,House Heating Fuel: Electric,UT,Grand,430,469,401,443,502,685,708,842,758,828
+4,House Heating Fuel: Fuel Oil,UT,Grand,2,3,2,2,0,0,0,0,0,0
+5,House Heating Fuel: Gas,UT,Grand,2888,2738,2843,2831,2985,2791,2781,2695,2881,2947
+6,House Heating Fuel: Propane,UT,Grand,108,85,69,75,90,102,97,115,120,168
+7,House Heating Fuel: Wood,UT,Grand,229,257,303,216,185,169,211,192,213,219
+3,House Heating Fuel: Electric,UT,Iron,1890,1965,2037,2196,2110,2144,2319,2713,3253,4368
+4,House Heating Fuel: Fuel Oil,UT,Iron,465,380,212,190,142,79,94,111,105,89
+5,House Heating Fuel: Gas,UT,Iron,11194,11494,11592,11516,11426,11315,11245,11167,11286,10977
+6,House Heating Fuel: Propane,UT,Iron,719,660,747,702,548,562,551,544,584,667
+7,House Heating Fuel: Wood,UT,Iron,841,793,830,760,795,867,842,915,850,816
+3,House Heating Fuel: Electric,UT,Juab,540,557,525,504,484,461,549,608,676,750
+4,House Heating Fuel: Fuel Oil,UT,Juab,71,59,55,40,40,38,36,28,28,12
+5,House Heating Fuel: Gas,UT,Juab,1953,2037,2037,2071,2113,2168,2206,2293,2268,2277
+6,House Heating Fuel: Propane,UT,Juab,192,162,143,137,137,131,132,123,143,158
+7,House Heating Fuel: Wood,UT,Juab,166,192,207,189,204,201,153,162,187,176
+3,House Heating Fuel: Electric,UT,Kane,973,1224,1337,1382,1365,1215,1132,1041,851,886
+4,House Heating Fuel: Fuel Oil,UT,Kane,109,108,132,117,79,60,23,7,32,24
+5,House Heating Fuel: Gas,UT,Kane,205,165,176,166,185,184,203,173,207,219
+6,House Heating Fuel: Propane,UT,Kane,1044,947,818,696,638,510,521,582,764,720
+7,House Heating Fuel: Wood,UT,Kane,683,638,614,551,512,690,673,670,733,691
+3,House Heating Fuel: Electric,UT,Millard,502,513,513,501,593,512,542,542,673,539
+4,House Heating Fuel: Fuel Oil,UT,Millard,75,85,61,66,63,25,11,6,4,4
+5,House Heating Fuel: Gas,UT,Millard,2710,2659,2773,2757,2820,2857,2889,2934,2941,3078
+6,House Heating Fuel: Propane,UT,Millard,432,462,437,436,433,518,518,502,432,426
+7,House Heating Fuel: Wood,UT,Millard,166,209,214,207,176,131,108,135,130,179
+3,House Heating Fuel: Electric,UT,Morgan,136,121,107,123,181,167,186,190,200,242
+4,House Heating Fuel: Fuel Oil,UT,Morgan,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,UT,Morgan,2415,2455,2485,2537,2567,2653,2735,2921,3000,3004
+6,House Heating Fuel: Propane,UT,Morgan,130,124,167,154,145,138,98,53,54,49
+7,House Heating Fuel: Wood,UT,Morgan,28,43,34,39,35,54,53,66,49,67
+3,House Heating Fuel: Electric,UT,Piute,90,92,80,73,60,44,34,27,32,59
+4,House Heating Fuel: Fuel Oil,UT,Piute,16,14,11,24,29,33,57,67,27,26
+5,House Heating Fuel: Gas,UT,Piute,328,358,349,360,368,366,347,328,348,343
+6,House Heating Fuel: Propane,UT,Piute,33,32,28,18,11,18,28,21,19,16
+7,House Heating Fuel: Wood,UT,Piute,67,81,77,78,70,77,64,62,66,83
+3,House Heating Fuel: Electric,UT,Rich,75,70,94,88,84,119,146,122,95,91
+4,House Heating Fuel: Fuel Oil,UT,Rich,20,15,14,6,7,8,7,5,4,2
+5,House Heating Fuel: Gas,UT,Rich,294,302,273,276,258,241,241,214,254,279
+6,House Heating Fuel: Propane,UT,Rich,304,293,274,250,235,230,191,222,200,202
+7,House Heating Fuel: Wood,UT,Rich,44,35,35,26,26,27,33,32,61,57
+3,House Heating Fuel: Electric,UT,Salt Lake,28584,28814,29175,30076,30924,32344,33801,36915,38449,41573
+4,House Heating Fuel: Fuel Oil,UT,Salt Lake,132,142,90,97,94,151,220,279,269,295
+5,House Heating Fuel: Gas,UT,Salt Lake,301800,305857,308456,309339,312157,313994,316402,319586,324029,325932
+6,House Heating Fuel: Propane,UT,Salt Lake,2669,2438,2352,2678,2955,3280,3334,3641,3710,3848
+7,House Heating Fuel: Wood,UT,Salt Lake,507,508,498,414,418,493,532,440,546,519
+3,House Heating Fuel: Electric,UT,San Juan,539,534,477,548,547,572,619,648,611,662
+4,House Heating Fuel: Fuel Oil,UT,San Juan,19,15,27,25,12,14,13,2,21,24
+5,House Heating Fuel: Gas,UT,San Juan,1522,1366,1214,1267,1261,1281,1268,1324,1289,1451
+6,House Heating Fuel: Propane,UT,San Juan,778,811,802,731,708,638,467,448,450,388
+7,House Heating Fuel: Wood,UT,San Juan,1322,1483,1588,1596,1471,1373,1531,1547,1580,1681
+3,House Heating Fuel: Electric,UT,Sanpete,778,556,598,600,581,572,622,653,711,785
+4,House Heating Fuel: Fuel Oil,UT,Sanpete,68,73,65,35,40,49,43,28,24,34
+5,House Heating Fuel: Gas,UT,Sanpete,5783,5938,5947,5931,6085,6273,6321,6531,6539,6647
+6,House Heating Fuel: Propane,UT,Sanpete,392,377,370,424,519,537,459,597,620,575
+7,House Heating Fuel: Wood,UT,Sanpete,641,556,603,584,574,411,506,421,461,398
+3,House Heating Fuel: Electric,UT,Sevier,716,766,795,718,673,628,664,566,645,667
+4,House Heating Fuel: Fuel Oil,UT,Sevier,219,185,155,137,121,129,98,89,66,57
+5,House Heating Fuel: Gas,UT,Sevier,5307,5426,5510,5683,5699,5641,5583,5732,5737,5828
+6,House Heating Fuel: Propane,UT,Sevier,167,138,188,156,148,155,252,274,289,312
+7,House Heating Fuel: Wood,UT,Sevier,263,216,243,290,298,335,384,375,383,408
+3,House Heating Fuel: Electric,UT,Summit,680,619,636,828,974,1117,1179,1283,1170,1072
+4,House Heating Fuel: Fuel Oil,UT,Summit,42,29,38,9,9,7,9,24,24,25
+5,House Heating Fuel: Gas,UT,Summit,12007,11753,11816,12006,11757,12119,12537,12565,12279,12021
+6,House Heating Fuel: Propane,UT,Summit,551,646,571,536,539,501,552,580,631,627
+7,House Heating Fuel: Wood,UT,Summit,256,230,199,203,128,131,220,209,290,293
+3,House Heating Fuel: Electric,UT,Tooele,1151,1255,1355,1432,1609,1669,1678,1605,1438,1416
+4,House Heating Fuel: Fuel Oil,UT,Tooele,93,111,136,111,123,115,70,24,34,37
+5,House Heating Fuel: Gas,UT,Tooele,15453,15517,15663,15723,15574,15783,16415,16940,17347,17950
+6,House Heating Fuel: Propane,UT,Tooele,644,664,643,563,638,702,575,614,664,711
+7,House Heating Fuel: Wood,UT,Tooele,239,330,286,310,288,227,233,254,291,234
+3,House Heating Fuel: Electric,UT,Uintah,1575,1575,1633,1496,1400,1591,1877,1863,2016,2184
+4,House Heating Fuel: Fuel Oil,UT,Uintah,8,5,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,UT,Uintah,6110,6487,6819,6975,7060,6906,6572,6556,6405,6294
+6,House Heating Fuel: Propane,UT,Uintah,2031,2001,1765,1763,1783,1608,1417,1299,1209,1093
+7,House Heating Fuel: Wood,UT,Uintah,645,647,716,718,759,815,765,766,843,848
+3,House Heating Fuel: Electric,UT,Utah,9893,9312,10292,10598,11557,12733,15411,18096,20014,22725
+4,House Heating Fuel: Fuel Oil,UT,Utah,215,160,126,123,110,58,77,63,78,100
+5,House Heating Fuel: Gas,UT,Utah,122169,126005,127287,128807,130003,131779,131735,133253,136045,138520
+6,House Heating Fuel: Propane,UT,Utah,2161,2013,2109,2033,2282,2429,2496,2622,2740,2871
+7,House Heating Fuel: Wood,UT,Utah,708,707,806,729,678,724,723,684,806,752
+3,House Heating Fuel: Electric,UT,Wasatch,394,336,427,515,567,705,873,834,983,898
+4,House Heating Fuel: Fuel Oil,UT,Wasatch,53,31,28,25,16,0,3,4,5,5
+5,House Heating Fuel: Gas,UT,Wasatch,6059,6068,6150,6389,6457,6684,7153,7557,7767,8096
+6,House Heating Fuel: Propane,UT,Wasatch,356,409,377,394,438,444,406,417,504,465
+7,House Heating Fuel: Wood,UT,Wasatch,242,317,274,198,175,168,190,183,254,306
+3,House Heating Fuel: Electric,UT,Washington,15506,15831,16424,16433,16746,17155,17582,18833,21015,22719
+4,House Heating Fuel: Fuel Oil,UT,Washington,61,53,45,25,21,14,14,6,20,25
+5,House Heating Fuel: Gas,UT,Washington,27906,27768,27616,27915,28627,29192,30068,30945,31016,31946
+6,House Heating Fuel: Propane,UT,Washington,1366,1169,1239,1154,1222,1291,1418,1325,1333,1145
+7,House Heating Fuel: Wood,UT,Washington,903,1019,944,1048,1001,977,945,1015,967,918
+3,House Heating Fuel: Electric,UT,Wayne,166,183,249,258,295,300,318,315,355,361
+4,House Heating Fuel: Fuel Oil,UT,Wayne,110,102,106,98,97,100,84,112,107,98
+5,House Heating Fuel: Gas,UT,Wayne,89,68,91,75,52,35,45,42,43,47
+6,House Heating Fuel: Propane,UT,Wayne,255,204,226,212,186,170,161,171,174,181
+7,House Heating Fuel: Wood,UT,Wayne,175,171,201,205,181,246,256,239,244,256
+3,House Heating Fuel: Electric,UT,Weber,5571,5309,5379,6310,6349,7144,7750,8404,8221,8646
+4,House Heating Fuel: Fuel Oil,UT,Weber,42,39,33,21,7,7,0,0,0,0
+5,House Heating Fuel: Gas,UT,Weber,70233,71846,72512,71514,71892,71448,70891,71273,72446,73294
+6,House Heating Fuel: Propane,UT,Weber,1352,1178,1272,1173,1097,970,912,952,1015,956
+7,House Heating Fuel: Wood,UT,Weber,275,275,257,322,278,221,203,233,250,244

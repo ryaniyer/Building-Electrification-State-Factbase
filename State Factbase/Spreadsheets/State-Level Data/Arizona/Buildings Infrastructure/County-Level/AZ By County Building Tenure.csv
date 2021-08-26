@@ -1,0 +1,61 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,AZ,Apache,3.54,3.58,3.59,3.63,3.67,3.63,3.65,3.53,3.4,3.32
+1,Avg household size of renter-occupied unit,AZ,Apache,3.82,3.9,3.99,3.93,3.85,3.82,3.72,3.81,3.58,3.53
+36,Owner-Occupied,AZ,Apache,50941,51656,52038,52956,53638,53490,54288,53568,54376,54712
+37,Renter-Occupied,AZ,Apache,17073,17607,18039,17563,17049,17247,16643,16631,15798,15554
+0,Avg household size of owner-occupied unit,AZ,Cochise,2.51,2.5,2.49,2.45,2.43,2.38,2.32,2.32,2.35,2.31
+1,Avg household size of renter-occupied unit,AZ,Cochise,2.52,2.58,2.51,2.52,2.56,2.5,2.5,2.46,2.44,2.41
+36,Owner-Occupied,AZ,Cochise,84720,84693,84094,82816,80615,78873,77561,78626,80179,79722
+37,Renter-Occupied,AZ,Cochise,38246,38897,38915,38609,39934,39130,39627,37613,37109,37583
+0,Avg household size of owner-occupied unit,AZ,Coconino,2.82,2.84,2.8,2.76,2.74,2.75,2.74,2.75,2.79,2.79
+1,Avg household size of renter-occupied unit,AZ,Coconino,2.58,2.69,2.71,2.71,2.7,2.63,2.57,2.5,2.5,2.48
+36,Owner-Occupied,AZ,Coconino,78542,78848,77747,75805,75799,76691,76626,77541,79958,80881
+37,Renter-Occupied,AZ,Coconino,45504,47079,48529,50599,50608,49349,49693,48436,46662,45898
+0,Avg household size of owner-occupied unit,AZ,Gila,2.58,2.53,2.53,2.49,2.43,2.43,2.38,2.35,2.34,2.37
+1,Avg household size of renter-occupied unit,AZ,Gila,2.9,2.93,2.77,2.7,2.7,2.68,2.58,2.59,2.62,2.47
+36,Owner-Occupied,AZ,Gila,39892,38716,39186,38859,36663,36905,36642,37003,37556,39340
+37,Renter-Occupied,AZ,Gila,12404,13533,13166,13437,15527,15284,15533,15151,14882,13254
+0,Avg household size of owner-occupied unit,AZ,Graham,2.99,2.94,2.98,2.99,2.96,2.95,2.99,3.06,3.11,3.13
+1,Avg household size of renter-occupied unit,AZ,Graham,2.98,3.03,3.24,3.07,3.13,3.19,3.14,2.98,3.15,3.03
+36,Owner-Occupied,AZ,Graham,23283,24256,24408,24469,23521,22861,22667,22870,23229,24248
+37,Renter-Occupied,AZ,Graham,9034,8655,8898,8724,9489,10240,10495,10461,10442,9916
+0,Avg household size of owner-occupied unit,AZ,Greenlee,2.43,2.47,2.33,2.34,2.33,2.47,2.46,2.45,2.54,2.55
+1,Avg household size of renter-occupied unit,AZ,Greenlee,2.56,2.64,2.7,2.72,2.7,3.04,3.03,3.03,3.28,3.45
+36,Owner-Occupied,AZ,Greenlee,3785,3900,3560,3649,3703,3692,3693,3889,4027,3879
+37,Renter-Occupied,AZ,Greenlee,4523,4523,4975,4964,5020,5248,5446,5389,5383,5549
+0,Avg household size of owner-occupied unit,AZ,La Paz,1.94,1.89,1.87,1.91,2.0,2.1,2.13,2.23,2.24,2.16
+1,Avg household size of renter-occupied unit,AZ,La Paz,2.13,2.14,2.08,2.13,2.29,2.24,2.36,2.5,2.47,2.3
+36,Owner-Occupied,AZ,La Paz,14827,14657,14540,14474,14973,14673,14634,14567,14822,14472
+37,Renter-Occupied,AZ,La Paz,5321,5658,5677,5657,5091,5371,5412,5672,5667,6107
+0,Avg household size of owner-occupied unit,AZ,Maricopa,2.71,2.71,2.72,2.72,2.73,2.74,2.75,2.76,2.78,2.79
+1,Avg household size of renter-occupied unit,AZ,Maricopa,2.62,2.65,2.68,2.72,2.75,2.76,2.76,2.75,2.74,2.7
+36,Owner-Occupied,AZ,Maricopa,2485334,2463352,2430930,2403073,2382839,2399261,2432636,2506453,2592968,2688648
+37,Renter-Occupied,AZ,Maricopa,1218736,1286925,1362507,1437900,1514511,1567726,1604568,1596905,1607568,1586077
+0,Avg household size of owner-occupied unit,AZ,Mohave,2.31,2.31,2.26,2.25,2.28,2.3,2.28,2.28,2.28,2.25
+1,Avg household size of renter-occupied unit,AZ,Mohave,2.76,2.81,2.81,2.84,2.75,2.7,2.63,2.63,2.57,2.57
+36,Owner-Occupied,AZ,Mohave,132769,132038,127474,125375,125274,124726,125288,130727,133879,135552
+37,Renter-Occupied,AZ,Mohave,63263,65001,67705,69639,70428,71918,71712,69900,68860,68630
+0,Avg household size of owner-occupied unit,AZ,Navajo,2.97,2.97,2.94,2.95,2.96,3.0,3.02,3.06,3.08,3.05
+1,Avg household size of renter-occupied unit,AZ,Navajo,2.98,3.09,3.2,3.32,3.38,3.28,3.27,3.09,3.06,3.03
+36,Owner-Occupied,AZ,Navajo,76054,75423,74064,72911,71411,71539,71980,72251,73223,73311
+37,Renter-Occupied,AZ,Navajo,28969,29399,30882,32004,33585,33615,33643,32902,32625,33085
+0,Avg household size of owner-occupied unit,AZ,Pima,2.54,2.55,2.55,2.55,2.55,2.54,2.52,2.52,2.53,2.53
+1,Avg household size of renter-occupied unit,AZ,Pima,2.31,2.36,2.4,2.43,2.42,2.42,2.37,2.35,2.37,2.34
+36,Owner-Occupied,AZ,Pima,627102,622807,620562,613154,609074,605718,612005,621269,633192,647344
+37,Renter-Occupied,AZ,Pima,311935,325157,334227,347822,357712,366190,363348,357094,356777,349531
+0,Avg household size of owner-occupied unit,AZ,Pinal,2.5,2.61,2.7,2.74,2.76,2.71,2.7,2.69,2.73,2.75
+1,Avg household size of renter-occupied unit,AZ,Pinal,2.77,2.93,3.09,3.23,3.29,3.28,3.29,3.26,3.25,3.27
+36,Owner-Occupied,AZ,Pinal,230837,242122,252873,252458,253900,250048,255790,261183,278887,298585
+37,Renter-Occupied,AZ,Pinal,73489,83288,90305,102238,112176,116417,118308,119110,114321,107493
+0,Avg household size of owner-occupied unit,AZ,Santa Cruz,3.93,3.73,3.52,3.24,3.09,3.05,3.0,2.97,2.98,2.97
+1,Avg household size of renter-occupied unit,AZ,Santa Cruz,3.45,3.14,3.06,2.84,2.91,3.03,2.91,2.91,3.02,2.77
+36,Owner-Occupied,AZ,Santa Cruz,33721,33694,32350,32419,31147,30903,30883,31104,30396,31867
+37,Renter-Occupied,AZ,Santa Cruz,12096,12796,14448,14429,15795,15837,15286,14852,15773,14191
+0,Avg household size of owner-occupied unit,AZ,Yavapai,2.27,2.28,2.23,2.23,2.24,2.25,2.22,2.25,2.25,2.23
+1,Avg household size of renter-occupied unit,AZ,Yavapai,2.38,2.35,2.41,2.42,2.42,2.42,2.46,2.39,2.38,2.35
+36,Owner-Occupied,AZ,Yavapai,146609,147771,143838,142400,143657,145199,145764,150195,155633,157915
+37,Renter-Occupied,AZ,Yavapai,58489,59884,64240,66298,66562,67225,68660,66140,64041,64906
+0,Avg household size of owner-occupied unit,AZ,Yuma,2.68,2.69,2.69,2.73,2.77,2.77,2.79,2.78,2.8,2.79
+1,Avg household size of renter-occupied unit,AZ,Yuma,2.59,2.61,2.7,2.73,2.77,2.79,2.74,2.76,2.78,2.79
+36,Owner-Occupied,AZ,Yuma,129879,132696,131143,133061,134402,132948,133603,134344,136077,136908
+37,Renter-Occupied,AZ,Yuma,54751,54113,57635,58236,59546,62836,63381,64278,66370,67017

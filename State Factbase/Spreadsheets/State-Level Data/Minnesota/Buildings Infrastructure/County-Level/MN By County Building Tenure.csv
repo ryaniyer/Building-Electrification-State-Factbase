@@ -1,0 +1,349 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,MN,Aitkin,2.1,2.12,2.09,2.1,2.11,2.08,2.04,2.04,2.01,2.02
+1,Avg household size of renter-occupied unit,MN,Aitkin,1.83,1.77,1.89,1.77,1.8,1.9,1.96,1.91,2.06,2.07
+36,Owner-Occupied,MN,Aitkin,13437,13627,13389,13286,13323,13015,12856,13010,12757,12729
+37,Renter-Occupied,MN,Aitkin,2739,2482,2555,2502,2382,2548,2596,2566,2817,2842
+0,Avg household size of owner-occupied unit,MN,Anoka,2.76,2.76,2.75,2.75,2.76,2.76,2.77,2.78,2.78,2.78
+1,Avg household size of renter-occupied unit,MN,Anoka,2.35,2.42,2.46,2.47,2.45,2.46,2.44,2.43,2.46,2.43
+36,Owner-Occupied,MN,Anoka,274943,274295,274074,274287,275246,274266,276815,280915,282567,285284
+37,Renter-Occupied,MN,Anoka,48267,51730,54230,56319,57845,61490,61486,60948,61866,61913
+0,Avg household size of owner-occupied unit,MN,Becker,2.48,2.48,2.47,2.48,2.48,2.48,2.5,2.52,2.53,2.54
+1,Avg household size of renter-occupied unit,MN,Becker,2.02,1.98,2.05,2.1,2.1,2.14,2.21,2.23,2.24,2.19
+36,Owner-Occupied,MN,Becker,26190,26320,26548,26376,26569,26599,26645,26507,26899,27115
+37,Renter-Occupied,MN,Becker,5619,5648,5586,5961,5936,6064,6262,6576,6396,6414
+0,Avg household size of owner-occupied unit,MN,Beltrami,2.53,2.57,2.61,2.6,2.61,2.63,2.61,2.59,2.6,2.62
+1,Avg household size of renter-occupied unit,MN,Beltrami,2.39,2.52,2.42,2.48,2.47,2.49,2.47,2.46,2.41,2.39
+36,Owner-Occupied,MN,Beltrami,30753,30532,30842,30799,30687,30421,30372,30226,30222,30525
+37,Renter-Occupied,MN,Beltrami,10952,11740,11821,12189,12444,12880,13016,13377,13666,13687
+0,Avg household size of owner-occupied unit,MN,Benton,2.75,2.69,2.65,2.68,2.67,2.64,2.67,2.6,2.62,2.61
+1,Avg household size of renter-occupied unit,MN,Benton,1.9,1.96,1.94,1.95,1.97,2.0,1.97,1.97,1.94,1.93
+36,Owner-Occupied,MN,Benton,29065,29039,29037,28964,28806,29017,28953,28613,28441,28904
+37,Renter-Occupied,MN,Benton,8384,8482,8660,8900,9244,9278,9603,9844,10444,10354
+0,Avg household size of owner-occupied unit,MN,Big Stone,2.32,2.23,2.27,2.23,2.29,2.31,2.34,2.26,2.27,2.2
+1,Avg household size of renter-occupied unit,MN,Big Stone,1.78,1.83,1.85,1.84,1.71,1.71,1.77,1.84,1.77,1.85
+36,Owner-Occupied,MN,Big Stone,4405,4229,4223,4194,4224,4161,4103,3940,3778,3684
+37,Renter-Occupied,MN,Big Stone,838,909,871,861,807,819,838,949,1082,1153
+0,Avg household size of owner-occupied unit,MN,Blue Earth,2.57,2.57,2.56,2.59,2.59,2.56,2.55,2.53,2.51,2.49
+1,Avg household size of renter-occupied unit,MN,Blue Earth,2.27,2.32,2.32,2.25,2.21,2.27,2.29,2.25,2.29,2.28
+36,Owner-Occupied,MN,Blue Earth,41281,41288,41355,42108,42075,41105,40309,40161,40042,40354
+37,Renter-Occupied,MN,Blue Earth,17793,18542,18848,18534,18720,19959,21298,21803,22461,22609
+0,Avg household size of owner-occupied unit,MN,Brown,2.42,2.39,2.41,2.4,2.39,2.39,2.39,2.38,2.38,2.35
+1,Avg household size of renter-occupied unit,MN,Brown,1.8,1.86,1.79,1.8,1.83,1.84,1.81,1.81,1.76,1.78
+36,Owner-Occupied,MN,Brown,20801,20395,20440,20099,19965,19850,20080,19789,19846,20023
+37,Renter-Occupied,MN,Brown,3943,4317,4153,4364,4374,4374,4073,4281,4197,3982
+0,Avg household size of owner-occupied unit,MN,Carlton,2.56,2.53,2.56,2.52,2.56,2.6,2.63,2.59,2.59,2.54
+1,Avg household size of renter-occupied unit,MN,Carlton,1.9,2.0,2.02,2.15,2.21,2.18,2.18,2.11,2.07,2.09
+36,Owner-Occupied,MN,Carlton,28239,28038,27596,27189,27118,27382,27611,27675,27904,27575
+37,Renter-Occupied,MN,Carlton,5099,5448,5988,6448,6537,6241,6105,5745,5477,5739
+0,Avg household size of owner-occupied unit,MN,Carver,2.86,2.85,2.86,2.86,2.9,2.88,2.89,2.9,2.9,2.87
+1,Avg household size of renter-occupied unit,MN,Carver,2.07,2.08,2.21,2.21,2.16,2.24,2.19,2.2,2.25,2.21
+36,Owner-Occupied,MN,Carver,77015,77523,76953,78286,79611,79686,80756,83316,84635,86393
+37,Renter-Occupied,MN,Carver,10949,11570,13465,13557,13696,15149,15495,14596,14906,14683
+0,Avg household size of owner-occupied unit,MN,Cass,2.2,2.18,2.19,2.2,2.19,2.2,2.21,2.2,2.2,2.19
+1,Avg household size of renter-occupied unit,MN,Cass,2.1,2.13,2.12,2.08,2.15,2.17,2.22,2.17,2.2,2.21
+36,Owner-Occupied,MN,Cass,23769,23244,23065,22962,22826,22828,22804,23031,23409,23490
+37,Renter-Occupied,MN,Cass,4519,4891,5050,5152,5322,5353,5484,5419,5232,5386
+0,Avg household size of owner-occupied unit,MN,Chippewa,2.51,2.45,2.47,2.46,2.4,2.39,2.42,2.39,2.4,2.4
+1,Avg household size of renter-occupied unit,MN,Chippewa,1.89,1.96,1.94,2.11,2.28,2.28,2.26,2.25,2.11,1.94
+36,Owner-Occupied,MN,Chippewa,9699,9440,9292,8985,8799,8474,8605,8411,8230,8324
+37,Renter-Occupied,MN,Chippewa,2518,2691,2772,3024,3167,3411,3252,3363,3511,3359
+0,Avg household size of owner-occupied unit,MN,Chisago,2.68,2.7,2.7,2.75,2.72,2.71,2.72,2.72,2.71,2.72
+1,Avg household size of renter-occupied unit,MN,Chisago,2.12,2.18,2.21,2.13,2.15,2.15,2.16,2.14,2.14,2.15
+36,Owner-Occupied,MN,Chisago,44889,45338,45197,45543,45490,45598,45815,46228,46775,47477
+37,Renter-Occupied,MN,Chisago,5501,6028,6460,6409,6544,6410,6391,6208,6074,5948
+0,Avg household size of owner-occupied unit,MN,Clay,2.6,2.61,2.62,2.64,2.67,2.69,2.67,2.66,2.67,2.63
+1,Avg household size of renter-occupied unit,MN,Clay,2.04,2.09,2.04,2.08,2.09,2.09,2.09,2.08,2.07,2.09
+36,Owner-Occupied,MN,Clay,40169,40464,40986,41129,41732,42766,42900,42879,43524,43278
+37,Renter-Occupied,MN,Clay,12731,13362,13762,14320,14383,14143,14541,15275,15530,16558
+0,Avg household size of owner-occupied unit,MN,Clearwater,2.34,2.38,2.41,2.44,2.51,2.55,2.58,2.59,2.57,2.6
+1,Avg household size of renter-occupied unit,MN,Clearwater,2.02,2.09,2.13,2.23,2.16,2.23,2.29,2.36,2.28,2.36
+36,Owner-Occupied,MN,Clearwater,6706,6810,6810,6965,7089,6965,6973,7052,7086,7197
+37,Renter-Occupied,MN,Clearwater,1669,1714,1738,1643,1532,1672,1675,1655,1608,1504
+0,Avg household size of owner-occupied unit,MN,Cook,2.13,2.08,2.08,2.08,2.08,2.06,2.06,2.03,2.06,2.05
+1,Avg household size of renter-occupied unit,MN,Cook,1.62,1.61,1.62,1.61,1.58,1.55,1.56,1.62,1.57,1.72
+36,Owner-Occupied,MN,Cook,4077,3960,3921,3976,4003,4035,4052,4103,4170,4235
+37,Renter-Occupied,MN,Cook,1126,1164,1198,1136,1111,1080,1084,1092,1067,1069
+0,Avg household size of owner-occupied unit,MN,Cottonwood,2.51,2.47,2.45,2.46,2.38,2.38,2.35,2.34,2.31,2.37
+1,Avg household size of renter-occupied unit,MN,Cottonwood,1.74,1.77,1.91,2.01,2.23,2.37,2.3,2.18,2.19,1.91
+36,Owner-Occupied,MN,Cottonwood,9831,9565,9545,9321,8984,8940,8869,8766,8759,8974
+37,Renter-Occupied,MN,Cottonwood,1746,1749,1772,2029,2395,2420,2404,2382,2317,2033
+0,Avg household size of owner-occupied unit,MN,Crow Wing,2.38,2.38,2.37,2.37,2.41,2.43,2.45,2.47,2.46,2.46
+1,Avg household size of renter-occupied unit,MN,Crow Wing,1.88,1.96,2.05,2.08,2.1,2.14,2.12,2.11,2.03,2.03
+36,Owner-Occupied,MN,Crow Wing,48882,49007,47921,47603,48029,48218,48565,49145,49800,50486
+37,Renter-Occupied,MN,Crow Wing,11982,12396,13765,14320,14041,13974,13881,13463,13128,12784
+0,Avg household size of owner-occupied unit,MN,Dakota,2.7,2.71,2.7,2.68,2.68,2.69,2.69,2.69,2.69,2.7
+1,Avg household size of renter-occupied unit,MN,Dakota,2.16,2.19,2.24,2.31,2.33,2.31,2.31,2.33,2.33,2.3
+36,Owner-Occupied,MN,Dakota,319823,320930,317688,313557,313670,314413,314830,317259,319785,322259
+37,Renter-Occupied,MN,Dakota,70944,73198,79267,86184,89237,91339,93900,94739,95778,96511
+0,Avg household size of owner-occupied unit,MN,Dodge,2.77,2.74,2.75,2.8,2.75,2.73,2.76,2.72,2.68,2.71
+1,Avg household size of renter-occupied unit,MN,Dodge,2.28,2.38,2.42,2.32,2.31,2.35,2.21,2.3,2.5,2.32
+36,Owner-Occupied,MN,Dodge,17616,17478,17444,17589,17347,17095,17370,17228,17034,17629
+37,Renter-Occupied,MN,Dodge,2155,2296,2449,2406,2738,3042,2838,3105,3394,2886
+0,Avg household size of owner-occupied unit,MN,Douglas,2.38,2.36,2.4,2.41,2.48,2.47,2.46,2.41,2.39,2.37
+1,Avg household size of renter-occupied unit,MN,Douglas,1.65,1.65,1.72,1.79,1.7,1.85,1.82,1.74,1.78,1.78
+36,Owner-Occupied,MN,Douglas,29169,28873,28785,28974,29530,29269,29736,29331,29108,29294
+37,Renter-Occupied,MN,Douglas,6347,6555,6771,6701,6314,6806,6576,7003,7525,7634
+0,Avg household size of owner-occupied unit,MN,Faribault,2.36,2.34,2.29,2.26,2.27,2.24,2.25,2.3,2.34,2.29
+1,Avg household size of renter-occupied unit,MN,Faribault,2.08,1.99,1.98,2.08,2.03,1.99,1.94,1.83,1.86,1.89
+36,Owner-Occupied,MN,Faribault,12018,11803,11594,11240,11054,10954,10875,10907,10950,10900
+37,Renter-Occupied,MN,Faribault,2510,2461,2535,2800,2920,2946,2922,2753,2649,2609
+0,Avg household size of owner-occupied unit,MN,Fillmore,2.46,2.49,2.51,2.53,2.54,2.52,2.51,2.48,2.51,2.49
+1,Avg household size of renter-occupied unit,MN,Fillmore,2.13,2.05,1.96,2.05,2.0,1.98,1.99,1.93,1.88,1.93
+36,Owner-Occupied,MN,Fillmore,16764,17000,16906,16734,16885,16812,16909,17075,17315,17334
+37,Renter-Occupied,MN,Fillmore,3689,3459,3507,3697,3545,3652,3585,3354,3159,3187
+0,Avg household size of owner-occupied unit,MN,Freeborn,2.38,2.38,2.38,2.38,2.41,2.41,2.4,2.39,2.39,2.37
+1,Avg household size of renter-occupied unit,MN,Freeborn,2.02,2.13,2.05,2.07,2.06,2.08,2.05,2.07,2.06,2.08
+36,Owner-Occupied,MN,Freeborn,25194,24866,24326,24359,23976,23884,23613,23817,23352,23591
+37,Renter-Occupied,MN,Freeborn,5239,5895,6310,6214,6473,6387,6523,6203,6590,6299
+0,Avg household size of owner-occupied unit,MN,Goodhue,2.54,2.52,2.53,2.56,2.57,2.55,2.52,2.48,2.5,2.49
+1,Avg household size of renter-occupied unit,MN,Goodhue,1.95,2.01,2.02,1.97,1.97,2.01,1.97,1.91,1.87,1.84
+36,Owner-Occupied,MN,Goodhue,37396,37024,36612,36904,36596,36313,36362,35792,36219,36410
+37,Renter-Occupied,MN,Goodhue,7829,8092,8596,8428,8812,9119,9137,9384,9021,8831
+0,Avg household size of owner-occupied unit,MN,Grant,2.34,2.34,2.33,2.38,2.38,2.44,2.39,2.4,2.36,2.32
+1,Avg household size of renter-occupied unit,MN,Grant,1.73,1.81,1.86,1.82,1.85,1.82,1.93,1.92,1.84,1.97
+36,Owner-Occupied,MN,Grant,4877,4816,4811,4929,4953,4953,4871,4827,4873,4685
+37,Renter-Occupied,MN,Grant,997,1073,1053,928,911,909,978,1008,979,1163
+0,Avg household size of owner-occupied unit,MN,Hennepin,2.49,2.5,2.51,2.51,2.52,2.52,2.53,2.53,2.54,2.55
+1,Avg household size of renter-occupied unit,MN,Hennepin,2.06,2.09,2.11,2.15,2.18,2.18,2.18,2.19,2.18,2.16
+36,Owner-Occupied,MN,Hennepin,770323,771420,771619,770448,770435,773354,777241,789131,798098,807549
+37,Renter-Occupied,MN,Hennepin,340667,348992,361154,374965,388497,399297,406951,410589,412601,413682
+0,Avg household size of owner-occupied unit,MN,Houston,2.51,2.48,2.47,2.47,2.45,2.42,2.4,2.35,2.35,2.33
+1,Avg household size of renter-occupied unit,MN,Houston,2.05,2.03,2.03,2.04,2.02,2.04,1.98,1.97,1.86,1.82
+36,Owner-Occupied,MN,Houston,15955,15857,15639,15568,15439,15431,15478,15283,15349,15400
+37,Renter-Occupied,MN,Houston,2915,2892,3026,3042,3129,3108,3039,3158,3046,2988
+0,Avg household size of owner-occupied unit,MN,Hubbard,2.39,2.37,2.4,2.4,2.38,2.37,2.38,2.37,2.39,2.41
+1,Avg household size of renter-occupied unit,MN,Hubbard,2.13,2.15,2.17,2.07,2.09,2.1,2.19,2.25,2.3,2.34
+36,Owner-Occupied,MN,Hubbard,16930,17044,16869,16948,16927,16976,16945,17096,17047,16988
+37,Renter-Occupied,MN,Hubbard,3275,3106,3333,3327,3428,3439,3533,3475,3620,3817
+0,Avg household size of owner-occupied unit,MN,Isanti,2.75,2.83,2.82,2.8,2.77,2.76,2.7,2.69,2.7,2.72
+1,Avg household size of renter-occupied unit,MN,Isanti,2.19,2.2,2.29,2.32,2.34,2.34,2.31,2.25,2.19,2.08
+36,Owner-Occupied,MN,Isanti,31945,32079,31836,31484,31528,31407,31627,31955,32585,33441
+37,Renter-Occupied,MN,Isanti,5152,5324,5634,6034,6078,6287,6238,6039,5807,5411
+0,Avg household size of owner-occupied unit,MN,Itasca,2.4,2.44,2.41,2.42,2.41,2.39,2.37,2.33,2.35,2.32
+1,Avg household size of renter-occupied unit,MN,Itasca,1.89,1.95,1.97,2.01,2.12,2.11,2.05,2.06,1.97,1.96
+36,Owner-Occupied,MN,Itasca,37183,37361,36863,36939,36315,36003,36393,36185,36352,36794
+37,Renter-Occupied,MN,Itasca,6619,6733,7292,7281,7919,8203,7786,7838,7670,7157
+0,Avg household size of owner-occupied unit,MN,Jackson,2.3,2.23,2.24,2.28,2.32,2.38,2.38,2.35,2.33,2.29
+1,Avg household size of renter-occupied unit,MN,Jackson,2.11,2.19,2.18,2.17,2.1,2.12,2.08,2.1,2.02,1.96
+36,Owner-Occupied,MN,Jackson,8182,7947,7881,8019,7963,7918,8010,8035,7982,8196
+37,Renter-Occupied,MN,Jackson,2051,2121,2168,2054,2135,2166,2022,1943,1938,1641
+0,Avg household size of owner-occupied unit,MN,Kanabec,2.62,2.65,2.62,2.62,2.58,2.56,2.49,2.5,2.48,2.52
+1,Avg household size of renter-occupied unit,MN,Kanabec,2.15,2.15,2.14,2.19,2.37,2.48,2.49,2.35,2.27,2.15
+36,Owner-Occupied,MN,Kanabec,14028,13798,13544,13246,12708,12748,12649,12955,13300,13749
+37,Renter-Occupied,MN,Kanabec,2341,2383,2518,2684,3146,3013,3038,2763,2477,2105
+0,Avg household size of owner-occupied unit,MN,Kandiyohi,2.54,2.52,2.52,2.52,2.53,2.59,2.54,2.53,2.55,2.51
+1,Avg household size of renter-occupied unit,MN,Kandiyohi,1.92,1.99,2.01,2.13,2.19,2.19,2.3,2.31,2.3,2.35
+36,Owner-Occupied,MN,Kandiyohi,32834,32310,31986,31600,31755,31393,30920,31365,31547,31391
+37,Renter-Occupied,MN,Kandiyohi,7947,8802,9213,9685,9552,10008,10534,10124,10004,10321
+0,Avg household size of owner-occupied unit,MN,Kittson,2.31,2.31,2.34,2.38,2.35,2.35,2.31,2.29,2.24,2.26
+1,Avg household size of renter-occupied unit,MN,Kittson,2.11,2.06,1.98,1.92,1.98,1.96,1.9,1.9,1.88,1.8
+36,Owner-Occupied,MN,Kittson,3891,3806,3754,3756,3658,3633,3599,3478,3395,3384
+37,Renter-Occupied,MN,Kittson,576,627,656,638,713,720,670,705,705,650
+0,Avg household size of owner-occupied unit,MN,Koochiching,2.27,2.27,2.27,2.26,2.26,2.28,2.28,2.29,2.27,2.28
+1,Avg household size of renter-occupied unit,MN,Koochiching,1.73,1.62,1.62,1.63,1.75,1.83,1.92,1.93,2.01,1.92
+36,Owner-Occupied,MN,Koochiching,10825,10665,10576,10579,10346,10416,10345,10146,9768,9927
+37,Renter-Occupied,MN,Koochiching,2550,2406,2412,2364,2481,2330,2275,2313,2545,2253
+0,Avg household size of owner-occupied unit,MN,Lac qui Parle,2.33,2.39,2.36,2.34,2.31,2.3,2.24,2.19,2.22,2.21
+1,Avg household size of renter-occupied unit,MN,Lac qui Parle,1.87,1.97,2.05,2.03,1.96,1.96,1.91,1.77,1.8,1.79
+36,Owner-Occupied,MN,Lac qui Parle,6131,6112,6094,5946,5796,5707,5600,5599,5541,5517
+37,Renter-Occupied,MN,Lac qui Parle,958,1018,984,1086,1153,1173,1172,1098,1088,1056
+0,Avg household size of owner-occupied unit,MN,Lake,2.16,2.14,2.13,2.16,2.16,2.13,2.08,2.09,2.06,2.05
+1,Avg household size of renter-occupied unit,MN,Lake,1.58,1.55,1.74,1.85,1.81,1.78,1.72,1.7,1.67,1.69
+36,Owner-Occupied,MN,Lake,8953,8892,8828,8895,8882,8661,8724,8914,8650,8718
+37,Renter-Occupied,MN,Lake,1645,1591,1660,1607,1618,1825,1731,1398,1650,1575
+0,Avg household size of owner-occupied unit,MN,Lake of the Woods,2.33,2.32,2.29,2.38,2.34,2.45,2.57,2.65,2.51,2.61
+1,Avg household size of renter-occupied unit,MN,Lake of the Woods,2.22,2.57,2.33,2.35,2.09,2.09,1.98,1.64,1.75,2.19
+36,Owner-Occupied,MN,Lake of the Woods,3644,3560,3584,3490,3458,3397,3362,3321,3236,3105
+37,Renter-Occupied,MN,Lake of the Woods,493,502,421,462,460,493,480,462,517,614
+0,Avg household size of owner-occupied unit,MN,Le Sueur,2.6,2.56,2.57,2.56,2.57,2.61,2.63,2.6,2.61,2.61
+1,Avg household size of renter-occupied unit,MN,Le Sueur,2.24,2.26,2.17,2.21,2.13,2.12,2.07,2.21,2.21,2.28
+36,Owner-Occupied,MN,Le Sueur,23442,23235,23298,23005,23009,23076,23077,23064,23038,23277
+37,Renter-Occupied,MN,Le Sueur,3904,4235,4163,4433,4354,4249,4198,4351,4560,4588
+0,Avg household size of owner-occupied unit,MN,Lincoln,2.4,2.36,2.36,2.41,2.42,2.37,2.35,2.32,2.32,2.32
+1,Avg household size of renter-occupied unit,MN,Lincoln,1.72,1.62,1.67,1.7,1.7,1.81,1.95,1.9,1.93,1.89
+36,Owner-Occupied,MN,Lincoln,5210,5066,5001,4906,4835,4687,4611,4545,4493,4504
+37,Renter-Occupied,MN,Lincoln,715,680,707,767,800,936,998,995,1029,989
+0,Avg household size of owner-occupied unit,MN,Lyon,2.58,2.58,2.56,2.59,2.58,2.61,2.61,2.63,2.61,2.57
+1,Avg household size of renter-occupied unit,MN,Lyon,1.86,2.02,2.07,2.09,2.13,2.13,2.04,2.03,2.09,2.17
+36,Owner-Occupied,MN,Lyon,18070,17823,17603,17632,17523,17638,17774,18018,17854,17603
+37,Renter-Occupied,MN,Lyon,6074,6616,6865,6844,6982,6835,6642,6494,6701,6878
+0,Avg household size of owner-occupied unit,MN,McLeod,2.63,2.58,2.56,2.57,2.57,2.56,2.55,2.53,2.51,2.53
+1,Avg household size of renter-occupied unit,MN,McLeod,1.98,1.94,1.91,1.99,1.95,1.89,1.91,1.95,1.98,2.0
+36,Owner-Occupied,MN,McLeod,30455,29611,29312,28772,28812,28930,29014,29202,28549,28949
+37,Renter-Occupied,MN,McLeod,5800,6555,6659,7010,6857,6664,6497,6235,6933,6560
+0,Avg household size of owner-occupied unit,MN,Mahnomen,2.63,2.64,2.58,2.56,2.59,2.6,2.61,2.67,2.73,2.68
+1,Avg household size of renter-occupied unit,MN,Mahnomen,2.68,2.68,2.74,2.77,2.91,3.03,3.06,3.08,3.01,3.05
+36,Owner-Occupied,MN,Mahnomen,3916,3931,3915,3825,3804,3813,3705,3618,3692,3546
+37,Renter-Occupied,MN,Mahnomen,1352,1383,1445,1570,1609,1617,1710,1824,1760,1899
+0,Avg household size of owner-occupied unit,MN,Marshall,2.4,2.39,2.4,2.43,2.44,2.46,2.47,2.49,2.46,2.43
+1,Avg household size of renter-occupied unit,MN,Marshall,1.73,1.78,1.78,1.68,1.67,1.75,1.72,1.77,1.83,1.86
+36,Owner-Occupied,MN,Marshall,8255,8108,8056,8012,8026,7997,8006,7973,7968,7983
+37,Renter-Occupied,MN,Marshall,1207,1282,1292,1321,1305,1353,1297,1326,1320,1284
+0,Avg household size of owner-occupied unit,MN,Martin,2.44,2.41,2.42,2.43,2.42,2.39,2.39,2.39,2.37,2.37
+1,Avg household size of renter-occupied unit,MN,Martin,1.72,1.86,1.89,1.91,1.9,1.91,1.9,1.94,1.98,1.84
+36,Owner-Occupied,MN,Martin,17088,16614,16234,16184,16202,15566,15591,15466,15039,15312
+37,Renter-Occupied,MN,Martin,3402,3812,4113,4085,3951,4425,4251,4275,4589,4222
+0,Avg household size of owner-occupied unit,MN,Meeker,2.53,2.52,2.49,2.54,2.54,2.59,2.6,2.62,2.61,2.61
+1,Avg household size of renter-occupied unit,MN,Meeker,2.11,2.1,2.21,2.13,2.12,2.03,2.07,1.98,1.96,1.9
+36,Owner-Occupied,MN,Meeker,19413,19340,18963,19062,18637,19070,18875,18885,18960,19311
+37,Renter-Occupied,MN,Meeker,3649,3623,3919,3764,4145,3698,3854,3858,3757,3433
+0,Avg household size of owner-occupied unit,MN,Mille Lacs,2.51,2.51,2.5,2.53,2.54,2.58,2.56,2.54,2.55,2.58
+1,Avg household size of renter-occupied unit,MN,Mille Lacs,1.97,2.11,2.22,2.27,2.3,2.35,2.42,2.32,2.29,2.16
+36,Owner-Occupied,MN,Mille Lacs,20514,20328,19879,19306,19145,19080,18991,18992,19408,19845
+37,Renter-Occupied,MN,Mille Lacs,4687,5237,5588,6087,6211,6201,6266,6118,5805,5505
+0,Avg household size of owner-occupied unit,MN,Morrison,2.48,2.5,2.52,2.54,2.51,2.52,2.54,2.52,2.49,2.52
+1,Avg household size of renter-occupied unit,MN,Morrison,1.99,2.0,1.95,1.98,1.99,2.06,2.04,2.06,2.09,2.13
+36,Owner-Occupied,MN,Morrison,26865,27093,27280,27232,27221,26811,26569,26644,26216,26026
+37,Renter-Occupied,MN,Morrison,5260,5492,5300,5296,5263,5591,5720,5683,6181,6486
+0,Avg household size of owner-occupied unit,MN,Mower,2.47,2.45,2.46,2.5,2.56,2.55,2.54,2.53,2.58,2.54
+1,Avg household size of renter-occupied unit,MN,Mower,2.17,2.21,2.27,2.27,2.32,2.39,2.42,2.39,2.3,2.41
+36,Owner-Occupied,MN,Mower,29613,28751,28745,28439,28597,28282,28460,28819,29438,28900
+37,Renter-Occupied,MN,Mower,8765,9554,9716,10189,10121,10359,10156,9900,9432,10117
+0,Avg household size of owner-occupied unit,MN,Murray,2.27,2.24,2.25,2.26,2.28,2.31,2.3,2.3,2.29,2.35
+1,Avg household size of renter-occupied unit,MN,Murray,1.91,1.95,2.0,2.02,2.02,1.94,1.95,1.85,1.89,1.77
+36,Owner-Occupied,MN,Murray,7231,7337,7209,7056,7071,7008,6900,6951,6914,6942
+37,Renter-Occupied,MN,Murray,1223,1234,1321,1420,1352,1357,1399,1283,1287,1214
+0,Avg household size of owner-occupied unit,MN,Nicollet,2.6,2.58,2.61,2.59,2.56,2.52,2.54,2.54,2.57,2.59
+1,Avg household size of renter-occupied unit,MN,Nicollet,2.08,2.14,2.08,2.12,2.04,2.03,2.05,2.07,2.01,1.89
+36,Owner-Occupied,MN,Nicollet,23443,23338,23749,23418,23303,23228,23248,23408,24048,24617
+37,Renter-Occupied,MN,Nicollet,6511,6843,6398,6707,6795,6933,7007,7128,6772,6371
+0,Avg household size of owner-occupied unit,MN,Nobles,2.57,2.58,2.61,2.62,2.67,2.69,2.63,2.7,2.77,2.7
+1,Avg household size of renter-occupied unit,MN,Nobles,2.54,2.62,2.73,2.71,2.77,2.77,2.86,2.73,2.56,2.53
+36,Owner-Occupied,MN,Nobles,15149,14928,15149,15051,15038,15198,14731,15183,15589,15323
+37,Renter-Occupied,MN,Nobles,5491,5878,5810,6042,6139,6059,6565,6235,5809,5963
+0,Avg household size of owner-occupied unit,MN,Norman,2.49,2.47,2.52,2.53,2.46,2.49,2.5,2.45,2.4,2.44
+1,Avg household size of renter-occupied unit,MN,Norman,1.79,1.87,1.84,1.94,2.04,2.03,2.02,1.96,1.92,1.78
+36,Owner-Occupied,MN,Norman,5675,5639,5655,5604,5460,5480,5480,5422,5392,5490
+37,Renter-Occupied,MN,Norman,1088,1061,998,1011,1127,1070,1016,1023,1022,882
+0,Avg household size of owner-occupied unit,MN,Olmsted,2.63,2.62,2.62,2.62,2.61,2.64,2.62,2.62,2.61,2.6
+1,Avg household size of renter-occupied unit,MN,Olmsted,1.93,2.0,2.1,2.13,2.18,2.18,2.19,2.14,2.12,2.05
+36,Owner-Occupied,MN,Olmsted,112905,112771,111996,112459,111617,112681,113655,115501,115943,117544
+37,Renter-Occupied,MN,Olmsted,25422,27214,29565,30656,32908,33159,33623,33480,34512,34686
+0,Avg household size of owner-occupied unit,MN,Otter Tail,2.4,2.39,2.39,2.41,2.44,2.46,2.47,2.46,2.48,2.43
+1,Avg household size of renter-occupied unit,MN,Otter Tail,1.84,1.87,1.91,1.89,1.89,1.9,1.93,1.86,1.87,1.87
+36,Owner-Occupied,MN,Otter Tail,46649,46297,46138,46292,46559,46488,46643,47072,47293,47004
+37,Renter-Occupied,MN,Otter Tail,9712,9648,9793,9693,9539,9797,9875,9567,9560,10047
+0,Avg household size of owner-occupied unit,MN,Pennington,2.5,2.44,2.49,2.49,2.53,2.49,2.57,2.54,2.45,2.45
+1,Avg household size of renter-occupied unit,MN,Pennington,1.89,1.83,1.85,1.9,1.86,1.92,1.75,1.89,1.98,1.98
+36,Owner-Occupied,MN,Pennington,11089,10946,10843,10911,10993,10883,11125,11009,10857,10695
+37,Renter-Occupied,MN,Pennington,2439,2459,2654,2720,2745,2966,2777,2929,3063,3223
+0,Avg household size of owner-occupied unit,MN,Pine,2.46,2.39,2.36,2.41,2.43,2.48,2.58,2.64,2.64,2.63
+1,Avg household size of renter-occupied unit,MN,Pine,2.32,2.19,2.16,2.13,2.16,2.2,2.16,2.19,2.28,2.24
+36,Owner-Occupied,MN,Pine,23284,22979,22768,22483,22267,21998,22042,22258,22491,22940
+37,Renter-Occupied,MN,Pine,4920,4886,5039,5179,5319,5460,5285,5070,4944,4602
+0,Avg household size of owner-occupied unit,MN,Pipestone,2.52,2.46,2.51,2.45,2.4,2.4,2.36,2.33,2.36,2.4
+1,Avg household size of renter-occupied unit,MN,Pipestone,2.15,2.14,2.1,2.11,2.02,2.02,2.03,2.03,1.93,1.89
+36,Owner-Occupied,MN,Pipestone,7596,7240,7132,6995,7100,7106,7154,7001,6992,7132
+37,Renter-Occupied,MN,Pipestone,1964,2095,2177,2261,2105,2062,1950,2049,2014,1881
+0,Avg household size of owner-occupied unit,MN,Polk,2.48,2.53,2.52,2.54,2.52,2.51,2.54,2.56,2.58,2.58
+1,Avg household size of renter-occupied unit,MN,Polk,1.91,2.07,2.03,1.97,2.06,2.02,1.99,1.95,1.97,1.9
+36,Owner-Occupied,MN,Polk,22627,23090,22827,22766,22805,23092,23366,23642,23711,23698
+37,Renter-Occupied,MN,Polk,6443,6838,7157,7324,7405,7094,6805,6564,6554,6481
+0,Avg household size of owner-occupied unit,MN,Pope,2.38,2.37,2.38,2.37,2.35,2.33,2.34,2.31,2.27,2.3
+1,Avg household size of renter-occupied unit,MN,Pope,1.73,1.76,1.8,1.8,1.86,1.83,1.82,1.74,1.8,1.76
+36,Owner-Occupied,MN,Pope,8979,8886,9017,9002,8869,8983,9023,8947,8795,8864
+37,Renter-Occupied,MN,Pope,1837,1894,1735,1735,1863,1751,1737,1770,1973,1973
+0,Avg household size of owner-occupied unit,MN,Ramsey,2.53,2.53,2.54,2.55,2.56,2.58,2.59,2.62,2.64,2.66
+1,Avg household size of renter-occupied unit,MN,Ramsey,2.17,2.18,2.23,2.25,2.29,2.32,2.34,2.34,2.34,2.34
+36,Owner-Occupied,MN,Ramsey,320439,316368,312529,313280,313078,315006,317407,323745,326906,330542
+37,Renter-Occupied,MN,Ramsey,166364,173454,181724,186057,192100,196636,198459,198672,199172,198659
+0,Avg household size of owner-occupied unit,MN,Red Lake,2.37,2.44,2.47,2.49,2.44,2.51,2.51,2.43,2.46,2.5
+1,Avg household size of renter-occupied unit,MN,Red Lake,1.72,1.71,1.88,1.95,1.87,2.02,1.89,1.83,1.77,1.81
+36,Owner-Occupied,MN,Red Lake,3459,3456,3440,3384,3407,3438,3392,3419,3491,3484
+37,Renter-Occupied,MN,Red Lake,500,521,560,626,610,590,617,566,484,497
+0,Avg household size of owner-occupied unit,MN,Redwood,2.41,2.47,2.45,2.46,2.42,2.47,2.43,2.41,2.44,2.45
+1,Avg household size of renter-occupied unit,MN,Redwood,2.04,1.96,2.1,2.13,2.27,2.3,2.4,2.31,2.25,2.13
+36,Owner-Occupied,MN,Redwood,12578,12723,12372,12436,12306,12212,12074,11729,11863,12031
+37,Renter-Occupied,MN,Redwood,2951,2844,3180,3080,3117,3118,3116,3320,3094,2864
+0,Avg household size of owner-occupied unit,MN,Renville,2.5,2.47,2.47,2.47,2.45,2.44,2.46,2.41,2.39,2.41
+1,Avg household size of renter-occupied unit,MN,Renville,2.06,2.09,2.07,1.99,1.97,1.95,2.03,2.0,2.07,2.14
+36,Owner-Occupied,MN,Renville,12944,12624,12524,12432,12320,12299,12038,11899,11678,11430
+37,Renter-Occupied,MN,Renville,2782,2868,2785,2727,2666,2523,2608,2547,2690,2869
+0,Avg household size of owner-occupied unit,MN,Rice,2.63,2.62,2.57,2.59,2.6,2.59,2.59,2.57,2.59,2.64
+1,Avg household size of renter-occupied unit,MN,Rice,2.12,2.16,2.2,2.26,2.2,2.24,2.26,2.26,2.22,2.14
+36,Owner-Occupied,MN,Rice,45037,44712,43916,43600,44047,43071,43549,43740,44421,44960
+37,Renter-Occupied,MN,Rice,10809,10873,11792,12343,12166,13150,13223,13290,13042,12836
+0,Avg household size of owner-occupied unit,MN,Rock,2.54,2.51,2.5,2.48,2.47,2.47,2.44,2.41,2.43,2.45
+1,Avg household size of renter-occupied unit,MN,Rock,2.1,1.97,1.94,1.96,2.07,2.08,2.13,1.99,1.94,1.99
+36,Owner-Occupied,MN,Rock,7836,7529,7518,7505,7344,7292,7119,7150,7188,7228
+37,Renter-Occupied,MN,Rock,1687,1864,1861,1850,1992,2017,2177,2021,1963,1915
+0,Avg household size of owner-occupied unit,MN,Roseau,2.63,2.59,2.58,2.55,2.56,2.56,2.65,2.64,2.69,2.67
+1,Avg household size of renter-occupied unit,MN,Roseau,1.81,1.85,1.87,1.87,1.9,1.99,2.0,1.98,1.98,1.93
+36,Owner-Occupied,MN,Roseau,13379,13140,12755,12729,12650,12704,12888,12732,12844,13031
+37,Renter-Occupied,MN,Roseau,2246,2383,2670,2630,2667,2693,2500,2588,2397,2126
+0,Avg household size of owner-occupied unit,MN,St. Louis,2.33,2.33,2.36,2.35,2.36,2.36,2.35,2.34,2.33,2.33
+1,Avg household size of renter-occupied unit,MN,St. Louis,1.83,1.88,1.91,1.96,1.98,2.01,1.99,1.97,1.97,1.96
+36,Owner-Occupied,MN,St. Louis,146632,143784,143455,142720,142109,142014,141388,142067,141791,142451
+37,Renter-Occupied,MN,St. Louis,43465,46518,47038,47960,48891,49061,49540,48995,49198,48321
+0,Avg household size of owner-occupied unit,MN,Scott,2.93,2.92,2.92,2.92,2.95,2.97,3.0,3.01,3.02,3.0
+1,Avg household size of renter-occupied unit,MN,Scott,2.48,2.53,2.64,2.69,2.64,2.59,2.55,2.47,2.47,2.44
+36,Owner-Occupied,MN,Scott,111090,111780,112409,113074,114252,115407,117455,119751,120536,122824
+37,Renter-Occupied,MN,Scott,14575,15964,17411,18650,19658,20471,20524,20126,21183,20723
+0,Avg household size of owner-occupied unit,MN,Sherburne,2.96,3.01,2.97,2.97,2.94,2.96,2.94,2.94,2.96,2.97
+1,Avg household size of renter-occupied unit,MN,Sherburne,2.47,2.44,2.53,2.66,2.7,2.6,2.66,2.61,2.45,2.34
+36,Owner-Occupied,MN,Sherburne,73849,73502,73055,72741,72575,73113,74917,76148,77581,79956
+37,Renter-Occupied,MN,Sherburne,10595,12529,13618,14410,15170,15238,14147,13729,13516,12339
+0,Avg household size of owner-occupied unit,MN,Sibley,2.51,2.45,2.46,2.48,2.5,2.49,2.5,2.48,2.47,2.49
+1,Avg household size of renter-occupied unit,MN,Sibley,2.32,2.27,2.26,2.26,2.32,2.34,2.26,2.31,2.29,2.21
+36,Owner-Occupied,MN,Sibley,12578,12089,11990,11954,11924,11798,11762,11644,11780,11894
+37,Renter-Occupied,MN,Sibley,2567,2663,2802,2868,2903,3002,2968,3020,2907,2789
+0,Avg household size of owner-occupied unit,MN,Stearns,2.6,2.62,2.64,2.64,2.64,2.62,2.62,2.61,2.61,2.62
+1,Avg household size of renter-occupied unit,MN,Stearns,2.04,2.13,2.14,2.18,2.22,2.28,2.3,2.29,2.34,2.35
+36,Owner-Occupied,MN,Stearns,106834,107614,108177,107550,107104,104939,104145,105176,106025,106087
+37,Renter-Occupied,MN,Stearns,31074,32892,33259,34761,36028,39289,41269,41989,42812,44656
+0,Avg household size of owner-occupied unit,MN,Steele,2.64,2.64,2.64,2.63,2.63,2.64,2.64,2.62,2.63,2.61
+1,Avg household size of renter-occupied unit,MN,Steele,2.27,2.26,2.16,2.09,2.08,2.12,2.09,2.1,2.07,2.01
+36,Owner-Occupied,MN,Steele,29443,28927,28922,28917,28968,28765,28764,28920,28794,28784
+37,Renter-Occupied,MN,Steele,6761,6974,6976,6989,6909,7167,7202,7138,7339,7347
+0,Avg household size of owner-occupied unit,MN,Stevens,2.37,2.5,2.47,2.61,2.7,2.67,2.71,2.77,2.66,2.7
+1,Avg household size of renter-occupied unit,MN,Stevens,1.79,2.02,2.28,2.09,2.14,2.32,2.44,2.2,2.43,2.37
+36,Owner-Occupied,MN,Stevens,6005,6546,6621,6744,6708,6580,6541,6680,6529,6695
+37,Renter-Occupied,MN,Stevens,2128,2258,2312,2336,2525,2786,2818,2679,2858,2710
+0,Avg household size of owner-occupied unit,MN,Swift,2.33,2.34,2.32,2.34,2.35,2.29,2.35,2.35,2.32,2.29
+1,Avg household size of renter-occupied unit,MN,Swift,1.63,1.62,1.63,1.77,1.87,2.0,1.94,1.87,1.9,1.85
+36,Owner-Occupied,MN,Swift,7196,7181,7394,7408,7359,7117,6973,6865,6825,6861
+37,Renter-Occupied,MN,Swift,1801,1807,1817,2027,2058,2249,2354,2431,2433,2349
+0,Avg household size of owner-occupied unit,MN,Todd,2.54,2.56,2.52,2.54,2.53,2.53,2.5,2.54,2.53,2.54
+1,Avg household size of renter-occupied unit,MN,Todd,1.93,1.92,1.91,2.04,2.0,2.06,2.12,2.13,2.06,2.07
+36,Owner-Occupied,MN,Todd,21137,21119,21045,20860,20472,20337,20115,20278,20395,20591
+37,Renter-Occupied,MN,Todd,3340,3351,3348,3435,3712,3726,3857,3789,3680,3543
+0,Avg household size of owner-occupied unit,MN,Traverse,2.17,2.23,2.24,2.33,2.29,2.26,2.2,2.12,2.1,2.05
+1,Avg household size of renter-occupied unit,MN,Traverse,2.0,1.99,2.02,1.92,1.77,1.89,1.86,1.85,1.83,1.81
+36,Owner-Occupied,MN,Traverse,2850,2893,2851,2869,2834,2777,2787,2690,2658,2624
+37,Renter-Occupied,MN,Traverse,643,613,598,540,524,556,515,572,584,594
+0,Avg household size of owner-occupied unit,MN,Wabasha,2.59,2.56,2.51,2.47,2.44,2.44,2.43,2.47,2.49,2.45
+1,Avg household size of renter-occupied unit,MN,Wabasha,1.81,1.81,1.89,1.99,2.04,1.98,1.98,2.05,2.05,2.03
+36,Owner-Occupied,MN,Wabasha,18654,18710,18458,18114,18044,17799,17557,17752,17783,17370
+37,Renter-Occupied,MN,Wabasha,2884,2616,2827,3120,3147,3307,3501,3471,3454,3919
+0,Avg household size of owner-occupied unit,MN,Wadena,2.38,2.4,2.43,2.39,2.41,2.43,2.44,2.41,2.4,2.4
+1,Avg household size of renter-occupied unit,MN,Wadena,1.75,1.84,1.93,2.02,2.08,2.08,2.1,1.98,2.08,2.11
+36,Owner-Occupied,MN,Wadena,10853,10755,10625,10480,10314,10612,10392,10670,10576,10421
+37,Renter-Occupied,MN,Wadena,2461,2724,2827,2918,3045,2730,2942,2527,2643,2807
+0,Avg household size of owner-occupied unit,MN,Waseca,2.59,2.53,2.54,2.58,2.53,2.59,2.59,2.55,2.49,2.51
+1,Avg household size of renter-occupied unit,MN,Waseca,2.17,2.17,1.97,1.95,1.99,1.91,1.88,1.88,1.97,1.97
+36,Owner-Occupied,MN,Waseca,15119,14874,14943,14612,14625,14659,14514,14625,14571,14420
+37,Renter-Occupied,MN,Waseca,3119,3081,2944,3236,3254,3168,3265,3072,3122,3288
+0,Avg household size of owner-occupied unit,MN,Washington,2.77,2.76,2.77,2.77,2.76,2.76,2.78,2.77,2.76,2.77
+1,Avg household size of renter-occupied unit,MN,Washington,2.14,2.23,2.27,2.29,2.32,2.3,2.3,2.31,2.31,2.24
+36,Owner-Occupied,MN,Washington,201536,200362,199756,200316,200531,201330,203884,207394,209933,212463
+37,Renter-Occupied,MN,Washington,28863,33188,36340,38105,40199,41593,41047,39785,39559,39952
+0,Avg household size of owner-occupied unit,MN,Watonwan,2.53,2.51,2.51,2.51,2.55,2.51,2.42,2.49,2.54,2.54
+1,Avg household size of renter-occupied unit,MN,Watonwan,2.56,2.52,2.36,2.39,2.17,2.27,2.44,2.49,2.39,2.43
+36,Owner-Occupied,MN,Watonwan,8825,8752,8509,8309,8397,8310,7985,7929,8332,8404
+37,Renter-Occupied,MN,Watonwan,2316,2284,2513,2712,2601,2591,2857,2854,2490,2417
+0,Avg household size of owner-occupied unit,MN,Wilkin,2.42,2.59,2.54,2.61,2.52,2.47,2.36,2.38,2.33,2.35
+1,Avg household size of renter-occupied unit,MN,Wilkin,1.71,1.67,1.74,1.66,1.63,1.74,1.67,1.58,1.64,1.58
+36,Owner-Occupied,MN,Wilkin,5579,5699,5623,5409,5347,5167,5188,5150,5215,5170
+37,Renter-Occupied,MN,Wilkin,805,768,810,1010,1050,1186,1114,1080,966,973
+0,Avg household size of owner-occupied unit,MN,Winona,2.58,2.61,2.6,2.64,2.64,2.62,2.61,2.58,2.54,2.56
+1,Avg household size of renter-occupied unit,MN,Winona,2.05,2.05,2.07,2.07,2.03,2.08,2.09,2.1,2.08,2.06
+36,Owner-Occupied,MN,Winona,35874,35810,35838,35828,35374,34922,35029,34790,34654,35037
+37,Renter-Occupied,MN,Winona,11312,11440,11321,11108,11516,11947,11787,12098,12223,11849
+0,Avg household size of owner-occupied unit,MN,Wright,2.8,2.85,2.87,2.88,2.88,2.91,2.89,2.88,2.89,2.87
+1,Avg household size of renter-occupied unit,MN,Wright,2.07,2.09,2.18,2.27,2.37,2.39,2.43,2.36,2.34,2.28
+36,Owner-Occupied,MN,Wright,105880,107958,108443,108620,109487,108940,108469,110704,111355,113004
+37,Renter-Occupied,MN,Wright,13664,14092,15290,16484,16821,18635,20357,19302,20253,20293
+0,Avg household size of owner-occupied unit,MN,Yellow Medicine,2.49,2.45,2.45,2.42,2.44,2.42,2.44,2.42,2.4,2.42
+1,Avg household size of renter-occupied unit,MN,Yellow Medicine,2.41,2.44,2.4,2.41,2.13,2.02,1.96,1.98,1.95,1.99
+36,Owner-Occupied,MN,Yellow Medicine,8327,8046,8068,7928,8021,7997,7974,7823,7793,7860
+37,Renter-Occupied,MN,Yellow Medicine,2084,2121,2010,2081,1918,1795,1772,1820,1790,1675

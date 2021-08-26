@@ -1,0 +1,65 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,ME,Androscoggin,2.46,2.51,2.53,2.55,2.53,2.52,2.51,2.46,2.45,2.44
+1,Avg household size of renter-occupied unit,ME,Androscoggin,2.09,2.09,2.06,2.04,2.03,2.01,2.01,2.01,2.01,2.01
+36,Owner-Occupied,ME,Androscoggin,73624,74227,73642,72615,71981,71639,71404,71357,71608,71758
+37,Renter-Occupied,ME,Androscoggin,29525,30195,30841,31809,32330,32622,32790,32774,32645,32640
+0,Avg household size of owner-occupied unit,ME,Aroostook,2.43,2.44,2.42,2.38,2.37,2.37,2.37,2.35,2.36,2.36
+1,Avg household size of renter-occupied unit,ME,Aroostook,1.96,1.95,1.95,1.96,1.94,1.92,1.96,1.93,1.89,1.84
+36,Owner-Occupied,ME,Aroostook,53728,53306,52816,51974,51396,50794,50900,50326,50153,50229
+37,Renter-Occupied,ME,Aroostook,16799,16763,16869,17187,17170,17071,16350,16291,15826,15187
+0,Avg household size of owner-occupied unit,ME,Cumberland,2.49,2.49,2.48,2.48,2.5,2.53,2.53,2.51,2.52,2.51
+1,Avg household size of renter-occupied unit,ME,Cumberland,1.96,1.98,2.01,2.04,2.04,2.04,2.04,2.04,2.01,2.0
+36,Owner-Occupied,ME,Cumberland,199296,198100,198383,198524,199070,199974,202404,204760,207449,209711
+37,Renter-Occupied,ME,Cumberland,71846,74433,75263,76033,76828,77735,77375,76060,75167,74142
+0,Avg household size of owner-occupied unit,ME,Franklin,2.44,2.48,2.47,2.5,2.5,2.52,2.53,2.55,2.52,2.46
+1,Avg household size of renter-occupied unit,ME,Franklin,2.05,2.2,2.24,2.25,2.33,2.32,2.34,2.33,2.17,2.33
+36,Owner-Occupied,ME,Franklin,22739,22943,23102,23483,23409,23787,23610,23592,23542,23171
+37,Renter-Occupied,ME,Franklin,6477,6579,6470,6085,6064,5529,5494,5447,5343,5672
+0,Avg household size of owner-occupied unit,ME,Hancock,2.32,2.28,2.28,2.23,2.26,2.27,2.33,2.33,2.34,2.33
+1,Avg household size of renter-occupied unit,ME,Hancock,2.08,2.09,2.01,2.0,1.96,1.93,1.92,1.97,1.94,1.92
+36,Owner-Occupied,ME,Hancock,41036,40417,40725,40334,40036,40349,41009,40618,41603,42142
+37,Renter-Occupied,ME,Hancock,11623,12338,12062,12577,12916,12678,11852,12223,11277,10759
+0,Avg household size of owner-occupied unit,ME,Kennebec,2.45,2.43,2.44,2.41,2.44,2.41,2.45,2.44,2.42,2.41
+1,Avg household size of renter-occupied unit,ME,Kennebec,2.04,2.06,2.01,1.98,1.98,1.98,1.98,1.98,1.96,1.92
+36,Owner-Occupied,ME,Kennebec,90370,89364,88900,88224,87757,87281,87263,87459,88236,88472
+37,Renter-Occupied,ME,Kennebec,28589,29282,29754,30106,30243,30258,30020,30094,29559,29477
+0,Avg household size of owner-occupied unit,ME,Knox,2.35,2.36,2.35,2.33,2.32,2.35,2.38,2.33,2.31,2.33
+1,Avg household size of renter-occupied unit,ME,Knox,2.23,2.16,2.13,2.12,2.05,2.01,2.0,2.01,1.98,1.95
+36,Owner-Occupied,ME,Knox,30910,31451,31320,31074,30892,30477,30425,30275,30461,30626
+37,Renter-Occupied,ME,Knox,8428,7661,7536,7613,7676,8035,8036,8126,7863,7557
+0,Avg household size of owner-occupied unit,ME,Lincoln,2.25,2.27,2.24,2.27,2.25,2.27,2.28,2.26,2.24,2.23
+1,Avg household size of renter-occupied unit,ME,Lincoln,2.18,2.26,2.35,2.32,2.28,2.17,2.03,1.93,1.95,2.03
+36,Owner-Occupied,ME,Lincoln,29578,28994,28481,28063,27241,26857,26726,26974,26835,27077
+37,Renter-Occupied,ME,Lincoln,4814,5113,5438,5661,6371,6615,6744,6378,6567,6477
+0,Avg household size of owner-occupied unit,ME,Oxford,2.5,2.47,2.53,2.56,2.62,2.68,2.79,2.75,2.72,2.66
+1,Avg household size of renter-occupied unit,ME,Oxford,2.25,2.12,2.09,2.11,2.2,2.32,2.48,2.6,2.7,2.69
+36,Owner-Occupied,ME,Oxford,46014,45295,46082,46128,45846,46137,46299,45652,45621,45809
+37,Renter-Occupied,ME,Oxford,10948,10987,10269,10325,10738,10525,10229,10815,10968,11015
+0,Avg household size of owner-occupied unit,ME,Penobscot,2.47,2.49,2.47,2.48,2.5,2.5,2.48,2.47,2.49,2.46
+1,Avg household size of renter-occupied unit,ME,Penobscot,2.01,2.0,2.07,2.05,2.06,2.09,2.13,2.08,2.04,2.04
+36,Owner-Occupied,ME,Penobscot,108625,108446,104733,104105,104815,104554,104695,106528,107071,106282
+37,Renter-Occupied,ME,Penobscot,36866,37897,41986,42514,41848,42010,41472,38906,38027,38787
+0,Avg household size of owner-occupied unit,ME,Piscataquis,2.31,2.31,2.33,2.27,2.25,2.29,2.27,2.29,2.35,2.43
+1,Avg household size of renter-occupied unit,ME,Piscataquis,1.71,1.76,1.81,1.96,2.12,2.09,2.04,2.02,1.95,2.06
+36,Owner-Occupied,ME,Piscataquis,14453,14413,14175,13577,13249,12879,12799,13066,13053,12979
+37,Renter-Occupied,ME,Piscataquis,3044,2878,3013,3510,3757,3997,3963,3591,3500,3490
+0,Avg household size of owner-occupied unit,ME,Sagadahoc,2.52,2.48,2.48,2.41,2.36,2.31,2.27,2.26,2.3,2.32
+1,Avg household size of renter-occupied unit,ME,Sagadahoc,2.08,2.04,2.02,2.05,2.13,2.12,2.11,2.04,1.94,1.86
+36,Owner-Occupied,ME,Sagadahoc,28378,27976,27905,27568,27221,26846,27098,27099,27627,27673
+37,Renter-Occupied,ME,Sagadahoc,7191,7293,7204,7348,7619,8000,7797,7830,7449,7585
+0,Avg household size of owner-occupied unit,ME,Somerset,2.46,2.44,2.42,2.41,2.41,2.35,2.4,2.39,2.36,2.36
+1,Avg household size of renter-occupied unit,ME,Somerset,2.0,2.07,2.1,2.18,2.22,2.28,2.29,2.21,2.21,2.25
+36,Owner-Occupied,ME,Somerset,41451,41432,41189,41060,40636,39294,39168,38988,38438,38320
+37,Renter-Occupied,ME,Somerset,10032,9971,10106,10113,10401,11610,11501,11304,11542,11445
+0,Avg household size of owner-occupied unit,ME,Waldo,2.45,2.43,2.38,2.37,2.37,2.33,2.32,2.32,2.32,2.32
+1,Avg household size of renter-occupied unit,ME,Waldo,2.1,2.11,2.1,2.12,2.11,2.01,2.13,2.08,2.06,2.03
+36,Owner-Occupied,ME,Waldo,31366,31147,30742,30645,30374,30565,30218,31196,31560,31629
+37,Renter-Occupied,ME,Waldo,7016,7087,7439,7502,7780,7635,8057,7332,7182,7266
+0,Avg household size of owner-occupied unit,ME,Washington,2.33,2.3,2.3,2.25,2.24,2.23,2.22,2.22,2.26,2.24
+1,Avg household size of renter-occupied unit,ME,Washington,2.11,2.08,2.05,2.05,2.05,2.05,2.13,2.13,2.11,2.1
+36,Owner-Occupied,ME,Washington,25174,24825,24786,24577,24123,23731,23706,23535,23809,23689
+37,Renter-Occupied,ME,Washington,7135,6879,6753,6743,6988,7161,7178,7261,6874,6813
+0,Avg household size of owner-occupied unit,ME,York,2.52,2.53,2.52,2.51,2.5,2.49,2.48,2.46,2.46,2.47
+1,Avg household size of renter-occupied unit,ME,York,2.14,2.14,2.13,2.12,2.15,2.14,2.16,2.14,2.08,2.05
+36,Owner-Occupied,ME,York,152329,151963,148956,149005,148149,149579,150077,152960,154652,155418
+37,Renter-Occupied,ME,York,42620,43349,46500,46644,48026,47194,47459,45391,45295,45716

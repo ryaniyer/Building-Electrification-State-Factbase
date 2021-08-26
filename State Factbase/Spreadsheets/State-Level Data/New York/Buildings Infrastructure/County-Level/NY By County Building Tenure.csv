@@ -1,0 +1,249 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,NY,Albany,2.53,2.53,2.53,2.53,2.54,2.56,2.58,2.58,2.54,2.53
+1,Avg household size of renter-occupied unit,NY,Albany,1.97,2.0,2.05,2.08,2.08,2.06,2.03,1.99,1.99,1.98
+36,Owner-Occupied,NY,Albany,185552,185714,186649,184108,183417,184264,183554,183793,181131,180420
+37,Renter-Occupied,NY,Albany,100729,100226,100194,103638,105356,105986,107155,107418,108832,109154
+0,Avg household size of owner-occupied unit,NY,Allegany,2.44,2.39,2.42,2.41,2.45,2.43,2.43,2.4,2.4,2.4
+1,Avg household size of renter-occupied unit,NY,Allegany,2.08,2.1,2.06,2.06,2.11,2.16,2.19,2.16,2.15,2.11
+36,Owner-Occupied,NY,Allegany,35029,33726,33734,33250,33062,32523,32444,32329,32445,32838
+37,Renter-Occupied,NY,Allegany,9643,10177,10048,10348,10355,10632,10266,10075,9642,9004
+0,Avg household size of owner-occupied unit,NY,Bronx,2.94,2.98,2.98,3.0,3.03,3.07,3.01,3.01,2.95,2.94
+1,Avg household size of renter-occupied unit,NY,Bronx,2.76,2.78,2.8,2.82,2.81,2.81,2.8,2.82,2.76,2.72
+36,Owner-Occupied,NY,Bronx,287087,283107,280512,276647,277951,282346,282011,293758,288632,291742
+37,Renter-Occupied,NY,Bronx,1032718,1048883,1063096,1077654,1093024,1103940,1112584,1120133,1107450,1099216
+0,Avg household size of owner-occupied unit,NY,Broome,2.5,2.51,2.49,2.49,2.49,2.49,2.5,2.48,2.46,2.46
+1,Avg household size of renter-occupied unit,NY,Broome,2.07,2.1,2.12,2.13,2.15,2.15,2.14,2.11,2.12,2.1
+36,Owner-Occupied,NY,Broome,134665,134176,132614,132114,130560,129438,128713,128528,126365,125683
+37,Renter-Occupied,NY,Broome,55934,56238,57200,56946,57848,58293,58261,57181,57807,57448
+0,Avg household size of owner-occupied unit,NY,Cattaraugus,2.46,2.46,2.45,2.44,2.47,2.46,2.48,2.45,2.49,2.45
+1,Avg household size of renter-occupied unit,NY,Cattaraugus,2.15,2.19,2.19,2.23,2.26,2.29,2.23,2.2,2.12,2.08
+36,Owner-Occupied,NY,Cattaraugus,58986,57771,57703,56671,56308,55469,55953,55409,55981,55783
+37,Renter-Occupied,NY,Cattaraugus,18738,19608,19516,20200,20301,20784,19829,20052,19033,18717
+0,Avg household size of owner-occupied unit,NY,Cayuga,2.45,2.5,2.52,2.51,2.56,2.54,2.5,2.45,2.44,2.42
+1,Avg household size of renter-occupied unit,NY,Cayuga,2.08,2.05,2.12,2.16,2.14,2.17,2.18,2.13,2.14,2.15
+36,Owner-Occupied,NY,Cayuga,56269,57318,56775,56669,56894,55861,55008,54528,54117,53807
+37,Renter-Occupied,NY,Cayuga,18751,18169,18794,18922,18550,19379,19708,19546,19380,19275
+0,Avg household size of owner-occupied unit,NY,Chautauqua,2.42,2.39,2.4,2.4,2.41,2.44,2.45,2.44,2.45,2.42
+1,Avg household size of renter-occupied unit,NY,Chautauqua,2.15,2.14,2.18,2.16,2.18,2.17,2.21,2.15,2.13,2.08
+36,Owner-Occupied,NY,Chautauqua,93165,91747,91389,91037,91480,90977,90557,90596,90064,88787
+37,Renter-Occupied,NY,Chautauqua,35764,36684,36695,36569,35590,35238,34906,34117,33588,33954
+0,Avg household size of owner-occupied unit,NY,Chemung,2.41,2.39,2.45,2.45,2.45,2.45,2.49,2.46,2.43,2.42
+1,Avg household size of renter-occupied unit,NY,Chemung,2.19,2.2,2.11,2.1,2.14,2.14,2.14,2.18,2.2,2.23
+36,Owner-Occupied,NY,Chemung,58046,57099,58969,58838,59191,59382,59225,57972,56724,56229
+37,Renter-Occupied,NY,Chemung,24726,25688,23972,24366,23986,23292,23666,24088,24294,24001
+0,Avg household size of owner-occupied unit,NY,Chenango,2.54,2.56,2.57,2.55,2.57,2.54,2.49,2.41,2.39,2.38
+1,Avg household size of renter-occupied unit,NY,Chenango,2.27,2.24,2.31,2.29,2.35,2.34,2.33,2.22,2.1,2.01
+36,Owner-Occupied,NY,Chenango,39166,39419,38657,38290,38035,37540,37267,36749,36659,36611
+37,Renter-Occupied,NY,Chenango,10358,10391,10959,11059,11132,11364,11358,11340,11003,10611
+0,Avg household size of owner-occupied unit,NY,Clinton,2.61,2.54,2.51,2.49,2.45,2.41,2.41,2.4,2.41,2.42
+1,Avg household size of renter-occupied unit,NY,Clinton,1.98,1.94,1.95,1.96,2.03,2.12,2.16,2.16,2.16,2.14
+36,Owner-Occupied,NY,Clinton,56916,55513,54134,53817,53472,52389,52020,51677,51205,50330
+37,Renter-Occupied,NY,Clinton,18275,18804,19995,20171,20584,21597,21718,21864,21880,22482
+0,Avg household size of owner-occupied unit,NY,Columbia,2.37,2.39,2.41,2.45,2.47,2.43,2.41,2.39,2.39,2.36
+1,Avg household size of renter-occupied unit,NY,Columbia,2.1,2.21,2.24,2.19,2.18,2.19,2.19,2.14,2.13,2.22
+36,Owner-Occupied,NY,Columbia,44587,45363,44739,44751,44629,44155,44122,43966,43414,43385
+37,Renter-Occupied,NY,Columbia,14463,14900,15443,15312,15340,15570,15243,15034,15018,14539
+0,Avg household size of owner-occupied unit,NY,Cortland,2.72,2.68,2.7,2.66,2.7,2.68,2.72,2.65,2.63,2.59
+1,Avg household size of renter-occupied unit,NY,Cortland,2.29,2.31,2.32,2.28,2.2,2.27,2.25,2.22,2.3,2.32
+36,Owner-Occupied,NY,Cortland,32208,31822,31906,31712,32199,31589,31344,30739,30837,30214
+37,Renter-Occupied,NY,Cortland,13809,13983,13933,14011,13441,13939,13859,14070,13740,14151
+0,Avg household size of owner-occupied unit,NY,Delaware,2.4,2.33,2.33,2.32,2.34,2.35,2.37,2.31,2.3,2.3
+1,Avg household size of renter-occupied unit,NY,Delaware,2.14,2.16,2.2,2.17,2.24,2.19,2.26,2.2,2.17,2.11
+36,Owner-Occupied,NY,Delaware,36553,35658,34693,34266,33624,32852,32694,32330,32557,32267
+37,Renter-Occupied,NY,Delaware,10372,10522,11087,10961,11174,11549,11362,11219,10615,10451
+0,Avg household size of owner-occupied unit,NY,Dutchess,2.75,2.74,2.73,2.74,2.77,2.75,2.74,2.73,2.72,2.69
+1,Avg household size of renter-occupied unit,NY,Dutchess,2.23,2.25,2.25,2.23,2.24,2.29,2.26,2.24,2.23,2.22
+36,Owner-Occupied,NY,Dutchess,207269,206209,204955,205600,205789,202791,201681,202916,200535,200365
+37,Renter-Occupied,NY,Dutchess,70270,71714,73581,73262,73241,75807,75661,74181,74921,75184
+0,Avg household size of owner-occupied unit,NY,Erie,2.53,2.51,2.5,2.5,2.48,2.47,2.48,2.46,2.44,2.44
+1,Avg household size of renter-occupied unit,NY,Erie,2.04,2.03,2.04,2.05,2.07,2.08,2.07,2.06,2.04,2.02
+36,Owner-Occupied,NY,Erie,633022,628198,625540,620897,616464,615179,618317,617278,613517,613052
+37,Renter-Occupied,NY,Erie,260800,262134,264983,269691,275889,278385,275911,278796,278341,278592
+0,Avg household size of owner-occupied unit,NY,Essex,2.29,2.32,2.34,2.38,2.45,2.5,2.45,2.39,2.3,2.22
+1,Avg household size of renter-occupied unit,NY,Essex,2.07,2.11,1.98,2.0,1.95,2.0,2.02,2.1,2.15,2.12
+36,Owner-Occupied,NY,Essex,26951,27121,27566,27456,28106,28136,27778,27679,26785,26408
+37,Renter-Occupied,NY,Essex,8980,9206,8759,8789,8054,7982,8048,7695,8074,8223
+0,Avg household size of owner-occupied unit,NY,Franklin,2.45,2.48,2.45,2.43,2.44,2.42,2.41,2.43,2.44,2.45
+1,Avg household size of renter-occupied unit,NY,Franklin,2.03,2.12,2.11,2.15,2.17,2.2,2.12,2.24,2.12,2.12
+36,Owner-Occupied,NY,Franklin,34026,33825,33919,33734,33479,33750,33698,33614,33689,33265
+37,Renter-Occupied,NY,Franklin,10655,11198,11197,11477,11768,11474,11313,11498,11156,11512
+0,Avg household size of owner-occupied unit,NY,Fulton,2.35,2.39,2.41,2.39,2.43,2.45,2.38,2.35,2.35,2.33
+1,Avg household size of renter-occupied unit,NY,Fulton,2.22,2.21,2.31,2.33,2.27,2.27,2.34,2.33,2.32,2.33
+36,Owner-Occupied,NY,Fulton,37768,38402,37801,37232,37776,38377,37552,37731,37714,37083
+37,Renter-Occupied,NY,Fulton,15440,15193,15827,16352,15658,14986,15539,15045,14843,15390
+0,Avg household size of owner-occupied unit,NY,Genesee,2.59,2.57,2.58,2.57,2.57,2.54,2.54,2.5,2.52,2.51
+1,Avg household size of renter-occupied unit,NY,Genesee,2.16,2.12,2.1,2.17,2.12,2.2,2.17,2.18,2.16,2.12
+36,Owner-Occupied,NY,Genesee,45400,45153,45441,44611,45060,44390,44421,43440,43351,43046
+37,Renter-Occupied,NY,Genesee,13481,13524,13311,14152,13665,14233,13831,14316,13978,13991
+0,Avg household size of owner-occupied unit,NY,Greene,2.51,2.46,2.49,2.49,2.55,2.61,2.65,2.65,2.68,2.66
+1,Avg household size of renter-occupied unit,NY,Greene,2.25,2.25,2.38,2.4,2.33,2.37,2.5,2.47,2.34,2.36
+36,Owner-Occupied,NY,Greene,34158,33809,33400,33939,34670,34642,34187,34292,33962,33976
+37,Renter-Occupied,NY,Greene,10969,11612,11929,11344,10468,10362,10566,10229,10365,10155
+0,Avg household size of owner-occupied unit,NY,Hamilton,2.04,2.11,2.25,2.6,2.94,3.37,3.58,4.12,3.89,3.52
+1,Avg household size of renter-occupied unit,NY,Hamilton,1.94,1.86,2.06,2.21,2.47,3.44,4.36,4.18,4.34,5.53
+36,Owner-Occupied,NY,Hamilton,3974,4009,3959,4043,3938,3964,3777,3815,3747,3531
+37,Renter-Occupied,NY,Hamilton,842,749,769,660,736,685,802,702,698,851
+0,Avg household size of owner-occupied unit,NY,Herkimer,2.51,2.45,2.44,2.43,2.47,2.5,2.52,2.52,2.57,2.57
+1,Avg household size of renter-occupied unit,NY,Herkimer,2.13,2.2,2.15,2.17,2.14,2.16,2.21,2.28,2.29,2.25
+36,Owner-Occupied,NY,Herkimer,47307,46806,46405,45936,46128,46343,45537,45415,45801,46320
+37,Renter-Occupied,NY,Herkimer,15941,16224,16751,17185,16885,16371,16775,16283,15456,14554
+0,Avg household size of owner-occupied unit,NY,Jefferson,2.67,2.57,2.58,2.62,2.61,2.63,2.67,2.63,2.58,2.59
+1,Avg household size of renter-occupied unit,NY,Jefferson,2.34,2.34,2.33,2.35,2.4,2.43,2.44,2.44,2.39,2.37
+36,Owner-Occupied,NY,Jefferson,67303,66523,66668,66058,65304,64833,64939,63068,62227,62532
+37,Renter-Occupied,NY,Jefferson,44181,44096,44977,46504,47633,47875,46655,46773,45782,43988
+0,Avg household size of owner-occupied unit,NY,Kings,3.07,3.08,3.08,3.07,3.06,3.06,3.04,3.06,3.02,2.99
+1,Avg household size of renter-occupied unit,NY,Kings,2.52,2.53,2.56,2.59,2.6,2.61,2.61,2.61,2.55,2.52
+36,Owner-Occupied,NY,Kings,841830,834642,836429,836010,834808,833287,840272,868619,861127,862173
+37,Renter-Occupied,NY,Kings,1585091,1613525,1638530,1665191,1696722,1722721,1726545,1725931,1698727,1686558
+0,Avg household size of owner-occupied unit,NY,Lewis,2.58,2.64,2.62,2.62,2.61,2.65,2.7,2.67,2.65,2.62
+1,Avg household size of renter-occupied unit,NY,Lewis,2.13,2.1,2.14,2.13,2.16,2.18,2.27,2.29,2.28,2.31
+36,Owner-Occupied,NY,Lewis,21638,21704,21673,21545,21212,21366,21160,21342,21494,21694
+37,Renter-Occupied,NY,Lewis,5083,5028,5067,5228,5602,5394,5585,5143,4863,4535
+0,Avg household size of owner-occupied unit,NY,Livingston,2.55,2.52,2.53,2.52,2.5,2.47,2.48,2.47,2.46,2.46
+1,Avg household size of renter-occupied unit,NY,Livingston,2.14,2.16,2.16,2.22,2.2,2.27,2.2,2.13,2.09,2.12
+36,Owner-Occupied,NY,Livingston,46589,45882,45925,45205,44737,43608,44083,44107,43961,44389
+37,Renter-Occupied,NY,Livingston,12576,13044,12971,13696,13933,14998,14268,13939,13557,12949
+0,Avg household size of owner-occupied unit,NY,Madison,2.59,2.57,2.6,2.6,2.64,2.65,2.65,2.6,2.62,2.62
+1,Avg household size of renter-occupied unit,NY,Madison,2.3,2.33,2.31,2.34,2.28,2.26,2.3,2.31,2.29,2.33
+36,Owner-Occupied,NY,Madison,52893,52267,52650,52197,52694,52401,52118,51971,52322,52354
+37,Renter-Occupied,NY,Madison,14741,15262,14809,15210,14663,14752,14774,14624,13889,13677
+0,Avg household size of owner-occupied unit,NY,Monroe,2.6,2.6,2.59,2.58,2.56,2.56,2.55,2.54,2.51,2.51
+1,Avg household size of renter-occupied unit,NY,Monroe,2.13,2.12,2.13,2.13,2.14,2.15,2.16,2.16,2.16,2.13
+36,Owner-Occupied,NY,Monroe,505997,503540,501680,498410,494616,491696,488048,486718,482267,481460
+37,Renter-Occupied,NY,Monroe,206160,210613,215073,220701,226646,231288,234727,235189,235000,234846
+0,Avg household size of owner-occupied unit,NY,Montgomery,2.54,2.57,2.57,2.55,2.56,2.56,2.52,2.51,2.52,2.49
+1,Avg household size of renter-occupied unit,NY,Montgomery,2.18,2.17,2.23,2.36,2.35,2.37,2.43,2.35,2.34,2.37
+36,Owner-Occupied,NY,Montgomery,35649,35219,34715,33935,33884,33545,32860,34063,33639,33511
+37,Renter-Occupied,NY,Montgomery,13709,13717,14289,15083,15081,15244,15790,14403,14739,14726
+0,Avg household size of owner-occupied unit,NY,Nassau,3.05,3.05,3.07,3.09,3.1,3.12,3.12,3.11,3.08,3.07
+1,Avg household size of renter-occupied unit,NY,Nassau,2.51,2.51,2.56,2.59,2.62,2.65,2.7,2.67,2.67,2.67
+36,Owner-Occupied,NY,Nassau,1106783,1107320,1105330,1099482,1100163,1103995,1102457,1113022,1106545,1105840
+37,Renter-Occupied,NY,Nassau,199580,202786,211242,222445,229324,230115,233966,229764,229913,231052
+0,Avg household size of owner-occupied unit,NY,New York,2.03,2.01,1.99,2.01,2.0,1.98,2.0,2.01,2.0,2.02
+1,Avg household size of renter-occupied unit,NY,New York,2.11,2.11,2.11,2.13,2.12,2.13,2.12,2.13,2.1,2.09
+36,Owner-Occupied,NY,New York,338322,334621,332084,336007,337046,340293,347971,366528,366167,368430
+37,Renter-Occupied,NY,New York,1189973,1195658,1205858,1209941,1222128,1229351,1226717,1227504,1206608,1202833
+0,Avg household size of owner-occupied unit,NY,Niagara,2.54,2.54,2.53,2.53,2.52,2.53,2.5,2.48,2.48,2.46
+1,Avg household size of renter-occupied unit,NY,Niagara,2.08,2.03,2.05,2.07,2.06,2.06,2.11,2.09,2.05,2.04
+36,Owner-Occupied,NY,Niagara,158649,158116,157194,157121,157893,157453,155964,156246,155791,153918
+37,Renter-Occupied,NY,Niagara,53222,53544,54315,54104,52825,52563,53338,52394,51931,53038
+0,Avg household size of owner-occupied unit,NY,Oneida,2.51,2.5,2.51,2.53,2.52,2.53,2.53,2.51,2.51,2.52
+1,Avg household size of renter-occupied unit,NY,Oneida,2.15,2.18,2.18,2.2,2.24,2.24,2.25,2.26,2.25,2.22
+36,Owner-Occupied,NY,Oneida,156656,155589,156139,154685,152178,150781,152202,151437,151530,152782
+37,Renter-Occupied,NY,Oneida,63378,63921,63907,65582,68304,69888,67990,68127,66731,64821
+0,Avg household size of owner-occupied unit,NY,Onondaga,2.62,2.6,2.58,2.58,2.57,2.56,2.56,2.55,2.52,2.53
+1,Avg household size of renter-occupied unit,NY,Onondaga,2.11,2.13,2.11,2.15,2.17,2.2,2.19,2.17,2.17,2.15
+36,Owner-Occupied,NY,Onondaga,317128,314162,313949,311639,309976,308121,307783,306981,303393,302781
+37,Renter-Occupied,NY,Onondaga,131647,133526,134328,137481,139398,141316,141545,141644,141392,140541
+0,Avg household size of owner-occupied unit,NY,Ontario,2.53,2.51,2.51,2.53,2.51,2.52,2.53,2.52,2.51,2.48
+1,Avg household size of renter-occupied unit,NY,Ontario,1.99,1.96,1.98,1.99,2.03,2.01,2.02,2.03,2.03,2.02
+36,Owner-Occupied,NY,Ontario,82147,82260,81598,81557,80985,81213,81256,81684,82051,82105
+37,Renter-Occupied,NY,Ontario,20935,21082,22293,22950,24204,24157,24437,24059,23664,23700
+0,Avg household size of owner-occupied unit,NY,Orange,2.91,2.93,2.94,2.96,2.98,2.99,3.02,3.0,2.99,3.0
+1,Avg household size of renter-occupied unit,NY,Orange,2.71,2.73,2.73,2.71,2.73,2.71,2.7,2.7,2.7,2.66
+36,Owner-Occupied,NY,Orange,257994,257811,256509,256751,258900,257647,257335,259200,257858,256356
+37,Renter-Occupied,NY,Orange,96901,100725,103598,104700,103763,106089,107595,107854,109563,113036
+0,Avg household size of owner-occupied unit,NY,Orleans,2.64,2.63,2.58,2.57,2.52,2.51,2.47,2.45,2.4,2.37
+1,Avg household size of renter-occupied unit,NY,Orleans,2.21,2.16,2.25,2.32,2.32,2.2,2.2,2.17,2.12,2.03
+36,Owner-Occupied,NY,Orleans,31821,32108,31945,31227,30694,30369,30091,29793,29668,29641
+37,Renter-Occupied,NY,Orleans,8103,7926,7888,8250,8618,8595,8700,8783,8456,8197
+0,Avg household size of owner-occupied unit,NY,Oswego,2.63,2.61,2.58,2.61,2.62,2.62,2.61,2.58,2.55,2.52
+1,Avg household size of renter-occupied unit,NY,Oswego,2.33,2.4,2.45,2.47,2.47,2.44,2.4,2.32,2.31,2.3
+36,Owner-Occupied,NY,Oswego,88486,87433,85932,85658,85520,85661,85626,85830,85319,85690
+37,Renter-Occupied,NY,Oswego,28079,28926,30523,30901,31114,30752,30025,29152,28925,27882
+0,Avg household size of owner-occupied unit,NY,Otsego,2.42,2.43,2.4,2.42,2.41,2.4,2.41,2.4,2.4,2.41
+1,Avg household size of renter-occupied unit,NY,Otsego,2.03,2.06,2.15,2.19,2.24,2.27,2.2,2.15,2.1,2.11
+36,Owner-Occupied,NY,Otsego,43753,43448,42755,42740,42386,41587,41739,42088,41244,40673
+37,Renter-Occupied,NY,Otsego,13894,14148,14512,14044,13853,14266,13598,13045,13387,13752
+0,Avg household size of owner-occupied unit,NY,Putnam,2.81,2.89,2.89,2.93,2.96,2.96,2.93,2.9,2.85,2.85
+1,Avg household size of renter-occupied unit,NY,Putnam,2.16,2.18,2.16,2.25,2.31,2.33,2.42,2.45,2.39,2.38
+36,Owner-Occupied,NY,Putnam,83084,84441,84481,84073,83565,82657,81902,81554,81802,81130
+37,Renter-Occupied,NY,Putnam,11565,12628,12694,13105,13645,14310,14869,15221,14645,15110
+0,Avg household size of owner-occupied unit,NY,Queens,3.02,3.03,3.04,3.06,3.07,3.1,3.13,3.17,3.1,3.08
+1,Avg household size of renter-occupied unit,NY,Queens,2.64,2.67,2.69,2.71,2.75,2.77,2.77,2.81,2.76,2.75
+36,Owner-Occupied,NY,Queens,1063731,1053354,1050874,1052711,1051016,1057099,1067374,1096486,1078575,1074243
+37,Renter-Occupied,NY,Queens,1113020,1135907,1158687,1177750,1202907,1216878,1215164,1215422,1192067,1184978
+0,Avg household size of owner-occupied unit,NY,Rensselaer,2.58,2.56,2.54,2.52,2.55,2.58,2.56,2.54,2.51,2.5
+1,Avg household size of renter-occupied unit,NY,Rensselaer,2.14,2.13,2.15,2.14,2.13,2.14,2.17,2.12,2.15,2.13
+36,Owner-Occupied,NY,Rensselaer,106713,106788,106787,106532,106255,106477,104496,103853,102235,101953
+37,Renter-Occupied,NY,Rensselaer,47396,46567,46918,47188,47451,47509,49534,50014,51305,51402
+0,Avg household size of owner-occupied unit,NY,Richmond,2.91,2.92,2.96,2.95,2.95,2.96,2.96,2.98,2.98,3.0
+1,Avg household size of renter-occupied unit,NY,Richmond,2.4,2.46,2.46,2.49,2.5,2.48,2.47,2.47,2.44,2.41
+36,Owner-Occupied,NY,Richmond,336278,334290,334408,333076,334803,336941,339493,343845,344731,345316
+37,Renter-Occupied,NY,Richmond,116796,121558,124646,128548,128781,128245,127022,125266,122560,122752
+0,Avg household size of owner-occupied unit,NY,Rockland,3.05,3.1,3.11,3.15,3.18,3.18,3.16,3.15,3.15,3.13
+1,Avg household size of renter-occupied unit,NY,Rockland,2.96,2.98,3.04,3.08,3.11,3.16,3.25,3.25,3.22,3.24
+36,Owner-Occupied,NY,Rockland,211036,214791,214616,216197,216198,216622,215647,217049,216056,214674
+37,Renter-Occupied,NY,Rockland,83673,85921,89638,91338,94787,97066,100040,101154,100960,103279
+0,Avg household size of owner-occupied unit,NY,St. Lawrence,2.46,2.5,2.51,2.53,2.56,2.55,2.53,2.49,2.47,2.43
+1,Avg household size of renter-occupied unit,NY,St. Lawrence,2.02,2.0,2.0,2.04,2.04,2.1,2.09,2.08,2.02,2.0
+36,Owner-Occupied,NY,St. Lawrence,74258,74790,74507,74981,75158,75446,74850,75156,74434,74466
+37,Renter-Occupied,NY,St. Lawrence,23935,23786,24782,24897,24927,24905,24873,23782,23226,22658
+0,Avg household size of owner-occupied unit,NY,Saratoga,2.65,2.63,2.63,2.63,2.6,2.61,2.58,2.55,2.55,2.55
+1,Avg household size of renter-occupied unit,NY,Saratoga,1.93,1.92,1.97,1.99,2.0,2.01,2.04,1.98,1.95,1.95
+36,Owner-Occupied,NY,Saratoga,169225,169998,168733,167468,166621,168148,168100,169936,171655,173486
+37,Renter-Occupied,NY,Saratoga,43882,44369,46989,49472,51571,51308,52532,52475,51646,51199
+0,Avg household size of owner-occupied unit,NY,Schenectady,2.67,2.71,2.73,2.72,2.75,2.83,2.92,2.97,3.05,2.97
+1,Avg household size of renter-occupied unit,NY,Schenectady,2.21,2.25,2.26,2.33,2.32,2.29,2.35,2.44,2.35,2.38
+36,Owner-Occupied,NY,Schenectady,108352,107392,106372,105971,105978,106782,108044,108400,108256,105763
+37,Renter-Occupied,NY,Schenectady,39791,41819,43420,44346,44706,43513,42297,42281,41947,44437
+0,Avg household size of owner-occupied unit,NY,Schoharie,2.45,2.48,2.52,2.48,2.48,2.5,2.49,2.47,2.45,2.42
+1,Avg household size of renter-occupied unit,NY,Schoharie,2.14,2.19,2.2,2.13,2.18,2.3,2.29,2.21,2.19,2.23
+36,Owner-Occupied,NY,Schoharie,24599,24371,24554,24717,24074,23810,23170,23400,23036,23054
+37,Renter-Occupied,NY,Schoharie,6265,6546,6363,6089,6567,6656,7059,6768,6899,6776
+0,Avg household size of owner-occupied unit,NY,Schuyler,2.49,2.44,2.46,2.42,2.38,2.42,2.46,2.39,2.41,2.42
+1,Avg household size of renter-occupied unit,NY,Schuyler,2.12,2.01,1.96,1.99,2.09,2.1,2.38,2.4,2.48,2.41
+36,Owner-Occupied,NY,Schuyler,14746,14810,15126,14621,14438,14340,14173,13590,13716,13308
+37,Renter-Occupied,NY,Schuyler,3323,3087,2791,3294,3559,3690,3824,4221,4021,4392
+0,Avg household size of owner-occupied unit,NY,Seneca,2.48,2.47,2.47,2.5,2.49,2.47,2.44,2.44,2.42,2.4
+1,Avg household size of renter-occupied unit,NY,Seneca,2.31,2.27,2.19,2.12,2.08,2.11,2.06,2.06,2.06,2.04
+36,Owner-Occupied,NY,Seneca,25171,24719,24825,24980,24563,24202,24167,24203,24199,24078
+37,Renter-Occupied,NY,Seneca,6840,7426,7351,7257,7538,7906,7721,7461,7252,7232
+0,Avg household size of owner-occupied unit,NY,Steuben,2.52,2.47,2.45,2.42,2.44,2.43,2.46,2.47,2.45,2.46
+1,Avg household size of renter-occupied unit,NY,Steuben,2.1,2.1,2.14,2.14,2.14,2.19,2.19,2.14,2.15,2.15
+36,Owner-Occupied,NY,Steuben,74435,72834,72205,71789,70761,70009,70320,71420,70763,71290
+37,Renter-Occupied,NY,Steuben,23089,24390,25120,25471,26424,26894,26048,24342,24375,23372
+0,Avg household size of owner-occupied unit,NY,Suffolk,3.04,3.03,3.04,3.04,3.05,3.07,3.09,3.09,3.08,3.07
+1,Avg household size of renter-occupied unit,NY,Suffolk,2.48,2.51,2.57,2.57,2.59,2.59,2.63,2.63,2.64,2.6
+36,Owner-Occupied,NY,Suffolk,1224760,1217832,1207900,1209293,1202095,1206086,1201689,1213777,1202089,1208750
+37,Renter-Occupied,NY,Suffolk,228875,239633,253808,255604,266664,263278,264536,252904,256077,246811
+0,Avg household size of owner-occupied unit,NY,Sullivan,2.41,2.44,2.46,2.45,2.49,2.54,2.54,2.61,2.52,2.52
+1,Avg household size of renter-occupied unit,NY,Sullivan,2.5,2.56,2.45,2.5,2.54,2.54,2.6,2.55,2.63,2.55
+36,Owner-Occupied,NY,Sullivan,48423,47971,48586,47208,46937,47288,47638,48272,47620,48585
+37,Renter-Occupied,NY,Sullivan,24133,24996,24326,25570,25668,24885,24011,23385,23698,22807
+0,Avg household size of owner-occupied unit,NY,Tioga,2.58,2.58,2.6,2.57,2.55,2.56,2.54,2.49,2.51,2.53
+1,Avg household size of renter-occupied unit,NY,Tioga,2.17,2.13,2.07,2.17,2.21,2.27,2.31,2.25,2.12,1.98
+36,Owner-Occupied,NY,Tioga,42111,41790,42149,41316,40359,39942,39187,38473,38707,38988
+37,Renter-Occupied,NY,Tioga,8875,9048,8450,8984,9586,9728,9924,10301,9790,9161
+0,Avg household size of owner-occupied unit,NY,Tompkins,2.45,2.42,2.42,2.44,2.47,2.51,2.54,2.51,2.47,2.46
+1,Avg household size of renter-occupied unit,NY,Tompkins,2.04,2.09,2.12,2.14,2.17,2.14,2.14,2.09,2.02,1.99
+36,Owner-Occupied,NY,Tompkins,51809,51604,51853,52831,53057,53682,53887,54385,53678,53570
+37,Renter-Occupied,NY,Tompkins,35320,35932,36231,35979,36550,36590,36595,36276,35571,35495
+0,Avg household size of owner-occupied unit,NY,Ulster,2.53,2.54,2.53,2.54,2.56,2.56,2.56,2.53,2.5,2.53
+1,Avg household size of renter-occupied unit,NY,Ulster,2.16,2.26,2.22,2.2,2.2,2.16,2.14,2.17,2.2,2.15
+36,Owner-Occupied,NY,Ulster,124478,123216,123346,124081,123337,122737,123858,122302,119761,119720
+37,Renter-Occupied,NY,Ulster,46309,48519,47785,46384,46456,46609,44837,46249,47850,47282
+0,Avg household size of owner-occupied unit,NY,Warren,2.35,2.37,2.36,2.39,2.42,2.49,2.47,2.43,2.42,2.38
+1,Avg household size of renter-occupied unit,NY,Warren,2.02,2.0,2.02,2.06,2.1,2.2,2.16,2.13,2.03,1.99
+36,Owner-Occupied,NY,Warren,45984,46744,46512,47529,46909,46949,46991,47639,47395,47081
+37,Renter-Occupied,NY,Warren,18145,17396,17736,16835,17469,17400,17102,16250,16240,16338
+0,Avg household size of owner-occupied unit,NY,Washington,2.52,2.52,2.5,2.52,2.52,2.5,2.49,2.48,2.49,2.49
+1,Avg household size of renter-occupied unit,NY,Washington,2.1,2.07,2.17,2.21,2.3,2.33,2.4,2.41,2.31,2.27
+36,Owner-Occupied,NY,Washington,45795,46130,45805,45404,44790,43890,43276,43146,43562,44227
+37,Renter-Occupied,NY,Washington,13434,13173,13578,14275,14732,15609,15970,15821,15024,14119
+0,Avg household size of owner-occupied unit,NY,Wayne,2.6,2.57,2.57,2.6,2.59,2.58,2.56,2.55,2.54,2.52
+1,Avg household size of renter-occupied unit,NY,Wayne,2.2,2.24,2.21,2.16,2.13,2.14,2.15,2.14,2.13,2.1
+36,Owner-Occupied,NY,Wayne,72592,72847,72819,74421,73838,73036,71707,71580,70432,70691
+37,Renter-Occupied,NY,Wayne,19128,18500,18489,16770,17109,17559,18371,18097,18677,18186
+0,Avg household size of owner-occupied unit,NY,Westchester,2.75,2.77,2.78,2.79,2.82,2.85,2.85,2.84,2.81,2.8
+1,Avg household size of renter-occupied unit,NY,Westchester,2.46,2.48,2.52,2.57,2.58,2.6,2.61,2.59,2.56,2.54
+36,Owner-Occupied,NY,Westchester,596538,594443,595152,593811,598079,598478,599174,603481,598357,600718
+37,Renter-Occupied,NY,Westchester,316817,325011,329787,336315,337270,341788,343605,345456,344276,342579
+0,Avg household size of owner-occupied unit,NY,Wyoming,2.54,2.53,2.53,2.54,2.51,2.47,2.45,2.48,2.47,2.47
+1,Avg household size of renter-occupied unit,NY,Wyoming,2.13,2.2,2.15,2.11,2.1,2.14,2.16,2.12,2.08,2.06
+36,Owner-Occupied,NY,Wyoming,30002,29853,29799,29878,29559,29259,29238,29480,29836,30180
+37,Renter-Occupied,NY,Wyoming,7799,8262,8278,8114,8262,8387,8315,8032,7781,7569
+0,Avg household size of owner-occupied unit,NY,Yates,2.53,2.55,2.58,2.55,2.53,2.52,2.57,2.63,2.73,2.76
+1,Avg household size of renter-occupied unit,NY,Yates,2.27,2.4,2.3,2.33,2.32,2.24,2.27,2.26,2.23,2.29
+36,Owner-Occupied,NY,Yates,18914,18820,19164,18720,18878,18817,18858,18942,19553,19692
+37,Renter-Occupied,NY,Yates,4719,5183,4869,5246,5085,5084,4954,4847,4194,4074

@@ -1,0 +1,671 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40,Units in Structure: 1 ATTACHED,AL,Autauga,208,229,217,172,246,196,190,175,296,216
+41,Units in Structure: 1 DETACHED,AL,Autauga,15113,15521,15485,15479,15908,16271,16368,16571,16865,16748
+42,Units in Structure: 10-19,AL,Autauga,175,198,312,481,513,510,541,457,317,390
+43,Units in Structure: 2,AL,Autauga,290,282,289,216,172,132,138,173,159,118
+44,Units in Structure: 20-49,AL,Autauga,149,163,192,164,223,149,365,481,486,342
+45,Units in Structure: 3-4,AL,Autauga,423,419,354,384,315,281,298,315,343,457
+46,Units in Structure: 5-9,AL,Autauga,456,469,526,506,535,678,558,488,466,670
+47,Units in Structure: 50+,AL,Autauga,65,41,80,88,106,128,128,58,83,102
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Autauga,35,34,13,15,12,30,33,20,21,36
+49,Units in Structure: Mobile Home,AL,Autauga,4616,4503,4609,4715,4401,4207,4095,4414,4279,4414
+40,Units in Structure: 1 ATTACHED,AL,Baldwin,1192,941,894,1058,1141,1137,1272,1300,1183,1290
+41,Units in Structure: 1 DETACHED,AL,Baldwin,62270,64326,64222,65235,65719,66132,66516,69018,70081,72583
+42,Units in Structure: 10-19,AL,Baldwin,2391,2954,3650,3631,4082,3894,3752,3808,3871,3757
+43,Units in Structure: 2,AL,Baldwin,1411,1753,1850,2073,1800,2062,1767,1821,1734,2161
+44,Units in Structure: 20-49,AL,Baldwin,3109,3720,3867,3815,3731,3248,2998,3006,2928,2724
+45,Units in Structure: 3-4,AL,Baldwin,2389,2264,2329,2346,2455,2465,3037,2781,2525,2448
+46,Units in Structure: 5-9,AL,Baldwin,3967,3712,3623,3213,2977,2552,2340,2406,2754,3135
+47,Units in Structure: 50+,AL,Baldwin,9552,9575,10097,10452,11175,12363,12961,13482,13693,13285
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Baldwin,348,334,372,388,283,194,107,116,101,115
+49,Units in Structure: Mobile Home,AL,Baldwin,14464,13399,13080,12437,12200,12375,12829,12285,13075,12666
+40,Units in Structure: 1 ATTACHED,AL,Barbour,133,170,157,119,125,122,126,136,121,124
+41,Units in Structure: 1 DETACHED,AL,Barbour,6922,7278,7492,7248,7316,6983,6679,6527,6708,6573
+42,Units in Structure: 10-19,AL,Barbour,53,30,50,65,70,122,126,145,96,115
+43,Units in Structure: 2,AL,Barbour,618,512,478,530,434,418,480,523,594,745
+44,Units in Structure: 20-49,AL,Barbour,71,91,96,89,55,48,53,51,56,44
+45,Units in Structure: 3-4,AL,Barbour,315,322,214,260,310,325,359,423,478,453
+46,Units in Structure: 5-9,AL,Barbour,286,265,296,303,332,450,418,419,387,376
+47,Units in Structure: 50+,AL,Barbour,7,2,5,4,4,7,0,0,0,49
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Barbour,4,3,22,22,12,24,27,14,13,14
+49,Units in Structure: Mobile Home,AL,Barbour,3602,3230,3068,3150,3175,3311,3534,3680,3484,3520
+40,Units in Structure: 1 ATTACHED,AL,Bibb,5,30,53,42,55,63,57,28,37,33
+41,Units in Structure: 1 DETACHED,AL,Bibb,5630,5668,5471,5555,5982,5878,5719,5944,5940,5532
+42,Units in Structure: 10-19,AL,Bibb,63,28,28,36,80,73,85,74,73,71
+43,Units in Structure: 2,AL,Bibb,134,125,88,155,99,111,125,100,0,0
+44,Units in Structure: 20-49,AL,Bibb,45,33,87,87,59,50,86,43,72,100
+45,Units in Structure: 3-4,AL,Bibb,173,134,163,140,81,165,122,126,152,194
+46,Units in Structure: 5-9,AL,Bibb,129,204,102,204,226,222,205,246,177,268
+47,Units in Structure: 50+,AL,Bibb,40,38,24,29,24,24,24,29,77,69
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Bibb,0,0,0,0,0,0,0,0,18,28
+49,Units in Structure: Mobile Home,AL,Bibb,2666,2673,2942,2691,2379,2385,2549,2522,2615,2890
+40,Units in Structure: 1 ATTACHED,AL,Blount,97,109,102,145,159,232,236,221,192,151
+41,Units in Structure: 1 DETACHED,AL,Blount,17221,17069,17548,17615,17156,16924,17214,16881,16688,16771
+42,Units in Structure: 10-19,AL,Blount,57,114,149,115,133,141,102,65,113,94
+43,Units in Structure: 2,AL,Blount,310,283,256,260,263,239,275,347,423,426
+44,Units in Structure: 20-49,AL,Blount,64,78,42,52,82,75,75,94,85,89
+45,Units in Structure: 3-4,AL,Blount,235,343,328,355,323,302,265,278,228,294
+46,Units in Structure: 5-9,AL,Blount,213,343,288,280,246,313,195,281,336,308
+47,Units in Structure: 50+,AL,Blount,7,5,10,0,0,0,13,12,13,14
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Blount,0,0,1,2,9,8,8,7,36,26
+49,Units in Structure: Mobile Home,AL,Blount,5278,5384,5037,4943,5497,5626,5467,5975,6108,6150
+40,Units in Structure: 1 ATTACHED,AL,Bullock,77,70,59,37,33,33,38,38,23,36
+41,Units in Structure: 1 DETACHED,AL,Bullock,2773,2739,2778,2627,2565,2634,2624,2454,2518,2334
+42,Units in Structure: 10-19,AL,Bullock,33,36,33,5,10,0,0,0,0,0
+43,Units in Structure: 2,AL,Bullock,127,127,132,154,174,185,164,176,215,201
+44,Units in Structure: 20-49,AL,Bullock,0,0,10,12,9,10,14,0,0,0
+45,Units in Structure: 3-4,AL,Bullock,181,198,167,142,137,72,11,15,25,29
+46,Units in Structure: 5-9,AL,Bullock,109,86,105,57,57,53,89,192,158,217
+47,Units in Structure: 50+,AL,Bullock,0,9,21,18,46,37,34,53,76,35
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Bullock,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,AL,Bullock,1248,1255,1196,1416,1438,1441,1488,1588,1511,1705
+40,Units in Structure: 1 ATTACHED,AL,Butler,47,54,107,104,77,84,67,52,44,68
+41,Units in Structure: 1 DETACHED,AL,Butler,6457,6446,6344,6182,6205,6048,6096,6097,6125,6267
+42,Units in Structure: 10-19,AL,Butler,103,101,92,121,59,63,94,87,63,52
+43,Units in Structure: 2,AL,Butler,274,247,254,265,288,262,294,320,314,229
+44,Units in Structure: 20-49,AL,Butler,59,54,39,58,43,18,21,31,27,32
+45,Units in Structure: 3-4,AL,Butler,449,512,455,442,423,454,353,429,445,457
+46,Units in Structure: 5-9,AL,Butler,438,459,482,427,408,450,441,392,339,327
+47,Units in Structure: 50+,AL,Butler,52,6,6,10,34,40,50,48,44,33
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Butler,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,AL,Butler,2136,2108,2194,2322,2397,2500,2498,2552,2625,2624
+40,Units in Structure: 1 ATTACHED,AL,Calhoun,847,695,658,579,668,628,731,793,771,644
+41,Units in Structure: 1 DETACHED,AL,Calhoun,36493,37205,37277,37353,37964,38169,37784,38069,38387,38701
+42,Units in Structure: 10-19,AL,Calhoun,1331,1099,1064,1061,1102,1048,1101,1195,1171,917
+43,Units in Structure: 2,AL,Calhoun,1571,1467,1550,1658,1521,1367,1449,1249,1074,962
+44,Units in Structure: 20-49,AL,Calhoun,675,646,706,549,451,383,439,349,414,464
+45,Units in Structure: 3-4,AL,Calhoun,1631,1631,1705,1596,1695,1718,1679,1522,1626,1523
+46,Units in Structure: 5-9,AL,Calhoun,1807,2021,1920,1958,1912,1945,1828,1966,1920,1879
+47,Units in Structure: 50+,AL,Calhoun,557,483,460,505,472,451,457,444,405,397
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Calhoun,13,58,58,52,54,53,9,8,10,17
+49,Units in Structure: Mobile Home,AL,Calhoun,8169,7903,7895,7881,7467,7534,7849,8060,7904,8127
+40,Units in Structure: 1 ATTACHED,AL,Chambers,182,180,115,105,102,88,34,69,115,77
+41,Units in Structure: 1 DETACHED,AL,Chambers,12195,12176,11914,11799,11792,12077,12201,12191,12216,11841
+42,Units in Structure: 10-19,AL,Chambers,265,457,407,420,481,405,349,431,351,414
+43,Units in Structure: 2,AL,Chambers,425,475,526,479,482,463,506,513,652,627
+44,Units in Structure: 20-49,AL,Chambers,69,211,192,213,226,237,143,209,144,246
+45,Units in Structure: 3-4,AL,Chambers,346,340,465,435,457,432,411,352,397,442
+46,Units in Structure: 5-9,AL,Chambers,320,267,269,286,293,366,445,513,523,452
+47,Units in Structure: 50+,AL,Chambers,25,33,37,39,48,66,105,84,184,605
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Chambers,28,23,12,12,14,17,16,19,21,23
+49,Units in Structure: Mobile Home,AL,Chambers,2939,2730,3063,3140,3049,2785,2695,2608,2378,2261
+40,Units in Structure: 1 ATTACHED,AL,Cherokee,270,199,129,138,139,95,62,56,38,20
+41,Units in Structure: 1 DETACHED,AL,Cherokee,9565,9833,9954,10197,10470,10523,10938,10890,10806,11055
+42,Units in Structure: 10-19,AL,Cherokee,71,103,104,74,54,81,81,130,129,116
+43,Units in Structure: 2,AL,Cherokee,236,207,280,282,213,223,255,243,207,241
+44,Units in Structure: 20-49,AL,Cherokee,11,20,20,57,72,122,167,171,156,200
+45,Units in Structure: 3-4,AL,Cherokee,75,114,180,164,135,121,118,115,140,196
+46,Units in Structure: 5-9,AL,Cherokee,217,231,184,103,100,84,92,102,111,175
+47,Units in Structure: 50+,AL,Cherokee,63,58,88,66,69,73,61,55,46,23
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Cherokee,75,64,88,83,81,81,86,68,73,24
+49,Units in Structure: Mobile Home,AL,Cherokee,5349,5287,5141,5016,4921,4839,4400,4636,4825,4529
+40,Units in Structure: 1 ATTACHED,AL,Chilton,102,114,124,165,204,236,248,264,295,303
+41,Units in Structure: 1 DETACHED,AL,Chilton,12219,12418,12254,12206,12185,12094,11964,11799,11784,11964
+42,Units in Structure: 10-19,AL,Chilton,75,89,123,137,163,110,119,89,75,79
+43,Units in Structure: 2,AL,Chilton,150,100,88,122,185,198,216,376,411,278
+44,Units in Structure: 20-49,AL,Chilton,16,17,29,16,21,25,40,47,40,40
+45,Units in Structure: 3-4,AL,Chilton,260,250,229,186,116,209,177,155,182,250
+46,Units in Structure: 5-9,AL,Chilton,321,308,313,318,238,219,277,314,383,437
+47,Units in Structure: 50+,AL,Chilton,0,0,0,0,5,6,35,29,28,27
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Chilton,21,24,25,39,43,61,22,74,56,49
+49,Units in Structure: Mobile Home,AL,Chilton,5960,5911,6055,6006,6086,6089,6162,6371,6332,6354
+40,Units in Structure: 1 ATTACHED,AL,Choctaw,45,36,24,15,9,19,20,26,19,22
+41,Units in Structure: 1 DETACHED,AL,Choctaw,5064,4971,4912,4834,4802,4715,4612,4614,4725,4601
+42,Units in Structure: 10-19,AL,Choctaw,62,58,46,51,16,28,32,16,19,26
+43,Units in Structure: 2,AL,Choctaw,15,19,18,11,5,10,6,6,7,10
+44,Units in Structure: 20-49,AL,Choctaw,70,62,70,66,44,37,18,30,40,46
+45,Units in Structure: 3-4,AL,Choctaw,46,64,71,87,95,70,54,58,45,25
+46,Units in Structure: 5-9,AL,Choctaw,104,77,36,60,105,136,143,157,126,95
+47,Units in Structure: 50+,AL,Choctaw,0,1,1,15,21,47,59,42,23,18
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Choctaw,17,31,35,28,8,7,9,9,20,19
+49,Units in Structure: Mobile Home,AL,Choctaw,1995,2005,2088,2077,2143,2163,2288,2371,2320,2497
+40,Units in Structure: 1 ATTACHED,AL,Clarke,78,70,110,111,91,62,116,50,45,55
+41,Units in Structure: 1 DETACHED,AL,Clarke,8433,8621,8487,8328,8214,8191,8037,8136,8264,8252
+42,Units in Structure: 10-19,AL,Clarke,113,121,115,62,63,40,28,63,62,69
+43,Units in Structure: 2,AL,Clarke,69,117,156,163,150,151,104,108,95,106
+44,Units in Structure: 20-49,AL,Clarke,45,33,39,67,132,158,193,203,161,99
+45,Units in Structure: 3-4,AL,Clarke,313,302,320,284,252,187,213,287,381,564
+46,Units in Structure: 5-9,AL,Clarke,259,273,335,218,326,379,401,374,347,325
+47,Units in Structure: 50+,AL,Clarke,0,5,16,63,63,62,57,46,0,18
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Clarke,17,14,0,0,0,7,6,6,6,4
+49,Units in Structure: Mobile Home,AL,Clarke,3372,3092,3054,3288,3313,3363,3434,3431,3380,3292
+40,Units in Structure: 1 ATTACHED,AL,Clay,20,7,46,32,37,34,31,10,15,13
+41,Units in Structure: 1 DETACHED,AL,Clay,4243,4413,4225,4173,4207,4409,4515,4695,4753,4637
+42,Units in Structure: 10-19,AL,Clay,26,12,16,12,13,0,0,0,0,0
+43,Units in Structure: 2,AL,Clay,368,300,321,345,364,287,300,276,234,233
+44,Units in Structure: 20-49,AL,Clay,0,0,0,9,29,30,19,20,11,6
+45,Units in Structure: 3-4,AL,Clay,144,106,148,128,172,147,153,136,192,190
+46,Units in Structure: 5-9,AL,Clay,132,98,86,121,57,62,82,105,122,117
+47,Units in Structure: 50+,AL,Clay,94,36,51,58,0,0,0,4,17,17
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Clay,0,0,0,0,11,8,26,29,34,29
+49,Units in Structure: Mobile Home,AL,Clay,1767,1807,1869,1870,1866,1761,1619,1522,1424,1557
+40,Units in Structure: 1 ATTACHED,AL,Cleburne,47,46,41,28,0,10,11,10,23,21
+41,Units in Structure: 1 DETACHED,AL,Cleburne,4358,4411,4320,4460,4397,4397,4457,4596,4379,4551
+42,Units in Structure: 10-19,AL,Cleburne,7,5,5,0,0,0,5,9,12,15
+43,Units in Structure: 2,AL,Cleburne,86,121,136,165,134,180,114,76,44,40
+44,Units in Structure: 20-49,AL,Cleburne,7,10,0,6,16,17,21,25,14,0
+45,Units in Structure: 3-4,AL,Cleburne,81,81,105,92,98,104,45,86,93,129
+46,Units in Structure: 5-9,AL,Cleburne,174,157,147,147,172,163,166,171,155,107
+47,Units in Structure: 50+,AL,Cleburne,0,0,0,11,17,12,12,11,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Cleburne,0,0,0,9,12,12,10,9,24,21
+49,Units in Structure: Mobile Home,AL,Cleburne,1909,1873,1952,1767,1852,1797,1848,1788,2062,1960
+40,Units in Structure: 1 ATTACHED,AL,Coffee,510,504,637,689,838,986,1013,1013,924,898
+41,Units in Structure: 1 DETACHED,AL,Coffee,14958,14999,15351,15485,15807,16091,16423,16508,16356,16457
+42,Units in Structure: 10-19,AL,Coffee,116,154,191,165,131,142,126,91,123,81
+43,Units in Structure: 2,AL,Coffee,525,459,545,431,356,473,511,524,556,630
+44,Units in Structure: 20-49,AL,Coffee,49,2,14,12,20,32,33,28,30,49
+45,Units in Structure: 3-4,AL,Coffee,992,1089,1159,1254,1081,839,779,763,735,723
+46,Units in Structure: 5-9,AL,Coffee,1273,1246,1164,1154,1277,1093,1044,1130,1161,1091
+47,Units in Structure: 50+,AL,Coffee,36,26,28,24,36,50,59,31,62,53
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Coffee,5,5,7,9,7,9,11,3,1,4
+49,Units in Structure: Mobile Home,AL,Coffee,3494,3665,3288,3263,3095,3061,2863,2947,3140,3202
+40,Units in Structure: 1 ATTACHED,AL,Colbert,163,171,150,132,174,193,165,150,157,113
+41,Units in Structure: 1 DETACHED,AL,Colbert,19526,19368,19722,19939,20105,20154,20348,20594,20510,20562
+42,Units in Structure: 10-19,AL,Colbert,234,231,230,212,268,240,265,240,261,251
+43,Units in Structure: 2,AL,Colbert,971,1097,1119,1187,1062,966,912,863,978,987
+44,Units in Structure: 20-49,AL,Colbert,148,153,182,148,121,144,137,109,129,117
+45,Units in Structure: 3-4,AL,Colbert,801,800,630,701,838,1033,1026,1031,1073,1051
+46,Units in Structure: 5-9,AL,Colbert,921,886,837,688,666,514,571,706,692,854
+47,Units in Structure: 50+,AL,Colbert,90,137,193,237,302,271,239,220,197,171
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Colbert,44,82,23,26,30,38,15,16,14,67
+49,Units in Structure: Mobile Home,AL,Colbert,2768,2772,2710,2552,2405,2515,2478,2404,2455,2415
+40,Units in Structure: 1 ATTACHED,AL,Conecuh,164,76,44,33,28,36,48,47,58,80
+41,Units in Structure: 1 DETACHED,AL,Conecuh,4918,4894,4872,4583,4313,4482,4328,4549,4373,4377
+42,Units in Structure: 10-19,AL,Conecuh,104,78,18,20,23,25,0,0,0,0
+43,Units in Structure: 2,AL,Conecuh,70,115,110,116,107,63,54,123,213,240
+44,Units in Structure: 20-49,AL,Conecuh,15,16,36,56,46,60,54,39,37,49
+45,Units in Structure: 3-4,AL,Conecuh,103,110,70,184,280,219,289,290,250,229
+46,Units in Structure: 5-9,AL,Conecuh,75,90,107,130,174,189,150,108,159,182
+47,Units in Structure: 50+,AL,Conecuh,55,66,38,5,6,8,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Conecuh,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,AL,Conecuh,1626,1654,1808,1942,2089,1988,2132,1969,2053,2025
+40,Units in Structure: 1 ATTACHED,AL,Coosa,58,33,20,4,9,1,0,17,20,17
+41,Units in Structure: 1 DETACHED,AL,Coosa,4360,4224,4172,4228,4152,4145,4241,4330,4330,4318
+42,Units in Structure: 10-19,AL,Coosa,4,2,2,0,0,0,0,1,1,1
+43,Units in Structure: 2,AL,Coosa,21,24,27,27,24,33,48,69,54,60
+44,Units in Structure: 20-49,AL,Coosa,17,16,3,3,3,0,0,0,0,0
+45,Units in Structure: 3-4,AL,Coosa,79,75,76,101,108,103,86,60,51,54
+46,Units in Structure: 5-9,AL,Coosa,0,27,24,55,81,92,68,73,64,70
+47,Units in Structure: 50+,AL,Coosa,5,5,5,5,11,9,10,16,15,8
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Coosa,0,9,7,5,6,6,0,7,8,5
+49,Units in Structure: Mobile Home,AL,Coosa,1913,2054,2130,2025,2084,2073,2000,1954,2015,2052
+40,Units in Structure: 1 ATTACHED,AL,Covington,129,72,43,47,54,83,86,99,116,123
+41,Units in Structure: 1 DETACHED,AL,Covington,14312,14088,14290,14189,14199,14001,13985,13717,13403,13363
+42,Units in Structure: 10-19,AL,Covington,81,71,86,59,37,59,46,49,54,73
+43,Units in Structure: 2,AL,Covington,388,323,298,354,332,335,336,277,258,211
+44,Units in Structure: 20-49,AL,Covington,142,131,148,151,126,92,82,64,110,102
+45,Units in Structure: 3-4,AL,Covington,328,288,307,287,267,273,259,321,326,407
+46,Units in Structure: 5-9,AL,Covington,194,213,222,262,327,411,419,474,444,404
+47,Units in Structure: 50+,AL,Covington,36,29,19,10,18,31,46,53,85,51
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Covington,6,15,15,9,28,36,19,30,30,42
+49,Units in Structure: Mobile Home,AL,Covington,3212,3591,3393,3399,3415,3452,3505,3806,4081,4200
+40,Units in Structure: 1 ATTACHED,AL,Crenshaw,18,8,40,42,40,46,45,22,16,25
+41,Units in Structure: 1 DETACHED,AL,Crenshaw,4321,4407,4187,4227,4240,4366,4290,4389,4420,4381
+42,Units in Structure: 10-19,AL,Crenshaw,0,0,0,0,0,0,0,0,3,3
+43,Units in Structure: 2,AL,Crenshaw,382,409,350,343,301,300,300,290,249,245
+44,Units in Structure: 20-49,AL,Crenshaw,16,0,0,5,4,4,12,20,13,14
+45,Units in Structure: 3-4,AL,Crenshaw,140,110,84,87,50,77,65,78,100,122
+46,Units in Structure: 5-9,AL,Crenshaw,83,77,101,98,126,93,98,106,97,79
+47,Units in Structure: 50+,AL,Crenshaw,3,4,4,3,4,4,5,5,13,16
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Crenshaw,0,0,5,11,16,20,17,12,25,25
+49,Units in Structure: Mobile Home,AL,Crenshaw,1800,1743,1971,1882,1937,1793,1867,1853,1854,1905
+40,Units in Structure: 1 ATTACHED,AL,Cullman,191,210,252,306,341,307,258,288,302,276
+41,Units in Structure: 1 DETACHED,AL,Cullman,26127,26284,26306,26266,26076,25607,25619,25544,25520,25998
+42,Units in Structure: 10-19,AL,Cullman,470,383,398,311,260,231,269,438,514,481
+43,Units in Structure: 2,AL,Cullman,852,690,544,449,463,529,604,618,640,565
+44,Units in Structure: 20-49,AL,Cullman,407,467,647,635,777,657,522,374,389,298
+45,Units in Structure: 3-4,AL,Cullman,457,625,626,743,740,642,506,475,435,620
+46,Units in Structure: 5-9,AL,Cullman,800,743,768,748,867,1093,1238,1270,1142,972
+47,Units in Structure: 50+,AL,Cullman,142,117,119,132,112,97,110,88,56,94
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Cullman,27,32,36,35,17,30,28,36,39,55
+49,Units in Structure: Mobile Home,AL,Cullman,7416,7443,7330,7316,7431,7910,7996,8393,8615,8483
+40,Units in Structure: 1 ATTACHED,AL,Dale,1211,1117,1150,894,824,742,616,688,736,641
+41,Units in Structure: 1 DETACHED,AL,Dale,13868,13864,14026,14274,14764,14890,15198,15118,15203,15254
+42,Units in Structure: 10-19,AL,Dale,251,284,260,201,194,181,162,145,148,166
+43,Units in Structure: 2,AL,Dale,754,745,677,742,684,746,697,704,678,678
+44,Units in Structure: 20-49,AL,Dale,183,174,210,210,100,112,96,82,106,105
+45,Units in Structure: 3-4,AL,Dale,1045,1176,1176,1252,1200,1254,1283,1318,1179,1277
+46,Units in Structure: 5-9,AL,Dale,738,632,671,622,663,723,712,693,789,647
+47,Units in Structure: 50+,AL,Dale,13,35,55,59,85,91,46,36,23,39
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Dale,59,44,44,45,36,10,9,10,3,10
+49,Units in Structure: Mobile Home,AL,Dale,4456,4574,4431,4394,4243,4073,4020,4206,4200,4286
+40,Units in Structure: 1 ATTACHED,AL,Dallas,171,157,143,161,213,306,301,284,243,203
+41,Units in Structure: 1 DETACHED,AL,Dallas,12731,12540,12215,12262,12232,12200,11901,12297,12051,12407
+42,Units in Structure: 10-19,AL,Dallas,45,48,68,82,54,52,82,119,98,113
+43,Units in Structure: 2,AL,Dallas,1286,1407,1565,1559,1355,1365,1286,1362,1399,1437
+44,Units in Structure: 20-49,AL,Dallas,114,124,103,103,105,103,90,135,135,153
+45,Units in Structure: 3-4,AL,Dallas,1338,1258,1443,1509,1662,1652,1561,1394,1437,1321
+46,Units in Structure: 5-9,AL,Dallas,392,526,540,567,626,711,774,683,739,638
+47,Units in Structure: 50+,AL,Dallas,85,112,118,76,77,54,71,44,66,111
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Dallas,7,27,14,6,6,6,0,0,7,9
+49,Units in Structure: Mobile Home,AL,Dallas,4176,4069,4039,3849,3886,3794,4176,3991,4161,4027
+40,Units in Structure: 1 ATTACHED,AL,DeKalb,139,91,88,127,142,148,105,115,115,124
+41,Units in Structure: 1 DETACHED,AL,DeKalb,21268,21395,21817,21862,21508,21565,21488,21549,21588,21656
+42,Units in Structure: 10-19,AL,DeKalb,28,121,124,190,266,256,183,239,224,213
+43,Units in Structure: 2,AL,DeKalb,579,669,644,577,560,528,501,529,616,675
+44,Units in Structure: 20-49,AL,DeKalb,146,176,153,190,183,81,69,83,42,44
+45,Units in Structure: 3-4,AL,DeKalb,592,524,506,478,556,582,558,723,694,565
+46,Units in Structure: 5-9,AL,DeKalb,555,568,772,549,648,646,640,558,554,517
+47,Units in Structure: 50+,AL,DeKalb,63,77,76,76,36,27,33,70,67,66
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,DeKalb,5,0,0,0,7,45,43,41,54,59
+49,Units in Structure: Mobile Home,AL,DeKalb,7331,7321,6794,6920,7137,7180,7448,7477,7508,7390
+40,Units in Structure: 1 ATTACHED,AL,Elmore,378,548,438,436,433,453,395,463,417,504
+41,Units in Structure: 1 DETACHED,AL,Elmore,23152,23424,23663,23765,24012,24265,24526,25151,25457,25396
+42,Units in Structure: 10-19,AL,Elmore,348,312,370,437,498,454,532,596,669,676
+43,Units in Structure: 2,AL,Elmore,286,347,357,351,264,240,273,236,341,332
+44,Units in Structure: 20-49,AL,Elmore,76,167,205,267,411,403,322,261,195,177
+45,Units in Structure: 3-4,AL,Elmore,483,562,513,501,542,719,668,652,760,778
+46,Units in Structure: 5-9,AL,Elmore,1019,1033,919,1040,939,959,957,1104,855,942
+47,Units in Structure: 50+,AL,Elmore,27,35,29,62,55,49,40,46,31,85
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Elmore,41,63,74,54,73,45,22,71,156,137
+49,Units in Structure: Mobile Home,AL,Elmore,5958,5802,5930,5770,5758,5553,5587,5218,5123,5138
+40,Units in Structure: 1 ATTACHED,AL,Escambia,64,91,66,55,78,58,62,54,72,71
+41,Units in Structure: 1 DETACHED,AL,Escambia,11725,11408,11373,11225,11119,11314,11413,11258,11313,11417
+42,Units in Structure: 10-19,AL,Escambia,112,130,159,163,88,107,106,101,86,77
+43,Units in Structure: 2,AL,Escambia,253,304,353,310,379,326,396,421,359,332
+44,Units in Structure: 20-49,AL,Escambia,105,134,91,96,83,99,58,91,67,53
+45,Units in Structure: 3-4,AL,Escambia,484,426,407,406,502,432,651,805,864,826
+46,Units in Structure: 5-9,AL,Escambia,309,360,403,454,632,717,712,728,872,673
+47,Units in Structure: 50+,AL,Escambia,28,54,51,46,55,61,40,32,20,50
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Escambia,0,18,20,18,22,35,29,38,35,43
+49,Units in Structure: Mobile Home,AL,Escambia,3497,3604,3602,3659,3473,3286,2954,3028,2907,3044
+40,Units in Structure: 1 ATTACHED,AL,Etowah,719,551,411,414,334,258,230,257,259,235
+41,Units in Structure: 1 DETACHED,AL,Etowah,35368,35854,35890,35688,36053,36349,36263,36547,36997,36320
+42,Units in Structure: 10-19,AL,Etowah,531,570,707,734,814,714,720,741,728,636
+43,Units in Structure: 2,AL,Etowah,1110,1083,1123,1221,1270,1207,1296,1154,927,920
+44,Units in Structure: 20-49,AL,Etowah,314,298,224,295,299,247,328,398,320,420
+45,Units in Structure: 3-4,AL,Etowah,1557,1468,1420,1275,1146,1105,1036,1215,1147,1375
+46,Units in Structure: 5-9,AL,Etowah,1555,1484,1668,1620,1478,1658,1607,1535,1627,1762
+47,Units in Structure: 50+,AL,Etowah,599,605,615,573,546,461,467,460,436,416
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Etowah,68,93,126,119,132,84,70,33,36,48
+49,Units in Structure: Mobile Home,AL,Etowah,5622,5434,5307,5480,5435,5417,5487,5299,5228,5572
+40,Units in Structure: 1 ATTACHED,AL,Fayette,9,24,22,47,53,79,38,90,88,77
+41,Units in Structure: 1 DETACHED,AL,Fayette,6121,6096,5975,5738,5803,5895,5853,5971,5868,5966
+42,Units in Structure: 10-19,AL,Fayette,166,194,184,178,169,128,89,102,114,116
+43,Units in Structure: 2,AL,Fayette,176,210,237,214,218,273,199,163,170,204
+44,Units in Structure: 20-49,AL,Fayette,18,27,18,30,35,31,23,27,32,72
+45,Units in Structure: 3-4,AL,Fayette,121,106,81,195,198,193,215,212,128,213
+46,Units in Structure: 5-9,AL,Fayette,141,86,97,107,154,155,171,144,154,146
+47,Units in Structure: 50+,AL,Fayette,38,48,40,9,18,21,30,28,30,24
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Fayette,20,20,24,18,5,6,6,5,0,0
+49,Units in Structure: Mobile Home,AL,Fayette,1678,1646,1772,1857,1762,1634,1788,1711,1886,1687
+40,Units in Structure: 1 ATTACHED,AL,Franklin,117,134,82,96,96,72,80,49,43,63
+41,Units in Structure: 1 DETACHED,AL,Franklin,10096,9900,10152,10026,9828,9940,9888,10008,10109,10252
+42,Units in Structure: 10-19,AL,Franklin,137,142,208,223,139,141,151,78,133,74
+43,Units in Structure: 2,AL,Franklin,312,359,367,354,381,316,336,287,302,355
+44,Units in Structure: 20-49,AL,Franklin,125,146,99,129,144,118,151,224,227,270
+45,Units in Structure: 3-4,AL,Franklin,310,288,199,277,325,345,367,304,235,166
+46,Units in Structure: 5-9,AL,Franklin,463,600,606,530,580,535,561,563,501,458
+47,Units in Structure: 50+,AL,Franklin,116,102,117,170,219,209,174,146,124,90
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Franklin,11,15,9,11,13,8,5,16,18,16
+49,Units in Structure: Mobile Home,AL,Franklin,2344,2346,2184,2174,2313,2346,2337,2457,2460,2308
+40,Units in Structure: 1 ATTACHED,AL,Geneva,96,128,131,177,182,123,121,84,60,85
+41,Units in Structure: 1 DETACHED,AL,Geneva,8744,8627,8612,8411,8188,8201,8349,8355,8494,8725
+42,Units in Structure: 10-19,AL,Geneva,0,4,21,19,23,36,35,13,15,16
+43,Units in Structure: 2,AL,Geneva,401,357,261,252,256,239,237,300,329,311
+44,Units in Structure: 20-49,AL,Geneva,52,73,47,60,47,14,6,6,4,3
+45,Units in Structure: 3-4,AL,Geneva,166,215,293,229,215,172,101,80,91,96
+46,Units in Structure: 5-9,AL,Geneva,186,152,157,135,126,117,135,201,124,112
+47,Units in Structure: 50+,AL,Geneva,23,21,18,16,0,0,0,0,18,19
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Geneva,14,22,23,12,14,19,10,13,4,5
+49,Units in Structure: Mobile Home,AL,Geneva,2963,3069,3107,3328,3615,3737,3649,3704,3629,3497
+40,Units in Structure: 1 ATTACHED,AL,Greene,115,92,68,15,36,45,25,26,27,12
+41,Units in Structure: 1 DETACHED,AL,Greene,2960,2898,2778,2654,2480,2525,2531,2616,2724,2909
+42,Units in Structure: 10-19,AL,Greene,177,102,91,66,41,46,25,48,80,62
+43,Units in Structure: 2,AL,Greene,91,93,98,46,41,13,15,8,9,7
+44,Units in Structure: 20-49,AL,Greene,69,89,109,101,111,125,86,33,32,105
+45,Units in Structure: 3-4,AL,Greene,111,99,89,57,33,8,0,5,4,7
+46,Units in Structure: 5-9,AL,Greene,110,146,143,104,146,114,97,80,65,50
+47,Units in Structure: 50+,AL,Greene,0,9,39,72,108,182,203,213,180,132
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Greene,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,AL,Greene,1418,1492,1602,1870,1995,1936,2014,2027,1954,1828
+40,Units in Structure: 1 ATTACHED,AL,Hale,145,127,132,68,51,51,34,15,17,15
+41,Units in Structure: 1 DETACHED,AL,Hale,4521,4433,4347,4315,4513,4419,4340,4479,4408,4439
+42,Units in Structure: 10-19,AL,Hale,26,27,63,64,62,60,42,20,0,0
+43,Units in Structure: 2,AL,Hale,62,67,142,122,120,172,132,79,94,65
+44,Units in Structure: 20-49,AL,Hale,85,83,29,25,68,84,126,133,137,41
+45,Units in Structure: 3-4,AL,Hale,157,159,75,66,77,84,119,135,139,142
+46,Units in Structure: 5-9,AL,Hale,132,153,145,146,114,49,31,39,110,103
+47,Units in Structure: 50+,AL,Hale,17,17,33,45,73,90,101,93,83,68
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Hale,16,14,16,14,0,0,0,0,0,4
+49,Units in Structure: Mobile Home,AL,Hale,2563,2614,2700,2777,2568,2632,2730,2760,2789,2915
+40,Units in Structure: 1 ATTACHED,AL,Henry,114,146,185,156,145,111,82,41,32,44
+41,Units in Structure: 1 DETACHED,AL,Henry,6302,6278,6259,6306,6091,6022,6058,6183,6184,6289
+42,Units in Structure: 10-19,AL,Henry,23,82,71,89,97,99,54,52,49,32
+43,Units in Structure: 2,AL,Henry,178,143,177,148,194,214,299,291,293,299
+44,Units in Structure: 20-49,AL,Henry,6,6,22,13,13,13,25,12,19,19
+45,Units in Structure: 3-4,AL,Henry,50,53,68,114,139,184,185,163,147,87
+46,Units in Structure: 5-9,AL,Henry,12,47,45,39,39,38,0,0,11,27
+47,Units in Structure: 50+,AL,Henry,12,15,23,4,4,7,7,2,3,12
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Henry,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,AL,Henry,2083,2072,2028,2016,2212,2272,2240,2311,2358,2346
+40,Units in Structure: 1 ATTACHED,AL,Houston,506,533,542,515,543,560,588,614,601,532
+41,Units in Structure: 1 DETACHED,AL,Houston,30591,30932,31188,31494,31747,31731,31951,32300,32769,33223
+42,Units in Structure: 10-19,AL,Houston,536,530,601,662,795,923,1135,1225,1314,1279
+43,Units in Structure: 2,AL,Houston,1323,1189,1171,1165,1165,1128,1191,1272,1253,1290
+44,Units in Structure: 20-49,AL,Houston,160,185,167,195,264,308,427,492,579,530
+45,Units in Structure: 3-4,AL,Houston,2149,2175,2107,2012,1852,1779,1661,1682,1657,1830
+46,Units in Structure: 5-9,AL,Houston,2169,2184,2112,2220,2213,2219,2114,2024,1986,1888
+47,Units in Structure: 50+,AL,Houston,408,398,378,397,403,428,431,511,510,535
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Houston,20,28,35,24,35,39,30,33,45,43
+49,Units in Structure: Mobile Home,AL,Houston,6771,6897,7009,6802,6827,6982,6857,6716,6473,6307
+40,Units in Structure: 1 ATTACHED,AL,Jackson,272,263,185,231,238,234,201,260,228,206
+41,Units in Structure: 1 DETACHED,AL,Jackson,17345,17027,16966,16903,16842,17167,17563,17733,17924,17754
+42,Units in Structure: 10-19,AL,Jackson,150,130,157,158,209,151,187,251,295,283
+43,Units in Structure: 2,AL,Jackson,330,421,393,472,531,638,681,773,717,635
+44,Units in Structure: 20-49,AL,Jackson,65,85,85,63,67,61,36,15,34,58
+45,Units in Structure: 3-4,AL,Jackson,199,215,261,331,327,296,296,191,215,322
+46,Units in Structure: 5-9,AL,Jackson,674,753,768,661,702,802,731,683,698,597
+47,Units in Structure: 50+,AL,Jackson,25,14,17,12,25,26,20,30,25,26
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Jackson,15,16,21,24,31,38,22,29,58,63
+49,Units in Structure: Mobile Home,AL,Jackson,5703,5870,5945,5854,5798,5345,5036,5054,4912,5097
+40,Units in Structure: 1 ATTACHED,AL,Jefferson,8361,8313,8326,8341,8018,8193,8130,7518,7549,7918
+41,Units in Structure: 1 DETACHED,AL,Jefferson,209034,209472,208816,209963,210639,211566,211988,212770,213802,213873
+42,Units in Structure: 10-19,AL,Jefferson,21360,21257,21627,21994,21710,21231,20749,20545,20069,19401
+43,Units in Structure: 2,AL,Jefferson,5472,5409,5825,5560,5209,5113,5170,5140,4964,5141
+44,Units in Structure: 20-49,AL,Jefferson,11050,11251,11710,11041,11262,10849,11400,11432,12195,11912
+45,Units in Structure: 3-4,AL,Jefferson,9590,9702,9621,9288,9439,9567,9681,10084,10436,10710
+46,Units in Structure: 5-9,AL,Jefferson,16808,16610,16392,16673,17205,18197,18492,19359,18961,19316
+47,Units in Structure: 50+,AL,Jefferson,7893,7940,8189,8549,8758,9211,9660,9717,10246,11068
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Jefferson,53,60,66,75,94,151,120,120,106,99
+49,Units in Structure: Mobile Home,AL,Jefferson,10562,10352,10630,10103,10265,9677,9872,9425,9044,8436
+40,Units in Structure: 1 ATTACHED,AL,Lamar,81,31,28,15,13,14,21,31,35,43
+41,Units in Structure: 1 DETACHED,AL,Lamar,5371,5281,5346,5201,5235,5189,5222,5008,5039,5159
+42,Units in Structure: 10-19,AL,Lamar,4,3,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,AL,Lamar,282,291,330,349,425,492,489,456,528,508
+44,Units in Structure: 20-49,AL,Lamar,17,25,22,32,35,25,15,18,10,4
+45,Units in Structure: 3-4,AL,Lamar,145,151,81,53,92,94,89,96,123,132
+46,Units in Structure: 5-9,AL,Lamar,203,207,219,187,146,187,202,255,260,216
+47,Units in Structure: 50+,AL,Lamar,10,10,43,42,63,46,25,17,20,23
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Lamar,18,18,12,18,25,4,4,3,14,15
+49,Units in Structure: Mobile Home,AL,Lamar,1280,1362,1291,1440,1289,1263,1260,1506,1361,1303
+40,Units in Structure: 1 ATTACHED,AL,Lauderdale,552,448,406,353,338,321,348,325,266,295
+41,Units in Structure: 1 DETACHED,AL,Lauderdale,32288,32498,32651,32582,32785,32569,32288,32173,32758,32563
+42,Units in Structure: 10-19,AL,Lauderdale,885,785,879,764,885,907,1152,1217,1283,1312
+43,Units in Structure: 2,AL,Lauderdale,1013,1030,1151,990,1033,921,1027,1045,1178,1205
+44,Units in Structure: 20-49,AL,Lauderdale,426,469,592,698,614,486,527,522,495,526
+45,Units in Structure: 3-4,AL,Lauderdale,1661,1668,1606,1871,1736,1723,1649,1746,1547,1316
+46,Units in Structure: 5-9,AL,Lauderdale,1845,1913,1824,1848,1973,2320,2341,2497,2482,2825
+47,Units in Structure: 50+,AL,Lauderdale,572,606,607,572,588,568,548,558,579,701
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Lauderdale,44,41,35,40,50,108,122,133,121,136
+49,Units in Structure: Mobile Home,AL,Lauderdale,4066,4123,4011,4127,4044,4235,4311,4321,4083,4122
+40,Units in Structure: 1 ATTACHED,AL,Lawrence,46,70,68,52,63,53,38,29,37,26
+41,Units in Structure: 1 DETACHED,AL,Lawrence,10801,10665,10842,10718,10631,10486,10734,10964,11003,10729
+42,Units in Structure: 10-19,AL,Lawrence,37,49,50,52,82,103,91,90,81,90
+43,Units in Structure: 2,AL,Lawrence,169,129,158,170,183,195,191,144,87,76
+44,Units in Structure: 20-49,AL,Lawrence,19,52,74,66,67,76,52,36,38,44
+45,Units in Structure: 3-4,AL,Lawrence,209,256,249,299,339,250,227,267,286,269
+46,Units in Structure: 5-9,AL,Lawrence,328,360,349,301,272,290,299,328,351,381
+47,Units in Structure: 50+,AL,Lawrence,33,23,19,5,3,3,3,8,9,11
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Lawrence,24,24,17,20,27,5,24,22,23,19
+49,Units in Structure: Mobile Home,AL,Lawrence,3640,3625,3401,3481,3514,3729,3522,3459,3458,3651
+40,Units in Structure: 1 ATTACHED,AL,Lee,1869,1892,1824,1905,1820,1562,1649,1625,1730,2065
+41,Units in Structure: 1 DETACHED,AL,Lee,30575,31329,32836,33548,34785,36102,36790,37314,38122,38758
+42,Units in Structure: 10-19,AL,Lee,3304,3752,3840,4185,4317,4547,4637,4609,4073,4079
+43,Units in Structure: 2,AL,Lee,3029,3087,2871,2916,3202,3146,3192,3700,3787,3000
+44,Units in Structure: 20-49,AL,Lee,2311,2218,2310,2379,2425,2329,2304,2274,2141,2169
+45,Units in Structure: 3-4,AL,Lee,1437,1332,1292,1328,1289,1336,1581,1622,1873,1975
+46,Units in Structure: 5-9,AL,Lee,2891,2987,2915,3007,3089,3002,2935,3189,3218,3294
+47,Units in Structure: 50+,AL,Lee,1093,1054,1287,1256,1297,1337,1478,1516,2185,2384
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Lee,54,0,38,41,51,52,58,5,75,98
+49,Units in Structure: Mobile Home,AL,Lee,13976,14010,13425,12730,11983,11551,11077,11233,10877,11150
+40,Units in Structure: 1 ATTACHED,AL,Limestone,392,380,438,435,510,512,475,498,516,524
+41,Units in Structure: 1 DETACHED,AL,Limestone,24369,25392,26084,26539,27241,27457,27471,27698,27990,27884
+42,Units in Structure: 10-19,AL,Limestone,434,426,511,495,426,497,513,544,501,557
+43,Units in Structure: 2,AL,Limestone,694,739,648,717,619,592,604,578,460,441
+44,Units in Structure: 20-49,AL,Limestone,270,290,295,263,308,364,423,396,478,464
+45,Units in Structure: 3-4,AL,Limestone,661,595,711,819,674,607,605,434,372,450
+46,Units in Structure: 5-9,AL,Limestone,794,724,570,586,584,646,722,801,858,928
+47,Units in Structure: 50+,AL,Limestone,277,312,270,244,228,267,238,255,318,246
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Limestone,91,77,120,172,178,98,83,66,40,124
+49,Units in Structure: Mobile Home,AL,Limestone,5472,5394,5011,4689,4473,4317,4381,4589,4536,4438
+40,Units in Structure: 1 ATTACHED,AL,Lowndes,54,49,93,106,100,109,135,76,66,70
+41,Units in Structure: 1 DETACHED,AL,Lowndes,2976,3079,2972,2900,2883,2917,2778,2707,2907,2846
+42,Units in Structure: 10-19,AL,Lowndes,0,0,0,0,7,6,7,9,10,0
+43,Units in Structure: 2,AL,Lowndes,176,169,224,252,191,171,173,197,161,154
+44,Units in Structure: 20-49,AL,Lowndes,3,2,3,10,7,9,7,9,0,0
+45,Units in Structure: 3-4,AL,Lowndes,93,95,142,137,151,175,165,143,138,192
+46,Units in Structure: 5-9,AL,Lowndes,96,105,82,85,85,32,22,31,5,18
+47,Units in Structure: 50+,AL,Lowndes,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Lowndes,0,0,3,2,2,2,2,0,2,3
+49,Units in Structure: Mobile Home,AL,Lowndes,1872,1699,1657,1622,1685,1670,1792,1986,1898,1941
+40,Units in Structure: 1 ATTACHED,AL,Macon,171,218,203,163,98,108,53,52,49,45
+41,Units in Structure: 1 DETACHED,AL,Macon,6312,6273,6274,6257,6350,6476,6618,6649,6722,6637
+42,Units in Structure: 10-19,AL,Macon,153,161,177,186,180,201,158,166,208,238
+43,Units in Structure: 2,AL,Macon,250,249,245,247,284,293,306,271,278,233
+44,Units in Structure: 20-49,AL,Macon,58,72,63,66,70,35,47,35,41,54
+45,Units in Structure: 3-4,AL,Macon,663,685,626,602,572,515,526,565,545,526
+46,Units in Structure: 5-9,AL,Macon,437,406,442,466,465,546,543,489,474,485
+47,Units in Structure: 50+,AL,Macon,44,31,16,17,17,18,12,17,7,0
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Macon,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,AL,Macon,2300,2215,2239,2220,2203,2046,1959,2020,1950,2078
+40,Units in Structure: 1 ATTACHED,AL,Madison,3073,3227,3246,3148,3098,2981,2491,2402,2729,2868
+41,Units in Structure: 1 DETACHED,AL,Madison,100009,101857,103921,105783,107514,108800,111879,112656,114160,115754
+42,Units in Structure: 10-19,AL,Madison,7228,7326,7633,8115,7939,8231,8263,8723,8280,8730
+43,Units in Structure: 2,AL,Madison,2382,2450,2227,2261,2332,2276,2314,2525,2561,2417
+44,Units in Structure: 20-49,AL,Madison,2890,3007,2913,3168,3528,3610,3677,4014,4114,3958
+45,Units in Structure: 3-4,AL,Madison,5534,5510,5672,5517,6009,6176,6252,6276,6275,6243
+46,Units in Structure: 5-9,AL,Madison,9391,9708,10000,9937,9899,10248,9894,9837,10120,10205
+47,Units in Structure: 50+,AL,Madison,2867,2988,2765,2789,2778,2765,2976,3343,3816,4178
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Madison,7,8,7,13,16,40,47,78,163,176
+49,Units in Structure: Mobile Home,AL,Madison,8102,8258,8244,7953,7599,7593,6917,7146,7081,7048
+40,Units in Structure: 1 ATTACHED,AL,Marengo,195,222,231,143,155,170,91,64,63,70
+41,Units in Structure: 1 DETACHED,AL,Marengo,6447,6438,6567,6625,6609,6542,6690,6806,6656,6479
+42,Units in Structure: 10-19,AL,Marengo,53,65,98,30,72,82,72,105,87,42
+43,Units in Structure: 2,AL,Marengo,449,393,372,331,323,230,181,109,221,276
+44,Units in Structure: 20-49,AL,Marengo,55,0,90,99,114,126,120,43,19,12
+45,Units in Structure: 3-4,AL,Marengo,117,110,118,147,200,172,200,183,232,238
+46,Units in Structure: 5-9,AL,Marengo,184,252,262,278,359,334,382,494,447,401
+47,Units in Structure: 50+,AL,Marengo,0,12,42,40,50,76,63,9,43,57
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Marengo,0,0,0,0,0,19,17,22,20,26
+49,Units in Structure: Mobile Home,AL,Marengo,2766,2758,2475,2522,2344,2467,2392,2472,2537,2747
+40,Units in Structure: 1 ATTACHED,AL,Marion,46,37,51,80,91,46,43,37,84,102
+41,Units in Structure: 1 DETACHED,AL,Marion,9796,9583,9648,10115,10187,10241,10196,10100,9652,9713
+42,Units in Structure: 10-19,AL,Marion,149,118,121,106,126,134,127,67,60,37
+43,Units in Structure: 2,AL,Marion,546,731,632,654,619,565,458,513,492,455
+44,Units in Structure: 20-49,AL,Marion,67,91,79,115,120,145,104,105,62,78
+45,Units in Structure: 3-4,AL,Marion,466,376,391,278,259,364,417,526,636,702
+46,Units in Structure: 5-9,AL,Marion,354,355,264,233,219,242,234,346,485,486
+47,Units in Structure: 50+,AL,Marion,16,34,39,30,32,33,19,31,49,49
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Marion,23,21,19,21,22,16,7,15,26,24
+49,Units in Structure: Mobile Home,AL,Marion,3292,3399,3487,3066,3053,2938,3097,3071,3321,3091
+40,Units in Structure: 1 ATTACHED,AL,Marshall,504,447,343,283,264,231,295,275,318,331
+41,Units in Structure: 1 DETACHED,AL,Marshall,28658,29362,29501,29926,29909,30220,30181,30396,30171,30930
+42,Units in Structure: 10-19,AL,Marshall,264,238,259,248,303,335,269,307,298,271
+43,Units in Structure: 2,AL,Marshall,1159,972,988,1009,976,889,1018,1016,1108,1026
+44,Units in Structure: 20-49,AL,Marshall,147,161,141,137,119,81,90,80,106,119
+45,Units in Structure: 3-4,AL,Marshall,656,703,742,810,815,878,919,986,953,931
+46,Units in Structure: 5-9,AL,Marshall,1338,1368,1412,1277,1106,1206,1195,1083,1293,1240
+47,Units in Structure: 50+,AL,Marshall,128,163,226,359,392,367,273,211,256,223
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Marshall,111,78,77,87,75,31,80,113,127,146
+49,Units in Structure: Mobile Home,AL,Marshall,6874,6658,6533,6089,6370,6132,6032,6123,6000,5380
+40,Units in Structure: 1 ATTACHED,AL,Mobile,2054,2063,2340,2238,1987,1843,1638,1676,1712,1656
+41,Units in Structure: 1 DETACHED,AL,Mobile,126218,128621,129802,129832,131241,131515,131581,132484,133437,133310
+42,Units in Structure: 10-19,AL,Mobile,5173,4873,4955,5229,5499,5943,6573,6982,7833,8556
+43,Units in Structure: 2,AL,Mobile,4163,4106,3639,3524,3627,3713,3689,3824,3503,3136
+44,Units in Structure: 20-49,AL,Mobile,2891,3067,3136,3448,3311,3662,4083,3928,4038,4215
+45,Units in Structure: 3-4,AL,Mobile,6013,5740,5536,5845,5757,5534,5575,5368,5038,4696
+46,Units in Structure: 5-9,AL,Mobile,9655,9467,9470,9238,9301,9378,9367,9014,8687,8845
+47,Units in Structure: 50+,AL,Mobile,3234,3611,3959,3925,4093,4151,4063,4325,4551,4523
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Mobile,370,349,347,207,118,113,161,119,282,358
+49,Units in Structure: Mobile Home,AL,Mobile,15982,15229,15094,15668,15343,15080,14882,14785,14083,14376
+40,Units in Structure: 1 ATTACHED,AL,Monroe,13,9,56,41,54,49,49,34,88,96
+41,Units in Structure: 1 DETACHED,AL,Monroe,8001,7762,7777,7662,7689,7777,7736,7798,7970,8091
+42,Units in Structure: 10-19,AL,Monroe,98,83,48,70,91,70,82,61,74,46
+43,Units in Structure: 2,AL,Monroe,245,198,192,208,229,181,166,189,186,101
+44,Units in Structure: 20-49,AL,Monroe,43,28,25,53,55,48,53,49,18,41
+45,Units in Structure: 3-4,AL,Monroe,121,189,171,155,131,155,143,151,118,126
+46,Units in Structure: 5-9,AL,Monroe,158,206,259,273,295,354,463,383,313,305
+47,Units in Structure: 50+,AL,Monroe,11,11,11,8,35,32,42,52,42,22
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Monroe,12,61,51,48,34,32,0,8,13,27
+49,Units in Structure: Mobile Home,AL,Monroe,2706,2834,2749,2770,2695,2598,2541,2650,2576,2560
+40,Units in Structure: 1 ATTACHED,AL,Montgomery,3715,3245,2978,2976,2927,2670,2917,2873,2838,2973
+41,Units in Structure: 1 DETACHED,AL,Montgomery,70990,71642,72010,72222,72184,72688,73050,72936,72807,72473
+42,Units in Structure: 10-19,AL,Montgomery,3567,3804,3753,4019,3618,3537,3556,3869,4111,4651
+43,Units in Structure: 2,AL,Montgomery,1558,1735,1739,1729,1884,1818,1731,1721,1703,1640
+44,Units in Structure: 20-49,AL,Montgomery,1905,1765,1723,1853,1910,2042,1946,2274,2258,2374
+45,Units in Structure: 3-4,AL,Montgomery,5466,5027,5239,4919,4882,4816,4738,4570,4656,4657
+46,Units in Structure: 5-9,AL,Montgomery,8384,8274,8446,7979,8614,8616,8935,8957,9225,9203
+47,Units in Structure: 50+,AL,Montgomery,1848,2026,2116,2372,2331,2497,2521,2396,2402,2399
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Montgomery,3,0,0,0,17,21,26,26,28,23
+49,Units in Structure: Mobile Home,AL,Montgomery,3816,3943,3952,4068,4236,4365,4157,4345,4327,4304
+40,Units in Structure: 1 ATTACHED,AL,Morgan,1765,1712,1760,1689,1668,1711,1757,1478,1299,1483
+41,Units in Structure: 1 DETACHED,AL,Morgan,35940,36077,36190,35999,36088,35795,35730,36476,36887,36730
+42,Units in Structure: 10-19,AL,Morgan,937,1080,1195,1398,1379,1419,1308,1194,1186,1107
+43,Units in Structure: 2,AL,Morgan,1056,864,828,985,909,831,716,718,729,778
+44,Units in Structure: 20-49,AL,Morgan,741,675,622,551,630,607,660,678,821,897
+45,Units in Structure: 3-4,AL,Morgan,1574,1868,2113,1988,1916,1919,1670,1497,1779,1995
+46,Units in Structure: 5-9,AL,Morgan,2099,2372,2187,2125,2244,2494,2759,3024,2709,2612
+47,Units in Structure: 50+,AL,Morgan,561,546,669,696,698,765,823,704,708,710
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Morgan,35,68,75,115,144,96,45,83,62,40
+49,Units in Structure: Mobile Home,AL,Morgan,6116,5764,5541,5647,5657,5774,6055,5926,5771,5698
+40,Units in Structure: 1 ATTACHED,AL,Perry,14,55,74,59,36,29,10,2,14,10
+41,Units in Structure: 1 DETACHED,AL,Perry,3266,3184,3211,2898,2981,2906,3048,3196,3314,3154
+42,Units in Structure: 10-19,AL,Perry,5,16,12,4,7,9,6,41,30,43
+43,Units in Structure: 2,AL,Perry,102,145,101,68,90,89,29,10,35,34
+44,Units in Structure: 20-49,AL,Perry,46,39,39,46,82,78,56,48,20,6
+45,Units in Structure: 3-4,AL,Perry,272,282,323,266,235,202,142,189,217,246
+46,Units in Structure: 5-9,AL,Perry,85,85,84,85,72,50,34,13,34,31
+47,Units in Structure: 50+,AL,Perry,46,32,12,51,87,178,190,165,106,59
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Perry,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,AL,Perry,1048,957,908,1231,1115,1170,1178,1084,981,1153
+40,Units in Structure: 1 ATTACHED,AL,Pickens,95,65,55,38,40,38,21,40,34,71
+41,Units in Structure: 1 DETACHED,AL,Pickens,6152,6156,6421,6495,6422,6311,6392,6303,6278,6112
+42,Units in Structure: 10-19,AL,Pickens,20,24,43,47,73,86,96,106,90,68
+43,Units in Structure: 2,AL,Pickens,475,450,456,535,551,609,663,557,563,495
+44,Units in Structure: 20-49,AL,Pickens,3,10,18,59,37,42,57,72,27,73
+45,Units in Structure: 3-4,AL,Pickens,212,217,198,187,140,126,128,143,177,226
+46,Units in Structure: 5-9,AL,Pickens,219,183,166,148,124,132,110,117,104,112
+47,Units in Structure: 50+,AL,Pickens,35,42,37,32,7,14,18,22,15,17
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Pickens,0,6,14,17,14,14,7,0,0,0
+49,Units in Structure: Mobile Home,AL,Pickens,2321,2343,2077,1880,2054,2075,1957,2178,2269,2414
+40,Units in Structure: 1 ATTACHED,AL,Pike,136,130,152,121,100,115,92,65,180,146
+41,Units in Structure: 1 DETACHED,AL,Pike,8406,8544,8389,8538,8702,8898,8855,9049,8719,8793
+42,Units in Structure: 10-19,AL,Pike,402,332,440,561,537,571,630,564,366,366
+43,Units in Structure: 2,AL,Pike,774,674,679,611,696,691,640,626,686,613
+44,Units in Structure: 20-49,AL,Pike,61,70,53,41,80,171,158,216,155,261
+45,Units in Structure: 3-4,AL,Pike,732,769,733,677,643,707,766,865,1326,1135
+46,Units in Structure: 5-9,AL,Pike,779,752,825,886,880,852,846,949,1000,817
+47,Units in Structure: 50+,AL,Pike,56,56,43,58,54,37,72,116,103,118
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Pike,0,1,1,3,3,3,16,9,6,30
+49,Units in Structure: Mobile Home,AL,Pike,3715,3845,3957,3854,3819,3574,3659,3551,3536,3844
+40,Units in Structure: 1 ATTACHED,AL,Randolph,31,56,92,62,59,55,52,22,26,25
+41,Units in Structure: 1 DETACHED,AL,Randolph,8388,8288,8203,8058,8203,8247,8244,8430,8491,8398
+42,Units in Structure: 10-19,AL,Randolph,84,96,19,46,29,40,67,95,118,109
+43,Units in Structure: 2,AL,Randolph,96,93,91,72,85,93,215,194,196,154
+44,Units in Structure: 20-49,AL,Randolph,31,100,79,78,65,67,17,14,12,7
+45,Units in Structure: 3-4,AL,Randolph,187,178,215,203,209,164,217,146,142,102
+46,Units in Structure: 5-9,AL,Randolph,160,173,237,219,178,221,261,211,152,146
+47,Units in Structure: 50+,AL,Randolph,0,0,0,62,94,100,113,116,67,32
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Randolph,8,6,5,6,2,2,20,19,20,13
+49,Units in Structure: Mobile Home,AL,Randolph,2741,2887,2969,3104,3025,2951,2731,2796,2832,3111
+40,Units in Structure: 1 ATTACHED,AL,Russell,168,135,199,209,228,221,264,199,167,297
+41,Units in Structure: 1 DETACHED,AL,Russell,15098,15252,15715,15851,16488,16554,17079,17827,18299,18465
+42,Units in Structure: 10-19,AL,Russell,368,501,522,769,698,705,743,669,560,672
+43,Units in Structure: 2,AL,Russell,879,1013,1050,1101,1149,1180,997,922,918,798
+44,Units in Structure: 20-49,AL,Russell,143,176,238,331,243,252,234,206,167,216
+45,Units in Structure: 3-4,AL,Russell,823,762,636,804,958,1232,1276,1287,1265,1314
+46,Units in Structure: 5-9,AL,Russell,2063,1974,1890,1856,1921,1881,1878,1754,1614,1561
+47,Units in Structure: 50+,AL,Russell,41,98,180,157,200,223,226,161,163,190
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Russell,5,6,0,0,0,10,8,9,7,8
+49,Units in Structure: Mobile Home,AL,Russell,4625,4553,4549,4307,4028,4110,4014,4136,4266,4159
+40,Units in Structure: 1 ATTACHED,AL,St. Clair,190,336,223,293,270,223,273,339,326,411
+41,Units in Structure: 1 DETACHED,AL,St. Clair,22185,23222,23768,24201,24234,24555,24806,24713,24832,25252
+42,Units in Structure: 10-19,AL,St. Clair,243,288,374,327,410,372,408,361,377,331
+43,Units in Structure: 2,AL,St. Clair,317,287,278,233,233,328,314,355,512,500
+44,Units in Structure: 20-49,AL,St. Clair,219,146,118,132,217,154,133,171,194,100
+45,Units in Structure: 3-4,AL,St. Clair,312,225,267,364,620,594,645,625,522,313
+46,Units in Structure: 5-9,AL,St. Clair,707,652,675,638,608,707,701,901,999,1061
+47,Units in Structure: 50+,AL,St. Clair,83,100,92,130,87,68,89,66,48,98
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,St. Clair,4,6,7,5,19,33,31,30,46,31
+49,Units in Structure: Mobile Home,AL,St. Clair,10172,9843,9534,9146,9020,8707,8444,8963,8772,8617
+40,Units in Structure: 1 ATTACHED,AL,Shelby,4059,4311,4521,4458,4392,4325,4463,4556,4464,4516
+41,Units in Structure: 1 DETACHED,AL,Shelby,57156,58107,58601,59014,60162,61061,62059,63065,64111,65202
+42,Units in Structure: 10-19,AL,Shelby,3470,3443,3412,3318,3226,3172,3260,3360,3553,3484
+43,Units in Structure: 2,AL,Shelby,328,314,409,403,552,532,541,526,542,495
+44,Units in Structure: 20-49,AL,Shelby,1463,1772,1961,2145,2084,2105,2034,1926,1878,1842
+45,Units in Structure: 3-4,AL,Shelby,746,639,642,792,859,911,886,1145,1061,1083
+46,Units in Structure: 5-9,AL,Shelby,2548,2575,2558,2406,2444,2237,2324,2301,2367,2486
+47,Units in Structure: 50+,AL,Shelby,471,573,600,780,794,930,996,1015,1142,1192
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Shelby,18,17,29,30,30,32,35,87,92,77
+49,Units in Structure: Mobile Home,AL,Shelby,8501,8317,8223,8112,7699,7545,7024,7062,6867,6611
+40,Units in Structure: 1 ATTACHED,AL,Sumter,167,98,106,71,43,26,22,5,3,16
+41,Units in Structure: 1 DETACHED,AL,Sumter,3446,3700,3624,3642,3761,3769,3617,3589,3617,3574
+42,Units in Structure: 10-19,AL,Sumter,208,228,250,188,167,148,177,72,197,116
+43,Units in Structure: 2,AL,Sumter,422,414,368,303,217,178,182,189,259,306
+44,Units in Structure: 20-49,AL,Sumter,117,78,191,160,184,163,153,150,129,108
+45,Units in Structure: 3-4,AL,Sumter,71,95,56,109,104,123,157,303,289,326
+46,Units in Structure: 5-9,AL,Sumter,133,178,158,147,183,154,175,176,204,182
+47,Units in Structure: 50+,AL,Sumter,47,41,16,197,246,224,253,276,66,14
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Sumter,0,0,0,17,18,15,8,11,0,0
+49,Units in Structure: Mobile Home,AL,Sumter,2216,1969,2027,1927,1847,1952,2023,2062,2094,2230
+40,Units in Structure: 1 ATTACHED,AL,Talladega,571,467,466,439,406,407,409,373,294,336
+41,Units in Structure: 1 DETACHED,AL,Talladega,22991,23050,23218,23041,23663,23876,23648,23945,24247,23627
+42,Units in Structure: 10-19,AL,Talladega,82,79,161,140,171,186,238,286,295,345
+43,Units in Structure: 2,AL,Talladega,1018,1248,1307,1369,1175,1201,1066,1107,1080,1305
+44,Units in Structure: 20-49,AL,Talladega,184,169,156,187,193,280,356,297,363,382
+45,Units in Structure: 3-4,AL,Talladega,915,1124,1208,1430,1299,1211,1232,1191,1104,1145
+46,Units in Structure: 5-9,AL,Talladega,1134,953,946,941,1008,1012,1139,1146,1102,1015
+47,Units in Structure: 50+,AL,Talladega,187,153,224,215,266,249,269,197,201,174
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Talladega,65,68,42,73,73,64,120,112,85,95
+49,Units in Structure: Mobile Home,AL,Talladega,9553,9598,9309,9207,8885,8671,8720,8909,8898,9437
+40,Units in Structure: 1 ATTACHED,AL,Tallapoosa,286,282,314,308,296,193,205,172,205,273
+41,Units in Structure: 1 DETACHED,AL,Tallapoosa,15396,15767,15759,15588,15574,15484,15523,15648,15804,15861
+42,Units in Structure: 10-19,AL,Tallapoosa,112,149,226,250,305,323,383,253,229,318
+43,Units in Structure: 2,AL,Tallapoosa,378,390,434,411,446,524,405,581,683,502
+44,Units in Structure: 20-49,AL,Tallapoosa,169,197,230,216,299,296,271,281,247,160
+45,Units in Structure: 3-4,AL,Tallapoosa,686,674,754,761,748,644,614,495,384,420
+46,Units in Structure: 5-9,AL,Tallapoosa,517,514,391,447,577,530,500,507,447,438
+47,Units in Structure: 50+,AL,Tallapoosa,105,61,94,143,159,174,203,225,270,197
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Tallapoosa,15,29,22,20,26,13,0,0,12,9
+49,Units in Structure: Mobile Home,AL,Tallapoosa,4264,3945,3822,3897,3644,3897,3954,4096,4029,4243
+40,Units in Structure: 1 ATTACHED,AL,Tuscaloosa,1450,1347,1390,1321,1077,1010,1040,1088,1111,1255
+41,Units in Structure: 1 DETACHED,AL,Tuscaloosa,50577,51014,50442,50974,51524,51609,52627,53886,54491,54205
+42,Units in Structure: 10-19,AL,Tuscaloosa,5931,5860,6287,6197,6472,6602,7025,6855,7169,7446
+43,Units in Structure: 2,AL,Tuscaloosa,1786,1886,1721,1671,1598,1807,1913,2183,2126,2116
+44,Units in Structure: 20-49,AL,Tuscaloosa,2270,2216,2383,2657,2887,3237,3717,4019,4235,4473
+45,Units in Structure: 3-4,AL,Tuscaloosa,3324,3632,3746,3799,4017,4034,3682,3637,3572,3375
+46,Units in Structure: 5-9,AL,Tuscaloosa,5608,6060,6496,6847,6580,6575,6004,5858,5948,5821
+47,Units in Structure: 50+,AL,Tuscaloosa,1997,2157,2458,2712,2877,2955,3003,2964,3009,3050
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Tuscaloosa,30,28,28,42,43,20,60,55,57,81
+49,Units in Structure: Mobile Home,AL,Tuscaloosa,9816,9781,9939,9268,9165,9215,8852,8874,8858,8735
+40,Units in Structure: 1 ATTACHED,AL,Walker,53,100,110,124,179,201,202,213,238,244
+41,Units in Structure: 1 DETACHED,AL,Walker,20940,20810,20765,20610,20264,20166,19877,19712,19608,19792
+42,Units in Structure: 10-19,AL,Walker,347,209,235,228,202,127,133,111,191,128
+43,Units in Structure: 2,AL,Walker,507,400,468,463,487,387,442,454,452,367
+44,Units in Structure: 20-49,AL,Walker,81,94,79,56,65,37,26,54,49,39
+45,Units in Structure: 3-4,AL,Walker,600,486,561,440,480,505,592,651,680,696
+46,Units in Structure: 5-9,AL,Walker,486,609,455,524,614,750,723,803,663,634
+47,Units in Structure: 50+,AL,Walker,41,39,33,41,35,35,33,32,80,81
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Walker,29,15,8,19,21,20,18,18,4,27
+49,Units in Structure: Mobile Home,AL,Walker,8209,8234,8198,8211,8425,8445,8662,8940,9092,9133
+40,Units in Structure: 1 ATTACHED,AL,Washington,18,0,0,0,0,0,0,38,45,48
+41,Units in Structure: 1 DETACHED,AL,Washington,6153,6180,6118,6001,6064,5719,5554,5798,5769,5807
+42,Units in Structure: 10-19,AL,Washington,2,5,4,0,0,0,0,0,0,0
+43,Units in Structure: 2,AL,Washington,45,40,40,66,21,28,22,22,6,6
+44,Units in Structure: 20-49,AL,Washington,12,13,18,20,16,7,5,1,1,2
+45,Units in Structure: 3-4,AL,Washington,7,16,24,24,26,44,28,31,22,78
+46,Units in Structure: 5-9,AL,Washington,160,89,107,59,38,33,45,14,27,37
+47,Units in Structure: 50+,AL,Washington,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Washington,8,0,9,3,5,9,13,0,11,8
+49,Units in Structure: Mobile Home,AL,Washington,2000,2067,2087,2190,2216,2531,2707,2577,2628,2568
+40,Units in Structure: 1 ATTACHED,AL,Wilcox,59,56,58,61,26,11,9,16,10,12
+41,Units in Structure: 1 DETACHED,AL,Wilcox,3542,3161,3135,3318,3300,3153,3152,3253,3070,3101
+42,Units in Structure: 10-19,AL,Wilcox,28,36,31,18,27,21,22,29,6,0
+43,Units in Structure: 2,AL,Wilcox,11,20,30,33,24,27,11,5,4,0
+44,Units in Structure: 20-49,AL,Wilcox,0,14,11,7,7,9,7,5,7,8
+45,Units in Structure: 3-4,AL,Wilcox,252,235,230,206,202,174,183,186,169,161
+46,Units in Structure: 5-9,AL,Wilcox,51,40,40,49,79,115,169,148,150,162
+47,Units in Structure: 50+,AL,Wilcox,0,0,0,6,4,3,2,2,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Wilcox,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,AL,Wilcox,1848,2140,2145,1923,1957,2103,2064,2065,2312,2333
+40,Units in Structure: 1 ATTACHED,AL,Winston,17,37,34,44,37,48,56,60,42,61
+41,Units in Structure: 1 DETACHED,AL,Winston,8775,8608,8692,8940,9036,8905,8992,9147,8966,9064
+42,Units in Structure: 10-19,AL,Winston,14,23,17,100,102,153,142,197,200,183
+43,Units in Structure: 2,AL,Winston,222,219,175,176,172,161,155,205,166,215
+44,Units in Structure: 20-49,AL,Winston,28,36,50,0,8,6,19,26,53,58
+45,Units in Structure: 3-4,AL,Winston,219,292,265,215,271,268,261,261,250,217
+46,Units in Structure: 5-9,AL,Winston,335,326,298,214,202,194,212,225,226,215
+47,Units in Structure: 50+,AL,Winston,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",AL,Winston,0,0,0,0,0,0,0,0,0,56
+49,Units in Structure: Mobile Home,AL,Winston,3753,3888,3901,3704,3600,3681,3567,3473,3746,3600

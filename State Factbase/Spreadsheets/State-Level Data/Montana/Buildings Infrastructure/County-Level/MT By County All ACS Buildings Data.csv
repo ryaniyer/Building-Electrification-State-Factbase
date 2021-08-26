@@ -1,0 +1,2297 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,MT,Beaverhead,2.29,2.21,2.21,2.23,2.21,2.33,2.34,2.34,2.35,2.34
+1,Avg household size of renter-occupied unit,MT,Beaverhead,2.2,1.98,1.9,1.91,1.95,1.85,1.96,2.02,2.0,1.99
+2,FIPS Code,MT,Beaverhead,30001,30001,30001,30001,30001,30001,30001,30001,30001,30001
+3,House Heating Fuel: Electric,MT,Beaverhead,856,1059,1192,1248,1269,1275,1226,1197,1198,1172
+4,House Heating Fuel: Fuel Oil,MT,Beaverhead,48,67,56,67,39,22,21,17,17,10
+5,House Heating Fuel: Gas,MT,Beaverhead,1713,1616,1637,1549,1660,1590,1500,1408,1351,1437
+6,House Heating Fuel: Propane,MT,Beaverhead,582,567,474,502,440,446,529,663,695,699
+7,House Heating Fuel: Wood,MT,Beaverhead,651,643,702,677,646,660,658,622,685,658
+26,Median Number of Rooms,MT,Beaverhead,5.4,5.4,5.4,5.3,5.2,5.2,5.1,5.1,5.2,5.0
+27,Number of Rooms: 1,MT,Beaverhead,74,87,119,149,142,169,206,225,269,323
+28,Number of Rooms: 2,MT,Beaverhead,179,171,182,166,168,182,199,195,201,218
+29,Number of Rooms: 3,MT,Beaverhead,424,475,492,521,537,644,731,745,751,795
+30,Number of Rooms: 4,MT,Beaverhead,868,854,840,918,1012,957,1012,988,958,886
+31,Number of Rooms: 5,MT,Beaverhead,1137,1095,1064,1075,1038,916,817,797,744,828
+32,Number of Rooms: 6,MT,Beaverhead,856,891,834,718,614,732,649,621,695,688
+33,Number of Rooms: 7,MT,Beaverhead,538,514,482,462,505,505,464,492,509,427
+34,Number of Rooms: 8,MT,Beaverhead,359,352,377,428,421,400,504,524,466,444
+35,Number of Rooms: 9+,MT,Beaverhead,721,784,859,816,836,754,674,731,738,735
+36,Owner-Occupied,MT,Beaverhead,5800,5538,5639,5870,5902,6066,5922,6125,6265,6324
+37,Renter-Occupied,MT,Beaverhead,3045,2951,2954,2818,2847,2726,2898,2734,2613,2558
+38,Total Housing Units,MT,Beaverhead,5156,5223,5249,5253,5273,5259,5256,5318,5331,5344
+39,Total Population,MT,Beaverhead,9132,9170,9228,9278,9294,9291,9317,9360,9393,9415
+40,Units in Structure: 1 ATTACHED,MT,Beaverhead,87,92,83,36,31,35,42,54,59,41
+41,Units in Structure: 1 DETACHED,MT,Beaverhead,3708,3798,3817,3874,3877,3849,3805,3778,3837,3873
+42,Units in Structure: 10-19,MT,Beaverhead,76,74,55,52,53,28,14,33,18,11
+43,Units in Structure: 2,MT,Beaverhead,97,147,145,227,234,235,227,239,125,132
+44,Units in Structure: 20-49,MT,Beaverhead,17,17,32,42,47,59,73,73,61,70
+45,Units in Structure: 3-4,MT,Beaverhead,90,90,107,128,151,132,144,168,209,209
+46,Units in Structure: 5-9,MT,Beaverhead,119,143,103,46,64,102,99,116,194,144
+47,Units in Structure: 50+,MT,Beaverhead,6,6,13,12,7,10,50,41,43,47
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Beaverhead,3,0,0,0,0,0,0,0,0,1
+49,Units in Structure: Mobile Home,MT,Beaverhead,953,856,894,836,809,809,802,816,785,816
+50,Year Built: 1940-1949,MT,Beaverhead,168,148,150,133,159,492,379,405,381,346
+51,Year Built: 1950-1959,MT,Beaverhead,445,495,489,502,499,313,335,358,394,385
+52,Year Built: 1960-1969,MT,Beaverhead,660,584,590,442,406,1151,1155,1015,963,976
+53,Year Built: 1970-1979,MT,Beaverhead,921,916,1053,1189,1183,568,555,494,470,546
+54,Year Built: 1980-1989,MT,Beaverhead,568,520,523,540,543,893,882,992,939,820
+55,Year Built: 1990-1999,MT,Beaverhead,787,827,863,788,903,624,657,687,674,684
+56,Year Built: 2000-2009,MT,Beaverhead,213,282,478,559,554,61,81,97,78,104
+57,Year Built: 2010-2013,MT,Beaverhead,156,200,11,16,29,0,2,2,37,83
+58,Year Built: before 1940,MT,Beaverhead,1238,1251,1092,1084,997,151,166,105,163,156
+0,Avg household size of owner-occupied unit,MT,Big Horn,3.55,3.6,3.53,3.5,3.48,3.37,3.4,3.3,3.53,3.7
+1,Avg household size of renter-occupied unit,MT,Big Horn,3.46,3.59,3.69,4.13,4.04,4.05,3.98,3.91,3.68,3.61
+2,FIPS Code,MT,Big Horn,30003,30003,30003,30003,30003,30003,30003,30003,30003,30003
+3,House Heating Fuel: Electric,MT,Big Horn,542,530,624,602,683,752,881,907,869,886
+4,House Heating Fuel: Fuel Oil,MT,Big Horn,47,51,50,59,38,16,19,24,25,1
+5,House Heating Fuel: Gas,MT,Big Horn,1424,1445,1434,1350,1392,1340,1284,1323,1369,1258
+6,House Heating Fuel: Propane,MT,Big Horn,1256,1140,1185,1163,1121,1228,1164,1168,1175,1168
+7,House Heating Fuel: Wood,MT,Big Horn,119,109,62,88,114,132,155,207,201,230
+26,Median Number of Rooms,MT,Big Horn,5.1,5.1,5.1,5.1,5.1,5.1,5.1,5.2,5.2,5.3
+27,Number of Rooms: 1,MT,Big Horn,22,27,35,47,39,42,49,48,56,131
+28,Number of Rooms: 2,MT,Big Horn,151,207,216,183,119,196,137,117,136,147
+29,Number of Rooms: 3,MT,Big Horn,275,192,203,241,285,289,266,258,211,173
+30,Number of Rooms: 4,MT,Big Horn,982,1104,1060,935,992,981,911,853,887,878
+31,Number of Rooms: 5,MT,Big Horn,1526,1437,1480,1529,1448,1461,1506,1498,1469,1355
+32,Number of Rooms: 6,MT,Big Horn,903,905,861,899,902,922,891,963,946,979
+33,Number of Rooms: 7,MT,Big Horn,236,226,262,286,344,335,406,487,571,618
+34,Number of Rooms: 8,MT,Big Horn,219,279,274,250,256,242,216,242,219,282
+35,Number of Rooms: 9+,MT,Big Horn,388,312,309,306,290,209,286,271,230,169
+36,Owner-Occupied,MT,Big Horn,8465,8359,8145,8120,7754,7391,7474,7510,7813,8458
+37,Renter-Occupied,MT,Big Horn,4140,4190,4523,4635,5153,5598,5586,5623,5409,4770
+38,Total Housing Units,MT,Big Horn,4702,4689,4700,4676,4675,4677,4668,4737,4725,4732
+39,Total Population,MT,Big Horn,12663,12776,12872,12939,13079,13141,13214,13290,13376,13387
+40,Units in Structure: 1 ATTACHED,MT,Big Horn,28,42,50,60,39,48,36,26,30,35
+41,Units in Structure: 1 DETACHED,MT,Big Horn,3371,3268,3265,3266,3370,3221,3329,3529,3412,3329
+42,Units in Structure: 10-19,MT,Big Horn,0,23,45,37,34,31,11,0,0,0
+43,Units in Structure: 2,MT,Big Horn,150,195,154,123,138,165,101,93,121,165
+44,Units in Structure: 20-49,MT,Big Horn,33,62,53,62,87,79,72,63,31,50
+45,Units in Structure: 3-4,MT,Big Horn,145,123,130,77,62,67,57,19,47,57
+46,Units in Structure: 5-9,MT,Big Horn,138,144,147,98,26,66,89,93,152,192
+47,Units in Structure: 50+,MT,Big Horn,0,0,0,0,0,16,18,17,20,22
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Big Horn,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Big Horn,837,832,856,953,919,984,955,897,912,882
+50,Year Built: 1940-1949,MT,Big Horn,410,453,457,457,389,283,339,336,301,355
+51,Year Built: 1950-1959,MT,Big Horn,376,375,347,285,289,569,510,677,616,542
+52,Year Built: 1960-1969,MT,Big Horn,541,606,529,565,557,1055,1084,1103,1175,1197
+53,Year Built: 1970-1979,MT,Big Horn,1327,1138,1111,1040,944,855,703,743,696,697
+54,Year Built: 1980-1989,MT,Big Horn,612,802,760,801,860,595,677,640,713,634
+55,Year Built: 1990-1999,MT,Big Horn,493,459,527,526,601,460,402,373,378,430
+56,Year Built: 2000-2009,MT,Big Horn,135,175,345,424,386,27,51,48,68,72
+57,Year Built: 2010-2013,MT,Big Horn,100,102,27,24,32,0,3,3,11,16
+58,Year Built: before 1940,MT,Big Horn,708,579,597,554,617,278,336,280,269,279
+0,Avg household size of owner-occupied unit,MT,Blaine,2.49,2.49,2.45,2.58,2.65,2.69,2.64,2.72,2.66,2.65
+1,Avg household size of renter-occupied unit,MT,Blaine,3.08,3.2,3.37,3.38,3.25,3.17,3.15,2.96,3.1,2.99
+2,FIPS Code,MT,Blaine,30005,30005,30005,30005,30005,30005,30005,30005,30005,30005
+3,House Heating Fuel: Electric,MT,Blaine,452,444,510,553,532,515,509,493,461,498
+4,House Heating Fuel: Fuel Oil,MT,Blaine,146,255,225,217,195,135,37,15,14,14
+5,House Heating Fuel: Gas,MT,Blaine,1178,1129,1137,1045,1009,960,979,974,1002,1008
+6,House Heating Fuel: Propane,MT,Blaine,304,277,284,280,318,411,525,596,613,625
+7,House Heating Fuel: Wood,MT,Blaine,113,100,101,118,152,185,190,210,196,181
+26,Median Number of Rooms,MT,Blaine,5.4,5.4,5.5,5.5,5.5,5.4,5.4,5.2,5.3,5.2
+27,Number of Rooms: 1,MT,Blaine,14,36,66,74,87,88,78,50,37,38
+28,Number of Rooms: 2,MT,Blaine,34,23,41,45,48,46,63,52,63,54
+29,Number of Rooms: 3,MT,Blaine,138,149,154,164,153,182,187,173,194,224
+30,Number of Rooms: 4,MT,Blaine,467,495,457,408,449,473,478,565,581,563
+31,Number of Rooms: 5,MT,Blaine,851,782,684,705,694,701,690,780,722,749
+32,Number of Rooms: 6,MT,Blaine,582,551,640,658,613,594,596,545,539,494
+33,Number of Rooms: 7,MT,Blaine,347,394,390,356,377,346,309,266,242,213
+34,Number of Rooms: 8,MT,Blaine,219,175,168,164,160,148,132,138,157,188
+35,Number of Rooms: 9+,MT,Blaine,227,243,239,247,249,241,283,279,307,318
+36,Owner-Occupied,MT,Blaine,3695,3711,3639,3778,3772,3751,3648,3714,3636,3634
+37,Renter-Occupied,MT,Blaine,2635,2650,2729,2616,2634,2672,2804,2803,2961,2974
+38,Total Housing Units,MT,Blaine,2879,2848,2839,2821,2830,2819,2816,2848,2842,2841
+39,Total Population,MT,Blaine,6472,6476,6514,6550,6576,6598,6609,6646,6727,6719
+40,Units in Structure: 1 ATTACHED,MT,Blaine,72,52,48,50,49,24,25,24,33,36
+41,Units in Structure: 1 DETACHED,MT,Blaine,2177,2136,2140,2128,2151,2220,2225,2250,2227,2185
+42,Units in Structure: 10-19,MT,Blaine,61,35,33,30,53,25,40,45,59,30
+43,Units in Structure: 2,MT,Blaine,55,54,33,39,41,34,45,39,36,59
+44,Units in Structure: 20-49,MT,Blaine,41,66,61,88,64,51,54,49,37,46
+45,Units in Structure: 3-4,MT,Blaine,72,71,75,77,78,94,90,96,75,77
+46,Units in Structure: 5-9,MT,Blaine,61,42,48,33,28,22,23,6,28,38
+47,Units in Structure: 50+,MT,Blaine,0,0,0,0,0,0,0,0,5,7
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Blaine,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Blaine,340,392,401,376,366,349,314,339,342,363
+50,Year Built: 1940-1949,MT,Blaine,233,222,202,188,182,368,299,251,212,219
+51,Year Built: 1950-1959,MT,Blaine,383,363,445,448,395,271,258,247,264,275
+52,Year Built: 1960-1969,MT,Blaine,333,317,315,305,307,649,681,739,686,704
+53,Year Built: 1970-1979,MT,Blaine,595,617,530,619,673,323,319,302,309,339
+54,Year Built: 1980-1989,MT,Blaine,332,279,312,295,262,214,237,251,275,210
+55,Year Built: 1990-1999,MT,Blaine,295,271,211,160,185,169,165,181,186,180
+56,Year Built: 2000-2009,MT,Blaine,23,44,87,89,142,28,33,28,42,87
+57,Year Built: 2010-2013,MT,Blaine,27,35,10,12,14,0,0,7,20,22
+58,Year Built: before 1940,MT,Blaine,658,700,727,705,670,166,190,232,180,171
+0,Avg household size of owner-occupied unit,MT,Broadwater,2.88,2.82,2.37,2.44,2.39,2.44,2.46,2.52,2.51,2.57
+1,Avg household size of renter-occupied unit,MT,Broadwater,2.31,2.52,1.98,1.8,1.89,1.93,1.83,1.62,1.89,2.12
+2,FIPS Code,MT,Broadwater,30007,30007,30007,30007,30007,30007,30007,30007,30007,30007
+3,House Heating Fuel: Electric,MT,Broadwater,228,247,264,309,336,301,267,256,217,269
+4,House Heating Fuel: Fuel Oil,MT,Broadwater,98,75,107,99,101,100,106,96,76,47
+5,House Heating Fuel: Gas,MT,Broadwater,296,327,351,326,319,267,257,286,341,355
+6,House Heating Fuel: Propane,MT,Broadwater,786,887,1034,1039,1015,1040,1039,1061,1034,1057
+7,House Heating Fuel: Wood,MT,Broadwater,347,308,516,552,611,662,679,634,674,557
+26,Median Number of Rooms,MT,Broadwater,5.4,5.3,5.3,5.3,5.4,5.5,5.5,5.7,5.8,5.7
+27,Number of Rooms: 1,MT,Broadwater,86,73,43,89,80,84,93,86,43,82
+28,Number of Rooms: 2,MT,Broadwater,86,139,138,146,157,122,63,34,44,25
+29,Number of Rooms: 3,MT,Broadwater,144,135,147,127,142,134,173,183,189,151
+30,Number of Rooms: 4,MT,Broadwater,312,327,445,506,420,447,407,431,335,397
+31,Number of Rooms: 5,MT,Broadwater,537,581,719,613,621,590,632,550,581,624
+32,Number of Rooms: 6,MT,Broadwater,406,395,420,394,473,436,446,479,510,498
+33,Number of Rooms: 7,MT,Broadwater,196,186,216,236,290,290,312,401,383,363
+34,Number of Rooms: 8,MT,Broadwater,194,182,197,177,187,199,171,198,240,231
+35,Number of Rooms: 9+,MT,Broadwater,214,269,337,401,337,397,394,381,415,365
+36,Owner-Occupied,MT,Broadwater,4262,4329,4438,4771,4671,4606,4804,5088,4941,5023
+37,Renter-Occupied,MT,Broadwater,924,1062,1081,842,974,1036,842,623,850,877
+38,Total Housing Units,MT,Broadwater,2175,2287,2662,2689,2707,2699,2691,2743,2740,2736
+39,Total Population,MT,Broadwater,5287,5447,5575,5666,5697,5692,5692,5755,5834,5945
+40,Units in Structure: 1 ATTACHED,MT,Broadwater,35,19,18,18,2,2,0,0,19,12
+41,Units in Structure: 1 DETACHED,MT,Broadwater,1480,1541,1917,1992,2033,2015,2084,2208,2149,2196
+42,Units in Structure: 10-19,MT,Broadwater,22,5,4,0,9,12,33,41,39,32
+43,Units in Structure: 2,MT,Broadwater,7,3,3,3,4,8,6,15,17,32
+44,Units in Structure: 20-49,MT,Broadwater,21,20,2,4,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Broadwater,16,36,47,64,68,70,48,41,40,43
+46,Units in Structure: 5-9,MT,Broadwater,28,11,7,10,27,50,54,49,61,37
+47,Units in Structure: 50+,MT,Broadwater,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Broadwater,0,45,42,52,62,63,20,12,13,12
+49,Units in Structure: Mobile Home,MT,Broadwater,566,607,622,546,502,479,446,377,402,372
+50,Year Built: 1940-1949,MT,Broadwater,30,52,59,78,103,111,106,60,80,53
+51,Year Built: 1950-1959,MT,Broadwater,131,106,125,144,132,98,124,144,178,167
+52,Year Built: 1960-1969,MT,Broadwater,130,135,147,111,93,368,444,481,528,593
+53,Year Built: 1970-1979,MT,Broadwater,498,427,382,338,361,238,196,253,192,202
+54,Year Built: 1980-1989,MT,Broadwater,174,242,260,279,226,497,509,445,443,368
+55,Year Built: 1990-1999,MT,Broadwater,522,521,552,520,554,815,765,775,759,750
+56,Year Built: 2000-2009,MT,Broadwater,158,269,608,715,795,11,16,61,101,179
+57,Year Built: 2010-2013,MT,Broadwater,125,178,0,13,18,0,0,16,13,55
+58,Year Built: before 1940,MT,Broadwater,407,357,529,491,425,98,88,97,80,45
+0,Avg household size of owner-occupied unit,MT,Carbon,2.37,2.3,2.27,2.27,2.32,2.29,2.36,2.31,2.38,2.4
+1,Avg household size of renter-occupied unit,MT,Carbon,2.37,2.39,2.6,2.49,2.43,2.21,2.24,2.11,2.05,2.05
+2,FIPS Code,MT,Carbon,30009,30009,30009,30009,30009,30009,30009,30009,30009,30009
+3,House Heating Fuel: Electric,MT,Carbon,467,556,463,474,448,495,406,476,492,590
+4,House Heating Fuel: Fuel Oil,MT,Carbon,8,24,32,27,15,20,14,13,12,19
+5,House Heating Fuel: Gas,MT,Carbon,2328,2317,2452,2439,2483,2431,2507,2564,2470,2497
+6,House Heating Fuel: Propane,MT,Carbon,796,847,807,883,871,1026,966,1003,1059,960
+7,House Heating Fuel: Wood,MT,Carbon,398,380,342,361,378,402,413,445,440,412
+26,Median Number of Rooms,MT,Carbon,5.1,5.1,5.2,5.3,5.3,5.3,5.5,5.5,5.5,5.5
+27,Number of Rooms: 1,MT,Carbon,197,214,182,191,184,191,202,234,189,143
+28,Number of Rooms: 2,MT,Carbon,243,284,293,261,304,235,173,171,190,227
+29,Number of Rooms: 3,MT,Carbon,584,649,627,561,575,604,515,534,575,610
+30,Number of Rooms: 4,MT,Carbon,1292,1170,1039,1056,1017,1045,1014,1055,1018,986
+31,Number of Rooms: 5,MT,Carbon,1367,1474,1552,1476,1377,1394,1286,1241,1302,1302
+32,Number of Rooms: 6,MT,Carbon,1044,994,1076,1130,1154,1116,1312,1188,1178,1221
+33,Number of Rooms: 7,MT,Carbon,684,613,643,714,713,725,719,854,832,779
+34,Number of Rooms: 8,MT,Carbon,367,417,434,432,510,493,501,501,505,442
+35,Number of Rooms: 9+,MT,Carbon,514,562,578,611,637,670,737,765,767,860
+36,Owner-Occupied,MT,Carbon,7168,7064,7038,7519,7714,7817,8079,8345,8399,8291
+37,Renter-Occupied,MT,Carbon,2666,2842,2917,2508,2386,2365,2164,2019,2044,2194
+38,Total Housing Units,MT,Carbon,6292,6377,6424,6432,6471,6473,6459,6543,6556,6570
+39,Total Population,MT,Carbon,9994,10016,10057,10126,10189,10268,10340,10466,10546,10597
+40,Units in Structure: 1 ATTACHED,MT,Carbon,111,115,129,124,109,94,106,116,85,121
+41,Units in Structure: 1 DETACHED,MT,Carbon,5167,5279,5280,5289,5344,5285,5273,5309,5363,5399
+42,Units in Structure: 10-19,MT,Carbon,26,49,61,54,53,52,36,30,37,15
+43,Units in Structure: 2,MT,Carbon,80,41,30,34,61,95,110,124,132,93
+44,Units in Structure: 20-49,MT,Carbon,9,22,29,20,17,32,22,12,12,9
+45,Units in Structure: 3-4,MT,Carbon,88,75,92,86,103,107,106,103,101,93
+46,Units in Structure: 5-9,MT,Carbon,105,78,78,52,51,37,47,33,33,77
+47,Units in Structure: 50+,MT,Carbon,0,0,0,0,0,0,0,0,0,8
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Carbon,13,7,6,8,10,9,9,21,11,12
+49,Units in Structure: Mobile Home,MT,Carbon,693,711,719,765,723,762,750,795,782,743
+50,Year Built: 1940-1949,MT,Carbon,279,249,242,235,245,471,468,562,604,503
+51,Year Built: 1950-1959,MT,Carbon,411,388,378,359,397,419,494,473,410,334
+52,Year Built: 1960-1969,MT,Carbon,461,372,345,298,372,903,860,877,861,959
+53,Year Built: 1970-1979,MT,Carbon,1003,914,856,938,904,708,722,702,787,746
+54,Year Built: 1980-1989,MT,Carbon,642,627,655,627,659,893,969,995,1020,1060
+55,Year Built: 1990-1999,MT,Carbon,1033,1011,1070,1018,921,1109,1126,1113,1050,1042
+56,Year Built: 2000-2009,MT,Carbon,341,386,781,969,1099,69,108,123,131,161
+57,Year Built: 2010-2013,MT,Carbon,104,249,29,59,67,0,8,26,27,71
+58,Year Built: before 1940,MT,Carbon,2018,2181,2068,1929,1807,238,240,211,175,154
+0,Avg household size of owner-occupied unit,MT,Carter,2.25,2.34,2.34,2.46,2.4,2.34,2.34,2.21,1.95,2.05
+1,Avg household size of renter-occupied unit,MT,Carter,2.07,2.08,2.18,2.47,2.48,2.61,2.49,2.68,2.61,2.14
+2,FIPS Code,MT,Carter,30011,30011,30011,30011,30011,30011,30011,30011,30011,30011
+3,House Heating Fuel: Electric,MT,Carter,34,23,34,36,20,21,29,24,38,65
+4,House Heating Fuel: Fuel Oil,MT,Carter,4,4,4,4,3,1,1,1,2,0
+5,House Heating Fuel: Gas,MT,Carter,6,15,23,27,28,29,25,32,25,34
+6,House Heating Fuel: Propane,MT,Carter,399,377,353,319,323,308,332,361,417,400
+7,House Heating Fuel: Wood,MT,Carter,115,108,114,91,95,120,122,128,131,121
+26,Median Number of Rooms,MT,Carter,5.0,4.9,5.1,5.0,5.1,5.2,5.4,5.4,5.5,5.7
+27,Number of Rooms: 1,MT,Carter,25,26,22,18,18,10,12,12,7,9
+28,Number of Rooms: 2,MT,Carter,3,13,36,50,49,52,48,21,6,16
+29,Number of Rooms: 3,MT,Carter,88,80,92,90,75,69,68,69,64,62
+30,Number of Rooms: 4,MT,Carter,215,221,167,158,152,139,123,152,180,156
+31,Number of Rooms: 5,MT,Carter,194,190,168,188,180,172,154,165,161,125
+32,Number of Rooms: 6,MT,Carter,109,113,135,142,139,154,150,149,135,151
+33,Number of Rooms: 7,MT,Carter,64,57,56,35,42,41,53,55,78,108
+34,Number of Rooms: 8,MT,Carter,75,70,80,50,65,58,60,50,61,43
+35,Number of Rooms: 9+,MT,Carter,75,60,72,75,83,101,121,138,130,114
+36,Owner-Occupied,MT,Carter,979,951,972,978,972,1003,1014,1036,996,926
+37,Renter-Occupied,MT,Carter,300,299,284,240,208,198,254,257,295,376
+38,Total Housing Units,MT,Carter,848,830,828,806,803,796,789,811,822,784
+39,Total Population,MT,Carter,1289,1266,1276,1241,1205,1227,1295,1320,1318,1331
+40,Units in Structure: 1 ATTACHED,MT,Carter,0,0,0,2,1,1,2,1,0,0
+41,Units in Structure: 1 DETACHED,MT,Carter,624,604,588,582,583,586,579,611,620,560
+42,Units in Structure: 10-19,MT,Carter,6,4,4,10,6,7,10,20,10,17
+43,Units in Structure: 2,MT,Carter,10,11,17,17,10,11,11,5,5,6
+44,Units in Structure: 20-49,MT,Carter,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Carter,0,0,0,0,0,0,0,0,0,0
+46,Units in Structure: 5-9,MT,Carter,5,4,2,2,3,0,0,0,0,4
+47,Units in Structure: 50+,MT,Carter,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Carter,0,0,0,0,2,3,2,2,2,1
+49,Units in Structure: Mobile Home,MT,Carter,203,207,217,193,198,188,185,172,185,196
+50,Year Built: 1940-1949,MT,Carter,67,59,66,81,67,75,73,76,69,63
+51,Year Built: 1950-1959,MT,Carter,91,91,87,86,87,90,80,79,75,66
+52,Year Built: 1960-1969,MT,Carter,77,73,58,44,69,167,151,108,119,129
+53,Year Built: 1970-1979,MT,Carter,162,145,197,189,175,58,68,66,104,105
+54,Year Built: 1980-1989,MT,Carter,98,100,100,85,64,52,55,70,76,66
+55,Year Built: 1990-1999,MT,Carter,52,50,46,38,48,102,98,118,112,97
+56,Year Built: 2000-2009,MT,Carter,22,33,57,50,95,6,11,13,9,12
+57,Year Built: 2010-2013,MT,Carter,9,11,0,5,5,0,0,0,4,29
+58,Year Built: before 1940,MT,Carter,270,268,217,228,193,58,67,78,56,62
+0,Avg household size of owner-occupied unit,MT,Cascade,2.47,2.48,2.45,2.45,2.44,2.43,2.41,2.38,2.38,2.38
+1,Avg household size of renter-occupied unit,MT,Cascade,2.16,2.16,2.21,2.22,2.21,2.21,2.17,2.14,2.15,2.17
+2,FIPS Code,MT,Cascade,30013,30013,30013,30013,30013,30013,30013,30013,30013,30013
+3,House Heating Fuel: Electric,MT,Cascade,3448,3661,3721,4013,4285,4072,4445,4417,4359,4363
+4,House Heating Fuel: Fuel Oil,MT,Cascade,363,321,306,220,186,191,191,167,201,175
+5,House Heating Fuel: Gas,MT,Cascade,26202,26051,26258,26065,26075,26301,26407,26698,26831,26930
+6,House Heating Fuel: Propane,MT,Cascade,1867,1813,1826,1796,1701,1797,1699,1807,1758,1788
+7,House Heating Fuel: Wood,MT,Cascade,875,894,851,884,999,952,918,871,844,642
+26,Median Number of Rooms,MT,Cascade,5.6,5.6,5.7,5.7,5.7,5.7,5.7,5.7,5.7,5.7
+27,Number of Rooms: 1,MT,Cascade,752,899,975,1072,1054,1168,1150,1192,1184,1242
+28,Number of Rooms: 2,MT,Cascade,997,942,894,825,708,646,590,612,730,767
+29,Number of Rooms: 3,MT,Cascade,3069,3220,3305,3478,3477,2992,2898,2729,2725,2600
+30,Number of Rooms: 4,MT,Cascade,6652,6525,6281,5928,6255,6584,6601,6634,6773,6859
+31,Number of Rooms: 5,MT,Cascade,6425,6205,5923,5868,6178,5979,6223,6655,6847,6727
+32,Number of Rooms: 6,MT,Cascade,5586,5931,6067,6332,6119,6031,5931,5729,5718,6087
+33,Number of Rooms: 7,MT,Cascade,4077,4118,4306,4041,4184,4337,4475,4838,4919,5189
+34,Number of Rooms: 8,MT,Cascade,3817,3639,3648,3981,3942,3934,4003,4078,3839,3846
+35,Number of Rooms: 9+,MT,Cascade,5515,5637,5861,5781,5537,5882,5843,5846,5823,5540
+36,Owner-Occupied,MT,Cascade,54712,55066,54006,53727,52870,52157,52487,53771,52616,52526
+37,Renter-Occupied,MT,Cascade,23731,23608,24977,25505,26536,27237,26867,25360,26551,26582
+38,Total Housing Units,MT,Cascade,36890,37116,37260,37306,37454,37553,37714,38313,38558,38857
+39,Total Population,MT,Cascade,80562,80931,81248,81621,81953,82090,82049,81816,81746,81625
+40,Units in Structure: 1 ATTACHED,MT,Cascade,1530,1631,1721,1630,1676,1576,1582,1574,1790,1768
+41,Units in Structure: 1 DETACHED,MT,Cascade,23506,23545,23756,24024,24126,24549,24963,25712,25605,25814
+42,Units in Structure: 10-19,MT,Cascade,1702,1540,1501,1441,1371,1465,1463,1528,1636,1913
+43,Units in Structure: 2,MT,Cascade,1874,1845,1574,1397,1240,1083,982,847,744,817
+44,Units in Structure: 20-49,MT,Cascade,1488,1392,1628,1526,1421,1219,1366,1133,1126,1416
+45,Units in Structure: 3-4,MT,Cascade,1568,1763,1807,1851,1994,1826,1712,1730,1709,1581
+46,Units in Structure: 5-9,MT,Cascade,1189,1252,1308,1383,1409,1416,1304,1175,1086,1011
+47,Units in Structure: 50+,MT,Cascade,756,777,715,651,632,709,786,852,1041,1116
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Cascade,9,7,13,10,10,12,12,45,41,48
+49,Units in Structure: Mobile Home,MT,Cascade,3268,3364,3237,3393,3575,3698,3544,3717,3780,3373
+50,Year Built: 1940-1949,MT,Cascade,2930,3184,3171,3099,3159,5492,5768,5838,5902,6135
+51,Year Built: 1950-1959,MT,Cascade,5530,5736,5601,5482,5402,6555,5713,5808,5519,5733
+52,Year Built: 1960-1969,MT,Cascade,5225,5676,5709,6030,6118,6157,6482,6785,6898,6902
+53,Year Built: 1970-1979,MT,Cascade,6480,6254,6511,6327,6311,2421,2550,2483,2709,2967
+54,Year Built: 1980-1989,MT,Cascade,3029,2926,3014,2855,2699,3414,3305,3483,3618,3421
+55,Year Built: 1990-1999,MT,Cascade,3664,3486,3173,3310,3509,3643,3596,3370,3248,3076
+56,Year Built: 2000-2009,MT,Cascade,1922,1809,3617,3758,3742,655,1007,1266,1337,1334
+57,Year Built: 2010-2013,MT,Cascade,1259,1646,147,324,390,20,71,261,431,718
+58,Year Built: before 1940,MT,Cascade,6851,6399,6317,6121,6124,3294,3087,2838,2756,2725
+0,Avg household size of owner-occupied unit,MT,Chouteau,2.52,2.5,2.46,2.42,2.32,2.4,2.37,2.35,2.41,2.37
+1,Avg household size of renter-occupied unit,MT,Chouteau,2.75,2.68,2.69,2.73,2.69,2.67,2.81,2.74,2.74,2.69
+2,FIPS Code,MT,Chouteau,30015,30015,30015,30015,30015,30015,30015,30015,30015,30015
+3,House Heating Fuel: Electric,MT,Chouteau,200,226,265,269,283,325,322,298,268,242
+4,House Heating Fuel: Fuel Oil,MT,Chouteau,176,188,218,203,201,171,131,117,108,83
+5,House Heating Fuel: Gas,MT,Chouteau,927,907,890,897,863,810,810,844,792,849
+6,House Heating Fuel: Propane,MT,Chouteau,746,711,668,699,806,801,817,875,914,933
+7,House Heating Fuel: Wood,MT,Chouteau,93,87,114,116,109,106,119,101,120,131
+26,Median Number of Rooms,MT,Chouteau,5.6,5.7,5.8,5.9,5.9,5.9,6.0,5.9,5.8,5.8
+27,Number of Rooms: 1,MT,Chouteau,12,17,24,27,41,55,70,63,88,85
+28,Number of Rooms: 2,MT,Chouteau,72,77,73,68,53,57,49,56,59,65
+29,Number of Rooms: 3,MT,Chouteau,94,133,144,152,132,157,133,119,135,139
+30,Number of Rooms: 4,MT,Chouteau,445,427,396,314,320,298,267,270,251,205
+31,Number of Rooms: 5,MT,Chouteau,715,659,590,552,543,525,537,616,667,723
+32,Number of Rooms: 6,MT,Chouteau,748,730,753,761,793,797,801,766,737,786
+33,Number of Rooms: 7,MT,Chouteau,404,370,357,386,384,411,484,502,479,445
+34,Number of Rooms: 8,MT,Chouteau,205,234,257,314,275,243,232,239,218,227
+35,Number of Rooms: 9+,MT,Chouteau,173,221,281,293,340,326,290,275,280,247
+36,Owner-Occupied,MT,Chouteau,3624,3444,3373,3356,3410,3309,3365,3367,3543,3440
+37,Renter-Occupied,MT,Chouteau,2011,2119,2226,2291,2293,2421,2364,2352,2152,2213
+38,Total Housing Units,MT,Chouteau,2868,2868,2875,2867,2881,2869,2863,2906,2914,2922
+39,Total Population,MT,Chouteau,5765,5784,5811,5827,5859,5855,5837,5812,5789,5732
+40,Units in Structure: 1 ATTACHED,MT,Chouteau,6,7,1,7,8,16,15,12,7,6
+41,Units in Structure: 1 DETACHED,MT,Chouteau,2367,2312,2329,2367,2362,2289,2337,2396,2341,2358
+42,Units in Structure: 10-19,MT,Chouteau,46,31,32,27,19,25,30,25,41,38
+43,Units in Structure: 2,MT,Chouteau,45,61,47,40,30,36,23,14,32,32
+44,Units in Structure: 20-49,MT,Chouteau,7,19,27,21,33,44,36,38,46,46
+45,Units in Structure: 3-4,MT,Chouteau,11,29,40,34,36,59,45,55,54,45
+46,Units in Structure: 5-9,MT,Chouteau,17,25,22,26,26,47,37,32,32,30
+47,Units in Structure: 50+,MT,Chouteau,18,18,22,25,15,15,10,4,13,15
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Chouteau,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Chouteau,351,366,355,320,352,338,330,330,348,352
+50,Year Built: 1940-1949,MT,Chouteau,323,289,275,254,230,332,345,395,367,379
+51,Year Built: 1950-1959,MT,Chouteau,539,528,503,467,379,315,306,267,242,225
+52,Year Built: 1960-1969,MT,Chouteau,315,350,371,342,347,357,353,364,382,416
+53,Year Built: 1970-1979,MT,Chouteau,387,385,373,339,348,333,331,331,374,321
+54,Year Built: 1980-1989,MT,Chouteau,182,211,250,280,314,294,305,330,332,368
+55,Year Built: 1990-1999,MT,Chouteau,265,260,254,288,281,135,139,148,179,150
+56,Year Built: 2000-2009,MT,Chouteau,76,61,69,85,116,36,40,31,20,23
+57,Year Built: 2010-2013,MT,Chouteau,5,11,3,12,34,0,0,3,21,27
+58,Year Built: before 1940,MT,Chouteau,776,773,777,800,832,227,235,228,207,245
+0,Avg household size of owner-occupied unit,MT,Custer,2.31,2.29,2.37,2.41,2.45,2.52,2.48,2.43,2.45,2.49
+1,Avg household size of renter-occupied unit,MT,Custer,1.94,1.93,1.91,1.98,2.03,2.08,2.11,2.16,2.07,1.89
+2,FIPS Code,MT,Custer,30017,30017,30017,30017,30017,30017,30017,30017,30017,30017
+3,House Heating Fuel: Electric,MT,Custer,916,891,973,867,877,889,990,1021,1091,1199
+4,House Heating Fuel: Fuel Oil,MT,Custer,11,10,14,10,9,3,3,3,2,0
+5,House Heating Fuel: Gas,MT,Custer,3570,3509,3416,3441,3366,3245,3186,3128,3058,3014
+6,House Heating Fuel: Propane,MT,Custer,523,563,513,496,465,504,526,549,601,570
+7,House Heating Fuel: Wood,MT,Custer,78,84,99,109,141,134,121,110,83,59
+26,Median Number of Rooms,MT,Custer,5.6,5.6,5.5,5.7,5.7,5.6,5.7,5.9,5.9,5.9
+27,Number of Rooms: 1,MT,Custer,131,133,143,89,97,103,175,216,256,279
+28,Number of Rooms: 2,MT,Custer,62,110,203,191,204,199,173,88,85,100
+29,Number of Rooms: 3,MT,Custer,543,492,482,482,491,474,466,342,361,354
+30,Number of Rooms: 4,MT,Custer,1034,982,968,924,819,766,752,801,792,744
+31,Number of Rooms: 5,MT,Custer,902,958,973,959,1016,1141,1102,1117,1014,1041
+32,Number of Rooms: 6,MT,Custer,854,819,723,719,816,755,746,764,818,775
+33,Number of Rooms: 7,MT,Custer,513,557,591,650,641,644,621,726,758,794
+34,Number of Rooms: 8,MT,Custer,604,605,623,639,597,613,559,584,621,653
+35,Number of Rooms: 9+,MT,Custer,886,894,852,911,908,890,1012,1045,984,960
+36,Owner-Occupied,MT,Custer,7810,8059,8072,8284,8341,8396,8412,8324,8222,8379
+37,Renter-Occupied,MT,Custer,3455,3115,3199,3071,3091,3111,3117,3126,3166,2898
+38,Total Housing Units,MT,Custer,5529,5550,5558,5564,5589,5585,5606,5683,5689,5700
+39,Total Population,MT,Custer,11548,11621,11706,11785,11869,11945,11980,11895,11845,11729
+40,Units in Structure: 1 ATTACHED,MT,Custer,148,93,90,79,82,88,90,115,138,149
+41,Units in Structure: 1 DETACHED,MT,Custer,3817,3931,3947,4001,4137,4091,4086,4142,4067,3938
+42,Units in Structure: 10-19,MT,Custer,19,44,38,40,43,63,35,78,73,83
+43,Units in Structure: 2,MT,Custer,147,153,91,95,124,108,112,97,75,83
+44,Units in Structure: 20-49,MT,Custer,111,133,189,159,165,172,179,160,157,177
+45,Units in Structure: 3-4,MT,Custer,174,174,210,209,216,203,230,184,160,174
+46,Units in Structure: 5-9,MT,Custer,159,147,170,141,132,151,133,115,137,187
+47,Units in Structure: 50+,MT,Custer,9,24,43,65,136,145,188,167,240,231
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Custer,28,47,31,30,11,7,7,0,0,3
+49,Units in Structure: Mobile Home,MT,Custer,917,804,749,745,543,557,546,625,642,675
+50,Year Built: 1940-1949,MT,Custer,470,508,528,532,557,603,622,689,645,645
+51,Year Built: 1950-1959,MT,Custer,847,849,867,849,836,657,599,703,779,659
+52,Year Built: 1960-1969,MT,Custer,536,528,525,444,568,1247,1152,1216,1215,1226
+53,Year Built: 1970-1979,MT,Custer,1577,1531,1403,1433,1267,387,417,505,429,427
+54,Year Built: 1980-1989,MT,Custer,266,308,304,358,361,315,359,310,336,311
+55,Year Built: 1990-1999,MT,Custer,283,237,279,300,282,339,350,397,329,365
+56,Year Built: 2000-2009,MT,Custer,177,175,246,283,291,52,94,117,151,210
+57,Year Built: 2010-2013,MT,Custer,35,69,3,13,36,4,33,42,31,60
+58,Year Built: before 1940,MT,Custer,1338,1345,1403,1352,1391,540,530,488,464,457
+0,Avg household size of owner-occupied unit,MT,Daniels,2.18,2.14,2.02,2.06,2.17,2.14,2.09,2.12,2.07,2.06
+1,Avg household size of renter-occupied unit,MT,Daniels,1.83,1.98,1.88,1.64,1.48,1.48,1.54,1.65,1.8,1.74
+2,FIPS Code,MT,Daniels,30019,30019,30019,30019,30019,30019,30019,30019,30019,30019
+3,House Heating Fuel: Electric,MT,Daniels,164,188,200,210,239,241,241,207,218,210
+4,House Heating Fuel: Fuel Oil,MT,Daniels,163,156,143,143,98,87,65,61,61,64
+5,House Heating Fuel: Gas,MT,Daniels,18,17,14,61,41,55,64,64,45,40
+6,House Heating Fuel: Propane,MT,Daniels,406,427,473,446,475,457,498,507,491,505
+7,House Heating Fuel: Wood,MT,Daniels,0,0,11,12,16,17,18,28,28,20
+26,Median Number of Rooms,MT,Daniels,5.8,6.0,6.0,5.9,6.1,6.1,6.1,6.1,6.1,5.9
+27,Number of Rooms: 1,MT,Daniels,0,0,0,0,0,0,0,11,12,17
+28,Number of Rooms: 2,MT,Daniels,0,0,12,10,11,15,14,0,0,0
+29,Number of Rooms: 3,MT,Daniels,86,89,73,65,50,64,67,57,65,62
+30,Number of Rooms: 4,MT,Daniels,183,155,185,214,224,208,245,231,195,211
+31,Number of Rooms: 5,MT,Daniels,230,181,159,184,172,158,151,187,164,195
+32,Number of Rooms: 6,MT,Daniels,181,228,231,210,185,185,169,147,194,203
+33,Number of Rooms: 7,MT,Daniels,140,169,159,151,203,186,190,191,137,98
+34,Number of Rooms: 8,MT,Daniels,99,95,68,99,104,111,112,119,115,115
+35,Number of Rooms: 9+,MT,Daniels,176,174,202,174,182,191,196,194,230,233
+36,Owner-Occupied,MT,Daniels,1383,1346,1338,1380,1485,1432,1442,1425,1431,1384
+37,Renter-Occupied,MT,Daniels,256,340,360,363,292,292,314,335,297,322
+38,Total Housing Units,MT,Daniels,1095,1091,1089,1107,1131,1118,1144,1137,1112,1134
+39,Total Population,MT,Daniels,1649,1721,1734,1778,1813,1758,1787,1788,1753,1730
+40,Units in Structure: 1 ATTACHED,MT,Daniels,23,11,15,0,0,0,4,4,4,4
+41,Units in Structure: 1 DETACHED,MT,Daniels,954,958,937,988,1000,954,939,970,927,938
+42,Units in Structure: 10-19,MT,Daniels,22,32,32,30,20,29,40,34,40,51
+43,Units in Structure: 2,MT,Daniels,0,0,0,0,0,0,0,0,0,5
+44,Units in Structure: 20-49,MT,Daniels,11,10,9,8,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Daniels,15,16,31,15,10,9,27,17,25,26
+46,Units in Structure: 5-9,MT,Daniels,4,3,12,10,22,41,43,26,26,18
+47,Units in Structure: 50+,MT,Daniels,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Daniels,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Daniels,66,61,53,56,79,85,91,86,90,92
+50,Year Built: 1940-1949,MT,Daniels,124,122,115,63,97,235,241,225,174,190
+51,Year Built: 1950-1959,MT,Daniels,153,199,222,284,270,124,141,124,126,118
+52,Year Built: 1960-1969,MT,Daniels,54,65,72,93,116,201,197,210,220,230
+53,Year Built: 1970-1979,MT,Daniels,192,187,171,161,175,73,101,93,84,48
+54,Year Built: 1980-1989,MT,Daniels,141,102,73,62,64,53,52,61,75,61
+55,Year Built: 1990-1999,MT,Daniels,48,59,68,58,47,50,50,55,75,92
+56,Year Built: 2000-2009,MT,Daniels,49,43,48,31,54,0,0,0,0,6
+57,Year Built: 2010-2013,MT,Daniels,9,8,0,0,0,0,0,0,7,22
+58,Year Built: before 1940,MT,Daniels,325,306,320,355,308,89,76,79,105,109
+0,Avg household size of owner-occupied unit,MT,Dawson,2.19,2.32,2.42,2.34,2.41,2.36,2.33,2.2,2.29,2.25
+1,Avg household size of renter-occupied unit,MT,Dawson,2.1,1.98,1.82,1.9,1.86,1.96,2.06,2.16,2.02,2.05
+2,FIPS Code,MT,Dawson,30021,30021,30021,30021,30021,30021,30021,30021,30021,30021
+3,House Heating Fuel: Electric,MT,Dawson,303,389,500,678,803,897,894,752,747,719
+4,House Heating Fuel: Fuel Oil,MT,Dawson,16,10,9,8,18,17,16,18,22,14
+5,House Heating Fuel: Gas,MT,Dawson,2904,2925,2823,2700,2563,2565,2550,2718,2631,2688
+6,House Heating Fuel: Propane,MT,Dawson,336,304,301,346,308,308,337,366,347,366
+7,House Heating Fuel: Wood,MT,Dawson,40,44,21,38,44,39,32,90,149,127
+26,Median Number of Rooms,MT,Dawson,6.1,6.0,5.9,6.0,6.1,5.9,5.9,6.0,5.9,6.0
+27,Number of Rooms: 1,MT,Dawson,18,18,9,68,77,124,135,170,139,167
+28,Number of Rooms: 2,MT,Dawson,34,0,14,111,128,135,162,146,41,34
+29,Number of Rooms: 3,MT,Dawson,178,185,341,325,330,290,220,131,164,137
+30,Number of Rooms: 4,MT,Dawson,667,734,805,568,555,577,567,564,733,719
+31,Number of Rooms: 5,MT,Dawson,783,778,688,773,713,769,837,823,853,832
+32,Number of Rooms: 6,MT,Dawson,716,750,595,621,626,591,573,635,692,638
+33,Number of Rooms: 7,MT,Dawson,396,413,427,582,652,626,576,614,499,594
+34,Number of Rooms: 8,MT,Dawson,447,415,405,417,467,471,431,470,482,532
+35,Number of Rooms: 9+,MT,Dawson,979,929,965,813,750,734,845,783,822,796
+36,Owner-Occupied,MT,Dawson,6029,6387,6253,6386,6484,6492,6304,6188,6181,6027
+37,Renter-Occupied,MT,Dawson,2022,1984,2188,2188,2211,2391,2657,2678,2565,2552
+38,Total Housing Units,MT,Dawson,4218,4222,4249,4278,4298,4317,4346,4336,4425,4449
+39,Total Population,MT,Dawson,8933,8961,9022,9132,9219,9365,9431,9324,9191,9017
+40,Units in Structure: 1 ATTACHED,MT,Dawson,21,18,18,14,43,36,28,24,30,4
+41,Units in Structure: 1 DETACHED,MT,Dawson,3314,3239,3098,3078,3178,3031,3089,3222,3183,3307
+42,Units in Structure: 10-19,MT,Dawson,118,119,176,108,132,94,87,25,50,42
+43,Units in Structure: 2,MT,Dawson,111,189,180,185,146,198,197,205,185,95
+44,Units in Structure: 20-49,MT,Dawson,46,48,87,115,110,124,119,78,96,154
+45,Units in Structure: 3-4,MT,Dawson,106,70,74,81,140,176,151,88,152,81
+46,Units in Structure: 5-9,MT,Dawson,67,123,169,198,160,151,120,119,34,81
+47,Units in Structure: 50+,MT,Dawson,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Dawson,0,0,0,0,0,0,0,0,2,2
+49,Units in Structure: Mobile Home,MT,Dawson,435,416,447,499,389,507,555,575,693,683
+50,Year Built: 1940-1949,MT,Dawson,359,287,310,335,360,762,749,858,1042,802
+51,Year Built: 1950-1959,MT,Dawson,875,874,809,726,807,632,468,423,413,513
+52,Year Built: 1960-1969,MT,Dawson,344,457,530,526,596,963,1046,1057,843,1077
+53,Year Built: 1970-1979,MT,Dawson,786,847,856,1020,881,423,480,438,478,460
+54,Year Built: 1980-1989,MT,Dawson,680,560,640,560,444,180,201,128,207,207
+55,Year Built: 1990-1999,MT,Dawson,94,115,141,162,162,129,146,108,140,168
+56,Year Built: 2000-2009,MT,Dawson,33,47,176,187,180,72,87,81,163,168
+57,Year Built: 2010-2013,MT,Dawson,78,97,6,9,14,0,0,1,10,9
+58,Year Built: before 1940,MT,Dawson,969,938,781,753,854,287,297,223,156,129
+0,Avg household size of owner-occupied unit,MT,Deer Lodge,1.97,2.22,2.23,2.26,2.19,2.26,2.2,2.18,2.29,2.28
+1,Avg household size of renter-occupied unit,MT,Deer Lodge,1.79,1.93,2.03,1.94,1.91,1.8,1.79,1.67,1.68,1.67
+2,FIPS Code,MT,Deer Lodge,30023,30023,30023,30023,30023,30023,30023,30023,30023,30023
+3,House Heating Fuel: Electric,MT,Deer Lodge,411,510,482,481,510,586,666,749,759,807
+4,House Heating Fuel: Fuel Oil,MT,Deer Lodge,0,0,0,0,0,0,0,0,29,32
+5,House Heating Fuel: Gas,MT,Deer Lodge,2936,2764,2785,2681,2698,2667,2596,2582,2493,2491
+6,House Heating Fuel: Propane,MT,Deer Lodge,278,266,196,203,266,254,240,285,279,250
+7,House Heating Fuel: Wood,MT,Deer Lodge,472,397,344,385,339,271,327,323,252,267
+26,Median Number of Rooms,MT,Deer Lodge,5.4,5.3,5.3,5.3,5.2,5.1,5.0,5.0,4.9,4.9
+27,Number of Rooms: 1,MT,Deer Lodge,125,146,146,146,121,170,180,170,133,89
+28,Number of Rooms: 2,MT,Deer Lodge,91,80,60,85,84,112,147,147,165,154
+29,Number of Rooms: 3,MT,Deer Lodge,434,423,410,380,411,618,718,790,819,799
+30,Number of Rooms: 4,MT,Deer Lodge,942,928,932,1035,1046,981,973,949,1056,1172
+31,Number of Rooms: 5,MT,Deer Lodge,1118,1219,1236,1165,1220,1142,1098,1071,1051,910
+32,Number of Rooms: 6,MT,Deer Lodge,879,864,903,936,855,863,787,710,688,676
+33,Number of Rooms: 7,MT,Deer Lodge,577,518,526,575,558,467,488,537,516,582
+34,Number of Rooms: 8,MT,Deer Lodge,418,441,404,296,359,331,299,390,397,418
+35,Number of Rooms: 9+,MT,Deer Lodge,529,496,509,505,479,447,432,418,367,403
+36,Owner-Occupied,MT,Deer Lodge,5916,6345,6211,6321,6258,6203,6066,6098,6068,6028
+37,Renter-Occupied,MT,Deer Lodge,2020,2290,2263,2041,2021,1982,2022,1991,2037,2102
+38,Total Housing Units,MT,Deer Lodge,5113,5115,5126,5123,5133,5131,5122,5182,5192,5203
+39,Total Population,MT,Deer Lodge,9270,9294,9277,9285,9243,9211,9176,9131,9100,9106
+40,Units in Structure: 1 ATTACHED,MT,Deer Lodge,24,21,12,12,22,36,51,42,58,103
+41,Units in Structure: 1 DETACHED,MT,Deer Lodge,4249,4142,4011,4152,4122,3958,3955,4095,4087,4104
+42,Units in Structure: 10-19,MT,Deer Lodge,51,38,38,0,0,33,44,50,60,70
+43,Units in Structure: 2,MT,Deer Lodge,155,176,175,146,107,100,102,57,26,36
+44,Units in Structure: 20-49,MT,Deer Lodge,108,139,141,111,108,117,81,90,82,110
+45,Units in Structure: 3-4,MT,Deer Lodge,139,190,237,246,281,296,316,277,263,212
+46,Units in Structure: 5-9,MT,Deer Lodge,33,42,66,74,76,78,67,52,41,46
+47,Units in Structure: 50+,MT,Deer Lodge,90,101,99,74,87,110,134,135,141,127
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Deer Lodge,8,0,10,12,13,18,11,0,0,0
+49,Units in Structure: Mobile Home,MT,Deer Lodge,256,266,337,296,317,385,361,384,434,395
+50,Year Built: 1940-1949,MT,Deer Lodge,532,572,570,569,467,981,995,1063,1224,1057
+51,Year Built: 1950-1959,MT,Deer Lodge,788,834,716,684,921,229,213,241,309,310
+52,Year Built: 1960-1969,MT,Deer Lodge,353,326,308,258,227,666,737,681,656,667
+53,Year Built: 1970-1979,MT,Deer Lodge,500,577,634,589,587,227,227,224,194,255
+54,Year Built: 1980-1989,MT,Deer Lodge,261,213,203,217,215,414,332,298,331,322
+55,Year Built: 1990-1999,MT,Deer Lodge,335,336,402,404,403,320,249,282,212,184
+56,Year Built: 2000-2009,MT,Deer Lodge,90,111,221,310,329,74,68,44,71,97
+57,Year Built: 2010-2013,MT,Deer Lodge,83,156,35,46,43,0,34,38,46,90
+58,Year Built: before 1940,MT,Deer Lodge,2171,1990,2037,2046,1941,395,450,484,427,388
+0,Avg household size of owner-occupied unit,MT,Fallon,2.35,2.42,2.51,2.63,2.7,2.65,2.52,2.42,2.31,2.39
+1,Avg household size of renter-occupied unit,MT,Fallon,2.39,1.99,2.23,2.29,1.99,2.04,2.1,2.05,1.74,1.42
+2,FIPS Code,MT,Fallon,30025,30025,30025,30025,30025,30025,30025,30025,30025,30025
+3,House Heating Fuel: Electric,MT,Fallon,134,127,117,120,165,192,174,208,237,195
+4,House Heating Fuel: Fuel Oil,MT,Fallon,5,6,9,9,9,20,8,9,11,12
+5,House Heating Fuel: Gas,MT,Fallon,691,742,699,676,629,596,606,613,644,707
+6,House Heating Fuel: Propane,MT,Fallon,333,299,363,335,326,345,357,342,372,389
+7,House Heating Fuel: Wood,MT,Fallon,25,34,40,40,30,28,15,14,7,18
+26,Median Number of Rooms,MT,Fallon,5.8,5.8,5.9,5.4,5.4,5.2,5.4,5.5,5.7,6.0
+27,Number of Rooms: 1,MT,Fallon,0,5,5,5,5,4,5,6,14,16
+28,Number of Rooms: 2,MT,Fallon,10,16,19,21,27,39,30,28,35,32
+29,Number of Rooms: 3,MT,Fallon,102,93,82,105,84,79,72,56,34,51
+30,Number of Rooms: 4,MT,Fallon,193,191,172,177,224,259,253,269,318,241
+31,Number of Rooms: 5,MT,Fallon,354,360,365,451,461,479,431,399,322,293
+32,Number of Rooms: 6,MT,Fallon,231,240,260,221,209,169,204,232,244,250
+33,Number of Rooms: 7,MT,Fallon,169,144,151,155,155,151,163,177,175,244
+34,Number of Rooms: 8,MT,Fallon,155,160,160,118,131,101,111,142,161,156
+35,Number of Rooms: 9+,MT,Fallon,247,269,260,219,182,198,214,222,235,251
+36,Owner-Occupied,MT,Fallon,2134,2205,2303,2270,2295,2288,2113,2030,2013,2299
+37,Renter-Occupied,MT,Fallon,679,607,699,769,689,732,748,824,746,531
+38,Total Housing Units,MT,Fallon,1461,1478,1474,1472,1478,1479,1483,1531,1538,1534
+39,Total Population,MT,Fallon,2813,2861,3051,3085,3028,3057,2913,2925,2838,2921
+40,Units in Structure: 1 ATTACHED,MT,Fallon,10,9,16,18,19,11,9,7,9,14
+41,Units in Structure: 1 DETACHED,MT,Fallon,1099,1133,1092,1034,1046,1042,1038,1091,1143,1174
+42,Units in Structure: 10-19,MT,Fallon,21,19,7,6,7,8,0,0,7,8
+43,Units in Structure: 2,MT,Fallon,8,13,12,22,16,16,13,20,6,6
+44,Units in Structure: 20-49,MT,Fallon,0,13,11,13,23,23,13,8,7,0
+45,Units in Structure: 3-4,MT,Fallon,32,49,36,30,19,41,46,39,41,44
+46,Units in Structure: 5-9,MT,Fallon,14,0,5,5,5,6,12,0,0,12
+47,Units in Structure: 50+,MT,Fallon,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Fallon,0,0,0,0,0,12,11,8,15,18
+49,Units in Structure: Mobile Home,MT,Fallon,277,242,295,344,343,320,341,358,310,258
+50,Year Built: 1940-1949,MT,Fallon,151,116,89,90,97,230,226,186,151,178
+51,Year Built: 1950-1959,MT,Fallon,181,213,224,206,209,133,133,175,182,182
+52,Year Built: 1960-1969,MT,Fallon,192,205,190,188,154,283,334,335,358,400
+53,Year Built: 1970-1979,MT,Fallon,282,289,309,275,280,142,161,143,142,138
+54,Year Built: 1980-1989,MT,Fallon,160,125,132,137,152,107,108,93,101,75
+55,Year Built: 1990-1999,MT,Fallon,138,78,101,145,109,155,98,96,62,84
+56,Year Built: 2000-2009,MT,Fallon,31,66,134,146,139,39,29,36,40,3
+57,Year Built: 2010-2013,MT,Fallon,23,71,13,15,34,1,1,2,4,4
+58,Year Built: before 1940,MT,Fallon,303,315,282,270,304,89,90,156,149,151
+0,Avg household size of owner-occupied unit,MT,Fergus,2.34,2.29,2.24,2.22,2.14,2.23,2.18,2.23,2.16,2.24
+1,Avg household size of renter-occupied unit,MT,Fergus,2.05,2.19,2.24,2.3,2.38,2.29,2.31,2.08,2.2,2.09
+2,FIPS Code,MT,Fergus,30027,30027,30027,30027,30027,30027,30027,30027,30027,30027
+3,House Heating Fuel: Electric,MT,Fergus,665,695,611,682,720,706,671,757,773,771
+4,House Heating Fuel: Fuel Oil,MT,Fergus,121,131,160,187,190,183,173,155,140,133
+5,House Heating Fuel: Gas,MT,Fergus,2563,2461,2662,2604,2653,2609,2734,2748,2758,2711
+6,House Heating Fuel: Propane,MT,Fergus,1012,1001,923,907,904,866,850,795,814,789
+7,House Heating Fuel: Wood,MT,Fergus,555,556,525,512,487,458,446,469,458,458
+26,Median Number of Rooms,MT,Fergus,5.4,5.4,5.6,5.5,5.5,5.6,5.6,5.5,5.6,5.5
+27,Number of Rooms: 1,MT,Fergus,200,166,177,195,90,145,146,194,157,245
+28,Number of Rooms: 2,MT,Fergus,83,125,196,271,305,339,316,370,247,279
+29,Number of Rooms: 3,MT,Fergus,556,504,488,406,376,366,340,336,320,333
+30,Number of Rooms: 4,MT,Fergus,1105,1123,1016,1016,988,874,869,921,1015,907
+31,Number of Rooms: 5,MT,Fergus,1083,1058,976,1067,1125,1145,1182,1165,1143,1235
+32,Number of Rooms: 6,MT,Fergus,878,965,924,791,696,754,701,699,806,837
+33,Number of Rooms: 7,MT,Fergus,566,549,585,585,655,755,781,837,867,776
+34,Number of Rooms: 8,MT,Fergus,566,548,525,626,611,575,573,600,535,551
+35,Number of Rooms: 9+,MT,Fergus,765,787,941,862,967,872,902,784,805,733
+36,Owner-Occupied,MT,Fergus,8337,8068,8249,8143,7771,7668,7662,7732,7723,8016
+37,Renter-Occupied,MT,Fergus,2874,2964,2783,2900,3223,3304,3261,3093,3066,2789
+38,Total Housing Units,MT,Fergus,5802,5825,5828,5819,5813,5825,5810,5906,5895,5896
+39,Total Population,MT,Fergus,11513,11516,11507,11517,11496,11468,11429,11327,11273,11221
+40,Units in Structure: 1 ATTACHED,MT,Fergus,78,54,15,57,81,75,73,69,19,3
+41,Units in Structure: 1 DETACHED,MT,Fergus,4143,4418,4448,4296,4411,4509,4410,4510,4722,4740
+42,Units in Structure: 10-19,MT,Fergus,38,14,31,29,15,13,15,29,24,34
+43,Units in Structure: 2,MT,Fergus,124,72,67,90,44,35,27,15,2,6
+44,Units in Structure: 20-49,MT,Fergus,119,147,147,204,181,155,147,181,122,88
+45,Units in Structure: 3-4,MT,Fergus,209,123,138,56,35,58,80,113,144,134
+46,Units in Structure: 5-9,MT,Fergus,232,182,124,189,215,209,189,192,65,138
+47,Units in Structure: 50+,MT,Fergus,71,76,71,74,51,45,48,47,32,33
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Fergus,0,0,1,1,3,3,4,2,2,0
+49,Units in Structure: Mobile Home,MT,Fergus,788,739,786,823,777,723,817,748,763,720
+50,Year Built: 1940-1949,MT,Fergus,381,466,465,456,474,583,664,765,828,801
+51,Year Built: 1950-1959,MT,Fergus,692,607,575,511,621,424,424,390,383,341
+52,Year Built: 1960-1969,MT,Fergus,380,451,466,402,454,855,871,687,580,628
+53,Year Built: 1970-1979,MT,Fergus,744,638,799,865,903,504,481,489,430,381
+54,Year Built: 1980-1989,MT,Fergus,594,539,473,568,539,513,484,570,536,633
+55,Year Built: 1990-1999,MT,Fergus,466,508,490,569,542,477,466,468,537,500
+56,Year Built: 2000-2009,MT,Fergus,156,154,411,441,564,73,71,180,216,246
+57,Year Built: 2010-2013,MT,Fergus,62,113,2,4,17,0,4,13,16,15
+58,Year Built: before 1940,MT,Fergus,2327,2349,2147,2003,1699,565,547,497,526,441
+0,Avg household size of owner-occupied unit,MT,Flathead,2.52,2.51,2.51,2.51,2.49,2.53,2.52,2.56,2.59,2.64
+1,Avg household size of renter-occupied unit,MT,Flathead,2.21,2.24,2.25,2.31,2.4,2.38,2.39,2.35,2.38,2.26
+2,FIPS Code,MT,Flathead,30029,30029,30029,30029,30029,30029,30029,30029,30029,30029
+3,House Heating Fuel: Electric,MT,Flathead,10344,10657,10911,11093,11792,11704,11918,12577,13179,13894
+4,House Heating Fuel: Fuel Oil,MT,Flathead,306,291,273,274,147,163,182,168,153,211
+5,House Heating Fuel: Gas,MT,Flathead,17924,17690,17513,17203,16828,16781,17254,17456,17383,17088
+6,House Heating Fuel: Propane,MT,Flathead,3390,3334,3145,3223,3299,3216,3108,3182,3239,3347
+7,House Heating Fuel: Wood,MT,Flathead,3946,4340,4548,4464,4405,4590,4445,4035,3771,3661
+26,Median Number of Rooms,MT,Flathead,5.3,5.3,5.3,5.3,5.3,5.3,5.3,5.4,5.4,5.4
+27,Number of Rooms: 1,MT,Flathead,856,819,1202,1336,1411,1283,1470,1349,1351,1259
+28,Number of Rooms: 2,MT,Flathead,1823,1761,1657,1569,1846,1878,1673,1756,1620,1629
+29,Number of Rooms: 3,MT,Flathead,3092,3402,3654,3653,3769,3898,4089,4576,4825,4845
+30,Number of Rooms: 4,MT,Flathead,8268,8612,8751,8732,8259,7681,7689,7432,7395,7358
+31,Number of Rooms: 5,MT,Flathead,10744,10177,10092,10083,10431,10521,10391,9974,10227,10013
+32,Number of Rooms: 6,MT,Flathead,8127,8905,8948,8671,8566,8436,8028,7822,7913,8204
+33,Number of Rooms: 7,MT,Flathead,4865,4603,4491,4434,4692,5088,5416,5896,6007,5907
+34,Number of Rooms: 8,MT,Flathead,3230,3597,3589,4018,3904,3996,4050,4197,3870,3748
+35,Number of Rooms: 9+,MT,Flathead,3935,4245,4153,4370,4306,4502,4601,5152,5239,5822
+36,Owner-Occupied,MT,Flathead,65654,65815,66291,65633,64665,66473,67423,69974,71944,75997
+37,Renter-Occupied,MT,Flathead,22824,23348,23498,24740,26559,25701,26104,25004,24937,22682
+38,Total Housing Units,MT,Flathead,44940,46121,46537,46866,47184,47283,47407,48154,48447,48785
+39,Total Population,MT,Flathead,89215,90317,90967,91536,92373,93333,94696,96147,98082,99899
+40,Units in Structure: 1 ATTACHED,MT,Flathead,1534,1513,1763,1842,1796,1969,2020,2145,2230,2637
+41,Units in Structure: 1 DETACHED,MT,Flathead,31588,32825,33158,33083,33166,33098,33291,33855,34092,33954
+42,Units in Structure: 10-19,MT,Flathead,753,814,944,895,829,678,694,761,864,1028
+43,Units in Structure: 2,MT,Flathead,1382,1580,1779,1723,1838,1828,1578,1401,1527,1232
+44,Units in Structure: 20-49,MT,Flathead,798,681,664,817,911,841,810,898,895,894
+45,Units in Structure: 3-4,MT,Flathead,1856,1842,1877,1984,1901,1801,1849,1698,1537,1805
+46,Units in Structure: 5-9,MT,Flathead,969,1029,940,1020,1089,1171,1046,1178,1281,1227
+47,Units in Structure: 50+,MT,Flathead,416,513,594,640,597,560,608,577,461,616
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Flathead,11,33,42,28,32,54,44,41,44,57
+49,Units in Structure: Mobile Home,MT,Flathead,5633,5291,4776,4834,5025,5283,5467,5600,5516,5335
+50,Year Built: 1940-1949,MT,Flathead,2389,2118,2230,2164,1922,2671,2733,2965,2988,2784
+51,Year Built: 1950-1959,MT,Flathead,3711,3431,3003,2778,2619,3163,2963,3006,3205,2883
+52,Year Built: 1960-1969,MT,Flathead,3228,3361,3018,3127,3057,8343,8592,8256,8581,8521
+53,Year Built: 1970-1979,MT,Flathead,8727,8357,8412,8174,8739,7776,7258,7091,6853,6565
+54,Year Built: 1980-1989,MT,Flathead,6549,7411,7839,7715,7932,8296,8230,8428,8591,8416
+55,Year Built: 1990-1999,MT,Flathead,8851,8900,8656,8433,8417,10708,10460,10327,10196,10413
+56,Year Built: 2000-2009,MT,Flathead,5266,5670,10178,10597,10740,727,997,1290,1399,1673
+57,Year Built: 2010-2013,MT,Flathead,3045,3722,89,203,362,41,230,665,987,1677
+58,Year Built: before 1940,MT,Flathead,3174,3151,3112,3675,3396,1686,2068,1874,2035,2028
+0,Avg household size of owner-occupied unit,MT,Gallatin,2.47,2.45,2.47,2.48,2.49,2.51,2.53,2.5,2.52,2.52
+1,Avg household size of renter-occupied unit,MT,Gallatin,2.13,2.08,2.14,2.17,2.19,2.2,2.27,2.17,2.21,2.13
+2,FIPS Code,MT,Gallatin,30031,30031,30031,30031,30031,30031,30031,30031,30031,30031
+3,House Heating Fuel: Electric,MT,Gallatin,7660,8030,8766,9012,9194,9852,10525,11197,11766,13060
+4,House Heating Fuel: Fuel Oil,MT,Gallatin,200,247,206,170,172,187,124,132,157,164
+5,House Heating Fuel: Gas,MT,Gallatin,22786,22983,22402,22265,22365,22637,22405,23520,24328,24701
+6,House Heating Fuel: Propane,MT,Gallatin,3111,3151,3056,3032,3084,2855,2765,2847,3018,3339
+7,House Heating Fuel: Wood,MT,Gallatin,1692,1828,1970,2149,2305,2314,2388,2399,2168,2015
+26,Median Number of Rooms,MT,Gallatin,5.4,5.3,5.3,5.3,5.3,5.3,5.3,5.4,5.4,5.4
+27,Number of Rooms: 1,MT,Gallatin,586,617,756,851,897,926,1029,1042,1212,1340
+28,Number of Rooms: 2,MT,Gallatin,1591,1471,1470,1499,1523,1517,1674,1790,1875,2009
+29,Number of Rooms: 3,MT,Gallatin,3707,3946,4244,4690,4802,4886,4961,4890,4517,4724
+30,Number of Rooms: 4,MT,Gallatin,7550,8130,8249,7897,8167,8297,7952,8144,8411,8257
+31,Number of Rooms: 5,MT,Gallatin,7942,8146,8051,8158,8140,8211,8425,8691,8767,9039
+32,Number of Rooms: 6,MT,Gallatin,6353,5994,6144,5893,5961,5770,5982,6566,7484,7637
+33,Number of Rooms: 7,MT,Gallatin,4297,4256,4353,4285,4444,4651,5137,5037,5222,5307
+34,Number of Rooms: 8,MT,Gallatin,3613,3800,3406,3468,3494,3711,3647,3931,3840,3841
+35,Number of Rooms: 9+,MT,Gallatin,4809,5185,5532,5898,5860,6027,6125,6509,6648,7324
+36,Owner-Occupied,MT,Gallatin,55096,55468,55380,56754,57337,59068,59572,62810,64785,67612
+37,Renter-Occupied,MT,Gallatin,28658,28794,30407,30592,31789,32389,34518,34000,35890,36222
+38,Total Housing Units,MT,Gallatin,40448,41545,42205,42639,43288,43996,44932,46600,47976,49478
+39,Total Population,MT,Gallatin,87676,89146,90339,91499,93108,95323,97958,100733,104729,108063
+40,Units in Structure: 1 ATTACHED,MT,Gallatin,2294,2267,2303,2181,2168,2646,3142,3691,4330,4572
+41,Units in Structure: 1 DETACHED,MT,Gallatin,24493,25226,25396,25402,25546,25729,26128,27113,27959,29185
+42,Units in Structure: 10-19,MT,Gallatin,1547,1672,1597,1582,1370,1394,1283,1409,1523,1903
+43,Units in Structure: 2,MT,Gallatin,2250,2478,2657,2891,2994,2804,2628,2467,2216,1960
+44,Units in Structure: 20-49,MT,Gallatin,500,551,627,772,840,1008,1062,1054,1085,1319
+45,Units in Structure: 3-4,MT,Gallatin,3572,3831,4169,3911,4419,4359,4378,4096,4028,3965
+46,Units in Structure: 5-9,MT,Gallatin,1772,1777,1908,2094,2134,2031,2285,2339,2179,2028
+47,Units in Structure: 50+,MT,Gallatin,576,564,622,785,673,615,650,679,755,959
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Gallatin,26,30,36,44,58,39,42,54,120,114
+49,Units in Structure: Mobile Home,MT,Gallatin,3418,3149,2890,2977,3086,3371,3334,3698,3781,3473
+50,Year Built: 1940-1949,MT,Gallatin,1072,1242,1234,1243,1008,1768,1934,1849,1770,1833
+51,Year Built: 1950-1959,MT,Gallatin,1739,1890,1773,1759,1660,2714,2534,2680,2389,2327
+52,Year Built: 1960-1969,MT,Gallatin,2192,2424,2362,2535,2618,6912,7023,6921,7299,7129
+53,Year Built: 1970-1979,MT,Gallatin,7165,6891,6822,6746,6867,4944,5111,5407,5545,5734
+54,Year Built: 1980-1989,MT,Gallatin,5362,5175,4941,4907,5088,8466,8767,9006,9409,9347
+55,Year Built: 1990-1999,MT,Gallatin,8629,8562,8991,8498,8452,13341,13052,12994,12687,13153
+56,Year Built: 2000-2009,MT,Gallatin,6747,6856,12185,12945,12968,1359,1589,2271,2389,2348
+57,Year Built: 2010-2013,MT,Gallatin,3446,4534,169,423,870,106,537,1062,2138,3223
+58,Year Built: before 1940,MT,Gallatin,4096,3971,3728,3583,3757,998,792,819,715,808
+0,Avg household size of owner-occupied unit,MT,Garfield,2.5,2.43,2.23,2.34,2.33,2.34,2.24,2.29,2.38,2.22
+1,Avg household size of renter-occupied unit,MT,Garfield,2.12,2.38,2.64,2.75,2.74,2.51,2.71,2.9,3.04,2.77
+2,FIPS Code,MT,Garfield,30033,30033,30033,30033,30033,30033,30033,30033,30033,30033
+3,House Heating Fuel: Electric,MT,Garfield,163,155,131,155,129,156,178,179,167,203
+4,House Heating Fuel: Fuel Oil,MT,Garfield,20,15,11,12,12,3,2,1,1,3
+5,House Heating Fuel: Gas,MT,Garfield,5,9,10,10,22,27,28,31,28,12
+6,House Heating Fuel: Propane,MT,Garfield,267,256,275,248,248,210,189,163,173,149
+7,House Heating Fuel: Wood,MT,Garfield,41,31,35,30,30,33,32,51,45,47
+26,Median Number of Rooms,MT,Garfield,5.0,4.9,4.9,4.9,4.7,4.7,4.9,4.9,5.0,5.0
+27,Number of Rooms: 1,MT,Garfield,15,20,16,19,31,27,21,26,21,33
+28,Number of Rooms: 2,MT,Garfield,26,38,43,37,49,44,33,20,22,9
+29,Number of Rooms: 3,MT,Garfield,97,123,125,102,95,94,75,75,80,79
+30,Number of Rooms: 4,MT,Garfield,184,178,167,186,213,203,210,214,191,182
+31,Number of Rooms: 5,MT,Garfield,233,197,176,174,178,213,221,216,211,211
+32,Number of Rooms: 6,MT,Garfield,132,138,135,140,122,110,113,130,121,112
+33,Number of Rooms: 7,MT,Garfield,97,77,79,79,61,56,66,64,59,48
+34,Number of Rooms: 8,MT,Garfield,44,41,45,43,46,40,41,42,56,56
+35,Number of Rooms: 9+,MT,Garfield,65,52,67,62,53,48,62,59,65,84
+36,Owner-Occupied,MT,Garfield,1004,906,789,831,811,764,725,835,793,709
+37,Renter-Occupied,MT,Garfield,220,236,298,303,279,279,333,249,347,327
+38,Total Housing Units,MT,Garfield,893,864,853,842,848,835,842,846,826,814
+39,Total Population,MT,Garfield,1224,1162,1100,1145,1097,1047,1061,1086,1141,1036
+40,Units in Structure: 1 ATTACHED,MT,Garfield,8,0,0,0,1,2,7,8,8,5
+41,Units in Structure: 1 DETACHED,MT,Garfield,711,686,707,689,670,663,657,654,646,660
+42,Units in Structure: 10-19,MT,Garfield,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,MT,Garfield,2,1,3,1,5,9,13,14,12,10
+44,Units in Structure: 20-49,MT,Garfield,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Garfield,23,24,20,16,17,8,5,2,24,29
+46,Units in Structure: 5-9,MT,Garfield,0,0,0,0,0,0,2,2,2,2
+47,Units in Structure: 50+,MT,Garfield,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Garfield,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Garfield,149,153,123,136,155,153,158,166,134,108
+50,Year Built: 1940-1949,MT,Garfield,79,118,129,126,144,109,134,152,143,136
+51,Year Built: 1950-1959,MT,Garfield,104,83,75,86,109,99,102,90,74,65
+52,Year Built: 1960-1969,MT,Garfield,100,107,106,112,108,104,140,173,185,205
+53,Year Built: 1970-1979,MT,Garfield,150,120,113,103,94,92,111,102,90,83
+54,Year Built: 1980-1989,MT,Garfield,94,77,81,81,73,88,85,71,71,70
+55,Year Built: 1990-1999,MT,Garfield,88,78,102,98,89,57,57,70,76,70
+56,Year Built: 2000-2009,MT,Garfield,19,21,22,29,43,13,16,14,4,6
+57,Year Built: 2010-2013,MT,Garfield,4,4,0,9,10,0,0,4,4,4
+58,Year Built: before 1940,MT,Garfield,255,256,225,198,178,125,72,66,82,72
+0,Avg household size of owner-occupied unit,MT,Glacier,3.1,2.98,2.97,3.06,3.01,2.97,2.97,3.05,2.92,3.08
+1,Avg household size of renter-occupied unit,MT,Glacier,3.07,3.17,3.22,3.17,3.37,3.2,3.26,3.09,3.31,3.15
+2,FIPS Code,MT,Glacier,30035,30035,30035,30035,30035,30035,30035,30035,30035,30035
+3,House Heating Fuel: Electric,MT,Glacier,1277,1204,1096,1177,1345,1583,1749,1917,1912,1765
+4,House Heating Fuel: Fuel Oil,MT,Glacier,22,41,2,5,5,24,22,31,26,35
+5,House Heating Fuel: Gas,MT,Glacier,1951,2067,2131,1990,1781,1772,1539,1466,1538,1699
+6,House Heating Fuel: Propane,MT,Glacier,431,407,413,413,413,348,364,310,305,277
+7,House Heating Fuel: Wood,MT,Glacier,536,498,573,565,568,488,491,434,368,362
+26,Median Number of Rooms,MT,Glacier,5.0,5.0,5.0,5.0,5.1,5.1,5.0,4.9,4.9,4.8
+27,Number of Rooms: 1,MT,Glacier,109,117,106,104,114,117,121,145,158,127
+28,Number of Rooms: 2,MT,Glacier,356,359,352,352,253,190,168,173,133,160
+29,Number of Rooms: 3,MT,Glacier,486,455,507,605,538,470,498,527,499,586
+30,Number of Rooms: 4,MT,Glacier,1196,1191,1127,1063,1007,1064,1115,1202,1257,1407
+31,Number of Rooms: 5,MT,Glacier,1126,1123,1123,1094,1304,1465,1492,1590,1676,1443
+32,Number of Rooms: 6,MT,Glacier,862,941,983,987,865,881,778,758,708,770
+33,Number of Rooms: 7,MT,Glacier,593,637,586,550,621,580,541,498,477,423
+34,Number of Rooms: 8,MT,Glacier,282,237,277,302,315,284,253,220,227,191
+35,Number of Rooms: 9+,MT,Glacier,334,295,281,271,310,277,343,269,267,290
+36,Owner-Occupied,MT,Glacier,7774,7582,7556,7629,7267,7338,7325,7531,7229,7547
+37,Renter-Occupied,MT,Glacier,5359,5428,5488,5383,5740,5616,5609,5290,5640,5397
+38,Total Housing Units,MT,Glacier,5344,5355,5342,5328,5327,5328,5309,5382,5402,5397
+39,Total Population,MT,Glacier,13251,13329,13422,13528,13641,13672,13695,13677,13699,13732
+40,Units in Structure: 1 ATTACHED,MT,Glacier,28,56,55,130,119,139,167,173,92,103
+41,Units in Structure: 1 DETACHED,MT,Glacier,3596,3588,3547,3480,3523,3626,3652,3662,3677,3640
+42,Units in Structure: 10-19,MT,Glacier,75,68,83,113,129,118,118,120,113,88
+43,Units in Structure: 2,MT,Glacier,231,218,284,241,241,199,188,209,273,236
+44,Units in Structure: 20-49,MT,Glacier,140,98,112,79,53,24,51,62,68,105
+45,Units in Structure: 3-4,MT,Glacier,130,154,155,221,253,238,238,187,183,182
+46,Units in Structure: 5-9,MT,Glacier,171,145,124,164,136,148,105,145,144,141
+47,Units in Structure: 50+,MT,Glacier,0,0,0,0,6,8,5,14,13,8
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Glacier,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Glacier,973,1028,982,900,867,828,785,810,839,894
+50,Year Built: 1940-1949,MT,Glacier,574,519,427,432,387,559,508,482,554,657
+51,Year Built: 1950-1959,MT,Glacier,546,620,632,503,505,377,455,501,605,685
+52,Year Built: 1960-1969,MT,Glacier,594,531,550,454,429,1242,1270,1323,1400,1270
+53,Year Built: 1970-1979,MT,Glacier,1268,1201,1115,1154,1181,1041,1093,1045,1009,925
+54,Year Built: 1980-1989,MT,Glacier,881,781,838,970,1046,658,581,519,504,494
+55,Year Built: 1990-1999,MT,Glacier,715,813,896,833,685,582,546,506,432,380
+56,Year Built: 2000-2009,MT,Glacier,102,224,345,449,559,23,71,90,80,79
+57,Year Built: 2010-2013,MT,Glacier,0,79,0,0,10,0,0,1,1,5
+58,Year Built: before 1940,MT,Glacier,664,587,539,533,525,321,247,329,289,303
+0,Avg household size of owner-occupied unit,MT,Golden Valley,2.51,2.53,2.29,2.05,2.18,2.23,2.0,2.02,1.96,1.97
+1,Avg household size of renter-occupied unit,MT,Golden Valley,2.16,2.28,2.33,2.37,2.43,2.48,2.79,3.01,2.7,2.43
+2,FIPS Code,MT,Golden Valley,30037,30037,30037,30037,30037,30037,30037,30037,30037,30037
+3,House Heating Fuel: Electric,MT,Golden Valley,19,14,16,26,28,25,26,31,33,49
+4,House Heating Fuel: Fuel Oil,MT,Golden Valley,52,52,47,55,55,46,42,38,30,23
+5,House Heating Fuel: Gas,MT,Golden Valley,1,5,5,6,5,4,0,1,3,2
+6,House Heating Fuel: Propane,MT,Golden Valley,186,190,187,173,165,169,181,174,193,217
+7,House Heating Fuel: Wood,MT,Golden Valley,72,74,59,53,54,62,65,72,64,49
+26,Median Number of Rooms,MT,Golden Valley,5.0,5.2,5.1,5.3,5.3,5.3,5.4,5.3,5.4,5.4
+27,Number of Rooms: 1,MT,Golden Valley,12,12,11,4,8,14,8,21,20,10
+28,Number of Rooms: 2,MT,Golden Valley,21,21,20,20,18,5,3,14,13,12
+29,Number of Rooms: 3,MT,Golden Valley,27,23,34,22,28,19,22,28,35,39
+30,Number of Rooms: 4,MT,Golden Valley,95,74,88,83,93,99,100,94,97,100
+31,Number of Rooms: 5,MT,Golden Valley,135,145,136,133,107,118,105,86,77,89
+32,Number of Rooms: 6,MT,Golden Valley,64,78,74,77,82,80,91,82,90,92
+33,Number of Rooms: 7,MT,Golden Valley,52,51,47,37,35,26,31,31,43,52
+34,Number of Rooms: 8,MT,Golden Valley,21,19,21,25,28,37,35,40,49,42
+35,Number of Rooms: 9+,MT,Golden Valley,31,47,50,57,58,58,58,59,47,42
+36,Owner-Occupied,MT,Golden Valley,637,653,611,525,527,530,482,473,492,531
+37,Renter-Occupied,MT,Golden Valley,173,194,133,159,187,203,248,274,232,197
+38,Total Housing Units,MT,Golden Valley,458,470,481,458,457,456,453,455,471,478
+39,Total Population,MT,Golden Valley,810,873,769,709,738,756,730,747,724,728
+40,Units in Structure: 1 ATTACHED,MT,Golden Valley,0,0,1,1,8,6,8,4,5,0
+41,Units in Structure: 1 DETACHED,MT,Golden Valley,357,379,391,368,370,373,379,374,389,371
+42,Units in Structure: 10-19,MT,Golden Valley,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,MT,Golden Valley,0,0,0,0,0,0,0,0,0,0
+44,Units in Structure: 20-49,MT,Golden Valley,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Golden Valley,0,0,0,0,0,0,0,0,0,0
+46,Units in Structure: 5-9,MT,Golden Valley,0,4,4,3,4,3,0,0,0,0
+47,Units in Structure: 50+,MT,Golden Valley,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Golden Valley,0,0,0,0,0,0,0,2,2,2
+49,Units in Structure: Mobile Home,MT,Golden Valley,101,87,85,86,75,74,66,75,75,105
+50,Year Built: 1940-1949,MT,Golden Valley,29,19,21,8,5,31,31,23,24,19
+51,Year Built: 1950-1959,MT,Golden Valley,27,32,40,32,33,25,23,29,32,27
+52,Year Built: 1960-1969,MT,Golden Valley,39,28,36,31,31,68,73,84,75,80
+53,Year Built: 1970-1979,MT,Golden Valley,88,78,73,83,69,63,62,57,59,60
+54,Year Built: 1980-1989,MT,Golden Valley,32,47,49,50,63,43,36,43,45,46
+55,Year Built: 1990-1999,MT,Golden Valley,33,37,30,26,30,30,30,35,45,56
+56,Year Built: 2000-2009,MT,Golden Valley,27,32,46,48,41,2,2,3,2,1
+57,Year Built: 2010-2013,MT,Golden Valley,12,11,0,0,2,0,0,0,4,4
+58,Year Built: before 1940,MT,Golden Valley,171,186,186,180,183,6,13,18,22,25
+0,Avg household size of owner-occupied unit,MT,Granite,2.1,2.0,2.09,2.08,2.21,2.12,2.35,2.37,2.56,2.44
+1,Avg household size of renter-occupied unit,MT,Granite,1.99,1.83,1.89,2.05,2.17,2.38,2.62,2.48,2.34,2.58
+2,FIPS Code,MT,Granite,30039,30039,30039,30039,30039,30039,30039,30039,30039,30039
+3,House Heating Fuel: Electric,MT,Granite,131,150,161,155,146,146,131,123,103,113
+4,House Heating Fuel: Fuel Oil,MT,Granite,44,30,21,14,12,21,21,22,27,25
+5,House Heating Fuel: Gas,MT,Granite,548,583,543,531,482,455,400,433,370,356
+6,House Heating Fuel: Propane,MT,Granite,341,380,303,310,301,297,272,316,365,418
+7,House Heating Fuel: Wood,MT,Granite,380,380,453,453,451,490,448,389,395,380
+26,Median Number of Rooms,MT,Granite,4.5,4.4,4.5,4.4,4.4,4.4,4.4,4.6,4.6,4.7
+27,Number of Rooms: 1,MT,Granite,152,146,151,221,179,223,258,257,182,228
+28,Number of Rooms: 2,MT,Granite,282,284,266,242,239,175,180,191,236,236
+29,Number of Rooms: 3,MT,Granite,373,433,443,377,407,383,345,314,321,295
+30,Number of Rooms: 4,MT,Granite,554,559,556,599,637,664,641,607,635,557
+31,Number of Rooms: 5,MT,Granite,511,476,477,454,500,520,525,591,611,627
+32,Number of Rooms: 6,MT,Granite,342,372,419,381,377,375,315,314,336,322
+33,Number of Rooms: 7,MT,Granite,239,269,239,206,176,141,164,199,236,268
+34,Number of Rooms: 8,MT,Granite,140,118,112,148,121,145,174,168,117,114
+35,Number of Rooms: 9+,MT,Granite,86,94,115,170,166,183,180,194,158,185
+36,Owner-Occupied,MT,Granite,2348,2246,2294,2329,2294,2258,2249,2246,2372,2530
+37,Renter-Occupied,MT,Granite,686,755,734,720,778,852,903,896,826,705
+38,Total Housing Units,MT,Granite,2679,2751,2778,2798,2802,2809,2782,2835,2832,2832
+39,Total Population,MT,Granite,3044,3055,3083,3105,3133,3168,3212,3206,3269,3311
+40,Units in Structure: 1 ATTACHED,MT,Granite,0,0,3,2,4,7,19,22,26,19
+41,Units in Structure: 1 DETACHED,MT,Granite,2106,2138,2166,2208,2191,2166,2201,2225,2198,2204
+42,Units in Structure: 10-19,MT,Granite,7,5,5,4,4,3,0,0,0,0
+43,Units in Structure: 2,MT,Granite,46,26,38,40,35,29,30,13,1,0
+44,Units in Structure: 20-49,MT,Granite,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Granite,53,97,73,71,46,43,21,23,25,30
+46,Units in Structure: 5-9,MT,Granite,10,10,12,0,0,8,8,10,8,11
+47,Units in Structure: 50+,MT,Granite,4,6,5,6,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Granite,0,3,2,2,1,1,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Granite,453,466,474,465,521,552,503,542,574,568
+50,Year Built: 1940-1949,MT,Granite,136,126,119,106,191,228,183,203,184,157
+51,Year Built: 1950-1959,MT,Granite,261,298,267,288,262,247,223,224,187,166
+52,Year Built: 1960-1969,MT,Granite,252,293,280,251,260,371,329,387,419,455
+53,Year Built: 1970-1979,MT,Granite,383,390,299,273,299,361,325,270,298,254
+54,Year Built: 1980-1989,MT,Granite,255,270,317,303,338,337,421,438,434,443
+55,Year Built: 1990-1999,MT,Granite,353,312,331,368,359,462,439,425,386,386
+56,Year Built: 2000-2009,MT,Granite,169,202,407,519,507,25,66,69,113,148
+57,Year Built: 2010-2013,MT,Granite,81,113,2,2,5,4,29,42,60,68
+58,Year Built: before 1940,MT,Granite,789,747,756,688,581,189,183,203,210,146
+0,Avg household size of owner-occupied unit,MT,Hill,2.5,2.53,2.54,2.58,2.6,2.66,2.67,2.69,2.65,2.67
+1,Avg household size of renter-occupied unit,MT,Hill,2.63,2.66,2.6,2.57,2.63,2.59,2.55,2.41,2.39,2.26
+2,FIPS Code,MT,Hill,30041,30041,30041,30041,30041,30041,30041,30041,30041,30041
+3,House Heating Fuel: Electric,MT,Hill,1006,1007,1054,1103,943,891,1009,1019,1094,1112
+4,House Heating Fuel: Fuel Oil,MT,Hill,273,313,406,352,284,147,88,25,14,22
+5,House Heating Fuel: Gas,MT,Hill,4075,4120,4060,3932,4030,4097,3990,3988,4026,4094
+6,House Heating Fuel: Propane,MT,Hill,365,321,397,460,548,602,699,819,868,876
+7,House Heating Fuel: Wood,MT,Hill,180,178,153,206,223,234,224,261,212,209
+26,Median Number of Rooms,MT,Hill,5.8,5.7,5.7,5.6,5.7,5.7,5.5,5.6,5.7,5.7
+27,Number of Rooms: 1,MT,Hill,128,167,195,292,260,211,197,210,110,115
+28,Number of Rooms: 2,MT,Hill,141,167,97,117,182,168,153,164,159,83
+29,Number of Rooms: 3,MT,Hill,524,591,655,520,458,537,591,650,691,654
+30,Number of Rooms: 4,MT,Hill,1103,981,936,1134,1007,1049,1102,1073,1013,1213
+31,Number of Rooms: 5,MT,Hill,1473,1478,1541,1411,1488,1471,1517,1497,1474,1355
+32,Number of Rooms: 6,MT,Hill,1076,1032,1021,1023,1072,1084,1015,1075,1234,1213
+33,Number of Rooms: 7,MT,Hill,1037,994,895,841,842,848,895,830,794,877
+34,Number of Rooms: 8,MT,Hill,796,721,749,761,694,650,635,711,732,753
+35,Number of Rooms: 9+,MT,Hill,1013,1135,1173,1132,1221,1214,1107,1101,1117,1085
+36,Owner-Occupied,MT,Hill,10381,10496,10548,10728,10755,11048,10697,10401,10243,10509
+37,Renter-Occupied,MT,Hill,5086,5132,5124,5086,5206,4998,5382,5633,5753,5484
+38,Total Housing Units,MT,Hill,7291,7266,7262,7231,7224,7232,7212,7311,7324,7348
+39,Total Population,MT,Hill,16007,16092,16157,16301,16434,16523,16529,16468,16439,16436
+40,Units in Structure: 1 ATTACHED,MT,Hill,132,159,202,167,149,113,117,96,98,100
+41,Units in Structure: 1 DETACHED,MT,Hill,5261,5143,5036,5079,5135,5182,5062,5142,5101,5247
+42,Units in Structure: 10-19,MT,Hill,179,236,254,237,273,243,189,179,206,210
+43,Units in Structure: 2,MT,Hill,250,231,246,286,213,206,215,236,250,238
+44,Units in Structure: 20-49,MT,Hill,74,22,27,50,57,61,102,98,62,32
+45,Units in Structure: 3-4,MT,Hill,237,283,302,344,298,288,325,318,302,306
+46,Units in Structure: 5-9,MT,Hill,300,267,266,214,271,222,191,194,212,215
+47,Units in Structure: 50+,MT,Hill,67,78,73,79,91,94,88,89,104,66
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Hill,0,0,0,0,0,0,3,3,4,4
+49,Units in Structure: Mobile Home,MT,Hill,791,847,856,775,737,823,920,956,985,930
+50,Year Built: 1940-1949,MT,Hill,560,581,580,503,380,1363,1324,1380,1282,1362
+51,Year Built: 1950-1959,MT,Hill,1184,1313,1318,1293,1275,816,776,778,830,854
+52,Year Built: 1960-1969,MT,Hill,909,856,814,790,741,1545,1552,1513,1495,1614
+53,Year Built: 1970-1979,MT,Hill,1660,1709,1716,1614,1573,691,727,786,819,832
+54,Year Built: 1980-1989,MT,Hill,728,675,689,652,666,525,585,545,475,373
+55,Year Built: 1990-1999,MT,Hill,575,572,468,529,555,295,309,291,360,430
+56,Year Built: 2000-2009,MT,Hill,113,83,300,328,327,43,34,75,59,45
+57,Year Built: 2010-2013,MT,Hill,140,166,18,24,38,0,0,2,26,28
+58,Year Built: before 1940,MT,Hill,1422,1311,1359,1498,1669,405,460,450,463,538
+0,Avg household size of owner-occupied unit,MT,Jefferson,2.32,2.42,2.44,2.48,2.53,2.56,2.59,2.59,2.63,2.65
+1,Avg household size of renter-occupied unit,MT,Jefferson,2.48,2.47,2.39,2.4,2.29,2.24,2.24,2.12,2.33,2.32
+2,FIPS Code,MT,Jefferson,30043,30043,30043,30043,30043,30043,30043,30043,30043,30043
+3,House Heating Fuel: Electric,MT,Jefferson,548,656,561,514,537,550,484,575,542,616
+4,House Heating Fuel: Fuel Oil,MT,Jefferson,54,66,51,47,46,25,18,26,25,18
+5,House Heating Fuel: Gas,MT,Jefferson,2426,2453,2429,2386,2328,2336,2359,2359,2387,2304
+6,House Heating Fuel: Propane,MT,Jefferson,665,598,612,619,582,537,610,582,578,589
+7,House Heating Fuel: Wood,MT,Jefferson,634,660,788,861,918,957,933,906,824,860
+26,Median Number of Rooms,MT,Jefferson,5.9,5.9,5.9,6.0,6.1,6.2,6.3,6.3,6.3,6.4
+27,Number of Rooms: 1,MT,Jefferson,60,96,126,112,115,132,118,187,230,239
+28,Number of Rooms: 2,MT,Jefferson,73,104,107,87,118,116,119,139,154,121
+29,Number of Rooms: 3,MT,Jefferson,301,352,285,288,270,181,255,241,258,299
+30,Number of Rooms: 4,MT,Jefferson,663,612,678,637,519,587,487,484,461,460
+31,Number of Rooms: 5,MT,Jefferson,1042,1062,1068,1006,973,942,826,770,720,735
+32,Number of Rooms: 6,MT,Jefferson,763,719,669,743,855,838,932,914,874,776
+33,Number of Rooms: 7,MT,Jefferson,594,561,558,680,690,626,623,589,564,682
+34,Number of Rooms: 8,MT,Jefferson,615,623,570,498,537,567,578,583,631,645
+35,Number of Rooms: 9+,MT,Jefferson,795,854,957,978,975,1058,1104,1197,1220,1155
+36,Owner-Occupied,MT,Jefferson,8799,9307,9421,9625,9566,9630,9776,9927,9943,10007
+37,Renter-Occupied,MT,Jefferson,1590,1670,1649,1534,1634,1603,1548,1425,1554,1629
+38,Total Housing Units,MT,Jefferson,4906,4983,5018,5029,5052,5047,5042,5104,5112,5112
+39,Total Population,MT,Jefferson,11166,11281,11360,11434,11465,11502,11601,11625,11778,11917
+40,Units in Structure: 1 ATTACHED,MT,Jefferson,47,86,98,90,96,76,51,65,66,82
+41,Units in Structure: 1 DETACHED,MT,Jefferson,4176,4280,4268,4280,4237,4266,4238,4288,4333,4369
+42,Units in Structure: 10-19,MT,Jefferson,18,28,17,16,10,9,0,9,17,18
+43,Units in Structure: 2,MT,Jefferson,14,10,5,4,18,23,57,62,52,58
+44,Units in Structure: 20-49,MT,Jefferson,37,28,11,12,15,3,3,16,24,29
+45,Units in Structure: 3-4,MT,Jefferson,56,50,47,45,52,64,84,71,55,34
+46,Units in Structure: 5-9,MT,Jefferson,18,10,8,10,19,17,18,47,47,41
+47,Units in Structure: 50+,MT,Jefferson,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Jefferson,0,0,0,0,0,0,0,0,0,11
+49,Units in Structure: Mobile Home,MT,Jefferson,540,491,564,572,605,589,591,546,518,470
+50,Year Built: 1940-1949,MT,Jefferson,139,132,153,156,167,180,144,146,161,185
+51,Year Built: 1950-1959,MT,Jefferson,138,208,223,227,235,270,316,319,306,275
+52,Year Built: 1960-1969,MT,Jefferson,569,479,367,358,395,1074,990,1058,985,974
+53,Year Built: 1970-1979,MT,Jefferson,1021,1016,1023,1037,980,721,698,724,759,759
+54,Year Built: 1980-1989,MT,Jefferson,762,787,818,780,801,1173,1200,1150,1060,1047
+55,Year Built: 1990-1999,MT,Jefferson,1279,1209,1183,1199,1115,952,992,942,1014,958
+56,Year Built: 2000-2009,MT,Jefferson,223,273,702,806,926,90,75,107,124,170
+57,Year Built: 2010-2013,MT,Jefferson,217,375,53,60,63,0,23,34,35,92
+58,Year Built: before 1940,MT,Jefferson,558,504,496,406,370,164,139,118,118,98
+0,Avg household size of owner-occupied unit,MT,Judith Basin,2.16,2.15,2.27,2.29,2.2,2.12,2.17,2.14,2.12,2.24
+1,Avg household size of renter-occupied unit,MT,Judith Basin,2.62,2.69,2.72,2.41,2.37,2.37,2.15,2.06,2.08,1.89
+2,FIPS Code,MT,Judith Basin,30045,30045,30045,30045,30045,30045,30045,30045,30045,30045
+3,House Heating Fuel: Electric,MT,Judith Basin,139,129,124,132,123,114,119,155,138,138
+4,House Heating Fuel: Fuel Oil,MT,Judith Basin,106,97,88,81,102,99,92,72,83,65
+5,House Heating Fuel: Gas,MT,Judith Basin,42,54,36,57,41,42,37,34,16,12
+6,House Heating Fuel: Propane,MT,Judith Basin,427,454,449,426,447,448,465,449,456,511
+7,House Heating Fuel: Wood,MT,Judith Basin,141,170,165,176,171,197,189,197,211,169
+26,Median Number of Rooms,MT,Judith Basin,5.6,5.6,5.5,5.6,5.7,5.7,5.6,5.4,5.4,5.5
+27,Number of Rooms: 1,MT,Judith Basin,12,11,20,26,20,41,55,72,85,88
+28,Number of Rooms: 2,MT,Judith Basin,47,51,54,54,45,34,46,38,37,38
+29,Number of Rooms: 3,MT,Judith Basin,87,100,78,104,94,90,101,109,108,126
+30,Number of Rooms: 4,MT,Judith Basin,154,152,172,145,147,149,176,178,189,173
+31,Number of Rooms: 5,MT,Judith Basin,320,340,322,307,292,288,261,297,285,261
+32,Number of Rooms: 6,MT,Judith Basin,399,401,350,366,323,297,281,232,207,219
+33,Number of Rooms: 7,MT,Judith Basin,125,141,140,157,167,181,164,124,129,102
+34,Number of Rooms: 8,MT,Judith Basin,88,94,95,95,96,100,89,86,108,126
+35,Number of Rooms: 9+,MT,Judith Basin,89,81,83,79,139,147,165,190,225,216
+36,Owner-Occupied,MT,Judith Basin,1446,1547,1584,1520,1466,1471,1468,1418,1434,1537
+37,Renter-Occupied,MT,Judith Basin,521,514,467,521,554,522,509,543,514,415
+38,Total Housing Units,MT,Judith Basin,1321,1371,1314,1333,1323,1327,1338,1326,1373,1349
+39,Total Population,MT,Judith Basin,1967,2061,2052,2043,2023,1997,1981,1965,1951,1954
+40,Units in Structure: 1 ATTACHED,MT,Judith Basin,2,0,0,8,9,8,9,7,3,0
+41,Units in Structure: 1 DETACHED,MT,Judith Basin,1088,1125,1085,1070,1092,1089,1113,1113,1159,1102
+42,Units in Structure: 10-19,MT,Judith Basin,11,11,10,16,9,7,6,10,7,7
+43,Units in Structure: 2,MT,Judith Basin,21,3,6,8,7,10,11,7,3,8
+44,Units in Structure: 20-49,MT,Judith Basin,16,17,10,12,9,6,4,7,7,17
+45,Units in Structure: 3-4,MT,Judith Basin,9,10,0,0,0,0,0,0,0,0
+46,Units in Structure: 5-9,MT,Judith Basin,0,0,0,0,0,0,0,5,5,4
+47,Units in Structure: 50+,MT,Judith Basin,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Judith Basin,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Judith Basin,174,205,203,219,197,207,195,177,189,211
+50,Year Built: 1940-1949,MT,Judith Basin,153,147,119,143,113,129,140,112,122,124
+51,Year Built: 1950-1959,MT,Judith Basin,185,188,175,159,147,131,115,102,78,97
+52,Year Built: 1960-1969,MT,Judith Basin,114,143,141,149,125,218,229,241,228,213
+53,Year Built: 1970-1979,MT,Judith Basin,183,200,203,203,202,94,106,105,131,132
+54,Year Built: 1980-1989,MT,Judith Basin,137,148,113,118,98,126,120,138,147,156
+55,Year Built: 1990-1999,MT,Judith Basin,95,106,80,96,120,90,96,109,113,95
+56,Year Built: 2000-2009,MT,Judith Basin,26,35,77,79,89,19,26,19,19,19
+57,Year Built: 2010-2013,MT,Judith Basin,9,6,3,3,7,0,0,3,7,25
+58,Year Built: before 1940,MT,Judith Basin,419,398,403,383,422,101,84,96,88,77
+0,Avg household size of owner-occupied unit,MT,Lake,2.28,2.22,2.25,2.33,2.31,2.32,2.35,2.4,2.44,2.48
+1,Avg household size of renter-occupied unit,MT,Lake,2.45,2.52,2.51,2.51,2.54,2.52,2.54,2.59,2.53,2.53
+2,FIPS Code,MT,Lake,30047,30047,30047,30047,30047,30047,30047,30047,30047,30047
+3,House Heating Fuel: Electric,MT,Lake,5128,5519,5642,5953,6320,6762,6756,6684,6773,6827
+4,House Heating Fuel: Fuel Oil,MT,Lake,1014,933,852,685,594,558,522,461,489,464
+5,House Heating Fuel: Gas,MT,Lake,619,632,610,621,674,597,608,637,534,482
+6,House Heating Fuel: Propane,MT,Lake,2906,2611,2375,2296,2160,2091,2092,2130,2045,2003
+7,House Heating Fuel: Wood,MT,Lake,2143,2156,2295,2007,1894,1774,1788,1768,1889,1894
+26,Median Number of Rooms,MT,Lake,5.3,5.3,5.3,5.3,5.3,5.3,5.3,5.2,5.3,5.3
+27,Number of Rooms: 1,MT,Lake,234,315,293,265,390,478,539,666,676,538
+28,Number of Rooms: 2,MT,Lake,539,498,563,514,509,487,687,707,728,733
+29,Number of Rooms: 3,MT,Lake,1672,1548,1667,1714,1480,1366,1308,1280,1203,1309
+30,Number of Rooms: 4,MT,Lake,2843,3013,2906,2961,3093,3058,3127,3247,3089,3157
+31,Number of Rooms: 5,MT,Lake,3305,3557,3475,3515,3496,3566,3446,3398,3400,3388
+32,Number of Rooms: 6,MT,Lake,2891,2793,2941,3055,3028,3153,3070,3079,2937,3034
+33,Number of Rooms: 7,MT,Lake,1899,2038,2071,2019,1900,1781,1541,1564,1734,1652
+34,Number of Rooms: 8,MT,Lake,1245,1147,1177,1206,1174,1141,1201,1206,1291,1357
+35,Number of Rooms: 9+,MT,Lake,1461,1457,1391,1295,1519,1583,1666,1664,1772,1718
+36,Owner-Occupied,MT,Lake,18629,18256,18544,19021,19312,19322,19729,20321,20835,21030
+37,Renter-Occupied,MT,Lake,9425,9579,9511,9177,9007,9223,9028,8627,8337,8367
+38,Total Housing Units,MT,Lake,16089,16366,16484,16544,16589,16613,16585,16811,16830,16886
+39,Total Population,MT,Lake,28493,28628,28794,28905,28987,29157,29311,29518,29774,30013
+40,Units in Structure: 1 ATTACHED,MT,Lake,272,229,308,382,309,252,259,263,216,219
+41,Units in Structure: 1 DETACHED,MT,Lake,12482,12736,12771,12833,13005,12925,12913,13088,13104,13064
+42,Units in Structure: 10-19,MT,Lake,80,10,36,78,62,79,99,75,57,63
+43,Units in Structure: 2,MT,Lake,318,274,244,365,436,460,490,438,374,449
+44,Units in Structure: 20-49,MT,Lake,233,229,283,223,173,99,110,82,118,125
+45,Units in Structure: 3-4,MT,Lake,348,439,462,418,364,366,276,284,354,420
+46,Units in Structure: 5-9,MT,Lake,358,493,380,338,325,369,276,318,284,314
+47,Units in Structure: 50+,MT,Lake,72,78,71,14,18,29,27,13,53,84
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Lake,63,48,27,21,29,12,9,14,14,10
+49,Units in Structure: Mobile Home,MT,Lake,1863,1830,1902,1872,1868,2022,2126,2236,2256,2138
+50,Year Built: 1940-1949,MT,Lake,708,771,850,885,954,1127,1158,1167,1203,1141
+51,Year Built: 1950-1959,MT,Lake,792,958,924,961,1028,1414,1315,1308,1350,1458
+52,Year Built: 1960-1969,MT,Lake,1396,1429,1231,1245,1225,3545,3330,3262,3206,2935
+53,Year Built: 1970-1979,MT,Lake,3375,3505,3537,3577,3748,1745,1574,1643,1663,1875
+54,Year Built: 1980-1989,MT,Lake,2059,2182,2027,1867,1780,3080,3106,3132,3232,3342
+55,Year Built: 1990-1999,MT,Lake,3366,3056,3305,3021,2937,2950,3266,3303,3102,3100
+56,Year Built: 2000-2009,MT,Lake,1475,1563,2410,2910,2966,316,372,438,477,497
+57,Year Built: 2010-2013,MT,Lake,503,524,122,197,265,17,64,107,209,324
+58,Year Built: before 1940,MT,Lake,2415,2378,2078,1881,1686,954,865,933,916,815
+0,Avg household size of owner-occupied unit,MT,Lewis and Clark,2.44,2.44,2.45,2.47,2.47,2.47,2.49,2.47,2.48,2.51
+1,Avg household size of renter-occupied unit,MT,Lewis and Clark,1.86,1.89,1.95,2.02,2.12,2.17,2.19,2.06,2.07,2.04
+2,FIPS Code,MT,Lewis and Clark,30049,30049,30049,30049,30049,30049,30049,30049,30049,30049
+3,House Heating Fuel: Electric,MT,Lewis and Clark,4581,4796,5136,5084,5430,5309,5622,5821,5647,5629
+4,House Heating Fuel: Fuel Oil,MT,Lewis and Clark,158,107,94,96,87,26,52,61,65,57
+5,House Heating Fuel: Gas,MT,Lewis and Clark,17156,17302,16602,16654,16373,16849,16726,17303,17489,17672
+6,House Heating Fuel: Propane,MT,Lewis and Clark,2128,2222,2244,2091,2053,2116,2071,2284,2498,2555
+7,House Heating Fuel: Wood,MT,Lewis and Clark,1717,1785,1954,2054,2072,1915,1686,1529,1608,1408
+26,Median Number of Rooms,MT,Lewis and Clark,5.4,5.5,5.5,5.5,5.5,5.5,5.4,5.5,5.5,5.6
+27,Number of Rooms: 1,MT,Lewis and Clark,791,742,801,906,851,798,1029,1119,964,967
+28,Number of Rooms: 2,MT,Lewis and Clark,959,886,820,1084,1346,1464,1413,1320,1283,997
+29,Number of Rooms: 3,MT,Lewis and Clark,1716,2104,2368,2451,2836,2890,3000,2845,2651,2431
+30,Number of Rooms: 4,MT,Lewis and Clark,5763,5388,5129,4940,4925,5155,5203,5498,5595,5507
+31,Number of Rooms: 5,MT,Lewis and Clark,5923,5774,5739,5665,5375,5169,5188,5040,5329,5350
+32,Number of Rooms: 6,MT,Lewis and Clark,4268,4403,4550,4224,4270,4236,4129,4009,4113,4427
+33,Number of Rooms: 7,MT,Lewis and Clark,3321,3507,3687,3909,4006,4102,3842,3971,3926,4058
+34,Number of Rooms: 8,MT,Lewis and Clark,2847,2809,2807,2755,2654,2737,2913,3073,3140,3179
+35,Number of Rooms: 9+,MT,Lewis and Clark,3843,4274,4161,4242,4140,4003,3929,4375,4432,4705
+36,Owner-Occupied,MT,Lewis and Clark,46319,46661,47537,47421,47008,45906,46100,46750,47179,48655
+37,Renter-Occupied,MT,Lewis and Clark,13197,13986,13988,14872,16006,17744,18100,17754,18084,17349
+38,Total Housing Units,MT,Lewis and Clark,29431,29887,30062,30176,30403,30554,30646,31250,31433,31621
+39,Total Population,MT,Lewis and Clark,61643,62597,63432,64143,64772,65357,65989,66290,67077,67805
+40,Units in Structure: 1 ATTACHED,MT,Lewis and Clark,630,669,683,702,833,982,969,1191,1400,1401
+41,Units in Structure: 1 DETACHED,MT,Lewis and Clark,19641,20030,20314,20448,20366,20669,20561,20870,21130,21551
+42,Units in Structure: 10-19,MT,Lewis and Clark,570,489,484,402,418,484,452,440,550,551
+43,Units in Structure: 2,MT,Lewis and Clark,1091,963,992,974,871,1053,1242,1326,1306,1389
+44,Units in Structure: 20-49,MT,Lewis and Clark,389,463,499,514,518,459,503,534,461,476
+45,Units in Structure: 3-4,MT,Lewis and Clark,1965,2155,2160,2232,2215,2037,1947,1994,2084,2133
+46,Units in Structure: 5-9,MT,Lewis and Clark,1038,1117,1019,1032,1001,829,846,781,732,654
+47,Units in Structure: 50+,MT,Lewis and Clark,404,473,487,540,531,535,565,592,563,605
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Lewis and Clark,0,39,37,31,34,39,0,0,0,9
+49,Units in Structure: Mobile Home,MT,Lewis and Clark,3703,3489,3387,3301,3616,3467,3561,3522,3207,2852
+50,Year Built: 1940-1949,MT,Lewis and Clark,1431,1325,1257,1280,1190,2052,2093,2229,2276,2396
+51,Year Built: 1950-1959,MT,Lewis and Clark,2151,2216,2184,2155,2072,2795,2837,2847,2818,2605
+52,Year Built: 1960-1969,MT,Lewis and Clark,2738,2737,2656,2818,2716,6292,5956,6165,5886,5954
+53,Year Built: 1970-1979,MT,Lewis and Clark,6591,6346,5976,6126,6347,3674,3670,3563,3601,3759
+54,Year Built: 1980-1989,MT,Lewis and Clark,3010,3453,3676,3657,3505,4273,4260,4171,4026,3859
+55,Year Built: 1990-1999,MT,Lewis and Clark,4335,4281,4508,4373,4454,4848,4686,4642,5004,4853
+56,Year Built: 2000-2009,MT,Lewis and Clark,2532,2598,4762,4871,5019,847,1188,1235,1372,1516
+57,Year Built: 2010-2013,MT,Lewis and Clark,1673,2102,274,423,555,72,148,438,672,928
+58,Year Built: before 1940,MT,Lewis and Clark,4970,4829,4769,4473,4545,1276,1403,1352,1171,1211
+0,Avg household size of owner-occupied unit,MT,Liberty,2.54,2.36,2.4,2.48,2.4,2.41,2.6,2.45,2.49,2.53
+1,Avg household size of renter-occupied unit,MT,Liberty,3.13,3.11,2.71,2.62,2.53,2.72,2.57,2.69,2.65,2.73
+2,FIPS Code,MT,Liberty,30051,30051,30051,30051,30051,30051,30051,30051,30051,30051
+3,House Heating Fuel: Electric,MT,Liberty,72,74,101,120,109,128,157,178,170,191
+4,House Heating Fuel: Fuel Oil,MT,Liberty,47,71,79,66,41,32,8,0,0,0
+5,House Heating Fuel: Gas,MT,Liberty,519,527,541,495,516,535,490,499,548,525
+6,House Heating Fuel: Propane,MT,Liberty,160,131,104,127,108,108,123,139,138,162
+7,House Heating Fuel: Wood,MT,Liberty,11,11,13,19,20,35,32,20,20,17
+26,Median Number of Rooms,MT,Liberty,5.9,6.1,6.0,5.9,5.9,5.8,5.7,5.6,5.9,5.7
+27,Number of Rooms: 1,MT,Liberty,61,65,76,94,74,64,80,61,26,23
+28,Number of Rooms: 2,MT,Liberty,7,3,12,12,11,12,21,33,35,40
+29,Number of Rooms: 3,MT,Liberty,79,68,44,41,56,46,47,77,90,80
+30,Number of Rooms: 4,MT,Liberty,100,130,139,154,156,180,137,155,123,98
+31,Number of Rooms: 5,MT,Liberty,195,161,207,201,208,228,236,216,235,283
+32,Number of Rooms: 6,MT,Liberty,244,216,175,184,148,107,108,125,136,183
+33,Number of Rooms: 7,MT,Liberty,161,166,186,157,167,165,162,113,109,103
+34,Number of Rooms: 8,MT,Liberty,122,149,123,112,108,126,115,137,189,169
+35,Number of Rooms: 9+,MT,Liberty,133,167,183,188,187,197,175,193,177,150
+36,Owner-Occupied,MT,Liberty,1301,1252,1265,1305,1307,1375,1449,1284,1378,1428
+37,Renter-Occupied,MT,Liberty,950,906,864,837,719,801,709,899,880,902
+38,Total Housing Units,MT,Liberty,1102,1125,1145,1143,1115,1125,1081,1110,1120,1129
+39,Total Population,MT,Liberty,2261,2300,2326,2357,2235,2369,2292,2245,2280,2351
+40,Units in Structure: 1 ATTACHED,MT,Liberty,38,48,55,49,18,17,11,6,1,9
+41,Units in Structure: 1 DETACHED,MT,Liberty,746,796,749,739,694,710,682,702,746,740
+42,Units in Structure: 10-19,MT,Liberty,18,19,36,32,40,30,43,39,34,33
+43,Units in Structure: 2,MT,Liberty,25,36,27,23,22,31,16,18,16,20
+44,Units in Structure: 20-49,MT,Liberty,38,26,26,44,34,39,45,68,56,69
+45,Units in Structure: 3-4,MT,Liberty,10,10,12,21,24,14,24,25,25,17
+46,Units in Structure: 5-9,MT,Liberty,91,83,94,97,107,100,92,96,84,75
+47,Units in Structure: 50+,MT,Liberty,0,0,8,7,7,7,6,0,0,1
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Liberty,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Liberty,136,107,138,131,169,177,162,156,158,165
+50,Year Built: 1940-1949,MT,Liberty,115,107,119,79,51,139,144,129,129,146
+51,Year Built: 1950-1959,MT,Liberty,133,160,131,112,126,101,84,111,121,109
+52,Year Built: 1960-1969,MT,Liberty,120,91,51,64,89,217,185,202,202,195
+53,Year Built: 1970-1979,MT,Liberty,204,201,245,215,209,156,194,187,183,166
+54,Year Built: 1980-1989,MT,Liberty,132,115,136,157,182,126,129,121,100,99
+55,Year Built: 1990-1999,MT,Liberty,132,124,130,115,104,91,76,104,66,64
+56,Year Built: 2000-2009,MT,Liberty,10,13,27,66,61,0,0,0,0,0
+57,Year Built: 2010-2013,MT,Liberty,0,3,0,0,0,0,0,0,0,0
+58,Year Built: before 1940,MT,Liberty,256,311,306,335,293,52,31,29,60,62
+0,Avg household size of owner-occupied unit,MT,Lincoln,2.1,2.17,2.18,2.19,2.18,2.22,2.23,2.32,2.27,2.31
+1,Avg household size of renter-occupied unit,MT,Lincoln,2.01,2.03,2.05,2.12,2.08,2.2,2.25,2.25,2.48,2.66
+2,FIPS Code,MT,Lincoln,30053,30053,30053,30053,30053,30053,30053,30053,30053,30053
+3,House Heating Fuel: Electric,MT,Lincoln,3407,3364,3270,3420,3476,3502,3576,3598,3591,3551
+4,House Heating Fuel: Fuel Oil,MT,Lincoln,781,673,642,488,502,459,427,373,380,381
+5,House Heating Fuel: Gas,MT,Lincoln,133,111,221,286,381,378,461,411,381,334
+6,House Heating Fuel: Propane,MT,Lincoln,1263,1215,1208,1108,992,946,776,633,691,876
+7,House Heating Fuel: Wood,MT,Lincoln,3454,3450,3385,3358,3391,3168,3115,3080,3061,2838
+26,Median Number of Rooms,MT,Lincoln,4.9,5.0,5.0,5.0,5.1,5.2,5.2,5.3,5.3,5.3
+27,Number of Rooms: 1,MT,Lincoln,520,593,566,571,484,428,419,388,357,365
+28,Number of Rooms: 2,MT,Lincoln,565,609,462,432,474,453,284,378,378,372
+29,Number of Rooms: 3,MT,Lincoln,1355,1147,1218,1187,1075,1046,1124,1039,984,895
+30,Number of Rooms: 4,MT,Lincoln,2098,2020,2045,2218,2335,2376,2290,2383,2273,2237
+31,Number of Rooms: 5,MT,Lincoln,2681,2677,2580,2521,2260,2086,2238,2166,2226,2388
+32,Number of Rooms: 6,MT,Lincoln,1729,1711,1666,1720,1905,2083,2049,2204,2193,2013
+33,Number of Rooms: 7,MT,Lincoln,1004,1129,1154,1128,1246,1231,1279,1347,1439,1325
+34,Number of Rooms: 8,MT,Lincoln,513,598,766,788,848,779,736,721,734,772
+35,Number of Rooms: 9+,MT,Lincoln,579,762,899,856,868,1016,1065,1023,1069,1224
+36,Owner-Occupied,MT,Lincoln,14853,14998,15012,15251,15166,15042,15062,15213,14680,15063
+37,Renter-Occupied,MT,Lincoln,4378,4261,4279,4064,4040,4074,3985,3812,4450,4247
+38,Total Housing Units,MT,Lincoln,11044,11246,11356,11421,11495,11498,11484,11649,11653,11591
+39,Total Population,MT,Lincoln,19507,19574,19594,19581,19455,19337,19268,19249,19358,19537
+40,Units in Structure: 1 ATTACHED,MT,Lincoln,15,39,56,82,87,100,134,127,119,116
+41,Units in Structure: 1 DETACHED,MT,Lincoln,8394,8802,8817,8801,8627,8658,8480,8812,8879,9196
+42,Units in Structure: 10-19,MT,Lincoln,56,47,20,85,49,83,114,104,64,51
+43,Units in Structure: 2,MT,Lincoln,83,92,107,166,241,207,189,169,112,58
+44,Units in Structure: 20-49,MT,Lincoln,58,61,94,91,68,74,65,54,69,76
+45,Units in Structure: 3-4,MT,Lincoln,309,254,236,204,189,113,125,188,188,182
+46,Units in Structure: 5-9,MT,Lincoln,191,112,130,102,145,94,135,124,167,80
+47,Units in Structure: 50+,MT,Lincoln,0,16,9,41,55,56,50,48,26,14
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Lincoln,16,42,38,62,58,60,31,31,14,28
+49,Units in Structure: Mobile Home,MT,Lincoln,1922,1781,1849,1787,1976,2053,2161,1992,2015,1790
+50,Year Built: 1940-1949,MT,Lincoln,461,504,540,547,494,993,1074,1040,909,852
+51,Year Built: 1950-1959,MT,Lincoln,934,905,993,946,970,1145,1109,1145,1144,1235
+52,Year Built: 1960-1969,MT,Lincoln,1136,1105,1085,1204,1156,2150,2157,2192,2298,1982
+53,Year Built: 1970-1979,MT,Lincoln,2373,1945,2002,2027,2183,1460,1619,1821,1867,1939
+54,Year Built: 1980-1989,MT,Lincoln,1691,1679,1731,1389,1311,2148,1961,1978,1890,1696
+55,Year Built: 1990-1999,MT,Lincoln,1573,1935,2020,2054,2345,1759,1686,1738,1737,1963
+56,Year Built: 2000-2009,MT,Lincoln,703,1017,1395,1713,1606,163,212,225,334,412
+57,Year Built: 2010-2013,MT,Lincoln,315,477,100,125,163,0,86,154,220,274
+58,Year Built: before 1940,MT,Lincoln,1858,1679,1490,1416,1267,580,527,421,395,359
+0,Avg household size of owner-occupied unit,MT,McCone,2.47,2.54,2.47,2.45,2.36,2.46,2.44,2.38,2.27,2.47
+1,Avg household size of renter-occupied unit,MT,McCone,2.48,2.03,1.99,2.0,1.97,1.67,1.53,2.32,2.34,2.37
+2,FIPS Code,MT,McCone,30055,30055,30055,30055,30055,30055,30055,30055,30055,30055
+3,House Heating Fuel: Electric,MT,McCone,201,233,270,270,272,272,277,257,275,294
+4,House Heating Fuel: Fuel Oil,MT,McCone,57,48,36,42,43,56,54,62,53,58
+5,House Heating Fuel: Gas,MT,McCone,13,73,78,71,90,95,52,51,48,27
+6,House Heating Fuel: Propane,MT,McCone,357,345,335,326,295,259,291,283,272,284
+7,House Heating Fuel: Wood,MT,McCone,23,10,18,21,22,20,20,29,26,31
+26,Median Number of Rooms,MT,McCone,5.5,5.7,5.8,6.0,6.0,5.8,5.6,5.5,5.4,5.4
+27,Number of Rooms: 1,MT,McCone,19,19,22,17,13,6,6,11,11,11
+28,Number of Rooms: 2,MT,McCone,9,0,3,3,3,3,5,3,14,16
+29,Number of Rooms: 3,MT,McCone,48,60,55,53,56,66,73,76,81,79
+30,Number of Rooms: 4,MT,McCone,171,137,132,107,106,146,142,164,141,154
+31,Number of Rooms: 5,MT,McCone,269,277,261,244,225,242,267,271,310,300
+32,Number of Rooms: 6,MT,McCone,140,123,139,176,212,187,171,154,127,135
+33,Number of Rooms: 7,MT,McCone,175,180,172,158,149,120,129,119,117,72
+34,Number of Rooms: 8,MT,McCone,103,136,115,124,105,81,50,74,51,87
+35,Number of Rooms: 9+,MT,McCone,88,111,141,149,164,178,179,176,193,210
+36,Owner-Occupied,MT,McCone,1329,1453,1431,1436,1453,1482,1455,1384,1310,1440
+37,Renter-Occupied,MT,McCone,385,352,366,346,287,224,201,323,299,330
+38,Total Housing Units,MT,McCone,1022,1043,1040,1031,1033,1029,1022,1048,1045,1064
+39,Total Population,MT,McCone,1714,1815,1808,1794,1758,1728,1678,1728,1630,1790
+40,Units in Structure: 1 ATTACHED,MT,McCone,0,6,13,12,15,16,10,0,0,3
+41,Units in Structure: 1 DETACHED,MT,McCone,842,876,893,899,899,862,844,871,866,864
+42,Units in Structure: 10-19,MT,McCone,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,MT,McCone,13,16,18,12,4,4,10,12,13,15
+44,Units in Structure: 20-49,MT,McCone,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,McCone,34,21,14,14,22,31,42,32,20,7
+46,Units in Structure: 5-9,MT,McCone,13,20,16,16,13,16,0,0,0,0
+47,Units in Structure: 50+,MT,McCone,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,McCone,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,McCone,120,104,86,78,80,100,116,133,146,175
+50,Year Built: 1940-1949,MT,McCone,129,133,130,108,106,320,279,282,282,251
+51,Year Built: 1950-1959,MT,McCone,185,230,240,246,265,161,152,146,148,147
+52,Year Built: 1960-1969,MT,McCone,118,126,137,169,140,114,121,124,128,163
+53,Year Built: 1970-1979,MT,McCone,172,152,126,104,117,90,108,106,95,90
+54,Year Built: 1980-1989,MT,McCone,110,123,107,93,84,55,69,59,51,55
+55,Year Built: 1990-1999,MT,McCone,42,41,55,54,63,25,27,31,30,36
+56,Year Built: 2000-2009,MT,McCone,18,14,9,11,19,7,8,8,2,7
+57,Year Built: 2010-2013,MT,McCone,0,0,0,9,6,0,0,0,9,12
+58,Year Built: before 1940,MT,McCone,248,224,236,237,233,91,82,90,91,82
+0,Avg household size of owner-occupied unit,MT,Madison,2.0,2.07,2.0,2.07,2.2,2.16,2.15,2.16,2.23,2.21
+1,Avg household size of renter-occupied unit,MT,Madison,1.88,1.85,1.97,2.17,2.21,2.44,2.54,2.23,2.41,2.34
+2,FIPS Code,MT,Madison,30057,30057,30057,30057,30057,30057,30057,30057,30057,30057
+3,House Heating Fuel: Electric,MT,Madison,638,668,678,633,681,670,645,628,661,585
+4,House Heating Fuel: Fuel Oil,MT,Madison,149,138,74,63,53,46,42,57,37,57
+5,House Heating Fuel: Gas,MT,Madison,736,579,579,479,421,388,384,428,472,486
+6,House Heating Fuel: Propane,MT,Madison,1598,1480,1541,1496,1391,1306,1392,1451,1381,1561
+7,House Heating Fuel: Wood,MT,Madison,677,774,802,819,785,867,820,836,846,802
+26,Median Number of Rooms,MT,Madison,5.0,5.1,5.1,5.2,5.2,5.2,5.2,5.3,5.2,5.2
+27,Number of Rooms: 1,MT,Madison,312,301,456,468,541,476,459,383,435,468
+28,Number of Rooms: 2,MT,Madison,325,348,409,371,397,355,416,372,403,355
+29,Number of Rooms: 3,MT,Madison,708,680,617,611,601,533,597,669,689,714
+30,Number of Rooms: 4,MT,Madison,1161,1150,1067,1034,996,1061,951,971,974,1053
+31,Number of Rooms: 5,MT,Madison,1389,1299,1378,1403,1345,1413,1409,1466,1372,1339
+32,Number of Rooms: 6,MT,Madison,939,997,1053,1019,1119,1189,1143,1112,1154,1027
+33,Number of Rooms: 7,MT,Madison,775,787,730,778,801,772,797,804,736,689
+34,Number of Rooms: 8,MT,Madison,399,486,548,612,632,636,639,577,523,603
+35,Number of Rooms: 9+,MT,Madison,482,532,542,584,500,496,495,645,725,754
+36,Owner-Occupied,MT,Madison,5270,5405,5375,5588,5566,5420,5603,5797,5773,6063
+37,Renter-Occupied,MT,Madison,2227,1955,2040,1839,1888,2083,1919,1796,2136,1924
+38,Total Housing Units,MT,Madison,6490,6580,6800,6880,6932,6931,6906,6999,7011,7002
+39,Total Population,MT,Madison,7588,7654,7688,7702,7723,7767,7810,7902,8218,8302
+40,Units in Structure: 1 ATTACHED,MT,Madison,24,13,13,19,35,58,102,121,118,124
+41,Units in Structure: 1 DETACHED,MT,Madison,4669,4950,5069,5221,5142,5071,4980,5114,5073,5065
+42,Units in Structure: 10-19,MT,Madison,324,234,236,205,272,307,292,286,276,211
+43,Units in Structure: 2,MT,Madison,167,125,212,198,181,203,197,151,198,244
+44,Units in Structure: 20-49,MT,Madison,78,61,80,62,47,38,79,117,132,175
+45,Units in Structure: 3-4,MT,Madison,199,217,191,242,251,240,205,202,174,195
+46,Units in Structure: 5-9,MT,Madison,308,351,359,314,342,295,250,268,233,173
+47,Units in Structure: 50+,MT,Madison,99,112,131,126,157,176,177,175,223,180
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Madison,11,9,7,4,4,12,27,27,31,30
+49,Units in Structure: Mobile Home,MT,Madison,611,508,502,489,501,531,597,538,553,605
+50,Year Built: 1940-1949,MT,Madison,221,204,188,174,159,244,225,199,211,187
+51,Year Built: 1950-1959,MT,Madison,235,227,268,283,267,213,193,141,189,216
+52,Year Built: 1960-1969,MT,Madison,371,330,390,322,236,940,1045,1018,977,992
+53,Year Built: 1970-1979,MT,Madison,1371,1146,1102,958,988,823,769,903,852,880
+54,Year Built: 1980-1989,MT,Madison,871,758,687,833,809,1357,1394,1314,1439,1618
+55,Year Built: 1990-1999,MT,Madison,1544,1584,1667,1532,1404,2200,2128,2164,1969,1748
+56,Year Built: 2000-2009,MT,Madison,666,1069,1494,1848,2091,31,48,76,98,122
+57,Year Built: 2010-2013,MT,Madison,173,177,8,9,16,1,40,71,101,119
+58,Year Built: before 1940,MT,Madison,1038,1085,996,921,962,149,153,126,119,136
+0,Avg household size of owner-occupied unit,MT,Meagher,2.58,2.64,2.4,2.58,2.45,2.53,2.55,2.66,2.69,2.65
+1,Avg household size of renter-occupied unit,MT,Meagher,2.7,2.81,2.97,2.72,2.7,2.32,2.26,2.26,2.36,2.66
+2,FIPS Code,MT,Meagher,30059,30059,30059,30059,30059,30059,30059,30059,30059,30059
+3,House Heating Fuel: Electric,MT,Meagher,83,84,77,81,87,78,88,89,82,64
+4,House Heating Fuel: Fuel Oil,MT,Meagher,48,27,26,27,20,16,19,20,15,27
+5,House Heating Fuel: Gas,MT,Meagher,6,2,5,4,12,13,13,11,11,9
+6,House Heating Fuel: Propane,MT,Meagher,405,360,350,335,331,330,355,375,380,380
+7,House Heating Fuel: Wood,MT,Meagher,184,181,222,235,320,291,283,258,240,200
+26,Median Number of Rooms,MT,Meagher,4.4,4.5,4.7,4.7,5.0,4.9,4.9,4.9,5.2,5.2
+27,Number of Rooms: 1,MT,Meagher,92,78,67,70,65,48,53,71,61,70
+28,Number of Rooms: 2,MT,Meagher,136,152,117,124,85,90,89,93,73,86
+29,Number of Rooms: 3,MT,Meagher,145,136,167,175,132,142,162,139,109,100
+30,Number of Rooms: 4,MT,Meagher,352,310,256,236,261,256,264,269,240,229
+31,Number of Rooms: 5,MT,Meagher,266,254,258,259,259,309,297,292,308,292
+32,Number of Rooms: 6,MT,Meagher,175,145,162,145,181,145,155,168,187,183
+33,Number of Rooms: 7,MT,Meagher,97,94,123,123,134,132,166,167,197,211
+34,Number of Rooms: 8,MT,Meagher,50,67,88,97,115,100,74,87,92,86
+35,Number of Rooms: 9+,MT,Meagher,66,86,99,93,119,128,118,105,119,111
+36,Owner-Occupied,MT,Meagher,1268,1231,1221,1330,1451,1397,1369,1456,1430,1350
+37,Renter-Occupied,MT,Meagher,746,639,648,546,546,476,564,519,512,514
+38,Total Housing Units,MT,Meagher,1379,1322,1337,1322,1351,1350,1378,1391,1386,1368
+39,Total Population,MT,Meagher,2024,1900,1900,1905,2026,1898,1960,2000,1968,1888
+40,Units in Structure: 1 ATTACHED,MT,Meagher,11,9,10,10,5,3,7,6,6,7
+41,Units in Structure: 1 DETACHED,MT,Meagher,1042,989,1060,1067,1104,1114,1112,1133,1155,1135
+42,Units in Structure: 10-19,MT,Meagher,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,MT,Meagher,15,8,12,13,26,24,17,14,14,0
+44,Units in Structure: 20-49,MT,Meagher,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Meagher,18,7,4,21,22,16,29,33,18,17
+46,Units in Structure: 5-9,MT,Meagher,24,22,24,5,2,11,28,29,31,30
+47,Units in Structure: 50+,MT,Meagher,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Meagher,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Meagher,269,287,227,206,192,182,185,176,162,179
+50,Year Built: 1940-1949,MT,Meagher,70,67,80,76,62,129,151,202,203,181
+51,Year Built: 1950-1959,MT,Meagher,138,113,124,131,151,85,76,75,76,61
+52,Year Built: 1960-1969,MT,Meagher,138,105,100,110,100,275,270,221,213,251
+53,Year Built: 1970-1979,MT,Meagher,245,271,250,256,239,144,178,166,166,153
+54,Year Built: 1980-1989,MT,Meagher,188,146,139,135,135,175,161,151,191,175
+55,Year Built: 1990-1999,MT,Meagher,153,159,178,132,149,179,155,159,135,88
+56,Year Built: 2000-2009,MT,Meagher,91,126,148,170,183,8,8,20,22,32
+57,Year Built: 2010-2013,MT,Meagher,24,31,0,0,8,0,2,2,2,2
+58,Year Built: before 1940,MT,Meagher,332,304,318,312,324,60,80,70,65,72
+0,Avg household size of owner-occupied unit,MT,Mineral,2.34,2.39,2.49,2.48,2.53,2.62,2.59,2.45,2.46,2.37
+1,Avg household size of renter-occupied unit,MT,Mineral,2.46,2.41,2.54,2.66,2.89,2.8,2.5,2.41,2.37,2.25
+2,FIPS Code,MT,Mineral,30061,30061,30061,30061,30061,30061,30061,30061,30061,30061
+3,House Heating Fuel: Electric,MT,Mineral,284,302,336,320,286,273,322,334,310,323
+4,House Heating Fuel: Fuel Oil,MT,Mineral,249,234,191,133,129,103,116,145,139,114
+5,House Heating Fuel: Gas,MT,Mineral,71,63,68,48,52,37,18,17,20,16
+6,House Heating Fuel: Propane,MT,Mineral,601,548,562,553,572,592,543,521,546,570
+7,House Heating Fuel: Wood,MT,Mineral,543,561,478,563,537,554,609,668,666,746
+26,Median Number of Rooms,MT,Mineral,5.1,5.1,5.0,4.9,4.9,5.0,4.8,4.9,4.9,4.9
+27,Number of Rooms: 1,MT,Mineral,50,54,35,54,72,65,82,126,107,97
+28,Number of Rooms: 2,MT,Mineral,62,59,86,71,76,101,93,120,169,172
+29,Number of Rooms: 3,MT,Mineral,212,223,280,291,287,238,330,277,287,272
+30,Number of Rooms: 4,MT,Mineral,464,506,536,558,574,527,529,511,476,517
+31,Number of Rooms: 5,MT,Mineral,627,655,603,564,600,582,553,621,544,548
+32,Number of Rooms: 6,MT,Mineral,521,534,507,498,431,480,383,428,433,403
+33,Number of Rooms: 7,MT,Mineral,204,205,227,189,207,223,221,195,226,228
+34,Number of Rooms: 8,MT,Mineral,97,88,82,124,98,118,143,117,107,122
+35,Number of Rooms: 9+,MT,Mineral,127,87,76,95,118,123,114,108,151,145
+36,Owner-Occupied,MT,Mineral,2733,2846,2909,2862,3028,2970,2955,2930,3045,3132
+37,Renter-Occupied,MT,Mineral,1450,1255,1202,1263,1119,1200,1198,1194,1088,1047
+38,Total Housing Units,MT,Mineral,2364,2411,2432,2444,2463,2457,2448,2503,2500,2504
+39,Total Population,MT,Mineral,4193,4193,4203,4219,4230,4238,4223,4194,4211,4251
+40,Units in Structure: 1 ATTACHED,MT,Mineral,12,22,20,27,31,31,23,29,17,31
+41,Units in Structure: 1 DETACHED,MT,Mineral,1565,1693,1737,1742,1811,1806,1694,1762,1808,1778
+42,Units in Structure: 10-19,MT,Mineral,0,3,5,10,11,14,12,11,8,4
+43,Units in Structure: 2,MT,Mineral,16,3,9,21,26,23,22,18,14,22
+44,Units in Structure: 20-49,MT,Mineral,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Mineral,50,49,54,48,36,31,18,13,7,5
+46,Units in Structure: 5-9,MT,Mineral,34,64,53,24,25,36,51,46,42,59
+47,Units in Structure: 50+,MT,Mineral,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Mineral,14,0,0,0,0,0,2,2,2,2
+49,Units in Structure: Mobile Home,MT,Mineral,673,577,554,572,523,516,626,622,602,603
+50,Year Built: 1940-1949,MT,Mineral,183,203,213,157,93,189,196,234,211,195
+51,Year Built: 1950-1959,MT,Mineral,302,275,219,201,177,130,172,197,192,185
+52,Year Built: 1960-1969,MT,Mineral,186,180,140,148,185,625,697,651,670,697
+53,Year Built: 1970-1979,MT,Mineral,595,590,640,688,655,352,328,378,285,296
+54,Year Built: 1980-1989,MT,Mineral,237,265,228,307,326,353,359,371,372,355
+55,Year Built: 1990-1999,MT,Mineral,439,425,367,354,370,515,437,407,478,510
+56,Year Built: 2000-2009,MT,Mineral,126,150,369,360,433,8,28,31,25,28
+57,Year Built: 2010-2013,MT,Mineral,58,106,3,10,9,0,0,11,25,19
+58,Year Built: before 1940,MT,Mineral,238,217,253,219,215,78,68,72,62,61
+0,Avg household size of owner-occupied unit,MT,Missoula,2.53,2.55,2.53,2.52,2.49,2.49,2.49,2.47,2.51,2.51
+1,Avg household size of renter-occupied unit,MT,Missoula,2.08,2.08,2.07,2.13,2.14,2.11,2.1,2.07,2.03,2.02
+2,FIPS Code,MT,Missoula,30063,30063,30063,30063,30063,30063,30063,30063,30063,30063
+3,House Heating Fuel: Electric,MT,Missoula,9550,9859,10000,10683,11159,11373,12157,12655,13330,13397
+4,House Heating Fuel: Fuel Oil,MT,Missoula,363,315,307,243,197,211,222,240,182,269
+5,House Heating Fuel: Gas,MT,Missoula,27996,28250,28520,27870,27726,28373,27995,28376,28260,28636
+6,House Heating Fuel: Propane,MT,Missoula,3404,3658,3661,3598,3664,3549,3295,3300,3689,3969
+7,House Heating Fuel: Wood,MT,Missoula,2170,2326,2427,2432,2661,2550,2696,2689,2452,2372
+26,Median Number of Rooms,MT,Missoula,5.2,5.2,5.2,5.2,5.2,5.2,5.2,5.2,5.2,5.1
+27,Number of Rooms: 1,MT,Missoula,1199,1314,1455,1558,1706,1800,1817,2110,2105,2199
+28,Number of Rooms: 2,MT,Missoula,1753,2032,2256,2483,2652,2756,2740,2811,2755,2723
+29,Number of Rooms: 3,MT,Missoula,4978,4852,4973,4676,4823,5200,5502,6055,6464,6752
+30,Number of Rooms: 4,MT,Missoula,10182,10137,9762,10016,9506,9231,9550,9220,9250,9865
+31,Number of Rooms: 5,MT,Missoula,9669,9162,9005,9224,9286,9299,9220,8811,8577,8969
+32,Number of Rooms: 6,MT,Missoula,6281,6338,6620,6562,6625,6643,6539,6167,6359,6076
+33,Number of Rooms: 7,MT,Missoula,4932,5357,5312,5305,5297,5065,4795,5294,5453,5237
+34,Number of Rooms: 8,MT,Missoula,3829,3904,3884,3956,3855,4045,4094,4382,4269,4300
+35,Number of Rooms: 9+,MT,Missoula,6108,6512,6747,6519,6990,7017,7206,7709,8027,7834
+36,Owner-Occupied,MT,Missoula,67906,69406,68801,67361,67691,67685,68742,69844,71773,72866
+37,Renter-Occupied,MT,Missoula,36040,36816,38045,40012,40171,40901,40922,40910,40699,40987
+38,Total Housing Units,MT,Missoula,48931,49608,50014,50299,50740,51056,51463,52559,53259,53955
+39,Total Population,MT,Missoula,107288,108431,109402,110243,111011,111966,113101,114231,115983,117309
+40,Units in Structure: 1 ATTACHED,MT,Missoula,1406,1416,1486,1600,1682,1655,1765,1880,2089,2334
+41,Units in Structure: 1 DETACHED,MT,Missoula,29270,29755,29679,30345,30862,31202,31621,32138,32140,32287
+42,Units in Structure: 10-19,MT,Missoula,1871,1937,1939,1866,1997,2032,1931,2082,2209,2115
+43,Units in Structure: 2,MT,Missoula,2517,2644,2729,2780,2435,2239,2397,2454,2447,2544
+44,Units in Structure: 20-49,MT,Missoula,1471,1638,1567,1475,1610,1800,1883,1879,1937,1895
+45,Units in Structure: 3-4,MT,Missoula,3342,3296,3702,3870,3690,3745,4019,3873,3882,3756
+46,Units in Structure: 5-9,MT,Missoula,2490,2315,2095,1951,1989,1971,1963,2525,2594,2476
+47,Units in Structure: 50+,MT,Missoula,1423,1285,1312,1398,1238,1325,1334,1382,1343,1767
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Missoula,63,24,26,26,30,110,162,185,240,204
+49,Units in Structure: Mobile Home,MT,Missoula,5078,5298,5479,4988,5207,4977,4388,4161,4378,4577
+50,Year Built: 1940-1949,MT,Missoula,2537,2455,2391,2348,2016,4670,4344,4388,4638,4275
+51,Year Built: 1950-1959,MT,Missoula,3774,3964,3953,4221,4437,5108,5147,4880,5284,4955
+52,Year Built: 1960-1969,MT,Missoula,4205,4577,4587,4522,5161,10442,10341,10362,10168,10272
+53,Year Built: 1970-1979,MT,Missoula,10459,10622,10527,10496,9919,5282,5496,5534,5368,5513
+54,Year Built: 1980-1989,MT,Missoula,5434,5041,5367,5177,5209,7842,7970,8050,8055,8204
+55,Year Built: 1990-1999,MT,Missoula,8864,8620,8468,8485,8315,9209,9007,9148,9191,9081
+56,Year Built: 2000-2009,MT,Missoula,5711,5448,8848,9055,9435,822,1077,1414,1610,1709
+57,Year Built: 2010-2013,MT,Missoula,2352,3112,203,331,595,166,416,730,1349,2193
+58,Year Built: before 1940,MT,Missoula,5595,5769,5670,5664,5653,1887,2000,2219,2176,2207
+0,Avg household size of owner-occupied unit,MT,Musselshell,2.2,2.24,2.39,2.35,2.47,2.52,2.38,2.26,2.2,2.1
+1,Avg household size of renter-occupied unit,MT,Musselshell,1.91,1.94,1.88,2.38,2.15,2.19,2.34,2.34,2.55,2.35
+2,FIPS Code,MT,Musselshell,30065,30065,30065,30065,30065,30065,30065,30065,30065,30065
+3,House Heating Fuel: Electric,MT,Musselshell,199,198,208,243,250,309,301,303,329,374
+4,House Heating Fuel: Fuel Oil,MT,Musselshell,151,145,180,215,208,204,179,152,139,191
+5,House Heating Fuel: Gas,MT,Musselshell,77,44,28,41,33,34,57,49,29,82
+6,House Heating Fuel: Propane,MT,Musselshell,993,954,908,863,962,953,1039,1139,1171,1116
+7,House Heating Fuel: Wood,MT,Musselshell,447,521,509,494,422,365,324,345,324,355
+26,Median Number of Rooms,MT,Musselshell,5.0,5.0,5.1,5.2,5.3,5.3,5.4,5.4,5.3,5.4
+27,Number of Rooms: 1,MT,Musselshell,32,109,110,156,205,223,164,139,87,34
+28,Number of Rooms: 2,MT,Musselshell,85,95,72,63,65,37,38,52,58,56
+29,Number of Rooms: 3,MT,Musselshell,213,234,225,235,163,188,245,268,300,278
+30,Number of Rooms: 4,MT,Musselshell,633,553,532,464,414,526,470,489,403,475
+31,Number of Rooms: 5,MT,Musselshell,639,606,650,618,596,467,474,487,642,583
+32,Number of Rooms: 6,MT,Musselshell,357,419,369,346,389,360,368,402,405,376
+33,Number of Rooms: 7,MT,Musselshell,231,281,277,316,312,323,347,313,374,398
+34,Number of Rooms: 8,MT,Musselshell,100,125,119,159,174,232,207,220,169,211
+35,Number of Rooms: 9+,MT,Musselshell,249,185,263,305,362,352,382,374,311,322
+36,Owner-Occupied,MT,Musselshell,3425,3447,3691,3633,3604,3607,3392,3277,3259,3302
+37,Renter-Occupied,MT,Musselshell,909,859,801,1007,1085,1130,1339,1448,1515,1433
+38,Total Housing Units,MT,Musselshell,2539,2607,2617,2662,2680,2708,2695,2744,2749,2733
+39,Total Population,MT,Musselshell,4339,4426,4597,4729,4760,4790,4778,4766,4807,4766
+40,Units in Structure: 1 ATTACHED,MT,Musselshell,16,10,35,41,40,25,26,21,4,8
+41,Units in Structure: 1 DETACHED,MT,Musselshell,1898,1974,1899,1944,1983,2015,2000,2064,2190,2132
+42,Units in Structure: 10-19,MT,Musselshell,7,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,MT,Musselshell,33,38,46,20,62,58,48,44,41,0
+44,Units in Structure: 20-49,MT,Musselshell,0,0,10,12,13,13,12,5,3,2
+45,Units in Structure: 3-4,MT,Musselshell,19,29,42,76,73,69,105,100,63,105
+46,Units in Structure: 5-9,MT,Musselshell,52,57,39,26,33,36,27,30,38,13
+47,Units in Structure: 50+,MT,Musselshell,18,39,37,42,50,41,28,33,13,8
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Musselshell,0,3,3,3,6,6,17,17,16,14
+49,Units in Structure: Mobile Home,MT,Musselshell,496,457,506,498,420,445,432,430,381,451
+50,Year Built: 1940-1949,MT,Musselshell,153,154,172,177,125,164,126,133,119,184
+51,Year Built: 1950-1959,MT,Musselshell,218,190,204,202,154,99,108,120,90,89
+52,Year Built: 1960-1969,MT,Musselshell,186,190,200,118,103,507,480,464,367,398
+53,Year Built: 1970-1979,MT,Musselshell,352,404,409,470,499,289,260,281,315,248
+54,Year Built: 1980-1989,MT,Musselshell,225,239,253,243,251,280,285,299,252,387
+55,Year Built: 1990-1999,MT,Musselshell,356,366,275,283,254,292,282,333,337,326
+56,Year Built: 2000-2009,MT,Musselshell,130,152,175,234,281,44,101,78,124,127
+57,Year Built: 2010-2013,MT,Musselshell,59,82,100,99,99,12,53,60,122,124
+58,Year Built: before 1940,MT,Musselshell,860,830,829,836,914,137,156,157,135,154
+0,Avg household size of owner-occupied unit,MT,Park,2.32,2.45,2.49,2.51,2.45,2.39,2.29,2.21,2.19,2.21
+1,Avg household size of renter-occupied unit,MT,Park,1.88,1.9,2.0,2.02,2.1,1.98,1.92,1.79,1.82,1.74
+2,FIPS Code,MT,Park,30067,30067,30067,30067,30067,30067,30067,30067,30067,30067
+3,House Heating Fuel: Electric,MT,Park,1333,1279,1222,1121,1089,1213,1442,1822,2049,2300
+4,House Heating Fuel: Fuel Oil,MT,Park,143,114,120,110,96,76,72,62,61,80
+5,House Heating Fuel: Gas,MT,Park,3047,2835,2698,2675,2707,2770,2788,2708,2639,2538
+6,House Heating Fuel: Propane,MT,Park,1195,1291,1279,1263,1386,1431,1392,1379,1503,1414
+7,House Heating Fuel: Wood,MT,Park,1137,1066,1066,1119,1038,1092,1195,1295,1227,1314
+26,Median Number of Rooms,MT,Park,5.4,5.4,5.5,5.4,5.5,5.4,5.3,5.2,5.3,5.2
+27,Number of Rooms: 1,MT,Park,206,146,167,195,167,192,246,294,271,370
+28,Number of Rooms: 2,MT,Park,237,326,330,315,363,324,280,306,387,416
+29,Number of Rooms: 3,MT,Park,982,1001,865,997,927,911,985,1196,1086,1085
+30,Number of Rooms: 4,MT,Park,1509,1402,1597,1547,1650,1742,1832,1644,1702,1688
+31,Number of Rooms: 5,MT,Park,1847,1976,1756,1709,1611,1702,1707,1779,1713,1756
+32,Number of Rooms: 6,MT,Park,1511,1506,1559,1528,1587,1434,1375,1411,1558,1473
+33,Number of Rooms: 7,MT,Park,1108,1204,1284,1263,1214,1147,991,858,842,877
+34,Number of Rooms: 8,MT,Park,768,688,672,727,856,901,962,1053,892,756
+35,Number of Rooms: 9+,MT,Park,1047,1046,1099,1064,985,1014,991,983,1117,1178
+36,Owner-Occupied,MT,Park,11392,11925,11960,12149,11973,11982,11835,11827,11660,11810
+37,Renter-Occupied,MT,Park,3891,3536,3455,3246,3447,3521,3787,3935,4326,4273
+38,Total Housing Units,MT,Park,9215,9295,9329,9345,9360,9367,9369,9524,9568,9599
+39,Total Population,MT,Park,15752,15704,15655,15621,15642,15708,15843,16001,16246,16352
+40,Units in Structure: 1 ATTACHED,MT,Park,219,216,225,137,127,169,209,259,292,285
+41,Units in Structure: 1 DETACHED,MT,Park,6870,7000,7084,7250,7427,7406,7307,7393,7255,7064
+42,Units in Structure: 10-19,MT,Park,281,260,168,173,190,172,144,125,115,109
+43,Units in Structure: 2,MT,Park,182,127,183,174,223,281,317,340,332,367
+44,Units in Structure: 20-49,MT,Park,130,113,112,74,70,78,85,52,176,182
+45,Units in Structure: 3-4,MT,Park,273,317,252,262,242,207,204,288,322,412
+46,Units in Structure: 5-9,MT,Park,105,100,191,205,201,222,235,124,147,91
+47,Units in Structure: 50+,MT,Park,52,38,40,71,45,33,25,29,7,73
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Park,21,7,14,15,14,15,12,4,15,15
+49,Units in Structure: Mobile Home,MT,Park,1082,1117,1060,984,821,784,831,910,907,1001
+50,Year Built: 1940-1949,MT,Park,713,642,511,476,488,777,791,762,770,724
+51,Year Built: 1950-1959,MT,Park,777,752,799,589,663,782,724,627,605,659
+52,Year Built: 1960-1969,MT,Park,677,583,636,612,623,1321,1300,1391,1329,1227
+53,Year Built: 1970-1979,MT,Park,1440,1418,1480,1318,1230,962,960,988,933,844
+54,Year Built: 1980-1989,MT,Park,1059,1032,886,964,1061,1423,1303,1452,1516,1506
+55,Year Built: 1990-1999,MT,Park,1435,1646,1673,1630,1551,1356,1521,1512,1666,1654
+56,Year Built: 2000-2009,MT,Park,552,641,1024,1146,1273,160,193,271,284,280
+57,Year Built: 2010-2013,MT,Park,160,289,0,46,64,4,24,65,98,175
+58,Year Built: before 1940,MT,Park,2402,2292,2320,2564,2407,440,520,499,438,390
+0,Avg household size of owner-occupied unit,MT,Petroleum,2.22,2.31,2.36,2.45,2.32,2.33,2.13,2.31,2.4,2.16
+1,Avg household size of renter-occupied unit,MT,Petroleum,1.89,2.1,2.03,1.88,1.93,2.24,2.05,1.99,2.11,2.38
+2,FIPS Code,MT,Petroleum,30069,30069,30069,30069,30069,30069,30069,30069,30069,30069
+3,House Heating Fuel: Electric,MT,Petroleum,67,61,59,49,43,40,29,35,33,47
+4,House Heating Fuel: Fuel Oil,MT,Petroleum,26,29,23,14,14,10,4,1,1,1
+5,House Heating Fuel: Gas,MT,Petroleum,0,3,3,2,2,2,0,0,5,7
+6,House Heating Fuel: Propane,MT,Petroleum,127,116,102,85,86,74,115,107,108,99
+7,House Heating Fuel: Wood,MT,Petroleum,54,38,43,62,55,51,51,56,33,45
+26,Median Number of Rooms,MT,Petroleum,5.8,5.6,5.2,5.0,4.9,4.8,5.5,5.5,5.7,5.9
+27,Number of Rooms: 1,MT,Petroleum,8,8,9,8,9,7,6,8,9,8
+28,Number of Rooms: 2,MT,Petroleum,12,20,35,32,27,24,17,15,18,19
+29,Number of Rooms: 3,MT,Petroleum,3,8,14,15,19,27,23,19,22,19
+30,Number of Rooms: 4,MT,Petroleum,55,74,80,83,81,83,62,63,46,34
+31,Number of Rooms: 5,MT,Petroleum,66,54,47,59,73,47,49,50,41,46
+32,Number of Rooms: 6,MT,Petroleum,114,98,68,66,49,61,70,57,56,67
+33,Number of Rooms: 7,MT,Petroleum,41,34,41,22,27,22,45,33,50,37
+34,Number of Rooms: 8,MT,Petroleum,20,13,19,14,16,12,15,17,9,9
+35,Number of Rooms: 9+,MT,Petroleum,47,37,30,32,33,26,31,45,45,63
+36,Owner-Occupied,MT,Petroleum,430,400,444,433,383,333,275,310,303,329
+37,Renter-Occupied,MT,Petroleum,168,168,122,105,106,110,170,143,129,124
+38,Total Housing Units,MT,Petroleum,366,346,343,331,334,309,318,307,296,302
+39,Total Population,MT,Petroleum,598,568,566,538,489,443,445,453,432,453
+40,Units in Structure: 1 ATTACHED,MT,Petroleum,7,3,3,2,2,2,0,0,0,0
+41,Units in Structure: 1 DETACHED,MT,Petroleum,273,268,276,257,275,260,260,247,236,245
+42,Units in Structure: 10-19,MT,Petroleum,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,MT,Petroleum,0,0,0,0,0,0,0,0,0,0
+44,Units in Structure: 20-49,MT,Petroleum,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Petroleum,0,0,0,0,0,0,0,0,0,0
+46,Units in Structure: 5-9,MT,Petroleum,10,8,9,11,9,5,5,4,3,2
+47,Units in Structure: 50+,MT,Petroleum,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Petroleum,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Petroleum,76,67,55,61,48,42,53,56,57,55
+50,Year Built: 1940-1949,MT,Petroleum,24,24,30,20,16,13,16,12,7,9
+51,Year Built: 1950-1959,MT,Petroleum,23,25,15,18,19,32,41,32,22,23
+52,Year Built: 1960-1969,MT,Petroleum,27,28,35,39,33,36,38,37,30,27
+53,Year Built: 1970-1979,MT,Petroleum,44,36,24,26,24,35,33,41,41,38
+54,Year Built: 1980-1989,MT,Petroleum,27,25,26,30,31,22,29,13,17,17
+55,Year Built: 1990-1999,MT,Petroleum,82,60,51,36,33,36,36,35,39,31
+56,Year Built: 2000-2009,MT,Petroleum,14,14,33,44,50,1,3,10,13,12
+57,Year Built: 2010-2013,MT,Petroleum,4,10,0,0,3,0,0,8,10,13
+58,Year Built: before 1940,MT,Petroleum,121,124,129,118,125,13,17,4,2,4
+0,Avg household size of owner-occupied unit,MT,Phillips,2.26,2.4,2.32,2.43,2.39,2.4,2.41,2.34,2.22,2.32
+1,Avg household size of renter-occupied unit,MT,Phillips,2.03,2.1,2.1,1.79,1.98,1.89,1.91,2.11,2.49,2.41
+2,FIPS Code,MT,Phillips,30071,30071,30071,30071,30071,30071,30071,30071,30071,30071
+3,House Heating Fuel: Electric,MT,Phillips,145,149,158,142,177,271,255,263,258,257
+4,House Heating Fuel: Fuel Oil,MT,Phillips,7,5,5,0,2,2,5,5,9,6
+5,House Heating Fuel: Gas,MT,Phillips,1077,1028,1041,1058,1015,973,971,983,1018,1029
+6,House Heating Fuel: Propane,MT,Phillips,501,478,498,474,418,360,365,356,326,315
+7,House Heating Fuel: Wood,MT,Phillips,67,49,65,94,121,131,145,129,96,65
+26,Median Number of Rooms,MT,Phillips,5.6,5.5,5.5,5.4,5.3,5.3,5.5,5.4,5.4,5.4
+27,Number of Rooms: 1,MT,Phillips,18,36,36,18,19,27,21,27,33,41
+28,Number of Rooms: 2,MT,Phillips,10,19,13,20,20,31,41,78,102,112
+29,Number of Rooms: 3,MT,Phillips,203,228,215,230,240,238,199,190,183,234
+30,Number of Rooms: 4,MT,Phillips,370,375,377,390,423,449,394,420,363,325
+31,Number of Rooms: 5,MT,Phillips,552,520,512,537,561,527,498,513,522,507
+32,Number of Rooms: 6,MT,Phillips,340,303,369,391,331,354,441,436,465,466
+33,Number of Rooms: 7,MT,Phillips,222,249,204,205,218,237,257,278,261,207
+34,Number of Rooms: 8,MT,Phillips,273,246,233,188,224,169,161,143,137,119
+35,Number of Rooms: 9+,MT,Phillips,381,367,383,351,294,283,298,268,283,341
+36,Owner-Occupied,MT,Phillips,3107,3355,3262,3338,3213,3141,3051,2981,2994,3055
+37,Renter-Occupied,MT,Phillips,889,724,812,760,890,945,1022,1087,1054,946
+38,Total Housing Units,MT,Phillips,2369,2343,2342,2330,2330,2315,2310,2353,2349,2352
+39,Total Population,MT,Phillips,4206,4227,4203,4205,4194,4167,4150,4139,4124,4077
+40,Units in Structure: 1 ATTACHED,MT,Phillips,10,23,35,39,48,40,15,0,0,11
+41,Units in Structure: 1 DETACHED,MT,Phillips,1901,1914,1841,1836,1819,1751,1833,1879,1821,1855
+42,Units in Structure: 10-19,MT,Phillips,8,0,0,0,0,0,0,0,0,16
+43,Units in Structure: 2,MT,Phillips,5,6,7,7,19,18,18,37,35,14
+44,Units in Structure: 20-49,MT,Phillips,6,9,10,10,0,11,15,14,14,12
+45,Units in Structure: 3-4,MT,Phillips,61,68,87,88,67,74,19,7,8,0
+46,Units in Structure: 5-9,MT,Phillips,35,37,25,16,22,72,79,72,68,94
+47,Units in Structure: 50+,MT,Phillips,0,0,0,0,0,0,9,7,7,7
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Phillips,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Phillips,343,286,337,334,355,349,322,337,396,343
+50,Year Built: 1940-1949,MT,Phillips,320,335,344,362,300,287,264,327,353,306
+51,Year Built: 1950-1959,MT,Phillips,321,298,282,257,222,281,286,241,185,199
+52,Year Built: 1960-1969,MT,Phillips,210,250,266,279,307,501,529,522,489,436
+53,Year Built: 1970-1979,MT,Phillips,378,380,410,409,477,291,260,254,283,225
+54,Year Built: 1980-1989,MT,Phillips,391,277,278,240,219,93,107,95,179,225
+55,Year Built: 1990-1999,MT,Phillips,143,118,124,117,97,117,141,165,165,157
+56,Year Built: 2000-2009,MT,Phillips,53,41,103,136,135,0,22,29,31,32
+57,Year Built: 2010-2013,MT,Phillips,33,38,0,0,0,1,6,5,28,25
+58,Year Built: before 1940,MT,Phillips,520,606,535,530,573,189,163,159,114,131
+0,Avg household size of owner-occupied unit,MT,Pondera,2.56,2.65,2.52,2.46,2.52,2.55,2.55,2.58,2.69,2.71
+1,Avg household size of renter-occupied unit,MT,Pondera,2.87,2.6,2.57,2.63,2.52,2.44,2.65,2.69,2.93,2.87
+2,FIPS Code,MT,Pondera,30073,30073,30073,30073,30073,30073,30073,30073,30073,30073
+3,House Heating Fuel: Electric,MT,Pondera,328,361,362,361,309,308,300,375,335,355
+4,House Heating Fuel: Fuel Oil,MT,Pondera,54,62,70,65,64,80,63,53,36,39
+5,House Heating Fuel: Gas,MT,Pondera,1273,1216,1212,1161,1211,1224,1228,1222,1238,1210
+6,House Heating Fuel: Propane,MT,Pondera,500,417,445,426,428,420,426,385,413,410
+7,House Heating Fuel: Wood,MT,Pondera,122,157,144,152,162,154,136,116,85,80
+26,Median Number of Rooms,MT,Pondera,5.5,5.5,5.6,5.7,5.7,5.7,5.7,5.6,5.5,5.5
+27,Number of Rooms: 1,MT,Pondera,43,36,62,62,49,45,41,31,22,43
+28,Number of Rooms: 2,MT,Pondera,73,98,116,77,69,61,31,31,39,52
+29,Number of Rooms: 3,MT,Pondera,177,165,161,185,172,150,152,146,137,126
+30,Number of Rooms: 4,MT,Pondera,433,419,407,449,473,501,508,555,581,516
+31,Number of Rooms: 5,MT,Pondera,603,613,524,482,462,443,466,517,541,617
+32,Number of Rooms: 6,MT,Pondera,508,463,479,473,506,491,491,475,412,391
+33,Number of Rooms: 7,MT,Pondera,384,353,325,313,303,290,291,305,341,310
+34,Number of Rooms: 8,MT,Pondera,145,174,206,206,202,217,240,232,241,251
+35,Number of Rooms: 9+,MT,Pondera,330,350,394,407,423,439,419,386,363,386
+36,Owner-Occupied,MT,Pondera,4137,4250,3950,3917,3993,4045,4049,4132,4184,4252
+37,Renter-Occupied,MT,Pondera,1997,1717,1895,1873,1820,1734,1733,1654,1629,1534
+38,Total Housing Units,MT,Pondera,2696,2671,2674,2654,2659,2637,2639,2678,2677,2692
+39,Total Population,MT,Pondera,6145,6165,6147,6166,6211,6206,6166,6081,6044,5994
+40,Units in Structure: 1 ATTACHED,MT,Pondera,49,45,48,33,50,55,55,53,63,51
+41,Units in Structure: 1 DETACHED,MT,Pondera,2026,2078,2006,2045,2072,2049,2038,2098,1953,1977
+42,Units in Structure: 10-19,MT,Pondera,21,26,31,28,38,49,27,32,47,44
+43,Units in Structure: 2,MT,Pondera,89,71,75,47,43,42,32,41,38,34
+44,Units in Structure: 20-49,MT,Pondera,48,33,45,51,47,51,58,52,52,44
+45,Units in Structure: 3-4,MT,Pondera,18,16,32,26,23,17,24,16,41,42
+46,Units in Structure: 5-9,MT,Pondera,146,107,102,95,63,48,59,61,53,53
+47,Units in Structure: 50+,MT,Pondera,28,43,40,44,39,52,23,31,50,53
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Pondera,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Pondera,271,252,295,285,284,274,323,294,380,394
+50,Year Built: 1940-1949,MT,Pondera,302,296,273,316,322,331,395,446,579,607
+51,Year Built: 1950-1959,MT,Pondera,391,387,349,336,356,247,199,213,203,256
+52,Year Built: 1960-1969,MT,Pondera,297,286,302,303,243,560,528,542,500,451
+53,Year Built: 1970-1979,MT,Pondera,460,480,453,451,505,297,272,297,280,256
+54,Year Built: 1980-1989,MT,Pondera,259,285,294,274,284,139,173,155,195,200
+55,Year Built: 1990-1999,MT,Pondera,236,189,207,201,160,114,94,88,76,83
+56,Year Built: 2000-2009,MT,Pondera,22,41,126,148,126,17,53,53,55,71
+57,Year Built: 2010-2013,MT,Pondera,63,76,7,9,17,0,1,20,31,30
+58,Year Built: before 1940,MT,Pondera,666,631,663,616,646,334,332,306,252,262
+0,Avg household size of owner-occupied unit,MT,Powder River,2.43,2.31,2.33,2.23,2.15,2.11,2.1,2.1,2.09,2.13
+1,Avg household size of renter-occupied unit,MT,Powder River,2.34,2.32,2.25,2.34,2.41,2.37,2.23,1.94,1.93,2.08
+2,FIPS Code,MT,Powder River,30075,30075,30075,30075,30075,30075,30075,30075,30075,30075
+3,House Heating Fuel: Electric,MT,Powder River,153,188,171,213,204,199,192,171,173,161
+4,House Heating Fuel: Fuel Oil,MT,Powder River,3,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,MT,Powder River,10,12,5,4,2,13,15,25,27,28
+6,House Heating Fuel: Propane,MT,Powder River,370,349,367,351,404,408,405,430,436,429
+7,House Heating Fuel: Wood,MT,Powder River,95,86,97,95,72,83,82,82,86,74
+26,Median Number of Rooms,MT,Powder River,5.6,5.7,5.7,5.5,5.7,5.4,5.3,5.2,5.2,5.4
+27,Number of Rooms: 1,MT,Powder River,23,34,54,59,44,51,39,15,19,18
+28,Number of Rooms: 2,MT,Powder River,57,66,55,49,22,11,11,14,12,15
+29,Number of Rooms: 3,MT,Powder River,55,38,47,82,88,114,136,156,148,142
+30,Number of Rooms: 4,MT,Powder River,155,154,134,109,122,128,140,155,166,128
+31,Number of Rooms: 5,MT,Powder River,195,187,185,212,210,228,251,255,234,223
+32,Number of Rooms: 6,MT,Powder River,161,169,163,129,137,125,106,108,133,193
+33,Number of Rooms: 7,MT,Powder River,152,163,198,190,172,152,147,117,98,111
+34,Number of Rooms: 8,MT,Powder River,94,96,93,89,101,83,77,59,63,52
+35,Number of Rooms: 9+,MT,Powder River,98,104,85,97,129,129,128,169,159,121
+36,Owner-Occupied,MT,Powder River,1109,1114,1193,1122,1116,1110,1033,1027,1162,1174
+37,Renter-Occupied,MT,Powder River,540,509,409,507,550,545,568,536,409,389
+38,Total Housing Units,MT,Powder River,990,1011,1014,1016,1025,1021,1035,1048,1032,1003
+39,Total Population,MT,Powder River,1659,1656,1639,1669,1710,1703,1648,1610,1619,1607
+40,Units in Structure: 1 ATTACHED,MT,Powder River,5,15,16,20,16,10,0,0,0,0
+41,Units in Structure: 1 DETACHED,MT,Powder River,693,743,748,749,740,740,732,728,719,694
+42,Units in Structure: 10-19,MT,Powder River,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,MT,Powder River,9,9,15,14,18,19,24,7,0,0
+44,Units in Structure: 20-49,MT,Powder River,0,0,0,0,0,0,0,0,0,3
+45,Units in Structure: 3-4,MT,Powder River,23,21,19,23,21,19,31,27,32,25
+46,Units in Structure: 5-9,MT,Powder River,0,0,0,5,6,6,5,8,6,3
+47,Units in Structure: 50+,MT,Powder River,10,8,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Powder River,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Powder River,250,215,216,205,224,227,243,278,275,278
+50,Year Built: 1940-1949,MT,Powder River,105,118,126,117,90,115,96,105,103,112
+51,Year Built: 1950-1959,MT,Powder River,143,169,173,174,151,103,106,137,137,147
+52,Year Built: 1960-1969,MT,Powder River,81,100,82,66,85,213,229,239,204,186
+53,Year Built: 1970-1979,MT,Powder River,221,213,197,220,232,131,151,138,176,161
+54,Year Built: 1980-1989,MT,Powder River,143,135,128,120,116,94,115,126,102,126
+55,Year Built: 1990-1999,MT,Powder River,86,59,77,102,104,83,89,65,79,75
+56,Year Built: 2000-2009,MT,Powder River,46,56,69,53,72,28,25,24,19,19
+57,Year Built: 2010-2013,MT,Powder River,5,5,5,6,11,0,0,0,8,22
+58,Year Built: before 1940,MT,Powder River,160,156,157,158,164,79,50,48,29,25
+0,Avg household size of owner-occupied unit,MT,Powell,2.4,2.32,2.31,2.36,2.31,2.22,2.3,2.2,2.21,2.22
+1,Avg household size of renter-occupied unit,MT,Powell,2.35,2.63,2.42,2.2,2.24,2.32,2.13,2.13,2.17,2.02
+2,FIPS Code,MT,Powell,30077,30077,30077,30077,30077,30077,30077,30077,30077,30077
+3,House Heating Fuel: Electric,MT,Powell,215,300,321,307,328,218,231,266,274,293
+4,House Heating Fuel: Fuel Oil,MT,Powell,50,40,47,23,37,29,33,29,29,52
+5,House Heating Fuel: Gas,MT,Powell,1206,1135,1168,1243,1239,1314,1315,1290,1313,1317
+6,House Heating Fuel: Propane,MT,Powell,418,390,350,299,273,244,240,363,360,340
+7,House Heating Fuel: Wood,MT,Powell,468,435,416,428,442,492,480,431,390,399
+26,Median Number of Rooms,MT,Powell,5.3,5.4,5.4,5.4,5.2,5.2,5.3,5.2,5.3,5.4
+27,Number of Rooms: 1,MT,Powell,61,74,98,138,162,176,206,192,141,136
+28,Number of Rooms: 2,MT,Powell,100,118,125,128,132,83,87,118,115,115
+29,Number of Rooms: 3,MT,Powell,193,213,204,263,330,349,342,333,285,269
+30,Number of Rooms: 4,MT,Powell,594,561,552,477,488,476,476,503,527,520
+31,Number of Rooms: 5,MT,Powell,730,660,642,588,583,625,540,619,682,650
+32,Number of Rooms: 6,MT,Powell,367,478,442,457,479,426,464,547,523,457
+33,Number of Rooms: 7,MT,Powell,348,377,388,379,321,315,282,215,256,334
+34,Number of Rooms: 8,MT,Powell,258,242,261,290,260,260,268,272,231,214
+35,Number of Rooms: 9+,MT,Powell,428,374,382,373,342,380,425,370,436,508
+36,Owner-Occupied,MT,Powell,4294,4070,3999,4064,3911,3646,3724,3648,3611,3617
+37,Renter-Occupied,MT,Powell,1432,1611,1644,1513,1586,1705,1579,1574,1635,1612
+38,Total Housing Units,MT,Powell,3079,3097,3094,3093,3097,3090,3090,3169,3196,3203
+39,Total Population,MT,Powell,7077,7068,7067,7052,7010,6975,6928,6852,6861,6854
+40,Units in Structure: 1 ATTACHED,MT,Powell,6,13,19,24,22,20,14,13,7,25
+41,Units in Structure: 1 DETACHED,MT,Powell,2452,2516,2431,2416,2382,2441,2473,2637,2661,2672
+42,Units in Structure: 10-19,MT,Powell,30,18,31,41,37,49,47,29,12,15
+43,Units in Structure: 2,MT,Powell,69,73,101,97,129,105,66,53,74,48
+44,Units in Structure: 20-49,MT,Powell,40,27,34,26,19,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Powell,56,32,47,28,29,9,9,24,27,29
+46,Units in Structure: 5-9,MT,Powell,60,41,39,40,11,17,57,58,62,109
+47,Units in Structure: 50+,MT,Powell,0,0,0,0,0,0,0,0,0,6
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Powell,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Powell,366,377,392,421,468,449,424,355,353,299
+50,Year Built: 1940-1949,MT,Powell,372,378,364,348,323,287,244,337,389,401
+51,Year Built: 1950-1959,MT,Powell,294,315,351,321,298,243,242,214,210,197
+52,Year Built: 1960-1969,MT,Powell,227,232,243,289,268,567,565,444,466,454
+53,Year Built: 1970-1979,MT,Powell,725,623,547,582,555,208,234,218,190,196
+54,Year Built: 1980-1989,MT,Powell,166,183,187,194,214,290,298,291,277,243
+55,Year Built: 1990-1999,MT,Powell,378,407,388,332,349,291,340,378,365,468
+56,Year Built: 2000-2009,MT,Powell,112,131,210,242,209,18,39,39,39,53
+57,Year Built: 2010-2013,MT,Powell,35,44,2,3,3,0,0,0,0,7
+58,Year Built: before 1940,MT,Powell,770,784,802,782,878,297,244,247,265,347
+0,Avg household size of owner-occupied unit,MT,Prairie,2.23,2.29,2.31,2.38,2.45,2.48,2.5,2.44,2.51,2.33
+1,Avg household size of renter-occupied unit,MT,Prairie,1.77,1.58,1.76,1.86,2.01,2.29,2.66,1.82,2.0,2.58
+2,FIPS Code,MT,Prairie,30079,30079,30079,30079,30079,30079,30079,30079,30079,30079
+3,House Heating Fuel: Electric,MT,Prairie,52,50,74,94,117,134,127,107,108,95
+4,House Heating Fuel: Fuel Oil,MT,Prairie,10,18,16,12,10,9,7,5,7,11
+5,House Heating Fuel: Gas,MT,Prairie,259,261,258,239,235,232,211,214,196,175
+6,House Heating Fuel: Propane,MT,Prairie,145,143,136,117,133,127,148,159,167,176
+7,House Heating Fuel: Wood,MT,Prairie,14,13,31,31,24,39,52,49,45,40
+26,Median Number of Rooms,MT,Prairie,5.5,5.4,5.5,5.5,5.5,5.5,5.5,5.4,5.4,5.3
+27,Number of Rooms: 1,MT,Prairie,9,9,9,15,6,7,7,7,0,0
+28,Number of Rooms: 2,MT,Prairie,24,31,22,22,21,4,0,13,11,13
+29,Number of Rooms: 3,MT,Prairie,23,13,10,6,8,12,11,13,22,14
+30,Number of Rooms: 4,MT,Prairie,126,140,128,120,114,114,100,146,142,154
+31,Number of Rooms: 5,MT,Prairie,166,153,157,166,178,209,211,174,201,193
+32,Number of Rooms: 6,MT,Prairie,106,106,119,124,123,135,142,119,109,96
+33,Number of Rooms: 7,MT,Prairie,76,62,70,70,77,62,64,66,55,52
+34,Number of Rooms: 8,MT,Prairie,102,89,72,69,68,64,51,56,68,83
+35,Number of Rooms: 9+,MT,Prairie,58,61,66,59,53,66,78,85,89,85
+36,Owner-Occupied,MT,Prairie,964,946,1035,1039,1119,1245,1265,1189,1177,1015
+37,Renter-Occupied,MT,Prairie,115,123,134,123,139,103,125,113,142,214
+38,Total Housing Units,MT,Prairie,690,664,653,651,648,673,664,679,697,690
+39,Total Population,MT,Prairie,1089,1093,1193,1186,1282,1372,1414,1325,1342,1252
+40,Units in Structure: 1 ATTACHED,MT,Prairie,0,0,0,0,0,0,0,0,0,0
+41,Units in Structure: 1 DETACHED,MT,Prairie,578,567,553,540,537,562,571,563,563,524
+42,Units in Structure: 10-19,MT,Prairie,9,9,9,9,0,0,0,0,0,0
+43,Units in Structure: 2,MT,Prairie,0,0,0,0,0,0,0,0,0,11
+44,Units in Structure: 20-49,MT,Prairie,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Prairie,19,9,9,0,0,0,0,0,7,7
+46,Units in Structure: 5-9,MT,Prairie,15,16,8,10,9,0,0,13,11,13
+47,Units in Structure: 50+,MT,Prairie,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Prairie,0,0,0,0,0,0,0,0,10,13
+49,Units in Structure: Mobile Home,MT,Prairie,69,63,74,92,102,111,93,103,106,122
+50,Year Built: 1940-1949,MT,Prairie,133,128,83,61,45,103,97,92,83,80
+51,Year Built: 1950-1959,MT,Prairie,88,80,102,96,86,45,40,60,69,58
+52,Year Built: 1960-1969,MT,Prairie,37,37,37,36,40,110,103,110,116,99
+53,Year Built: 1970-1979,MT,Prairie,102,88,74,85,115,59,47,48,43,36
+54,Year Built: 1980-1989,MT,Prairie,47,54,63,58,45,50,52,42,28,24
+55,Year Built: 1990-1999,MT,Prairie,32,29,40,51,63,25,34,37,20,45
+56,Year Built: 2000-2009,MT,Prairie,29,6,17,30,29,0,0,7,17,19
+57,Year Built: 2010-2013,MT,Prairie,6,4,0,0,0,0,0,0,0,0
+58,Year Built: before 1940,MT,Prairie,216,238,237,234,225,50,40,43,58,66
+0,Avg household size of owner-occupied unit,MT,Ravalli,2.36,2.42,2.43,2.42,2.4,2.45,2.46,2.47,2.48,2.51
+1,Avg household size of renter-occupied unit,MT,Ravalli,2.3,2.25,2.26,2.26,2.36,2.4,2.38,2.29,2.26,2.16
+2,FIPS Code,MT,Ravalli,30081,30081,30081,30081,30081,30081,30081,30081,30081,30081
+3,House Heating Fuel: Electric,MT,Ravalli,2579,2671,2955,3018,2772,3080,3108,3172,3392,3373
+4,House Heating Fuel: Fuel Oil,MT,Ravalli,213,146,77,111,137,142,133,168,157,174
+5,House Heating Fuel: Gas,MT,Ravalli,6571,6632,6343,6418,6800,6962,7027,6859,6820,6663
+6,House Heating Fuel: Propane,MT,Ravalli,3505,3563,3652,3501,3541,3206,3120,3419,3443,3594
+7,House Heating Fuel: Wood,MT,Ravalli,3528,3430,3438,3532,3350,3013,3061,2911,2970,3238
+26,Median Number of Rooms,MT,Ravalli,5.5,5.4,5.4,5.3,5.4,5.4,5.4,5.5,5.5,5.5
+27,Number of Rooms: 1,MT,Ravalli,289,490,526,559,521,496,326,371,530,569
+28,Number of Rooms: 2,MT,Ravalli,794,880,940,903,889,826,724,615,550,723
+29,Number of Rooms: 3,MT,Ravalli,1334,1353,1380,1465,1576,1489,1350,1319,1476,1429
+30,Number of Rooms: 4,MT,Ravalli,2907,3096,3321,3758,3670,3666,3932,3616,3242,3064
+31,Number of Rooms: 5,MT,Ravalli,4343,4200,3778,3772,3668,3772,3668,3871,3948,3964
+32,Number of Rooms: 6,MT,Ravalli,3492,3219,3222,3221,3328,3206,3366,3684,3684,3493
+33,Number of Rooms: 7,MT,Ravalli,2005,2037,2092,2052,2156,1933,1900,2026,2018,2032
+34,Number of Rooms: 8,MT,Ravalli,1685,1690,1820,1668,1679,1811,1923,1896,1867,1895
+35,Number of Rooms: 9+,MT,Ravalli,2153,2354,2361,2113,2102,2367,2353,2390,2481,2647
+36,Owner-Occupied,MT,Ravalli,30630,30787,30432,29681,28879,28337,29747,30994,32344,33277
+37,Renter-Occupied,MT,Ravalli,8429,8829,9375,10314,11403,12187,11077,10071,9233,8908
+38,Total Housing Units,MT,Ravalli,19002,19319,19440,19511,19589,19566,19542,19788,19796,19816
+39,Total Population,MT,Ravalli,40013,40199,40311,40423,40640,40823,41130,41387,41902,42512
+40,Units in Structure: 1 ATTACHED,MT,Ravalli,357,391,458,397,409,449,541,515,423,407
+41,Units in Structure: 1 DETACHED,MT,Ravalli,14711,14598,14539,14366,14547,14587,14991,15199,15569,15558
+42,Units in Structure: 10-19,MT,Ravalli,160,153,157,184,151,176,220,251,242,278
+43,Units in Structure: 2,MT,Ravalli,338,507,532,589,628,696,522,512,468,386
+44,Units in Structure: 20-49,MT,Ravalli,92,162,219,264,259,263,234,195,115,105
+45,Units in Structure: 3-4,MT,Ravalli,385,445,388,463,519,588,524,604,533,659
+46,Units in Structure: 5-9,MT,Ravalli,170,241,192,228,226,216,222,244,206,190
+47,Units in Structure: 50+,MT,Ravalli,172,144,102,125,87,127,109,135,145,146
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Ravalli,25,33,22,25,19,19,2,21,107,103
+49,Units in Structure: Mobile Home,MT,Ravalli,2592,2645,2831,2870,2744,2445,2177,2112,1988,1984
+50,Year Built: 1940-1949,MT,Ravalli,690,603,558,542,591,933,916,839,922,930
+51,Year Built: 1950-1959,MT,Ravalli,1203,1061,1192,1180,974,983,973,1025,1107,1240
+52,Year Built: 1960-1969,MT,Ravalli,1063,983,1006,982,901,3566,3488,3653,3702,3744
+53,Year Built: 1970-1979,MT,Ravalli,3839,3876,3859,3621,3595,2264,2470,2549,2706,2734
+54,Year Built: 1980-1989,MT,Ravalli,2633,2519,2498,2358,2296,4721,4378,4325,3888,3708
+55,Year Built: 1990-1999,MT,Ravalli,4639,4933,4619,4751,4833,4171,4114,3936,3822,3631
+56,Year Built: 2000-2009,MT,Ravalli,2118,2324,3767,4093,4403,197,306,371,465,511
+57,Year Built: 2010-2013,MT,Ravalli,762,973,29,42,89,0,23,70,173,356
+58,Year Built: before 1940,MT,Ravalli,2055,2047,1912,1942,1907,585,640,613,642,629
+0,Avg household size of owner-occupied unit,MT,Richland,2.34,2.45,2.48,2.53,2.57,2.57,2.51,2.56,2.61,2.62
+1,Avg household size of renter-occupied unit,MT,Richland,1.98,2.09,2.1,2.1,2.28,2.39,2.46,2.42,2.35,2.14
+2,FIPS Code,MT,Richland,30083,30083,30083,30083,30083,30083,30083,30083,30083,30083
+3,House Heating Fuel: Electric,MT,Richland,690,602,727,729,778,940,1051,1166,1201,1332
+4,House Heating Fuel: Fuel Oil,MT,Richland,8,6,5,10,11,19,29,27,29,17
+5,House Heating Fuel: Gas,MT,Richland,2429,2622,2680,2748,2683,2656,2676,2586,2540,2511
+6,House Heating Fuel: Propane,MT,Richland,768,716,588,564,634,624,615,641,633,578
+7,House Heating Fuel: Wood,MT,Richland,118,92,66,75,55,70,64,55,40,49
+26,Median Number of Rooms,MT,Richland,5.8,5.8,5.8,5.8,5.8,5.6,5.5,5.6,5.6,5.6
+27,Number of Rooms: 1,MT,Richland,0,19,20,23,35,70,60,177,228,293
+28,Number of Rooms: 2,MT,Richland,117,80,98,125,87,47,51,37,18,59
+29,Number of Rooms: 3,MT,Richland,407,411,367,396,375,292,357,390,333,358
+30,Number of Rooms: 4,MT,Richland,587,614,673,657,776,935,961,898,935,826
+31,Number of Rooms: 5,MT,Richland,953,927,940,950,926,1011,1071,1039,999,1023
+32,Number of Rooms: 6,MT,Richland,599,685,656,602,653,707,657,745,749,694
+33,Number of Rooms: 7,MT,Richland,530,419,448,478,571,579,529,537,630,573
+34,Number of Rooms: 8,MT,Richland,480,545,516,521,484,454,483,491,483,483
+35,Number of Rooms: 9+,MT,Richland,859,845,911,954,887,821,863,843,828,939
+36,Owner-Occupied,MT,Richland,6340,6915,7021,7468,7443,7286,7184,7242,7435,7837
+37,Renter-Occupied,MT,Richland,2703,2643,2843,2771,3178,3793,4150,4100,3859,3296
+38,Total Housing Units,MT,Richland,4532,4545,4629,4706,4794,4916,5032,5157,5203,5248
+39,Total Population,MT,Richland,9498,9669,9961,10318,10686,11132,11392,11405,11360,11199
+40,Units in Structure: 1 ATTACHED,MT,Richland,45,26,55,96,77,75,99,98,66,81
+41,Units in Structure: 1 DETACHED,MT,Richland,3270,3339,3325,3410,3378,3411,3376,3372,3451,3490
+42,Units in Structure: 10-19,MT,Richland,25,41,52,62,46,47,64,50,42,54
+43,Units in Structure: 2,MT,Richland,164,122,145,82,84,72,61,60,89,73
+44,Units in Structure: 20-49,MT,Richland,63,35,34,34,12,17,71,107,112,214
+45,Units in Structure: 3-4,MT,Richland,127,185,177,177,256,278,273,235,218,218
+46,Units in Structure: 5-9,MT,Richland,278,198,203,168,204,202,229,269,282,227
+47,Units in Structure: 50+,MT,Richland,55,66,79,94,66,91,76,107,79,68
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Richland,0,0,0,0,11,11,10,8,5,0
+49,Units in Structure: Mobile Home,MT,Richland,505,533,559,583,660,712,773,851,859,823
+50,Year Built: 1940-1949,MT,Richland,411,409,341,362,312,672,658,578,606,633
+51,Year Built: 1950-1959,MT,Richland,746,813,806,717,666,425,373,435,395,393
+52,Year Built: 1960-1969,MT,Richland,308,382,392,409,422,1099,1262,1249,1196,1202
+53,Year Built: 1970-1979,MT,Richland,1083,941,988,1033,995,719,680,624,659,652
+54,Year Built: 1980-1989,MT,Richland,753,799,888,742,763,220,203,253,231,324
+55,Year Built: 1990-1999,MT,Richland,356,272,297,289,284,289,270,339,341,328
+56,Year Built: 2000-2009,MT,Richland,96,123,205,255,290,284,441,501,558,605
+57,Year Built: 2010-2013,MT,Richland,51,71,17,57,203,43,40,83,117,197
+58,Year Built: before 1940,MT,Richland,728,735,695,842,859,272,268,271,286,241
+0,Avg household size of owner-occupied unit,MT,Roosevelt,3.09,3.11,3.08,3.15,3.33,3.35,3.37,3.38,3.38,3.32
+1,Avg household size of renter-occupied unit,MT,Roosevelt,2.91,2.91,3.17,3.29,3.47,3.8,3.57,3.48,3.61,3.7
+2,FIPS Code,MT,Roosevelt,30085,30085,30085,30085,30085,30085,30085,30085,30085,30085
+3,House Heating Fuel: Electric,MT,Roosevelt,429,368,347,445,553,691,854,915,964,846
+4,House Heating Fuel: Fuel Oil,MT,Roosevelt,43,30,29,18,21,30,28,25,22,21
+5,House Heating Fuel: Gas,MT,Roosevelt,1770,1882,1962,1927,1763,1654,1584,1601,1502,1533
+6,House Heating Fuel: Propane,MT,Roosevelt,1007,964,894,807,736,637,648,606,617,694
+7,House Heating Fuel: Wood,MT,Roosevelt,80,51,33,33,35,21,20,28,27,22
+26,Median Number of Rooms,MT,Roosevelt,5.3,5.3,5.4,5.4,5.3,5.2,5.2,5.3,5.3,5.5
+27,Number of Rooms: 1,MT,Roosevelt,7,26,27,32,36,41,35,64,65,57
+28,Number of Rooms: 2,MT,Roosevelt,28,41,62,42,57,60,68,49,69,52
+29,Number of Rooms: 3,MT,Roosevelt,272,255,239,266,266,280,286,238,205,165
+30,Number of Rooms: 4,MT,Roosevelt,759,839,847,887,919,973,902,852,849,724
+31,Number of Rooms: 5,MT,Roosevelt,1180,1087,988,929,933,990,1031,1142,1109,1119
+32,Number of Rooms: 6,MT,Roosevelt,787,724,725,799,842,763,816,867,858,952
+33,Number of Rooms: 7,MT,Roosevelt,408,410,438,393,318,293,271,281,286,363
+34,Number of Rooms: 8,MT,Roosevelt,309,334,372,350,321,246,271,243,236,270
+35,Number of Rooms: 9+,MT,Roosevelt,312,354,376,376,397,421,402,388,446,432
+36,Owner-Occupied,MT,Roosevelt,6627,6491,6249,6049,6247,6018,5998,6255,6557,6575
+37,Renter-Occupied,MT,Roosevelt,3567,3637,4036,4416,4398,4818,4981,4703,4401,4328
+38,Total Housing Units,MT,Roosevelt,4062,4070,4074,4074,4089,4067,4082,4124,4123,4134
+39,Total Population,MT,Roosevelt,10273,10323,10477,10665,10861,11072,11230,11218,11228,11175
+40,Units in Structure: 1 ATTACHED,MT,Roosevelt,47,48,20,17,8,8,9,8,13,57
+41,Units in Structure: 1 DETACHED,MT,Roosevelt,3270,3200,3246,3246,3332,3282,3290,3382,3371,3313
+42,Units in Structure: 10-19,MT,Roosevelt,37,40,37,56,72,72,96,83,69,51
+43,Units in Structure: 2,MT,Roosevelt,117,92,87,92,85,90,93,89,58,43
+44,Units in Structure: 20-49,MT,Roosevelt,3,9,21,23,32,42,49,42,53,55
+45,Units in Structure: 3-4,MT,Roosevelt,83,100,94,107,88,79,57,64,112,126
+46,Units in Structure: 5-9,MT,Roosevelt,36,37,41,60,35,49,55,44,42,58
+47,Units in Structure: 50+,MT,Roosevelt,0,5,4,5,5,4,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Roosevelt,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Roosevelt,469,539,524,468,432,441,433,412,405,431
+50,Year Built: 1940-1949,MT,Roosevelt,545,529,494,328,292,761,665,660,650,547
+51,Year Built: 1950-1959,MT,Roosevelt,866,892,887,882,877,774,752,690,674,599
+52,Year Built: 1960-1969,MT,Roosevelt,581,631,645,707,709,1103,1028,1060,897,1007
+53,Year Built: 1970-1979,MT,Roosevelt,706,820,823,940,999,414,501,555,600,627
+54,Year Built: 1980-1989,MT,Roosevelt,522,459,394,401,391,168,198,200,241,237
+55,Year Built: 1990-1999,MT,Roosevelt,205,166,205,195,188,137,142,173,149,153
+56,Year Built: 2000-2009,MT,Roosevelt,40,43,82,108,132,25,32,60,68,66
+57,Year Built: 2010-2013,MT,Roosevelt,30,36,1,2,18,6,24,50,47,58
+58,Year Built: before 1940,MT,Roosevelt,567,494,543,511,483,281,272,246,237,275
+0,Avg household size of owner-occupied unit,MT,Rosebud,2.83,2.87,2.77,2.83,2.8,2.79,2.75,2.75,2.81,2.75
+1,Avg household size of renter-occupied unit,MT,Rosebud,2.74,2.6,2.84,2.81,2.74,2.85,3.15,3.18,3.16,3.11
+2,FIPS Code,MT,Rosebud,30087,30087,30087,30087,30087,30087,30087,30087,30087,30087
+3,House Heating Fuel: Electric,MT,Rosebud,1015,1065,1022,1049,1130,1091,1137,1161,1086,1144
+4,House Heating Fuel: Fuel Oil,MT,Rosebud,12,23,19,22,21,18,3,4,11,10
+5,House Heating Fuel: Gas,MT,Rosebud,707,792,765,759,801,771,726,734,700,678
+6,House Heating Fuel: Propane,MT,Rosebud,1129,1027,1090,1097,1042,1033,996,886,970,965
+7,House Heating Fuel: Wood,MT,Rosebud,180,201,214,171,175,210,192,216,215,208
+26,Median Number of Rooms,MT,Rosebud,5.2,5.1,5.1,5.2,5.3,5.3,5.5,5.6,5.6,5.8
+27,Number of Rooms: 1,MT,Rosebud,27,90,84,104,105,122,121,157,226,226
+28,Number of Rooms: 2,MT,Rosebud,118,146,83,111,100,95,72,118,98,94
+29,Number of Rooms: 3,MT,Rosebud,301,292,358,310,271,286,274,196,172,124
+30,Number of Rooms: 4,MT,Rosebud,730,671,703,663,687,659,597,592,632,545
+31,Number of Rooms: 5,MT,Rosebud,1179,1288,1288,1249,1183,1129,1015,941,904,884
+32,Number of Rooms: 6,MT,Rosebud,604,605,682,704,714,731,783,822,807,825
+33,Number of Rooms: 7,MT,Rosebud,409,397,354,334,336,347,428,487,520,690
+34,Number of Rooms: 8,MT,Rosebud,361,272,259,274,375,319,324,342,294,224
+35,Number of Rooms: 9+,MT,Rosebud,300,288,264,321,339,417,490,525,527,547
+36,Owner-Occupied,MT,Rosebud,6438,6425,6260,6336,6279,6308,6319,6368,6278,6025
+37,Renter-Occupied,MT,Rosebud,2612,2689,2918,2895,2973,2961,2947,2840,2883,3037
+38,Total Housing Units,MT,Rosebud,4029,4049,4075,4070,4110,4105,4104,4180,4180,4159
+39,Total Population,MT,Rosebud,9134,9200,9261,9310,9335,9352,9348,9292,9250,9152
+40,Units in Structure: 1 ATTACHED,MT,Rosebud,27,54,67,97,107,103,98,102,115,120
+41,Units in Structure: 1 DETACHED,MT,Rosebud,2773,2667,2631,2630,2730,2794,2857,2915,2804,2741
+42,Units in Structure: 10-19,MT,Rosebud,21,28,25,24,28,25,12,14,13,0
+43,Units in Structure: 2,MT,Rosebud,152,159,150,150,146,137,108,96,107,83
+44,Units in Structure: 20-49,MT,Rosebud,70,79,75,101,90,88,71,81,43,52
+45,Units in Structure: 3-4,MT,Rosebud,222,178,187,197,183,137,193,163,177,168
+46,Units in Structure: 5-9,MT,Rosebud,81,94,78,72,44,40,21,27,65,77
+47,Units in Structure: 50+,MT,Rosebud,0,6,5,8,7,7,3,3,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Rosebud,0,0,0,0,0,0,0,17,20,19
+49,Units in Structure: Mobile Home,MT,Rosebud,683,784,857,791,775,774,741,762,836,899
+50,Year Built: 1940-1949,MT,Rosebud,120,120,141,164,162,223,216,230,255,223
+51,Year Built: 1950-1959,MT,Rosebud,300,274,254,186,163,344,361,411,365,295
+52,Year Built: 1960-1969,MT,Rosebud,343,308,266,268,280,1325,1366,1332,1358,1283
+53,Year Built: 1970-1979,MT,Rosebud,1217,1290,1289,1226,1329,793,729,814,821,926
+54,Year Built: 1980-1989,MT,Rosebud,908,908,863,926,922,286,292,262,278,372
+55,Year Built: 1990-1999,MT,Rosebud,347,342,399,372,308,338,354,356,349,401
+56,Year Built: 2000-2009,MT,Rosebud,67,64,242,332,354,85,79,85,80,54
+57,Year Built: 2010-2013,MT,Rosebud,52,109,19,29,62,0,0,30,16,12
+58,Year Built: before 1940,MT,Rosebud,675,634,602,567,530,184,196,148,156,140
+0,Avg household size of owner-occupied unit,MT,Sanders,2.18,2.21,2.1,2.12,2.07,2.17,2.16,2.22,2.27,2.3
+1,Avg household size of renter-occupied unit,MT,Sanders,2.23,2.16,2.31,2.34,2.44,2.31,2.37,2.31,2.32,2.17
+2,FIPS Code,MT,Sanders,30089,30089,30089,30089,30089,30089,30089,30089,30089,30089
+3,House Heating Fuel: Electric,MT,Sanders,983,1050,1169,1177,1280,1223,1228,1186,1135,1034
+4,House Heating Fuel: Fuel Oil,MT,Sanders,440,370,381,331,301,249,244,263,270,253
+5,House Heating Fuel: Gas,MT,Sanders,84,94,55,54,40,25,31,102,98,133
+6,House Heating Fuel: Propane,MT,Sanders,1479,1427,1449,1341,1430,1469,1482,1460,1687,1854
+7,House Heating Fuel: Wood,MT,Sanders,2107,2100,2108,2207,2052,2017,2007,1960,1725,1735
+26,Median Number of Rooms,MT,Sanders,4.8,4.7,4.7,4.8,4.8,4.9,4.9,5.0,5.0,5.1
+27,Number of Rooms: 1,MT,Sanders,74,78,138,181,195,203,225,255,289,296
+28,Number of Rooms: 2,MT,Sanders,320,344,383,330,294,273,204,195,218,229
+29,Number of Rooms: 3,MT,Sanders,962,1018,964,830,729,681,624,685,743,741
+30,Number of Rooms: 4,MT,Sanders,1426,1513,1466,1463,1464,1375,1328,1273,1111,1043
+31,Number of Rooms: 5,MT,Sanders,1287,1376,1526,1767,1963,2082,2104,2011,1878,1801
+32,Number of Rooms: 6,MT,Sanders,1132,1002,856,900,1030,1057,1131,1315,1318,1244
+33,Number of Rooms: 7,MT,Sanders,566,564,557,479,436,449,465,429,529,616
+34,Number of Rooms: 8,MT,Sanders,300,329,349,343,251,248,194,169,247,329
+35,Number of Rooms: 9+,MT,Sanders,367,348,381,347,323,294,378,422,436,463
+36,Owner-Occupied,MT,Sanders,8750,8651,8478,8348,7989,8073,8242,8391,8591,8994
+37,Renter-Occupied,MT,Sanders,2451,2523,2708,2822,3161,3051,2906,2791,2693,2449
+38,Total Housing Units,MT,Sanders,6434,6572,6620,6640,6685,6662,6653,6754,6769,6762
+39,Total Population,MT,Sanders,11366,11421,11421,11400,11373,11346,11375,11414,11521,11681
+40,Units in Structure: 1 ATTACHED,MT,Sanders,37,38,32,19,33,34,35,33,56,31
+41,Units in Structure: 1 DETACHED,MT,Sanders,4867,5047,5141,5147,5307,5224,5242,5397,5385,5381
+42,Units in Structure: 10-19,MT,Sanders,0,3,7,10,14,20,23,14,12,6
+43,Units in Structure: 2,MT,Sanders,108,123,111,106,108,120,128,96,124,123
+44,Units in Structure: 20-49,MT,Sanders,15,11,9,7,9,11,8,7,5,5
+45,Units in Structure: 3-4,MT,Sanders,127,140,139,163,107,108,105,87,67,40
+46,Units in Structure: 5-9,MT,Sanders,80,78,75,70,76,83,61,63,67,68
+47,Units in Structure: 50+,MT,Sanders,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Sanders,10,8,18,16,8,7,8,0,1,1
+49,Units in Structure: Mobile Home,MT,Sanders,1190,1124,1088,1102,1023,1055,1043,1057,1052,1107
+50,Year Built: 1940-1949,MT,Sanders,343,379,371,382,389,584,593,588,546,611
+51,Year Built: 1950-1959,MT,Sanders,550,576,579,576,531,392,458,377,335,403
+52,Year Built: 1960-1969,MT,Sanders,413,306,367,409,422,1082,1115,1048,1085,994
+53,Year Built: 1970-1979,MT,Sanders,1263,1167,1035,965,995,1016,965,970,891,976
+54,Year Built: 1980-1989,MT,Sanders,1035,1020,1073,1068,1053,995,1059,1013,1072,1047
+55,Year Built: 1990-1999,MT,Sanders,1117,1169,1163,1142,1044,1504,1467,1561,1555,1389
+56,Year Built: 2000-2009,MT,Sanders,398,472,1052,1215,1506,81,94,130,164,209
+57,Year Built: 2010-2013,MT,Sanders,230,356,25,29,39,3,10,51,73,79
+58,Year Built: before 1940,MT,Sanders,1085,1127,955,854,706,376,323,338,368,332
+0,Avg household size of owner-occupied unit,MT,Sheridan,2.05,2.07,2.2,2.23,2.27,2.31,2.33,2.22,2.19,2.11
+1,Avg household size of renter-occupied unit,MT,Sheridan,1.63,1.66,1.78,1.7,1.63,1.69,1.74,1.71,1.88,1.93
+2,FIPS Code,MT,Sheridan,30091,30091,30091,30091,30091,30091,30091,30091,30091,30091
+3,House Heating Fuel: Electric,MT,Sheridan,433,476,511,557,538,575,554,545,523,499
+4,House Heating Fuel: Fuel Oil,MT,Sheridan,276,236,214,171,179,179,171,163,153,160
+5,House Heating Fuel: Gas,MT,Sheridan,42,46,41,17,46,50,55,69,53,73
+6,House Heating Fuel: Propane,MT,Sheridan,825,836,754,781,784,781,783,797,785,796
+7,House Heating Fuel: Wood,MT,Sheridan,27,25,28,33,28,26,15,7,35,23
+26,Median Number of Rooms,MT,Sheridan,6.0,6.1,6.0,6.1,6.1,6.1,6.2,6.2,6.0,5.9
+27,Number of Rooms: 1,MT,Sheridan,18,20,22,23,16,17,22,52,81,79
+28,Number of Rooms: 2,MT,Sheridan,77,53,52,46,8,12,14,1,1,2
+29,Number of Rooms: 3,MT,Sheridan,152,143,119,142,142,125,103,110,127,117
+30,Number of Rooms: 4,MT,Sheridan,242,298,331,337,399,379,286,291,242,237
+31,Number of Rooms: 5,MT,Sheridan,392,327,374,338,340,365,435,435,473,489
+32,Number of Rooms: 6,MT,Sheridan,347,345,297,278,253,242,253,271,329,366
+33,Number of Rooms: 7,MT,Sheridan,301,301,325,304,288,243,272,261,237,255
+34,Number of Rooms: 8,MT,Sheridan,224,253,197,233,215,227,235,260,190,191
+35,Number of Rooms: 9+,MT,Sheridan,348,382,397,400,429,497,475,469,492,425
+36,Owner-Occupied,MT,Sheridan,2581,2580,2533,2671,2712,2872,2888,2796,2792,2726
+37,Renter-Occupied,MT,Sheridan,677,730,807,701,703,670,671,684,696,671
+38,Total Housing Units,MT,Sheridan,2101,2122,2114,2101,2090,2107,2095,2150,2172,2161
+39,Total Population,MT,Sheridan,3505,3426,3447,3473,3510,3630,3645,3568,3574,3483
+40,Units in Structure: 1 ATTACHED,MT,Sheridan,24,14,10,13,6,6,6,2,6,6
+41,Units in Structure: 1 DETACHED,MT,Sheridan,1639,1657,1700,1700,1756,1785,1808,1873,1832,1786
+42,Units in Structure: 10-19,MT,Sheridan,18,9,11,40,60,60,43,54,25,17
+43,Units in Structure: 2,MT,Sheridan,13,27,35,24,22,23,13,5,21,33
+44,Units in Structure: 20-49,MT,Sheridan,30,33,16,13,13,6,7,8,17,19
+45,Units in Structure: 3-4,MT,Sheridan,93,89,85,53,40,56,51,49,47,76
+46,Units in Structure: 5-9,MT,Sheridan,88,98,114,123,90,67,44,34,64,62
+47,Units in Structure: 50+,MT,Sheridan,6,7,8,6,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Sheridan,0,0,0,0,0,4,5,6,7,9
+49,Units in Structure: Mobile Home,MT,Sheridan,190,188,135,129,103,100,118,119,153,153
+50,Year Built: 1940-1949,MT,Sheridan,281,305,289,265,270,356,332,382,357,335
+51,Year Built: 1950-1959,MT,Sheridan,288,296,278,305,303,277,305,300,289,318
+52,Year Built: 1960-1969,MT,Sheridan,336,233,229,245,273,321,344,333,332,270
+53,Year Built: 1970-1979,MT,Sheridan,283,312,304,285,282,255,212,228,237,217
+54,Year Built: 1980-1989,MT,Sheridan,223,268,267,295,285,71,72,35,41,53
+55,Year Built: 1990-1999,MT,Sheridan,116,77,97,100,73,122,84,85,124,113
+56,Year Built: 2000-2009,MT,Sheridan,30,47,111,115,131,30,44,53,64,102
+57,Year Built: 2010-2013,MT,Sheridan,11,57,11,11,21,7,13,16,16,20
+58,Year Built: before 1940,MT,Sheridan,533,527,528,480,452,222,191,183,209,216
+0,Avg household size of owner-occupied unit,MT,Silver Bow,2.37,2.36,2.35,2.31,2.3,2.34,2.37,2.32,2.35,2.42
+1,Avg household size of renter-occupied unit,MT,Silver Bow,1.83,1.86,1.96,2.02,1.99,2.0,2.03,1.94,1.97,1.83
+2,FIPS Code,MT,Silver Bow,30093,30093,30093,30093,30093,30093,30093,30093,30093,30093
+3,House Heating Fuel: Electric,MT,Silver Bow,1731,1773,1802,1747,1598,1633,1844,2122,2494,2742
+4,House Heating Fuel: Fuel Oil,MT,Silver Bow,52,84,57,53,61,65,16,3,24,26
+5,House Heating Fuel: Gas,MT,Silver Bow,11804,11865,11814,11975,12328,12173,11823,11947,11261,10841
+6,House Heating Fuel: Propane,MT,Silver Bow,573,553,583,573,600,636,589,525,568,575
+7,House Heating Fuel: Wood,MT,Silver Bow,508,536,502,552,527,522,499,567,690,674
+26,Median Number of Rooms,MT,Silver Bow,5.2,5.2,5.3,5.3,5.2,5.3,5.4,5.3,5.3,5.4
+27,Number of Rooms: 1,MT,Silver Bow,614,738,754,570,627,636,798,864,955,980
+28,Number of Rooms: 2,MT,Silver Bow,295,405,332,404,322,326,213,229,266,355
+29,Number of Rooms: 3,MT,Silver Bow,1528,1388,1356,1291,1526,1454,1480,1621,1720,1448
+30,Number of Rooms: 4,MT,Silver Bow,3503,3341,3169,3349,3380,3238,2837,3298,2945,2875
+31,Number of Rooms: 5,MT,Silver Bow,3348,3320,3284,3427,3444,3578,3608,3371,3223,3152
+32,Number of Rooms: 6,MT,Silver Bow,2361,2226,2603,2478,2587,2689,2928,2792,2948,2752
+33,Number of Rooms: 7,MT,Silver Bow,1725,1856,1795,1807,1805,1861,1645,1606,1564,1706
+34,Number of Rooms: 8,MT,Silver Bow,1457,1488,1411,1337,1232,1244,1390,1522,1723,1839
+35,Number of Rooms: 9+,MT,Silver Bow,1804,1913,2019,2066,1851,1750,1913,1785,1806,2135
+36,Owner-Occupied,MT,Silver Bow,23161,23192,23104,22753,22501,22881,23312,23531,23767,24977
+37,Renter-Occupied,MT,Silver Bow,9284,9627,9952,10495,10942,10684,10279,9907,9877,8523
+38,Total Housing Units,MT,Silver Bow,16635,16675,16723,16729,16774,16776,16812,17088,17150,17242
+39,Total Population,MT,Silver Bow,33797,33985,34164,34322,34462,34549,34560,34514,34814,34770
+40,Units in Structure: 1 ATTACHED,MT,Silver Bow,163,165,157,170,248,200,191,211,230,258
+41,Units in Structure: 1 DETACHED,MT,Silver Bow,11894,12080,11991,12000,11770,11889,11901,11956,12082,12458
+42,Units in Structure: 10-19,MT,Silver Bow,453,379,371,466,505,429,468,512,525,426
+43,Units in Structure: 2,MT,Silver Bow,599,537,714,728,803,695,672,603,507,381
+44,Units in Structure: 20-49,MT,Silver Bow,437,539,541,430,426,490,488,533,590,620
+45,Units in Structure: 3-4,MT,Silver Bow,927,797,864,903,996,962,1029,928,886,736
+46,Units in Structure: 5-9,MT,Silver Bow,665,679,549,502,490,436,488,626,653,649
+47,Units in Structure: 50+,MT,Silver Bow,564,559,508,496,464,447,345,357,444,540
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Silver Bow,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Silver Bow,933,940,1028,1034,1072,1228,1230,1362,1233,1174
+50,Year Built: 1940-1949,MT,Silver Bow,1277,1193,1227,1280,1152,2168,2098,2222,2090,2144
+51,Year Built: 1950-1959,MT,Silver Bow,1938,2007,2094,2179,2080,1034,1164,1241,1464,1752
+52,Year Built: 1960-1969,MT,Silver Bow,1330,1327,1240,1243,1177,2473,2433,2500,2385,2242
+53,Year Built: 1970-1979,MT,Silver Bow,1920,1858,2102,2225,2310,812,679,627,590,751
+54,Year Built: 1980-1989,MT,Silver Bow,1004,1137,1094,1063,809,1344,1421,1399,1387,1317
+55,Year Built: 1990-1999,MT,Silver Bow,1477,1400,1337,1264,1295,1187,1221,1227,1297,1091
+56,Year Built: 2000-2009,MT,Silver Bow,421,428,819,901,1160,319,375,452,414,343
+57,Year Built: 2010-2013,MT,Silver Bow,216,329,67,99,220,10,12,36,97,146
+58,Year Built: before 1940,MT,Silver Bow,7052,6996,6743,6475,6571,1035,985,916,854,919
+0,Avg household size of owner-occupied unit,MT,Stillwater,2.38,2.37,2.38,2.41,2.42,2.41,2.41,2.44,2.58,2.56
+1,Avg household size of renter-occupied unit,MT,Stillwater,2.34,2.29,2.35,2.35,2.49,2.59,2.53,2.37,2.2,2.17
+2,FIPS Code,MT,Stillwater,30095,30095,30095,30095,30095,30095,30095,30095,30095,30095
+3,House Heating Fuel: Electric,MT,Stillwater,559,466,416,354,367,368,429,453,504,446
+4,House Heating Fuel: Fuel Oil,MT,Stillwater,35,39,28,25,30,50,45,55,51,50
+5,House Heating Fuel: Gas,MT,Stillwater,1867,1897,1867,1894,1945,1877,1841,1851,1754,1800
+6,House Heating Fuel: Propane,MT,Stillwater,853,836,873,923,844,910,955,969,930,997
+7,House Heating Fuel: Wood,MT,Stillwater,352,411,464,468,443,464,435,386,394,384
+26,Median Number of Rooms,MT,Stillwater,5.3,5.3,5.4,5.5,5.4,5.5,5.5,5.5,5.6,5.7
+27,Number of Rooms: 1,MT,Stillwater,139,155,145,120,166,168,167,192,202,117
+28,Number of Rooms: 2,MT,Stillwater,121,137,147,209,244,221,223,225,205,151
+29,Number of Rooms: 3,MT,Stillwater,297,322,315,318,351,388,388,406,421,414
+30,Number of Rooms: 4,MT,Stillwater,694,738,659,602,615,604,719,642,650,638
+31,Number of Rooms: 5,MT,Stillwater,1293,1230,1227,1114,1095,1052,954,964,911,893
+32,Number of Rooms: 6,MT,Stillwater,744,735,710,682,694,761,734,812,852,962
+33,Number of Rooms: 7,MT,Stillwater,591,557,528,675,586,560,585,633,527,631
+34,Number of Rooms: 8,MT,Stillwater,378,404,453,424,389,459,422,419,449,475
+35,Number of Rooms: 9+,MT,Stillwater,405,466,584,640,669,604,619,585,660,585
+36,Owner-Occupied,MT,Stillwater,6702,6758,6973,7232,7100,7232,7207,7210,7601,7770
+37,Renter-Occupied,MT,Stillwater,2187,2064,1943,1777,1964,1917,2000,1997,1680,1573
+38,Total Housing Units,MT,Stillwater,4662,4744,4768,4784,4809,4817,4811,4878,4877,4866
+39,Total Population,MT,Stillwater,8934,9026,9096,9173,9214,9288,9342,9342,9410,9466
+40,Units in Structure: 1 ATTACHED,MT,Stillwater,60,126,118,116,75,76,49,62,35,62
+41,Units in Structure: 1 DETACHED,MT,Stillwater,3768,3787,3851,3978,3984,3948,3989,3985,3980,3964
+42,Units in Structure: 10-19,MT,Stillwater,6,19,30,29,43,43,47,28,27,16
+43,Units in Structure: 2,MT,Stillwater,12,16,16,27,30,47,46,50,50,53
+44,Units in Structure: 20-49,MT,Stillwater,22,23,23,16,29,34,35,62,54,26
+45,Units in Structure: 3-4,MT,Stillwater,75,68,61,19,31,40,58,79,87,73
+46,Units in Structure: 5-9,MT,Stillwater,55,47,26,19,44,47,29,40,50,38
+47,Units in Structure: 50+,MT,Stillwater,12,10,11,11,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Stillwater,0,0,0,1,3,4,3,5,4,4
+49,Units in Structure: Mobile Home,MT,Stillwater,652,648,632,568,570,578,555,567,590,630
+50,Year Built: 1940-1949,MT,Stillwater,371,355,363,353,311,372,387,414,390,330
+51,Year Built: 1950-1959,MT,Stillwater,377,314,289,297,362,312,351,363,339,302
+52,Year Built: 1960-1969,MT,Stillwater,253,238,214,285,338,507,497,555,584,581
+53,Year Built: 1970-1979,MT,Stillwater,736,739,657,620,562,647,658,584,611,625
+54,Year Built: 1980-1989,MT,Stillwater,639,529,572,542,612,726,713,764,825,811
+55,Year Built: 1990-1999,MT,Stillwater,740,802,808,798,749,981,973,962,936,855
+56,Year Built: 2000-2009,MT,Stillwater,288,380,852,912,983,96,131,162,182,191
+57,Year Built: 2010-2013,MT,Stillwater,265,342,16,54,69,10,18,26,33,142
+58,Year Built: before 1940,MT,Stillwater,993,1045,997,923,823,282,283,221,214,308
+0,Avg household size of owner-occupied unit,MT,Sweet Grass,2.36,2.3,2.69,2.69,2.57,2.55,2.49,2.43,2.27,2.3
+1,Avg household size of renter-occupied unit,MT,Sweet Grass,2.72,2.5,3.17,2.86,2.63,2.56,2.5,2.18,2.56,2.41
+2,FIPS Code,MT,Sweet Grass,30097,30097,30097,30097,30097,30097,30097,30097,30097,30097
+3,House Heating Fuel: Electric,MT,Sweet Grass,158,102,98,157,168,193,259,320,352,362
+4,House Heating Fuel: Fuel Oil,MT,Sweet Grass,39,53,38,40,41,25,19,23,13,14
+5,House Heating Fuel: Gas,MT,Sweet Grass,750,807,628,593,644,673,649,697,724,693
+6,House Heating Fuel: Propane,MT,Sweet Grass,287,292,253,246,264,274,269,280,278,304
+7,House Heating Fuel: Wood,MT,Sweet Grass,251,221,202,196,192,179,192,180,167,183
+26,Median Number of Rooms,MT,Sweet Grass,5.6,5.6,5.7,5.7,5.8,5.6,5.5,5.4,5.3,5.1
+27,Number of Rooms: 1,MT,Sweet Grass,115,115,105,67,33,48,40,56,63,73
+28,Number of Rooms: 2,MT,Sweet Grass,26,39,44,56,52,84,98,115,101,101
+29,Number of Rooms: 3,MT,Sweet Grass,209,201,154,169,163,179,217,247,211,267
+30,Number of Rooms: 4,MT,Sweet Grass,308,303,285,284,296,314,332,348,417,443
+31,Number of Rooms: 5,MT,Sweet Grass,448,450,335,343,335,331,319,346,384,371
+32,Number of Rooms: 6,MT,Sweet Grass,445,482,471,398,370,342,318,319,345,357
+33,Number of Rooms: 7,MT,Sweet Grass,263,248,230,267,291,260,265,289,174,156
+34,Number of Rooms: 8,MT,Sweet Grass,238,227,173,170,148,146,153,194,195,194
+35,Number of Rooms: 9+,MT,Sweet Grass,207,257,255,269,304,291,274,249,275,247
+36,Owner-Occupied,MT,Sweet Grass,2893,2683,2562,2559,2585,2612,2647,2775,2618,2603
+37,Renter-Occupied,MT,Sweet Grass,768,881,992,1007,987,990,960,848,1014,1045
+38,Total Housing Units,MT,Sweet Grass,2259,2322,2052,2023,1992,1995,2016,2163,2165,2209
+39,Total Population,MT,Sweet Grass,3717,3702,3661,3640,3622,3633,3634,3646,3653,3670
+40,Units in Structure: 1 ATTACHED,MT,Sweet Grass,37,32,34,34,62,55,52,57,43,24
+41,Units in Structure: 1 DETACHED,MT,Sweet Grass,1852,1885,1663,1665,1633,1569,1588,1703,1748,1741
+42,Units in Structure: 10-19,MT,Sweet Grass,0,0,0,0,0,20,17,22,26,42
+43,Units in Structure: 2,MT,Sweet Grass,34,32,23,6,0,24,43,48,54,53
+44,Units in Structure: 20-49,MT,Sweet Grass,3,3,2,4,4,3,3,3,0,0
+45,Units in Structure: 3-4,MT,Sweet Grass,50,60,80,81,86,79,62,61,50,66
+46,Units in Structure: 5-9,MT,Sweet Grass,34,40,41,35,29,28,55,64,64,81
+47,Units in Structure: 50+,MT,Sweet Grass,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Sweet Grass,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Sweet Grass,249,270,209,198,178,217,196,205,180,202
+50,Year Built: 1940-1949,MT,Sweet Grass,161,146,98,112,106,174,160,144,181,188
+51,Year Built: 1950-1959,MT,Sweet Grass,154,197,210,175,157,120,149,135,145,128
+52,Year Built: 1960-1969,MT,Sweet Grass,199,171,138,125,129,249,261,368,342,374
+53,Year Built: 1970-1979,MT,Sweet Grass,284,281,232,250,272,180,175,198,189,232
+54,Year Built: 1980-1989,MT,Sweet Grass,300,280,211,186,172,336,354,395,362,351
+55,Year Built: 1990-1999,MT,Sweet Grass,259,262,209,282,321,402,431,401,407,396
+56,Year Built: 2000-2009,MT,Sweet Grass,166,212,330,330,363,11,11,12,15,5
+57,Year Built: 2010-2013,MT,Sweet Grass,28,51,0,6,11,0,0,0,52,50
+58,Year Built: before 1940,MT,Sweet Grass,708,722,624,557,461,75,77,74,74,59
+0,Avg household size of owner-occupied unit,MT,Teton,2.42,2.46,2.46,2.52,2.5,2.47,2.43,2.43,2.34,2.34
+1,Avg household size of renter-occupied unit,MT,Teton,2.46,2.47,2.39,2.51,2.4,2.57,2.46,2.43,2.48,2.5
+2,FIPS Code,MT,Teton,30099,30099,30099,30099,30099,30099,30099,30099,30099,30099
+3,House Heating Fuel: Electric,MT,Teton,149,183,247,284,293,332,342,338,321,345
+4,House Heating Fuel: Fuel Oil,MT,Teton,214,200,178,149,117,120,110,119,94,82
+5,House Heating Fuel: Gas,MT,Teton,1177,1116,1125,1047,1049,997,1045,1000,1066,1062
+6,House Heating Fuel: Propane,MT,Teton,747,736,646,571,567,550,553,658,728,783
+7,House Heating Fuel: Wood,MT,Teton,126,148,144,157,183,201,215,200,214,167
+26,Median Number of Rooms,MT,Teton,5.7,5.8,5.7,5.5,5.5,5.6,5.5,5.5,5.6,5.8
+27,Number of Rooms: 1,MT,Teton,22,31,76,118,132,120,121,92,47,32
+28,Number of Rooms: 2,MT,Teton,61,71,74,104,101,107,95,95,82,78
+29,Number of Rooms: 3,MT,Teton,140,166,141,132,132,150,162,183,210,199
+30,Number of Rooms: 4,MT,Teton,409,403,451,494,467,442,441,479,462,446
+31,Number of Rooms: 5,MT,Teton,680,613,618,570,598,576,609,610,618,571
+32,Number of Rooms: 6,MT,Teton,585,606,536,522,552,548,470,475,501,487
+33,Number of Rooms: 7,MT,Teton,411,410,393,335,331,330,352,354,371,393
+34,Number of Rooms: 8,MT,Teton,231,235,231,229,227,278,270,243,287,308
+35,Number of Rooms: 9+,MT,Teton,367,370,383,363,353,326,362,387,352,405
+36,Owner-Occupied,MT,Teton,4503,4605,4523,4405,4453,4239,4073,4081,4033,4036
+37,Renter-Occupied,MT,Teton,1469,1318,1314,1389,1341,1542,1766,1773,1859,1855
+38,Total Housing Units,MT,Teton,2906,2905,2903,2867,2893,2877,2882,2918,2930,2919
+39,Total Population,MT,Teton,6105,6103,6082,6063,6075,6074,6067,6040,6080,6086
+40,Units in Structure: 1 ATTACHED,MT,Teton,51,56,52,48,42,25,28,32,37,43
+41,Units in Structure: 1 DETACHED,MT,Teton,2296,2285,2268,2207,2272,2274,2294,2345,2389,2438
+42,Units in Structure: 10-19,MT,Teton,11,16,17,18,30,42,43,50,48,37
+43,Units in Structure: 2,MT,Teton,34,28,17,4,15,17,22,29,34,20
+44,Units in Structure: 20-49,MT,Teton,0,0,3,23,23,25,31,36,25,29
+45,Units in Structure: 3-4,MT,Teton,59,38,31,43,30,30,47,28,22,32
+46,Units in Structure: 5-9,MT,Teton,92,107,126,120,82,97,74,57,49,36
+47,Units in Structure: 50+,MT,Teton,25,34,31,37,38,31,40,56,42,40
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Teton,2,2,0,0,0,0,0,2,1,3
+49,Units in Structure: Mobile Home,MT,Teton,336,339,358,367,361,336,303,283,283,241
+50,Year Built: 1940-1949,MT,Teton,401,351,277,231,238,325,323,331,353,341
+51,Year Built: 1950-1959,MT,Teton,476,467,429,379,392,308,323,269,287,299
+52,Year Built: 1960-1969,MT,Teton,229,244,279,263,271,536,491,410,387,365
+53,Year Built: 1970-1979,MT,Teton,540,553,600,594,552,275,274,285,249,280
+54,Year Built: 1980-1989,MT,Teton,220,242,282,283,274,288,264,298,318,280
+55,Year Built: 1990-1999,MT,Teton,299,241,246,265,244,186,199,230,252,231
+56,Year Built: 2000-2009,MT,Teton,102,119,197,200,209,22,11,20,15,34
+57,Year Built: 2010-2013,MT,Teton,48,74,14,14,21,0,0,0,9,7
+58,Year Built: before 1940,MT,Teton,591,614,579,638,692,233,283,286,300,259
+0,Avg household size of owner-occupied unit,MT,Toole,2.29,2.28,2.25,2.35,2.28,2.35,2.36,2.38,2.45,2.32
+1,Avg household size of renter-occupied unit,MT,Toole,1.95,1.97,1.98,2.2,2.12,2.07,2.1,2.15,1.95,2.1
+2,FIPS Code,MT,Toole,30101,30101,30101,30101,30101,30101,30101,30101,30101,30101
+3,House Heating Fuel: Electric,MT,Toole,604,605,673,600,647,677,676,657,637,521
+4,House Heating Fuel: Fuel Oil,MT,Toole,108,89,122,113,106,38,51,31,49,43
+5,House Heating Fuel: Gas,MT,Toole,1057,1074,1030,997,944,895,846,877,888,1031
+6,House Heating Fuel: Propane,MT,Toole,154,143,138,147,192,240,221,183,206,205
+7,House Heating Fuel: Wood,MT,Toole,56,87,40,22,51,68,71,73,87,37
+26,Median Number of Rooms,MT,Toole,5.6,5.6,5.6,5.7,5.7,5.6,5.9,5.7,5.5,5.7
+27,Number of Rooms: 1,MT,Toole,24,27,56,137,122,118,124,121,83,83
+28,Number of Rooms: 2,MT,Toole,56,54,37,43,52,56,89,49,85,117
+29,Number of Rooms: 3,MT,Toole,378,248,246,148,200,190,157,189,270,184
+30,Number of Rooms: 4,MT,Toole,288,431,422,378,399,420,304,406,415,381
+31,Number of Rooms: 5,MT,Toole,342,388,375,391,357,356,357,350,351,352
+32,Number of Rooms: 6,MT,Toole,351,362,324,273,261,303,320,317,352,419
+33,Number of Rooms: 7,MT,Toole,270,220,219,274,301,253,292,265,203,274
+34,Number of Rooms: 8,MT,Toole,164,179,183,244,244,298,349,355,291,228
+35,Number of Rooms: 9+,MT,Toole,403,425,473,442,405,344,354,321,326,331
+36,Owner-Occupied,MT,Toole,2887,3076,3002,2875,2751,2799,2677,2589,2686,2572
+37,Renter-Occupied,MT,Toole,1433,1351,1393,1550,1664,1620,1670,1685,1562,1589
+38,Total Housing Units,MT,Toole,2276,2334,2335,2330,2341,2338,2346,2373,2376,2369
+39,Total Population,MT,Toole,5143,5176,5210,5224,5208,5150,5114,5031,4976,4892
+40,Units in Structure: 1 ATTACHED,MT,Toole,19,57,48,49,38,33,20,18,15,10
+41,Units in Structure: 1 DETACHED,MT,Toole,1790,1745,1727,1660,1630,1588,1657,1682,1641,1633
+42,Units in Structure: 10-19,MT,Toole,73,115,148,135,151,124,74,61,110,121
+43,Units in Structure: 2,MT,Toole,31,23,45,35,24,29,43,15,15,0
+44,Units in Structure: 20-49,MT,Toole,78,42,5,68,77,86,101,110,59,60
+45,Units in Structure: 3-4,MT,Toole,27,22,23,11,65,62,73,149,195,157
+46,Units in Structure: 5-9,MT,Toole,92,70,79,91,82,117,134,120,120,108
+47,Units in Structure: 50+,MT,Toole,0,0,0,7,8,6,6,5,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Toole,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Toole,166,260,260,274,266,293,238,213,221,280
+50,Year Built: 1940-1949,MT,Toole,308,245,185,269,301,492,520,490,397,366
+51,Year Built: 1950-1959,MT,Toole,377,393,486,451,468,239,239,203,165,147
+52,Year Built: 1960-1969,MT,Toole,127,188,220,217,218,332,242,271,311,382
+53,Year Built: 1970-1979,MT,Toole,411,459,482,448,377,346,326,324,339,258
+54,Year Built: 1980-1989,MT,Toole,311,304,255,303,376,149,216,239,189,202
+55,Year Built: 1990-1999,MT,Toole,176,129,117,127,137,96,94,84,86,80
+56,Year Built: 2000-2009,MT,Toole,39,31,53,63,71,4,5,5,69,64
+57,Year Built: 2010-2013,MT,Toole,1,1,2,4,9,0,5,7,11,26
+58,Year Built: before 1940,MT,Toole,526,584,535,448,384,321,290,276,290,310
+0,Avg household size of owner-occupied unit,MT,Treasure,2.48,2.33,2.04,2.02,2.12,2.04,2.04,1.92,1.79,1.62
+1,Avg household size of renter-occupied unit,MT,Treasure,3.03,3.28,2.17,2.42,2.45,2.77,2.71,2.71,2.82,2.51
+2,FIPS Code,MT,Treasure,30103,30103,30103,30103,30103,30103,30103,30103,30103,30103
+3,House Heating Fuel: Electric,MT,Treasure,113,131,139,119,127,117,130,136,128,134
+4,House Heating Fuel: Fuel Oil,MT,Treasure,2,4,6,7,5,6,3,1,2,1
+5,House Heating Fuel: Gas,MT,Treasure,10,9,5,14,8,10,15,14,8,6
+6,House Heating Fuel: Propane,MT,Treasure,137,119,138,147,157,173,176,168,162,152
+7,House Heating Fuel: Wood,MT,Treasure,34,32,21,14,16,21,17,20,28,20
+26,Median Number of Rooms,MT,Treasure,5.2,5.2,5.2,5.2,5.3,5.5,5.6,5.8,5.9,6.0
+27,Number of Rooms: 1,MT,Treasure,5,5,11,11,9,4,6,2,3,2
+28,Number of Rooms: 2,MT,Treasure,4,0,8,12,9,11,11,3,7,11
+29,Number of Rooms: 3,MT,Treasure,26,34,27,19,24,30,25,27,23,16
+30,Number of Rooms: 4,MT,Treasure,84,64,62,64,61,47,66,59,62,53
+31,Number of Rooms: 5,MT,Treasure,121,139,170,160,134,130,111,109,92,92
+32,Number of Rooms: 6,MT,Treasure,76,79,72,69,75,81,90,99,114,131
+33,Number of Rooms: 7,MT,Treasure,48,40,46,47,49,49,48,54,50,46
+34,Number of Rooms: 8,MT,Treasure,40,31,22,22,23,30,36,39,48,48
+35,Number of Rooms: 9+,MT,Treasure,14,22,26,31,45,55,59,64,67,70
+36,Owner-Occupied,MT,Treasure,536,509,464,471,469,458,494,486,441,387
+37,Renter-Occupied,MT,Treasure,312,315,234,240,292,354,352,304,336,281
+38,Total Housing Units,MT,Treasure,418,414,444,435,429,437,452,456,466,469
+39,Total Population,MT,Treasure,848,824,698,711,761,812,846,790,777,668
+40,Units in Structure: 1 ATTACHED,MT,Treasure,15,16,4,9,7,7,8,13,0,0
+41,Units in Structure: 1 DETACHED,MT,Treasure,309,321,333,327,315,307,307,319,341,382
+42,Units in Structure: 10-19,MT,Treasure,3,4,3,4,4,5,12,9,7,7
+43,Units in Structure: 2,MT,Treasure,0,0,0,0,0,0,0,0,0,0
+44,Units in Structure: 20-49,MT,Treasure,0,0,0,0,0,0,0,2,2,2
+45,Units in Structure: 3-4,MT,Treasure,0,0,5,5,4,4,4,0,0,0
+46,Units in Structure: 5-9,MT,Treasure,0,0,0,0,4,4,4,5,4,0
+47,Units in Structure: 50+,MT,Treasure,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Treasure,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Treasure,91,73,99,90,95,110,117,108,112,78
+50,Year Built: 1940-1949,MT,Treasure,32,28,26,26,34,58,63,68,68,106
+51,Year Built: 1950-1959,MT,Treasure,37,46,47,44,63,34,33,32,50,29
+52,Year Built: 1960-1969,MT,Treasure,36,22,29,27,27,57,57,55,50,43
+53,Year Built: 1970-1979,MT,Treasure,57,53,67,66,61,42,49,50,50,45
+54,Year Built: 1980-1989,MT,Treasure,70,64,65,47,42,61,61,66,70,73
+55,Year Built: 1990-1999,MT,Treasure,40,41,52,55,50,48,45,36,30,12
+56,Year Built: 2000-2009,MT,Treasure,0,13,25,27,39,7,11,9,12,14
+57,Year Built: 2010-2013,MT,Treasure,2,3,5,5,4,0,0,0,5,12
+58,Year Built: before 1940,MT,Treasure,144,144,128,138,109,29,22,19,35,31
+0,Avg household size of owner-occupied unit,MT,Valley,2.34,2.28,2.33,2.32,2.38,2.38,2.41,2.3,2.26,2.21
+1,Avg household size of renter-occupied unit,MT,Valley,2.11,2.15,2.03,2.12,2.17,1.99,1.77,1.77,1.77,2.03
+2,FIPS Code,MT,Valley,30105,30105,30105,30105,30105,30105,30105,30105,30105,30105
+3,House Heating Fuel: Electric,MT,Valley,415,496,504,476,542,575,690,720,800,732
+4,House Heating Fuel: Fuel Oil,MT,Valley,29,28,50,43,47,51,36,8,7,5
+5,House Heating Fuel: Gas,MT,Valley,2097,2120,2060,2049,1994,2053,1960,2034,2016,1994
+6,House Heating Fuel: Propane,MT,Valley,469,484,538,597,519,509,522,526,422,484
+7,House Heating Fuel: Wood,MT,Valley,91,54,71,71,48,65,86,83,136,117
+26,Median Number of Rooms,MT,Valley,5.4,5.5,5.4,5.4,5.4,5.4,5.5,5.5,5.5,5.6
+27,Number of Rooms: 1,MT,Valley,109,113,130,137,119,59,69,74,84,62
+28,Number of Rooms: 2,MT,Valley,42,76,85,61,52,94,57,59,101,101
+29,Number of Rooms: 3,MT,Valley,279,319,349,325,291,273,230,193,218,238
+30,Number of Rooms: 4,MT,Valley,867,745,720,706,740,776,746,657,749,635
+31,Number of Rooms: 5,MT,Valley,1305,1244,1292,1330,1375,1316,1322,1456,1289,1286
+32,Number of Rooms: 6,MT,Valley,1065,1045,949,953,817,739,808,772,780,1109
+33,Number of Rooms: 7,MT,Valley,361,436,479,489,437,528,573,516,512,517
+34,Number of Rooms: 8,MT,Valley,402,376,320,316,397,433,429,466,531,351
+35,Number of Rooms: 9+,MT,Valley,451,516,553,544,637,625,599,677,594,580
+36,Owner-Occupied,MT,Valley,5581,5235,5283,5189,5340,5353,5608,5816,5930,5602
+37,Renter-Occupied,MT,Valley,1627,1979,1986,2132,2039,2081,1818,1592,1442,1729
+38,Total Housing Units,MT,Valley,4881,4870,4877,4861,4865,4843,4833,4870,4858,4879
+39,Total Population,MT,Valley,7345,7392,7423,7465,7518,7577,7576,7561,7532,7471
+40,Units in Structure: 1 ATTACHED,MT,Valley,201,297,514,506,520,556,543,311,374,317
+41,Units in Structure: 1 DETACHED,MT,Valley,3249,3229,3151,3119,3179,3220,3292,3497,3550,3376
+42,Units in Structure: 10-19,MT,Valley,33,8,22,24,20,37,29,9,24,35
+43,Units in Structure: 2,MT,Valley,415,379,371,273,258,230,212,247,251,397
+44,Units in Structure: 20-49,MT,Valley,52,39,47,49,43,26,22,27,40,41
+45,Units in Structure: 3-4,MT,Valley,578,495,428,552,484,431,440,485,269,300
+46,Units in Structure: 5-9,MT,Valley,72,69,37,58,67,49,47,20,43,87
+47,Units in Structure: 50+,MT,Valley,7,31,33,32,57,64,66,70,92,68
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Valley,0,0,0,1,1,2,2,2,0,0
+49,Units in Structure: Mobile Home,MT,Valley,274,323,274,247,236,228,180,202,215,258
+50,Year Built: 1940-1949,MT,Valley,362,390,365,389,382,933,923,959,923,957
+51,Year Built: 1950-1959,MT,Valley,929,968,1006,1052,964,1616,1496,1345,1204,1216
+52,Year Built: 1960-1969,MT,Valley,1742,1667,1641,1657,1648,731,703,729,875,728
+53,Year Built: 1970-1979,MT,Valley,552,614,628,529,624,209,221,239,290,394
+54,Year Built: 1980-1989,MT,Valley,259,278,280,280,238,184,186,237,250,273
+55,Year Built: 1990-1999,MT,Valley,89,129,92,119,137,129,130,124,147,180
+56,Year Built: 2000-2009,MT,Valley,67,98,157,175,192,59,96,108,33,59
+57,Year Built: 2010-2013,MT,Valley,56,60,0,21,33,0,14,16,33,39
+58,Year Built: before 1940,MT,Valley,825,666,708,639,647,352,348,331,223,263
+0,Avg household size of owner-occupied unit,MT,Wheatland,2.0,1.93,2.1,2.06,1.93,2.0,2.13,2.19,2.29,2.35
+1,Avg household size of renter-occupied unit,MT,Wheatland,3.26,3.57,4.23,3.61,3.02,3.04,2.89,3.14,3.25,3.56
+2,FIPS Code,MT,Wheatland,30107,30107,30107,30107,30107,30107,30107,30107,30107,30107
+3,House Heating Fuel: Electric,MT,Wheatland,62,62,82,115,142,155,167,163,138,133
+4,House Heating Fuel: Fuel Oil,MT,Wheatland,27,23,19,8,21,19,15,22,21,8
+5,House Heating Fuel: Gas,MT,Wheatland,563,506,456,436,449,423,390,380,401,416
+6,House Heating Fuel: Propane,MT,Wheatland,129,152,137,179,180,174,149,136,122,134
+7,House Heating Fuel: Wood,MT,Wheatland,129,92,91,70,93,92,128,97,114,89
+26,Median Number of Rooms,MT,Wheatland,5.7,5.5,5.3,5.1,5.3,5.2,5.2,5.4,5.6,5.5
+27,Number of Rooms: 1,MT,Wheatland,0,0,2,20,19,19,45,50,38,38
+28,Number of Rooms: 2,MT,Wheatland,10,10,16,18,25,46,43,41,39,33
+29,Number of Rooms: 3,MT,Wheatland,96,80,86,108,151,140,161,133,134,109
+30,Number of Rooms: 4,MT,Wheatland,258,294,274,303,271,259,195,181,126,154
+31,Number of Rooms: 5,MT,Wheatland,304,306,327,318,289,290,277,246,246,255
+32,Number of Rooms: 6,MT,Wheatland,312,280,269,217,242,257,212,230,267,286
+33,Number of Rooms: 7,MT,Wheatland,169,125,128,100,86,78,95,69,91,81
+34,Number of Rooms: 8,MT,Wheatland,137,152,112,101,98,83,83,89,81,92
+35,Number of Rooms: 9+,MT,Wheatland,147,110,93,126,187,171,186,201,175,125
+36,Owner-Occupied,MT,Wheatland,1453,1251,1345,1203,1167,1188,1235,1157,1324,1393
+37,Renter-Occupied,MT,Wheatland,665,707,660,841,894,887,834,913,786,712
+38,Total Housing Units,MT,Wheatland,1433,1357,1307,1311,1368,1343,1297,1240,1197,1173
+39,Total Population,MT,Wheatland,2118,2138,2142,2138,2126,2115,2109,2108,2149,2142
+40,Units in Structure: 1 ATTACHED,MT,Wheatland,14,14,10,23,28,25,26,27,14,9
+41,Units in Structure: 1 DETACHED,MT,Wheatland,1166,1083,1060,1016,1057,1020,937,935,929,895
+42,Units in Structure: 10-19,MT,Wheatland,0,0,0,12,16,13,11,9,0,0
+43,Units in Structure: 2,MT,Wheatland,11,11,11,21,19,19,20,19,10,15
+44,Units in Structure: 20-49,MT,Wheatland,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Wheatland,19,19,11,11,22,34,50,39,37,38
+46,Units in Structure: 5-9,MT,Wheatland,65,55,48,71,68,59,96,90,68,74
+47,Units in Structure: 50+,MT,Wheatland,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Wheatland,0,0,2,2,2,2,2,1,2,1
+49,Units in Structure: Mobile Home,MT,Wheatland,158,175,165,155,156,171,155,120,137,141
+50,Year Built: 1940-1949,MT,Wheatland,174,160,134,108,132,165,140,154,141,156
+51,Year Built: 1950-1959,MT,Wheatland,148,164,157,134,139,131,121,106,88,64
+52,Year Built: 1960-1969,MT,Wheatland,60,71,77,102,122,92,76,73,105,129
+53,Year Built: 1970-1979,MT,Wheatland,149,127,100,96,85,123,136,112,88,100
+54,Year Built: 1980-1989,MT,Wheatland,91,92,107,126,123,129,122,88,81,71
+55,Year Built: 1990-1999,MT,Wheatland,177,158,140,171,170,97,104,105,96,103
+56,Year Built: 2000-2009,MT,Wheatland,22,14,34,48,63,0,0,5,5,4
+57,Year Built: 2010-2013,MT,Wheatland,5,11,0,0,0,0,16,11,14,10
+58,Year Built: before 1940,MT,Wheatland,607,560,558,526,534,124,109,117,121,113
+0,Avg household size of owner-occupied unit,MT,Wibaux,2.58,2.61,2.34,2.28,2.21,2.12,2.32,2.16,2.16,2.07
+1,Avg household size of renter-occupied unit,MT,Wibaux,3.22,2.81,2.25,2.05,2.2,2.2,2.05,2.37,2.89,2.79
+2,FIPS Code,MT,Wibaux,30109,30109,30109,30109,30109,30109,30109,30109,30109,30109
+3,House Heating Fuel: Electric,MT,Wibaux,34,43,57,76,81,111,108,106,93,83
+4,House Heating Fuel: Fuel Oil,MT,Wibaux,3,1,5,4,0,2,3,6,10,14
+5,House Heating Fuel: Gas,MT,Wibaux,238,193,197,182,183,164,188,186,221,248
+6,House Heating Fuel: Propane,MT,Wibaux,104,106,102,113,135,134,153,163,161,148
+7,House Heating Fuel: Wood,MT,Wibaux,0,0,0,8,9,11,18,20,9,5
+26,Median Number of Rooms,MT,Wibaux,5.3,5.3,5.6,5.5,5.6,5.6,6.1,5.9,6.4,6.2
+27,Number of Rooms: 1,MT,Wibaux,0,0,0,0,0,13,16,18,18,17
+28,Number of Rooms: 2,MT,Wibaux,24,19,17,14,20,20,20,17,16,8
+29,Number of Rooms: 3,MT,Wibaux,8,12,22,25,22,28,16,7,9,15
+30,Number of Rooms: 4,MT,Wibaux,108,112,119,131,113,118,91,119,93,111
+31,Number of Rooms: 5,MT,Wibaux,168,140,100,102,116,94,97,99,97,70
+32,Number of Rooms: 6,MT,Wibaux,75,69,93,89,70,58,62,61,74,110
+33,Number of Rooms: 7,MT,Wibaux,31,38,51,49,60,82,81,88,126,100
+34,Number of Rooms: 8,MT,Wibaux,37,37,28,24,27,32,48,52,88,97
+35,Number of Rooms: 9+,MT,Wibaux,88,93,101,108,128,113,126,109,71,73
+36,Owner-Occupied,MT,Wibaux,796,705,627,662,700,669,894,852,843,820
+37,Renter-Occupied,MT,Wibaux,261,233,247,244,264,293,225,244,306,282
+38,Total Housing Units,MT,Wibaux,539,520,531,542,556,558,557,570,592,601
+39,Total Population,MT,Wibaux,1067,964,899,928,987,986,1143,1121,1175,1122
+40,Units in Structure: 1 ATTACHED,MT,Wibaux,0,0,0,0,0,0,0,0,0,0
+41,Units in Structure: 1 DETACHED,MT,Wibaux,387,382,402,418,449,456,468,480,493,491
+42,Units in Structure: 10-19,MT,Wibaux,4,10,11,12,12,23,13,6,5,5
+43,Units in Structure: 2,MT,Wibaux,12,8,6,8,9,3,8,15,12,12
+44,Units in Structure: 20-49,MT,Wibaux,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,MT,Wibaux,25,16,21,17,16,14,13,11,12,19
+46,Units in Structure: 5-9,MT,Wibaux,4,4,0,0,0,0,0,0,0,0
+47,Units in Structure: 50+,MT,Wibaux,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Wibaux,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,MT,Wibaux,107,100,91,87,70,62,55,58,70,74
+50,Year Built: 1940-1949,MT,Wibaux,53,60,67,67,77,98,107,93,53,27
+51,Year Built: 1950-1959,MT,Wibaux,75,79,96,111,121,38,34,23,30,54
+52,Year Built: 1960-1969,MT,Wibaux,80,62,74,61,63,57,50,56,59,61
+53,Year Built: 1970-1979,MT,Wibaux,78,59,58,52,56,77,62,73,77,71
+54,Year Built: 1980-1989,MT,Wibaux,39,55,53,69,51,27,30,26,27,21
+55,Year Built: 1990-1999,MT,Wibaux,25,23,22,24,27,31,47,45,54,61
+56,Year Built: 2000-2009,MT,Wibaux,4,5,29,25,35,10,17,30,39,29
+57,Year Built: 2010-2013,MT,Wibaux,12,13,0,1,7,0,0,0,0,0
+58,Year Built: before 1940,MT,Wibaux,173,164,132,132,119,81,76,85,82,73
+0,Avg household size of owner-occupied unit,MT,Yellowstone,2.47,2.49,2.51,2.51,2.49,2.51,2.5,2.47,2.46,2.47
+1,Avg household size of renter-occupied unit,MT,Yellowstone,2.07,2.08,2.11,2.16,2.26,2.29,2.28,2.21,2.18,2.08
+2,FIPS Code,MT,Yellowstone,30111,30111,30111,30111,30111,30111,30111,30111,30111,30111
+3,House Heating Fuel: Electric,MT,Yellowstone,9085,9698,10138,10379,10570,10932,11635,12089,12829,13555
+4,House Heating Fuel: Fuel Oil,MT,Yellowstone,378,311,219,180,181,167,156,169,179,124
+5,House Heating Fuel: Gas,MT,Yellowstone,44862,44898,44742,44843,44939,44684,44920,45773,45773,46129
+6,House Heating Fuel: Propane,MT,Yellowstone,3669,3590,3685,3726,3663,3678,3772,3999,4115,4577
+7,House Heating Fuel: Wood,MT,Yellowstone,1065,1132,1256,1184,1240,1176,1128,989,1063,991
+26,Median Number of Rooms,MT,Yellowstone,5.6,5.6,5.6,5.6,5.5,5.5,5.6,5.6,5.7,5.8
+27,Number of Rooms: 1,MT,Yellowstone,579,690,676,529,650,813,869,1086,1263,1355
+28,Number of Rooms: 2,MT,Yellowstone,1556,1404,1208,1526,1579,1870,1903,2074,2097,2262
+29,Number of Rooms: 3,MT,Yellowstone,4639,4563,4735,5212,5259,5819,5980,6357,6356,6533
+30,Number of Rooms: 4,MT,Yellowstone,11613,11938,12007,11889,12063,12341,12551,12632,12769,12356
+31,Number of Rooms: 5,MT,Yellowstone,11651,11943,12113,12390,12685,12126,11481,11131,10800,10459
+32,Number of Rooms: 6,MT,Yellowstone,8795,8882,9156,9095,9068,8735,8953,9219,9466,9319
+33,Number of Rooms: 7,MT,Yellowstone,7672,7784,7862,7355,7707,7528,7633,7894,7940,8125
+34,Number of Rooms: 8,MT,Yellowstone,6332,6639,6275,5961,5880,6207,6265,6650,7140,7743
+35,Number of Rooms: 9+,MT,Yellowstone,9613,9502,9790,10283,10212,10353,11073,11518,12097,13032
+36,Owner-Occupied,MT,Yellowstone,103801,105473,105887,105443,104600,105495,105875,107584,109487,112039
+37,Renter-Occupied,MT,Yellowstone,36656,37388,38914,41160,43744,44579,45907,45250,44905,43558
+38,Total Housing Units,MT,Yellowstone,62450,63345,63822,64240,65103,65792,66708,68561,69928,71184
+39,Total Population,MT,Yellowstone,144050,146151,148191,150156,151965,153692,155344,156332,157816,159008
+40,Units in Structure: 1 ATTACHED,MT,Yellowstone,2673,3087,3231,3073,3182,3097,3113,3241,3563,3584
+41,Units in Structure: 1 DETACHED,MT,Yellowstone,40602,41023,41102,41390,41748,42145,42921,44152,45020,45729
+42,Units in Structure: 10-19,MT,Yellowstone,1382,1474,1256,1328,1340,1316,1432,1553,1706,1878
+43,Units in Structure: 2,MT,Yellowstone,2405,2479,2530,2853,2723,3005,2882,2861,2500,2692
+44,Units in Structure: 20-49,MT,Yellowstone,840,863,1044,1195,1233,1060,1195,1202,1256,1345
+45,Units in Structure: 3-4,MT,Yellowstone,2792,2853,3017,3102,3070,2823,2950,2957,3180,2996
+46,Units in Structure: 5-9,MT,Yellowstone,2865,2801,2495,2410,2476,2710,2550,2653,2552,2627
+47,Units in Structure: 50+,MT,Yellowstone,1805,1745,1843,1875,1919,2167,2194,2333,2485,2472
+48,"Units in Structure: Boat,RV,Van,Etc.",MT,Yellowstone,54,55,49,103,82,94,94,130,76,104
+49,Units in Structure: Mobile Home,MT,Yellowstone,7032,6965,7255,6911,7330,7375,7377,7479,7590,7757
+50,Year Built: 1940-1949,MT,Yellowstone,4056,3881,3897,3885,3632,8219,8114,8294,8118,8420
+51,Year Built: 1950-1959,MT,Yellowstone,8963,9122,9005,8518,8292,5990,6234,6590,6805,6520
+52,Year Built: 1960-1969,MT,Yellowstone,5620,5664,5605,5718,5939,14502,14210,14416,14151,13743
+53,Year Built: 1970-1979,MT,Yellowstone,13910,14003,13798,13734,14319,7996,8161,8730,8881,8923
+54,Year Built: 1980-1989,MT,Yellowstone,9098,9023,8408,8562,8458,7892,8463,8675,8880,8943
+55,Year Built: 1990-1999,MT,Yellowstone,7782,7489,7684,7586,7666,10109,9542,9298,9239,9126
+56,Year Built: 2000-2009,MT,Yellowstone,4640,5103,9209,9643,10148,1435,2159,2339,2764,3210
+57,Year Built: 2010-2013,MT,Yellowstone,2634,3423,369,665,1027,97,388,984,1802,2875
+58,Year Built: before 1940,MT,Yellowstone,5747,5637,5847,5929,5622,3806,3645,3698,3687,3499

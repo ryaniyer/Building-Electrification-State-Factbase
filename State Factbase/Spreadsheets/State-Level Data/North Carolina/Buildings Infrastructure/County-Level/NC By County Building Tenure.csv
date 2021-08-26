@@ -1,0 +1,401 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,NC,Alamance,2.46,2.44,2.44,2.46,2.48,2.49,2.48,2.48,2.49,2.51
+1,Avg household size of renter-occupied unit,NC,Alamance,2.37,2.39,2.44,2.46,2.38,2.38,2.39,2.34,2.34,2.36
+36,Owner-Occupied,NC,Alamance,98617,100370,99198,99495,99989,100226,99870,102164,103567,105560
+37,Renter-Occupied,NC,Alamance,44620,44956,47785,48690,49353,50534,52017,51172,52361,53069
+0,Avg household size of owner-occupied unit,NC,Alexander,2.74,2.72,2.67,2.6,2.68,2.72,2.65,2.57,2.54,2.43
+1,Avg household size of renter-occupied unit,NC,Alexander,2.73,2.75,2.54,2.46,2.48,2.43,2.48,2.74,2.82,2.85
+36,Owner-Occupied,NC,Alexander,29355,28912,28481,28442,28649,27919,27178,26663,26237,26054
+37,Renter-Occupied,NC,Alexander,7344,7567,7874,7803,7555,8071,8764,9220,9556,9804
+0,Avg household size of owner-occupied unit,NC,Alleghany,2.13,2.24,2.19,2.22,2.18,2.16,2.18,2.24,2.21,2.18
+1,Avg household size of renter-occupied unit,NC,Alleghany,1.86,2.27,2.43,2.36,2.52,2.54,2.39,2.36,2.48,2.3
+36,Owner-Occupied,NC,Alleghany,7842,8099,7776,8131,7871,7876,7910,7980,7870,8173
+37,Renter-Occupied,NC,Alleghany,2404,2719,3030,2685,2896,2866,2790,2792,2940,2683
+0,Avg household size of owner-occupied unit,NC,Anson,2.55,2.5,2.53,2.51,2.52,2.54,2.58,2.5,2.45,2.41
+1,Avg household size of renter-occupied unit,NC,Anson,2.53,2.56,2.56,2.56,2.62,2.58,2.45,2.37,2.49,2.45
+36,Owner-Occupied,NC,Anson,17241,16591,16564,16637,16690,15954,15926,15698,15638,15185
+37,Renter-Occupied,NC,Anson,7003,7816,7836,7803,7657,8340,8147,7997,7830,7888
+0,Avg household size of owner-occupied unit,NC,Ashe,2.22,2.23,2.19,2.2,2.23,2.27,2.21,2.22,2.27,2.24
+1,Avg household size of renter-occupied unit,NC,Ashe,2.28,2.33,2.41,2.49,2.45,2.25,2.28,2.15,2.1,2.13
+36,Owner-Occupied,NC,Ashe,20777,21171,20386,19987,20096,20180,19502,19722,20189,20280
+37,Renter-Occupied,NC,Ashe,5641,5462,6341,6812,6686,6531,7075,6688,6167,6149
+0,Avg household size of owner-occupied unit,NC,Avery,2.17,2.12,2.09,2.13,2.15,2.24,2.18,2.21,2.19,2.15
+1,Avg household size of renter-occupied unit,NC,Avery,2.33,2.32,2.25,2.3,2.08,2.18,2.31,2.06,2.04,2.08
+36,Owner-Occupied,NC,Avery,11352,10807,10948,11515,11795,11874,11151,11431,10763,10622
+37,Renter-Occupied,NC,Avery,4562,4636,4431,3918,3517,3255,3788,3186,3404,3372
+0,Avg household size of owner-occupied unit,NC,Beaufort,2.37,2.38,2.43,2.43,2.49,2.51,2.46,2.46,2.41,2.38
+1,Avg household size of renter-occupied unit,NC,Beaufort,2.2,2.32,2.3,2.48,2.5,2.62,2.5,2.5,2.43,2.34
+36,Owner-Occupied,NC,Beaufort,34890,34512,33704,32827,33027,32912,32481,33000,32872,32797
+37,Renter-Occupied,NC,Beaufort,11702,12348,13321,14260,14080,14170,14554,13838,13887,13885
+0,Avg household size of owner-occupied unit,NC,Bertie,2.47,2.48,2.6,2.63,2.57,2.63,2.49,2.27,2.2,2.18
+1,Avg household size of renter-occupied unit,NC,Bertie,2.55,2.59,2.49,2.44,2.43,2.47,2.42,2.49,2.56,2.56
+36,Owner-Occupied,NC,Bertie,15519,15269,14996,15090,14422,14346,14080,13326,13135,12837
+37,Renter-Occupied,NC,Bertie,4809,4840,4850,4589,4998,4853,4913,5234,5121,5169
+0,Avg household size of owner-occupied unit,NC,Bladen,2.41,2.44,2.49,2.43,2.42,2.36,2.37,2.33,2.4,2.42
+1,Avg household size of renter-occupied unit,NC,Bladen,2.42,2.42,2.29,2.35,2.29,2.39,2.48,2.34,2.35,2.4
+36,Owner-Occupied,NC,Bladen,23293,23684,23899,23477,23756,22829,22885,23101,23712,23558
+37,Renter-Occupied,NC,Bladen,10492,10319,10264,10770,10491,11276,11010,10507,9587,9374
+0,Avg household size of owner-occupied unit,NC,Brunswick,2.17,2.2,2.24,2.27,2.28,2.29,2.29,2.27,2.29,2.31
+1,Avg household size of renter-occupied unit,NC,Brunswick,2.39,2.35,2.4,2.41,2.43,2.48,2.5,2.37,2.45,2.44
+36,Owner-Occupied,NC,Brunswick,76349,80081,81942,82480,83083,85844,87784,92974,98050,104494
+37,Renter-Occupied,NC,Brunswick,24427,24461,25217,27035,28979,29214,30492,28710,27900,26427
+0,Avg household size of owner-occupied unit,NC,Buncombe,2.34,2.35,2.36,2.4,2.42,2.46,2.48,2.45,2.44,2.43
+1,Avg household size of renter-occupied unit,NC,Buncombe,2.16,2.13,2.16,2.19,2.19,2.18,2.21,2.11,2.09,2.14
+36,Owner-Occupied,NC,Buncombe,156894,156839,156146,156293,157421,158929,162240,164669,166550,165802
+37,Renter-Occupied,NC,Buncombe,69611,72664,75902,78553,80191,81221,80773,80816,81032,84155
+0,Avg household size of owner-occupied unit,NC,Burke,2.53,2.53,2.55,2.54,2.52,2.56,2.55,2.51,2.53,2.52
+1,Avg household size of renter-occupied unit,NC,Burke,2.44,2.44,2.48,2.5,2.52,2.45,2.45,2.44,2.43,2.37
+36,Owner-Occupied,NC,Burke,65347,65206,64269,63111,62495,62461,61244,62043,63527,65395
+37,Renter-Occupied,NC,Burke,22029,22520,23435,24431,24677,24092,24865,24017,23297,21704
+0,Avg household size of owner-occupied unit,NC,Cabarrus,2.69,2.71,2.75,2.81,2.8,2.81,2.84,2.8,2.79,2.86
+1,Avg household size of renter-occupied unit,NC,Cabarrus,2.54,2.62,2.72,2.69,2.76,2.71,2.69,2.69,2.71,2.77
+36,Owner-Occupied,NC,Cabarrus,125591,128378,130575,132915,133590,134045,137935,139842,143987,147794
+37,Renter-Occupied,NC,Cabarrus,43165,44579,46183,46941,49727,52865,52873,55347,55862,57118
+0,Avg household size of owner-occupied unit,NC,Caldwell,2.63,2.63,2.6,2.61,2.59,2.57,2.56,2.52,2.49,2.45
+1,Avg household size of renter-occupied unit,NC,Caldwell,2.45,2.43,2.47,2.54,2.57,2.53,2.45,2.5,2.45,2.48
+36,Owner-Occupied,NC,Caldwell,62282,62568,59749,58963,57958,57351,57607,57986,57870,58461
+37,Renter-Occupied,NC,Caldwell,18756,18795,21653,22395,23149,23391,23012,22837,22917,22422
+0,Avg household size of owner-occupied unit,NC,Camden,2.77,2.74,2.71,2.74,2.7,2.59,2.6,2.63,2.63,2.7
+1,Avg household size of renter-occupied unit,NC,Camden,3.07,3.17,3.24,3.1,3.37,3.11,3.02,3.06,3.06,2.54
+36,Owner-Occupied,NC,Camden,8128,8206,8330,8487,8290,8270,7948,7996,8126,8711
+37,Renter-Occupied,NC,Camden,1573,1618,1602,1513,1797,1857,2246,2306,2288,1807
+0,Avg household size of owner-occupied unit,NC,Carteret,2.26,2.25,2.32,2.28,2.27,2.28,2.3,2.27,2.31,2.32
+1,Avg household size of renter-occupied unit,NC,Carteret,2.22,2.24,2.28,2.24,2.27,2.25,2.24,2.2,2.22,2.19
+36,Owner-Occupied,NC,Carteret,47527,46928,46366,46552,46863,47920,49272,49552,49477,50051
+37,Renter-Occupied,NC,Carteret,16828,17588,18830,19502,19879,19206,18205,18062,18329,17890
+0,Avg household size of owner-occupied unit,NC,Caswell,2.48,2.53,2.54,2.48,2.53,2.51,2.49,2.4,2.41,2.41
+1,Avg household size of renter-occupied unit,NC,Caswell,2.62,2.58,2.48,2.56,2.7,2.66,2.47,2.33,2.27,2.18
+36,Owner-Occupied,NC,Caswell,16376,16573,16448,15709,16272,16979,16826,16775,17328,16861
+37,Renter-Occupied,NC,Caswell,5723,5512,5633,6384,5855,5109,5252,5035,4372,4706
+0,Avg household size of owner-occupied unit,NC,Catawba,2.6,2.63,2.63,2.64,2.64,2.65,2.58,2.57,2.54,2.49
+1,Avg household size of renter-occupied unit,NC,Catawba,2.42,2.44,2.48,2.51,2.52,2.46,2.51,2.52,2.49,2.49
+36,Owner-Occupied,NC,Catawba,110714,110528,110117,109738,108362,108046,105870,107153,107803,107602
+37,Renter-Occupied,NC,Catawba,40495,41096,41769,42378,43726,44120,47140,46597,46441,47457
+0,Avg household size of owner-occupied unit,NC,Chatham,2.47,2.47,2.46,2.49,2.45,2.47,2.47,2.4,2.4,2.44
+1,Avg household size of renter-occupied unit,NC,Chatham,2.26,2.37,2.45,2.37,2.52,2.49,2.5,2.41,2.48,2.43
+36,Owner-Occupied,NC,Chatham,48636,49677,50820,51713,50911,51336,52366,51435,52371,53984
+37,Renter-Occupied,NC,Chatham,11752,12155,12357,12376,14311,15239,15578,16130,16671,16657
+0,Avg household size of owner-occupied unit,NC,Cherokee,2.32,2.34,2.37,2.49,2.51,2.45,2.38,2.32,2.25,2.18
+1,Avg household size of renter-occupied unit,NC,Cherokee,2.41,2.52,2.49,2.56,2.68,2.79,2.82,2.76,2.44,2.29
+36,Owner-Occupied,NC,Cherokee,22167,22161,21764,21913,21762,20972,20552,20833,21465,21531
+37,Renter-Occupied,NC,Cherokee,4654,4861,5152,4907,4944,5642,6217,6179,5764,5994
+0,Avg household size of owner-occupied unit,NC,Chowan,2.41,2.38,2.41,2.31,2.33,2.35,2.32,2.26,2.3,2.25
+1,Avg household size of renter-occupied unit,NC,Chowan,2.49,2.56,2.54,2.65,2.5,2.55,2.62,2.74,2.39,2.27
+36,Owner-Occupied,NC,Chowan,9731,9298,9391,9135,9405,9347,9496,9759,9535,9197
+37,Renter-Occupied,NC,Chowan,4643,5038,4983,5281,5007,5061,4810,4357,4405,4627
+0,Avg household size of owner-occupied unit,NC,Clay,2.22,2.31,2.35,2.33,2.4,2.3,2.3,2.14,2.15,2.19
+1,Avg household size of renter-occupied unit,NC,Clay,2.37,2.4,2.51,2.54,2.48,2.43,2.23,2.04,2.05,2.16
+36,Owner-Occupied,NC,Clay,8332,8612,8390,8326,8180,7993,8365,8405,8298,8526
+37,Renter-Occupied,NC,Clay,1790,1772,2069,2165,2345,2590,2303,2298,2474,2382
+0,Avg household size of owner-occupied unit,NC,Cleveland,2.53,2.52,2.51,2.52,2.55,2.52,2.53,2.51,2.55,2.67
+1,Avg household size of renter-occupied unit,NC,Cleveland,2.55,2.56,2.59,2.56,2.57,2.61,2.64,2.56,2.68,2.72
+36,Owner-Occupied,NC,Cleveland,65763,63926,63443,64720,65072,64346,63261,63857,63403,64401
+37,Renter-Occupied,NC,Cleveland,29819,31553,32232,30900,30506,31098,32171,31518,32077,31182
+0,Avg household size of owner-occupied unit,NC,Columbus,2.57,2.56,2.57,2.54,2.48,2.47,2.45,2.39,2.39,2.48
+1,Avg household size of renter-occupied unit,NC,Columbus,2.43,2.47,2.52,2.47,2.45,2.49,2.44,2.38,2.38,2.39
+36,Owner-Occupied,NC,Columbus,40289,40483,39530,39586,37818,38065,37672,38081,38390,38853
+37,Renter-Occupied,NC,Columbus,14858,14417,15444,15324,16828,16368,16465,15577,14912,14187
+0,Avg household size of owner-occupied unit,NC,Craven,2.35,2.4,2.42,2.49,2.51,2.52,2.51,2.46,2.42,2.37
+1,Avg household size of renter-occupied unit,NC,Craven,2.41,2.5,2.51,2.53,2.54,2.49,2.41,2.36,2.36,2.34
+36,Owner-Occupied,NC,Craven,59926,60965,61709,63317,63387,63264,64470,63036,61761,61582
+37,Renter-Occupied,NC,Craven,35408,36376,37052,36716,37212,37304,35919,35162,36240,35795
+0,Avg household size of owner-occupied unit,NC,Cumberland,2.57,2.58,2.57,2.57,2.58,2.61,2.62,2.66,2.66,2.63
+1,Avg household size of renter-occupied unit,NC,Cumberland,2.52,2.53,2.55,2.53,2.53,2.51,2.49,2.43,2.43,2.42
+36,Owner-Occupied,NC,Cumberland,175834,176464,173317,171019,169284,168129,167723,169181,168332,167524
+37,Renter-Occupied,NC,Cumberland,123138,125845,133144,138703,143202,146088,147434,148403,148449,149544
+0,Avg household size of owner-occupied unit,NC,Currituck,2.52,2.51,2.53,2.56,2.56,2.56,2.53,2.55,2.51,2.51
+1,Avg household size of renter-occupied unit,NC,Currituck,2.3,2.47,2.7,2.75,2.97,2.87,2.83,2.67,2.61,2.4
+36,Owner-Occupied,NC,Currituck,19456,18830,18637,18759,19034,19284,20191,20534,21064,21688
+37,Renter-Occupied,NC,Currituck,3833,4524,4883,4965,5025,5062,4532,4575,4598,4546
+0,Avg household size of owner-occupied unit,NC,Dare,2.18,2.2,2.29,2.37,2.31,2.28,2.32,2.24,2.27,2.32
+1,Avg household size of renter-occupied unit,NC,Dare,2.07,2.2,2.1,2.23,2.32,2.39,2.51,2.47,2.38,2.34
+36,Owner-Occupied,NC,Dare,24099,24040,24920,24533,23649,23228,23340,23704,24856,26747
+37,Renter-Occupied,NC,Dare,9196,9515,8840,9539,10671,11448,11668,11532,10708,9297
+0,Avg household size of owner-occupied unit,NC,Davidson,2.47,2.48,2.5,2.51,2.53,2.52,2.52,2.5,2.47,2.45
+1,Avg household size of renter-occupied unit,NC,Davidson,2.43,2.39,2.45,2.46,2.48,2.52,2.55,2.52,2.51,2.47
+36,Owner-Occupied,NC,Davidson,116815,118297,117432,118212,117857,116476,115127,115705,113612,113871
+37,Renter-Occupied,NC,Davidson,41842,41488,43277,42820,43725,45468,46942,46420,49117,49649
+0,Avg household size of owner-occupied unit,NC,Davie,2.57,2.57,2.53,2.53,2.55,2.56,2.54,2.52,2.48,2.46
+1,Avg household size of renter-occupied unit,NC,Davie,2.42,2.39,2.43,2.48,2.51,2.73,2.96,2.9,3.04,2.94
+36,Owner-Occupied,NC,Davie,34040,34325,33662,33112,33045,32120,30698,31038,30823,32149
+37,Renter-Occupied,NC,Davie,6307,6268,7125,7824,7959,8920,10475,10345,10800,9757
+0,Avg household size of owner-occupied unit,NC,Duplin,2.63,2.6,2.56,2.58,2.61,2.62,2.63,2.68,2.64,2.68
+1,Avg household size of renter-occupied unit,NC,Duplin,2.73,2.7,2.81,2.77,2.77,2.79,2.82,2.8,2.8,2.84
+36,Owner-Occupied,NC,Duplin,38934,38630,38401,38519,38523,39110,40352,40406,40331,40421
+37,Renter-Occupied,NC,Duplin,16834,17997,19157,19762,20161,19656,18148,18401,18260,18075
+0,Avg household size of owner-occupied unit,NC,Durham,2.38,2.41,2.4,2.41,2.46,2.45,2.44,2.46,2.46,2.45
+1,Avg household size of renter-occupied unit,NC,Durham,2.25,2.25,2.27,2.3,2.26,2.28,2.28,2.27,2.25,2.25
+36,Owner-Occupied,NC,Durham,139242,142835,144259,147413,151714,152647,153858,159215,163575,167739
+37,Renter-Occupied,NC,Durham,104918,107700,111305,115364,117097,122645,127048,127934,128616,129327
+0,Avg household size of owner-occupied unit,NC,Edgecombe,2.52,2.58,2.65,2.62,2.59,2.62,2.55,2.46,2.44,2.44
+1,Avg household size of renter-occupied unit,NC,Edgecombe,2.5,2.5,2.47,2.58,2.61,2.5,2.53,2.5,2.49,2.48
+36,Owner-Occupied,NC,Edgecombe,34189,35072,35778,34664,34065,32983,32082,31230,30926,30352
+37,Renter-Occupied,NC,Edgecombe,20044,19817,19124,20066,20432,21124,21564,21904,21635,21637
+0,Avg household size of owner-occupied unit,NC,Forsyth,2.47,2.48,2.49,2.49,2.5,2.5,2.5,2.52,2.53,2.55
+1,Avg household size of renter-occupied unit,NC,Forsyth,2.37,2.39,2.38,2.38,2.38,2.38,2.37,2.38,2.35,2.36
+36,Owner-Occupied,NC,Forsyth,222789,225308,223979,223910,223458,222488,223279,228347,228182,230915
+37,Renter-Occupied,NC,Forsyth,110594,111986,117166,120663,124574,129156,131363,129780,132658,133299
+0,Avg household size of owner-occupied unit,NC,Franklin,2.53,2.5,2.5,2.55,2.54,2.52,2.51,2.51,2.53,2.5
+1,Avg household size of renter-occupied unit,NC,Franklin,2.41,2.59,2.6,2.56,2.64,2.75,2.79,2.7,2.62,2.69
+36,Owner-Occupied,NC,Franklin,44792,45014,44988,45460,44233,44156,43360,44617,45962,46885
+37,Renter-Occupied,NC,Franklin,12199,13023,13870,14061,15849,16458,17968,17646,17351,17905
+0,Avg household size of owner-occupied unit,NC,Gaston,2.62,2.61,2.6,2.61,2.63,2.64,2.63,2.64,2.66,2.63
+1,Avg household size of renter-occupied unit,NC,Gaston,2.5,2.49,2.49,2.5,2.53,2.55,2.58,2.57,2.54,2.49
+36,Owner-Occupied,NC,Gaston,140838,140291,140160,138422,139545,139125,138580,139367,143886,143889
+37,Renter-Occupied,NC,Gaston,59159,61582,63163,65909,65882,67719,70240,71795,69793,72400
+0,Avg household size of owner-occupied unit,NC,Gates,2.69,2.78,2.7,2.66,2.61,2.61,2.52,2.62,2.61,2.52
+1,Avg household size of renter-occupied unit,NC,Gates,2.53,2.47,2.61,2.69,2.66,2.82,2.71,2.53,2.44,2.33
+36,Owner-Occupied,NC,Gates,9680,9959,9766,9438,9428,9129,9098,9342,9144,9072
+37,Renter-Occupied,NC,Gates,2050,2022,2196,2451,2371,2534,2458,2204,2367,2427
+0,Avg household size of owner-occupied unit,NC,Graham,2.43,2.49,2.62,2.56,2.65,2.72,2.72,2.66,2.59,2.5
+1,Avg household size of renter-occupied unit,NC,Graham,1.73,1.81,1.98,2.21,2.05,2.21,2.19,2.15,2.44,2.34
+36,Owner-Occupied,NC,Graham,7170,7271,7508,7254,7364,7291,7255,7196,7153,7047
+37,Renter-Occupied,NC,Graham,1445,1349,1130,1382,1253,1289,1275,1290,1285,1349
+0,Avg household size of owner-occupied unit,NC,Granville,2.72,2.83,2.83,2.71,2.71,2.74,2.71,2.67,2.69,2.67
+1,Avg household size of renter-occupied unit,NC,Granville,2.72,2.66,2.75,2.75,2.68,2.52,2.51,2.47,2.43,2.4
+36,Owner-Occupied,NC,Granville,40832,43338,42491,40468,40461,40244,40120,41010,41684,41279
+37,Renter-Occupied,NC,Granville,13030,11700,13137,13767,13592,13981,14340,13789,13484,14324
+0,Avg household size of owner-occupied unit,NC,Greene,2.62,2.57,2.63,2.58,2.56,2.6,2.52,2.43,2.54,2.56
+1,Avg household size of renter-occupied unit,NC,Greene,2.95,2.99,2.8,3.02,3.01,2.8,2.92,2.84,2.63,2.67
+36,Owner-Occupied,NC,Greene,12922,12680,13044,12727,12735,13086,12863,12385,13011,12953
+37,Renter-Occupied,NC,Greene,6151,6368,6102,6526,6510,6148,6184,6396,5589,5600
+0,Avg household size of owner-occupied unit,NC,Guilford,2.51,2.51,2.53,2.52,2.52,2.54,2.55,2.57,2.57,2.58
+1,Avg household size of renter-occupied unit,NC,Guilford,2.3,2.31,2.32,2.32,2.33,2.34,2.36,2.37,2.37,2.37
+36,Owner-Occupied,NC,Guilford,298703,303607,306187,302692,300632,302238,300352,303815,307485,308889
+37,Renter-Occupied,NC,Guilford,161980,164995,168715,177579,184710,188413,194698,196007,197495,199141
+0,Avg household size of owner-occupied unit,NC,Halifax,2.53,2.46,2.45,2.46,2.41,2.42,2.39,2.4,2.37,2.36
+1,Avg household size of renter-occupied unit,NC,Halifax,2.44,2.5,2.48,2.43,2.45,2.43,2.45,2.4,2.4,2.39
+36,Owner-Occupied,NC,Halifax,34972,33189,33123,32714,32535,32692,32286,32088,31355,31097
+37,Renter-Occupied,NC,Halifax,18937,20128,19940,19994,19774,19273,19151,18784,18952,18749
+0,Avg household size of owner-occupied unit,NC,Harnett,2.7,2.72,2.76,2.81,2.77,2.74,2.79,2.75,2.75,2.78
+1,Avg household size of renter-occupied unit,NC,Harnett,2.63,2.64,2.74,2.88,2.99,3.02,3.0,2.94,2.95,2.95
+36,Owner-Occupied,NC,Harnett,70998,73963,77140,77822,76172,77048,78212,79834,79881,82564
+37,Renter-Occupied,NC,Harnett,33522,34486,34596,37219,42140,43951,45194,45746,47239,46424
+0,Avg household size of owner-occupied unit,NC,Haywood,2.19,2.18,2.19,2.18,2.21,2.22,2.22,2.24,2.28,2.29
+1,Avg household size of renter-occupied unit,NC,Haywood,2.17,2.16,2.22,2.2,2.24,2.3,2.31,2.3,2.26,2.22
+36,Owner-Occupied,NC,Haywood,43468,43424,43108,43228,42353,42315,41905,42254,43219,44588
+37,Renter-Occupied,NC,Haywood,14242,14474,14969,14973,15982,16270,17143,17082,16710,15980
+0,Avg household size of owner-occupied unit,NC,Henderson,2.3,2.34,2.35,2.37,2.37,2.36,2.36,2.36,2.4,2.37
+1,Avg household size of renter-occupied unit,NC,Henderson,2.12,2.16,2.27,2.28,2.31,2.33,2.26,2.19,2.13,2.12
+36,Owner-Occupied,NC,Henderson,79640,81164,80361,79616,79492,78843,80433,81672,83919,85674
+37,Renter-Occupied,NC,Henderson,22179,22626,24630,26431,27677,29461,29023,29051,28291,27838
+0,Avg household size of owner-occupied unit,NC,Hertford,2.51,2.52,2.59,2.56,2.52,2.49,2.42,2.34,2.42,2.4
+1,Avg household size of renter-occupied unit,NC,Hertford,2.54,2.5,2.45,2.46,2.43,2.45,2.53,2.56,2.56,2.58
+36,Owner-Occupied,NC,Hertford,14884,14561,14838,13946,13973,14116,13929,13985,14445,13994
+37,Renter-Occupied,NC,Hertford,7776,8029,7667,7834,7681,7317,7481,7459,7502,7803
+0,Avg household size of owner-occupied unit,NC,Hoke,3.0,3.0,3.0,2.92,2.93,2.95,2.9,2.96,2.98,2.98
+1,Avg household size of renter-occupied unit,NC,Hoke,3.03,3.1,3.07,3.03,2.99,2.9,2.94,2.92,2.79,2.9
+36,Owner-Occupied,NC,Hoke,30860,32300,32072,32033,32307,33134,32807,34410,35710,35536
+37,Renter-Occupied,NC,Hoke,11901,12526,14340,15725,16527,16709,17702,16733,16020,16993
+0,Avg household size of owner-occupied unit,NC,Hyde,2.1,2.26,2.28,2.23,2.21,2.29,2.32,2.36,2.42,2.11
+1,Avg household size of renter-occupied unit,NC,Hyde,2.82,2.77,3.02,2.72,2.96,2.94,3.14,3.49,3.24,2.89
+36,Owner-Occupied,NC,Hyde,3334,3440,3316,3722,3573,3655,3262,3310,2910,2786
+37,Renter-Occupied,NC,Hyde,941,1403,1595,1309,1471,1345,1662,1517,1828,1815
+0,Avg household size of owner-occupied unit,NC,Iredell,2.7,2.7,2.69,2.7,2.69,2.69,2.69,2.65,2.64,2.65
+1,Avg household size of renter-occupied unit,NC,Iredell,2.45,2.5,2.54,2.65,2.65,2.68,2.69,2.66,2.58,2.56
+36,Owner-Occupied,NC,Iredell,116963,118148,118629,119197,118259,119518,119447,121296,123992,127251
+37,Renter-Occupied,NC,Iredell,35979,37832,39509,40721,43381,44232,46733,47233,47247,47037
+0,Avg household size of owner-occupied unit,NC,Jackson,2.32,2.36,2.44,2.39,2.38,2.35,2.31,2.32,2.29,2.31
+1,Avg household size of renter-occupied unit,NC,Jackson,2.05,2.13,2.15,2.28,2.22,2.28,2.39,2.41,2.37,2.38
+36,Owner-Occupied,NC,Jackson,24353,24821,25911,25308,25071,25345,24177,24537,24545,24916
+37,Renter-Occupied,NC,Jackson,10980,11189,10535,11462,11873,11762,13386,13607,13991,14240
+0,Avg household size of owner-occupied unit,NC,Johnston,2.69,2.69,2.74,2.76,2.8,2.81,2.84,2.78,2.8,2.82
+1,Avg household size of renter-occupied unit,NC,Johnston,2.71,2.78,2.82,2.93,2.9,2.95,2.9,2.93,2.88,2.86
+36,Owner-Occupied,NC,Johnston,116518,117853,119351,119860,122388,123273,128300,130363,134480,141789
+37,Renter-Occupied,NC,Johnston,42853,45560,47923,50655,51144,53314,52079,54210,54972,53362
+0,Avg household size of owner-occupied unit,NC,Jones,2.46,2.46,2.48,2.47,2.42,2.41,2.38,2.29,2.23,2.36
+1,Avg household size of renter-occupied unit,NC,Jones,2.46,2.37,2.37,2.33,2.51,2.48,2.47,2.42,2.53,2.27
+36,Owner-Occupied,NC,Jones,7248,7286,7074,7124,7026,7030,7126,6901,6731,7013
+37,Renter-Occupied,NC,Jones,2802,2651,2940,2942,3030,3013,2825,2753,2841,2451
+0,Avg household size of owner-occupied unit,NC,Lee,2.64,2.65,2.68,2.64,2.65,2.7,2.7,2.68,2.73,2.74
+1,Avg household size of renter-occupied unit,NC,Lee,2.55,2.66,2.74,2.91,2.91,2.86,2.82,2.78,2.71,2.69
+36,Owner-Occupied,NC,Lee,38988,38445,38969,38727,37813,38152,38556,39122,39503,39964
+37,Renter-Occupied,NC,Lee,15869,17528,18079,19044,20261,20213,19963,19689,19679,19585
+0,Avg household size of owner-occupied unit,NC,Lenoir,2.39,2.4,2.42,2.45,2.45,2.48,2.44,2.41,2.39,2.4
+1,Avg household size of renter-occupied unit,NC,Lenoir,2.37,2.36,2.43,2.48,2.47,2.45,2.53,2.47,2.46,2.38
+36,Owner-Occupied,NC,Lenoir,35932,35624,35284,34753,34686,34898,34751,33677,32827,33027
+37,Renter-Occupied,NC,Lenoir,21590,22281,22777,23260,23171,22637,22252,22925,23041,22386
+0,Avg household size of owner-occupied unit,NC,Lincoln,2.53,2.59,2.61,2.62,2.63,2.64,2.61,2.57,2.53,2.52
+1,Avg household size of renter-occupied unit,NC,Lincoln,2.54,2.57,2.53,2.54,2.51,2.57,2.48,2.49,2.5,2.41
+36,Owner-Occupied,NC,Lincoln,56716,58737,59259,60522,61452,61120,61169,61439,61857,63458
+37,Renter-Occupied,NC,Lincoln,17780,17539,18018,17461,16846,17728,17875,18333,18845,18722
+0,Avg household size of owner-occupied unit,NC,McDowell,2.52,2.54,2.57,2.58,2.59,2.52,2.48,2.45,2.44,2.41
+1,Avg household size of renter-occupied unit,NC,McDowell,2.42,2.41,2.46,2.46,2.48,2.54,2.53,2.44,2.47,2.48
+36,Owner-Occupied,NC,McDowell,32105,31658,32084,31770,31097,30626,30747,31313,31490,31813
+37,Renter-Occupied,NC,McDowell,11641,12076,11750,12115,12705,13092,13084,12619,12488,12301
+0,Avg household size of owner-occupied unit,NC,Macon,2.03,2.03,2.07,2.13,2.08,2.1,2.15,2.13,2.12,2.17
+1,Avg household size of renter-occupied unit,NC,Macon,2.12,2.18,2.18,2.32,2.36,2.31,2.36,2.32,2.3,2.15
+36,Owner-Occupied,NC,Macon,24661,24168,24388,24137,23618,23645,23998,24342,24218,25191
+37,Renter-Occupied,NC,Macon,7752,9006,8899,9234,9775,9867,9621,9451,9832,9260
+0,Avg household size of owner-occupied unit,NC,Madison,2.51,2.53,2.46,2.45,2.42,2.37,2.42,2.47,2.44,2.47
+1,Avg household size of renter-occupied unit,NC,Madison,1.96,2.12,2.19,2.28,2.27,2.31,2.28,2.29,2.28,2.28
+36,Owner-Occupied,NC,Madison,15407,15630,15262,15055,14692,14715,15006,15389,14987,15411
+37,Renter-Occupied,NC,Madison,3632,4006,4418,4710,5162,5197,5006,4850,5293,4961
+0,Avg household size of owner-occupied unit,NC,Martin,2.41,2.43,2.48,2.49,2.46,2.46,2.41,2.32,2.31,2.37
+1,Avg household size of renter-occupied unit,NC,Martin,2.42,2.47,2.64,2.64,2.64,2.72,2.64,2.58,2.68,2.53
+36,Owner-Occupied,NC,Martin,16766,16674,16342,16457,16393,15590,15866,15351,15228,15095
+37,Renter-Occupied,NC,Martin,7228,7459,7740,7500,7382,7985,7492,7726,7681,7612
+0,Avg household size of owner-occupied unit,NC,Mecklenburg,2.59,2.6,2.61,2.63,2.66,2.66,2.68,2.68,2.67,2.68
+1,Avg household size of renter-occupied unit,NC,Mecklenburg,2.3,2.33,2.37,2.41,2.43,2.44,2.44,2.44,2.45,2.44
+36,Owner-Occupied,NC,Mecklenburg,567052,573169,575307,574478,580253,581418,589566,601334,609434,621984
+37,Renter-Occupied,NC,Mecklenburg,300959,317176,336402,357439,372995,393506,406821,417878,429643,437053
+0,Avg household size of owner-occupied unit,NC,Mitchell,2.37,2.39,2.37,2.4,2.4,2.38,2.36,2.3,2.29,2.29
+1,Avg household size of renter-occupied unit,NC,Mitchell,2.04,2.21,2.19,2.18,2.21,2.29,2.2,2.42,2.39,2.39
+36,Owner-Occupied,NC,Mitchell,12102,11679,11852,11833,11929,11579,11986,11667,11699,11316
+37,Renter-Occupied,NC,Mitchell,3477,3679,3388,3307,3124,3396,2958,3169,2998,3335
+0,Avg household size of owner-occupied unit,NC,Montgomery,2.76,2.68,2.63,2.56,2.55,2.54,2.5,2.45,2.51,2.54
+1,Avg household size of renter-occupied unit,NC,Montgomery,2.49,2.38,2.7,2.4,2.39,2.46,2.39,2.39,2.52,2.65
+36,Owner-Occupied,NC,Montgomery,20352,19914,19482,18907,18852,18928,18841,18629,19000,19337
+37,Renter-Occupied,NC,Montgomery,6186,6500,7192,7732,7745,7752,7733,7799,7171,6799
+0,Avg household size of owner-occupied unit,NC,Moore,2.52,2.53,2.41,2.37,2.42,2.43,2.42,2.46,2.45,2.46
+1,Avg household size of renter-occupied unit,NC,Moore,2.38,2.32,2.33,2.41,2.42,2.44,2.45,2.34,2.32,2.26
+36,Owner-Occupied,NC,Moore,65511,66430,65331,65102,66720,67476,68160,69932,71892,74003
+37,Renter-Occupied,NC,Moore,19238,19493,21776,23102,22652,23050,23592,22864,22324,21900
+0,Avg household size of owner-occupied unit,NC,Nash,2.49,2.48,2.51,2.5,2.55,2.6,2.6,2.57,2.58,2.59
+1,Avg household size of renter-occupied unit,NC,Nash,2.39,2.39,2.42,2.42,2.42,2.38,2.36,2.36,2.36,2.29
+36,Owner-Occupied,NC,Nash,59838,59810,60113,60498,60738,61339,61718,61830,62211,62539
+37,Renter-Occupied,NC,Nash,32773,33069,33117,32809,32237,31166,30535,30220,29715,29369
+0,Avg household size of owner-occupied unit,NC,New Hanover,2.39,2.4,2.39,2.41,2.41,2.42,2.41,2.44,2.43,2.39
+1,Avg household size of renter-occupied unit,NC,New Hanover,2.15,2.17,2.22,2.23,2.23,2.22,2.24,2.17,2.17,2.19
+36,Owner-Occupied,NC,New Hanover,123073,122018,122288,121994,120959,122399,124477,128180,130106,132839
+37,Renter-Occupied,NC,New Hanover,69292,73480,75736,78721,82390,83957,85093,84755,86961,87672
+0,Avg household size of owner-occupied unit,NC,Northampton,2.57,2.53,2.43,2.39,2.41,2.31,2.22,2.19,2.22,2.15
+1,Avg household size of renter-occupied unit,NC,Northampton,2.67,2.46,2.67,2.53,2.39,2.43,2.43,2.3,2.3,2.42
+36,Owner-Occupied,NC,Northampton,16118,15908,14916,15019,14676,13717,13105,13392,13205,12571
+37,Renter-Occupied,NC,Northampton,5617,5471,6289,5893,5891,6522,6730,6230,6146,6533
+0,Avg household size of owner-occupied unit,NC,Onslow,2.66,2.72,2.74,2.78,2.84,2.83,2.86,2.84,2.8,2.8
+1,Avg household size of renter-occupied unit,NC,Onslow,2.65,2.7,2.71,2.73,2.67,2.65,2.64,2.6,2.61,2.63
+36,Owner-Occupied,NC,Onslow,85373,89650,91441,91447,93351,94476,94099,94069,94822,95679
+37,Renter-Occupied,NC,Onslow,64998,66663,69709,74118,75682,76298,78708,78038,79024,79461
+0,Avg household size of owner-occupied unit,NC,Orange,2.59,2.56,2.59,2.59,2.6,2.59,2.64,2.62,2.61,2.61
+1,Avg household size of renter-occupied unit,NC,Orange,2.12,2.13,2.16,2.24,2.27,2.29,2.28,2.35,2.34,2.29
+36,Owner-Occupied,NC,Orange,78682,78432,79573,80437,80642,81051,83480,84385,84893,87394
+37,Renter-Occupied,NC,Orange,41899,43032,44177,45427,46329,47129,45734,46874,46741,45705
+0,Avg household size of owner-occupied unit,NC,Pamlico,2.21,2.33,2.35,2.32,2.31,2.32,2.28,2.22,2.26,2.21
+1,Avg household size of renter-occupied unit,NC,Pamlico,2.37,2.48,2.56,2.88,2.82,2.47,2.37,2.32,2.19,2.2
+36,Owner-Occupied,NC,Pamlico,9878,10145,9954,9731,9440,9220,9166,8972,9104,9293
+37,Renter-Occupied,NC,Pamlico,2381,2291,2516,2731,2983,3119,3053,3142,2918,2657
+0,Avg household size of owner-occupied unit,NC,Pasquotank,2.6,2.65,2.62,2.62,2.6,2.56,2.53,2.49,2.48,2.44
+1,Avg household size of renter-occupied unit,NC,Pasquotank,2.62,2.58,2.67,2.71,2.6,2.7,2.64,2.63,2.56,2.64
+36,Owner-Occupied,NC,Pasquotank,25107,25291,24660,23993,24032,23119,22039,22033,22328,21366
+37,Renter-Occupied,NC,Pasquotank,12826,12933,13617,14151,13955,14653,15565,15180,14758,15686
+0,Avg household size of owner-occupied unit,NC,Pender,2.39,2.45,2.46,2.52,2.59,2.66,2.69,2.67,2.66,2.7
+1,Avg household size of renter-occupied unit,NC,Pender,2.54,2.64,2.77,2.73,2.73,2.73,2.7,2.74,2.64,2.83
+36,Owner-Occupied,NC,Pender,39013,38670,38866,39522,40497,41145,42812,44418,46608,47638
+37,Renter-Occupied,NC,Pender,9922,11398,12230,12557,12393,12679,12409,12027,11223,11559
+0,Avg household size of owner-occupied unit,NC,Perquimans,2.45,2.52,2.52,2.49,2.47,2.43,2.32,2.25,2.26,2.26
+1,Avg household size of renter-occupied unit,NC,Perquimans,2.34,2.4,2.25,2.35,2.37,2.47,2.4,2.37,2.26,2.21
+36,Owner-Occupied,NC,Perquimans,10132,10311,10702,10443,10418,10387,10157,9625,9908,10107
+37,Renter-Occupied,NC,Perquimans,2854,2846,2592,2914,2991,3019,3223,3792,3463,3239
+0,Avg household size of owner-occupied unit,NC,Person,2.5,2.5,2.55,2.55,2.49,2.49,2.51,2.49,2.48,2.46
+1,Avg household size of renter-occupied unit,NC,Person,2.47,2.5,2.45,2.5,2.64,2.59,2.46,2.36,2.43,2.4
+36,Owner-Occupied,NC,Person,28434,28200,28632,28090,27396,27497,27621,28312,29302,29845
+37,Renter-Occupied,NC,Person,9919,10550,10212,10791,11416,11250,11062,10410,9482,8985
+0,Avg household size of owner-occupied unit,NC,Pitt,2.56,2.56,2.53,2.54,2.53,2.54,2.53,2.56,2.56,2.56
+1,Avg household size of renter-occupied unit,NC,Pitt,2.25,2.33,2.39,2.42,2.47,2.42,2.37,2.38,2.37,2.35
+36,Owner-Occupied,NC,Pitt,90755,91692,91187,91447,90710,90610,91008,91987,92687,92986
+37,Renter-Occupied,NC,Pitt,64398,66664,70207,72735,75473,77035,77866,78279,78088,78570
+0,Avg household size of owner-occupied unit,NC,Polk,2.26,2.26,2.24,2.23,2.26,2.26,2.3,2.27,2.3,2.28
+1,Avg household size of renter-occupied unit,NC,Polk,1.95,2.16,2.41,2.42,2.34,2.4,2.32,2.22,2.01,2.08
+36,Owner-Occupied,NC,Polk,15900,15868,14705,14550,15023,14725,14548,14776,15272,15326
+37,Renter-Occupied,NC,Polk,3901,4147,5334,5490,4978,5256,5432,5324,4854,4913
+0,Avg household size of owner-occupied unit,NC,Randolph,2.57,2.57,2.57,2.61,2.61,2.58,2.58,2.56,2.55,2.52
+1,Avg household size of renter-occupied unit,NC,Randolph,2.4,2.47,2.49,2.53,2.55,2.59,2.55,2.5,2.46,2.47
+36,Owner-Occupied,NC,Randolph,103861,104138,104099,104696,104998,102372,102445,101820,102657,102310
+37,Renter-Occupied,NC,Randolph,34863,35570,36220,36075,35963,38618,38722,39573,38856,39344
+0,Avg household size of owner-occupied unit,NC,Richmond,2.58,2.6,2.56,2.52,2.54,2.45,2.44,2.41,2.37,2.39
+1,Avg household size of renter-occupied unit,NC,Richmond,2.77,2.65,2.51,2.4,2.32,2.38,2.33,2.36,2.34,2.33
+36,Owner-Occupied,NC,Richmond,31389,31072,30841,29616,29692,28319,29008,28994,29031,29085
+37,Renter-Occupied,NC,Richmond,13979,14200,14535,15616,15269,16346,15356,15005,14719,14482
+0,Avg household size of owner-occupied unit,NC,Robeson,2.88,2.9,2.88,2.88,2.88,2.86,2.85,2.86,2.87,2.83
+1,Avg household size of renter-occupied unit,NC,Robeson,2.93,2.93,2.92,2.94,2.91,2.9,2.88,2.8,2.76,2.77
+36,Owner-Occupied,NC,Robeson,86117,86661,85687,84448,83840,82519,83764,85340,85668,85364
+37,Renter-Occupied,NC,Robeson,42665,42738,44594,46527,47596,48935,47603,45673,44372,43713
+0,Avg household size of owner-occupied unit,NC,Rockingham,2.47,2.46,2.43,2.44,2.45,2.46,2.46,2.46,2.43,2.42
+1,Avg household size of renter-occupied unit,NC,Rockingham,2.35,2.36,2.44,2.41,2.36,2.34,2.32,2.35,2.38,2.34
+36,Owner-Occupied,NC,Rockingham,67358,67405,66334,65056,64575,63458,62422,62488,62431,62978
+37,Renter-Occupied,NC,Rockingham,24775,24742,25669,26638,26709,27470,28073,27612,27381,26617
+0,Avg household size of owner-occupied unit,NC,Rowan,2.51,2.49,2.49,2.52,2.53,2.57,2.6,2.61,2.61,2.57
+1,Avg household size of renter-occupied unit,NC,Rowan,2.52,2.53,2.59,2.62,2.65,2.64,2.64,2.59,2.53,2.57
+36,Owner-Occupied,NC,Rowan,94907,93055,91058,90620,89245,89501,90185,91929,94275,94196
+37,Renter-Occupied,NC,Rowan,38113,39393,42075,42834,44426,44542,44183,42756,40950,41645
+0,Avg household size of owner-occupied unit,NC,Rutherford,2.35,2.4,2.41,2.41,2.41,2.41,2.4,2.4,2.47,2.47
+1,Avg household size of renter-occupied unit,NC,Rutherford,2.48,2.46,2.41,2.47,2.59,2.67,2.66,2.63,2.51,2.41
+36,Owner-Occupied,NC,Rutherford,46392,47470,47864,46897,46638,45498,45932,45492,46324,47076
+37,Renter-Occupied,NC,Rutherford,19185,18329,18191,19186,19292,20162,19574,19830,18970,18283
+0,Avg household size of owner-occupied unit,NC,Sampson,2.62,2.64,2.68,2.7,2.68,2.7,2.7,2.69,2.67,2.68
+1,Avg household size of renter-occupied unit,NC,Sampson,2.64,2.68,2.62,2.66,2.7,2.7,2.62,2.64,2.62,2.61
+36,Owner-Occupied,NC,Sampson,42646,42266,43126,43617,43763,44538,43969,43860,43275,43550
+37,Renter-Occupied,NC,Sampson,19786,19967,19350,19134,19131,18395,18836,18844,19280,18775
+0,Avg household size of owner-occupied unit,NC,Scotland,2.65,2.73,2.71,2.69,2.66,2.64,2.57,2.51,2.52,2.55
+1,Avg household size of renter-occupied unit,NC,Scotland,2.45,2.5,2.54,2.54,2.56,2.51,2.5,2.44,2.45,2.5
+36,Owner-Occupied,NC,Scotland,22663,23663,23034,22291,22133,21637,21031,20677,20214,19902
+37,Renter-Occupied,NC,Scotland,11451,11062,11656,12069,11805,12047,12293,12296,12453,12773
+0,Avg household size of owner-occupied unit,NC,Stanly,2.64,2.58,2.53,2.54,2.51,2.47,2.46,2.45,2.46,2.56
+1,Avg household size of renter-occupied unit,NC,Stanly,2.57,2.53,2.46,2.48,2.44,2.48,2.53,2.51,2.57,2.51
+36,Owner-Occupied,NC,Stanly,45023,43724,43504,43000,42672,41465,41718,42350,42815,44373
+37,Renter-Occupied,NC,Stanly,13096,14421,14729,15317,15760,17019,16833,16457,16162,15024
+0,Avg household size of owner-occupied unit,NC,Stokes,2.55,2.53,2.45,2.53,2.51,2.47,2.44,2.4,2.38,2.33
+1,Avg household size of renter-occupied unit,NC,Stokes,2.22,2.19,2.26,2.12,2.26,2.3,2.24,2.25,2.26,2.26
+36,Owner-Occupied,NC,Stokes,39072,38090,37282,38617,37597,36321,36129,35876,35641,35315
+37,Renter-Occupied,NC,Stokes,7568,8564,9333,7884,8734,9834,9814,9729,9736,9935
+0,Avg household size of owner-occupied unit,NC,Surry,2.48,2.46,2.48,2.45,2.46,2.46,2.51,2.46,2.51,2.51
+1,Avg household size of renter-occupied unit,NC,Surry,2.33,2.27,2.28,2.34,2.47,2.49,2.44,2.38,2.3,2.23
+36,Owner-Occupied,NC,Surry,54621,54290,54019,53425,52147,51865,52279,52500,52586,53736
+37,Renter-Occupied,NC,Surry,17760,18151,18524,19090,20266,20314,19475,18804,18508,17242
+0,Avg household size of owner-occupied unit,NC,Swain,2.5,2.59,2.56,2.58,2.58,2.57,2.5,2.48,2.47,2.35
+1,Avg household size of renter-occupied unit,NC,Swain,1.87,2.05,2.27,2.48,2.55,2.64,2.74,2.73,2.81,2.82
+36,Owner-Occupied,NC,Swain,11177,11526,10962,10381,10268,9975,9492,9721,9601,9456
+37,Renter-Occupied,NC,Swain,2426,2081,2724,3337,3531,3929,4475,4212,4372,4511
+0,Avg household size of owner-occupied unit,NC,Transylvania,2.24,2.32,2.31,2.27,2.31,2.32,2.26,2.24,2.24,2.19
+1,Avg household size of renter-occupied unit,NC,Transylvania,2.22,2.08,2.17,2.23,2.28,2.3,2.43,2.37,2.43,2.34
+36,Owner-Occupied,NC,Transylvania,23742,25303,24865,24268,24605,24302,23776,23983,24288,24284
+37,Renter-Occupied,NC,Transylvania,7191,6277,6804,7394,7064,7326,8042,8058,7952,8179
+0,Avg household size of owner-occupied unit,NC,Tyrrell,1.99,2.24,2.17,2.35,2.42,2.45,2.25,2.07,2.01,2.06
+1,Avg household size of renter-occupied unit,NC,Tyrrell,2.53,2.72,2.52,2.87,2.72,2.47,3.08,2.85,2.3,2.19
+36,Owner-Occupied,NC,Tyrrell,2536,2953,2833,2621,2630,2626,2467,2404,2357,2239
+37,Renter-Occupied,NC,Tyrrell,990,797,902,1043,1000,935,1109,1070,1060,1110
+0,Avg household size of owner-occupied unit,NC,Union,2.89,2.94,2.96,2.97,2.98,2.97,2.96,2.96,2.97,2.97
+1,Avg household size of renter-occupied unit,NC,Union,2.81,2.83,2.94,3.04,3.02,3.08,3.06,3.07,3.05,3.09
+36,Owner-Occupied,NC,Union,155494,162732,164584,166280,167521,167523,170086,175777,179768,184665
+37,Renter-Occupied,NC,Union,33106,32377,35120,37163,39817,43759,45401,44175,44702,44089
+0,Avg household size of owner-occupied unit,NC,Vance,2.58,2.64,2.65,2.59,2.6,2.64,2.63,2.59,2.57,2.63
+1,Avg household size of renter-occupied unit,NC,Vance,2.83,2.77,2.88,2.78,2.74,2.65,2.61,2.53,2.62,2.55
+36,Owner-Occupied,NC,Vance,27755,28082,27185,26883,27666,27537,26228,25811,25873,25029
+37,Renter-Occupied,NC,Vance,16237,16175,17099,17370,16432,16371,17408,17800,17809,18711
+0,Avg household size of owner-occupied unit,NC,Wake,2.69,2.71,2.72,2.73,2.74,2.74,2.74,2.74,2.74,2.74
+1,Avg household size of renter-occupied unit,NC,Wake,2.27,2.3,2.34,2.37,2.39,2.39,2.4,2.42,2.41,2.39
+36,Owner-Occupied,NC,Wake,580484,602682,611621,620495,631913,641550,648140,670267,684616,701544
+37,Renter-Occupied,NC,Wake,249546,256217,272808,286965,298476,311907,327880,331617,340021,345583
+0,Avg household size of owner-occupied unit,NC,Warren,2.51,2.43,2.62,2.53,2.49,2.51,2.46,2.34,2.44,2.38
+1,Avg household size of renter-occupied unit,NC,Warren,2.94,2.88,2.8,2.72,2.55,2.42,2.55,2.4,2.46,2.58
+36,Owner-Occupied,NC,Warren,14778,14444,14033,13813,13827,13768,13346,13717,13795,13561
+37,Renter-Occupied,NC,Warren,5701,5909,6175,6191,5874,5642,5942,5486,5260,5377
+0,Avg household size of owner-occupied unit,NC,Washington,2.54,2.46,2.4,2.43,2.34,2.35,2.27,2.34,2.36,2.39
+1,Avg household size of renter-occupied unit,NC,Washington,2.81,2.92,2.93,2.8,2.74,2.51,2.56,2.31,2.37,2.32
+36,Owner-Occupied,NC,Washington,8790,9088,9015,8874,8189,8401,7665,7410,7572,7914
+37,Renter-Occupied,NC,Washington,4085,3918,3903,3920,4479,4101,4674,4759,4427,3858
+0,Avg household size of owner-occupied unit,NC,Watauga,2.31,2.31,2.26,2.26,2.27,2.32,2.29,2.35,2.32,2.31
+1,Avg household size of renter-occupied unit,NC,Watauga,1.83,1.96,2.04,2.12,2.33,2.39,2.37,2.36,2.46,2.34
+36,Owner-Occupied,NC,Watauga,26420,26071,26117,25938,26335,26809,27408,28155,28586,29193
+37,Renter-Occupied,NC,Watauga,17794,18339,19180,20026,20109,20103,19828,19707,19675,19733
+0,Avg household size of owner-occupied unit,NC,Wayne,2.53,2.54,2.57,2.56,2.57,2.57,2.58,2.54,2.52,2.51
+1,Avg household size of renter-occupied unit,NC,Wayne,2.47,2.42,2.39,2.5,2.52,2.53,2.6,2.57,2.51,2.47
+36,Owner-Occupied,NC,Wayne,75285,75416,75145,73459,73824,73275,72365,73534,74519,75396
+37,Renter-Occupied,NC,Wayne,40797,42029,43598,46531,47151,48185,49272,47876,46429,45190
+0,Avg household size of owner-occupied unit,NC,Wilkes,2.47,2.45,2.46,2.48,2.47,2.47,2.47,2.46,2.42,2.37
+1,Avg household size of renter-occupied unit,NC,Wilkes,2.39,2.42,2.41,2.48,2.54,2.52,2.43,2.38,2.29,2.28
+36,Owner-Occupied,NC,Wilkes,51061,50350,50801,50441,49860,50269,51027,50803,50816,51657
+37,Renter-Occupied,NC,Wilkes,17082,17868,17501,17785,18279,17732,16925,16806,16747,15917
+0,Avg household size of owner-occupied unit,NC,Wilson,2.45,2.48,2.5,2.47,2.46,2.49,2.47,2.45,2.43,2.45
+1,Avg household size of renter-occupied unit,NC,Wilson,2.46,2.44,2.46,2.59,2.55,2.52,2.56,2.55,2.55,2.56
+36,Owner-Occupied,NC,Wilson,47956,48302,47893,47612,47198,47748,47313,47501,46175,46379
+37,Renter-Occupied,NC,Wilson,29725,30214,31356,32057,32668,32264,32720,32336,33612,33522
+0,Avg household size of owner-occupied unit,NC,Yadkin,2.55,2.55,2.55,2.54,2.52,2.46,2.48,2.45,2.47,2.47
+1,Avg household size of renter-occupied unit,NC,Yadkin,2.42,2.42,2.51,2.52,2.39,2.42,2.37,2.32,2.23,2.23
+36,Owner-Occupied,NC,Yadkin,29693,29885,29653,29378,29391,28725,28915,28827,29305,29091
+37,Renter-Occupied,NC,Yadkin,7866,7856,8144,8417,8332,8919,8567,8663,8034,8182
+0,Avg household size of owner-occupied unit,NC,Yancey,2.42,2.46,2.42,2.4,2.41,2.34,2.33,2.34,2.35,2.32
+1,Avg household size of renter-occupied unit,NC,Yancey,2.24,2.47,2.64,2.44,2.45,2.38,2.33,2.29,2.4,2.4
+36,Owner-Occupied,NC,Yancey,14174,13595,13530,13450,13201,13105,13124,12881,12943,12798
+37,Renter-Occupied,NC,Yancey,3651,4125,4117,4113,4297,4337,4318,4571,4574,4814

@@ -1,0 +1,321 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,CO,Adams,22538,25253,26944,30863,33565,36061,36878,38685,39243,40776
+4,House Heating Fuel: Fuel Oil,CO,Adams,54,37,27,69,80,90,83,96,89,121
+5,House Heating Fuel: Gas,CO,Adams,121721,120573,120378,118247,117641,116717,117878,119563,120690,121111
+6,House Heating Fuel: Propane,CO,Adams,2653,2497,2449,2500,2663,2694,2710,2731,2642,2294
+7,House Heating Fuel: Wood,CO,Adams,326,431,506,447,484,345,342,319,309,393
+3,House Heating Fuel: Electric,CO,Alamosa,881,970,1059,1284,1165,1249,1405,1502,1589,1628
+4,House Heating Fuel: Fuel Oil,CO,Alamosa,77,178,148,166,142,126,78,87,52,34
+5,House Heating Fuel: Gas,CO,Alamosa,3497,3331,3331,3130,3263,3186,3126,3074,3097,3086
+6,House Heating Fuel: Propane,CO,Alamosa,863,775,790,777,779,685,618,614,670,767
+7,House Heating Fuel: Wood,CO,Alamosa,394,432,455,417,482,508,523,541,532,458
+3,House Heating Fuel: Electric,CO,Arapahoe,37472,40303,43642,48247,51660,55434,59079,62067,63801,66909
+4,House Heating Fuel: Fuel Oil,CO,Arapahoe,165,178,203,202,174,197,180,202,209,198
+5,House Heating Fuel: Gas,CO,Arapahoe,176312,176167,175616,172707,171856,169211,167290,167503,167694,166917
+6,House Heating Fuel: Propane,CO,Arapahoe,2851,2558,2546,2716,2549,2608,2724,2753,2835,3211
+7,House Heating Fuel: Wood,CO,Arapahoe,479,544,529,456,516,525,623,618,603,571
+3,House Heating Fuel: Electric,CO,Archuleta,411,434,575,632,660,613,711,675,563,591
+4,House Heating Fuel: Fuel Oil,CO,Archuleta,13,33,39,17,12,13,6,0,0,0
+5,House Heating Fuel: Gas,CO,Archuleta,1236,1189,1490,1681,2087,2118,2247,2437,2337,2510
+6,House Heating Fuel: Propane,CO,Archuleta,1121,1482,1568,1536,1666,1646,1374,1435,1711,1736
+7,House Heating Fuel: Wood,CO,Archuleta,497,715,766,887,817,829,884,852,922,862
+3,House Heating Fuel: Electric,CO,Baca,104,106,109,114,123,132,142,180,155,169
+4,House Heating Fuel: Fuel Oil,CO,Baca,2,4,3,3,4,1,0,0,0,0
+5,House Heating Fuel: Gas,CO,Baca,1073,1068,1057,1058,1078,1009,1002,1033,1114,1084
+6,House Heating Fuel: Propane,CO,Baca,449,448,469,441,382,380,355,346,335,381
+7,House Heating Fuel: Wood,CO,Baca,29,33,28,15,21,17,14,17,16,9
+3,House Heating Fuel: Electric,CO,Bent,152,168,166,189,178,123,150,155,146,133
+4,House Heating Fuel: Fuel Oil,CO,Bent,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,CO,Bent,1338,1414,1370,1207,1124,1104,1107,1126,1136,1244
+6,House Heating Fuel: Propane,CO,Bent,340,339,346,412,398,339,386,369,349,312
+7,House Heating Fuel: Wood,CO,Bent,90,47,44,58,84,62,71,88,90,56
+3,House Heating Fuel: Electric,CO,Boulder,20802,21490,22904,24025,24592,25752,27166,28059,28198,29079
+4,House Heating Fuel: Fuel Oil,CO,Boulder,190,140,141,122,99,122,110,136,115,109
+5,House Heating Fuel: Gas,CO,Boulder,90961,90993,90685,89447,89810,89330,89290,90069,90956,91532
+6,House Heating Fuel: Propane,CO,Boulder,3550,3647,3906,4076,4030,4059,3868,3573,3690,3698
+7,House Heating Fuel: Wood,CO,Boulder,1178,1371,1486,1735,1801,1906,1730,1563,1301,1225
+3,House Heating Fuel: Electric,CO,Broomfield,3205,3446,3461,3971,4426,5077,5717,6153,6504,6577
+4,House Heating Fuel: Fuel Oil,CO,Broomfield,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,CO,Broomfield,16611,17178,17667,17744,17859,17939,18126,19014,19413,20020
+6,House Heating Fuel: Propane,CO,Broomfield,75,88,106,148,172,284,396,407,435,459
+7,House Heating Fuel: Wood,CO,Broomfield,124,46,37,28,32,50,49,61,63,44
+3,House Heating Fuel: Electric,CO,Chaffee,921,919,832,892,995,957,985,1191,1251,1231
+4,House Heating Fuel: Fuel Oil,CO,Chaffee,57,50,35,21,12,0,10,16,16,19
+5,House Heating Fuel: Gas,CO,Chaffee,3835,4011,3973,4058,4053,4113,3954,3916,3887,3889
+6,House Heating Fuel: Propane,CO,Chaffee,1495,1585,1872,1851,1645,1655,1769,1700,1796,2025
+7,House Heating Fuel: Wood,CO,Chaffee,811,949,823,898,905,938,914,971,852,840
+3,House Heating Fuel: Electric,CO,Cheyenne,133,98,92,79,72,82,84,83,92,101
+4,House Heating Fuel: Fuel Oil,CO,Cheyenne,0,0,0,0,0,0,0,0,5,5
+5,House Heating Fuel: Gas,CO,Cheyenne,415,458,476,458,436,407,393,400,396,396
+6,House Heating Fuel: Propane,CO,Cheyenne,250,275,264,265,243,220,256,257,219,253
+7,House Heating Fuel: Wood,CO,Cheyenne,25,27,15,24,20,24,27,18,14,10
+3,House Heating Fuel: Electric,CO,Clear Creek,749,526,546,538,546,575,694,735,807,755
+4,House Heating Fuel: Fuel Oil,CO,Clear Creek,0,13,35,37,35,56,39,17,11,14
+5,House Heating Fuel: Gas,CO,Clear Creek,2000,2093,2095,2156,2164,2455,2412,2256,2426,2248
+6,House Heating Fuel: Propane,CO,Clear Creek,934,908,899,759,735,601,672,691,817,806
+7,House Heating Fuel: Wood,CO,Clear Creek,392,356,317,376,483,460,530,546,456,428
+3,House Heating Fuel: Electric,CO,Conejos,230,241,237,250,258,251,259,304,386,295
+4,House Heating Fuel: Fuel Oil,CO,Conejos,43,64,109,92,75,80,69,30,13,22
+5,House Heating Fuel: Gas,CO,Conejos,1328,1387,1309,1279,1213,1184,1144,1216,1214,1308
+6,House Heating Fuel: Propane,CO,Conejos,522,488,505,471,461,396,377,388,443,475
+7,House Heating Fuel: Wood,CO,Conejos,899,838,949,976,972,1000,1022,1020,979,1020
+3,House Heating Fuel: Electric,CO,Costilla,223,81,132,99,119,152,180,177,155,181
+4,House Heating Fuel: Fuel Oil,CO,Costilla,99,88,125,131,128,104,85,96,86,78
+5,House Heating Fuel: Gas,CO,Costilla,109,99,105,45,77,83,101,109,131,101
+6,House Heating Fuel: Propane,CO,Costilla,707,744,686,683,597,616,622,679,716,833
+7,House Heating Fuel: Wood,CO,Costilla,237,244,311,350,419,455,453,450,491,446
+3,House Heating Fuel: Electric,CO,Crowley,56,36,71,146,166,196,241,203,123,138
+4,House Heating Fuel: Fuel Oil,CO,Crowley,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,CO,Crowley,764,799,811,770,783,722,655,721,790,859
+6,House Heating Fuel: Propane,CO,Crowley,292,293,268,215,199,197,193,215,190,195
+7,House Heating Fuel: Wood,CO,Crowley,30,34,39,27,25,54,85,74,86,105
+3,House Heating Fuel: Electric,CO,Custer,333,289,281,353,278,245,269,262,296,326
+4,House Heating Fuel: Fuel Oil,CO,Custer,5,0,0,3,4,3,3,3,0,0
+5,House Heating Fuel: Gas,CO,Custer,115,98,96,68,90,66,66,80,60,52
+6,House Heating Fuel: Propane,CO,Custer,946,979,1085,1011,981,927,911,1020,1034,1204
+7,House Heating Fuel: Wood,CO,Custer,369,369,527,572,695,691,642,646,593,545
+3,House Heating Fuel: Electric,CO,Delta,1599,1562,1626,1822,1897,1859,2101,2299,2270,2389
+4,House Heating Fuel: Fuel Oil,CO,Delta,85,81,21,11,2,22,23,16,17,27
+5,House Heating Fuel: Gas,CO,Delta,6272,6474,6638,6675,6757,6586,6428,6336,6199,6032
+6,House Heating Fuel: Propane,CO,Delta,2392,2293,2147,2075,1815,1741,1695,1828,1630,1806
+7,House Heating Fuel: Wood,CO,Delta,1636,1648,1640,1629,1727,1478,1365,1217,1338,1183
+3,House Heating Fuel: Electric,CO,Denver,55179,62538,67416,71683,76449,80435,81162,82257,84775,88795
+4,House Heating Fuel: Fuel Oil,CO,Denver,267,206,243,149,160,266,349,308,342,363
+5,House Heating Fuel: Gas,CO,Denver,191889,188951,187887,187474,187111,187455,190985,195093,199139,202325
+6,House Heating Fuel: Propane,CO,Denver,2093,1897,1964,2070,2412,2671,2921,3306,3577,3435
+7,House Heating Fuel: Wood,CO,Denver,206,275,251,263,268,256,243,301,332,333
+3,House Heating Fuel: Electric,CO,Dolores,31,30,40,34,33,61,58,66,73,88
+4,House Heating Fuel: Fuel Oil,CO,Dolores,0,0,0,0,5,8,7,6,6,0
+5,House Heating Fuel: Gas,CO,Dolores,303,320,286,296,287,247,228,205,202,225
+6,House Heating Fuel: Propane,CO,Dolores,221,207,215,211,211,199,259,248,280,299
+7,House Heating Fuel: Wood,CO,Dolores,204,273,230,212,206,175,162,182,173,136
+3,House Heating Fuel: Electric,CO,Douglas,13175,13523,13978,15276,16068,17809,19243,19947,21737,23004
+4,House Heating Fuel: Fuel Oil,CO,Douglas,35,13,15,32,27,31,35,28,26,27
+5,House Heating Fuel: Gas,CO,Douglas,82261,84224,84910,85324,85922,89371,90625,89726,91437,93056
+6,House Heating Fuel: Propane,CO,Douglas,2549,2327,2513,2355,2527,3067,3191,3129,3219,3451
+7,House Heating Fuel: Wood,CO,Douglas,366,338,399,454,489,478,479,411,377,431
+3,House Heating Fuel: Electric,CO,Eagle,4825,5270,5525,5456,5316,5349,5068,4934,4778,5165
+4,House Heating Fuel: Fuel Oil,CO,Eagle,88,70,89,89,51,6,6,6,8,0
+5,House Heating Fuel: Gas,CO,Eagle,11844,11776,11533,11135,11318,11254,11131,11467,11512,11534
+6,House Heating Fuel: Propane,CO,Eagle,916,773,700,683,662,408,578,607,719,786
+7,House Heating Fuel: Wood,CO,Eagle,474,446,532,554,587,653,564,445,442,373
+3,House Heating Fuel: Electric,CO,Elbert,561,595,631,736,802,982,1041,1087,1026,1000
+4,House Heating Fuel: Fuel Oil,CO,Elbert,11,11,18,47,52,53,27,21,3,5
+5,House Heating Fuel: Gas,CO,Elbert,2914,2904,2965,2928,3073,3183,3132,3222,3488,3484
+6,House Heating Fuel: Propane,CO,Elbert,4129,4130,4034,3982,3753,3564,3631,3768,3743,4055
+7,House Heating Fuel: Wood,CO,Elbert,379,398,351,342,408,428,468,531,542,461
+3,House Heating Fuel: Electric,CO,El Paso,34494,35672,38453,42081,45650,49950,54025,56213,57909,59724
+4,House Heating Fuel: Fuel Oil,CO,El Paso,237,280,282,210,123,130,125,103,127,181
+5,House Heating Fuel: Gas,CO,El Paso,180177,181946,182582,181609,180992,181702,181336,179449,181864,184131
+6,House Heating Fuel: Propane,CO,El Paso,8696,9164,9131,9458,9672,9693,9787,9971,9639,9537
+7,House Heating Fuel: Wood,CO,El Paso,1938,1932,2032,2056,1895,1921,1869,1665,1508,1594
+3,House Heating Fuel: Electric,CO,Fremont,1864,1774,1704,1711,1575,1673,1786,1880,1931,1960
+4,House Heating Fuel: Fuel Oil,CO,Fremont,5,13,20,21,22,29,16,10,14,5
+5,House Heating Fuel: Gas,CO,Fremont,10909,11415,11466,11282,11311,11204,11172,11313,11647,11548
+6,House Heating Fuel: Propane,CO,Fremont,2131,2133,2181,2216,2108,1945,1971,2018,2003,2119
+7,House Heating Fuel: Wood,CO,Fremont,1507,1611,1539,1466,1400,1241,1155,1325,1359,1290
+3,House Heating Fuel: Electric,CO,Garfield,3518,3794,3625,3528,3659,3844,3905,3994,4282,4777
+4,House Heating Fuel: Fuel Oil,CO,Garfield,14,37,39,56,51,55,26,34,10,10
+5,House Heating Fuel: Gas,CO,Garfield,13987,13722,13980,14019,13867,14013,14278,14414,14095,13979
+6,House Heating Fuel: Propane,CO,Garfield,1363,1588,1563,1499,1627,1515,1414,1384,1531,1437
+7,House Heating Fuel: Wood,CO,Garfield,777,768,836,753,787,813,770,819,783,943
+3,House Heating Fuel: Electric,CO,Gilpin,368,344,317,284,260,327,437,488,545,624
+4,House Heating Fuel: Fuel Oil,CO,Gilpin,0,12,16,19,29,37,22,21,27,0
+5,House Heating Fuel: Gas,CO,Gilpin,1084,1154,1165,1229,1196,1229,1144,1239,1261,1330
+6,House Heating Fuel: Propane,CO,Gilpin,623,509,474,376,409,404,372,353,378,349
+7,House Heating Fuel: Wood,CO,Gilpin,419,391,441,538,522,524,486,467,390,363
+3,House Heating Fuel: Electric,CO,Grand,1361,1122,1002,887,887,1066,1470,1707,1931,2075
+4,House Heating Fuel: Fuel Oil,CO,Grand,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,CO,Grand,2757,2923,3114,3048,2974,2918,2905,2653,2562,2572
+6,House Heating Fuel: Propane,CO,Grand,696,631,629,729,663,676,734,710,646,669
+7,House Heating Fuel: Wood,CO,Grand,511,499,580,549,666,565,575,564,602,477
+3,House Heating Fuel: Electric,CO,Gunnison,1593,1742,1777,1540,1590,1575,1680,1683,1788,1959
+4,House Heating Fuel: Fuel Oil,CO,Gunnison,43,44,40,26,15,17,20,16,14,18
+5,House Heating Fuel: Gas,CO,Gunnison,3117,3021,3120,3147,3085,3015,3230,3159,3196,3004
+6,House Heating Fuel: Propane,CO,Gunnison,784,776,832,845,824,776,802,752,783,755
+7,House Heating Fuel: Wood,CO,Gunnison,532,598,506,559,674,754,710,776,742,750
+3,House Heating Fuel: Electric,CO,Hinsdale,56,47,69,78,81,83,94,77,73,69
+4,House Heating Fuel: Fuel Oil,CO,Hinsdale,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,CO,Hinsdale,13,16,34,38,36,32,33,26,20,18
+6,House Heating Fuel: Propane,CO,Hinsdale,128,190,161,162,175,159,154,156,172,163
+7,House Heating Fuel: Wood,CO,Hinsdale,55,67,104,101,119,116,113,102,118,123
+3,House Heating Fuel: Electric,CO,Huerfano,403,402,462,409,482,550,539,526,500,413
+4,House Heating Fuel: Fuel Oil,CO,Huerfano,16,14,9,6,3,0,0,0,0,0
+5,House Heating Fuel: Gas,CO,Huerfano,1063,1112,1047,1042,940,975,942,1015,1165,1223
+6,House Heating Fuel: Propane,CO,Huerfano,1123,941,943,980,781,851,1031,1000,1045,1048
+7,House Heating Fuel: Wood,CO,Huerfano,403,439,491,472,530,538,539,547,523,493
+3,House Heating Fuel: Electric,CO,Jackson,152,144,110,124,157,176,184,199,192,168
+4,House Heating Fuel: Fuel Oil,CO,Jackson,0,8,9,8,10,11,0,0,0,0
+5,House Heating Fuel: Gas,CO,Jackson,275,268,252,262,219,129,122,122,125,140
+6,House Heating Fuel: Propane,CO,Jackson,81,70,69,79,88,90,96,77,63,69
+7,House Heating Fuel: Wood,CO,Jackson,161,229,162,158,153,199,199,188,187,181
+3,House Heating Fuel: Electric,CO,Jefferson,34765,36186,37059,38816,39994,41186,42757,44485,47087,48865
+4,House Heating Fuel: Fuel Oil,CO,Jefferson,155,132,148,91,114,106,158,151,201,180
+5,House Heating Fuel: Gas,CO,Jefferson,173215,172485,173030,171766,171580,172258,173066,173263,172687,172547
+6,House Heating Fuel: Propane,CO,Jefferson,5120,4966,5058,4996,5022,4807,4679,4756,4982,5117
+7,House Heating Fuel: Wood,CO,Jefferson,2009,2145,1872,2041,2203,2370,2490,2606,2447,2174
+3,House Heating Fuel: Electric,CO,Kiowa,54,48,47,52,39,43,59,57,66,67
+4,House Heating Fuel: Fuel Oil,CO,Kiowa,0,0,4,5,7,7,7,2,0,0
+5,House Heating Fuel: Gas,CO,Kiowa,372,374,290,288,308,332,339,336,381,402
+6,House Heating Fuel: Propane,CO,Kiowa,247,263,166,193,180,183,154,158,123,134
+7,House Heating Fuel: Wood,CO,Kiowa,26,28,16,18,20,15,19,16,16,15
+3,House Heating Fuel: Electric,CO,Kit Carson,301,199,215,297,398,410,443,439,374,264
+4,House Heating Fuel: Fuel Oil,CO,Kit Carson,2,5,10,8,10,10,0,0,0,0
+5,House Heating Fuel: Gas,CO,Kit Carson,2199,2225,2245,2103,2093,2016,1985,1941,2035,2219
+6,House Heating Fuel: Propane,CO,Kit Carson,462,495,511,552,476,506,494,527,486,441
+7,House Heating Fuel: Wood,CO,Kit Carson,31,24,16,23,21,29,19,22,22,30
+3,House Heating Fuel: Electric,CO,Lake,418,460,431,554,564,449,451,523,583,621
+4,House Heating Fuel: Fuel Oil,CO,Lake,45,38,9,10,11,0,0,71,91,74
+5,House Heating Fuel: Gas,CO,Lake,1561,1456,1705,1851,1834,1923,2030,2010,1883,1872
+6,House Heating Fuel: Propane,CO,Lake,370,377,343,304,300,337,330,392,389,476
+7,House Heating Fuel: Wood,CO,Lake,278,301,355,333,370,298,271,289,355,282
+3,House Heating Fuel: Electric,CO,La Plata,3071,3001,3315,3490,3403,3434,3467,3317,3310,3539
+4,House Heating Fuel: Fuel Oil,CO,La Plata,12,59,91,71,73,85,30,22,27,21
+5,House Heating Fuel: Gas,CO,La Plata,9816,9976,9910,9672,9672,9663,9832,10193,10489,10472
+6,House Heating Fuel: Propane,CO,La Plata,5072,5327,5097,4998,5291,5322,5353,5285,5184,5170
+7,House Heating Fuel: Wood,CO,La Plata,2144,1993,2212,2297,2285,2456,2408,2352,2160,1978
+3,House Heating Fuel: Electric,CO,Larimer,21455,21894,22849,24241,24818,26139,27056,27649,27991,29085
+4,House Heating Fuel: Fuel Oil,CO,Larimer,136,104,76,68,69,103,112,127,85,97
+5,House Heating Fuel: Gas,CO,Larimer,87627,88334,89269,88947,89496,90554,91731,93933,96320,98693
+6,House Heating Fuel: Propane,CO,Larimer,5424,5532,5547,5595,5743,5703,5458,5856,6063,5976
+7,House Heating Fuel: Wood,CO,Larimer,1829,1835,1774,1644,1652,1611,1637,1748,1766,1779
+3,House Heating Fuel: Electric,CO,Las Animas,585,603,587,500,462,514,710,781,839,962
+4,House Heating Fuel: Fuel Oil,CO,Las Animas,48,69,69,61,47,34,11,2,7,5
+5,House Heating Fuel: Gas,CO,Las Animas,3458,3382,3290,3220,3141,3234,3270,3316,3411,3435
+6,House Heating Fuel: Propane,CO,Las Animas,1505,1479,1346,1320,1354,1336,1312,1456,1434,1478
+7,House Heating Fuel: Wood,CO,Las Animas,712,720,753,797,793,605,661,657,675,676
+3,House Heating Fuel: Electric,CO,Lincoln,293,296,305,322,277,237,191,189,198,215
+4,House Heating Fuel: Fuel Oil,CO,Lincoln,5,5,8,8,8,7,12,9,3,3
+5,House Heating Fuel: Gas,CO,Lincoln,1171,1159,1102,1069,1020,1007,862,860,858,875
+6,House Heating Fuel: Propane,CO,Lincoln,369,398,404,374,379,364,363,349,393,360
+7,House Heating Fuel: Wood,CO,Lincoln,62,55,32,35,35,28,38,37,45,37
+3,House Heating Fuel: Electric,CO,Logan,1167,1279,1447,1548,1629,1635,1807,1944,2019,2041
+4,House Heating Fuel: Fuel Oil,CO,Logan,35,21,22,24,25,13,13,11,7,4
+5,House Heating Fuel: Gas,CO,Logan,5546,5526,5298,5207,4970,5019,4912,4900,4884,4956
+6,House Heating Fuel: Propane,CO,Logan,1197,1122,1122,1094,1039,1137,1137,1127,1083,1229
+7,House Heating Fuel: Wood,CO,Logan,179,107,67,76,77,45,87,94,103,109
+3,House Heating Fuel: Electric,CO,Mesa,7958,8606,8799,9026,9537,9775,9690,9911,10265,9926
+4,House Heating Fuel: Fuel Oil,CO,Mesa,91,72,47,42,67,33,43,42,30,12
+5,House Heating Fuel: Gas,CO,Mesa,43987,44357,44600,44609,44527,44353,44696,45317,45532,46784
+6,House Heating Fuel: Propane,CO,Mesa,2427,2484,2363,2072,2199,2291,2371,2445,2586,2299
+7,House Heating Fuel: Wood,CO,Mesa,1786,1760,1833,1870,1686,1859,1771,1819,1681,1747
+3,House Heating Fuel: Electric,CO,Mineral,107,72,67,89,78,73,102,90,72,63
+4,House Heating Fuel: Fuel Oil,CO,Mineral,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,CO,Mineral,31,19,18,16,15,7,15,21,24,27
+6,House Heating Fuel: Propane,CO,Mineral,181,148,151,165,158,160,169,171,150,137
+7,House Heating Fuel: Wood,CO,Mineral,118,124,123,122,114,120,116,114,119,136
+3,House Heating Fuel: Electric,CO,Moffat,601,574,596,616,637,676,690,686,706,896
+4,House Heating Fuel: Fuel Oil,CO,Moffat,0,8,10,13,4,6,0,0,0,0
+5,House Heating Fuel: Gas,CO,Moffat,3628,3562,3476,3297,3118,3187,3131,3360,3442,3403
+6,House Heating Fuel: Propane,CO,Moffat,516,583,616,589,562,548,574,543,594,659
+7,House Heating Fuel: Wood,CO,Moffat,444,480,376,383,394,419,344,317,269,259
+3,House Heating Fuel: Electric,CO,Montezuma,1330,1364,1272,1245,1337,1318,1478,1501,1567,1661
+4,House Heating Fuel: Fuel Oil,CO,Montezuma,20,37,30,28,33,36,20,19,67,55
+5,House Heating Fuel: Gas,CO,Montezuma,4045,4160,4076,4146,4222,4161,3915,4115,4009,3910
+6,House Heating Fuel: Propane,CO,Montezuma,3247,3033,3237,2969,2716,2621,2820,2761,2972,3122
+7,House Heating Fuel: Wood,CO,Montezuma,2063,2054,1986,1994,2068,2027,1831,1839,1741,1678
+3,House Heating Fuel: Electric,CO,Montrose,2841,2844,2663,2814,2820,2620,2688,2905,2631,2560
+4,House Heating Fuel: Fuel Oil,CO,Montrose,48,37,24,12,0,9,8,18,52,51
+5,House Heating Fuel: Gas,CO,Montrose,9122,9299,9564,9440,9775,9854,9724,9858,10278,10582
+6,House Heating Fuel: Propane,CO,Montrose,2360,2195,2004,1896,1925,2024,2007,2065,2050,2055
+7,House Heating Fuel: Wood,CO,Montrose,1526,1748,2002,1953,1984,1880,1790,1775,1726,1490
+3,House Heating Fuel: Electric,CO,Morgan,2679,2785,2755,2888,2827,2855,3066,3266,3378,3563
+4,House Heating Fuel: Fuel Oil,CO,Morgan,35,24,17,22,22,27,18,24,26,12
+5,House Heating Fuel: Gas,CO,Morgan,5802,5722,5658,5659,5761,5591,5534,5513,5624,5358
+6,House Heating Fuel: Propane,CO,Morgan,1522,1673,1770,1619,1501,1609,1533,1413,1381,1664
+7,House Heating Fuel: Wood,CO,Morgan,206,196,182,128,185,189,177,228,260,236
+3,House Heating Fuel: Electric,CO,Otero,731,702,664,778,769,827,874,860,835,852
+4,House Heating Fuel: Fuel Oil,CO,Otero,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,CO,Otero,6140,5908,6225,5905,5927,5881,5895,5932,6199,6186
+6,House Heating Fuel: Propane,CO,Otero,471,471,455,468,429,532,510,470,425,424
+7,House Heating Fuel: Wood,CO,Otero,198,301,251,221,202,166,112,170,178,183
+3,House Heating Fuel: Electric,CO,Ouray,107,184,242,260,222,270,275,225,284,289
+4,House Heating Fuel: Fuel Oil,CO,Ouray,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,CO,Ouray,465,476,560,608,647,666,800,909,943,967
+6,House Heating Fuel: Propane,CO,Ouray,746,699,753,680,704,698,710,656,606,588
+7,House Heating Fuel: Wood,CO,Ouray,345,299,300,347,342,307,321,359,322,285
+3,House Heating Fuel: Electric,CO,Park,646,734,557,478,594,660,632,827,766,734
+4,House Heating Fuel: Fuel Oil,CO,Park,32,16,15,15,14,2,0,0,0,0
+5,House Heating Fuel: Gas,CO,Park,2498,2449,2159,2377,2417,2644,2730,2780,2771,2751
+6,House Heating Fuel: Propane,CO,Park,2112,2024,2149,2258,2257,2080,2161,2110,2082,2094
+7,House Heating Fuel: Wood,CO,Park,1542,1581,1796,1685,1646,1683,1630,1468,1286,1173
+3,House Heating Fuel: Electric,CO,Phillips,343,317,271,360,387,426,403,409,331,347
+4,House Heating Fuel: Fuel Oil,CO,Phillips,25,40,24,23,21,8,3,2,2,2
+5,House Heating Fuel: Gas,CO,Phillips,1149,1107,1031,968,919,912,969,934,982,1041
+6,House Heating Fuel: Propane,CO,Phillips,292,276,294,266,294,325,302,298,313,264
+7,House Heating Fuel: Wood,CO,Phillips,17,15,5,7,11,12,9,9,9,0
+3,House Heating Fuel: Electric,CO,Pitkin,2678,2487,2431,2282,2364,2520,2621,2755,2706,2728
+4,House Heating Fuel: Fuel Oil,CO,Pitkin,33,48,39,44,54,15,15,16,7,0
+5,House Heating Fuel: Gas,CO,Pitkin,3773,4031,4051,4276,4125,4147,4086,3783,3570,4019
+6,House Heating Fuel: Propane,CO,Pitkin,490,426,439,549,511,555,554,510,471,445
+7,House Heating Fuel: Wood,CO,Pitkin,393,353,333,279,234,256,250,204,217,217
+3,House Heating Fuel: Electric,CO,Prowers,501,427,535,566,496,528,603,498,565,522
+4,House Heating Fuel: Fuel Oil,CO,Prowers,0,0,0,0,0,0,3,3,3,19
+5,House Heating Fuel: Gas,CO,Prowers,3827,3971,3880,3755,3810,3700,3678,3801,3857,3871
+6,House Heating Fuel: Propane,CO,Prowers,473,476,475,502,508,510,472,463,398,361
+7,House Heating Fuel: Wood,CO,Prowers,76,95,81,81,92,93,70,73,70,58
+3,House Heating Fuel: Electric,CO,Pueblo,6708,7191,7541,7896,8791,9480,10354,10894,11045,10954
+4,House Heating Fuel: Fuel Oil,CO,Pueblo,92,80,28,26,15,14,6,23,37,39
+5,House Heating Fuel: Gas,CO,Pueblo,47831,48266,48871,49199,48829,48414,47534,47558,48019,48589
+6,House Heating Fuel: Propane,CO,Pueblo,5300,4793,4224,3833,3470,3230,3024,2941,2609,2747
+7,House Heating Fuel: Wood,CO,Pueblo,911,901,812,776,937,1037,1082,1110,1158,1119
+3,House Heating Fuel: Electric,CO,Rio Blanco,470,488,554,541,523,463,482,476,488,509
+4,House Heating Fuel: Fuel Oil,CO,Rio Blanco,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,CO,Rio Blanco,1584,1527,1515,1588,1609,1573,1499,1463,1461,1353
+6,House Heating Fuel: Propane,CO,Rio Blanco,281,259,259,281,266,249,261,290,279,238
+7,House Heating Fuel: Wood,CO,Rio Blanco,227,191,193,204,222,169,159,136,129,162
+3,House Heating Fuel: Electric,CO,Rio Grande,558,617,653,746,692,592,615,816,800,951
+4,House Heating Fuel: Fuel Oil,CO,Rio Grande,34,23,18,21,20,21,12,14,12,19
+5,House Heating Fuel: Gas,CO,Rio Grande,1684,1844,1996,1966,2006,1831,1829,1775,1720,1888
+6,House Heating Fuel: Propane,CO,Rio Grande,874,931,1019,1067,1024,1021,1018,927,904,879
+7,House Heating Fuel: Wood,CO,Rio Grande,426,456,592,848,923,1048,1019,1097,943,930
+3,House Heating Fuel: Electric,CO,Routt,2299,1890,2126,2204,2375,2512,2654,2858,2776,2841
+4,House Heating Fuel: Fuel Oil,CO,Routt,0,0,3,2,2,2,2,0,0,0
+5,House Heating Fuel: Gas,CO,Routt,5016,5263,5018,4952,4731,4542,4379,4110,4280,4355
+6,House Heating Fuel: Propane,CO,Routt,1835,1647,1625,1550,1520,1395,1505,1548,1543,1425
+7,House Heating Fuel: Wood,CO,Routt,707,917,821,710,697,685,630,726,760,851
+3,House Heating Fuel: Electric,CO,Saguache,432,509,501,497,463,458,312,321,272,358
+4,House Heating Fuel: Fuel Oil,CO,Saguache,21,17,18,26,25,15,19,34,16,17
+5,House Heating Fuel: Gas,CO,Saguache,792,741,739,705,617,579,622,640,630,690
+6,House Heating Fuel: Propane,CO,Saguache,732,684,707,680,681,703,765,853,872,985
+7,House Heating Fuel: Wood,CO,Saguache,650,703,706,728,730,762,686,660,705,674
+3,House Heating Fuel: Electric,CO,San Juan,53,43,34,39,23,31,36,36,37,42
+4,House Heating Fuel: Fuel Oil,CO,San Juan,6,2,3,3,2,2,0,0,0,0
+5,House Heating Fuel: Gas,CO,San Juan,64,53,42,34,34,20,19,13,14,33
+6,House Heating Fuel: Propane,CO,San Juan,183,208,174,138,160,139,126,126,147,150
+7,House Heating Fuel: Wood,CO,San Juan,87,70,99,80,93,79,97,69,59,49
+3,House Heating Fuel: Electric,CO,San Miguel,698,856,901,875,920,949,984,968,1062,1026
+4,House Heating Fuel: Fuel Oil,CO,San Miguel,4,3,2,2,2,2,2,0,8,18
+5,House Heating Fuel: Gas,CO,San Miguel,1670,1698,1658,1488,1495,1434,1446,1427,1539,1654
+6,House Heating Fuel: Propane,CO,San Miguel,457,467,376,449,438,427,391,471,452,504
+7,House Heating Fuel: Wood,CO,San Miguel,326,349,333,375,435,430,390,399,340,302
+3,House Heating Fuel: Electric,CO,Sedgwick,133,148,154,189,162,169,218,221,190,208
+4,House Heating Fuel: Fuel Oil,CO,Sedgwick,4,0,0,0,1,1,2,1,2,0
+5,House Heating Fuel: Gas,CO,Sedgwick,600,651,561,532,517,527,535,562,585,532
+6,House Heating Fuel: Propane,CO,Sedgwick,220,216,188,181,204,212,227,197,222,209
+7,House Heating Fuel: Wood,CO,Sedgwick,40,41,63,27,36,23,18,9,10,5
+3,House Heating Fuel: Electric,CO,Summit,3033,3097,3313,3155,2994,3195,3490,3834,4155,4830
+4,House Heating Fuel: Fuel Oil,CO,Summit,0,0,0,0,0,0,0,0,33,34
+5,House Heating Fuel: Gas,CO,Summit,6589,7024,7220,7204,6678,6100,5575,4999,4864,5120
+6,House Heating Fuel: Propane,CO,Summit,524,510,428,423,397,349,204,224,187,198
+7,House Heating Fuel: Wood,CO,Summit,350,321,358,329,303,406,346,301,338,333
+3,House Heating Fuel: Electric,CO,Teller,1090,918,892,953,883,903,1070,1222,1274,1273
+4,House Heating Fuel: Fuel Oil,CO,Teller,24,40,45,16,19,30,14,18,17,4
+5,House Heating Fuel: Gas,CO,Teller,4722,4834,4892,5152,5420,5287,5438,5403,5408,5424
+6,House Heating Fuel: Propane,CO,Teller,1854,1955,1854,1762,1567,1627,1534,1607,1748,1980
+7,House Heating Fuel: Wood,CO,Teller,1093,1101,1169,1352,1499,1467,1488,1589,1532,1404
+3,House Heating Fuel: Electric,CO,Washington,369,350,397,416,432,454,468,438,428,467
+4,House Heating Fuel: Fuel Oil,CO,Washington,16,11,11,21,17,16,17,10,2,3
+5,House Heating Fuel: Gas,CO,Washington,883,904,880,811,834,793,797,854,859,799
+6,House Heating Fuel: Propane,CO,Washington,766,674,643,646,601,587,645,620,650,722
+7,House Heating Fuel: Wood,CO,Washington,117,112,108,91,65,74,48,55,59,50
+3,House Heating Fuel: Electric,CO,Weld,8998,9881,10747,11992,12408,13632,14606,15415,16088,16449
+4,House Heating Fuel: Fuel Oil,CO,Weld,229,222,152,113,105,92,106,196,145,180
+5,House Heating Fuel: Gas,CO,Weld,67759,68477,68995,68930,70322,71061,72512,74409,75693,77851
+6,House Heating Fuel: Propane,CO,Weld,7698,7496,7625,7205,7331,7470,7367,7418,7689,7643
+7,House Heating Fuel: Wood,CO,Weld,1006,1003,986,1109,948,972,1047,1166,1135,1101
+3,House Heating Fuel: Electric,CO,Yuma,456,487,521,404,461,397,449,472,500,635
+4,House Heating Fuel: Fuel Oil,CO,Yuma,41,21,20,19,15,1,3,3,4,3
+5,House Heating Fuel: Gas,CO,Yuma,2469,2386,2524,2527,2550,2620,2689,2508,2403,2218
+6,House Heating Fuel: Propane,CO,Yuma,864,851,731,726,653,705,722,920,981,1048
+7,House Heating Fuel: Wood,CO,Yuma,88,69,62,123,124,97,98,73,77,56

@@ -1,0 +1,269 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,PA,Adams,2.6,2.59,2.59,2.6,2.6,2.6,2.57,2.53,2.54,2.55
+1,Avg household size of renter-occupied unit,PA,Adams,2.28,2.3,2.35,2.38,2.46,2.41,2.47,2.44,2.36,2.32
+36,Owner-Occupied,PA,Adams,77514,76541,76042,76074,75827,76752,76607,76426,76810,78196
+37,Renter-Occupied,PA,Adams,19409,20329,21051,21168,21540,20825,21025,21036,21054,20082
+0,Avg household size of owner-occupied unit,PA,Allegheny,2.45,2.45,2.45,2.44,2.44,2.44,2.43,2.4,2.39,2.37
+1,Avg household size of renter-occupied unit,PA,Allegheny,1.9,1.92,1.92,1.92,1.93,1.93,1.92,1.91,1.89,1.87
+36,Owner-Occupied,PA,Allegheny,858742,851064,844838,842417,841367,836249,834415,834871,831909,825047
+37,Renter-Occupied,PA,Allegheny,328054,336732,344345,348866,352084,359544,360337,359096,358475,362078
+0,Avg household size of owner-occupied unit,PA,Armstrong,2.47,2.45,2.45,2.45,2.43,2.44,2.46,2.43,2.45,2.43
+1,Avg household size of renter-occupied unit,PA,Armstrong,2.06,2.09,2.08,2.1,2.12,2.12,2.08,2.06,2.01,1.94
+36,Owner-Occupied,PA,Armstrong,54363,54354,54182,53583,53044,52145,52481,51963,52194,51929
+37,Renter-Occupied,PA,Armstrong,14009,13722,13723,14085,14439,15077,14295,14026,13382,13154
+0,Avg household size of owner-occupied unit,PA,Beaver,2.47,2.47,2.45,2.45,2.47,2.47,2.47,2.45,2.41,2.4
+1,Avg household size of renter-occupied unit,PA,Beaver,2.11,2.1,2.11,2.09,2.12,2.13,2.11,2.07,2.05,1.99
+36,Owner-Occupied,PA,Beaver,130552,129205,127574,127413,126367,126427,126584,126317,125061,124717
+37,Renter-Occupied,PA,Beaver,36949,37717,39186,39393,40524,40407,39602,38874,38881,38151
+0,Avg household size of owner-occupied unit,PA,Bedford,2.56,2.55,2.52,2.5,2.49,2.52,2.52,2.55,2.52,2.49
+1,Avg household size of renter-occupied unit,PA,Bedford,2.21,2.14,2.1,2.09,2.13,2.07,2.13,2.12,2.16,2.09
+36,Owner-Occupied,PA,Bedford,40600,40503,40311,40365,40051,40069,39793,39836,39516,39127
+37,Renter-Occupied,PA,Bedford,8928,8754,8764,8513,8676,8434,8500,8524,8592,8711
+0,Avg household size of owner-occupied unit,PA,Berks,2.65,2.67,2.67,2.66,2.65,2.66,2.68,2.67,2.67,2.68
+1,Avg household size of renter-occupied unit,PA,Berks,2.33,2.34,2.37,2.42,2.46,2.48,2.5,2.47,2.46,2.44
+36,Owner-Occupied,PA,Berks,296584,299635,296666,294836,292771,293515,293006,296256,295558,296984
+37,Renter-Occupied,PA,Berks,96066,97325,101704,104268,107017,106974,107580,105655,107601,107638
+0,Avg household size of owner-occupied unit,PA,Blair,2.52,2.5,2.53,2.52,2.55,2.54,2.55,2.51,2.48,2.43
+1,Avg household size of renter-occupied unit,PA,Blair,2.05,2.08,2.06,2.08,2.1,2.11,2.06,1.99,2.0,2.01
+36,Owner-Occupied,PA,Blair,94918,93747,94259,93985,93464,92839,91863,90712,89755,88278
+37,Renter-Occupied,PA,Blair,28653,29796,29399,29566,29904,30391,30823,30779,30847,31627
+0,Avg household size of owner-occupied unit,PA,Bradford,2.56,2.58,2.63,2.63,2.59,2.6,2.57,2.5,2.49,2.46
+1,Avg household size of renter-occupied unit,PA,Bradford,2.26,2.26,2.23,2.32,2.36,2.31,2.28,2.28,2.28,2.24
+36,Owner-Occupied,PA,Bradford,47612,47781,47916,47687,47330,47170,47001,46513,46558,45648
+37,Renter-Occupied,PA,Bradford,14156,13809,13828,14099,14383,14295,14044,14234,13967,14551
+0,Avg household size of owner-occupied unit,PA,Bucks,2.82,2.84,2.84,2.82,2.8,2.79,2.78,2.75,2.74,2.73
+1,Avg household size of renter-occupied unit,PA,Bucks,2.06,2.09,2.12,2.16,2.18,2.19,2.19,2.16,2.14,2.11
+36,Owner-Occupied,PA,Bucks,507420,511418,510381,507139,501688,496445,496749,497381,497975,501221
+37,Renter-Occupied,PA,Bucks,102019,104198,106154,109593,115048,120465,119883,119498,118941,116150
+0,Avg household size of owner-occupied unit,PA,Butler,2.61,2.59,2.59,2.58,2.55,2.55,2.55,2.53,2.52,2.52
+1,Avg household size of renter-occupied unit,PA,Butler,2.03,2.05,2.03,2.01,2.0,1.97,1.97,1.93,1.92,1.88
+36,Owner-Occupied,PA,Butler,144528,144791,144652,145296,144630,146007,146021,145520,145163,146501
+37,Renter-Occupied,PA,Butler,33513,33831,34317,34050,34951,34098,34258,34697,35728,34742
+0,Avg household size of owner-occupied unit,PA,Cambria,2.47,2.46,2.43,2.41,2.38,2.37,2.36,2.33,2.35,2.33
+1,Avg household size of renter-occupied unit,PA,Cambria,1.94,1.97,1.98,2.0,2.02,2.03,2.01,2.0,1.95,1.94
+36,Owner-Occupied,PA,Cambria,107317,106099,104839,103847,101875,100559,99985,98955,98537,97743
+37,Renter-Occupied,PA,Cambria,29833,30239,30280,30332,30597,30530,29789,29346,28845,28463
+0,Avg household size of owner-occupied unit,PA,Cameron,2.4,2.44,2.37,2.37,2.28,2.32,2.26,2.16,2.12,2.13
+1,Avg household size of renter-occupied unit,PA,Cameron,2.21,2.18,2.03,2.09,1.96,1.93,1.93,2.04,1.89,1.92
+36,Owner-Occupied,PA,Cameron,3824,3761,3741,3636,3562,3531,3402,3414,3455,3352
+37,Renter-Occupied,PA,Cameron,1300,1291,1235,1276,1283,1245,1313,1252,1146,1177
+0,Avg household size of owner-occupied unit,PA,Carbon,2.49,2.5,2.51,2.53,2.54,2.52,2.48,2.43,2.47,2.43
+1,Avg household size of renter-occupied unit,PA,Carbon,2.27,2.27,2.19,2.29,2.28,2.3,2.39,2.41,2.37,2.37
+36,Owner-Occupied,PA,Carbon,52108,52362,52531,51694,51679,50878,49851,48881,49310,48045
+37,Renter-Occupied,PA,Carbon,11764,11762,11728,12529,12325,12869,13584,14203,13711,14915
+0,Avg household size of owner-occupied unit,PA,Centre,2.55,2.54,2.53,2.53,2.55,2.57,2.57,2.56,2.56,2.55
+1,Avg household size of renter-occupied unit,PA,Centre,2.21,2.18,2.23,2.21,2.26,2.31,2.36,2.35,2.34,2.33
+36,Owner-Occupied,PA,Centre,84132,84850,84617,86235,88242,88880,89385,90624,91644,91278
+37,Renter-Occupied,PA,Centre,48474,49547,51538,51114,51301,52230,52583,52261,51650,52149
+0,Avg household size of owner-occupied unit,PA,Chester,2.76,2.76,2.75,2.75,2.76,2.76,2.78,2.77,2.77,2.77
+1,Avg household size of renter-occupied unit,PA,Chester,2.19,2.23,2.27,2.31,2.34,2.35,2.32,2.3,2.3,2.28
+36,Owner-Occupied,PA,Chester,385273,385511,387029,384625,384702,386279,390463,392451,394913,396180
+37,Renter-Occupied,PA,Chester,90563,95756,98250,104028,107126,108865,107315,107849,107889,108975
+0,Avg household size of owner-occupied unit,PA,Clarion,2.54,2.54,2.54,2.5,2.47,2.49,2.44,2.46,2.5,2.45
+1,Avg household size of renter-occupied unit,PA,Clarion,2.18,2.08,2.16,2.16,2.16,2.17,2.19,2.1,2.08,2.09
+36,Owner-Occupied,PA,Clarion,28472,28645,28297,27947,27507,27276,26790,27178,27330,27159
+37,Renter-Occupied,PA,Clarion,9858,9484,9745,9940,10202,10540,10635,10203,10218,10365
+0,Avg household size of owner-occupied unit,PA,Clearfield,2.43,2.42,2.45,2.44,2.45,2.44,2.48,2.45,2.44,2.44
+1,Avg household size of renter-occupied unit,PA,Clearfield,2.17,2.2,2.13,2.18,2.22,2.2,2.2,2.26,2.18,2.18
+36,Owner-Occupied,PA,Clearfield,61211,61229,61068,60436,60265,59880,60094,58767,59243,58463
+37,Renter-Occupied,PA,Clearfield,16612,16353,15927,16257,16090,15972,15551,16210,15358,15820
+0,Avg household size of owner-occupied unit,PA,Clinton,2.4,2.44,2.44,2.5,2.52,2.59,2.59,2.62,2.63,2.64
+1,Avg household size of renter-occupied unit,PA,Clinton,2.31,2.23,2.28,2.32,2.37,2.34,2.41,2.37,2.3,2.3
+36,Owner-Occupied,PA,Clinton,26546,26903,26538,27031,27020,27347,26921,27181,26962,27224
+37,Renter-Occupied,PA,Clinton,9679,9482,10098,9880,10066,9927,10423,10175,10352,10067
+0,Avg household size of owner-occupied unit,PA,Columbia,2.47,2.48,2.47,2.43,2.42,2.42,2.42,2.41,2.41,2.42
+1,Avg household size of renter-occupied unit,PA,Columbia,2.27,2.31,2.32,2.35,2.32,2.34,2.25,2.18,2.12,2.11
+36,Owner-Occupied,PA,Columbia,45644,45557,45435,44336,44992,44715,44313,44168,44477,44142
+37,Renter-Occupied,PA,Columbia,16754,17444,17656,18723,18115,18096,18020,17953,17180,17088
+0,Avg household size of owner-occupied unit,PA,Crawford,2.55,2.55,2.55,2.55,2.52,2.52,2.48,2.42,2.43,2.42
+1,Avg household size of renter-occupied unit,PA,Crawford,2.06,2.03,2.01,2.07,2.15,2.17,2.25,2.25,2.19,2.13
+36,Owner-Occupied,PA,Crawford,66878,66421,65697,65537,64833,63949,62975,61938,62033,61907
+37,Renter-Occupied,PA,Crawford,18975,18816,19054,18960,19366,19854,20599,21486,20703,20299
+0,Avg household size of owner-occupied unit,PA,Cumberland,2.44,2.45,2.46,2.48,2.49,2.51,2.51,2.5,2.49,2.5
+1,Avg household size of renter-occupied unit,PA,Cumberland,1.98,2.02,2.03,2.03,2.04,2.07,2.09,2.07,2.09,2.06
+36,Owner-Occupied,PA,Cumberland,165615,166341,167391,168273,169452,169993,171231,173224,172999,175233
+37,Renter-Occupied,PA,Cumberland,51138,53523,54443,55871,56730,58188,59447,59400,61237,60817
+0,Avg household size of owner-occupied unit,PA,Dauphin,2.53,2.51,2.51,2.52,2.52,2.52,2.5,2.48,2.47,2.47
+1,Avg household size of renter-occupied unit,PA,Dauphin,2.2,2.21,2.24,2.21,2.22,2.22,2.24,2.23,2.27,2.26
+36,Owner-Occupied,PA,Dauphin,178481,176858,176278,176393,176463,175026,174160,175588,174238,175378
+37,Renter-Occupied,PA,Dauphin,82056,82818,84665,85649,86418,88912,90685,90687,93132,93182
+0,Avg household size of owner-occupied unit,PA,Delaware,2.77,2.75,2.77,2.78,2.79,2.8,2.8,2.79,2.77,2.78
+1,Avg household size of renter-occupied unit,PA,Delaware,2.14,2.18,2.2,2.24,2.26,2.29,2.32,2.31,2.29,2.26
+36,Owner-Occupied,PA,Delaware,410672,405713,403413,402332,399559,399215,395927,397650,395586,396374
+37,Renter-Occupied,PA,Delaware,124843,128820,132687,134948,138914,140414,144432,143944,146139,146393
+0,Avg household size of owner-occupied unit,PA,Elk,2.4,2.39,2.35,2.4,2.4,2.44,2.39,2.36,2.32,2.24
+1,Avg household size of renter-occupied unit,PA,Elk,2.08,2.18,2.17,2.06,2.08,2.0,1.95,1.87,1.8,1.73
+36,Owner-Occupied,PA,Elk,26299,25832,25837,25927,25465,25190,25152,25046,24638,24726
+37,Renter-Occupied,PA,Elk,5737,6012,5755,5483,5728,5786,5561,5332,5564,5205
+0,Avg household size of owner-occupied unit,PA,Erie,2.63,2.62,2.62,2.6,2.57,2.55,2.53,2.5,2.5,2.47
+1,Avg household size of renter-occupied unit,PA,Erie,2.09,2.13,2.11,2.11,2.17,2.2,2.21,2.2,2.18,2.15
+36,Owner-Occupied,PA,Erie,196729,194985,193821,192512,187677,184489,183503,182752,181110,180354
+37,Renter-Occupied,PA,Erie,69674,72013,73871,75433,79883,82770,82903,82159,81919,80382
+0,Avg household size of owner-occupied unit,PA,Fayette,2.5,2.51,2.51,2.51,2.5,2.5,2.5,2.46,2.42,2.39
+1,Avg household size of renter-occupied unit,PA,Fayette,2.24,2.23,2.19,2.19,2.21,2.18,2.19,2.16,2.09,2.04
+36,Owner-Occupied,PA,Fayette,100849,100286,99553,99116,96994,96906,97404,96893,97660,97701
+37,Renter-Occupied,PA,Fayette,33471,33011,32878,32486,33783,33248,32110,31466,29741,28607
+0,Avg household size of owner-occupied unit,PA,Forest,2.77,2.6,2.67,2.37,2.08,1.85,1.7,1.93,1.92,1.91
+1,Avg household size of renter-occupied unit,PA,Forest,2.19,2.52,2.39,2.33,1.9,1.92,1.57,2.22,2.43,2.28
+36,Owner-Occupied,PA,Forest,4750,4455,4461,3944,3510,3012,2611,2423,2693,2946
+37,Renter-Occupied,PA,Forest,620,700,680,790,729,657,437,478,560,676
+0,Avg household size of owner-occupied unit,PA,Franklin,2.53,2.56,2.57,2.59,2.6,2.61,2.58,2.58,2.59,2.58
+1,Avg household size of renter-occupied unit,PA,Franklin,2.25,2.34,2.41,2.41,2.46,2.45,2.42,2.34,2.35,2.34
+36,Owner-Occupied,PA,Franklin,109463,109008,108765,110110,109827,109526,108837,109412,109111,111121
+37,Renter-Occupied,PA,Franklin,33710,36234,37974,37843,39229,40521,41687,41386,42432,40813
+0,Avg household size of owner-occupied unit,PA,Fulton,2.59,2.52,2.49,2.5,2.47,2.46,2.47,2.47,2.45,2.43
+1,Avg household size of renter-occupied unit,PA,Fulton,2.36,2.4,2.4,2.37,2.4,2.46,2.35,2.39,2.38,2.37
+36,Owner-Occupied,PA,Fulton,11728,11614,11550,11517,11602,11583,11560,11536,11444,11272
+37,Renter-Occupied,PA,Fulton,3111,3160,3207,3200,3092,3069,3051,3057,3027,3202
+0,Avg household size of owner-occupied unit,PA,Greene,2.62,2.51,2.48,2.44,2.42,2.39,2.4,2.38,2.39,2.38
+1,Avg household size of renter-occupied unit,PA,Greene,2.48,2.45,2.31,2.16,2.17,2.16,2.19,2.21,2.28,2.22
+36,Owner-Occupied,PA,Greene,27615,26330,25535,25649,25433,25186,25122,25435,25234,25370
+37,Renter-Occupied,PA,Greene,8598,8841,8835,8420,8401,8377,8567,8445,8393,7943
+0,Avg household size of owner-occupied unit,PA,Huntingdon,2.54,2.54,2.51,2.46,2.43,2.42,2.46,2.45,2.45,2.45
+1,Avg household size of renter-occupied unit,PA,Huntingdon,2.01,2.02,2.1,2.09,2.17,2.18,2.2,2.18,2.16,2.13
+36,Owner-Occupied,PA,Huntingdon,32960,32994,32746,32331,31951,31758,31494,31232,31152,31113
+37,Renter-Occupied,PA,Huntingdon,7859,7739,8080,8431,8890,8965,9173,9178,8831,8697
+0,Avg household size of owner-occupied unit,PA,Indiana,2.53,2.53,2.51,2.53,2.53,2.52,2.5,2.51,2.47,2.48
+1,Avg household size of renter-occupied unit,PA,Indiana,2.21,2.14,2.17,2.15,2.11,2.14,2.15,2.06,2.08,2.14
+36,Owner-Occupied,PA,Indiana,62398,61362,61602,62031,62012,60647,60243,59792,58967,58724
+37,Renter-Occupied,PA,Indiana,21399,22002,21544,21019,20734,21325,21359,20956,20917,20545
+0,Avg household size of owner-occupied unit,PA,Jefferson,2.57,2.52,2.51,2.47,2.43,2.45,2.48,2.46,2.47,2.47
+1,Avg household size of renter-occupied unit,PA,Jefferson,2.14,2.1,2.15,2.18,2.21,2.18,2.11,2.04,1.98,1.96
+36,Owner-Occupied,PA,Jefferson,36046,35242,34932,33985,33645,33783,34028,34025,34361,33808
+37,Renter-Occupied,PA,Jefferson,9030,9263,9428,10312,10540,10188,9762,9464,8974,9299
+0,Avg household size of owner-occupied unit,PA,Juniata,2.78,2.71,2.69,2.67,2.68,2.63,2.65,2.6,2.63,2.65
+1,Avg household size of renter-occupied unit,PA,Juniata,2.38,2.45,2.42,2.56,2.45,2.54,2.56,2.51,2.44,2.45
+36,Owner-Occupied,PA,Juniata,19361,19000,19138,18844,19347,18644,18724,18441,18803,18484
+37,Renter-Occupied,PA,Juniata,4945,5094,5194,5566,5129,5879,5790,5715,5477,5860
+0,Avg household size of owner-occupied unit,PA,Lackawanna,2.53,2.52,2.53,2.53,2.53,2.52,2.51,2.47,2.44,2.42
+1,Avg household size of renter-occupied unit,PA,Lackawanna,2.06,2.09,2.12,2.14,2.17,2.2,2.21,2.19,2.17,2.16
+36,Owner-Occupied,PA,Lackawanna,144292,145535,145579,145044,143577,142772,140602,139155,137475,135435
+37,Renter-Occupied,PA,Lackawanna,60281,60224,60518,60863,62126,62327,64118,64600,65905,67201
+0,Avg household size of owner-occupied unit,PA,Lancaster,2.73,2.73,2.74,2.75,2.77,2.76,2.77,2.77,2.77,2.76
+1,Avg household size of renter-occupied unit,PA,Lancaster,2.27,2.29,2.32,2.34,2.34,2.38,2.4,2.37,2.34,2.35
+36,Owner-Occupied,PA,Lancaster,367241,369070,370838,370623,373172,371519,371428,374340,376758,378096
+37,Renter-Occupied,PA,Lancaster,129580,131977,134522,138315,139460,144894,148406,149506,149598,151364
+0,Avg household size of owner-occupied unit,PA,Lawrence,2.51,2.48,2.49,2.48,2.5,2.49,2.49,2.44,2.4,2.37
+1,Avg household size of renter-occupied unit,PA,Lawrence,2.2,2.21,2.12,2.09,2.08,2.07,2.07,2.05,2.03,2.01
+36,Owner-Occupied,PA,Lawrence,71697,70762,70097,68788,67859,67127,66488,66399,65595,65546
+37,Renter-Occupied,PA,Lawrence,17584,17911,18222,19078,19586,19674,19729,19534,19498,18915
+0,Avg household size of owner-occupied unit,PA,Lebanon,2.59,2.59,2.58,2.59,2.61,2.61,2.62,2.61,2.6,2.61
+1,Avg household size of renter-occupied unit,PA,Lebanon,2.15,2.17,2.25,2.34,2.38,2.37,2.42,2.39,2.41,2.4
+36,Owner-Occupied,PA,Lebanon,99373,98945,98035,96833,96635,95971,95207,95858,96632,97685
+37,Renter-Occupied,PA,Lebanon,28130,29662,31821,34063,35204,36594,38529,38505,38748,38696
+0,Avg household size of owner-occupied unit,PA,Lehigh,2.62,2.64,2.66,2.67,2.68,2.68,2.66,2.63,2.63,2.62
+1,Avg household size of renter-occupied unit,PA,Lehigh,2.28,2.3,2.33,2.36,2.4,2.43,2.44,2.43,2.43,2.46
+36,Owner-Occupied,PA,Lehigh,239918,239659,240385,240210,239472,238956,236944,235765,235410,233987
+37,Renter-Occupied,PA,Lehigh,94672,97760,100172,102442,105896,108681,112748,115893,118071,121549
+0,Avg household size of owner-occupied unit,PA,Luzerne,2.48,2.47,2.46,2.45,2.47,2.48,2.49,2.46,2.46,2.44
+1,Avg household size of renter-occupied unit,PA,Luzerne,2.1,2.1,2.14,2.18,2.21,2.22,2.23,2.23,2.24,2.23
+36,Owner-Occupied,PA,Luzerne,226829,222680,218389,217062,216515,215532,215556,215656,215638,213654
+37,Renter-Occupied,PA,Luzerne,82491,85588,90434,91675,91655,92265,90982,90200,90066,91900
+0,Avg household size of owner-occupied unit,PA,Lycoming,2.49,2.5,2.5,2.51,2.51,2.51,2.5,2.46,2.43,2.44
+1,Avg household size of renter-occupied unit,PA,Lycoming,2.18,2.13,2.14,2.19,2.18,2.2,2.25,2.21,2.23,2.22
+36,Owner-Occupied,PA,Lycoming,81030,80933,80733,80931,80947,80835,79924,78937,77513,77135
+37,Renter-Occupied,PA,Lycoming,30659,30302,30471,30291,30175,30167,30561,30572,31268,31098
+0,Avg household size of owner-occupied unit,PA,McKean,2.49,2.46,2.43,2.39,2.38,2.36,2.36,2.33,2.32,2.29
+1,Avg household size of renter-occupied unit,PA,McKean,2.07,2.12,2.07,2.09,2.12,2.09,2.08,2.1,2.09,2.1
+36,Owner-Occupied,PA,McKean,32035,31077,30851,30553,30255,30284,30287,29578,29379,29144
+37,Renter-Occupied,PA,McKean,9192,9672,9665,9754,9766,9546,9243,9460,9425,9341
+0,Avg household size of owner-occupied unit,PA,Mercer,2.47,2.49,2.48,2.44,2.44,2.46,2.44,2.4,2.38,2.34
+1,Avg household size of renter-occupied unit,PA,Mercer,1.99,2.01,2.02,2.12,2.1,2.12,2.16,2.11,2.05,2.02
+36,Owner-Occupied,PA,Mercer,86840,86889,85539,84034,83447,82648,81152,80350,79765,78545
+37,Renter-Occupied,PA,Mercer,22996,23061,23928,24970,25132,25375,26089,25948,25544,25697
+0,Avg household size of owner-occupied unit,PA,Mifflin,2.48,2.5,2.52,2.54,2.52,2.54,2.52,2.48,2.48,2.51
+1,Avg household size of renter-occupied unit,PA,Mifflin,2.26,2.22,2.2,2.26,2.26,2.28,2.31,2.27,2.2,2.12
+36,Owner-Occupied,PA,Mifflin,34749,35301,35261,34948,34334,33426,33058,32998,33268,34026
+37,Renter-Occupied,PA,Mifflin,11422,10794,10861,11174,11769,12621,12876,12778,12418,11571
+0,Avg household size of owner-occupied unit,PA,Monroe,2.77,2.78,2.82,2.83,2.89,2.92,2.9,2.9,2.95,2.95
+1,Avg household size of renter-occupied unit,PA,Monroe,2.62,2.63,2.7,2.74,2.79,2.77,2.82,2.76,2.77,2.75
+36,Owner-Occupied,PA,Monroe,135269,134199,133855,133523,132449,131017,128375,130433,130260,129670
+37,Renter-Occupied,PA,Monroe,29207,30728,31851,32168,33004,34358,36410,34558,35031,36069
+0,Avg household size of owner-occupied unit,PA,Montgomery,2.68,2.7,2.71,2.72,2.73,2.73,2.72,2.71,2.71,2.71
+1,Avg household size of renter-occupied unit,PA,Montgomery,1.99,2.01,2.04,2.08,2.11,2.13,2.15,2.12,2.12,2.1
+36,Owner-Occupied,PA,Montgomery,611119,612800,610847,612686,610284,611720,608662,611754,611878,614172
+37,Renter-Occupied,PA,Montgomery,157203,161670,168479,171037,178300,180003,185416,184786,187361,187292
+0,Avg household size of owner-occupied unit,PA,Montour,2.46,2.5,2.5,2.57,2.56,2.56,2.57,2.53,2.52,2.56
+1,Avg household size of renter-occupied unit,PA,Montour,2.13,2.23,2.15,2.07,1.99,2.0,1.96,1.96,1.96,1.96
+36,Owner-Occupied,PA,Montour,13359,13313,13510,13741,13782,13704,13718,13393,12951,12705
+37,Renter-Occupied,PA,Montour,3996,4170,4022,3929,3977,4076,3953,4168,4586,4760
+0,Avg household size of owner-occupied unit,PA,Northampton,2.62,2.65,2.67,2.68,2.65,2.65,2.66,2.63,2.62,2.63
+1,Avg household size of renter-occupied unit,PA,Northampton,2.19,2.2,2.2,2.24,2.3,2.32,2.35,2.34,2.37,2.36
+36,Owner-Occupied,PA,Northampton,221304,222138,221394,219471,216388,214837,213234,214265,214223,214373
+37,Renter-Occupied,PA,Northampton,60266,62155,64495,67652,71824,73955,76430,75659,76395,77244
+0,Avg household size of owner-occupied unit,PA,Northumberland,2.4,2.4,2.39,2.36,2.36,2.33,2.32,2.3,2.3,2.28
+1,Avg household size of renter-occupied unit,PA,Northumberland,2.09,2.03,2.06,2.1,2.11,2.09,2.16,2.16,2.12,2.14
+36,Owner-Occupied,PA,Northumberland,68192,67612,67102,66130,66126,65451,64582,64504,63907,63169
+37,Renter-Occupied,PA,Northumberland,22619,22555,22860,23773,23492,23737,24517,24316,24178,24405
+0,Avg household size of owner-occupied unit,PA,Perry,2.54,2.54,2.53,2.53,2.57,2.56,2.58,2.58,2.55,2.53
+1,Avg household size of renter-occupied unit,PA,Perry,2.33,2.32,2.34,2.31,2.23,2.25,2.26,2.29,2.33,2.37
+36,Owner-Occupied,PA,Perry,36837,37116,36363,36610,36925,36454,36889,37093,36801,36390
+37,Renter-Occupied,PA,Perry,7990,8142,8889,8636,8276,8611,8162,8179,8514,9063
+0,Avg household size of owner-occupied unit,PA,Philadelphia,2.71,2.7,2.71,2.73,2.74,2.75,2.74,2.73,2.69,2.67
+1,Avg household size of renter-occupied unit,PA,Philadelphia,2.32,2.33,2.35,2.38,2.4,2.41,2.43,2.4,2.42,2.4
+36,Owner-Occupied,PA,Philadelphia,859899,857098,850315,842622,841058,841231,835442,841895,848616,852160
+37,Renter-Occupied,PA,Philadelphia,594391,607472,626114,643998,655142,663197,674300,678352,677949,678654
+0,Avg household size of owner-occupied unit,PA,Pike,2.61,2.61,2.62,2.63,2.63,2.62,2.59,2.56,2.51,2.49
+1,Avg household size of renter-occupied unit,PA,Pike,2.26,2.25,2.44,2.62,2.86,2.87,2.9,2.74,2.58,2.5
+36,Owner-Occupied,PA,Pike,48771,49110,47884,47767,47064,46506,46076,45961,45595,45822
+37,Renter-Occupied,PA,Pike,7840,7669,9086,8933,9336,9643,9685,9311,9528,9284
+0,Avg household size of owner-occupied unit,PA,Potter,2.42,2.48,2.5,2.47,2.55,2.6,2.58,2.61,2.57,2.57
+1,Avg household size of renter-occupied unit,PA,Potter,2.2,2.16,2.27,2.33,2.38,2.44,2.52,2.45,2.52,2.48
+36,Owner-Occupied,PA,Potter,13436,13398,13469,13426,13577,13383,13113,13143,12902,12715
+37,Renter-Occupied,PA,Potter,3837,3859,3767,3820,3622,3736,3864,3659,3764,3819
+0,Avg household size of owner-occupied unit,PA,Schuylkill,2.41,2.42,2.41,2.44,2.45,2.46,2.47,2.43,2.41,2.39
+1,Avg household size of renter-occupied unit,PA,Schuylkill,2.1,2.1,2.11,2.09,2.14,2.14,2.1,2.04,2.04,2.03
+36,Owner-Occupied,PA,Schuylkill,112428,111295,109747,109478,108678,107844,107194,106914,106836,106292
+37,Renter-Occupied,PA,Schuylkill,28870,29534,30967,31127,31414,31448,31197,30240,29493,29093
+0,Avg household size of owner-occupied unit,PA,Snyder,2.66,2.68,2.68,2.68,2.7,2.72,2.75,2.76,2.71,2.72
+1,Avg household size of renter-occupied unit,PA,Snyder,2.36,2.34,2.31,2.33,2.34,2.31,2.28,2.3,2.3,2.22
+36,Owner-Occupied,PA,Snyder,28449,29135,29542,29549,29453,29349,29102,29204,28794,29041
+37,Renter-Occupied,PA,Snyder,8387,8101,7713,7842,8222,8469,8966,9151,9411,9131
+0,Avg household size of owner-occupied unit,PA,Somerset,2.56,2.56,2.54,2.54,2.52,2.51,2.5,2.44,2.44,2.41
+1,Avg household size of renter-occupied unit,PA,Somerset,2.1,2.07,2.1,2.1,2.11,2.09,2.06,2.06,2.04,2.06
+36,Owner-Occupied,PA,Somerset,60865,61030,60553,59753,58555,58428,57964,56878,56619,55816
+37,Renter-Occupied,PA,Somerset,13738,13043,13004,13234,13799,13210,13223,13650,13179,13362
+0,Avg household size of owner-occupied unit,PA,Sullivan,2.56,2.6,2.68,2.62,2.49,2.28,2.27,2.18,2.1,2.09
+1,Avg household size of renter-occupied unit,PA,Sullivan,2.22,2.02,1.93,1.93,2.0,1.92,1.91,2.1,2.1,2.11
+36,Owner-Occupied,PA,Sullivan,5156,5251,5256,5227,5133,5063,4961,4705,4688,4656
+37,Renter-Occupied,PA,Sullivan,943,839,803,783,829,859,882,1029,1023,1034
+0,Avg household size of owner-occupied unit,PA,Susquehanna,2.53,2.55,2.55,2.54,2.51,2.46,2.43,2.42,2.4,2.38
+1,Avg household size of renter-occupied unit,PA,Susquehanna,2.27,2.25,2.3,2.26,2.26,2.22,2.26,2.25,2.27,2.29
+36,Owner-Occupied,PA,Susquehanna,34578,34522,34326,34096,33520,33028,32441,32414,31826,31590
+37,Renter-Occupied,PA,Susquehanna,8133,8342,8421,8451,8828,9034,9082,8989,9203,9060
+0,Avg household size of owner-occupied unit,PA,Tioga,2.39,2.35,2.38,2.39,2.45,2.48,2.56,2.58,2.59,2.56
+1,Avg household size of renter-occupied unit,PA,Tioga,2.19,2.22,2.27,2.34,2.36,2.45,2.39,2.39,2.28,2.24
+36,Owner-Occupied,PA,Tioga,30780,30368,30397,30260,30926,30581,31094,30744,30785,30407
+37,Renter-Occupied,PA,Tioga,9440,9405,9762,10244,9881,10458,9958,10032,9756,9914
+0,Avg household size of owner-occupied unit,PA,Union,2.46,2.42,2.43,2.46,2.44,2.47,2.58,2.54,2.53,2.61
+1,Avg household size of renter-occupied unit,PA,Union,1.98,1.99,2.03,2.12,2.16,2.15,2.05,2.15,2.16,2.07
+36,Owner-Occupied,PA,Union,27171,27783,27688,27112,26563,26344,26864,26414,26834,27489
+37,Renter-Occupied,PA,Union,7819,7603,7953,8522,9046,9115,8739,9222,8902,8293
+0,Avg household size of owner-occupied unit,PA,Venango,2.44,2.43,2.41,2.39,2.4,2.43,2.46,2.46,2.44,2.4
+1,Avg household size of renter-occupied unit,PA,Venango,2.27,2.27,2.29,2.28,2.25,2.23,2.13,2.05,2.02,2.0
+36,Owner-Occupied,PA,Venango,41130,41013,40434,40254,41050,40949,40827,40340,40335,39652
+37,Renter-Occupied,PA,Venango,12779,12696,13096,13040,11950,11706,11417,11319,10834,10975
+0,Avg household size of owner-occupied unit,PA,Warren,2.44,2.42,2.42,2.46,2.47,2.45,2.48,2.44,2.43,2.39
+1,Avg household size of renter-occupied unit,PA,Warren,1.92,2.01,2.04,2.01,2.04,2.01,1.95,1.94,1.9,1.93
+36,Owner-Occupied,PA,Warren,33727,33100,32769,32649,32503,32164,32182,31739,31745,31464
+37,Renter-Occupied,PA,Warren,7345,7840,8029,7988,7949,8058,7714,7882,7591,7626
+0,Avg household size of owner-occupied unit,PA,Washington,2.55,2.54,2.53,2.53,2.54,2.53,2.53,2.52,2.51,2.47
+1,Avg household size of renter-occupied unit,PA,Washington,1.99,2.01,2.04,2.05,2.05,2.1,2.1,2.07,2.08,2.08
+36,Owner-Occupied,PA,Washington,164458,164103,162585,161791,162191,160400,159791,159800,159506,158812
+37,Renter-Occupied,PA,Washington,37763,38378,40366,41183,40751,42571,43124,42463,42701,43000
+0,Avg household size of owner-occupied unit,PA,Wayne,2.5,2.58,2.56,2.49,2.52,2.48,2.5,2.54,2.6,2.57
+1,Avg household size of renter-occupied unit,PA,Wayne,2.27,2.34,2.46,2.43,2.35,2.43,2.37,2.28,2.29,2.34
+36,Owner-Occupied,PA,Wayne,39441,40575,39635,38800,38640,38435,37896,38636,39252,39147
+37,Renter-Occupied,PA,Wayne,8800,8338,9106,9671,9503,9292,9491,9097,8386,8392
+0,Avg household size of owner-occupied unit,PA,Westmoreland,2.47,2.45,2.44,2.44,2.44,2.42,2.42,2.39,2.38,2.37
+1,Avg household size of renter-occupied unit,PA,Westmoreland,1.92,1.96,1.98,2.02,2.03,2.04,2.01,1.96,1.96,1.91
+36,Owner-Occupied,PA,Westmoreland,288872,285996,283863,282466,280240,280539,282725,281796,279798,278157
+37,Renter-Occupied,PA,Westmoreland,68644,71114,72569,73090,73841,72150,68294,66885,66874,66407
+0,Avg household size of owner-occupied unit,PA,Wyoming,2.59,2.55,2.54,2.55,2.58,2.57,2.59,2.55,2.53,2.54
+1,Avg household size of renter-occupied unit,PA,Wyoming,2.26,2.29,2.3,2.29,2.31,2.34,2.28,2.34,2.34,2.21
+36,Owner-Occupied,PA,Wyoming,22007,21739,21669,21727,21958,21803,22050,21442,21256,21153
+37,Renter-Occupied,PA,Wyoming,5721,5727,5723,5647,5514,5645,5221,5594,5595,5438
+0,Avg household size of owner-occupied unit,PA,York,2.59,2.6,2.59,2.61,2.6,2.62,2.61,2.59,2.58,2.57
+1,Avg household size of renter-occupied unit,PA,York,2.3,2.32,2.36,2.38,2.4,2.45,2.47,2.45,2.43,2.41
+36,Owner-Occupied,PA,York,330208,331233,328183,328683,328477,325335,326054,327104,329743,332350
+37,Renter-Occupied,PA,York,90418,92701,98182,99255,100994,105609,105800,106268,105409,104319

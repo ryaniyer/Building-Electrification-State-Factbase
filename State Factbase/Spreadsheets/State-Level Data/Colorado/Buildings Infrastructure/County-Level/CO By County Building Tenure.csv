@@ -1,0 +1,257 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,CO,Adams,2.89,2.92,2.91,2.93,2.94,2.98,3.0,3.01,3.06,3.07
+1,Avg household size of renter-occupied unit,CO,Adams,2.78,2.81,2.91,2.94,2.98,2.98,3.0,2.91,2.89,2.87
+36,Owner-Occupied,CO,Adams,291887,294236,291336,293648,293833,301514,306813,317077,327757,338409
+37,Renter-Occupied,CO,Adams,130155,136530,147966,154563,163760,165709,169173,166710,165318,161628
+0,Avg household size of owner-occupied unit,CO,Alamosa,2.5,2.55,2.6,2.65,2.64,2.71,2.68,2.69,2.72,2.68
+1,Avg household size of renter-occupied unit,CO,Alamosa,2.19,2.33,2.29,2.29,2.3,2.36,2.42,2.3,2.21,2.1
+36,Owner-Occupied,CO,Alamosa,9148,9578,9632,9582,9305,9170,9074,9267,9327,9555
+37,Renter-Occupied,CO,Alamosa,4675,4632,4933,5188,5675,6021,6192,5999,6028,5462
+0,Avg household size of owner-occupied unit,CO,Arapahoe,2.58,2.61,2.62,2.64,2.66,2.7,2.7,2.71,2.74,2.74
+1,Avg household size of renter-occupied unit,CO,Arapahoe,2.34,2.38,2.41,2.47,2.49,2.52,2.55,2.53,2.51,2.51
+36,Owner-Occupied,CO,Arapahoe,372769,375265,375203,373061,378979,385160,389169,399209,410611,418900
+37,Renter-Occupied,CO,Arapahoe,174691,183552,194557,207741,213284,218605,223688,222250,220627,219765
+0,Avg household size of owner-occupied unit,CO,Archuleta,3.39,3.04,2.57,2.29,2.14,2.15,2.16,2.13,2.24,2.25
+1,Avg household size of renter-occupied unit,CO,Archuleta,4.57,3.09,2.89,2.91,2.49,2.51,2.57,2.54,2.26,2.19
+36,Owner-Occupied,CO,Archuleta,9482,9379,9085,8236,8005,8223,8699,8678,9478,9516
+37,Renter-Occupied,CO,Archuleta,2643,2663,2904,3739,3977,3786,3492,3749,3266,3571
+0,Avg household size of owner-occupied unit,CO,Baca,2.16,2.16,2.21,2.31,2.31,2.36,2.37,2.21,2.16,2.14
+1,Avg household size of renter-occupied unit,CO,Baca,2.45,2.3,2.11,1.89,1.97,2.11,2.1,2.07,2.0,1.95
+36,Owner-Occupied,CO,Baca,2718,2738,2730,2841,2714,2703,2688,2541,2541,2527
+37,Renter-Occupied,CO,Baca,1032,945,927,799,905,897,860,944,926,942
+0,Avg household size of owner-occupied unit,CO,Bent,2.26,2.15,2.18,2.13,2.17,2.1,2.12,2.23,2.3,2.2
+1,Avg household size of renter-occupied unit,CO,Bent,2.42,2.57,2.36,2.23,2.05,2.4,2.24,2.1,2.18,2.27
+36,Owner-Occupied,CO,Bent,2953,2796,2648,2538,2570,2422,2470,2451,2576,2317
+37,Renter-Occupied,CO,Bent,1523,1742,1691,1525,1238,1152,1243,1382,1360,1621
+0,Avg household size of owner-occupied unit,CO,Boulder,2.51,2.51,2.5,2.52,2.52,2.53,2.54,2.53,2.53,2.49
+1,Avg household size of renter-occupied unit,CO,Boulder,2.13,2.19,2.21,2.23,2.27,2.32,2.31,2.31,2.35,2.36
+36,Owner-Occupied,CO,Boulder,188723,191186,190157,191820,191686,192357,194187,196492,197288,197413
+37,Renter-Occupied,CO,Boulder,90253,92659,97339,99241,103431,107500,108989,109123,112126,113375
+0,Avg household size of owner-occupied unit,CO,Broomfield,2.81,2.77,2.77,2.75,2.72,2.7,2.69,2.63,2.64,2.66
+1,Avg household size of renter-occupied unit,CO,Broomfield,2.1,2.21,2.23,2.23,2.31,2.28,2.19,2.14,2.12,2.09
+36,Owner-Occupied,CO,Broomfield,42063,41681,41575,41383,42836,43428,44770,45476,46707,47616
+37,Renter-Occupied,CO,Broomfield,10809,12836,14195,15577,15919,16936,17366,18504,19116,19959
+0,Avg household size of owner-occupied unit,CO,Chaffee,2.19,2.13,2.13,2.15,2.13,2.17,2.21,2.25,2.28,2.28
+1,Avg household size of renter-occupied unit,CO,Chaffee,2.18,2.11,2.28,2.19,2.37,2.36,2.34,2.15,2.13,1.96
+36,Owner-Occupied,CO,Chaffee,12432,12268,12430,12796,12500,12698,12971,13697,13906,14579
+37,Renter-Occupied,CO,Chaffee,3727,4150,4206,4081,4452,4480,4372,3887,3944,3581
+0,Avg household size of owner-occupied unit,CO,Cheyenne,2.57,2.46,2.31,2.51,2.54,2.64,2.65,2.67,2.64,2.55
+1,Avg household size of renter-occupied unit,CO,Cheyenne,2.28,2.8,2.63,2.68,3.13,2.63,2.51,2.73,2.85,2.6
+36,Owner-Occupied,CO,Cheyenne,1716,1700,1514,1614,1537,1473,1564,1524,1450,1408
+37,Renter-Occupied,CO,Cheyenne,369,496,531,527,569,484,465,562,548,575
+0,Avg household size of owner-occupied unit,CO,Clear Creek,2.21,2.28,2.26,2.21,2.14,2.12,2.08,2.08,2.02,2.17
+1,Avg household size of renter-occupied unit,CO,Clear Creek,2.06,2.0,2.11,2.23,2.38,2.16,2.01,2.11,1.91,2.02
+36,Owner-Occupied,CO,Clear Creek,7481,7404,7219,7236,7068,7058,7161,7037,7178,7349
+37,Renter-Occupied,CO,Clear Creek,1598,1577,1719,1676,1910,1947,1955,2100,2081,2018
+0,Avg household size of owner-occupied unit,CO,Conejos,2.67,2.7,2.61,2.63,2.69,2.8,2.84,2.76,2.69,2.64
+1,Avg household size of renter-occupied unit,CO,Conejos,2.34,2.48,2.54,2.67,2.81,2.7,2.7,2.51,2.43,2.13
+36,Owner-Occupied,CO,Conejos,6315,6386,6303,6298,6448,6548,6539,6443,6566,6666
+37,Renter-Occupied,CO,Conejos,1768,1732,1840,1871,1750,1644,1616,1645,1514,1397
+0,Avg household size of owner-occupied unit,CO,Costilla,2.52,2.62,2.4,2.43,2.49,2.44,2.33,2.33,2.14,2.12
+1,Avg household size of renter-occupied unit,CO,Costilla,2.17,2.9,2.88,3.29,2.8,2.5,2.55,2.29,2.29,2.21
+36,Owner-Occupied,CO,Costilla,2737,2664,2665,2637,2696,2705,2681,2602,2546,2552
+37,Renter-Occupied,CO,Costilla,799,892,891,915,882,876,909,1026,1141,1193
+0,Avg household size of owner-occupied unit,CO,Crowley,3.14,3.1,3.24,3.48,3.49,3.95,3.77,3.58,3.89,3.93
+1,Avg household size of renter-occupied unit,CO,Crowley,3.21,2.98,3.0,3.11,3.27,3.1,3.39,3.34,3.29,3.06
+36,Owner-Occupied,CO,Crowley,2706,2839,3046,3251,3225,3714,3509,3218,3362,3708
+37,Renter-Occupied,CO,Crowley,969,784,800,743,812,707,826,1059,1084,1094
+0,Avg household size of owner-occupied unit,CO,Custer,2.08,2.08,1.99,2.0,1.9,2.11,2.2,2.13,2.25,2.19
+1,Avg household size of renter-occupied unit,CO,Custer,2.19,2.13,2.27,2.29,2.39,2.3,2.37,2.23,2.03,1.9
+36,Owner-Occupied,CO,Custer,3090,3197,3422,3306,3215,3353,3455,3647,4006,4229
+37,Renter-Occupied,CO,Custer,792,620,750,908,1031,933,904,845,621,539
+0,Avg household size of owner-occupied unit,CO,Delta,2.28,2.28,2.28,2.29,2.27,2.34,2.4,2.37,2.43,2.48
+1,Avg household size of renter-occupied unit,CO,Delta,2.53,2.49,2.49,2.46,2.5,2.58,2.46,2.45,2.5,2.39
+36,Owner-Occupied,CO,Delta,21534,21499,21342,21956,20424,20155,20376,20442,20500,21728
+37,Renter-Occupied,CO,Delta,8272,8025,8210,7566,8824,8949,8706,8603,8587,7482
+0,Avg household size of owner-occupied unit,CO,Denver,2.36,2.37,2.37,2.39,2.4,2.42,2.42,2.44,2.46,2.47
+1,Avg household size of renter-occupied unit,CO,Denver,2.07,2.11,2.14,2.16,2.16,2.18,2.19,2.18,2.16,2.11
+36,Owner-Occupied,CO,Denver,315576,315802,313313,319618,324262,329733,336443,351332,358705,371394
+37,Renter-Occupied,CO,Denver,250176,262448,277820,285629,294641,304693,311735,312181,319793,319579
+0,Avg household size of owner-occupied unit,CO,Dolores,2.37,2.17,2.12,2.05,1.98,2.21,2.2,2.24,2.31,2.34
+1,Avg household size of renter-occupied unit,CO,Dolores,3.13,3.05,2.67,2.75,3.6,4.08,3.4,3.31,3.24,2.94
+36,Owner-Occupied,CO,Dolores,1485,1531,1367,1294,1215,1201,1204,1262,1387,1446
+37,Renter-Occupied,CO,Dolores,542,506,435,413,519,661,585,474,454,411
+0,Avg household size of owner-occupied unit,CO,Douglas,2.85,2.87,2.9,2.92,2.93,2.86,2.85,2.91,2.89,2.89
+1,Avg household size of renter-occupied unit,CO,Douglas,2.34,2.36,2.36,2.38,2.46,2.34,2.35,2.46,2.43,2.33
+36,Owner-Occupied,CO,Douglas,232276,235880,240323,244995,249019,252830,258799,262741,267947,275982
+37,Renter-Occupied,CO,Douglas,40327,44065,45874,47337,50093,53450,54736,57451,59865,59181
+0,Avg household size of owner-occupied unit,CO,Eagle,2.66,2.75,2.76,2.85,2.82,2.85,2.84,2.87,2.84,2.79
+1,Avg household size of renter-occupied unit,CO,Eagle,3.02,2.87,2.91,3.0,3.03,3.12,3.33,3.37,3.59,3.5
+36,Owner-Occupied,CO,Eagle,31623,31763,32534,33750,34314,34185,34143,35925,35544,35373
+37,Renter-Occupied,CO,Eagle,19076,19575,19208,18307,17835,18321,18692,17731,18729,19207
+0,Avg household size of owner-occupied unit,CO,Elbert,2.78,2.77,2.78,2.78,2.82,2.84,2.82,2.8,2.8,2.79
+1,Avg household size of renter-occupied unit,CO,Elbert,2.9,2.95,3.0,3.14,3.02,2.74,2.83,2.46,2.52,2.5
+36,Owner-Occupied,CO,Elbert,20656,20508,20576,20709,20697,21168,21425,22265,22746,23325
+37,Renter-Occupied,CO,Elbert,2046,2269,2391,2486,2753,2601,2721,2214,2348,2318
+0,Avg household size of owner-occupied unit,CO,El Paso,2.67,2.67,2.66,2.67,2.67,2.66,2.66,2.7,2.73,2.74
+1,Avg household size of renter-occupied unit,CO,El Paso,2.36,2.39,2.45,2.49,2.52,2.5,2.49,2.52,2.5,2.49
+36,Owner-Occupied,CO,El Paso,403573,403316,401700,402518,405548,408417,416368,426036,440535,450518
+37,Renter-Occupied,CO,El Paso,179050,189858,203010,214096,222715,229928,231654,231472,229153,230711
+0,Avg household size of owner-occupied unit,CO,Fremont,2.02,2.08,2.1,2.12,2.15,2.18,2.22,2.14,2.15,2.15
+1,Avg household size of renter-occupied unit,CO,Fremont,2.11,2.02,2.01,2.06,2.19,2.3,2.23,2.15,2.01,1.99
+36,Owner-Occupied,CO,Fremont,26068,25842,25996,25392,25675,25252,26345,26842,27731,27672
+37,Renter-Occupied,CO,Fremont,8292,9830,9715,10232,10210,10929,9982,9060,8616,8534
+0,Avg household size of owner-occupied unit,CO,Garfield,2.65,2.62,2.65,2.67,2.7,2.69,2.66,2.62,2.66,2.65
+1,Avg household size of renter-occupied unit,CO,Garfield,2.8,2.88,2.88,2.91,2.81,2.77,2.84,2.87,2.86,2.81
+36,Owner-Occupied,CO,Garfield,35678,34557,35755,34944,35849,35847,36451,36484,37587,38111
+37,Renter-Occupied,CO,Garfield,18199,20120,19517,20660,19755,20184,20063,20508,20031,20014
+0,Avg household size of owner-occupied unit,CO,Gilpin,2.03,2.19,2.11,2.11,2.16,2.09,2.22,2.21,2.23,2.19
+1,Avg household size of renter-occupied unit,CO,Gilpin,2.01,1.98,2.29,2.31,2.4,2.28,2.29,2.1,2.01,1.79
+36,Owner-Occupied,CO,Gilpin,3686,3768,3918,3989,3944,4138,4315,4575,4798,4878
+37,Renter-Occupied,CO,Gilpin,1430,1424,1379,1417,1526,1364,1288,1114,1018,1023
+0,Avg household size of owner-occupied unit,CO,Grand,2.53,2.65,2.61,2.47,2.51,2.48,2.34,2.39,2.37,2.35
+1,Avg household size of renter-occupied unit,CO,Grand,3.32,3.11,2.9,3.49,3.39,3.23,2.71,2.84,2.9,2.98
+36,Owner-Occupied,CO,Grand,10365,10376,10605,9668,9890,9478,9475,9452,9517,9468
+37,Renter-Occupied,CO,Grand,4087,3953,3711,4573,4288,4632,4713,5046,5255,5538
+0,Avg household size of owner-occupied unit,CO,Gunnison,2.25,2.23,2.24,2.25,2.23,2.32,2.3,2.33,2.35,2.43
+1,Avg household size of renter-occupied unit,CO,Gunnison,2.28,2.19,2.14,2.3,2.36,2.37,2.24,2.4,2.36,2.38
+36,Owner-Occupied,CO,Gunnison,8251,8245,8817,8363,8323,8644,8872,8880,9541,9887
+37,Renter-Occupied,CO,Gunnison,5791,5829,5377,5928,6135,6050,6095,6426,6100,6060
+0,Avg household size of owner-occupied unit,CO,Hinsdale,1.84,2.21,2.05,2.07,2.04,2.11,2.07,2.17,2.14,2.29
+1,Avg household size of renter-occupied unit,CO,Hinsdale,2.31,2.36,2.27,2.04,2.14,2.41,2.27,2.33,2.56,2.21
+36,Owner-Occupied,CO,Hinsdale,392,558,605,632,674,637,606,558,593,619
+37,Renter-Occupied,CO,Hinsdale,97,163,175,167,186,229,245,259,282,237
+0,Avg household size of owner-occupied unit,CO,Huerfano,1.96,1.88,1.86,1.94,2.17,2.14,2.03,2.0,2.05,2.08
+1,Avg household size of renter-occupied unit,CO,Huerfano,1.98,2.06,2.12,2.16,2.12,1.91,1.98,1.95,1.7,1.84
+36,Owner-Occupied,CO,Huerfano,4458,4020,4339,4306,4561,4725,4724,4573,4816,4824
+37,Renter-Occupied,CO,Huerfano,1748,1972,1708,1818,1608,1562,1603,1740,1584,1676
+0,Avg household size of owner-occupied unit,CO,Jackson,2.17,1.99,2.19,2.0,1.91,2.05,1.96,2.1,2.1,2.19
+1,Avg household size of renter-occupied unit,CO,Jackson,2.0,1.94,2.26,2.28,2.59,2.37,2.4,2.72,2.58,2.41
+36,Owner-Occupied,CO,Jackson,1082,1059,1008,937,847,855,827,880,861,978
+37,Renter-Occupied,CO,Jackson,382,396,357,410,521,469,468,482,425,270
+0,Avg household size of owner-occupied unit,CO,Jefferson,2.49,2.49,2.48,2.49,2.51,2.51,2.52,2.52,2.52,2.52
+1,Avg household size of renter-occupied unit,CO,Jefferson,2.19,2.21,2.24,2.26,2.26,2.27,2.25,2.25,2.25,2.24
+36,Owner-Occupied,CO,Jefferson,388662,386181,384536,386620,388378,391542,399353,405793,408297,412983
+37,Renter-Occupied,CO,Jefferson,133276,138146,143508,145734,149306,152188,150823,149452,153351,152811
+0,Avg household size of owner-occupied unit,CO,Kiowa,2.36,2.39,2.55,2.36,2.37,2.31,2.34,2.19,2.28,2.22
+1,Avg household size of renter-occupied unit,CO,Kiowa,2.02,2.32,2.69,2.85,2.7,2.9,2.85,2.74,2.71,2.46
+36,Owner-Occupied,CO,Kiowa,1107,1223,973,959,968,1021,1008,959,1012,1050
+37,Renter-Occupied,CO,Kiowa,476,481,395,433,407,409,427,378,407,404
+0,Avg household size of owner-occupied unit,CO,Kit Carson,2.47,2.37,2.34,2.32,2.38,2.35,2.49,2.45,2.34,2.33
+1,Avg household size of renter-occupied unit,CO,Kit Carson,2.46,2.72,2.62,2.64,2.41,2.35,2.36,2.2,2.36,2.25
+36,Owner-Occupied,CO,Kit Carson,5157,5007,4891,4648,4825,4796,5146,5119,4804,4656
+37,Renter-Occupied,CO,Kit Carson,2273,2419,2528,2755,2474,2249,2135,1981,2190,2266
+0,Avg household size of owner-occupied unit,CO,Lake,2.36,2.33,2.36,2.34,2.36,2.47,2.44,2.38,2.37,2.38
+1,Avg household size of renter-occupied unit,CO,Lake,2.88,3.14,2.87,2.31,2.22,2.26,2.17,1.97,1.97,1.96
+36,Owner-Occupied,CO,Lake,4306,4154,4770,4733,4426,4229,4246,4559,4937,5515
+37,Renter-Occupied,CO,Lake,2594,2716,2456,2450,2727,2977,2997,2771,2504,2099
+0,Avg household size of owner-occupied unit,CO,La Plata,2.38,2.37,2.39,2.42,2.42,2.44,2.43,2.45,2.49,2.53
+1,Avg household size of renter-occupied unit,CO,La Plata,2.32,2.29,2.25,2.32,2.35,2.27,2.36,2.33,2.34,2.33
+36,Owner-Occupied,CO,La Plata,33739,34064,34576,33745,34028,35164,35600,36399,38212,38885
+37,Renter-Occupied,CO,La Plata,14723,14632,14787,16283,16533,16141,16499,16181,15001,14872
+0,Avg household size of owner-occupied unit,CO,Larimer,2.5,2.51,2.5,2.52,2.54,2.55,2.58,2.56,2.57,2.56
+1,Avg household size of renter-occupied unit,CO,Larimer,2.19,2.23,2.26,2.29,2.32,2.32,2.32,2.29,2.25,2.24
+36,Owner-Occupied,CO,Larimer,198082,200076,199957,201050,202525,204864,210613,216716,221983,227857
+37,Renter-Occupied,CO,Larimer,83572,87263,92085,95850,99797,104248,105348,104842,106586,107481
+0,Avg household size of owner-occupied unit,CO,Las Animas,2.37,2.27,2.4,2.48,2.44,2.42,2.23,2.11,2.03,2.0
+1,Avg household size of renter-occupied unit,CO,Las Animas,2.43,2.58,2.43,2.31,2.34,2.25,2.21,2.11,2.14,2.03
+36,Owner-Occupied,CO,Las Animas,10563,9952,10460,10322,10279,9681,9355,8795,9063,8969
+37,Renter-Occupied,CO,Las Animas,4751,5085,4384,4248,3907,4084,4189,4543,4294,4427
+0,Avg household size of owner-occupied unit,CO,Lincoln,2.4,2.16,2.19,2.1,2.09,2.18,2.24,2.28,2.31,2.39
+1,Avg household size of renter-occupied unit,CO,Lincoln,2.23,1.98,1.94,2.12,2.33,2.36,2.57,2.6,2.38,2.09
+36,Owner-Occupied,CO,Lincoln,3264,2949,2845,2646,2426,2410,2351,2332,2403,2564
+37,Renter-Occupied,CO,Lincoln,1248,1117,1118,1238,1386,1353,1167,1185,1142,936
+0,Avg household size of owner-occupied unit,CO,Logan,2.62,2.73,2.73,2.7,2.82,2.75,2.65,2.72,2.69,2.69
+1,Avg household size of renter-occupied unit,CO,Logan,2.37,2.41,2.55,2.65,2.6,2.35,2.48,2.28,2.25,2.28
+36,Owner-Occupied,CO,Logan,14581,15593,15610,15007,14928,14478,13392,13730,13615,14707
+37,Renter-Occupied,CO,Logan,6119,5815,5883,6503,6592,6322,7344,7059,7025,6638
+0,Avg household size of owner-occupied unit,CO,Mesa,2.46,2.45,2.44,2.46,2.45,2.46,2.44,2.42,2.44,2.44
+1,Avg household size of renter-occupied unit,CO,Mesa,2.38,2.36,2.42,2.43,2.41,2.38,2.4,2.35,2.31,2.3
+36,Owner-Occupied,CO,Mesa,101743,102751,102669,103318,100738,100609,98801,98091,100233,102662
+37,Renter-Occupied,CO,Mesa,37542,38582,40307,40423,43056,43537,45654,47113,46272,45190
+0,Avg household size of owner-occupied unit,CO,Mineral,2.14,1.88,1.82,1.86,1.82,1.82,1.78,1.84,1.92,1.99
+1,Avg household size of renter-occupied unit,CO,Mineral,1.57,1.67,1.84,1.8,1.64,2.58,2.51,2.98,3.88,3.55
+36,Owner-Occupied,CO,Mineral,814,593,556,611,582,592,629,635,640,634
+37,Renter-Occupied,CO,Mineral,94,87,107,115,90,111,138,176,163,174
+0,Avg household size of owner-occupied unit,CO,Moffat,2.52,2.43,2.48,2.59,2.66,2.58,2.64,2.57,2.58,2.56
+1,Avg household size of renter-occupied unit,CO,Moffat,2.49,2.61,2.68,2.66,2.72,2.66,2.55,2.45,2.25,2.16
+36,Owner-Occupied,CO,Moffat,10158,9673,9713,9948,9577,8983,9251,9140,9154,8896
+37,Renter-Occupied,CO,Moffat,3328,3572,3535,3245,3494,3985,3637,3768,3754,4086
+0,Avg household size of owner-occupied unit,CO,Montezuma,2.28,2.29,2.29,2.28,2.28,2.28,2.31,2.31,2.4,2.43
+1,Avg household size of renter-occupied unit,CO,Montezuma,2.28,2.23,2.32,2.55,2.58,2.82,2.95,2.7,2.45,2.38
+36,Owner-Occupied,CO,Montezuma,18315,17861,17491,17160,16934,16742,16738,17057,18124,18687
+37,Renter-Occupied,CO,Montezuma,6851,7069,7546,8015,8353,8716,9024,8458,7520,7061
+0,Avg household size of owner-occupied unit,CO,Montrose,2.46,2.44,2.48,2.51,2.47,2.44,2.49,2.43,2.42,2.45
+1,Avg household size of renter-occupied unit,CO,Montrose,2.4,2.39,2.23,2.23,2.24,2.31,2.29,2.28,2.28,2.26
+36,Owner-Occupied,CO,Montrose,29936,29445,30734,30493,29085,28648,28792,28446,29314,30566
+37,Renter-Occupied,CO,Montrose,9962,10772,9665,9946,11228,11608,11531,11930,11437,10607
+0,Avg household size of owner-occupied unit,CO,Morgan,2.76,2.7,2.79,2.77,2.75,2.73,2.75,2.68,2.62,2.67
+1,Avg household size of renter-occupied unit,CO,Morgan,2.4,2.4,2.32,2.44,2.5,2.55,2.48,2.51,2.51,2.4
+36,Owner-Occupied,CO,Morgan,19350,17976,18788,18361,18114,18452,19013,18228,18182,18690
+37,Renter-Occupied,CO,Morgan,8171,9245,8724,9300,9631,9380,8887,9497,9674,9412
+0,Avg household size of owner-occupied unit,CO,Otero,2.35,2.43,2.35,2.4,2.39,2.45,2.45,2.39,2.36,2.3
+1,Avg household size of renter-occupied unit,CO,Otero,2.2,2.43,2.41,2.54,2.58,2.37,2.34,2.36,2.26,2.32
+36,Owner-Occupied,CO,Otero,11847,11656,11339,11536,11469,11661,11739,11505,11283,11364
+37,Renter-Occupied,CO,Otero,5699,6466,6805,6661,6661,6399,6202,6321,6563,6465
+0,Avg household size of owner-occupied unit,CO,Ouray,2.58,2.6,2.36,2.31,2.28,2.26,2.04,2.03,2.07,2.21
+1,Avg household size of renter-occupied unit,CO,Ouray,2.42,2.51,2.32,2.27,2.35,2.44,2.41,2.3,2.33,2.24
+36,Owner-Occupied,CO,Ouray,3261,3311,3428,3381,3266,3209,3140,3103,3108,3454
+37,Renter-Occupied,CO,Ouray,1058,1040,1003,1085,1262,1371,1511,1550,1614,1342
+0,Avg household size of owner-occupied unit,CO,Park,2.11,2.26,2.27,2.24,2.24,2.23,2.26,2.34,2.47,2.58
+1,Avg household size of renter-occupied unit,CO,Park,2.63,2.74,2.52,2.54,2.17,2.01,1.93,1.99,2.18,2.42
+36,Owner-Occupied,CO,Park,13147,14008,14132,13941,14077,13466,13895,14034,14737,15435
+37,Renter-Occupied,CO,Park,2239,2165,1923,2063,1972,2600,2423,2756,2529,2286
+0,Avg household size of owner-occupied unit,CO,Phillips,2.45,2.49,2.55,2.62,2.71,2.6,2.5,2.57,2.58,2.55
+1,Avg household size of renter-occupied unit,CO,Phillips,2.07,2.17,2.8,2.52,2.39,2.31,2.43,2.37,2.44,2.36
+36,Owner-Occupied,CO,Phillips,3351,3265,3018,3026,3056,3128,2883,2964,3032,3091
+37,Renter-Occupied,CO,Phillips,1033,1048,1293,1294,1260,1178,1397,1289,1207,1119
+0,Avg household size of owner-occupied unit,CO,Pitkin,2.28,2.27,2.35,2.33,2.36,2.32,2.36,2.52,2.65,2.44
+1,Avg household size of renter-occupied unit,CO,Pitkin,2.09,2.18,2.21,2.14,2.28,2.21,2.18,2.19,2.33,2.27
+36,Owner-Occupied,CO,Pitkin,10566,11208,11259,12018,11661,11457,11249,11975,11981,11858
+37,Renter-Occupied,CO,Pitkin,5823,5378,5616,5032,5517,5838,6173,5648,5799,5934
+0,Avg household size of owner-occupied unit,CO,Prowers,2.58,2.56,2.52,2.47,2.42,2.49,2.4,2.47,2.4,2.44
+1,Avg household size of renter-occupied unit,CO,Prowers,2.28,2.21,2.25,2.39,2.45,2.33,2.39,2.22,2.28,2.27
+36,Owner-Occupied,CO,Prowers,8445,8491,8318,8027,7931,8129,7644,7901,7586,7810
+37,Renter-Occupied,CO,Prowers,3726,3708,3796,4044,4037,3712,4092,3800,4087,3842
+0,Avg household size of owner-occupied unit,CO,Pueblo,2.52,2.51,2.51,2.47,2.47,2.48,2.51,2.51,2.55,2.56
+1,Avg household size of renter-occupied unit,CO,Pueblo,2.37,2.41,2.45,2.52,2.51,2.52,2.5,2.49,2.46,2.44
+36,Owner-Occupied,CO,Pueblo,108180,106557,104018,101427,100613,100060,100398,100580,104420,106428
+37,Renter-Occupied,CO,Pueblo,43764,46978,50641,54035,55437,56676,57263,58225,55902,55371
+0,Avg household size of owner-occupied unit,CO,Rio Blanco,2.61,2.32,2.4,2.36,2.33,2.44,2.61,2.57,2.67,2.75
+1,Avg household size of renter-occupied unit,CO,Rio Blanco,1.93,2.09,1.95,1.98,2.17,2.56,2.53,2.59,2.25,2.32
+36,Owner-Occupied,CO,Rio Blanco,5060,4235,4249,4281,4129,4044,4312,4281,4486,4483
+37,Renter-Occupied,CO,Rio Blanco,1313,1414,1498,1633,1890,2111,2023,1940,1627,1556
+0,Avg household size of owner-occupied unit,CO,Rio Grande,3.11,2.9,2.72,2.49,2.52,2.59,2.61,2.52,2.75,2.48
+1,Avg household size of renter-occupied unit,CO,Rio Grande,3.33,3.03,2.6,2.4,2.28,2.29,2.26,2.06,1.94,1.99
+36,Owner-Occupied,CO,Rio Grande,8906,8384,8059,7944,7906,7984,7960,7908,8191,7565
+37,Renter-Occupied,CO,Rio Grande,2549,3246,3577,3686,3664,3532,3447,3311,2956,3537
+0,Avg household size of owner-occupied unit,CO,Routt,2.25,2.3,2.27,2.29,2.32,2.38,2.41,2.46,2.46,2.53
+1,Avg household size of renter-occupied unit,CO,Routt,2.14,2.3,2.5,2.61,2.63,2.64,2.68,2.67,2.8,2.68
+36,Owner-Occupied,CO,Routt,16892,16527,15701,15607,15749,15525,15337,15925,16566,17277
+37,Renter-Occupied,CO,Routt,5622,6273,7277,7399,7274,7676,8238,8038,7906,7409
+0,Avg household size of owner-occupied unit,CO,Saguache,2.24,2.28,2.28,2.24,2.3,2.29,2.28,2.24,2.27,2.19
+1,Avg household size of renter-occupied unit,CO,Saguache,2.18,2.23,2.19,2.39,2.54,2.63,2.94,2.8,2.93,2.55
+36,Owner-Occupied,CO,Saguache,4095,4349,4214,4031,4094,4146,4170,4158,4507,4487
+37,Renter-Occupied,CO,Saguache,1859,1762,1926,2128,2076,2068,2064,2162,1944,2082
+0,Avg household size of owner-occupied unit,CO,San Juan,2.18,2.18,2.03,1.97,1.82,1.95,1.92,1.99,2.11,2.08
+1,Avg household size of renter-occupied unit,CO,San Juan,1.41,1.78,1.9,2.16,2.11,2.52,1.99,2.73,1.92,1.96
+36,Owner-Occupied,CO,San Juan,486,418,416,378,378,354,377,340,375,377
+37,Renter-Occupied,CO,San Juan,266,378,328,279,274,252,175,229,169,212
+0,Avg household size of owner-occupied unit,CO,San Miguel,2.2,2.13,2.15,2.18,2.19,2.14,2.27,2.23,2.22,2.19
+1,Avg household size of renter-occupied unit,CO,San Miguel,2.37,2.14,2.3,2.54,2.41,2.57,2.52,2.54,2.44,2.37
+36,Owner-Occupied,CO,San Miguel,4565,4492,4636,4543,4512,4287,4391,4406,4617,4754
+37,Renter-Occupied,CO,San Miguel,2724,2871,2770,2928,3056,3358,3345,3372,3325,3279
+0,Avg household size of owner-occupied unit,CO,Sedgwick,2.2,2.16,2.32,2.38,2.44,2.37,2.29,2.34,2.36,2.48
+1,Avg household size of renter-occupied unit,CO,Sedgwick,2.22,2.25,2.56,2.67,2.6,2.67,2.31,2.27,2.04,2.04
+36,Owner-Occupied,CO,Sedgwick,1616,1719,1656,1539,1586,1668,1622,1662,1717,1714
+37,Renter-Occupied,CO,Sedgwick,607,616,682,790,736,656,705,653,590,564
+0,Avg household size of owner-occupied unit,CO,Summit,2.4,2.35,2.31,2.36,2.45,2.59,2.74,2.7,2.69,2.52
+1,Avg household size of renter-occupied unit,CO,Summit,2.8,2.67,2.59,2.72,3.22,3.26,3.46,3.9,3.87,3.45
+36,Owner-Occupied,CO,Summit,17848,17701,17933,17296,17195,17457,17889,16969,17289,17594
+37,Renter-Occupied,CO,Summit,8735,9215,9319,10338,10879,11120,11002,12359,12741,12651
+0,Avg household size of owner-occupied unit,CO,Teller,2.48,2.52,2.55,2.5,2.45,2.43,2.36,2.36,2.33,2.35
+1,Avg household size of renter-occupied unit,CO,Teller,2.64,2.45,2.43,2.17,2.23,2.35,2.52,2.28,2.44,2.53
+36,Owner-Occupied,CO,Teller,19417,19307,19284,19201,19162,18815,18492,19202,19240,19852
+37,Renter-Occupied,CO,Teller,3129,3441,3589,3802,3963,4353,4824,4420,4739,4550
+0,Avg household size of owner-occupied unit,CO,Washington,2.1,2.12,2.16,2.21,2.24,2.27,2.2,2.16,2.19,2.13
+1,Avg household size of renter-occupied unit,CO,Washington,2.35,2.37,2.44,2.46,2.38,2.41,2.44,2.46,2.35,2.29
+36,Owner-Occupied,CO,Washington,3134,3127,3202,3262,3279,3288,3093,3096,3020,2980
+37,Renter-Occupied,CO,Washington,1629,1453,1437,1331,1248,1234,1455,1425,1525,1585
+0,Avg household size of owner-occupied unit,CO,Weld,2.78,2.77,2.76,2.78,2.8,2.8,2.8,2.82,2.85,2.89
+1,Avg household size of renter-occupied unit,CO,Weld,2.65,2.69,2.76,2.82,2.81,2.82,2.83,2.74,2.76,2.77
+36,Owner-Occupied,CO,Weld,172745,173901,174444,176412,180605,183116,189554,201685,211554,220188
+37,Renter-Occupied,CO,Weld,65018,68739,73079,76092,77966,81333,82090,77728,77085,78621
+0,Avg household size of owner-occupied unit,CO,Yuma,2.57,2.58,2.51,2.69,2.62,2.68,2.56,2.44,2.47,2.5
+1,Avg household size of renter-occupied unit,CO,Yuma,2.37,2.51,2.6,2.44,2.59,2.47,2.41,2.51,2.44,2.35
+36,Owner-Occupied,CO,Yuma,6990,6776,6515,6911,6504,6516,6345,6122,6315,6743
+37,Renter-Occupied,CO,Yuma,2906,3037,3367,3033,3488,3544,3686,3869,3634,3136

@@ -1,0 +1,181 @@
+,state,fips code,county,sector,pollutant desc,pollutant type(s),total emissions,emissions uom
+42907,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+61159,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,6.629386,TON
+100243,DE,10005,Sussex,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1939.0047236999999,TON
+137122,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,9.70567394,TON
+138986,DE,10001,Kent,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1649358,TON
+154228,DE,10001,Kent,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,55.1839497,TON
+188863,DE,10005,Sussex,Fuel Comb - Residential - Other,Ammonia,CAP,0.3550514,TON
+205847,DE,10001,Kent,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+229503,DE,10001,Kent,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.45551949999999997,TON
+255559,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.08563131,TON
+273892,DE,10001,Kent,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,39.706759999999996,TON
+469579,DE,10005,Sussex,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,27.352211699999998,TON
+479739,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+506184,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+575910,DE,10005,Sussex,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.3747158,TON
+584707,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,20.085639999999998,TON
+640077,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,47.17413,TON
+660001,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02588714,TON
+678843,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.2453056,TON
+689186,DE,10003,New Castle,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.9176861999999999,TON
+694128,DE,10001,Kent,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,87.38535999999999,TON
+695901,DE,10001,Kent,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,175.08860647,TON
+813689,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,10.08955357,TON
+814085,DE,10001,Kent,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,2.3416950825,TON
+828180,DE,10005,Sussex,Commercial Cooking,Carbon Monoxide,CAP,44.761853,TON
+829971,DE,10003,New Castle,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,1.754362,TON
+831217,DE,10001,Kent,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1175.6987252999998,TON
+832353,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,355.4876443,TON
+852643,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,26.2394138429,TON
+856864,DE,10005,Sussex,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,3.61926911,TON
+875993,DE,10005,Sussex,Fuel Comb - Residential - Oil,Ammonia,CAP,1.21656143,TON
+933092,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.075697145,TON
+946455,DE,10005,Sussex,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.1883565,TON
+951033,DE,10005,Sussex,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,6.668689776,TON
+985755,DE,10001,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,103.81466,TON
+1023629,DE,10003,New Castle,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,1.539542,TON
+1028337,DE,10005,Sussex,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,255.32525548,TON
+1031033,DE,10005,Sussex,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.0644905,TON
+1126241,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.061796305,TON
+1136729,DE,10005,Sussex,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,99.4144,TON
+1155976,DE,10005,Sussex,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,57.354459999999996,TON
+1166360,DE,10005,Sussex,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,116.57676299999999,TON
+1181273,DE,10001,Kent,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,1.449189008,TON
+1182670,DE,10001,Kent,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.1496639,TON
+1230578,DE,10001,Kent,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1238949,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.2830448,TON
+1269128,DE,10001,Kent,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1277664,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,39.626265999999994,TON
+1330865,DE,10001,Kent,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,24.971096399999997,TON
+1388381,DE,10001,Kent,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.97182255,TON
+1465164,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1470423,DE,10001,Kent,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,29.1039786,TON
+1505685,DE,10005,Sussex,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,41.17562,TON
+1530612,DE,10003,New Castle,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,40.34379987,TON
+1567087,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.231153205,TON
+1603799,DE,10001,Kent,Commercial Cooking,Volatile Organic Compounds,CAP,8.33972035,TON
+1640277,DE,10001,Kent,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,1.5651973999999997,TON
+1642391,DE,10003,New Castle,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,8.7202741,TON
+1678495,DE,10001,Kent,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,3.30419677,TON
+1679711,DE,10003,New Castle,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,1.8617720000000002,TON
+1689476,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,5.09801335,TON
+1807718,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.361951521,TON
+1815606,DE,10001,Kent,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.461794215,TON
+1835405,DE,10001,Kent,Fuel Comb - Residential - Wood,Ammonia,CAP,9.617574558,TON
+1863529,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,1.100044871,TON
+1912750,DE,10003,New Castle,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,7.8042796,TON
+1935901,DE,10005,Sussex,Fuel Comb - Residential - Wood,Ammonia,CAP,14.910710865,TON
+2031709,DE,10001,Kent,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,9.2714006264,TON
+2052321,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2060833,DE,10003,New Castle,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.09911011,TON
+2071915,DE,10001,Kent,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.399805581,TON
+2073617,DE,10005,Sussex,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,3.23909379,TON
+2084020,DE,10001,Kent,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,8.013099,TON
+2084021,DE,10001,Kent,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.30836529999999995,TON
+2086408,DE,10003,New Castle,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,18.303511899999997,TON
+2088557,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,8.46467438,TON
+2096334,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01591488,TON
+2110982,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.77233805,TON
+2122359,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2138106,DE,10003,New Castle,Commercial Cooking,Carbon Monoxide,CAP,95.557175,TON
+2157104,DE,10003,New Castle,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,23.85984,TON
+2176919,DE,10001,Kent,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2238891,DE,10001,Kent,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.48340839999999996,TON
+2244055,DE,10005,Sussex,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,255.27119748,TON
+2311307,DE,10003,New Castle,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.07341489999999999,TON
+2334854,DE,10001,Kent,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.02648502,TON
+2336220,DE,10005,Sussex,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,17.521539999999998,TON
+2457694,DE,10003,New Castle,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,353.21977634,TON
+2474361,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,139.7032739,TON
+2490465,DE,10003,New Castle,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,19.69181,TON
+2490586,DE,10005,Sussex,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,2.4092119999999997,TON
+2491018,DE,10001,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.5261625,TON
+2510810,DE,10001,Kent,Commercial Cooking,Carbon Monoxide,CAP,22.901664,TON
+2513330,DE,10001,Kent,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,2.4850548999999997,TON
+2534204,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2567135,DE,10001,Kent,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,37.18526,TON
+2584275,DE,10005,Sussex,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.4129521,TON
+2596787,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,9.030334300000002,TON
+2606908,DE,10001,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,5.91507505,TON
+2609964,DE,10001,Kent,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,6.6518436,TON
+2662874,DE,10001,Kent,Fuel Comb - Residential - Oil,Ammonia,CAP,1.11065391,TON
+2669231,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2688459,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2729488,DE,10005,Sussex,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,1.7144473999999998,TON
+2739511,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2762588,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,23.29241074,TON
+2770012,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,1.91207662,TON
+2797380,DE,10001,Kent,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.62028,TON
+2812530,DE,10003,New Castle,Fuel Comb - Residential - Other,Ammonia,CAP,0.08521372,TON
+2819306,DE,10001,Kent,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,158.84280180000002,TON
+2820463,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,1.823040615,TON
+3017332,DE,10003,New Castle,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,329.03377219,TON
+3033949,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,1.6903459619999999,TON
+3034280,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,2.59457695,TON
+3050443,DE,10001,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.6443889,TON
+3067244,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3067728,DE,10001,Kent,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.17326026,TON
+3106116,DE,10001,Kent,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02663723,TON
+3108638,DE,10001,Kent,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,17.91067256,TON
+3154267,DE,10005,Sussex,Commercial Cooking,Volatile Organic Compounds,CAP,16.32981267,TON
+3185975,DE,10003,New Castle,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,65.90249200000001,TON
+3283307,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,1.943575155,TON
+3343694,DE,10005,Sussex,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,28.93164169,TON
+3357248,DE,10001,Kent,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,2.95711761,TON
+3387440,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,22.4717549,TON
+3399160,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,403.1379027,TON
+3400431,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.202848755,TON
+3436719,DE,10001,Kent,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,3.9569206930000003,TON
+3474355,DE,10005,Sussex,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.2628231,TON
+3495520,DE,10003,New Castle,Commercial Cooking,Volatile Organic Compounds,CAP,34.5754691,TON
+3499129,DE,10003,New Castle,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,329.34467519,TON
+3545757,DE,10003,New Castle,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,13.76529,TON
+3591935,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,2.203851695,TON
+3606384,DE,10005,Sussex,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.823631,TON
+3703776,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+3706105,DE,10001,Kent,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.55845488,TON
+3709689,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.10321168,TON
+3749949,DE,10003,New Castle,Fuel Comb - Residential - Wood,Ammonia,CAP,20.657927758,TON
+3758359,DE,10001,Kent,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3779813,DE,10005,Sussex,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.3058905,TON
+3816020,DE,10001,Kent,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3841583,DE,10003,New Castle,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,4.1307933,TON
+3844644,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.03079496,TON
+3873648,DE,10003,New Castle,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.08993325,TON
+3883274,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.2571639999999995,TON
+3884211,DE,10001,Kent,Fuel Comb - Residential - Other,Ammonia,CAP,0.1418099,TON
+3943483,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,11.5710375,TON
+3961493,DE,10001,Kent,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.527183,TON
+3962306,DE,10003,New Castle,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,7.467336595,TON
+3981082,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3995196,DE,10003,New Castle,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,143.2132,TON
+4000947,DE,10003,New Castle,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2384.8801691,TON
+4032250,DE,10001,Kent,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.0321806,TON
+4032434,DE,10001,Kent,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,6.9353795,TON
+4053955,DE,10001,Kent,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,158.80310980000002,TON
+4055919,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,30.71588365,TON
+4056859,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.23999970000000004,TON
+4072931,DE,10003,New Castle,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.56478645,TON
+4090630,DE,10001,Kent,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.5577789000000001,TON
+4093485,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,2.547933413,TON
+4129492,DE,10003,New Castle,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,336.551,TON
+4139290,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,2.06424087,TON
+4246201,DE,10001,Kent,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,59.431471900000005,TON
+4252493,DE,10005,Sussex,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,7.5967036,TON
+4304307,DE,10003,New Castle,Fuel Comb - Residential - Oil,Ammonia,CAP,2.93118465,TON
+4327816,DE,10001,Kent,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,22.90775,TON
+4331092,DE,10005,Sussex,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.06631093,TON
+4380740,DE,10005,Sussex,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.21463890000000002,TON
+4481925,DE,10001,Kent,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.12217470000000001,TON
+4484767,DE,10005,Sussex,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,108.35158200000001,TON
+4534494,DE,10001,Kent,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,5.112973,TON
+4645250,DE,10001,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,90.237756,TON
+4689509,DE,10005,Sussex,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,293.85440865,TON
+4739792,DE,10003,New Castle,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4752816,DE,10003,New Castle,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,2.148198,TON
+4767754,DE,10001,Kent,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.3997416,TON
+4811082,DE,10003,New Castle,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,231.905479,TON
+4817131,DE,10003,New Castle,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,249.87998900000002,TON
+4827119,DE,10001,Kent,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4922482,DE,10005,Sussex,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.22778,TON

@@ -1,0 +1,33 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,CT,Fairfield,2.78,2.79,2.8,2.82,2.84,2.84,2.84,2.83,2.8,2.81
+1,Avg household size of renter-occupied unit,CT,Fairfield,2.38,2.43,2.48,2.52,2.54,2.57,2.58,2.58,2.55,2.55
+36,Owner-Occupied,CT,Fairfield,651431,652405,649949,646703,647992,649454,643160,647285,641944,640317
+37,Renter-Occupied,CT,Fairfield,231952,239133,249654,260436,267434,272130,279959,281712,284279,285522
+0,Avg household size of owner-occupied unit,CT,Hartford,2.6,2.6,2.6,2.61,2.61,2.63,2.63,2.62,2.62,2.61
+1,Avg household size of renter-occupied unit,CT,Hartford,2.22,2.23,2.24,2.28,2.29,2.29,2.28,2.27,2.26,2.23
+36,Owner-Occupied,CT,Hartford,601862,599780,597700,594646,590900,588938,585675,591271,588958,587384
+37,Renter-Occupied,CT,Hartford,258870,262151,267338,272884,278577,280809,283501,280012,280097,281051
+0,Avg household size of owner-occupied unit,CT,Litchfield,2.57,2.56,2.56,2.57,2.56,2.55,2.56,2.54,2.53,2.52
+1,Avg household size of renter-occupied unit,CT,Litchfield,1.99,1.99,2.03,2.02,2.08,2.13,2.08,2.06,2.09,2.07
+36,Owner-Occupied,CT,Litchfield,155320,154399,152626,151817,148645,146610,145899,145808,144636,142993
+37,Renter-Occupied,CT,Litchfield,32446,32147,33423,33577,35637,36407,36067,35519,35322,36019
+0,Avg household size of owner-occupied unit,CT,Middlesex,2.49,2.5,2.52,2.54,2.53,2.52,2.51,2.5,2.48,2.48
+1,Avg household size of renter-occupied unit,CT,Middlesex,1.95,1.95,1.95,1.98,1.99,2.06,2.01,2.04,2.0,1.96
+36,Owner-Occupied,CT,Middlesex,126271,127398,127839,127967,126561,125085,124567,122554,122068,122189
+37,Renter-Occupied,CT,Middlesex,31511,31011,31129,31182,32653,33861,33962,35655,35300,34836
+0,Avg household size of owner-occupied unit,CT,New Haven,2.67,2.67,2.68,2.7,2.7,2.71,2.7,2.71,2.68,2.67
+1,Avg household size of renter-occupied unit,CT,New Haven,2.21,2.23,2.25,2.27,2.29,2.3,2.29,2.28,2.26,2.25
+36,Owner-Occupied,CT,New Haven,576282,571606,566749,563771,557907,554595,550163,552067,547281,545306
+37,Renter-Occupied,CT,New Haven,253413,259294,266130,270186,276348,278719,281931,281271,283339,283703
+0,Avg household size of owner-occupied unit,CT,New London,2.54,2.54,2.58,2.56,2.57,2.58,2.58,2.52,2.5,2.48
+1,Avg household size of renter-occupied unit,CT,New London,2.17,2.16,2.15,2.19,2.18,2.18,2.19,2.18,2.17,2.15
+36,Owner-Occupied,CT,New London,188367,188691,187588,184914,184634,182914,180725,180207,178536,177476
+37,Renter-Occupied,CT,New London,70247,70980,73077,76081,76422,77619,78818,78083,78006,77918
+0,Avg household size of owner-occupied unit,CT,Tolland,2.67,2.67,2.67,2.67,2.65,2.65,2.65,2.64,2.62,2.61
+1,Avg household size of renter-occupied unit,CT,Tolland,2.03,2.09,2.09,2.09,2.07,2.06,2.05,2.02,2.03,2.02
+36,Owner-Occupied,CT,Tolland,110918,111016,110026,107728,106857,105670,105061,105018,104350,104246
+37,Renter-Occupied,CT,Tolland,26096,26894,27704,29087,29279,30111,30506,30660,31382,31732
+0,Avg household size of owner-occupied unit,CT,Windham,2.66,2.66,2.68,2.66,2.62,2.6,2.6,2.58,2.61,2.58
+1,Avg household size of renter-occupied unit,CT,Windham,2.33,2.31,2.35,2.36,2.33,2.37,2.35,2.3,2.24,2.24
+36,Owner-Occupied,CT,Windham,83369,83862,83183,82106,82148,81044,80465,80502,80927,79992
+37,Renter-Occupied,CT,Windham,30185,29791,30236,31017,30539,31087,31244,30827,30237,31206

@@ -1,0 +1,68 @@
+,state,fips code,county,sector,pollutant desc,pollutant type(s),total emissions,emissions uom
+79259,DC,11001,District of Columbia,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,0.2814,TON
+86383,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.44064,TON
+197626,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,3.68140701,TON
+279064,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,2.88,TON
+288909,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,784.39241175,TON
+294354,DC,11001,District of Columbia,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,4.61924316,TON
+303859,DC,11001,District of Columbia,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.284487,TON
+439051,DC,11001,District of Columbia,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.94962,TON
+512131,DC,11001,District of Columbia,Commercial Cooking,Volatile Organic Compounds,CAP,59.9616973,TON
+579151,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,24.13177481,TON
+695936,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,38.80007707,TON
+871690,DC,11001,District of Columbia,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.001035,TON
+1026654,DC,11001,District of Columbia,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.010955,TON
+1044033,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,1.86948678,TON
+1120781,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,39.54106314,TON
+1318619,DC,11001,District of Columbia,Fuel Comb - Residential - Wood,Ammonia,CAP,0.26426245,TON
+1351822,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,599.61186604,TON
+1412086,DC,11001,District of Columbia,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,0.0798,TON
+1453705,DC,11001,District of Columbia,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,16.0404989,TON
+1502613,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.894,TON
+1577647,DC,11001,District of Columbia,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.09504,TON
+1661172,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,4.64725246,TON
+1773013,DC,11001,District of Columbia,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.8498700000000001,TON
+1830530,DC,11001,District of Columbia,Fuel Comb - Residential - Oil,Ammonia,CAP,0.39899999999999997,TON
+1914691,DC,11001,District of Columbia,Fuel Comb - Residential - Other,Ammonia,CAP,0.000975,TON
+1922712,DC,11001,District of Columbia,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,433.401941,TON
+1932421,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,2.7754557,TON
+1942088,DC,11001,District of Columbia,Commercial Cooking,Carbon Monoxide,CAP,165.69118999999998,TON
+2168725,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,32.1592006,TON
+2234120,DC,11001,District of Columbia,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,3.5712,TON
+2245502,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,39.116618,TON
+2446666,DC,11001,District of Columbia,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,32.736,TON
+2597166,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.44064,TON
+2606996,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,24.56755481,TON
+2639578,DC,11001,District of Columbia,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,238.08,TON
+2804778,DC,11001,District of Columbia,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.135309563,TON
+3026965,DC,11001,District of Columbia,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,2.8329,TON
+3041566,DC,11001,District of Columbia,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,402.334696,TON
+3046973,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.05,TON
+3075108,DC,11001,District of Columbia,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,83.67857,TON
+3085373,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.034,TON
+3110469,DC,11001,District of Columbia,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.0008550000000000001,TON
+3149473,DC,11001,District of Columbia,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.0011949999999999999,TON
+3152562,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,10.9548635,TON
+3175849,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,2.69568,TON
+3296140,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.0,TON
+3316724,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.44,TON
+3355417,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,1.2,TON
+3441660,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.584,TON
+3469004,DC,11001,District of Columbia,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,119.04,TON
+3531508,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,2.37258,TON
+3590896,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,3.74489989,TON
+3638451,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.00529365,TON
+3837596,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,1.034,TON
+3854642,DC,11001,District of Columbia,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,559.488,TON
+3927886,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4047569,DC,11001,District of Columbia,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,2.55936,TON
+4193428,DC,11001,District of Columbia,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,21.6247629,TON
+4193497,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,11.077131399999999,TON
+4343033,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,3.57152489,TON
+4347853,DC,11001,District of Columbia,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,16.4414689,TON
+4610499,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,15.540479999999999,TON
+4659316,DC,11001,District of Columbia,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,7.182,TON
+4672995,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,8.98177774,TON
+4762511,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.01,TON
+4773866,DC,11001,District of Columbia,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,1.995,TON
+4837311,DC,11001,District of Columbia,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,10.9548635,TON

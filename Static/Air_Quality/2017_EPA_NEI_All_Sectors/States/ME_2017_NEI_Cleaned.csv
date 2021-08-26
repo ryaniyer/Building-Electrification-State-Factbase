@@ -1,0 +1,1073 @@
+,state,fips code,county,sector,pollutant desc,pollutant type(s),total emissions,emissions uom
+1122,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+7682,ME,23017,Oxford,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,8.7481246,TON
+11344,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+11492,ME,23009,Hancock,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.02141517,TON
+13720,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+14423,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.1190089,TON
+14903,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+15055,ME,23013,Knox,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,66.50944,TON
+18578,ME,23003,Aroostook,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.02307757,TON
+35383,ME,23029,Washington,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+37855,ME,23013,Knox,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+38814,ME,23005,Cumberland,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,419.29067000000003,TON
+44835,ME,23001,Androscoggin,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,47.8260149,TON
+48683,ME,23025,Somerset,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.27005619999999997,TON
+51445,ME,23025,Somerset,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,3.2300107999999996,TON
+54682,ME,23029,Washington,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+60930,ME,23013,Knox,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.03458704,TON
+62333,ME,23011,Kennebec,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,40.23409,TON
+62767,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,10.267008,TON
+67356,ME,23021,Piscataquis,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.05036762,TON
+68241,ME,23029,Washington,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.04657534,TON
+73367,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+84730,ME,23025,Somerset,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.04643705,TON
+87982,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+99404,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,174.4301356,TON
+105789,ME,23021,Piscataquis,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0003214954,TON
+106650,ME,23029,Washington,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,15.32901,TON
+107280,ME,23009,Hancock,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.002024707,TON
+109818,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+112664,ME,23027,Waldo,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0008755392,TON
+119578,ME,23031,York,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,31.0399619,TON
+139714,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,49.86334855,TON
+145519,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+146877,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+155701,ME,23027,Waldo,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1996.6728179000002,TON
+173497,ME,23001,Androscoggin,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,3232.4512892,TON
+183832,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+196842,ME,23009,Hancock,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2650.3453499,TON
+200911,ME,23019,Penobscot,Commercial Cooking,Volatile Organic Compounds,CAP,7.37032802,TON
+215526,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,6.410296895,TON
+220526,ME,23003,Aroostook,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,77.5030311,TON
+224832,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,3.00308735,TON
+230143,ME,23013,Knox,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+234702,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,22.48661818,TON
+237017,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+240627,ME,23025,Somerset,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.004050842,TON
+244336,ME,23021,Piscataquis,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,25.233883,TON
+245792,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,39.99085,TON
+250604,ME,23029,Washington,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,9.2537704416,TON
+254677,ME,23009,Hancock,Fuel Comb - Residential - Wood,Ammonia,CAP,18.33198388,TON
+258007,ME,23013,Knox,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,139.2869699,TON
+262140,ME,23023,Sagadahoc,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.5361659000000001,TON
+265556,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.3080333,TON
+271746,ME,23013,Knox,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,174.90998645,TON
+280486,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+289065,ME,23031,York,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,526.363021,TON
+289508,ME,23001,Androscoggin,Fuel Comb - Residential - Wood,Ammonia,CAP,22.80865018,TON
+292939,ME,23009,Hancock,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,10.2174543,TON
+295440,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+304610,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.3346063,TON
+318060,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,6.43797656,TON
+322327,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.03004035,TON
+322328,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,6.130684,TON
+323061,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+323657,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.140516,TON
+324718,ME,23001,Androscoggin,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,178.81968,TON
+326656,ME,23017,Oxford,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.002266186,TON
+332638,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,2.2,TON
+334087,ME,23027,Waldo,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,60.930005,TON
+337428,ME,23007,Franklin,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,8.438236,TON
+338980,ME,23015,Lincoln,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,15.325103200000001,TON
+342078,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+347949,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.247001738,TON
+350051,ME,23023,Sagadahoc,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,19.28452164,TON
+355997,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,13.389133621,TON
+362338,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,158.95125,TON
+363158,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.01472148,TON
+368337,ME,23019,Penobscot,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,5944.637720000001,TON
+368410,ME,23017,Oxford,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,18.096239999999998,TON
+369024,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,6.41541744,TON
+393515,ME,23031,York,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,32.88262,TON
+404655,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,2.19047506,TON
+414913,ME,23025,Somerset,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.13502809999999998,TON
+420239,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.27147709999999997,TON
+423211,ME,23001,Androscoggin,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.08875203,TON
+423556,ME,23013,Knox,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+424223,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+426632,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,1.0134826,TON
+428687,ME,23015,Lincoln,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,237.13615488,TON
+429299,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.18584746,TON
+439428,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+442246,ME,23029,Washington,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,3.278912,TON
+443044,ME,23005,Cumberland,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.480918,TON
+444055,ME,23009,Hancock,Commercial Cooking,Volatile Organic Compounds,CAP,4.36939314,TON
+446675,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,12.891789723299999,TON
+453756,ME,23013,Knox,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.04265154,TON
+455532,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.01480766,TON
+459856,ME,23011,Kennebec,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,79.8055475,TON
+471865,ME,23003,Aroostook,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,742.8841121,TON
+472526,ME,23013,Knox,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,20.4509313,TON
+480649,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.08648698,TON
+481037,ME,23029,Washington,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.024684400000000002,TON
+482105,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,517.403059,TON
+487327,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,132.0691358,TON
+496413,ME,23023,Sagadahoc,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.0418459,TON
+496822,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+501279,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+502560,ME,23007,Franklin,Commercial Cooking,Carbon Monoxide,CAP,3.4979739999999997,TON
+504014,ME,23017,Oxford,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.7044929,TON
+529802,ME,23005,Cumberland,Commercial Cooking,Carbon Monoxide,CAP,58.169,TON
+545162,ME,23015,Lincoln,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,237.13615488,TON
+546593,ME,23005,Cumberland,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,30.34070132,TON
+551975,ME,23009,Hancock,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0023361999999999996,TON
+555147,ME,23007,Franklin,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,5.3157382,TON
+556063,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,7.429075999999999,TON
+556865,ME,23029,Washington,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+562439,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.15762839999999997,TON
+566442,ME,23027,Waldo,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,22.68974487,TON
+566444,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+572094,ME,23023,Sagadahoc,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,3.905617,TON
+576269,ME,23011,Kennebec,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,59.52949,TON
+588266,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,14.87262484,TON
+591562,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+593291,ME,23027,Waldo,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.07421932,TON
+593737,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+593853,ME,23015,Lincoln,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.07294368,TON
+594260,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.1686192,TON
+609141,ME,23011,Kennebec,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.8873274,TON
+610264,ME,23015,Lincoln,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,21.40866438,TON
+612262,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,5.149775,TON
+614617,ME,23029,Washington,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+621052,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,11.218621257,TON
+627549,ME,23021,Piscataquis,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.02143303,TON
+637866,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,1.233371622,TON
+639666,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,154.671346,TON
+644048,ME,23029,Washington,Commercial Cooking,Carbon Monoxide,CAP,3.5467553999999994,TON
+646181,ME,23003,Aroostook,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,732.2335276,TON
+650620,ME,23031,York,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,46.175059999999995,TON
+652995,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+662575,ME,23021,Piscataquis,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,8.89062346,TON
+663261,ME,23019,Penobscot,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,41.64502,TON
+665583,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.23824427,TON
+675641,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+678289,ME,23017,Oxford,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.06655866,TON
+680199,ME,23031,York,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,949.6036125,TON
+682297,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+688467,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+690775,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+691644,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.02981038,TON
+692407,ME,23011,Kennebec,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,25.36015,TON
+706350,ME,23013,Knox,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.07576572,TON
+706425,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+710163,ME,23007,Franklin,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0016074770000000002,TON
+717996,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.79466261,TON
+725566,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.058237800000000006,TON
+727899,ME,23003,Aroostook,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.004039769,TON
+734538,ME,23005,Cumberland,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,16.5928665,TON
+737012,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,9.667394585,TON
+743663,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,6.36060969,TON
+746812,ME,23025,Somerset,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,22.672275,TON
+748662,ME,23005,Cumberland,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,4.40875,TON
+749514,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+775311,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,393.82746519999995,TON
+777498,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.19620832,TON
+782254,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,5.685807131000001,TON
+783015,ME,23013,Knox,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.5809065,TON
+790485,ME,23031,York,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+795042,ME,23007,Franklin,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,34.9724091,TON
+800045,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.5872616771,TON
+801639,ME,23021,Piscataquis,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0002786294,TON
+802102,ME,23031,York,Commercial Cooking,Volatile Organic Compounds,CAP,11.68622381,TON
+806907,ME,23003,Aroostook,Commercial Cooking,Volatile Organic Compounds,CAP,2.55463804,TON
+808222,ME,23031,York,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,352.7689,TON
+820993,ME,23021,Piscataquis,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.01071651,TON
+821637,ME,23019,Penobscot,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,48.13344489999999,TON
+825888,ME,23007,Franklin,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,14.97114551,TON
+826998,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.031635500000000004,TON
+838777,ME,23013,Knox,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,9.217532145,TON
+839829,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,15.2000164232,TON
+842057,ME,23001,Androscoggin,Commercial Cooking,Carbon Monoxide,CAP,18.426895000000002,TON
+846021,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+849303,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+850211,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+853664,ME,23031,York,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+865648,ME,23019,Penobscot,Commercial Cooking,Carbon Monoxide,CAP,20.133649,TON
+878894,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02672182,TON
+879027,ME,23007,Franklin,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.392933,TON
+883961,ME,23031,York,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,7.901,TON
+885590,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,2.831054,TON
+885633,ME,23031,York,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,41.745284999999996,TON
+891551,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,1830.686198,TON
+894693,ME,23005,Cumberland,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,6763.186326999999,TON
+899021,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+903465,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.1881441,TON
+905617,ME,23019,Penobscot,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,7.8316289999999995,TON
+910489,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.9513434000000001,TON
+915922,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.3924006,TON
+916003,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,5.779,TON
+921823,ME,23021,Piscataquis,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.99859757,TON
+922846,ME,23007,Franklin,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.01473521,TON
+935596,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.04079361,TON
+935666,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,1.23,TON
+937331,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,18.5881092,TON
+946268,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+950174,ME,23013,Knox,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.44963149999999996,TON
+956452,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.259458,TON
+961532,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+965170,ME,23017,Oxford,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.08716098,TON
+966812,ME,23025,Somerset,Fuel Comb - Residential - Wood,Ammonia,CAP,27.305407300000002,TON
+967280,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,40.6924,TON
+968764,ME,23017,Oxford,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,572.1836400000001,TON
+969246,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,18.70327939,TON
+980808,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+988314,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,9.566487692,TON
+990240,ME,23015,Lincoln,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,246.53216604,TON
+994205,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,7.546810000000001,TON
+1000204,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+1008176,ME,23023,Sagadahoc,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1290.2085835,TON
+1012681,ME,23011,Kennebec,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,711.5603324,TON
+1012682,ME,23011,Kennebec,Fuel Comb - Residential - Wood,Ammonia,CAP,34.94342706,TON
+1013036,ME,23013,Knox,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.50205657,TON
+1014838,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,85.7732018,TON
+1020583,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,8.443067999999998,TON
+1031921,ME,23015,Lincoln,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.00141458,TON
+1032703,ME,23029,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.27934751,TON
+1038016,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1038843,ME,23031,York,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.46229259999999994,TON
+1039391,ME,23019,Penobscot,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,27.671388,TON
+1042753,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+1042903,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+1051966,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.0318207,TON
+1052649,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,7.31771687,TON
+1071341,ME,23009,Hancock,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,8.947038000000001,TON
+1076726,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1079189,ME,23001,Androscoggin,Fuel Comb - Residential - Oil,Ammonia,CAP,9.934424900000002,TON
+1089618,ME,23017,Oxford,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,20.535023000000002,TON
+1090148,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.0332666,TON
+1090779,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1092668,ME,23013,Knox,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.003213525,TON
+1097368,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1100036,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.07495538,TON
+1110529,ME,23003,Aroostook,Fuel Comb - Residential - Wood,Ammonia,CAP,34.81003842,TON
+1111184,ME,23021,Piscataquis,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0029470409999999996,TON
+1116002,ME,23007,Franklin,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.59097388,TON
+1119871,ME,23001,Androscoggin,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,8.256002,TON
+1132656,ME,23015,Lincoln,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,15.969405199999999,TON
+1136974,ME,23029,Washington,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+1139333,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+1144711,ME,23011,Kennebec,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,11.40967,TON
+1147820,ME,23025,Somerset,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.05621328,TON
+1153525,ME,23025,Somerset,Commercial Cooking,Carbon Monoxide,CAP,4.9792501,TON
+1154182,ME,23027,Waldo,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.06428201,TON
+1157169,ME,23023,Sagadahoc,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.6930012,TON
+1158220,ME,23017,Oxford,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.002614829,TON
+1161499,ME,23019,Penobscot,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,808.9944473999999,TON
+1162734,ME,23031,York,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+1163255,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,35.6060347,TON
+1167335,ME,23031,York,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,2.152685,TON
+1169506,ME,23023,Sagadahoc,Commercial Cooking,Carbon Monoxide,CAP,5.346145900000001,TON
+1170019,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.07544088,TON
+1175290,ME,23029,Washington,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1175808,ME,23027,Waldo,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.1913969,TON
+1177158,ME,23029,Washington,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,5.854318,TON
+1177659,ME,23029,Washington,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.01571755,TON
+1190748,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+1192673,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1193039,ME,23005,Cumberland,Fuel Comb - Residential - Other,Ammonia,CAP,0.3923808,TON
+1201141,ME,23021,Piscataquis,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,5.871265,TON
+1201358,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1207392,ME,23007,Franklin,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.3285035,TON
+1207852,ME,23031,York,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.3217448,TON
+1208581,ME,23011,Kennebec,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.01907754,TON
+1217178,ME,23031,York,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,38.78207588,TON
+1222077,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.8026149,TON
+1225407,ME,23009,Hancock,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,31.550079999999998,TON
+1227987,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1232343,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,5.8082134000000005,TON
+1232453,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,6.083751,TON
+1236139,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1253283,ME,23013,Knox,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1255990,ME,23025,Somerset,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4044.806074,TON
+1256204,ME,23029,Washington,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,17.17469994,TON
+1266553,ME,23015,Lincoln,Commercial Cooking,Volatile Organic Compounds,CAP,2.106889111,TON
+1270615,ME,23019,Penobscot,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,9.253801,TON
+1273595,ME,23029,Washington,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02057034,TON
+1276586,ME,23027,Waldo,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,270.3359685,TON
+1282677,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,6.841102,TON
+1282678,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.029207336,TON
+1299791,ME,23005,Cumberland,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,916.7676885,TON
+1301825,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.3783862,TON
+1309735,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1315757,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,25.17725,TON
+1318204,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,3.141667,TON
+1319604,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1325879,ME,23027,Waldo,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.6803955,TON
+1326212,ME,23025,Somerset,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,30.39457433,TON
+1328737,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02610357,TON
+1332761,ME,23031,York,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,36.221816700000005,TON
+1337332,ME,23009,Hancock,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,39.5253464,TON
+1348833,ME,23001,Androscoggin,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,7.076550699999999,TON
+1350773,ME,23017,Oxford,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.4096566,TON
+1354152,ME,23013,Knox,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,182.04891782,TON
+1368050,ME,23029,Washington,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1370498,ME,23029,Washington,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.001228827,TON
+1371084,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,39.2756549645,TON
+1386127,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,1.461366,TON
+1389043,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+1389647,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+1392632,ME,23011,Kennebec,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,41.9553104,TON
+1400888,ME,23013,Knox,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.003707914,TON
+1418503,ME,23031,York,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1423559,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.02636194,TON
+1425961,ME,23031,York,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,13.960355900000001,TON
+1425962,ME,23001,Androscoggin,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,49.672125,TON
+1429669,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.5668383,TON
+1436355,ME,23017,Oxford,Fuel Comb - Residential - Oil,Ammonia,CAP,4.1070057,TON
+1443839,ME,23005,Cumberland,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,113.2471,TON
+1453292,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,17.0,TON
+1454771,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1463116,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.22455129999999998,TON
+1468221,ME,23009,Hancock,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,31.7338713,TON
+1468322,ME,23029,Washington,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,4.735885389,TON
+1473860,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1478560,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1479392,ME,23015,Lincoln,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,6.8031242,TON
+1494983,ME,23031,York,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.19183440000000002,TON
+1497418,ME,23029,Washington,Fuel Comb - Residential - Other,Ammonia,CAP,0.05311223,TON
+1503081,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,2.378086,TON
+1514041,ME,23015,Lincoln,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.001013782,TON
+1516964,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,16.69226,TON
+1519598,ME,23011,Kennebec,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.12224639999999999,TON
+1520447,ME,23027,Waldo,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.05310253,TON
+1521055,ME,23007,Franklin,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0013931470000000002,TON
+1533114,ME,23015,Lincoln,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.01296698,TON
+1535753,ME,23013,Knox,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.5455429,TON
+1536254,ME,23003,Aroostook,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.2115605,TON
+1538397,ME,23003,Aroostook,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.05167146,TON
+1540990,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.02959167,TON
+1547876,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,9.064863,TON
+1560238,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1565042,ME,23001,Androscoggin,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1195627,TON
+1565087,ME,23007,Franklin,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,8.58127112,TON
+1566726,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.9506027,TON
+1567098,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,8.645283272999999,TON
+1580554,ME,23029,Washington,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+1580608,ME,23031,York,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,46.644158000000004,TON
+1583198,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+1586970,ME,23007,Franklin,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,330.54970489999994,TON
+1593426,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.02672182,TON
+1599672,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1605931,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,129.947723,TON
+1606549,ME,23023,Sagadahoc,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,5.902948146,TON
+1611851,ME,23029,Washington,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.02679819269,TON
+1612400,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.6423913,TON
+1614102,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.06945258,TON
+1616438,ME,23003,Aroostook,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.1878962,TON
+1618928,ME,23029,Washington,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,54.129863,TON
+1632833,ME,23025,Somerset,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.002903104,TON
+1634700,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.966951,TON
+1637562,ME,23007,Franklin,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.001152025,TON
+1641136,ME,23001,Androscoggin,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,4.128001,TON
+1653740,ME,23015,Lincoln,Fuel Comb - Residential - Oil,Ammonia,CAP,3.193881,TON
+1654149,ME,23003,Aroostook,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,33.928777000000004,TON
+1654242,ME,23027,Waldo,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,9.36645108,TON
+1661224,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1661827,ME,23009,Hancock,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,29.4768128,TON
+1663665,ME,23017,Oxford,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,60.789608400000006,TON
+1691178,ME,23011,Kennebec,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,4.170439,TON
+1692395,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.01233972,TON
+1693023,ME,23027,Waldo,Fuel Comb - Residential - Other,Ammonia,CAP,0.06055551,TON
+1693024,ME,23027,Waldo,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,17.47725,TON
+1693681,ME,23011,Kennebec,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.14798250000000002,TON
+1697573,ME,23013,Knox,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1707912,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.6396731999999999,TON
+1716771,ME,23019,Penobscot,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.08419001,TON
+1720952,ME,23027,Waldo,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,270.3359685,TON
+1720953,ME,23027,Waldo,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,30.133255699999996,TON
+1722277,ME,23023,Sagadahoc,Fuel Comb - Residential - Wood,Ammonia,CAP,9.028518937000001,TON
+1722834,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1724328,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,46.03393293479999,TON
+1729006,ME,23013,Knox,Commercial Cooking,Carbon Monoxide,CAP,7.776424900000001,TON
+1730195,ME,23011,Kennebec,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.02307051,TON
+1734603,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+1737379,ME,23021,Piscataquis,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.01783913,TON
+1739407,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,15.27578,TON
+1742149,ME,23021,Piscataquis,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.22857039999999998,TON
+1747675,ME,23031,York,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1747825,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.22985968,TON
+1750627,ME,23017,Oxford,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,13.8812416,TON
+1753228,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1756964,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1758256,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1758671,ME,23001,Androscoggin,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,439.5391671,TON
+1766242,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,7.577107483,TON
+1768417,ME,23013,Knox,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.05157861,TON
+1768895,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,5.9652685,TON
+1772007,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.3371876,TON
+1772908,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,30.214840000000002,TON
+1777783,ME,23005,Cumberland,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,55.439865000000005,TON
+1779753,ME,23029,Washington,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,259.25689646,TON
+1793490,ME,23029,Washington,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1795944,ME,23013,Knox,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+1802490,ME,23005,Cumberland,Fuel Comb - Residential - Wood,Ammonia,CAP,48.87511261,TON
+1804187,ME,23015,Lincoln,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.04715266,TON
+1807279,ME,23003,Aroostook,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,1.54108,TON
+1814194,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.06198234,TON
+1826701,ME,23013,Knox,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,5.841647,TON
+1831307,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+1854458,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1855214,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1862402,ME,23013,Knox,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,10.43498106039,TON
+1864696,ME,23013,Knox,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.04860292,TON
+1875879,ME,23013,Knox,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,174.90998645,TON
+1876773,ME,23013,Knox,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,6.891467,TON
+1876962,ME,23021,Piscataquis,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,1.664985,TON
+1885699,ME,23023,Sagadahoc,Fuel Comb - Residential - Other,Ammonia,CAP,0.04771901,TON
+1888103,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.1312482,TON
+1895249,ME,23019,Penobscot,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,838.1078213999999,TON
+1899961,ME,23015,Lincoln,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,8.227667413999999,TON
+1900664,ME,23015,Lincoln,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.22161750000000002,TON
+1916376,ME,23023,Sagadahoc,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,17.884016,TON
+1923437,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1924277,ME,23017,Oxford,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,12.8650955,TON
+1925414,ME,23003,Aroostook,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.005636886,TON
+1929244,ME,23027,Waldo,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.08144551,TON
+1932785,ME,23007,Franklin,Commercial Cooking,Volatile Organic Compounds,CAP,1.259496263,TON
+1934871,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,6.51489199,TON
+1966657,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.0355155,TON
+1972768,ME,23017,Oxford,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.07684792,TON
+1975604,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,18.27221,TON
+1976944,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1978448,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.025787692,TON
+1979088,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1984914,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+1985166,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+1990734,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1993049,ME,23007,Franklin,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,12.24746411,TON
+1995025,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,2.25740012,TON
+2000083,ME,23031,York,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.2657892,TON
+2000579,ME,23029,Washington,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,4.347032,TON
+2002002,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01233972,TON
+2008602,ME,23029,Washington,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.001486023,TON
+2011834,ME,23017,Oxford,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4019.7626979999995,TON
+2017878,ME,23009,Hancock,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.228256,TON
+2020175,ME,23003,Aroostook,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,5.4343330000000005,TON
+2022339,ME,23025,Somerset,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,9.6586132,TON
+2024811,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.02610357,TON
+2029175,ME,23015,Lincoln,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.05218983,TON
+2031616,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,207.5579979,TON
+2038826,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,6.21344721,TON
+2048611,ME,23029,Washington,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,9.543907021599999,TON
+2048612,ME,23029,Washington,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,1.175889978,TON
+2052825,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,1.5,TON
+2054108,ME,23001,Androscoggin,Commercial Cooking,Volatile Organic Compounds,CAP,6.70043385,TON
+2054165,ME,23027,Waldo,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,8.0563483,TON
+2058095,ME,23013,Knox,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.05951378,TON
+2080167,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,8.61069933,TON
+2080256,ME,23031,York,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.19469460000000002,TON
+2081108,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.63832304,TON
+2082415,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+2087033,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,34.106373,TON
+2092056,ME,23021,Piscataquis,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,238.95987799999997,TON
+2100825,ME,23005,Cumberland,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,32.11486,TON
+2101682,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,5.11035,TON
+2101875,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2104825,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2105775,ME,23015,Lincoln,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.6687012,TON
+2105780,ME,23005,Cumberland,Fuel Comb - Residential - Oil,Ammonia,CAP,23.293920999999997,TON
+2106164,ME,23029,Washington,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,410.74333839999997,TON
+2113814,ME,23029,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.028588601580000005,TON
+2114400,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,10.295612,TON
+2115815,ME,23013,Knox,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,9.918963,TON
+2116015,ME,23013,Knox,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.03398921,TON
+2116502,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2119057,ME,23025,Somerset,Commercial Cooking,Volatile Organic Compounds,CAP,1.82500823,TON
+2123719,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+2127086,ME,23013,Knox,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1295.3321335,TON
+2134488,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.310309712,TON
+2139199,ME,23007,Franklin,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,40.202826,TON
+2143080,ME,23001,Androscoggin,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,1.1352,TON
+2147150,ME,23007,Franklin,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2315.190515,TON
+2153197,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,202.30211630000002,TON
+2160167,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.01698633,TON
+2163079,ME,23021,Piscataquis,Commercial Cooking,Volatile Organic Compounds,CAP,0.866702944,TON
+2165748,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,80.93812,TON
+2166390,ME,23007,Franklin,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,330.54970489999994,TON
+2175187,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.009871776,TON
+2175804,ME,23027,Waldo,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,4.956236,TON
+2177598,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+2182079,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+2185729,ME,23013,Knox,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.04323379,TON
+2190063,ME,23017,Oxford,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,73.926102,TON
+2193264,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.08011159,TON
+2199272,ME,23005,Cumberland,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.3375588,TON
+2212891,ME,23009,Hancock,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.3660047,TON
+2231573,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,17.91489,TON
+2237882,ME,23023,Sagadahoc,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.3465006,TON
+2239568,ME,23013,Knox,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+2240256,ME,23031,York,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,39.25295028,TON
+2245985,ME,23021,Piscataquis,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,238.95987799999997,TON
+2248560,ME,23009,Hancock,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.1160424,TON
+2248836,ME,23031,York,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2250834,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.06425849,TON
+2259329,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2260274,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,1.261218184,TON
+2267331,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,6.119841,TON
+2269991,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.2700896000000002,TON
+2274999,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2276097,ME,23005,Cumberland,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,15.70041,TON
+2277657,ME,23017,Oxford,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.02396927,TON
+2282809,ME,23023,Sagadahoc,Fuel Comb - Residential - Oil,Ammonia,CAP,3.5768041,TON
+2291757,ME,23003,Aroostook,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.8831121999999999,TON
+2293447,ME,23031,York,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,1.681064,TON
+2296931,ME,23029,Washington,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.02057034,TON
+2296946,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2300445,ME,23017,Oxford,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.05498324,TON
+2327668,ME,23031,York,Fuel Comb - Residential - Other,Ammonia,CAP,0.303093,TON
+2327688,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,6.28902404,TON
+2330088,ME,23031,York,Commercial Cooking,Carbon Monoxide,CAP,31.898295,TON
+2335604,ME,23029,Washington,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.01645627,TON
+2356984,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2358961,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,7.0363142000000005,TON
+2364320,ME,23031,York,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.2871614,TON
+2371780,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2374757,ME,23029,Washington,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0017146420000000002,TON
+2381840,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2389215,ME,23021,Piscataquis,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,9.39685556,TON
+2396997,ME,23011,Kennebec,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,45.2017486,TON
+2397725,ME,23007,Franklin,Fuel Comb - Residential - Wood,Ammonia,CAP,15.63449078,TON
+2399019,ME,23015,Lincoln,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,26.0151095,TON
+2403504,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,43.85645149,TON
+2409172,ME,23005,Cumberland,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.34408779999999994,TON
+2410219,ME,23007,Franklin,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.03103616,TON
+2410220,ME,23007,Franklin,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.03583402,TON
+2412735,ME,23001,Androscoggin,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.12384,TON
+2419889,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2421722,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.2344844,TON
+2428939,ME,23019,Penobscot,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,64.95480699999999,TON
+2429258,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,89.00933,TON
+2433095,ME,23021,Piscataquis,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,5.73860233,TON
+2434111,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2444424,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2460006,ME,23017,Oxford,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,9.7747311,TON
+2460551,ME,23013,Knox,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,30.20626754,TON
+2460689,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,114.54611899999999,TON
+2465933,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,2.627517342,TON
+2469274,ME,23005,Cumberland,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,31.40082,TON
+2471303,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2472566,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,1.133571112,TON
+2475412,ME,23031,York,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+2480374,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.02651725,TON
+2482642,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,10.034410000000001,TON
+2483851,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.1283331,TON
+2484791,ME,23025,Somerset,Fuel Comb - Residential - Oil,Ammonia,CAP,4.534455,TON
+2488058,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.01387217,TON
+2491813,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.05455593,TON
+2500210,ME,23003,Aroostook,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,732.2335276,TON
+2506372,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.140516,TON
+2506636,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02975365,TON
+2512901,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,4.2975389999999996,TON
+2515498,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,30.0,TON
+2518584,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,8.4837897971,TON
+2521208,ME,23003,Aroostook,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.01651157,TON
+2525238,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2527491,ME,23019,Penobscot,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,18.404329999999998,TON
+2528886,ME,23001,Androscoggin,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,19.40161,TON
+2530836,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,1.93230576,TON
+2538268,ME,23009,Hancock,Fuel Comb - Residential - Other,Ammonia,CAP,0.1093153,TON
+2544284,ME,23031,York,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.03614287,TON
+2545094,ME,23029,Washington,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.1421174,TON
+2553341,ME,23031,York,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,913.2654802000001,TON
+2558568,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02137746,TON
+2576510,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.192164,TON
+2580604,ME,23003,Aroostook,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,14.453996,TON
+2590480,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,120.07052509,TON
+2590637,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,5.6729499489999995,TON
+2591638,ME,23023,Sagadahoc,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,7.618769500000001,TON
+2595656,ME,23013,Knox,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,9.6515479,TON
+2603919,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.01217353,TON
+2606662,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+2615589,ME,23009,Hancock,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1339813,TON
+2619696,ME,23031,York,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,77.6515835,TON
+2629340,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,130.40565719999998,TON
+2641647,ME,23029,Washington,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,20.157436999999998,TON
+2648741,ME,23013,Knox,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.04323379,TON
+2654954,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.04872787,TON
+2660142,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+2673464,ME,23031,York,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2678965,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2684918,ME,23001,Androscoggin,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,28.154759999999996,TON
+2688687,ME,23011,Kennebec,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.566327,TON
+2691474,ME,23017,Oxford,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.9255269,TON
+2692819,ME,23031,York,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2696973,ME,23025,Somerset,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,81.62018499999999,TON
+2698467,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+2720622,ME,23013,Knox,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2722052,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2722093,ME,23029,Washington,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.05715474,TON
+2723814,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,37.6611549666,TON
+2729167,ME,23027,Waldo,Fuel Comb - Residential - Oil,Ammonia,CAP,3.3850005,TON
+2745939,ME,23023,Sagadahoc,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,64.38247700000001,TON
+2751002,ME,23003,Aroostook,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,26.99228004,TON
+2754189,ME,23003,Aroostook,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,45.48510229,TON
+2761004,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2763174,ME,23019,Penobscot,Fuel Comb - Residential - Wood,Ammonia,CAP,41.4787799,TON
+2763737,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,135.9770609125,TON
+2764880,ME,23023,Sagadahoc,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.5478511000000004,TON
+2764881,ME,23023,Sagadahoc,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,23.97541199,TON
+2773286,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+2774411,ME,23025,Somerset,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,12.8000149,TON
+2778914,ME,23021,Piscataquis,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.02493305,TON
+2780925,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,7.778343,TON
+2783397,ME,23013,Knox,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,12.30434,TON
+2786584,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2793629,ME,23031,York,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.1297964,TON
+2804119,ME,23009,Hancock,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,359.1353222,TON
+2808906,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2811726,ME,23003,Aroostook,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,4.833671,TON
+2814562,ME,23019,Penobscot,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,233.83733999999998,TON
+2815640,ME,23029,Washington,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2818012,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+2826960,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,17.092,TON
+2827419,ME,23005,Cumberland,Commercial Cooking,Volatile Organic Compounds,CAP,21.192784699999997,TON
+2833313,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2836882,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+2840306,ME,23029,Washington,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,28.235540500000003,TON
+2843977,ME,23005,Cumberland,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,944.8606502,TON
+2847016,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.06589723,TON
+2848452,ME,23019,Penobscot,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,51.801114399999996,TON
+2858208,ME,23007,Franklin,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,9.24719574,TON
+2867554,ME,23013,Knox,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,8.331928999999999,TON
+2869276,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,3.511884,TON
+2871809,ME,23007,Franklin,Fuel Comb - Residential - Oil,Ammonia,CAP,2.2334902000000003,TON
+2872343,ME,23013,Knox,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,7.8704671,TON
+2874443,ME,23023,Sagadahoc,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,1.6285530000000001,TON
+2877584,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,101.7706209,TON
+2883212,ME,23019,Penobscot,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,11.80978,TON
+2898294,ME,23017,Oxford,Fuel Comb - Residential - Other,Ammonia,CAP,0.06270019,TON
+2899557,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2903614,ME,23011,Kennebec,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,76.1487962,TON
+2904205,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,2.361524,TON
+2916004,ME,23001,Androscoggin,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,49.3752177,TON
+2918705,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,37.74928465,TON
+2919743,ME,23031,York,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,102.4619169,TON
+2923413,ME,23013,Knox,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,10.309435610389999,TON
+2925935,ME,23013,Knox,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.24719429999999998,TON
+2926616,ME,23015,Lincoln,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,14.2888024,TON
+2929778,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.10122393,TON
+2933153,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,12.10818,TON
+2938448,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2943875,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,15.0123113832,TON
+2945552,ME,23003,Aroostook,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.01998769,TON
+2960198,ME,23021,Piscataquis,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,25.116531,TON
+2963173,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,11.756205,TON
+2964328,ME,23025,Somerset,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.634632,TON
+2967858,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+2975822,ME,23019,Penobscot,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,808.9944473999999,TON
+2988007,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2988361,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2999631,ME,23027,Waldo,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,9.366759162000001,TON
+3001666,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3007750,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,1.951085,TON
+3008125,ME,23019,Penobscot,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,87.0787535,TON
+3008419,ME,23029,Washington,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,6.4055153,TON
+3011873,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+3018817,ME,23019,Penobscot,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.621255,TON
+3020206,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+3022912,ME,23011,Kennebec,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,1.7746549999999999,TON
+3025992,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.03187956,TON
+3027915,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3029915,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.07063104,TON
+3030273,ME,23029,Washington,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.2139315,TON
+3033893,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.9565813,TON
+3039791,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02651725,TON
+3045910,ME,23031,York,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.05043192,TON
+3046669,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02088285,TON
+3048438,ME,23013,Knox,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3051072,ME,23025,Somerset,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,21.18476375,TON
+3051561,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.980475984,TON
+3065413,ME,23003,Aroostook,Commercial Cooking,Carbon Monoxide,CAP,6.961452400000001,TON
+3069819,ME,23031,York,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,34.95900983,TON
+3077895,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,32.27622,TON
+3086280,ME,23005,Cumberland,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,4.3176120000000004,TON
+3088375,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+3101658,ME,23019,Penobscot,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.1265334,TON
+3105470,ME,23005,Cumberland,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.47101220000000005,TON
+3107570,ME,23013,Knox,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+3108748,ME,23009,Hancock,Commercial Cooking,Carbon Monoxide,CAP,12.0615612,TON
+3114162,ME,23005,Cumberland,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,102.9909454,TON
+3115134,ME,23015,Lincoln,Fuel Comb - Residential - Wood,Ammonia,CAP,12.040306055999999,TON
+3123313,ME,23013,Knox,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,8.7940793,TON
+3127408,ME,23021,Piscataquis,Commercial Cooking,Carbon Monoxide,CAP,2.3967297000000003,TON
+3128606,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,31.631424300000003,TON
+3137203,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.4223082,TON
+3142247,ME,23007,Franklin,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,4.757445099999999,TON
+3144901,ME,23023,Sagadahoc,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.007449763000000001,TON
+3146760,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+3156583,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3159038,ME,23015,Lincoln,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,57.489858999999996,TON
+3162983,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3172376,ME,23021,Piscataquis,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,241.50647198,TON
+3174500,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.7717344,TON
+3174927,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.22685,TON
+3175910,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3178270,ME,23015,Lincoln,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,7.601482000000001,TON
+3179727,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,2.7558679,TON
+3186439,ME,23001,Androscoggin,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,7.984186,TON
+3186440,ME,23001,Androscoggin,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.096075,TON
+3198108,ME,23031,York,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,83.424463,TON
+3205176,ME,23015,Lincoln,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,17.17686,TON
+3218532,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3219096,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,17.311246,TON
+3221138,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+3223923,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,112.50467720000002,TON
+3226349,ME,23013,Knox,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,5.94417685,TON
+3231754,ME,23025,Somerset,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,15.283489999999999,TON
+3234710,ME,23003,Aroostook,Fuel Comb - Residential - Other,Ammonia,CAP,0.01882898,TON
+3237534,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+3240110,ME,23031,York,Fuel Comb - Residential - Oil,Ammonia,CAP,19.59827,TON
+3260853,ME,23023,Sagadahoc,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.05848637,TON
+3264881,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,18.298064092,TON
+3265327,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,88.9224319,TON
+3265885,ME,23031,York,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+3284790,ME,23023,Sagadahoc,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,173.89695628,TON
+3287740,ME,23021,Piscataquis,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1669.4552076,TON
+3291916,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,5.827253099999999,TON
+3294741,ME,23003,Aroostook,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.3757924,TON
+3298010,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.15570799999999999,TON
+3299919,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.1871158,TON
+3304289,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,13.4035176,TON
+3306056,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,3.141667,TON
+3309662,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3318845,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,14.4145,TON
+3323500,ME,23007,Franklin,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,334.38664027,TON
+3326971,ME,23019,Penobscot,Fuel Comb - Residential - Other,Ammonia,CAP,0.1442924,TON
+3334995,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+3337125,ME,23027,Waldo,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.01119876,TON
+3340066,ME,23005,Cumberland,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,116.46965300000001,TON
+3357929,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+3365695,ME,23027,Waldo,Fuel Comb - Residential - Wood,Ammonia,CAP,13.798343595999999,TON
+3367432,ME,23029,Washington,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.02255075269,TON
+3369698,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,14.947722,TON
+3370017,ME,23013,Knox,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,20.59949,TON
+3372843,ME,23021,Piscataquis,Fuel Comb - Residential - Oil,Ammonia,CAP,1.40188249,TON
+3373880,ME,23005,Cumberland,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.4165273,TON
+3380626,ME,23019,Penobscot,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,89.5826279,TON
+3382316,ME,23009,Hancock,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,23.984079,TON
+3386432,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.413617732,TON
+3393776,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.749822,TON
+3395211,ME,23019,Penobscot,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.10181119999999999,TON
+3401577,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,9.026274335,TON
+3405755,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,39.21732,TON
+3408152,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.05875584,TON
+3413815,ME,23029,Washington,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3416949,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3419132,ME,23029,Washington,Fuel Comb - Residential - Wood,Ammonia,CAP,12.97151707,TON
+3419325,ME,23017,Oxford,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,579.9706374,TON
+3426953,ME,23025,Somerset,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.03713272,TON
+3428621,ME,23017,Oxford,Commercial Cooking,Volatile Organic Compounds,CAP,1.9535266169999999,TON
+3442620,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3443614,ME,23017,Oxford,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,27.529365600000002,TON
+3444916,ME,23031,York,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3449549,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.14729620000000002,TON
+3450657,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+3451007,ME,23007,Franklin,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.10716510000000001,TON
+3451638,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.160908999999999,TON
+3453185,ME,23019,Penobscot,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,3.915814,TON
+3457921,ME,23011,Kennebec,Commercial Cooking,Volatile Organic Compounds,CAP,6.42243566,TON
+3463995,ME,23029,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.02362593,TON
+3465880,ME,23023,Sagadahoc,Commercial Cooking,Volatile Organic Compounds,CAP,1.96125382,TON
+3469145,ME,23025,Somerset,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,11.897462599999999,TON
+3471977,ME,23011,Kennebec,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,8.480882000000001,TON
+3472801,ME,23013,Knox,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3477159,ME,23011,Kennebec,Commercial Cooking,Carbon Monoxide,CAP,17.596708,TON
+3482629,ME,23025,Somerset,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.06490325,TON
+3488400,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3489579,ME,23007,Franklin,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.05358257,TON
+3496480,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,14.1576170698,TON
+3500331,ME,23027,Waldo,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,16.9249974,TON
+3509413,ME,23029,Washington,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,7.1572128,TON
+3509840,ME,23007,Franklin,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.02563856,TON
+3514422,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,2.2367838,TON
+3547663,ME,23013,Knox,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.632023,TON
+3548848,ME,23031,York,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,131.367758,TON
+3551997,ME,23031,York,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,114.0646756,TON
+3554314,ME,23017,Oxford,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,21.15976544,TON
+3556765,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.08604808,TON
+3557619,ME,23005,Cumberland,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,916.7676885,TON
+3558614,ME,23029,Washington,Commercial Cooking,Volatile Organic Compounds,CAP,1.289386731,TON
+3561358,ME,23013,Knox,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,19.0145181,TON
+3562646,ME,23013,Knox,Fuel Comb - Residential - Other,Ammonia,CAP,0.0713735,TON
+3562667,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3566183,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+3573374,ME,23029,Washington,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,268.33893822,TON
+3575824,ME,23009,Hancock,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,359.1353222,TON
+3584454,ME,23031,York,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.1622455,TON
+3587244,ME,23029,Washington,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3587934,ME,23019,Penobscot,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.11747439999999999,TON
+3589598,ME,23029,Washington,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.26862729999999996,TON
+3594637,ME,23031,York,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,913.2654802000001,TON
+3598081,ME,23025,Somerset,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,4.334125,TON
+3598723,ME,23029,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,4.03737181,TON
+3605651,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+3607543,ME,23013,Knox,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3617663,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,7.94803136,TON
+3628996,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3629497,ME,23001,Androscoggin,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,454.5580535,TON
+3629960,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,463.29499100000004,TON
+3636962,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,5.144626000000001,TON
+3639103,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,18.15804455,TON
+3656279,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.03608205,TON
+3657752,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.04060655,TON
+3658337,ME,23025,Somerset,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.00351073,TON
+3669850,ME,23017,Oxford,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,5.131769,TON
+3670642,ME,23023,Sagadahoc,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,173.89695628,TON
+3671894,ME,23031,York,Fuel Comb - Residential - Wood,Ammonia,CAP,47.51990831,TON
+3677800,ME,23031,York,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.405521,TON
+3697187,ME,23023,Sagadahoc,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,14.012768,TON
+3700223,ME,23011,Kennebec,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1708591,TON
+3702389,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.44686002976000005,TON
+3720872,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+3725167,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3728943,ME,23031,York,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+3735742,ME,23023,Sagadahoc,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,13.0510099,TON
+3744805,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3754231,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3756941,ME,23003,Aroostook,Fuel Comb - Residential - Oil,Ammonia,CAP,6.7857554,TON
+3759009,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.64567438,TON
+3773879,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,83.7886967,TON
+3778789,ME,23003,Aroostook,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,17.680982500000002,TON
+3778995,ME,23019,Penobscot,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,30.918675,TON
+3792642,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.04060655,TON
+3792680,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3792681,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.03206618,TON
+3797691,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+3798601,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.0365025,TON
+3803152,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3805565,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,13.182325739300001,TON
+3810275,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,5.747846,TON
+3820987,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+3834144,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3840038,ME,23017,Oxford,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.174322,TON
+3841785,ME,23025,Somerset,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,574.458493,TON
+3844161,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,28.26040689,TON
+3849374,ME,23031,York,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.2343401,TON
+3869035,ME,23005,Cumberland,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,152.043274,TON
+3876761,ME,23029,Washington,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3879868,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3880691,ME,23001,Androscoggin,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.10355430000000002,TON
+3880809,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,35.952144366599995,TON
+3882944,ME,23023,Sagadahoc,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,181.14788721,TON
+3884346,ME,23015,Lincoln,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1745.6042175,TON
+3889924,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,5.554256967000001,TON
+3893265,ME,23031,York,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,25.861929999999997,TON
+3893266,ME,23031,York,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,1.6873529999999999,TON
+3893396,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+3899982,ME,23001,Androscoggin,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.08554485,TON
+3906608,ME,23011,Kennebec,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,23.87325682,TON
+3918569,ME,23005,Cumberland,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,49.617216,TON
+3924765,ME,23027,Waldo,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,7.210217599999999,TON
+3931289,ME,23019,Penobscot,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1768507,TON
+3933088,ME,23031,York,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,3.362128,TON
+3937109,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+3938463,ME,23025,Somerset,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,60.878510999999996,TON
+3946099,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.035,TON
+3955042,ME,23023,Sagadahoc,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.009009016,TON
+3957292,ME,23031,York,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,1.88709102,TON
+3964835,ME,23011,Kennebec,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,686.9851201,TON
+3965779,ME,23005,Cumberland,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,141.357417,TON
+3969082,ME,23017,Oxford,Commercial Cooking,Carbon Monoxide,CAP,5.385220200000001,TON
+3971562,ME,23023,Sagadahoc,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.05065556,TON
+3977057,ME,23015,Lincoln,Fuel Comb - Residential - Other,Ammonia,CAP,0.05951472,TON
+4003998,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.6071255,TON
+4009509,ME,23021,Piscataquis,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,3.3365002999999995,TON
+4010119,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4015405,ME,23015,Lincoln,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.06317716,TON
+4025020,ME,23031,York,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,87.47729,TON
+4032078,ME,23023,Sagadahoc,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.09528767,TON
+4035154,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,58.35020649999999,TON
+4042823,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4045177,ME,23013,Knox,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.8019454,TON
+4047771,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+4055743,ME,23029,Washington,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,9.124435712,TON
+4057371,ME,23009,Hancock,Fuel Comb - Residential - Oil,Ammonia,CAP,4.7968149,TON
+4059796,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4063362,ME,23031,York,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,24.80699,TON
+4067983,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.150721,TON
+4068982,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4072445,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,44.1688812,TON
+4074844,ME,23013,Knox,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,19.16347033,TON
+4074846,ME,23029,Washington,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,259.25689646,TON
+4076488,ME,23009,Hancock,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,86.342678,TON
+4076510,ME,23023,Sagadahoc,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,8.512844900000001,TON
+4077565,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,40.09414674,TON
+4081034,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0212138,TON
+4108088,ME,23031,York,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,97.991351,TON
+4108174,ME,23011,Kennebec,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,214.30619,TON
+4113476,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.18921570000000001,TON
+4125262,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4132707,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.15975364,TON
+4132730,ME,23017,Oxford,Fuel Comb - Residential - Wood,Ammonia,CAP,27.14191627,TON
+4133220,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.325934183,TON
+4138823,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4143571,ME,23031,York,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.1622455,TON
+4153316,ME,23009,Hancock,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,3.4168971,TON
+4155728,ME,23027,Waldo,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.4112236,TON
+4157987,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4162768,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,2.95886051,TON
+4167571,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+4167596,ME,23017,Oxford,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0018739610000000002,TON
+4179190,ME,23029,Washington,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.5967636,TON
+4191236,ME,23013,Knox,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.05188055,TON
+4198766,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.05169279,TON
+4199219,ME,23009,Hancock,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.07787334,TON
+4203619,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.02616013,TON
+4220285,ME,23019,Penobscot,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.153172,TON
+4221133,ME,23021,Piscataquis,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,2.9860794999999998,TON
+4224081,ME,23027,Waldo,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.001058792,TON
+4229522,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.47154754,TON
+4230098,ME,23031,York,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4241164,ME,23031,York,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.04370766,TON
+4248027,ME,23019,Penobscot,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,27.85964965,TON
+4248300,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,8.8412911,TON
+4248593,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,140.1737744125,TON
+4254248,ME,23029,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,4.89185171,TON
+4256822,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4258177,ME,23003,Aroostook,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,122.14363200000001,TON
+4261531,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+4265072,ME,23021,Piscataquis,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,6.19289223,TON
+4265768,ME,23025,Somerset,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,574.458493,TON
+4276427,ME,23009,Hancock,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.001674277,TON
+4278124,ME,23003,Aroostook,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.004885302,TON
+4278993,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4288557,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,9.976950175,TON
+4294948,ME,23013,Knox,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.1235971,TON
+4295704,ME,23009,Hancock,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.15574670000000002,TON
+4296864,ME,23027,Waldo,Commercial Cooking,Carbon Monoxide,CAP,3.8069664,TON
+4301339,ME,23027,Waldo,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.04072275,TON
+4306382,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.12822794,TON
+4306440,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,21.6189044698,TON
+4309057,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.05180432,TON
+4311717,ME,23015,Lincoln,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.09430532,TON
+4314922,ME,23011,Kennebec,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.244015,TON
+4316581,ME,23027,Waldo,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,10.09443937,TON
+4316628,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+4317963,ME,23021,Piscataquis,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,7.009412400000001,TON
+4320932,ME,23005,Cumberland,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,73.79191999999999,TON
+4324082,ME,23001,Androscoggin,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,439.5391671,TON
+4324548,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.3121624,TON
+4326937,ME,23031,York,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+4327777,ME,23031,York,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,6763.923452,TON
+4328108,ME,23011,Kennebec,Fuel Comb - Residential - Other,Ammonia,CAP,0.13940379999999997,TON
+4337562,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,20.62015,TON
+4346157,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4350096,ME,23011,Kennebec,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,686.9851201,TON
+4352666,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.303130288,TON
+4353110,ME,23029,Washington,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.06509653,TON
+4366084,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,115.74369579999998,TON
+4369965,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.035317526,TON
+4369966,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.031177642000000002,TON
+4371510,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.27790690000000007,TON
+4374054,ME,23023,Sagadahoc,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,13.77244,TON
+4378941,ME,23019,Penobscot,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,1.076849,TON
+4379767,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.7927973,TON
+4381673,ME,23015,Lincoln,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,4.8710510000000005,TON
+4383137,ME,23027,Waldo,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,281.59145332,TON
+4383769,ME,23017,Oxford,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,572.1836400000001,TON
+4387316,ME,23021,Piscataquis,Fuel Comb - Residential - Wood,Ammonia,CAP,11.234020629000002,TON
+4393606,ME,23003,Aroostook,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,16.1501905,TON
+4410280,ME,23013,Knox,Commercial Cooking,Volatile Organic Compounds,CAP,2.82892781,TON
+4411098,ME,23013,Knox,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.002657338,TON
+4411403,ME,23011,Kennebec,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.02661982,TON
+4415922,ME,23029,Washington,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,15.036068099999998,TON
+4420163,ME,23025,Somerset,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,583.0988497000001,TON
+4424722,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,45.263426134300005,TON
+4427508,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.643636068,TON
+4428833,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.74860186,TON
+4429208,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.03248524,TON
+4454582,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.5583894,TON
+4476966,ME,23013,Knox,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+4481518,ME,23009,Hancock,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,11.416488699999999,TON
+4493131,ME,23027,Waldo,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02383531,TON
+4505126,ME,23031,York,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,39.14635,TON
+4510686,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4510760,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.06282849,TON
+4512075,ME,23019,Penobscot,Fuel Comb - Residential - Oil,Ammonia,CAP,12.9909634,TON
+4512386,ME,23013,Knox,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.08747829,TON
+4518633,ME,23013,Knox,Fuel Comb - Residential - Wood,Ammonia,CAP,9.044156013,TON
+4518634,ME,23029,Washington,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1891.6751398,TON
+4527079,ME,23029,Washington,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.05638068,TON
+4531194,ME,23007,Franklin,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.2518381,TON
+4545526,ME,23021,Piscataquis,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0002304051,TON
+4551343,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.670067464,TON
+4555343,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4555876,ME,23029,Washington,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,11.870710123,TON
+4561465,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4578821,ME,23031,York,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.3714832,TON
+4584847,ME,23015,Lincoln,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.001225969,TON
+4591900,ME,23013,Knox,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,24.76747611,TON
+4592025,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,44.90011,TON
+4600183,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.0367841,TON
+4600923,ME,23007,Franklin,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.2757794,TON
+4603958,ME,23001,Androscoggin,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,21.160819,TON
+4608918,ME,23025,Somerset,Fuel Comb - Residential - Other,Ammonia,CAP,0.05295453,TON
+4615323,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,1.652237,TON
+4627603,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,6.472685,TON
+4637834,ME,23009,Hancock,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,373.75334479,TON
+4639258,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+4646829,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4649685,ME,23029,Washington,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.11430950000000001,TON
+4653838,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,11.55663,TON
+4657007,ME,23015,Lincoln,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,7.60503,TON
+4657829,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4659713,ME,23009,Hancock,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,12.39800733,TON
+4660965,ME,23013,Knox,Fuel Comb - Residential - Oil,Ammonia,CAP,3.6949691,TON
+4665209,ME,23025,Somerset,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,10.7920712,TON
+4668033,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,22.39825,TON
+4668955,ME,23029,Washington,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,9.52004048,TON
+4675504,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,53.29449,TON
+4677400,ME,23013,Knox,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.06258907,TON
+4681792,ME,23015,Lincoln,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.2750846,TON
+4685515,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.02934532,TON
+4698951,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,613.4891269999999,TON
+4700086,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.03132428,TON
+4704597,ME,23025,Somerset,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.5949916999999999,TON
+4707855,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.55853712976,TON
+4710977,ME,23001,Androscoggin,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,44.402925399999994,TON
+4717316,ME,23011,Kennebec,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,5036.46439,TON
+4718493,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4722475,ME,23001,Androscoggin,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.10732799999999999,TON
+4724797,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.7717344,TON
+4728352,ME,23001,Androscoggin,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,23.644068,TON
+4729404,ME,23001,Androscoggin,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,15.002336999999999,TON
+4731306,ME,23023,Sagadahoc,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.01039502,TON
+4744424,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,38.6934784645,TON
+4746931,ME,23003,Aroostook,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.6560243,TON
+4754789,ME,23005,Cumberland,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,156.13984069999998,TON
+4756725,ME,23003,Aroostook,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,5152.988166,TON
+4758898,ME,23021,Piscataquis,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,39.718728799999994,TON
+4762466,ME,23021,Piscataquis,Fuel Comb - Residential - Other,Ammonia,CAP,0.02034287,TON
+4765505,ME,23009,Hancock,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.09586112,TON
+4769812,ME,23009,Hancock,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+4771872,ME,23019,Penobscot,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,69.97991,TON
+4773438,ME,23029,Washington,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,8.86605468,TON
+4778797,ME,23031,York,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.2536604,TON
+4779202,ME,23015,Lincoln,Commercial Cooking,Carbon Monoxide,CAP,5.758111,TON
+4782877,ME,23001,Androscoggin,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,66.59071891,TON
+4796081,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4799782,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,24.80349919,TON
+4806217,ME,23005,Cumberland,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4831138,ME,23011,Kennebec,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,28.336208000000003,TON
+4842850,ME,23003,Aroostook,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,16.4136051,TON
+4846039,ME,23005,Cumberland,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.4082106,TON
+4849970,ME,23011,Kennebec,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,33.70308015,TON
+4853495,ME,23013,Knox,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4858539,ME,23029,Washington,Fuel Comb - Residential - Oil,Ammonia,CAP,3.0072146,TON
+4859474,ME,23011,Kennebec,Fuel Comb - Residential - Oil,Ammonia,CAP,11.9058959,TON
+4861970,ME,23001,Androscoggin,Fuel Comb - Residential - Other,Ammonia,CAP,0.09755115,TON
+4867778,ME,23007,Franklin,Fuel Comb - Residential - Other,Ammonia,CAP,0.02923696,TON
+4871177,ME,23027,Waldo,Commercial Cooking,Volatile Organic Compounds,CAP,1.36859251,TON
+4872477,ME,23029,Washington,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4879235,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,9.784961435,TON
+4882345,ME,23021,Piscataquis,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.02159474,TON
+4882350,ME,23001,Androscoggin,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.1124128,TON
+4890286,ME,23009,Hancock,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,32.1531846,TON
+4893987,ME,23007,Franklin,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,11.1674511,TON
+4899740,ME,23027,Waldo,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.001221683,TON
+4919345,ME,23013,Knox,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,18.474846,TON
+4929213,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.03560253,TON
+4932409,ME,23023,Sagadahoc,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4938613,ME,23017,Oxford,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.12364939999999999,TON
+4938996,ME,23025,Somerset,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON

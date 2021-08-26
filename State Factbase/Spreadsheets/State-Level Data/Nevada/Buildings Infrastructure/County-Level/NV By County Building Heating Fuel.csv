@@ -1,0 +1,86 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,NV,Churchill,809,870,969,960,855,943,952,949,1204,1326
+4,House Heating Fuel: Fuel Oil,NV,Churchill,243,254,197,151,207,246,259,268,221,227
+5,House Heating Fuel: Gas,NV,Churchill,5171,5252,5475,5543,5575,5773,5675,5902,5783,5797
+6,House Heating Fuel: Propane,NV,Churchill,1691,1496,1462,1344,1445,1209,1200,1207,1144,1084
+7,House Heating Fuel: Wood,NV,Churchill,743,810,909,958,1064,1073,1133,1126,1220,1198
+3,House Heating Fuel: Electric,NV,Clark,236637,240701,244524,247686,256972,268346,275825,286619,300433,306179
+4,House Heating Fuel: Fuel Oil,NV,Clark,477,361,487,448,541,562,622,629,601,567
+5,House Heating Fuel: Gas,NV,Clark,448576,451186,451295,451592,447266,443998,446058,448277,451086,459918
+6,House Heating Fuel: Propane,NV,Clark,6831,6350,6029,6131,6126,6368,7044,7880,8309,8418
+7,House Heating Fuel: Wood,NV,Clark,819,985,1086,1243,1219,1115,1111,963,1135,1117
+3,House Heating Fuel: Electric,NV,Douglas,1400,1592,1692,1655,1424,1623,1584,1746,1949,2272
+4,House Heating Fuel: Fuel Oil,NV,Douglas,349,328,370,352,356,320,319,276,207,213
+5,House Heating Fuel: Gas,NV,Douglas,14104,14044,13891,14147,14624,14553,14747,15108,15212,15074
+6,House Heating Fuel: Propane,NV,Douglas,1761,1747,1735,1724,1563,1529,1533,1580,1615,1694
+7,House Heating Fuel: Wood,NV,Douglas,1258,1144,1191,1200,1352,1353,1379,1365,1405,1272
+3,House Heating Fuel: Electric,NV,Elko,4300,4357,4690,4524,4590,4576,4612,4976,4814,4631
+4,House Heating Fuel: Fuel Oil,NV,Elko,338,278,251,223,204,164,185,182,218,213
+5,House Heating Fuel: Gas,NV,Elko,6928,6732,6657,6682,6414,6359,6234,6170,6314,6686
+6,House Heating Fuel: Propane,NV,Elko,3962,3832,3390,3459,3426,3535,3463,3286,2765,2578
+7,House Heating Fuel: Wood,NV,Elko,1318,1593,1975,2268,2545,2693,2707,2850,2880,2949
+3,House Heating Fuel: Electric,NV,Esmeralda,99,98,117,119,111,96,97,128,101,132
+4,House Heating Fuel: Fuel Oil,NV,Esmeralda,38,33,37,15,7,17,24,49,40,46
+5,House Heating Fuel: Gas,NV,Esmeralda,15,11,12,21,26,22,31,27,15,28
+6,House Heating Fuel: Propane,NV,Esmeralda,210,201,205,209,204,201,155,130,111,115
+7,House Heating Fuel: Wood,NV,Esmeralda,142,162,133,105,102,123,104,126,155,134
+3,House Heating Fuel: Electric,NV,Eureka,210,220,257,244,262,239,226,251,230,210
+4,House Heating Fuel: Fuel Oil,NV,Eureka,10,6,5,4,4,0,17,19,19,22
+5,House Heating Fuel: Gas,NV,Eureka,24,28,13,8,11,5,0,0,0,11
+6,House Heating Fuel: Propane,NV,Eureka,328,312,278,293,315,301,298,305,232,163
+7,House Heating Fuel: Wood,NV,Eureka,110,109,147,175,173,218,225,190,262,346
+3,House Heating Fuel: Electric,NV,Humboldt,1020,1021,1286,1201,1144,1179,1227,1254,1282,1558
+4,House Heating Fuel: Fuel Oil,NV,Humboldt,121,105,116,105,137,91,88,59,56,17
+5,House Heating Fuel: Gas,NV,Humboldt,3045,3149,3185,3398,3302,3475,3437,3459,3477,3333
+6,House Heating Fuel: Propane,NV,Humboldt,1170,1147,988,896,847,704,706,724,620,673
+7,House Heating Fuel: Wood,NV,Humboldt,581,561,574,589,500,454,338,374,455,597
+3,House Heating Fuel: Electric,NV,Lander,238,195,307,286,332,274,293,299,288,230
+4,House Heating Fuel: Fuel Oil,NV,Lander,29,14,16,67,64,57,55,56,9,11
+5,House Heating Fuel: Gas,NV,Lander,1097,1145,966,962,937,979,985,1048,1118,1394
+6,House Heating Fuel: Propane,NV,Lander,267,309,300,415,413,430,391,489,342,243
+7,House Heating Fuel: Wood,NV,Lander,227,244,311,226,289,325,319,228,245,241
+3,House Heating Fuel: Electric,NV,Lincoln,970,1001,1020,971,926,1042,1074,1169,1269,1256
+4,House Heating Fuel: Fuel Oil,NV,Lincoln,58,27,25,0,29,13,30,27,34,26
+5,House Heating Fuel: Gas,NV,Lincoln,102,84,119,108,89,61,55,20,0,9
+6,House Heating Fuel: Propane,NV,Lincoln,228,244,266,312,282,201,184,138,128,96
+7,House Heating Fuel: Wood,NV,Lincoln,368,422,501,558,569,502,429,527,564,585
+3,House Heating Fuel: Electric,NV,Lyon,1414,1556,1494,1647,1777,1849,1962,2309,2648,2833
+4,House Heating Fuel: Fuel Oil,NV,Lyon,275,263,301,284,280,146,228,172,195,250
+5,House Heating Fuel: Gas,NV,Lyon,12070,12504,12668,13229,13669,13657,13724,13816,13942,14222
+6,House Heating Fuel: Propane,NV,Lyon,2544,2482,2459,2354,2361,2382,2108,2255,2152,2150
+7,House Heating Fuel: Wood,NV,Lyon,1149,1277,1365,1539,1417,1222,1272,1224,997,1001
+3,House Heating Fuel: Electric,NV,Mineral,334,337,314,325,260,346,362,409,387,377
+4,House Heating Fuel: Fuel Oil,NV,Mineral,74,96,85,56,39,60,58,40,31,85
+5,House Heating Fuel: Gas,NV,Mineral,230,205,235,232,178,124,115,60,111,132
+6,House Heating Fuel: Propane,NV,Mineral,1229,1093,1010,980,856,916,944,850,782,813
+7,House Heating Fuel: Wood,NV,Mineral,350,378,475,417,461,477,496,432,545,483
+3,House Heating Fuel: Electric,NV,Nye,12809,12853,13139,13259,13249,13185,13556,13824,14215,14896
+4,House Heating Fuel: Fuel Oil,NV,Nye,258,253,238,172,159,162,106,163,181,191
+5,House Heating Fuel: Gas,NV,Nye,564,669,628,675,826,860,681,752,715,728
+6,House Heating Fuel: Propane,NV,Nye,3313,3302,3068,2756,2373,2041,1847,1780,1799,1862
+7,House Heating Fuel: Wood,NV,Nye,823,950,827,828,821,797,942,1181,1385,1039
+3,House Heating Fuel: Electric,NV,Pershing,183,166,209,235,274,236,298,261,145,115
+4,House Heating Fuel: Fuel Oil,NV,Pershing,105,95,89,70,62,21,33,9,27,45
+5,House Heating Fuel: Gas,NV,Pershing,764,844,845,907,935,1061,891,810,782,920
+6,House Heating Fuel: Propane,NV,Pershing,620,536,507,543,432,368,419,432,438,440
+7,House Heating Fuel: Wood,NV,Pershing,212,281,242,186,187,217,181,197,211,151
+3,House Heating Fuel: Electric,NV,Storey,298,229,170,103,100,110,133,98,100,77
+4,House Heating Fuel: Fuel Oil,NV,Storey,48,36,13,40,39,24,35,51,44,49
+5,House Heating Fuel: Gas,NV,Storey,377,385,374,354,387,393,442,492,490,449
+6,House Heating Fuel: Propane,NV,Storey,757,767,962,976,891,803,705,621,553,656
+7,House Heating Fuel: Wood,NV,Storey,175,195,186,212,233,276,228,197,214,213
+3,House Heating Fuel: Electric,NV,Washoe,30861,32300,32915,33750,34368,35709,36305,38874,42201,46347
+4,House Heating Fuel: Fuel Oil,NV,Washoe,5850,5472,5394,4971,4647,4575,4520,4600,4421,4287
+5,House Heating Fuel: Gas,NV,Washoe,111548,110665,111551,112618,114078,115024,117345,118957,119695,119944
+6,House Heating Fuel: Propane,NV,Washoe,7899,7517,6884,6452,5958,5699,5769,5869,6043,6513
+7,House Heating Fuel: Wood,NV,Washoe,2558,2827,3069,3222,3236,3013,2875,2817,2685,2516
+3,House Heating Fuel: Electric,NV,White Pine,1555,1659,1678,1703,1772,1788,1885,2108,2216,2263
+4,House Heating Fuel: Fuel Oil,NV,White Pine,226,179,125,141,161,95,129,93,66,72
+5,House Heating Fuel: Gas,NV,White Pine,157,155,116,58,70,64,78,85,88,59
+6,House Heating Fuel: Propane,NV,White Pine,1020,939,905,806,686,567,528,439,455,418
+7,House Heating Fuel: Wood,NV,White Pine,410,549,566,541,601,564,459,540,557,530
+3,House Heating Fuel: Electric,NV,Cars,2981,2633,2920,3027,3527,3909,3781,3659,4146,4111
+4,House Heating Fuel: Fuel Oil,NV,Cars,191,130,142,145,143,117,124,135,215,179
+5,House Heating Fuel: Gas,NV,Cars,17108,17446,17060,16972,16514,16550,16920,17388,17028,17444
+6,House Heating Fuel: Propane,NV,Cars,509,475,461,431,394,346,280,313,276,284
+7,House Heating Fuel: Wood,NV,Cars,511,508,461,500,521,512,518,471,547,528

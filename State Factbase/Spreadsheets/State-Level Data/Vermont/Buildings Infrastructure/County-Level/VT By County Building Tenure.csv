@@ -1,0 +1,57 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,VT,Addison,2.52,2.47,2.47,2.46,2.44,2.42,2.43,2.4,2.39,2.41
+1,Avg household size of renter-occupied unit,VT,Addison,2.12,2.17,2.2,2.22,2.25,2.25,2.17,2.06,2.06,2.03
+36,Owner-Occupied,VT,Addison,26860,26179,25828,25820,25825,25753,25717,25570,26112,26754
+37,Renter-Occupied,VT,Addison,7283,7746,8092,8136,8193,8295,8376,8361,7854,7098
+0,Avg household size of owner-occupied unit,VT,Bennington,2.38,2.36,2.36,2.37,2.36,2.29,2.32,2.31,2.39,2.45
+1,Avg household size of renter-occupied unit,VT,Bennington,2.08,2.15,2.06,2.12,2.09,2.14,2.14,2.13,2.08,2.06
+36,Owner-Occupied,VT,Bennington,26928,26424,26541,25811,25631,25723,26098,25763,26175,26489
+37,Renter-Occupied,VT,Bennington,8886,9237,9019,9596,9643,9387,8938,8821,8275,7791
+0,Avg household size of owner-occupied unit,VT,Caledonia,2.5,2.51,2.52,2.52,2.53,2.54,2.55,2.54,2.5,2.44
+1,Avg household size of renter-occupied unit,VT,Caledonia,2.06,2.06,2.09,2.08,2.11,2.12,2.2,2.13,2.11,2.05
+36,Owner-Occupied,VT,Caledonia,22497,22842,22720,23129,23027,23022,22952,22517,22070,22163
+37,Renter-Occupied,VT,Caledonia,7412,7257,7325,6903,6952,6875,6778,6917,7165,6857
+0,Avg household size of owner-occupied unit,VT,Chittenden,2.55,2.53,2.53,2.53,2.51,2.49,2.49,2.48,2.47,2.47
+1,Avg household size of renter-occupied unit,VT,Chittenden,2.01,2.05,2.05,2.05,2.08,2.12,2.1,2.07,2.09,2.04
+36,Owner-Occupied,VT,Chittenden,103582,103104,103571,103260,102793,102683,101883,101613,101533,101944
+37,Renter-Occupied,VT,Chittenden,42263,43359,43769,44800,46180,47235,48733,49525,50643,50832
+0,Avg household size of owner-occupied unit,VT,Essex,2.28,2.3,2.26,2.3,2.28,2.3,2.29,2.3,2.24,2.26
+1,Avg household size of renter-occupied unit,VT,Essex,2.03,2.05,2.07,2.06,2.15,2.25,2.27,2.17,2.25,2.23
+36,Owner-Occupied,VT,Essex,5432,5362,5267,5171,5064,4956,4910,4934,4945,5024
+37,Renter-Occupied,VT,Essex,927,966,1028,1086,1146,1226,1235,1240,1233,1147
+0,Avg household size of owner-occupied unit,VT,Franklin,2.64,2.63,2.62,2.63,2.62,2.64,2.7,2.66,2.68,2.67
+1,Avg household size of renter-occupied unit,VT,Franklin,2.23,2.25,2.3,2.3,2.32,2.36,2.36,2.39,2.42,2.48
+36,Owner-Occupied,VT,Franklin,36487,36653,36593,37269,36998,36559,36348,36882,37117,37360
+37,Renter-Occupied,VT,Franklin,10412,10464,10706,10208,10710,11374,11795,11479,11483,11336
+0,Avg household size of owner-occupied unit,VT,Grand Isle,2.33,2.24,2.28,2.3,2.35,2.36,2.37,2.36,2.42,2.42
+1,Avg household size of renter-occupied unit,VT,Grand Isle,2.24,2.07,2.1,2.34,2.31,2.28,2.46,2.35,2.02,2.12
+36,Owner-Occupied,VT,Grand Isle,5839,5705,5822,5653,5611,5561,5553,5565,5911,6020
+37,Renter-Occupied,VT,Grand Isle,1266,1344,1206,1329,1367,1391,1392,1385,1054,1002
+0,Avg household size of owner-occupied unit,VT,Lamoille,2.42,2.44,2.48,2.49,2.5,2.5,2.47,2.45,2.39,2.39
+1,Avg household size of renter-occupied unit,VT,Lamoille,1.9,2.05,2.12,2.12,2.1,2.13,2.11,2.13,2.15,2.2
+36,Owner-Occupied,VT,Lamoille,17250,17072,17557,17837,18027,18365,18334,18183,18347,18436
+37,Renter-Occupied,VT,Lamoille,6088,6380,6163,6107,6119,6005,6145,6337,6258,6238
+0,Avg household size of owner-occupied unit,VT,Orange,2.44,2.46,2.46,2.4,2.34,2.35,2.34,2.35,2.34,2.33
+1,Avg household size of renter-occupied unit,VT,Orange,2.06,2.11,2.09,2.17,2.23,2.19,2.07,2.08,2.13,2.16
+36,Owner-Occupied,VT,Orange,23682,23721,23621,23423,22922,22809,22982,23273,23253,23049
+37,Renter-Occupied,VT,Orange,4633,4561,4626,4811,5268,5386,5177,4916,4989,5183
+0,Avg household size of owner-occupied unit,VT,Orleans,2.53,2.52,2.47,2.45,2.39,2.37,2.36,2.31,2.29,2.27
+1,Avg household size of renter-occupied unit,VT,Orleans,2.24,2.32,2.21,2.22,2.24,2.28,2.14,2.13,2.02,2.02
+36,Owner-Occupied,VT,Orleans,20904,20629,20687,20897,20623,20834,20998,20699,20643,20860
+37,Renter-Occupied,VT,Orleans,5647,5945,5797,5547,5766,5505,5268,5421,5419,5180
+0,Avg household size of owner-occupied unit,VT,Rutland,2.36,2.36,2.32,2.34,2.35,2.37,2.38,2.39,2.39,2.39
+1,Avg household size of renter-occupied unit,VT,Rutland,2.04,2.12,2.18,2.18,2.14,2.1,2.05,2.0,1.96,1.86
+36,Owner-Occupied,VT,Rutland,43560,43280,41934,41924,41968,42239,42313,43385,43493,43226
+37,Renter-Occupied,VT,Rutland,16133,16420,17388,17014,16556,15980,15512,14023,13528,13458
+0,Avg household size of owner-occupied unit,VT,Washington,2.42,2.41,2.43,2.45,2.46,2.46,2.42,2.4,2.38,2.38
+1,Avg household size of renter-occupied unit,VT,Washington,1.98,1.97,1.94,1.94,1.89,1.94,2.0,1.98,1.98,1.97
+36,Owner-Occupied,VT,Washington,43261,43436,43847,44077,44373,44326,43374,42567,41863,41630
+37,Renter-Occupied,VT,Washington,13322,13243,12923,12862,12593,12553,13308,13899,14383,14424
+0,Avg household size of owner-occupied unit,VT,Windham,2.38,2.34,2.33,2.29,2.27,2.27,2.27,2.28,2.25,2.28
+1,Avg household size of renter-occupied unit,VT,Windham,1.88,1.87,1.97,1.97,2.05,2.06,2.06,1.98,1.97,1.92
+36,Owner-Occupied,VT,Windham,32236,32103,31173,30891,30393,29974,29218,29403,29205,29087
+37,Renter-Occupied,VT,Windham,11123,10863,11592,11685,11955,12086,12659,12193,12149,11936
+0,Avg household size of owner-occupied unit,VT,Windsor,2.37,2.36,2.33,2.32,2.37,2.33,2.34,2.36,2.33,2.33
+1,Avg household size of renter-occupied unit,VT,Windsor,1.93,1.96,1.98,1.96,1.98,2.05,2.09,2.01,2.0,1.99
+36,Owner-Occupied,VT,Windsor,42465,41968,41418,40581,40958,39943,40126,40793,41421,41719
+37,Renter-Occupied,VT,Windsor,13343,13809,14147,14803,14360,15117,14725,13723,13081,12656

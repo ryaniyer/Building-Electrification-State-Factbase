@@ -1,0 +1,269 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,SD,Aurora,2.64,2.45,2.44,2.36,2.38,2.25,2.29,2.24,2.33,2.37
+1,Avg household size of renter-occupied unit,SD,Aurora,2.38,2.51,2.58,2.35,2.32,2.19,2.15,2.01,1.96,1.66
+36,Owner-Occupied,SD,Aurora,2058,2056,2052,2099,2091,2045,2063,2051,2027,2106
+37,Renter-Occupied,SD,Aurora,589,553,558,503,507,548,518,530,567,486
+0,Avg household size of owner-occupied unit,SD,Beadle,2.41,2.44,2.4,2.35,2.36,2.35,2.34,2.31,2.35,2.39
+1,Avg household size of renter-occupied unit,SD,Beadle,1.97,1.95,2.12,2.28,2.23,2.24,2.29,2.23,2.14,2.28
+36,Owner-Occupied,SD,Beadle,11294,11713,11673,11162,11474,11586,11500,11852,12242,11856
+37,Renter-Occupied,SD,Beadle,4934,4867,5140,5880,5778,5901,5973,5630,5498,5906
+0,Avg household size of owner-occupied unit,SD,Bennett,2.61,2.33,2.44,2.5,2.47,2.47,2.57,2.61,2.62,2.52
+1,Avg household size of renter-occupied unit,SD,Bennett,3.77,3.86,3.82,3.93,4.0,4.37,4.95,5.03,4.89,4.85
+36,Owner-Occupied,SD,Bennett,1645,1569,1524,1385,1553,1552,1535,1519,1633,1501
+37,Renter-Occupied,SD,Bennett,1593,1793,1840,1983,1834,1846,1871,1881,1764,1886
+0,Avg household size of owner-occupied unit,SD,Bon Homme,2.36,2.31,2.35,2.33,2.32,2.34,2.32,2.25,2.24,2.19
+1,Avg household size of renter-occupied unit,SD,Bon Homme,2.42,2.14,1.97,2.15,2.01,1.81,1.97,1.95,2.04,2.06
+36,Owner-Occupied,SD,Bon Homme,5072,4751,4796,4517,4622,4545,4371,4332,4222,4086
+37,Renter-Occupied,SD,Bon Homme,1054,1047,957,1205,1026,973,1233,1225,1323,1382
+0,Avg household size of owner-occupied unit,SD,Brookings,2.63,2.6,2.6,2.56,2.54,2.55,2.59,2.57,2.58,2.54
+1,Avg household size of renter-occupied unit,SD,Brookings,2.22,2.12,2.16,2.13,2.07,2.12,2.12,2.1,2.12,2.19
+36,Owner-Occupied,SD,Brookings,17726,17941,17846,17812,18461,18708,19013,19293,19472,19337
+37,Renter-Occupied,SD,Brookings,10372,9945,10365,10703,10410,10574,10633,10674,11072,11549
+0,Avg household size of owner-occupied unit,SD,Brown,2.56,2.5,2.49,2.44,2.42,2.47,2.48,2.48,2.51,2.54
+1,Avg household size of renter-occupied unit,SD,Brown,1.73,1.76,1.78,1.87,1.94,1.9,1.91,1.89,1.93,1.9
+36,Owner-Occupied,SD,Brown,26478,26522,26994,26730,26899,27076,26942,26724,26803,26461
+37,Renter-Occupied,SD,Brown,7976,8080,7950,8689,9123,9540,10077,10495,10662,11139
+0,Avg household size of owner-occupied unit,SD,Brule,2.45,2.34,2.36,2.44,2.46,2.48,2.42,2.35,2.25,2.19
+1,Avg household size of renter-occupied unit,SD,Brule,1.81,1.98,1.95,2.02,2.32,2.43,2.45,2.2,2.2,2.25
+36,Owner-Occupied,SD,Brule,3678,3376,3431,3582,3601,3743,3505,3474,3148,3015
+37,Renter-Occupied,SD,Brule,1038,1152,1249,1266,1404,1361,1552,1525,1806,1926
+0,Avg household size of owner-occupied unit,SD,Buffalo,3.62,3.12,3.45,3.58,3.35,3.55,3.9,3.28,3.19,3.13
+1,Avg household size of renter-occupied unit,SD,Buffalo,3.93,3.68,3.43,3.64,3.94,3.86,4.31,4.27,4.01,3.97
+36,Owner-Occupied,SD,Buffalo,521,527,794,724,740,852,842,728,827,818
+37,Renter-Occupied,SD,Buffalo,1411,1407,1154,1239,1269,1182,1206,1316,1222,1204
+0,Avg household size of owner-occupied unit,SD,Butte,2.52,2.61,2.6,2.56,2.58,2.6,2.52,2.54,2.5,2.54
+1,Avg household size of renter-occupied unit,SD,Butte,2.38,2.11,2.18,2.38,2.22,2.19,2.15,2.03,2.1,2.03
+36,Owner-Occupied,SD,Butte,7602,7795,7756,7398,7749,7912,7799,7900,7860,8148
+37,Renter-Occupied,SD,Butte,2276,2121,2245,2679,2389,2258,2341,2161,2180,1939
+0,Avg household size of owner-occupied unit,SD,Campbell,2.41,2.24,2.18,2.17,2.17,2.39,2.4,2.22,2.23,2.27
+1,Avg household size of renter-occupied unit,SD,Campbell,1.95,1.97,1.97,1.8,1.89,1.76,1.73,1.31,1.74,1.74
+36,Owner-Occupied,SD,Campbell,1250,1196,1168,1163,1211,1314,1333,1305,1293,1321
+37,Renter-Occupied,SD,Campbell,181,175,226,258,223,234,218,134,136,158
+0,Avg household size of owner-occupied unit,SD,Charles Mix,2.69,2.6,2.59,2.64,2.56,2.6,2.65,2.7,2.73,2.75
+1,Avg household size of renter-occupied unit,SD,Charles Mix,2.92,2.98,3.12,2.98,3.22,3.19,3.01,3.07,3.23,3.13
+36,Owner-Occupied,SD,Charles Mix,5981,5959,5886,5966,5800,5789,5910,5831,6030,6163
+37,Renter-Occupied,SD,Charles Mix,2951,2833,2879,2778,2980,3024,2971,3138,3031,2888
+0,Avg household size of owner-occupied unit,SD,Clark,2.71,2.55,2.52,2.31,2.32,2.26,2.29,2.33,2.35,2.42
+1,Avg household size of renter-occupied unit,SD,Clark,2.45,2.56,2.36,2.44,2.1,2.05,2.08,2.12,2.12,1.99
+36,Owner-Occupied,SD,Clark,3066,2761,2735,2603,2621,2561,2650,2739,2804,2974
+37,Renter-Occupied,SD,Clark,626,748,669,738,677,729,717,710,733,635
+0,Avg household size of owner-occupied unit,SD,Clay,2.53,2.49,2.5,2.53,2.53,2.42,2.46,2.4,2.45,2.38
+1,Avg household size of renter-occupied unit,SD,Clay,1.8,1.97,1.89,1.89,1.96,1.99,1.95,1.98,2.02,2.07
+36,Owner-Occupied,SD,Clay,7314,7010,7167,7265,6811,6649,6740,6571,6528,6688
+37,Renter-Occupied,SD,Clay,3690,4316,4299,4304,4866,5138,5027,5091,5152,5007
+0,Avg household size of owner-occupied unit,SD,Codington,2.48,2.46,2.46,2.51,2.51,2.5,2.52,2.51,2.49,2.5
+1,Avg household size of renter-occupied unit,SD,Codington,2.05,1.99,1.92,1.91,1.92,1.83,1.89,1.84,1.88,1.84
+36,Owner-Occupied,SD,Codington,19536,20266,20425,20179,20115,20185,19672,19674,19697,19688
+37,Renter-Occupied,SD,Codington,7047,6342,6327,6749,6979,7051,7662,7698,7678,7699
+0,Avg household size of owner-occupied unit,SD,Corson,3.34,3.1,2.95,2.87,2.97,2.88,2.98,2.9,2.99,2.9
+1,Avg household size of renter-occupied unit,SD,Corson,4.01,4.12,4.11,4.07,3.84,3.9,3.78,3.9,4.09,4.14
+36,Owner-Occupied,SD,Corson,2065,2030,1888,1801,1837,1826,1826,1923,1863,1864
+37,Renter-Occupied,SD,Corson,1988,2011,2152,2272,2280,2318,2339,2249,2301,2283
+0,Avg household size of owner-occupied unit,SD,Custer,2.17,2.11,2.21,2.15,2.15,2.14,2.13,2.09,2.12,2.18
+1,Avg household size of renter-occupied unit,SD,Custer,1.86,1.95,2.03,1.99,2.17,2.03,1.83,1.97,1.83,1.97
+36,Owner-Occupied,SD,Custer,6222,6151,6136,6414,6439,6541,6781,6754,6882,7112
+37,Renter-Occupied,SD,Custer,1469,1592,1680,1485,1497,1425,1222,1321,1269,1220
+0,Avg household size of owner-occupied unit,SD,Davison,2.48,2.5,2.45,2.4,2.41,2.33,2.35,2.28,2.36,2.34
+1,Avg household size of renter-occupied unit,SD,Davison,1.86,1.86,1.79,1.89,1.85,1.98,1.95,1.97,1.9,1.93
+36,Owner-Occupied,SD,Davison,12663,12814,13273,12706,13095,12560,12111,12064,12192,12083
+37,Renter-Occupied,SD,Davison,5553,5759,5341,5998,5714,6296,6749,6710,6698,6738
+0,Avg household size of owner-occupied unit,SD,Day,2.2,2.26,2.23,2.16,2.19,2.17,2.15,2.13,2.09,2.05
+1,Avg household size of renter-occupied unit,SD,Day,2.1,2.21,2.24,2.26,2.02,2.11,2.03,1.99,1.97,2.15
+36,Owner-Occupied,SD,Day,3808,3962,3919,3831,4093,4008,4008,3981,3993,3980
+37,Renter-Occupied,SD,Day,1620,1567,1584,1672,1405,1450,1417,1383,1360,1367
+0,Avg household size of owner-occupied unit,SD,Deuel,2.47,2.47,2.5,2.48,2.41,2.35,2.44,2.42,2.48,2.46
+1,Avg household size of renter-occupied unit,SD,Deuel,2.01,2.03,1.93,2.0,1.94,1.74,1.73,1.75,1.88,2.03
+36,Owner-Occupied,SD,Deuel,3640,3679,3765,3771,3704,3709,3740,3645,3561,3494
+37,Renter-Occupied,SD,Deuel,658,632,555,536,575,564,502,571,679,766
+0,Avg household size of owner-occupied unit,SD,Dewey,2.84,2.85,2.83,3.03,3.0,3.26,3.18,3.16,3.11,3.09
+1,Avg household size of renter-occupied unit,SD,Dewey,3.5,3.31,3.33,3.38,3.63,3.51,3.69,3.8,3.86,4.14
+36,Owner-Occupied,SD,Dewey,2747,2842,2789,2968,3019,3128,3131,3045,2999,3115
+37,Renter-Occupied,SD,Dewey,2559,2399,2490,2384,2427,2389,2457,2600,2714,2660
+0,Avg household size of owner-occupied unit,SD,Douglas,2.45,2.41,2.31,2.33,2.32,2.34,2.39,2.44,2.46,2.52
+1,Avg household size of renter-occupied unit,SD,Douglas,2.19,2.23,2.33,2.23,1.98,1.76,1.61,1.54,1.48,1.51
+36,Owner-Occupied,SD,Douglas,2309,2304,2253,2299,2343,2383,2453,2386,2435,2453
+37,Renter-Occupied,SD,Douglas,614,606,636,601,547,489,405,450,389,371
+0,Avg household size of owner-occupied unit,SD,Edmunds,2.56,2.45,2.51,2.45,2.36,2.34,2.37,2.4,2.49,2.51
+1,Avg household size of renter-occupied unit,SD,Edmunds,2.41,1.99,1.77,1.84,2.07,2.1,2.2,2.42,2.24,2.27
+36,Owner-Occupied,SD,Edmunds,3275,3126,3138,3044,3023,3038,3145,3174,3219,3173
+37,Renter-Occupied,SD,Edmunds,738,678,595,640,642,608,585,614,606,631
+0,Avg household size of owner-occupied unit,SD,Fall River,2.1,2.2,2.25,2.23,2.18,2.16,2.17,2.14,2.15,2.26
+1,Avg household size of renter-occupied unit,SD,Fall River,1.58,1.75,1.85,1.86,1.92,2.1,2.04,1.9,1.81,1.83
+36,Owner-Occupied,SD,Fall River,4106,4821,4824,4688,4630,4734,4736,4853,5132,5263
+37,Renter-Occupied,SD,Fall River,1672,1764,1779,1924,1997,1873,1825,1618,1333,1201
+0,Avg household size of owner-occupied unit,SD,Faulk,2.6,2.48,2.43,2.4,2.25,2.1,2.12,2.2,2.23,2.33
+1,Avg household size of renter-occupied unit,SD,Faulk,2.6,2.13,1.95,1.95,2.09,2.35,2.06,1.83,2.03,1.92
+36,Owner-Occupied,SD,Faulk,1902,1787,1798,1751,1644,1536,1584,1604,1615,1674
+37,Renter-Occupied,SD,Faulk,474,445,390,389,454,514,468,396,363,338
+0,Avg household size of owner-occupied unit,SD,Grant,2.36,2.39,2.39,2.35,2.35,2.3,2.23,2.22,2.23,2.25
+1,Avg household size of renter-occupied unit,SD,Grant,1.83,1.74,1.73,1.91,1.95,1.85,1.99,2.0,2.04,1.84
+36,Owner-Occupied,SD,Grant,5619,5635,5764,5682,5808,5802,5789,5958,6018,5877
+37,Renter-Occupied,SD,Grant,1469,1435,1298,1408,1283,1268,1253,1043,1058,1117
+0,Avg household size of owner-occupied unit,SD,Gregory,2.11,2.08,2.13,2.09,2.07,2.12,2.2,2.08,2.24,2.26
+1,Avg household size of renter-occupied unit,SD,Gregory,2.11,2.2,2.19,2.18,2.2,2.13,2.13,2.28,2.29,2.24
+36,Owner-Occupied,SD,Gregory,3228,3154,3127,2950,2888,2873,2925,2817,2984,2973
+37,Renter-Occupied,SD,Gregory,941,1035,1066,1245,1300,1307,1246,1345,1169,1171
+0,Avg household size of owner-occupied unit,SD,Haakon,2.2,2.27,2.41,2.35,2.31,2.35,2.36,2.32,2.38,2.57
+1,Avg household size of renter-occupied unit,SD,Haakon,2.13,2.0,1.85,2.33,2.45,2.53,2.3,2.2,1.71,1.86
+36,Owner-Occupied,SD,Haakon,1379,1423,1495,1471,1638,1579,1571,1625,1731,1630
+37,Renter-Occupied,SD,Haakon,305,248,298,421,409,465,464,422,312,349
+0,Avg household size of owner-occupied unit,SD,Hamlin,2.83,2.82,2.76,2.73,2.73,2.67,2.66,2.64,2.75,2.69
+1,Avg household size of renter-occupied unit,SD,Hamlin,2.76,2.67,2.75,2.98,2.76,2.52,2.45,2.43,2.14,2.18
+36,Owner-Occupied,SD,Hamlin,4763,4568,4459,4333,4381,4646,4783,4711,4777,4885
+37,Renter-Occupied,SD,Hamlin,946,1035,1187,1356,1327,1104,999,989,1023,955
+0,Avg household size of owner-occupied unit,SD,Hand,2.33,2.3,2.34,2.44,2.37,2.3,2.35,2.39,2.38,2.38
+1,Avg household size of renter-occupied unit,SD,Hand,1.82,1.8,2.05,2.12,1.89,1.92,1.87,1.65,1.61,1.56
+36,Owner-Occupied,SD,Hand,2511,2545,2498,2564,2524,2450,2448,2492,2489,2456
+37,Renter-Occupied,SD,Hand,739,804,833,804,756,860,799,753,757,747
+0,Avg household size of owner-occupied unit,SD,Hanson,2.87,2.9,2.98,2.97,3.0,2.91,2.9,3.02,3.14,3.16
+1,Avg household size of renter-occupied unit,SD,Hanson,3.24,2.84,3.17,3.18,3.35,3.19,3.86,4.08,3.48,3.95
+36,Owner-Occupied,SD,Hanson,2802,2721,2624,2572,2665,2562,2698,2831,2972,2901
+37,Renter-Occupied,SD,Hanson,580,549,535,543,466,562,506,506,425,498
+0,Avg household size of owner-occupied unit,SD,Harding,2.37,2.48,2.38,2.31,2.34,2.46,2.43,2.3,2.27,2.43
+1,Avg household size of renter-occupied unit,SD,Harding,2.31,2.38,2.68,2.63,2.45,2.54,2.44,2.16,2.2,2.06
+36,Owner-Occupied,SD,Harding,928,947,956,903,845,909,831,873,861,867
+37,Renter-Occupied,SD,Harding,312,317,343,358,350,350,373,332,372,360
+0,Avg household size of owner-occupied unit,SD,Hughes,2.51,2.47,2.46,2.48,2.51,2.49,2.49,2.41,2.39,2.34
+1,Avg household size of renter-occupied unit,SD,Hughes,1.86,1.8,1.92,2.03,1.9,1.92,1.83,1.86,1.81,1.9
+36,Owner-Occupied,SD,Hughes,12327,12192,12163,11673,11529,11712,11506,11503,11880,11998
+37,Renter-Occupied,SD,Hughes,4089,3894,4031,4629,4835,4646,4828,4853,4533,4429
+0,Avg household size of owner-occupied unit,SD,Hutchinson,2.4,2.32,2.35,2.31,2.33,2.36,2.46,2.47,2.54,2.52
+1,Avg household size of renter-occupied unit,SD,Hutchinson,2.43,2.39,2.14,2.12,1.98,1.86,2.01,2.11,2.06,2.08
+36,Owner-Occupied,SD,Hutchinson,5617,5380,5532,5245,5284,5215,5357,5424,5645,5646
+37,Renter-Occupied,SD,Hutchinson,1512,1498,1221,1423,1322,1359,1407,1435,1311,1374
+0,Avg household size of owner-occupied unit,SD,Hyde,2.68,2.46,2.55,2.55,2.67,2.53,2.47,2.38,2.3,2.21
+1,Avg household size of renter-occupied unit,SD,Hyde,1.73,1.72,2.21,2.18,2.48,2.49,2.23,1.91,1.62,1.94
+36,Owner-Occupied,SD,Hyde,1204,1153,1142,1068,1186,1129,1143,1120,1089,991
+37,Renter-Occupied,SD,Hyde,241,236,261,283,238,247,259,214,201,289
+0,Avg household size of owner-occupied unit,SD,Jackson,2.86,2.7,2.52,2.55,2.59,2.58,2.61,2.56,2.61,2.64
+1,Avg household size of renter-occupied unit,SD,Jackson,3.52,3.83,3.61,3.46,3.44,3.79,4.1,4.26,5.0,5.07
+36,Owner-Occupied,SD,Jackson,1784,1628,1632,1689,1632,1637,1611,1585,1395,1321
+37,Renter-Occupied,SD,Jackson,1197,1365,1385,1362,1470,1506,1544,1559,1744,1815
+0,Avg household size of owner-occupied unit,SD,Jerauld,2.39,2.33,2.31,2.29,2.28,2.36,2.44,2.28,2.35,2.4
+1,Avg household size of renter-occupied unit,SD,Jerauld,1.91,2.27,2.09,2.26,2.22,2.13,1.87,1.94,1.65,1.46
+36,Owner-Occupied,SD,Jerauld,1506,1406,1452,1470,1517,1543,1557,1527,1588,1606
+37,Renter-Occupied,SD,Jerauld,522,599,555,544,493,447,430,465,398,369
+0,Avg household size of owner-occupied unit,SD,Jones,2.32,2.7,2.55,2.28,2.02,2.01,1.98,1.91,1.91,1.99
+1,Avg household size of renter-occupied unit,SD,Jones,2.2,2.38,2.33,2.12,1.4,1.46,1.5,1.56,1.48,1.81
+36,Owner-Occupied,SD,Jones,797,908,791,750,630,586,574,587,618,608
+37,Renter-Occupied,SD,Jones,279,295,293,231,175,195,193,153,117,185
+0,Avg household size of owner-occupied unit,SD,Kingsbury,2.26,2.29,2.24,2.21,2.26,2.28,2.22,2.2,2.26,2.26
+1,Avg household size of renter-occupied unit,SD,Kingsbury,1.73,1.67,1.86,1.97,1.88,1.85,1.82,1.77,1.61,1.63
+36,Owner-Occupied,SD,Kingsbury,4099,4037,3959,3930,3910,4004,4085,4079,4121,4097
+37,Renter-Occupied,SD,Kingsbury,895,927,1023,1053,1086,973,899,835,760,760
+0,Avg household size of owner-occupied unit,SD,Lake,2.38,2.41,2.42,2.33,2.38,2.36,2.44,2.42,2.6,2.59
+1,Avg household size of renter-occupied unit,SD,Lake,2.02,2.04,2.03,2.29,2.26,2.45,2.56,2.41,2.35,2.45
+36,Owner-Occupied,SD,Lake,7646,7762,7898,7878,8085,8250,8661,8676,8969,9078
+37,Renter-Occupied,SD,Lake,2656,2640,2689,2929,3002,3098,2944,2959,2891,2925
+0,Avg household size of owner-occupied unit,SD,Lawrence,2.27,2.28,2.26,2.32,2.31,2.31,2.3,2.29,2.27,2.32
+1,Avg household size of renter-occupied unit,SD,Lawrence,1.69,1.76,1.83,1.87,1.99,2.03,1.98,1.95,1.97,1.91
+36,Owner-Occupied,SD,Lawrence,15629,15986,15785,15891,16123,16256,16093,16049,16406,16615
+37,Renter-Occupied,SD,Lawrence,6354,6497,6858,7001,7002,7068,7385,7627,7470,7454
+0,Avg household size of owner-occupied unit,SD,Lincoln,2.77,2.78,2.81,2.86,2.88,2.89,2.96,2.94,2.94,2.94
+1,Avg household size of renter-occupied unit,SD,Lincoln,2.04,2.06,2.14,2.11,2.14,2.21,2.19,2.32,2.42,2.54
+36,Owner-Occupied,SD,Lincoln,33294,34991,36367,37927,39310,40815,42275,43471,43870,44603
+37,Renter-Occupied,SD,Lincoln,7665,7963,8330,8373,8586,8608,8649,9171,10514,11672
+0,Avg household size of owner-occupied unit,SD,Lyman,2.33,2.54,2.66,2.56,2.45,2.5,2.57,2.58,2.48,2.51
+1,Avg household size of renter-occupied unit,SD,Lyman,2.91,2.66,2.67,2.84,3.03,3.35,3.25,3.23,3.21,3.09
+36,Owner-Occupied,SD,Lyman,2044,2313,2338,2392,2397,2525,2498,2498,2355,2355
+37,Renter-Occupied,SD,Lyman,1662,1410,1387,1389,1415,1290,1329,1343,1452,1417
+0,Avg household size of owner-occupied unit,SD,McCook,2.64,2.57,2.53,2.56,2.52,2.46,2.5,2.52,2.48,2.49
+1,Avg household size of renter-occupied unit,SD,McCook,2.1,2.14,2.11,2.05,2.16,2.03,2.2,2.09,2.07,1.99
+36,Owner-Occupied,SD,McCook,4578,4448,4451,4481,4432,4328,4256,4119,4043,4214
+37,Renter-Occupied,SD,McCook,915,978,936,893,928,1007,1112,1138,1205,1064
+0,Avg household size of owner-occupied unit,SD,McPherson,2.35,2.19,2.19,2.09,2.06,1.98,1.96,2.04,2.15,2.26
+1,Avg household size of renter-occupied unit,SD,McPherson,2.5,2.74,2.11,2.02,1.81,1.62,1.73,2.0,1.94,1.5
+36,Owner-Occupied,SD,McPherson,1970,1818,1794,1632,1635,1490,1483,1647,1746,1796
+37,Renter-Occupied,SD,McPherson,526,539,501,532,426,419,427,421,390,355
+0,Avg household size of owner-occupied unit,SD,Marshall,2.63,2.56,2.52,2.52,2.47,2.49,2.58,2.62,2.76,2.74
+1,Avg household size of renter-occupied unit,SD,Marshall,2.52,2.8,2.84,2.89,2.72,2.58,2.67,2.36,2.14,2.11
+36,Owner-Occupied,SD,Marshall,3209,3187,3206,3094,3110,3178,3173,3415,3714,3782
+37,Renter-Occupied,SD,Marshall,1307,1285,1224,1312,1298,1266,1358,1205,1106,1035
+0,Avg household size of owner-occupied unit,SD,Meade,2.56,2.54,2.57,2.62,2.61,2.58,2.58,2.49,2.54,2.52
+1,Avg household size of renter-occupied unit,SD,Meade,2.34,2.26,2.2,2.16,2.14,2.0,2.09,2.09,2.16,2.21
+36,Owner-Occupied,SD,Meade,18086,18021,18284,19062,18980,19681,19890,20188,20466,20655
+37,Renter-Occupied,SD,Meade,6231,6419,6389,6050,6342,5923,6157,6085,6159,6247
+0,Avg household size of owner-occupied unit,SD,Mellette,2.62,2.51,2.48,2.35,2.38,2.49,2.53,2.71,2.84,2.94
+1,Avg household size of renter-occupied unit,SD,Mellette,3.71,4.33,4.06,4.05,3.95,4.04,3.66,3.5,3.35,3.27
+36,Owner-Occupied,SD,Mellette,1183,1020,997,1097,1060,1087,1223,1252,1232,1350
+37,Renter-Occupied,SD,Mellette,839,978,1022,940,992,965,828,774,784,660
+0,Avg household size of owner-occupied unit,SD,Miner,2.28,2.2,2.25,2.31,2.41,2.37,2.47,2.37,2.4,2.46
+1,Avg household size of renter-occupied unit,SD,Miner,1.88,1.87,1.77,1.77,1.76,1.8,1.75,1.73,1.66,1.72
+36,Owner-Occupied,SD,Miner,2016,1875,1919,1862,1909,1833,1892,1843,1853,1789
+37,Renter-Occupied,SD,Miner,385,454,388,436,373,417,365,369,334,380
+0,Avg household size of owner-occupied unit,SD,Minnehaha,2.63,2.64,2.65,2.65,2.65,2.65,2.65,2.63,2.62,2.6
+1,Avg household size of renter-occupied unit,SD,Minnehaha,2.07,2.11,2.14,2.18,2.17,2.17,2.14,2.03,2.04,1.99
+36,Owner-Occupied,SD,Minnehaha,113559,114233,114427,115492,116413,118367,120512,123258,125072,126104
+37,Renter-Occupied,SD,Minnehaha,46197,48505,50717,52455,54336,55302,55997,54603,55609,56366
+0,Avg household size of owner-occupied unit,SD,Moody,2.42,2.41,2.42,2.39,2.36,2.35,2.31,2.25,2.33,2.38
+1,Avg household size of renter-occupied unit,SD,Moody,2.72,2.57,2.33,2.2,2.14,2.18,2.28,2.47,2.37,2.27
+36,Owner-Occupied,SD,Moody,4912,4699,4623,4544,4520,4501,4461,4537,4564,4494
+37,Renter-Occupied,SD,Moody,1547,1699,1715,1731,1696,1667,1671,1591,1603,1712
+0,Avg household size of owner-occupied unit,SD,Pennington,2.5,2.53,2.54,2.57,2.56,2.57,2.54,2.52,2.51,2.53
+1,Avg household size of renter-occupied unit,SD,Pennington,2.16,2.14,2.2,2.21,2.27,2.26,2.29,2.23,2.22,2.18
+36,Owner-Occupied,SD,Pennington,66426,67320,67292,68366,69990,71639,72246,73454,75349,76652
+37,Renter-Occupied,SD,Pennington,28751,29199,30795,31210,31308,31069,31535,31048,30147,30154
+0,Avg household size of owner-occupied unit,SD,Perkins,2.24,2.37,2.37,2.25,2.37,2.36,2.38,2.24,2.2,2.19
+1,Avg household size of renter-occupied unit,SD,Perkins,1.84,1.56,1.63,1.71,1.75,1.84,1.96,2.01,2.13,2.12
+36,Owner-Occupied,SD,Perkins,2135,2251,2157,2185,2247,2209,2166,2177,2068,2042
+37,Renter-Occupied,SD,Perkins,769,559,645,671,688,680,754,683,731,745
+0,Avg household size of owner-occupied unit,SD,Potter,2.45,2.29,2.33,2.18,2.16,2.14,2.16,2.21,2.31,2.34
+1,Avg household size of renter-occupied unit,SD,Potter,1.77,1.93,1.97,1.92,1.98,1.97,2.11,2.03,1.95,2.01
+36,Owner-Occupied,SD,Potter,2047,1970,1882,1865,1870,1832,1803,1873,1885,1811
+37,Renter-Occupied,SD,Potter,323,321,362,374,361,394,419,361,357,418
+0,Avg household size of owner-occupied unit,SD,Roberts,2.55,2.58,2.66,2.58,2.62,2.54,2.49,2.49,2.49,2.45
+1,Avg household size of renter-occupied unit,SD,Roberts,2.79,2.91,2.88,3.01,3.11,3.24,3.2,3.06,2.93,2.91
+36,Owner-Occupied,SD,Roberts,6795,6633,6848,6574,6477,6531,6380,6344,6495,6297
+37,Renter-Occupied,SD,Roberts,3075,3155,2980,3316,3523,3491,3646,3685,3577,3785
+0,Avg household size of owner-occupied unit,SD,Sanborn,2.46,2.31,2.24,2.13,2.1,2.11,2.23,2.29,2.31,2.37
+1,Avg household size of renter-occupied unit,SD,Sanborn,2.42,2.17,2.31,2.21,2.09,2.04,1.93,1.97,2.02,2.14
+36,Owner-Occupied,SD,Sanborn,1824,1668,1678,1647,1660,1681,1780,1774,1720,1752
+37,Renter-Occupied,SD,Sanborn,546,622,591,609,588,562,524,545,620,577
+0,Avg household size of owner-occupied unit,SD,Shannon,3.84,4.13,4.14,4.05,4.03,,,,,
+1,Avg household size of renter-occupied unit,SD,Shannon,5.1,5.46,5.29,5.43,5.46,,,,,
+36,Owner-Occupied,SD,Shannon,5570,5898,6068,6096,6425,,,,,
+37,Renter-Occupied,SD,Shannon,7024,7225,7217,7387,7275,,,,,
+0,Avg household size of owner-occupied unit,SD,Spink,2.33,2.42,2.44,2.45,2.44,2.47,2.43,2.44,2.58,2.57
+1,Avg household size of renter-occupied unit,SD,Spink,1.98,2.06,1.98,2.12,2.24,2.23,2.34,2.27,1.95,1.99
+36,Owner-Occupied,SD,Spink,4776,4773,4823,4728,4680,4780,4660,4702,5040,4998
+37,Renter-Occupied,SD,Spink,1168,1297,1300,1468,1577,1551,1671,1585,1336,1350
+0,Avg household size of owner-occupied unit,SD,Stanley,2.55,2.57,2.33,2.41,2.58,2.48,2.44,2.41,2.48,2.36
+1,Avg household size of renter-occupied unit,SD,Stanley,2.33,2.24,2.2,2.01,1.93,1.73,1.75,1.84,1.89,1.81
+36,Owner-Occupied,SD,Stanley,2250,2384,2409,2412,2465,2544,2441,2483,2542,2503
+37,Renter-Occupied,SD,Stanley,646,522,514,544,514,418,523,511,455,514
+0,Avg household size of owner-occupied unit,SD,Sully,2.39,2.33,2.41,2.29,2.36,2.33,2.41,2.27,2.34,2.26
+1,Avg household size of renter-occupied unit,SD,Sully,1.79,2.15,2.33,2.44,2.4,2.38,2.56,2.41,2.29,2.41
+36,Owner-Occupied,SD,Sully,1103,1048,1047,1004,1052,1003,1091,1047,1094,1103
+37,Renter-Occupied,SD,Sully,225,335,328,408,399,454,359,335,229,193
+0,Avg household size of owner-occupied unit,SD,Todd,3.78,3.45,3.29,3.36,3.3,3.14,3.43,3.43,3.44,3.32
+1,Avg household size of renter-occupied unit,SD,Todd,3.73,3.89,3.88,3.83,3.79,4.0,3.78,3.73,3.98,4.09
+36,Owner-Occupied,SD,Todd,3925,3801,4128,4187,4148,3860,4021,3950,4058,3920
+37,Renter-Occupied,SD,Todd,5650,5688,5461,5502,5642,6038,5952,6030,6051,6210
+0,Avg household size of owner-occupied unit,SD,Tripp,2.26,2.23,2.11,2.07,2.01,2.05,2.15,2.23,2.24,2.27
+1,Avg household size of renter-occupied unit,SD,Tripp,2.12,2.26,2.31,2.33,2.23,2.12,1.94,2.12,2.13,2.19
+36,Owner-Occupied,SD,Tripp,4235,4014,3836,3594,3396,3484,3695,3740,3942,4078
+37,Renter-Occupied,SD,Tripp,1422,1538,1643,1847,2015,1870,1630,1581,1369,1228
+0,Avg household size of owner-occupied unit,SD,Turner,2.47,2.46,2.45,2.45,2.42,2.42,2.46,2.39,2.45,2.41
+1,Avg household size of renter-occupied unit,SD,Turner,2.19,2.19,2.06,2.03,2.04,1.9,1.9,1.92,1.9,1.98
+36,Owner-Occupied,SD,Turner,6699,6771,6814,6665,6636,6619,6620,6577,6617,6604
+37,Renter-Occupied,SD,Turner,1509,1429,1369,1513,1532,1504,1482,1475,1454,1500
+0,Avg household size of owner-occupied unit,SD,Union,2.56,2.58,2.67,2.69,2.7,2.67,2.61,2.51,2.49,2.47
+1,Avg household size of renter-occupied unit,SD,Union,1.89,1.9,1.94,1.97,1.9,1.91,1.94,1.94,1.95,1.93
+36,Owner-Occupied,SD,Union,11162,11182,11427,11652,11812,11840,11725,11558,11381,11332
+37,Renter-Occupied,SD,Union,2731,2852,2829,2808,2820,2883,3001,3260,3685,3928
+0,Avg household size of owner-occupied unit,SD,Walworth,2.27,2.51,2.31,2.49,2.39,2.36,2.4,2.41,2.25,2.32
+1,Avg household size of renter-occupied unit,SD,Walworth,1.95,2.08,2.31,1.87,1.95,1.91,1.95,1.92,2.23,2.03
+36,Owner-Occupied,SD,Walworth,3852,4000,3766,3736,3669,3706,3831,3929,3880,3864
+37,Renter-Occupied,SD,Walworth,999,1257,1502,1566,1642,1568,1433,1264,1276,1199
+0,Avg household size of owner-occupied unit,SD,Yankton,2.51,2.54,2.55,2.51,2.5,2.5,2.51,2.48,2.45,2.43
+1,Avg household size of renter-occupied unit,SD,Yankton,1.73,1.82,1.91,1.93,1.9,1.97,1.89,1.8,1.83,1.81
+36,Owner-Occupied,SD,Yankton,15284,15457,15807,15650,15655,15024,15159,15057,14964,14969
+37,Renter-Occupied,SD,Yankton,4479,4665,4492,4740,4908,5693,5643,5787,5955,5957
+0,Avg household size of owner-occupied unit,SD,Ziebach,2.82,2.98,3.13,3.29,3.58,3.38,3.34,3.28,3.24,3.19
+1,Avg household size of renter-occupied unit,SD,Ziebach,4.45,4.09,3.78,3.75,3.59,3.63,3.78,4.21,4.51,4.38
+36,Owner-Occupied,SD,Ziebach,1141,1319,1379,1365,1409,1457,1354,1339,1384,1375
+37,Renter-Occupied,SD,Ziebach,1624,1461,1417,1456,1428,1376,1464,1498,1430,1416
+0,Avg household size of owner-occupied unit,SD,Oglala Lakota,,,,,,4.11,4.18,4.38,4.55,4.9
+1,Avg household size of renter-occupied unit,SD,Oglala Lakota,,,,,,5.42,5.44,5.25,5.44,5.38
+36,Owner-Occupied,SD,Oglala Lakota,,,,,,6354,6548,6727,6755,6711
+37,Renter-Occupied,SD,Oglala Lakota,,,,,,7529,7421,7260,7267,7309

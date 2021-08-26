@@ -1,0 +1,601 @@
+,state,fips code,county,sector,pollutant desc,pollutant type(s),total emissions,emissions uom
+4182,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,3.4411593000000003,TON
+16978,NH,33007,Coos,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,7.7,TON
+23744,NH,33009,Grafton,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,592.2853705,TON
+34351,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,18.96,TON
+53005,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,13.7,TON
+55001,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,5.17,TON
+64451,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,33.0,TON
+75194,NH,33001,Belknap,Fuel Comb - Residential - Oil,Ammonia,CAP,4.428311,TON
+93686,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,2.03,TON
+100212,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,1.099313,TON
+108471,NH,33001,Belknap,Commercial Cooking,Volatile Organic Compounds,CAP,4.62309095,TON
+128856,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,6.84,TON
+129180,NH,33005,Cheshire,Fuel Comb - Residential - Oil,Ammonia,CAP,5.602855,TON
+132697,NH,33013,Merrimack,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.23399999999999999,TON
+134618,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,71.178382,TON
+141464,NH,33019,Sullivan,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.17,TON
+150965,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.08,TON
+170582,NH,33009,Grafton,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,28.56,TON
+178754,NH,33015,Rockingham,Fuel Comb - Residential - Wood,Ammonia,CAP,42.49866868,TON
+185797,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,15.73,TON
+186755,NH,33005,Cheshire,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,4.18,TON
+191029,NH,33011,Hillsborough,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,11.802,TON
+192181,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,1.10278834,TON
+194997,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,154.821296,TON
+196505,NH,33007,Coos,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,11.991907199999998,TON
+204548,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.06,TON
+204801,NH,33019,Sullivan,Fuel Comb - Residential - Oil,Ammonia,CAP,2.774912,TON
+217409,NH,33015,Rockingham,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,25.82143806,TON
+219144,NH,33009,Grafton,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,20.97787746,TON
+225125,NH,33011,Hillsborough,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,7.74,TON
+243684,NH,33013,Merrimack,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,301.21,TON
+253978,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,9.47783,TON
+258800,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.06,TON
+263962,NH,33005,Cheshire,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,29.34,TON
+264715,NH,33003,Carroll,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.006,TON
+281790,NH,33007,Coos,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.336,TON
+299953,NH,33001,Belknap,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.18,TON
+305111,NH,33005,Cheshire,Commercial Cooking,Carbon Monoxide,CAP,8.947890899999999,TON
+305112,NH,33005,Cheshire,Commercial Cooking,Volatile Organic Compounds,CAP,3.23451499,TON
+306016,NH,33013,Merrimack,Fuel Comb - Residential - Other,Ammonia,CAP,0.2599254,TON
+306313,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,11.7,TON
+312689,NH,33009,Grafton,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,580.8513360000001,TON
+320623,NH,33003,Carroll,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.24,TON
+326921,NH,33017,Strafford,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,1.619,TON
+362415,NH,33019,Sullivan,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.057999999999999996,TON
+371506,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,93.30118,TON
+376484,NH,33001,Belknap,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.048,TON
+382132,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.6,TON
+384152,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,2.13,TON
+397652,NH,33003,Carroll,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,2.17,TON
+409928,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.17012,TON
+435232,NH,33001,Belknap,Fuel Comb - Residential - Other,Ammonia,CAP,0.1265948,TON
+440923,NH,33009,Grafton,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,4.07,TON
+447915,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,61.271577,TON
+448535,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,45.431999999999995,TON
+455942,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.07,TON
+457050,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,3.72,TON
+468036,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,6.2511,TON
+481553,NH,33007,Coos,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,5.03,TON
+486168,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,202.77,TON
+495905,NH,33011,Hillsborough,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,56.39,TON
+496340,NH,33003,Carroll,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,67.65,TON
+499592,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,13.49,TON
+500122,NH,33005,Cheshire,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.1,TON
+547492,NH,33019,Sullivan,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,11.55,TON
+547493,NH,33019,Sullivan,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.58,TON
+550517,NH,33015,Rockingham,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,317.75,TON
+558902,NH,33015,Rockingham,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,196.39,TON
+573871,NH,33007,Coos,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.04,TON
+594262,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.4,TON
+612234,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,2.6280986,TON
+629106,NH,33017,Strafford,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,5.04,TON
+629906,NH,33009,Grafton,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.16,TON
+630782,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,18.73,TON
+634819,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.11,TON
+649373,NH,33003,Carroll,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,15.78,TON
+654162,NH,33013,Merrimack,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.36,TON
+659434,NH,33007,Coos,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1706.3797522999998,TON
+670589,NH,33005,Cheshire,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,249.99,TON
+672231,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,39.75,TON
+679338,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,57.44,TON
+691924,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,133.61,TON
+693570,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.05,TON
+694239,NH,33015,Rockingham,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.72,TON
+708932,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.45,TON
+712189,NH,33009,Grafton,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,12.17,TON
+720666,NH,33015,Rockingham,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,787.8668751,TON
+732174,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.89,TON
+732912,NH,33007,Coos,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.04,TON
+757091,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,68.49,TON
+758962,NH,33013,Merrimack,Fuel Comb - Residential - Wood,Ammonia,CAP,26.12883431,TON
+769784,NH,33015,Rockingham,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,25.676,TON
+770594,NH,33013,Merrimack,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.326,TON
+775889,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,28.180963000000002,TON
+783492,NH,33001,Belknap,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.15,TON
+784997,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.09,TON
+785667,NH,33013,Merrimack,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,127.27,TON
+805924,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.13,TON
+806494,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.9,TON
+807507,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.42482616,TON
+808932,NH,33013,Merrimack,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.26,TON
+810164,NH,33015,Rockingham,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.6,TON
+815924,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,13.8,TON
+830633,NH,33013,Merrimack,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,50.0324934,TON
+847240,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.43,TON
+863193,NH,33013,Merrimack,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,15.06,TON
+868103,NH,33007,Coos,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.04,TON
+882078,NH,33019,Sullivan,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,14.5,TON
+893104,NH,33007,Coos,Commercial Cooking,Volatile Organic Compounds,CAP,1.684868838,TON
+906747,NH,33017,Strafford,Fuel Comb - Residential - Other,Ammonia,CAP,0.1844469,TON
+910320,NH,33009,Grafton,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.02,TON
+923252,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.5,TON
+969152,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,52.290353,TON
+971646,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.42,TON
+983423,NH,33013,Merrimack,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,85.93,TON
+989229,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,114.56966570000002,TON
+994538,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.08,TON
+1019767,NH,33003,Carroll,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+1030111,NH,33001,Belknap,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,259.97133913,TON
+1030113,NH,33017,Strafford,Fuel Comb - Residential - Wood,Ammonia,CAP,16.49156651,TON
+1047496,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,9.45783,TON
+1055581,NH,33009,Grafton,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,81.27,TON
+1057143,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,2.86,TON
+1057144,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.13,TON
+1061540,NH,33005,Cheshire,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.025,TON
+1067153,NH,33007,Coos,Commercial Cooking,Carbon Monoxide,CAP,4.6423604,TON
+1078680,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.07,TON
+1081006,NH,33017,Strafford,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.19,TON
+1085109,NH,33005,Cheshire,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,40.273174700000006,TON
+1085620,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,7.8,TON
+1090662,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,1.15,TON
+1100251,NH,33005,Cheshire,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.021,TON
+1113727,NH,33003,Carroll,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.2,TON
+1129518,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,3.09,TON
+1131932,NH,33017,Strafford,Commercial Cooking,Carbon Monoxide,CAP,17.239322,TON
+1136281,NH,33019,Sullivan,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.006,TON
+1145419,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.792007,TON
+1152179,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.03,TON
+1156884,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,36.93,TON
+1172523,NH,33003,Carroll,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,23.6768223,TON
+1174608,NH,33019,Sullivan,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.005,TON
+1183644,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,9.24,TON
+1188788,NH,33001,Belknap,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+1189587,NH,33017,Strafford,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,127.34,TON
+1196181,NH,33011,Hillsborough,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,150.897828,TON
+1214585,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.16,TON
+1238939,NH,33007,Coos,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,243.53659858,TON
+1257775,NH,33009,Grafton,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+1266630,NH,33017,Strafford,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,35.37,TON
+1272310,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.19,TON
+1277655,NH,33007,Coos,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,25.722208,TON
+1297736,NH,33007,Coos,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.23,TON
+1323415,NH,33015,Rockingham,Commercial Cooking,Carbon Monoxide,CAP,51.885554,TON
+1346455,NH,33007,Coos,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.05,TON
+1348328,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,19.8,TON
+1348499,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,28.73,TON
+1350165,NH,33001,Belknap,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,11.72,TON
+1367031,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.54,TON
+1373997,NH,33003,Carroll,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,36.745500899999996,TON
+1374499,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.22,TON
+1382981,NH,33009,Grafton,Fuel Comb - Residential - Other,Ammonia,CAP,0.2538506,TON
+1384627,NH,33011,Hillsborough,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,198.84,TON
+1407455,NH,33013,Merrimack,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,24.37,TON
+1408406,NH,33011,Hillsborough,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,36.72,TON
+1411268,NH,33011,Hillsborough,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,98.6981987,TON
+1414268,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,207.406055,TON
+1419541,NH,33015,Rockingham,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,37.6,TON
+1425406,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.42,TON
+1428120,NH,33017,Strafford,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.153,TON
+1432983,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,42.774111,TON
+1438761,NH,33015,Rockingham,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,752.0,TON
+1449829,NH,33011,Hillsborough,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,863.9563087000001,TON
+1451230,NH,33005,Cheshire,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,372.48095734,TON
+1452203,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,74.79,TON
+1454138,NH,33017,Strafford,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,35.075679,TON
+1455028,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,153.39,TON
+1462863,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.16,TON
+1465891,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.04,TON
+1471388,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,278.59,TON
+1471423,NH,33019,Sullivan,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,23.83276407,TON
+1483076,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.25,TON
+1486959,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,313.34887000000003,TON
+1503488,NH,33015,Rockingham,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+1519946,NH,33011,Hillsborough,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.61,TON
+1528923,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,29.7405668533,TON
+1529381,NH,33007,Coos,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.43,TON
+1529436,NH,33019,Sullivan,Fuel Comb - Residential - Wood,Ammonia,CAP,10.990000295,TON
+1531334,NH,33013,Merrimack,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,494.49003339999996,TON
+1537308,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.34,TON
+1544030,NH,33017,Strafford,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.127,TON
+1548877,NH,33007,Coos,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.04,TON
+1549502,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,15.90266344,TON
+1553482,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.23,TON
+1557987,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.1,TON
+1561972,NH,33007,Coos,Fuel Comb - Residential - Oil,Ammonia,CAP,2.749494,TON
+1562921,NH,33005,Cheshire,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,3.87,TON
+1568111,NH,33019,Sullivan,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1571.8622442,TON
+1568168,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,67.882726,TON
+1585914,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.06,TON
+1600841,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,31.02,TON
+1619012,NH,33019,Sullivan,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.992,TON
+1628267,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.562527,TON
+1628268,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,78.373791,TON
+1629989,NH,33019,Sullivan,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,9.34856572,TON
+1638852,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.69,TON
+1640813,NH,33017,Strafford,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.16,TON
+1668306,NH,33019,Sullivan,Commercial Cooking,Volatile Organic Compounds,CAP,1.393800479,TON
+1674612,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,2.48,TON
+1674613,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.19,TON
+1676929,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,9.71,TON
+1686169,NH,33013,Merrimack,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,55.3838578,TON
+1698482,NH,33017,Strafford,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,14.83,TON
+1705550,NH,33017,Strafford,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,307.24476688,TON
+1729180,NH,33015,Rockingham,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,88.26,TON
+1735480,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.49,TON
+1745987,NH,33019,Sullivan,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,10.096117,TON
+1768694,NH,33007,Coos,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,71.322344,TON
+1771344,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.41,TON
+1782578,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.1637128,TON
+1790777,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,4.55,TON
+1793162,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.48758228,TON
+1799377,NH,33007,Coos,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,8.50952073,TON
+1806899,NH,33001,Belknap,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.442,TON
+1820126,NH,33009,Grafton,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,580.8513360000001,TON
+1827171,NH,33003,Carroll,Commercial Cooking,Volatile Organic Compounds,CAP,3.42135382,TON
+1833140,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,7.83,TON
+1838819,NH,33007,Coos,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.04,TON
+1840710,NH,33017,Strafford,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2284.4190972,TON
+1845513,NH,33007,Coos,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,5.194895,TON
+1852534,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.43,TON
+1866972,NH,33019,Sullivan,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,6.18,TON
+1906997,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.12,TON
+1908603,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.23,TON
+1910629,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.03,TON
+1915260,NH,33003,Carroll,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2451.3535479,TON
+1915261,NH,33005,Cheshire,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,12.20847306,TON
+1915785,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.21,TON
+1916913,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.75243763,TON
+1917093,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,5.09,TON
+1926156,NH,33011,Hillsborough,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.73,TON
+1944487,NH,33019,Sullivan,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,52.21,TON
+1945143,NH,33003,Carroll,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,25.5169762,TON
+1963101,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.07,TON
+1976318,NH,33015,Rockingham,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,89.8775407,TON
+1977228,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,11.14,TON
+1986438,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,10.61,TON
+1993339,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,387.672612,TON
+1995744,NH,33013,Merrimack,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,494.49003339999996,TON
+2003825,NH,33007,Coos,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,11.84,TON
+2004518,NH,33009,Grafton,Commercial Cooking,Carbon Monoxide,CAP,16.120337699999997,TON
+2007560,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.04,TON
+2007837,NH,33005,Cheshire,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.14,TON
+2015210,NH,33017,Strafford,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,307.24476688,TON
+2020579,NH,33017,Strafford,Fuel Comb - Residential - Oil,Ammonia,CAP,7.534592,TON
+2021616,NH,33007,Coos,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.004,TON
+2043285,NH,33003,Carroll,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.062,TON
+2058377,NH,33007,Coos,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,20.940529,TON
+2065572,NH,33011,Hillsborough,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,277.75,TON
+2078931,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.29,TON
+2079899,NH,33013,Merrimack,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,16.83,TON
+2080745,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.11,TON
+2083771,NH,33007,Coos,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,16.17,TON
+2099887,NH,33007,Coos,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.04,TON
+2112045,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,25.070096,TON
+2123693,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,41.71,TON
+2136579,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,4.5,TON
+2138686,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,25.31,TON
+2140247,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.28,TON
+2157232,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.38,TON
+2162175,NH,33011,Hillsborough,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,1.287,TON
+2195508,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.09,TON
+2196546,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.15,TON
+2200177,NH,33001,Belknap,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,3.51,TON
+2204713,NH,33007,Coos,Fuel Comb - Residential - Wood,Ammonia,CAP,11.650047828,TON
+2212866,NH,33017,Strafford,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,301.37,TON
+2224849,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,51.491627,TON
+2226687,NH,33001,Belknap,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,259.97133913,TON
+2238582,NH,33005,Cheshire,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,32.97,TON
+2242136,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.06,TON
+2248570,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,27.5,TON
+2248835,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.49,TON
+2257522,NH,33013,Merrimack,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,2.989,TON
+2259367,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,386.475736,TON
+2269522,NH,33017,Strafford,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,41.083900899999996,TON
+2271808,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.07,TON
+2275933,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.27,TON
+2276217,NH,33009,Grafton,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,13.59,TON
+2278124,NH,33007,Coos,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,3.16,TON
+2288989,NH,33015,Rockingham,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,135.337509,TON
+2329401,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,8.25,TON
+2339815,NH,33005,Cheshire,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2651.6583865,TON
+2350581,NH,33007,Coos,Fuel Comb - Residential - Other,Ammonia,CAP,0.03175887,TON
+2350712,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.39,TON
+2359051,NH,33003,Carroll,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,11.48905861,TON
+2366020,NH,33015,Rockingham,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,42.01,TON
+2373725,NH,33001,Belknap,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,88.64,TON
+2374610,NH,33017,Strafford,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,11.777999999999999,TON
+2378354,NH,33003,Carroll,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,332.4528324,TON
+2393595,NH,33017,Strafford,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,2.04,TON
+2394836,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,36.2998851936,TON
+2402923,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,22.46,TON
+2410484,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,96.68,TON
+2424074,NH,33001,Belknap,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,7.555,TON
+2446987,NH,33011,Hillsborough,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.84,TON
+2447419,NH,33003,Carroll,Fuel Comb - Residential - Oil,Ammonia,CAP,3.4034480000000005,TON
+2451221,NH,33011,Hillsborough,Commercial Cooking,Carbon Monoxide,CAP,58.125069999999994,TON
+2451424,NH,33017,Strafford,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.22,TON
+2455461,NH,33003,Carroll,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,345.73551976,TON
+2471832,NH,33013,Merrimack,Commercial Cooking,Volatile Organic Compounds,CAP,7.10814859,TON
+2507258,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.56,TON
+2508757,NH,33001,Belknap,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,24.62,TON
+2509204,NH,33007,Coos,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.48,TON
+2528460,NH,33005,Cheshire,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.226,TON
+2542833,NH,33013,Merrimack,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,5.04,TON
+2556190,NH,33019,Sullivan,Commercial Cooking,Carbon Monoxide,CAP,3.8757544999999998,TON
+2605608,NH,33011,Hillsborough,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,140.06495,TON
+2617217,NH,33015,Rockingham,Commercial Cooking,Volatile Organic Compounds,CAP,18.9088641,TON
+2622256,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,2.99,TON
+2623166,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,115.09,TON
+2630275,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,942.56,TON
+2650904,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.61,TON
+2657335,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,6.74,TON
+2657491,NH,33009,Grafton,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.3,TON
+2679302,NH,33003,Carroll,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.005,TON
+2683311,NH,33007,Coos,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,2.74,TON
+2736847,NH,33003,Carroll,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.68,TON
+2740468,NH,33005,Cheshire,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,9.35,TON
+2740863,NH,33011,Hillsborough,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,85.83,TON
+2741984,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,23.376196,TON
+2757820,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,6.33,TON
+2758268,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,7.74,TON
+2774746,NH,33005,Cheshire,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,13.97,TON
+2783065,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,212.71170800000002,TON
+2796884,NH,33009,Grafton,Fuel Comb - Residential - Oil,Ammonia,CAP,5.420225,TON
+2808187,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,22.73,TON
+2812993,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,10.89,TON
+2812994,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,5.93,TON
+2823120,NH,33007,Coos,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,11.1247901,TON
+2831187,NH,33001,Belknap,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,33.847362200000006,TON
+2833240,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,16.31,TON
+2833385,NH,33003,Carroll,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.006999999999999999,TON
+2840034,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,2.34,TON
+2855994,NH,33007,Coos,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,8.65,TON
+2857938,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,42.03,TON
+2867686,NH,33001,Belknap,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.042,TON
+2894933,NH,33011,Hillsborough,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,1.1159999999999999,TON
+2908983,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.03,TON
+2909594,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.04,TON
+2914261,NH,33017,Strafford,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,52.28,TON
+2930072,NH,33003,Carroll,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,1.065,TON
+2932446,NH,33007,Coos,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,6.89,TON
+2935406,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,66.89,TON
+2937652,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,719.666834,TON
+2954137,NH,33013,Merrimack,Commercial Cooking,Carbon Monoxide,CAP,19.434722,TON
+2964421,NH,33017,Strafford,Commercial Cooking,Volatile Organic Compounds,CAP,6.29775444,TON
+2984612,NH,33001,Belknap,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.13,TON
+2996928,NH,33007,Coos,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,10.5,TON
+2998431,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.872007,TON
+3000779,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,1.41597305,TON
+3010023,NH,33007,Coos,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,58.23,TON
+3012268,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,42.1578271936,TON
+3018003,NH,33001,Belknap,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,269.77221859,TON
+3018004,NH,33015,Rockingham,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,5847.211717,TON
+3027864,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,2.69,TON
+3035260,NH,33007,Coos,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.03,TON
+3049302,NH,33007,Coos,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.05,TON
+3055247,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,64.13,TON
+3056338,NH,33001,Belknap,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1920.3761327999998,TON
+3057135,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,116.50616699999999,TON
+3061094,NH,33007,Coos,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,15.328476,TON
+3063627,NH,33013,Merrimack,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,35.35,TON
+3067751,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.18,TON
+3085201,NH,33019,Sullivan,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.42200000000000004,TON
+3091716,NH,33005,Cheshire,Fuel Comb - Residential - Wood,Ammonia,CAP,18.5675077,TON
+3092759,NH,33019,Sullivan,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,7.209856498,TON
+3112874,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,18.95,TON
+3113590,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,5.128165,TON
+3117994,NH,33015,Rockingham,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,12.59,TON
+3133043,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.12,TON
+3134265,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,9.235358486,TON
+3141644,NH,33005,Cheshire,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,105.63,TON
+3146464,NH,33007,Coos,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.21,TON
+3147713,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.56,TON
+3164211,NH,33013,Merrimack,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.32,TON
+3176831,NH,33001,Belknap,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,3.215,TON
+3182181,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,39.49,TON
+3211736,NH,33019,Sullivan,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.15,TON
+3229812,NH,33001,Belknap,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,29.002238199999997,TON
+3237478,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.31,TON
+3240392,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,9.48,TON
+3247458,NH,33009,Grafton,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4136.020988,TON
+3255306,NH,33003,Carroll,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.17,TON
+3255494,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.78,TON
+3257052,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,21.26,TON
+3265806,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,30.7605668533,TON
+3269105,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,11.76,TON
+3274664,NH,33003,Carroll,Fuel Comb - Residential - Other,Ammonia,CAP,0.1566855,TON
+3274670,NH,33007,Coos,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.789,TON
+3278480,NH,33011,Hillsborough,Commercial Cooking,Volatile Organic Compounds,CAP,21.11202936,TON
+3292460,NH,33007,Coos,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,5.6356470416999995,TON
+3319212,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,27.84,TON
+3319724,NH,33007,Coos,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,4.11,TON
+3332869,NH,33001,Belknap,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,31.3927795,TON
+3337479,NH,33007,Coos,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,137.81,TON
+3342530,NH,33005,Cheshire,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,357.81140469999997,TON
+3356710,NH,33013,Merrimack,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.35,TON
+3367534,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,17.28,TON
+3400423,NH,33005,Cheshire,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,357.81140469999997,TON
+3402649,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.1337128,TON
+3415700,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.43,TON
+3420297,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.16,TON
+3422272,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,12.01,TON
+3451446,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.5,TON
+3454142,NH,33011,Hillsborough,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,77.15,TON
+3466218,NH,33007,Coos,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,5.445647041699999,TON
+3466855,NH,33017,Strafford,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,15.07,TON
+3479228,NH,33009,Grafton,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,62.2479279,TON
+3489308,NH,33009,Grafton,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,39.569134999999996,TON
+3504587,NH,33007,Coos,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.248074954,TON
+3516170,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,57.1003018516,TON
+3522151,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.08,TON
+3525475,NH,33007,Coos,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+3531210,NH,33005,Cheshire,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+3536504,NH,33019,Sullivan,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,220.67143119,TON
+3549256,NH,33015,Rockingham,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.276,TON
+3568336,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.4,TON
+3568594,NH,33009,Grafton,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,243.31,TON
+3569610,NH,33005,Cheshire,Fuel Comb - Residential - Other,Ammonia,CAP,0.1001238,TON
+3573435,NH,33009,Grafton,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.253,TON
+3583259,NH,33003,Carroll,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,55.64,TON
+3585515,NH,33009,Grafton,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,42.6390865,TON
+3589094,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,1.45,TON
+3600461,NH,33015,Rockingham,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,125.79428,TON
+3610385,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,54.63,TON
+3616251,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,12.16,TON
+3657065,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.09,TON
+3666170,NH,33005,Cheshire,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,1.6469999999999998,TON
+3666310,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,51.07,TON
+3668091,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,1.9,TON
+3680874,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.3,TON
+3699092,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.04,TON
+3712146,NH,33015,Rockingham,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,787.8668751,TON
+3722419,NH,33005,Cheshire,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,21.8212883,TON
+3724485,NH,33011,Hillsborough,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,201.7,TON
+3729985,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,44.617926000000004,TON
+3739497,NH,33003,Carroll,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,18.79,TON
+3741134,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.06,TON
+3741928,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,5.96,TON
+3757105,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,14.2,TON
+3757335,NH,33019,Sullivan,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.07,TON
+3757569,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.08,TON
+3759183,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.07,TON
+3759184,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.1,TON
+3761974,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,17.53,TON
+3767861,NH,33007,Coos,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.04,TON
+3767876,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,72.32,TON
+3779352,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.2,TON
+3781672,NH,33005,Cheshire,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.12,TON
+3787637,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,15.082714999999999,TON
+3795385,NH,33007,Coos,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.005,TON
+3798543,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,47.32,TON
+3804382,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.05,TON
+3815524,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.38,TON
+3816153,NH,33007,Coos,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.46,TON
+3820132,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.21,TON
+3858591,NH,33013,Merrimack,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,51.088,TON
+3862577,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.37,TON
+3863989,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,83.3927,TON
+3873764,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,106.66,TON
+3878794,NH,33011,Hillsborough,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.9229999999999999,TON
+3887510,NH,33009,Grafton,Fuel Comb - Residential - Wood,Ammonia,CAP,28.27356612,TON
+3888379,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,14.99,TON
+3897640,NH,33005,Cheshire,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.28,TON
+3897924,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,32.09,TON
+3916407,NH,33013,Merrimack,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,21.74,TON
+3924215,NH,33017,Strafford,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,10.128465537,TON
+3929378,NH,33001,Belknap,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.61,TON
+3932114,NH,33011,Hillsborough,Fuel Comb - Residential - Other,Ammonia,CAP,0.6539368,TON
+3933137,NH,33003,Carroll,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.45299999999999996,TON
+3940324,NH,33009,Grafton,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,4.332,TON
+3942434,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,16.45266344,TON
+3942626,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,4.67,TON
+3961088,NH,33019,Sullivan,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,211.56542525,TON
+3963911,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,45.33,TON
+3972871,NH,33019,Sullivan,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+3973246,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,10.26,TON
+4011282,NH,33019,Sullivan,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.005,TON
+4048684,NH,33009,Grafton,Commercial Cooking,Volatile Organic Compounds,CAP,5.79767929,TON
+4071710,NH,33017,Strafford,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.177,TON
+4078312,NH,33013,Merrimack,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,509.48597069999994,TON
+4087019,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.08,TON
+4089757,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.18,TON
+4091164,NH,33007,Coos,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.14,TON
+4092520,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,2.79,TON
+4105926,NH,33003,Carroll,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,8.95,TON
+4109262,NH,33013,Merrimack,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.28300000000000003,TON
+4110266,NH,33017,Strafford,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+4132297,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.07,TON
+4142065,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,5.18,TON
+4149981,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,36.46,TON
+4161413,NH,33009,Grafton,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.25,TON
+4161518,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.2,TON
+4167626,NH,33015,Rockingham,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,55.69,TON
+4168051,NH,33007,Coos,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.04,TON
+4170307,NH,33011,Hillsborough,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,863.9563087000001,TON
+4179552,NH,33001,Belknap,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,11.72,TON
+4182720,NH,33003,Carroll,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,8.01,TON
+4205260,NH,33003,Carroll,Commercial Cooking,Carbon Monoxide,CAP,9.5590395,TON
+4228203,NH,33011,Hillsborough,Fuel Comb - Residential - Wood,Ammonia,CAP,47.59237363,TON
+4263843,NH,33011,Hillsborough,Fuel Comb - Residential - Oil,Ammonia,CAP,15.91361,TON
+4263949,NH,33007,Coos,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.04,TON
+4287380,NH,33007,Coos,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,237.20636301,TON
+4309157,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.99182,TON
+4309816,NH,33001,Belknap,Fuel Comb - Residential - Wood,Ammonia,CAP,13.507843643,TON
+4321107,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.22,TON
+4338728,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,2.6,TON
+4341424,NH,33015,Rockingham,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.83,TON
+4346444,NH,33019,Sullivan,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,211.56542525,TON
+4354729,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.03,TON
+4355508,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.11,TON
+4367797,NH,33015,Rockingham,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,814.1923081,TON
+4368690,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.55155201,TON
+4380458,NH,33017,Strafford,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,27.678,TON
+4384162,NH,33007,Coos,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,237.20636301,TON
+4388001,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,34.397694,TON
+4395220,NH,33005,Cheshire,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,12.5,TON
+4395846,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.08,TON
+4398137,NH,33009,Grafton,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,102.81,TON
+4412595,NH,33009,Grafton,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.35,TON
+4419661,NH,33013,Merrimack,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,46.476046600000004,TON
+4431582,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.23,TON
+4433603,NH,33007,Coos,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,3.36,TON
+4437080,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,21.46,TON
+4440633,NH,33011,Hillsborough,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,27.64993844,TON
+4450315,NH,33017,Strafford,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,16.84,TON
+4451509,NH,33001,Belknap,Commercial Cooking,Carbon Monoxide,CAP,12.8538645,TON
+4457073,NH,33011,Hillsborough,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,657.34,TON
+4463732,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,8.02,TON
+4472354,NH,33003,Carroll,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,160.11,TON
+4484249,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,8.925248486000001,TON
+4495114,NH,33013,Merrimack,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+4498549,NH,33011,Hillsborough,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,6349.849477000001,TON
+4513612,NH,33015,Rockingham,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.385,TON
+4533119,NH,33015,Rockingham,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,3.53,TON
+4546292,NH,33001,Belknap,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.035,TON
+4546843,NH,33001,Belknap,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,41.33,TON
+4547999,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,9.51,TON
+4548077,NH,33007,Coos,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.004,TON
+4553851,NH,33011,Hillsborough,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,32.87,TON
+4553962,NH,33007,Coos,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,7.27,TON
+4559808,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.228401511,TON
+4571690,NH,33015,Rockingham,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.33399999999999996,TON
+4578178,NH,33013,Merrimack,Fuel Comb - Residential - Oil,Ammonia,CAP,6.924256,TON
+4579182,NH,33009,Grafton,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.61,TON
+4583849,NH,33013,Merrimack,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,3638.2146901,TON
+4605153,NH,33015,Rockingham,Fuel Comb - Residential - Other,Ammonia,CAP,0.6698005,TON
+4605220,NH,33011,Hillsborough,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+4608900,NH,33003,Carroll,Fuel Comb - Residential - Wood,Ammonia,CAP,16.97446428,TON
+4619928,NH,33005,Cheshire,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,23.506096799999998,TON
+4621218,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.78,TON
+4642713,NH,33011,Hillsborough,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,139.69,TON
+4651705,NH,33007,Coos,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.046,TON
+4663206,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.08,TON
+4666339,NH,33001,Belknap,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,8.837686862,TON
+4669783,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,14.47,TON
+4683209,NH,33015,Rockingham,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,60.339,TON
+4685738,NH,33001,Belknap,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,10.49,TON
+4689325,NH,33009,Grafton,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.027999999999999997,TON
+4698785,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,11.93,TON
+4704169,NH,33009,Grafton,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.024,TON
+4704266,NH,33009,Grafton,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,1.8430000000000002,TON
+4706028,NH,33015,Rockingham,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,7.65,TON
+4710096,NH,33019,Sullivan,Fuel Comb - Residential - Other,Ammonia,CAP,0.1232269,TON
+4719693,NH,33009,Grafton,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,23.05,TON
+4728180,NH,33001,Belknap,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,209.78,TON
+4732204,NH,33017,Strafford,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,318.37821231,TON
+4737536,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,17.23,TON
+4748188,NH,33005,Cheshire,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.018000000000000002,TON
+4751837,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,55.2103018516,TON
+4765565,NH,33001,Belknap,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.07,TON
+4770616,NH,33019,Sullivan,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.12,TON
+4771687,NH,33019,Sullivan,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,6.9,TON
+4779436,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,6.58,TON
+4790557,NH,33019,Sullivan,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,40.71,TON
+4806037,NH,33015,Rockingham,Fuel Comb - Residential - Oil,Ammonia,CAP,18.87429,TON
+4810078,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.03,TON
+4814021,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.09,TON
+4839575,NH,33011,Hillsborough,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,881.0025126,TON
+4843245,NH,33019,Sullivan,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,123.56,TON
+4846046,NH,33003,Carroll,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,332.4528324,TON
+4847676,NH,33007,Coos,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.31,TON
+4851049,NH,33005,Cheshire,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,8.89,TON
+4877380,NH,33019,Sullivan,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,4.93,TON
+4893165,NH,33013,Merrimack,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,1.23,TON
+4912451,NH,33017,Strafford,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,44.254818,TON
+4920638,NH,33017,Strafford,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,14.71,TON
+4924703,NH,33015,Rockingham,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,2.29,TON
+4925297,NH,33003,Carroll,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,8.457011999999999,TON
+4934685,NH,33011,Hillsborough,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,11.0,TON
+4937519,NH,33013,Merrimack,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,16.52410848,TON

@@ -1,0 +1,266 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,ND,Adams,283,361,370,352,436,412,378,395,432,394
+4,House Heating Fuel: Fuel Oil,ND,Adams,41,54,49,52,40,34,41,30,38,37
+5,House Heating Fuel: Gas,ND,Adams,174,208,184,211,164,169,146,165,97,104
+6,House Heating Fuel: Propane,ND,Adams,485,421,450,453,423,411,431,435,449,452
+7,House Heating Fuel: Wood,ND,Adams,14,19,21,11,13,21,20,16,13,14
+3,House Heating Fuel: Electric,ND,Barnes,2242,2328,2426,2397,2282,2239,2059,1977,1986,2174
+4,House Heating Fuel: Fuel Oil,ND,Barnes,356,270,236,198,203,225,251,286,261,254
+5,House Heating Fuel: Gas,ND,Barnes,1516,1424,1434,1475,1586,1649,1789,1950,1907,1783
+6,House Heating Fuel: Propane,ND,Barnes,612,626,639,657,648,672,649,668,695,671
+7,House Heating Fuel: Wood,ND,Barnes,14,32,44,45,61,94,122,120,114,87
+3,House Heating Fuel: Electric,ND,Benson,879,910,911,892,897,879,863,846,849,846
+4,House Heating Fuel: Fuel Oil,ND,Benson,249,221,203,197,211,183,167,163,150,114
+5,House Heating Fuel: Gas,ND,Benson,124,88,69,71,71,92,119,147,142,152
+6,House Heating Fuel: Propane,ND,Benson,997,1024,1081,1086,1117,1088,1069,1090,1098,1099
+7,House Heating Fuel: Wood,ND,Benson,32,32,29,24,19,12,10,15,14,11
+3,House Heating Fuel: Electric,ND,Billings,132,142,136,162,154,185,184,175,155,165
+4,House Heating Fuel: Fuel Oil,ND,Billings,40,34,54,34,37,19,20,3,3,4
+5,House Heating Fuel: Gas,ND,Billings,5,10,11,11,20,25,20,18,17,18
+6,House Heating Fuel: Propane,ND,Billings,161,152,129,119,120,146,142,165,183,175
+7,House Heating Fuel: Wood,ND,Billings,7,17,11,7,13,17,16,17,19,16
+3,House Heating Fuel: Electric,ND,Bottineau,1556,1581,1667,1658,1686,1797,1825,1885,1857,1844
+4,House Heating Fuel: Fuel Oil,ND,Bottineau,472,389,368,332,328,278,277,273,255,229
+5,House Heating Fuel: Gas,ND,Bottineau,33,43,58,56,67,60,45,27,32,15
+6,House Heating Fuel: Propane,ND,Bottineau,858,903,850,916,840,805,776,796,797,756
+7,House Heating Fuel: Wood,ND,Bottineau,40,25,10,9,6,20,65,62,71,95
+3,House Heating Fuel: Electric,ND,Bowman,237,228,235,293,308,342,364,417,387,307
+4,House Heating Fuel: Fuel Oil,ND,Bowman,86,70,39,12,6,4,4,5,1,1
+5,House Heating Fuel: Gas,ND,Bowman,697,720,764,739,712,703,724,692,673,644
+6,House Heating Fuel: Propane,ND,Bowman,261,263,275,270,262,260,248,262,297,367
+7,House Heating Fuel: Wood,ND,Bowman,4,0,0,0,0,0,0,0,0,0
+3,House Heating Fuel: Electric,ND,Burke,323,325,369,413,385,384,402,381,362,403
+4,House Heating Fuel: Fuel Oil,ND,Burke,49,34,24,52,34,38,45,37,27,35
+5,House Heating Fuel: Gas,ND,Burke,104,102,114,82,78,69,78,98,88,106
+6,House Heating Fuel: Propane,ND,Burke,471,497,475,442,478,481,466,417,385,346
+7,House Heating Fuel: Wood,ND,Burke,6,2,2,0,0,0,0,0,0,0
+3,House Heating Fuel: Electric,ND,Burleigh,7136,7276,7325,7769,8687,9169,9569,9757,10054,9949
+4,House Heating Fuel: Fuel Oil,ND,Burleigh,291,215,172,173,146,136,161,185,159,148
+5,House Heating Fuel: Gas,ND,Burleigh,21949,22349,23003,23313,23441,24275,24713,25300,25546,25961
+6,House Heating Fuel: Propane,ND,Burleigh,2461,2551,2376,2383,2489,2594,2594,2648,2592,2479
+7,House Heating Fuel: Wood,ND,Burleigh,60,58,77,84,64,67,88,73,88,84
+3,House Heating Fuel: Electric,ND,Cass,32788,33354,33728,34072,35242,35571,37265,37970,38716,39441
+4,House Heating Fuel: Fuel Oil,ND,Cass,2074,1995,1742,1638,1260,1131,1040,868,775,713
+5,House Heating Fuel: Gas,ND,Cass,24602,25217,25679,26408,26621,28438,28778,30376,30708,31605
+6,House Heating Fuel: Propane,ND,Cass,2089,2142,2230,2178,2167,1983,1970,1986,2098,2354
+7,House Heating Fuel: Wood,ND,Cass,128,97,105,109,154,132,146,198,162,113
+3,House Heating Fuel: Electric,ND,Cavalier,684,674,689,711,668,673,709,602,616,652
+4,House Heating Fuel: Fuel Oil,ND,Cavalier,97,151,138,124,150,135,112,133,117,100
+5,House Heating Fuel: Gas,ND,Cavalier,573,562,596,568,599,567,600,622,602,580
+6,House Heating Fuel: Propane,ND,Cavalier,371,302,284,336,317,338,322,371,345,361
+7,House Heating Fuel: Wood,ND,Cavalier,24,13,11,0,4,5,5,6,9,2
+3,House Heating Fuel: Electric,ND,Dickey,788,838,934,985,1003,991,1032,952,907,899
+4,House Heating Fuel: Fuel Oil,ND,Dickey,354,286,245,251,255,229,226,230,194,190
+5,House Heating Fuel: Gas,ND,Dickey,51,44,58,84,104,104,110,99,73,46
+6,House Heating Fuel: Propane,ND,Dickey,900,917,875,791,771,737,758,831,932,916
+7,House Heating Fuel: Wood,ND,Dickey,36,34,28,19,17,13,21,26,20,24
+3,House Heating Fuel: Electric,ND,Divide,323,326,379,397,407,424,434,490,488,473
+4,House Heating Fuel: Fuel Oil,ND,Divide,195,189,160,136,137,106,102,58,45,48
+5,House Heating Fuel: Gas,ND,Divide,59,43,29,29,37,32,64,54,80,46
+6,House Heating Fuel: Propane,ND,Divide,390,403,407,424,429,467,429,432,500,487
+7,House Heating Fuel: Wood,ND,Divide,10,0,0,0,0,0,0,0,0,0
+3,House Heating Fuel: Electric,ND,Dunn,465,446,505,495,549,574,559,598,589,565
+4,House Heating Fuel: Fuel Oil,ND,Dunn,134,122,141,108,64,63,32,19,27,27
+5,House Heating Fuel: Gas,ND,Dunn,209,226,230,189,179,161,137,112,153,174
+6,House Heating Fuel: Propane,ND,Dunn,463,510,510,552,594,633,701,788,816,846
+7,House Heating Fuel: Wood,ND,Dunn,18,18,13,16,16,23,21,19,20,28
+3,House Heating Fuel: Electric,ND,Eddy,214,232,275,314,298,306,277,252,271,285
+4,House Heating Fuel: Fuel Oil,ND,Eddy,61,56,49,37,30,18,15,13,14,11
+5,House Heating Fuel: Gas,ND,Eddy,548,549,585,575,571,581,585,590,570,564
+6,House Heating Fuel: Propane,ND,Eddy,157,109,114,131,137,132,133,162,156,160
+7,House Heating Fuel: Wood,ND,Eddy,0,0,7,10,16,17,19,8,8,4
+3,House Heating Fuel: Electric,ND,Emmons,498,538,574,566,576,531,493,489,530,562
+4,House Heating Fuel: Fuel Oil,ND,Emmons,361,376,324,343,300,314,250,230,208,239
+5,House Heating Fuel: Gas,ND,Emmons,294,249,244,268,278,240,286,316,269,277
+6,House Heating Fuel: Propane,ND,Emmons,315,324,385,401,405,472,440,485,491,466
+7,House Heating Fuel: Wood,ND,Emmons,11,13,12,10,8,10,16,16,16,9
+3,House Heating Fuel: Electric,ND,Foster,474,519,541,518,518,494,455,470,436,412
+4,House Heating Fuel: Fuel Oil,ND,Foster,78,62,43,42,53,42,56,46,25,15
+5,House Heating Fuel: Gas,ND,Foster,664,651,679,671,710,662,687,649,707,725
+6,House Heating Fuel: Propane,ND,Foster,272,248,246,291,247,243,254,284,231,229
+7,House Heating Fuel: Wood,ND,Foster,0,0,0,0,8,8,8,16,18,8
+3,House Heating Fuel: Electric,ND,Golden Valley,87,127,160,161,147,154,135,134,139,109
+4,House Heating Fuel: Fuel Oil,ND,Golden Valley,18,18,27,23,25,24,16,7,4,3
+5,House Heating Fuel: Gas,ND,Golden Valley,490,463,421,423,454,472,519,531,509,541
+6,House Heating Fuel: Propane,ND,Golden Valley,111,105,118,120,109,122,136,153,185,172
+7,House Heating Fuel: Wood,ND,Golden Valley,5,5,3,0,0,0,0,0,0,0
+3,House Heating Fuel: Electric,ND,Grand Forks,11378,11374,11583,11846,12312,12848,13313,14551,15249,15522
+4,House Heating Fuel: Fuel Oil,ND,Grand Forks,743,718,672,637,595,504,508,380,338,298
+5,House Heating Fuel: Gas,ND,Grand Forks,11761,11792,11938,11996,12005,12145,12250,11874,11705,11874
+6,House Heating Fuel: Propane,ND,Grand Forks,1768,1847,1744,1855,1826,1794,1793,1860,1950,2093
+7,House Heating Fuel: Wood,ND,Grand Forks,115,114,93,95,102,112,98,110,88,83
+3,House Heating Fuel: Electric,ND,Grant,224,251,248,264,287,313,272,288,273,235
+4,House Heating Fuel: Fuel Oil,ND,Grant,175,154,166,157,157,143,142,141,145,145
+5,House Heating Fuel: Gas,ND,Grant,16,12,4,4,10,26,34,36,40,50
+6,House Heating Fuel: Propane,ND,Grant,644,662,590,610,625,581,598,586,569,579
+7,House Heating Fuel: Wood,ND,Grant,31,24,21,7,4,13,11,12,12,14
+3,House Heating Fuel: Electric,ND,Griggs,530,560,583,632,623,605,556,532,501,475
+4,House Heating Fuel: Fuel Oil,ND,Griggs,287,239,241,204,186,134,142,136,169,183
+5,House Heating Fuel: Gas,ND,Griggs,22,10,9,4,1,1,5,8,7,15
+6,House Heating Fuel: Propane,ND,Griggs,204,223,223,247,214,262,277,302,304,311
+7,House Heating Fuel: Wood,ND,Griggs,22,24,32,35,26,18,12,6,3,3
+3,House Heating Fuel: Electric,ND,Hettinger,267,240,290,285,303,282,254,237,263,224
+4,House Heating Fuel: Fuel Oil,ND,Hettinger,30,24,20,18,14,12,16,15,22,25
+5,House Heating Fuel: Gas,ND,Hettinger,621,589,576,595,537,536,562,589,567,582
+6,House Heating Fuel: Propane,ND,Hettinger,223,187,198,181,202,220,236,198,188,203
+7,House Heating Fuel: Wood,ND,Hettinger,8,7,9,2,2,2,2,2,0,4
+3,House Heating Fuel: Electric,ND,Kidder,268,266,272,259,281,254,290,286,301,288
+4,House Heating Fuel: Fuel Oil,ND,Kidder,123,116,127,108,106,95,62,42,48,47
+5,House Heating Fuel: Gas,ND,Kidder,378,350,357,408,353,413,437,442,418,454
+6,House Heating Fuel: Propane,ND,Kidder,307,295,282,286,292,288,265,258,263,277
+7,House Heating Fuel: Wood,ND,Kidder,17,17,18,6,7,7,6,2,1,5
+3,House Heating Fuel: Electric,ND,LaMoure,913,931,953,947,942,870,809,877,905,931
+4,House Heating Fuel: Fuel Oil,ND,LaMoure,456,431,423,389,369,374,368,328,295,295
+5,House Heating Fuel: Gas,ND,LaMoure,37,32,34,26,24,28,40,39,38,32
+6,House Heating Fuel: Propane,ND,LaMoure,485,475,507,537,517,518,513,470,465,447
+7,House Heating Fuel: Wood,ND,LaMoure,38,25,22,22,16,17,31,45,40,36
+3,House Heating Fuel: Electric,ND,Logan,312,375,398,394,437,445,407,404,415,356
+4,House Heating Fuel: Fuel Oil,ND,Logan,260,250,219,192,203,209,229,211,188,190
+5,House Heating Fuel: Gas,ND,Logan,11,6,3,15,36,43,40,41,26,6
+6,House Heating Fuel: Propane,ND,Logan,179,159,181,178,154,155,173,187,209,253
+7,House Heating Fuel: Wood,ND,Logan,3,2,0,9,11,11,10,15,18,16
+3,House Heating Fuel: Electric,ND,McHenry,872,849,883,957,990,1028,1111,1086,1023,989
+4,House Heating Fuel: Fuel Oil,ND,McHenry,467,407,374,287,220,180,187,194,221,249
+5,House Heating Fuel: Gas,ND,McHenry,116,151,141,149,138,169,141,130,149,140
+6,House Heating Fuel: Propane,ND,McHenry,991,1005,995,1082,1129,1113,1067,1105,1065,1049
+7,House Heating Fuel: Wood,ND,McHenry,49,47,51,35,24,29,37,69,96,99
+3,House Heating Fuel: Electric,ND,McIntosh,397,408,438,482,521,514,576,620,598,598
+4,House Heating Fuel: Fuel Oil,ND,McIntosh,519,521,486,469,441,397,338,313,255,249
+5,House Heating Fuel: Gas,ND,McIntosh,13,12,10,21,44,47,44,55,56,26
+6,House Heating Fuel: Propane,ND,McIntosh,364,313,313,294,282,292,285,280,348,358
+7,House Heating Fuel: Wood,ND,McIntosh,19,16,16,20,24,8,6,6,8,8
+3,House Heating Fuel: Electric,ND,McKenzie,655,784,794,853,882,1193,1376,1424,1572,2007
+4,House Heating Fuel: Fuel Oil,ND,McKenzie,13,16,23,38,35,24,58,29,3,2
+5,House Heating Fuel: Gas,ND,McKenzie,902,838,861,873,930,1012,1270,1323,1487,1470
+6,House Heating Fuel: Propane,ND,McKenzie,846,860,861,846,838,906,850,815,800,786
+7,House Heating Fuel: Wood,ND,McKenzie,28,39,37,22,45,46,38,39,21,11
+3,House Heating Fuel: Electric,ND,McLean,1022,1098,1156,1181,1249,1294,1297,1245,1169,1067
+4,House Heating Fuel: Fuel Oil,ND,McLean,118,97,67,47,45,32,23,27,32,33
+5,House Heating Fuel: Gas,ND,McLean,1775,1699,1735,1716,1804,1882,1900,1891,2019,1998
+6,House Heating Fuel: Propane,ND,McLean,857,821,864,904,810,822,892,961,932,1045
+7,House Heating Fuel: Wood,ND,McLean,58,53,43,33,22,14,14,19,3,3
+3,House Heating Fuel: Electric,ND,Mercer,1732,1718,1717,1715,1643,1593,1654,1587,1536,1436
+4,House Heating Fuel: Fuel Oil,ND,Mercer,97,90,94,59,61,59,41,70,57,40
+5,House Heating Fuel: Gas,ND,Mercer,75,116,110,149,187,181,172,149,154,156
+6,House Heating Fuel: Propane,ND,Mercer,1508,1479,1489,1466,1511,1608,1585,1639,1804,1965
+7,House Heating Fuel: Wood,ND,Mercer,12,23,29,45,55,39,31,23,4,2
+3,House Heating Fuel: Electric,ND,Morton,1440,1569,1585,1620,1993,2240,2489,2649,3007,2889
+4,House Heating Fuel: Fuel Oil,ND,Morton,134,129,84,111,92,75,48,95,88,95
+5,House Heating Fuel: Gas,ND,Morton,7223,7263,7561,7754,7738,7919,8019,8393,8323,8480
+6,House Heating Fuel: Propane,ND,Morton,1514,1506,1444,1413,1428,1500,1512,1586,1609,1577
+7,House Heating Fuel: Wood,ND,Morton,55,36,71,52,71,74,84,74,88,77
+3,House Heating Fuel: Electric,ND,Mountrail,840,952,963,1074,1110,1147,1121,1254,1160,1205
+4,House Heating Fuel: Fuel Oil,ND,Mountrail,71,76,60,35,22,30,18,14,17,17
+5,House Heating Fuel: Gas,ND,Mountrail,676,669,737,753,723,800,870,747,776,872
+6,House Heating Fuel: Propane,ND,Mountrail,1180,1126,1221,1136,1144,1141,1060,1064,1138,1164
+7,House Heating Fuel: Wood,ND,Mountrail,7,19,15,12,10,11,0,19,29,30
+3,House Heating Fuel: Electric,ND,Nelson,659,724,778,757,775,888,849,837,815,804
+4,House Heating Fuel: Fuel Oil,ND,Nelson,378,372,352,328,278,209,190,167,189,197
+5,House Heating Fuel: Gas,ND,Nelson,42,29,36,35,46,36,45,10,10,4
+6,House Heating Fuel: Propane,ND,Nelson,322,284,286,318,373,360,392,431,426,406
+7,House Heating Fuel: Wood,ND,Nelson,12,3,3,6,3,4,8,9,9,25
+3,House Heating Fuel: Electric,ND,Oliver,224,232,198,205,187,172,152,163,130,167
+4,House Heating Fuel: Fuel Oil,ND,Oliver,7,6,10,3,9,13,14,8,11,2
+5,House Heating Fuel: Gas,ND,Oliver,8,6,15,8,11,13,27,33,39,70
+6,House Heating Fuel: Propane,ND,Oliver,445,437,453,434,474,472,459,477,463,423
+7,House Heating Fuel: Wood,ND,Oliver,6,11,23,23,20,12,5,2,2,2
+3,House Heating Fuel: Electric,ND,Pembina,967,1026,1032,1071,1021,988,991,928,874,876
+4,House Heating Fuel: Fuel Oil,ND,Pembina,520,497,500,530,479,455,409,357,306,293
+5,House Heating Fuel: Gas,ND,Pembina,958,950,969,974,953,897,923,885,890,864
+6,House Heating Fuel: Propane,ND,Pembina,727,733,737,636,726,807,811,926,982,997
+7,House Heating Fuel: Wood,ND,Pembina,61,45,55,56,59,69,55,42,51,48
+3,House Heating Fuel: Electric,ND,Pierce,903,922,917,941,928,1082,1092,1032,1014,1026
+4,House Heating Fuel: Fuel Oil,ND,Pierce,443,428,405,411,367,301,320,325,292,287
+5,House Heating Fuel: Gas,ND,Pierce,24,21,23,31,6,15,28,40,42,37
+6,House Heating Fuel: Propane,ND,Pierce,435,515,514,548,586,554,544,550,537,540
+7,House Heating Fuel: Wood,ND,Pierce,19,47,45,45,26,28,14,14,10,3
+3,House Heating Fuel: Electric,ND,Ramsey,1636,1558,1605,1622,1743,1766,1769,1648,1612,1483
+4,House Heating Fuel: Fuel Oil,ND,Ramsey,239,237,196,175,161,132,102,118,100,79
+5,House Heating Fuel: Gas,ND,Ramsey,2127,2250,2306,2275,2341,2368,2370,2327,2348,2270
+6,House Heating Fuel: Propane,ND,Ramsey,600,639,596,616,617,609,570,641,669,694
+7,House Heating Fuel: Wood,ND,Ramsey,17,8,13,7,8,8,6,3,2,13
+3,House Heating Fuel: Electric,ND,Ransom,1027,1102,1169,1188,1208,1243,1279,1282,1272,1230
+4,House Heating Fuel: Fuel Oil,ND,Ransom,566,502,462,455,397,455,457,410,396,388
+5,House Heating Fuel: Gas,ND,Ransom,19,42,37,48,66,66,50,54,42,30
+6,House Heating Fuel: Propane,ND,Ransom,584,519,487,482,499,488,476,505,587,664
+7,House Heating Fuel: Wood,ND,Ransom,117,100,99,76,96,58,45,48,43,36
+3,House Heating Fuel: Electric,ND,Renville,353,323,355,401,431,403,423,406,412,370
+4,House Heating Fuel: Fuel Oil,ND,Renville,35,39,36,36,21,33,21,17,14,19
+5,House Heating Fuel: Gas,ND,Renville,35,40,49,42,38,14,22,15,22,18
+6,House Heating Fuel: Propane,ND,Renville,630,646,573,535,571,551,520,553,557,517
+7,House Heating Fuel: Wood,ND,Renville,25,32,12,22,13,10,12,8,2,3
+3,House Heating Fuel: Electric,ND,Richland,2412,2638,2764,2941,2909,2929,2888,3063,2909,2914
+4,House Heating Fuel: Fuel Oil,ND,Richland,1014,838,729,597,527,463,451,420,413,389
+5,House Heating Fuel: Gas,ND,Richland,1519,1456,1409,1361,1515,1616,1694,1734,1857,1795
+6,House Heating Fuel: Propane,ND,Richland,1356,1351,1332,1460,1406,1383,1385,1370,1346,1423
+7,House Heating Fuel: Wood,ND,Richland,53,61,78,83,67,64,62,52,71,67
+3,House Heating Fuel: Electric,ND,Rolette,2371,2469,2691,2821,2944,3117,3118,3176,3037,2820
+4,House Heating Fuel: Fuel Oil,ND,Rolette,335,292,254,276,255,269,290,305,313,311
+5,House Heating Fuel: Gas,ND,Rolette,63,79,103,109,99,103,55,46,69,92
+6,House Heating Fuel: Propane,ND,Rolette,1659,1563,1521,1413,1293,1125,1173,1073,1086,1269
+7,House Heating Fuel: Wood,ND,Rolette,184,180,164,114,113,123,113,88,82,63
+3,House Heating Fuel: Electric,ND,Sargent,604,626,690,720,751,831,847,926,990,928
+4,House Heating Fuel: Fuel Oil,ND,Sargent,446,416,431,415,339,275,262,213,177,176
+5,House Heating Fuel: Gas,ND,Sargent,14,11,29,24,35,32,39,23,22,46
+6,House Heating Fuel: Propane,ND,Sargent,669,622,572,541,550,549,570,591,604,659
+7,House Heating Fuel: Wood,ND,Sargent,10,16,15,15,8,11,12,10,11,7
+3,House Heating Fuel: Electric,ND,Sheridan,190,225,219,222,187,224,204,216,220,228
+4,House Heating Fuel: Fuel Oil,ND,Sheridan,69,54,40,35,47,63,72,83,79,80
+5,House Heating Fuel: Gas,ND,Sheridan,2,4,8,8,22,20,22,18,24,18
+6,House Heating Fuel: Propane,ND,Sheridan,312,257,266,285,313,318,365,347,347,385
+7,House Heating Fuel: Wood,ND,Sheridan,2,2,3,4,4,3,4,2,5,3
+3,House Heating Fuel: Electric,ND,Sioux,89,82,101,92,89,99,99,95,82,92
+4,House Heating Fuel: Fuel Oil,ND,Sioux,54,45,38,38,23,22,23,18,29,37
+5,House Heating Fuel: Gas,ND,Sioux,56,53,44,42,28,34,38,24,25,30
+6,House Heating Fuel: Propane,ND,Sioux,846,866,864,924,935,912,909,929,924,908
+7,House Heating Fuel: Wood,ND,Sioux,3,5,5,9,10,14,15,18,16,17
+3,House Heating Fuel: Electric,ND,Slope,66,55,60,67,85,76,83,98,105,98
+4,House Heating Fuel: Fuel Oil,ND,Slope,21,17,10,4,5,2,0,0,0,0
+5,House Heating Fuel: Gas,ND,Slope,67,72,56,55,55,72,65,71,62,45
+6,House Heating Fuel: Propane,ND,Slope,148,143,147,160,163,160,146,125,150,170
+7,House Heating Fuel: Wood,ND,Slope,10,6,3,3,3,1,2,2,0,0
+3,House Heating Fuel: Electric,ND,Stark,2913,3053,3143,3593,3728,3915,4180,4436,4566,4477
+4,House Heating Fuel: Fuel Oil,ND,Stark,70,103,140,146,199,184,143,36,36,45
+5,House Heating Fuel: Gas,ND,Stark,5694,5624,5788,5703,5982,6128,6006,6105,6094,6419
+6,House Heating Fuel: Propane,ND,Stark,650,664,663,660,629,719,817,951,1031,1073
+7,House Heating Fuel: Wood,ND,Stark,63,55,43,72,56,65,106,97,74,57
+3,House Heating Fuel: Electric,ND,Steele,399,373,444,381,364,390,411,379,353,285
+4,House Heating Fuel: Fuel Oil,ND,Steele,196,190,148,196,189,191,164,174,133,118
+5,House Heating Fuel: Gas,ND,Steele,12,13,16,9,8,13,19,20,19,15
+6,House Heating Fuel: Propane,ND,Steele,201,235,237,273,318,315,315,316,340,311
+7,House Heating Fuel: Wood,ND,Steele,9,14,21,15,29,23,19,14,16,0
+3,House Heating Fuel: Electric,ND,Stutsman,1921,2056,2272,2362,2402,2403,2316,2386,2486,2360
+4,House Heating Fuel: Fuel Oil,ND,Stutsman,377,321,413,394,374,334,281,231,189,159
+5,House Heating Fuel: Gas,ND,Stutsman,4874,4840,4666,4763,4957,5009,5120,5151,4879,4989
+6,House Heating Fuel: Propane,ND,Stutsman,1215,1090,1026,1134,926,882,969,1000,1057,1156
+7,House Heating Fuel: Wood,ND,Stutsman,42,54,50,41,55,79,82,76,68,52
+3,House Heating Fuel: Electric,ND,Towner,627,574,628,651,645,638,640,696,721,731
+4,House Heating Fuel: Fuel Oil,ND,Towner,194,158,140,131,116,98,91,77,69,75
+5,House Heating Fuel: Gas,ND,Towner,16,18,9,16,11,15,12,19,13,17
+6,House Heating Fuel: Propane,ND,Towner,188,198,202,201,215,223,223,221,224,228
+7,House Heating Fuel: Wood,ND,Towner,16,17,15,12,6,4,3,4,4,0
+3,House Heating Fuel: Electric,ND,Traill,1560,1578,1599,1687,1733,1670,1690,1677,1615,1606
+4,House Heating Fuel: Fuel Oil,ND,Traill,589,507,497,442,432,379,402,362,350,395
+5,House Heating Fuel: Gas,ND,Traill,101,100,84,45,45,45,42,52,48,47
+6,House Heating Fuel: Propane,ND,Traill,1064,1052,1063,1009,955,1015,1034,1095,1184,1164
+7,House Heating Fuel: Wood,ND,Traill,39,50,57,51,90,91,75,90,79,47
+3,House Heating Fuel: Electric,ND,Walsh,1609,1821,1779,1936,2024,1946,1828,1733,1642,1567
+4,House Heating Fuel: Fuel Oil,ND,Walsh,586,565,498,439,367,386,373,394,436,394
+5,House Heating Fuel: Gas,ND,Walsh,1795,1669,1799,1674,1540,1601,1643,1646,1659,1679
+6,House Heating Fuel: Propane,ND,Walsh,583,569,642,728,814,814,831,892,955,983
+7,House Heating Fuel: Wood,ND,Walsh,59,67,65,74,72,88,74,78,73,90
+3,House Heating Fuel: Electric,ND,Ward,5214,5534,5975,6583,7570,7974,8789,9190,9542,9400
+4,House Heating Fuel: Fuel Oil,ND,Ward,307,260,268,211,205,232,188,176,200,185
+5,House Heating Fuel: Gas,ND,Ward,16415,16354,16044,15843,15325,15338,15345,15551,15075,15791
+6,House Heating Fuel: Propane,ND,Ward,1778,1793,1900,2013,1802,1913,1858,1950,2020,2244
+7,House Heating Fuel: Wood,ND,Ward,69,59,55,61,61,46,39,40,36,33
+3,House Heating Fuel: Electric,ND,Wells,661,644,671,696,756,780,754,756,741,748
+4,House Heating Fuel: Fuel Oil,ND,Wells,321,293,270,218,190,200,203,171,133,142
+5,House Heating Fuel: Gas,ND,Wells,39,56,49,50,38,53,55,53,56,90
+6,House Heating Fuel: Propane,ND,Wells,994,1000,955,941,951,930,965,949,969,906
+7,House Heating Fuel: Wood,ND,Wells,5,5,11,12,10,14,25,25,13,9
+3,House Heating Fuel: Electric,ND,Williams,2265,2467,2556,2791,3216,4007,4245,4896,5950,6690
+4,House Heating Fuel: Fuel Oil,ND,Williams,62,52,45,26,25,35,36,46,48,15
+5,House Heating Fuel: Gas,ND,Williams,5472,5421,5739,6224,6450,6724,6797,6694,6380,6220
+6,House Heating Fuel: Propane,ND,Williams,1140,1122,1196,1173,1197,1123,1116,1077,1126,1224
+7,House Heating Fuel: Wood,ND,Williams,55,51,31,32,41,28,30,30,15,6

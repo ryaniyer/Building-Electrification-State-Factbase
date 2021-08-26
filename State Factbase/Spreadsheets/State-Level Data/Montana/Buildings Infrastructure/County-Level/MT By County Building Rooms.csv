@@ -1,0 +1,561 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+26,Median Number of Rooms,MT,Beaverhead,5.4,5.4,5.4,5.3,5.2,5.2,5.1,5.1,5.2,5.0
+27,Number of Rooms: 1,MT,Beaverhead,74,87,119,149,142,169,206,225,269,323
+28,Number of Rooms: 2,MT,Beaverhead,179,171,182,166,168,182,199,195,201,218
+29,Number of Rooms: 3,MT,Beaverhead,424,475,492,521,537,644,731,745,751,795
+30,Number of Rooms: 4,MT,Beaverhead,868,854,840,918,1012,957,1012,988,958,886
+31,Number of Rooms: 5,MT,Beaverhead,1137,1095,1064,1075,1038,916,817,797,744,828
+32,Number of Rooms: 6,MT,Beaverhead,856,891,834,718,614,732,649,621,695,688
+33,Number of Rooms: 7,MT,Beaverhead,538,514,482,462,505,505,464,492,509,427
+34,Number of Rooms: 8,MT,Beaverhead,359,352,377,428,421,400,504,524,466,444
+35,Number of Rooms: 9+,MT,Beaverhead,721,784,859,816,836,754,674,731,738,735
+26,Median Number of Rooms,MT,Big Horn,5.1,5.1,5.1,5.1,5.1,5.1,5.1,5.2,5.2,5.3
+27,Number of Rooms: 1,MT,Big Horn,22,27,35,47,39,42,49,48,56,131
+28,Number of Rooms: 2,MT,Big Horn,151,207,216,183,119,196,137,117,136,147
+29,Number of Rooms: 3,MT,Big Horn,275,192,203,241,285,289,266,258,211,173
+30,Number of Rooms: 4,MT,Big Horn,982,1104,1060,935,992,981,911,853,887,878
+31,Number of Rooms: 5,MT,Big Horn,1526,1437,1480,1529,1448,1461,1506,1498,1469,1355
+32,Number of Rooms: 6,MT,Big Horn,903,905,861,899,902,922,891,963,946,979
+33,Number of Rooms: 7,MT,Big Horn,236,226,262,286,344,335,406,487,571,618
+34,Number of Rooms: 8,MT,Big Horn,219,279,274,250,256,242,216,242,219,282
+35,Number of Rooms: 9+,MT,Big Horn,388,312,309,306,290,209,286,271,230,169
+26,Median Number of Rooms,MT,Blaine,5.4,5.4,5.5,5.5,5.5,5.4,5.4,5.2,5.3,5.2
+27,Number of Rooms: 1,MT,Blaine,14,36,66,74,87,88,78,50,37,38
+28,Number of Rooms: 2,MT,Blaine,34,23,41,45,48,46,63,52,63,54
+29,Number of Rooms: 3,MT,Blaine,138,149,154,164,153,182,187,173,194,224
+30,Number of Rooms: 4,MT,Blaine,467,495,457,408,449,473,478,565,581,563
+31,Number of Rooms: 5,MT,Blaine,851,782,684,705,694,701,690,780,722,749
+32,Number of Rooms: 6,MT,Blaine,582,551,640,658,613,594,596,545,539,494
+33,Number of Rooms: 7,MT,Blaine,347,394,390,356,377,346,309,266,242,213
+34,Number of Rooms: 8,MT,Blaine,219,175,168,164,160,148,132,138,157,188
+35,Number of Rooms: 9+,MT,Blaine,227,243,239,247,249,241,283,279,307,318
+26,Median Number of Rooms,MT,Broadwater,5.4,5.3,5.3,5.3,5.4,5.5,5.5,5.7,5.8,5.7
+27,Number of Rooms: 1,MT,Broadwater,86,73,43,89,80,84,93,86,43,82
+28,Number of Rooms: 2,MT,Broadwater,86,139,138,146,157,122,63,34,44,25
+29,Number of Rooms: 3,MT,Broadwater,144,135,147,127,142,134,173,183,189,151
+30,Number of Rooms: 4,MT,Broadwater,312,327,445,506,420,447,407,431,335,397
+31,Number of Rooms: 5,MT,Broadwater,537,581,719,613,621,590,632,550,581,624
+32,Number of Rooms: 6,MT,Broadwater,406,395,420,394,473,436,446,479,510,498
+33,Number of Rooms: 7,MT,Broadwater,196,186,216,236,290,290,312,401,383,363
+34,Number of Rooms: 8,MT,Broadwater,194,182,197,177,187,199,171,198,240,231
+35,Number of Rooms: 9+,MT,Broadwater,214,269,337,401,337,397,394,381,415,365
+26,Median Number of Rooms,MT,Carbon,5.1,5.1,5.2,5.3,5.3,5.3,5.5,5.5,5.5,5.5
+27,Number of Rooms: 1,MT,Carbon,197,214,182,191,184,191,202,234,189,143
+28,Number of Rooms: 2,MT,Carbon,243,284,293,261,304,235,173,171,190,227
+29,Number of Rooms: 3,MT,Carbon,584,649,627,561,575,604,515,534,575,610
+30,Number of Rooms: 4,MT,Carbon,1292,1170,1039,1056,1017,1045,1014,1055,1018,986
+31,Number of Rooms: 5,MT,Carbon,1367,1474,1552,1476,1377,1394,1286,1241,1302,1302
+32,Number of Rooms: 6,MT,Carbon,1044,994,1076,1130,1154,1116,1312,1188,1178,1221
+33,Number of Rooms: 7,MT,Carbon,684,613,643,714,713,725,719,854,832,779
+34,Number of Rooms: 8,MT,Carbon,367,417,434,432,510,493,501,501,505,442
+35,Number of Rooms: 9+,MT,Carbon,514,562,578,611,637,670,737,765,767,860
+26,Median Number of Rooms,MT,Carter,5.0,4.9,5.1,5.0,5.1,5.2,5.4,5.4,5.5,5.7
+27,Number of Rooms: 1,MT,Carter,25,26,22,18,18,10,12,12,7,9
+28,Number of Rooms: 2,MT,Carter,3,13,36,50,49,52,48,21,6,16
+29,Number of Rooms: 3,MT,Carter,88,80,92,90,75,69,68,69,64,62
+30,Number of Rooms: 4,MT,Carter,215,221,167,158,152,139,123,152,180,156
+31,Number of Rooms: 5,MT,Carter,194,190,168,188,180,172,154,165,161,125
+32,Number of Rooms: 6,MT,Carter,109,113,135,142,139,154,150,149,135,151
+33,Number of Rooms: 7,MT,Carter,64,57,56,35,42,41,53,55,78,108
+34,Number of Rooms: 8,MT,Carter,75,70,80,50,65,58,60,50,61,43
+35,Number of Rooms: 9+,MT,Carter,75,60,72,75,83,101,121,138,130,114
+26,Median Number of Rooms,MT,Cascade,5.6,5.6,5.7,5.7,5.7,5.7,5.7,5.7,5.7,5.7
+27,Number of Rooms: 1,MT,Cascade,752,899,975,1072,1054,1168,1150,1192,1184,1242
+28,Number of Rooms: 2,MT,Cascade,997,942,894,825,708,646,590,612,730,767
+29,Number of Rooms: 3,MT,Cascade,3069,3220,3305,3478,3477,2992,2898,2729,2725,2600
+30,Number of Rooms: 4,MT,Cascade,6652,6525,6281,5928,6255,6584,6601,6634,6773,6859
+31,Number of Rooms: 5,MT,Cascade,6425,6205,5923,5868,6178,5979,6223,6655,6847,6727
+32,Number of Rooms: 6,MT,Cascade,5586,5931,6067,6332,6119,6031,5931,5729,5718,6087
+33,Number of Rooms: 7,MT,Cascade,4077,4118,4306,4041,4184,4337,4475,4838,4919,5189
+34,Number of Rooms: 8,MT,Cascade,3817,3639,3648,3981,3942,3934,4003,4078,3839,3846
+35,Number of Rooms: 9+,MT,Cascade,5515,5637,5861,5781,5537,5882,5843,5846,5823,5540
+26,Median Number of Rooms,MT,Chouteau,5.6,5.7,5.8,5.9,5.9,5.9,6.0,5.9,5.8,5.8
+27,Number of Rooms: 1,MT,Chouteau,12,17,24,27,41,55,70,63,88,85
+28,Number of Rooms: 2,MT,Chouteau,72,77,73,68,53,57,49,56,59,65
+29,Number of Rooms: 3,MT,Chouteau,94,133,144,152,132,157,133,119,135,139
+30,Number of Rooms: 4,MT,Chouteau,445,427,396,314,320,298,267,270,251,205
+31,Number of Rooms: 5,MT,Chouteau,715,659,590,552,543,525,537,616,667,723
+32,Number of Rooms: 6,MT,Chouteau,748,730,753,761,793,797,801,766,737,786
+33,Number of Rooms: 7,MT,Chouteau,404,370,357,386,384,411,484,502,479,445
+34,Number of Rooms: 8,MT,Chouteau,205,234,257,314,275,243,232,239,218,227
+35,Number of Rooms: 9+,MT,Chouteau,173,221,281,293,340,326,290,275,280,247
+26,Median Number of Rooms,MT,Custer,5.6,5.6,5.5,5.7,5.7,5.6,5.7,5.9,5.9,5.9
+27,Number of Rooms: 1,MT,Custer,131,133,143,89,97,103,175,216,256,279
+28,Number of Rooms: 2,MT,Custer,62,110,203,191,204,199,173,88,85,100
+29,Number of Rooms: 3,MT,Custer,543,492,482,482,491,474,466,342,361,354
+30,Number of Rooms: 4,MT,Custer,1034,982,968,924,819,766,752,801,792,744
+31,Number of Rooms: 5,MT,Custer,902,958,973,959,1016,1141,1102,1117,1014,1041
+32,Number of Rooms: 6,MT,Custer,854,819,723,719,816,755,746,764,818,775
+33,Number of Rooms: 7,MT,Custer,513,557,591,650,641,644,621,726,758,794
+34,Number of Rooms: 8,MT,Custer,604,605,623,639,597,613,559,584,621,653
+35,Number of Rooms: 9+,MT,Custer,886,894,852,911,908,890,1012,1045,984,960
+26,Median Number of Rooms,MT,Daniels,5.8,6.0,6.0,5.9,6.1,6.1,6.1,6.1,6.1,5.9
+27,Number of Rooms: 1,MT,Daniels,0,0,0,0,0,0,0,11,12,17
+28,Number of Rooms: 2,MT,Daniels,0,0,12,10,11,15,14,0,0,0
+29,Number of Rooms: 3,MT,Daniels,86,89,73,65,50,64,67,57,65,62
+30,Number of Rooms: 4,MT,Daniels,183,155,185,214,224,208,245,231,195,211
+31,Number of Rooms: 5,MT,Daniels,230,181,159,184,172,158,151,187,164,195
+32,Number of Rooms: 6,MT,Daniels,181,228,231,210,185,185,169,147,194,203
+33,Number of Rooms: 7,MT,Daniels,140,169,159,151,203,186,190,191,137,98
+34,Number of Rooms: 8,MT,Daniels,99,95,68,99,104,111,112,119,115,115
+35,Number of Rooms: 9+,MT,Daniels,176,174,202,174,182,191,196,194,230,233
+26,Median Number of Rooms,MT,Dawson,6.1,6.0,5.9,6.0,6.1,5.9,5.9,6.0,5.9,6.0
+27,Number of Rooms: 1,MT,Dawson,18,18,9,68,77,124,135,170,139,167
+28,Number of Rooms: 2,MT,Dawson,34,0,14,111,128,135,162,146,41,34
+29,Number of Rooms: 3,MT,Dawson,178,185,341,325,330,290,220,131,164,137
+30,Number of Rooms: 4,MT,Dawson,667,734,805,568,555,577,567,564,733,719
+31,Number of Rooms: 5,MT,Dawson,783,778,688,773,713,769,837,823,853,832
+32,Number of Rooms: 6,MT,Dawson,716,750,595,621,626,591,573,635,692,638
+33,Number of Rooms: 7,MT,Dawson,396,413,427,582,652,626,576,614,499,594
+34,Number of Rooms: 8,MT,Dawson,447,415,405,417,467,471,431,470,482,532
+35,Number of Rooms: 9+,MT,Dawson,979,929,965,813,750,734,845,783,822,796
+26,Median Number of Rooms,MT,Deer Lodge,5.4,5.3,5.3,5.3,5.2,5.1,5.0,5.0,4.9,4.9
+27,Number of Rooms: 1,MT,Deer Lodge,125,146,146,146,121,170,180,170,133,89
+28,Number of Rooms: 2,MT,Deer Lodge,91,80,60,85,84,112,147,147,165,154
+29,Number of Rooms: 3,MT,Deer Lodge,434,423,410,380,411,618,718,790,819,799
+30,Number of Rooms: 4,MT,Deer Lodge,942,928,932,1035,1046,981,973,949,1056,1172
+31,Number of Rooms: 5,MT,Deer Lodge,1118,1219,1236,1165,1220,1142,1098,1071,1051,910
+32,Number of Rooms: 6,MT,Deer Lodge,879,864,903,936,855,863,787,710,688,676
+33,Number of Rooms: 7,MT,Deer Lodge,577,518,526,575,558,467,488,537,516,582
+34,Number of Rooms: 8,MT,Deer Lodge,418,441,404,296,359,331,299,390,397,418
+35,Number of Rooms: 9+,MT,Deer Lodge,529,496,509,505,479,447,432,418,367,403
+26,Median Number of Rooms,MT,Fallon,5.8,5.8,5.9,5.4,5.4,5.2,5.4,5.5,5.7,6.0
+27,Number of Rooms: 1,MT,Fallon,0,5,5,5,5,4,5,6,14,16
+28,Number of Rooms: 2,MT,Fallon,10,16,19,21,27,39,30,28,35,32
+29,Number of Rooms: 3,MT,Fallon,102,93,82,105,84,79,72,56,34,51
+30,Number of Rooms: 4,MT,Fallon,193,191,172,177,224,259,253,269,318,241
+31,Number of Rooms: 5,MT,Fallon,354,360,365,451,461,479,431,399,322,293
+32,Number of Rooms: 6,MT,Fallon,231,240,260,221,209,169,204,232,244,250
+33,Number of Rooms: 7,MT,Fallon,169,144,151,155,155,151,163,177,175,244
+34,Number of Rooms: 8,MT,Fallon,155,160,160,118,131,101,111,142,161,156
+35,Number of Rooms: 9+,MT,Fallon,247,269,260,219,182,198,214,222,235,251
+26,Median Number of Rooms,MT,Fergus,5.4,5.4,5.6,5.5,5.5,5.6,5.6,5.5,5.6,5.5
+27,Number of Rooms: 1,MT,Fergus,200,166,177,195,90,145,146,194,157,245
+28,Number of Rooms: 2,MT,Fergus,83,125,196,271,305,339,316,370,247,279
+29,Number of Rooms: 3,MT,Fergus,556,504,488,406,376,366,340,336,320,333
+30,Number of Rooms: 4,MT,Fergus,1105,1123,1016,1016,988,874,869,921,1015,907
+31,Number of Rooms: 5,MT,Fergus,1083,1058,976,1067,1125,1145,1182,1165,1143,1235
+32,Number of Rooms: 6,MT,Fergus,878,965,924,791,696,754,701,699,806,837
+33,Number of Rooms: 7,MT,Fergus,566,549,585,585,655,755,781,837,867,776
+34,Number of Rooms: 8,MT,Fergus,566,548,525,626,611,575,573,600,535,551
+35,Number of Rooms: 9+,MT,Fergus,765,787,941,862,967,872,902,784,805,733
+26,Median Number of Rooms,MT,Flathead,5.3,5.3,5.3,5.3,5.3,5.3,5.3,5.4,5.4,5.4
+27,Number of Rooms: 1,MT,Flathead,856,819,1202,1336,1411,1283,1470,1349,1351,1259
+28,Number of Rooms: 2,MT,Flathead,1823,1761,1657,1569,1846,1878,1673,1756,1620,1629
+29,Number of Rooms: 3,MT,Flathead,3092,3402,3654,3653,3769,3898,4089,4576,4825,4845
+30,Number of Rooms: 4,MT,Flathead,8268,8612,8751,8732,8259,7681,7689,7432,7395,7358
+31,Number of Rooms: 5,MT,Flathead,10744,10177,10092,10083,10431,10521,10391,9974,10227,10013
+32,Number of Rooms: 6,MT,Flathead,8127,8905,8948,8671,8566,8436,8028,7822,7913,8204
+33,Number of Rooms: 7,MT,Flathead,4865,4603,4491,4434,4692,5088,5416,5896,6007,5907
+34,Number of Rooms: 8,MT,Flathead,3230,3597,3589,4018,3904,3996,4050,4197,3870,3748
+35,Number of Rooms: 9+,MT,Flathead,3935,4245,4153,4370,4306,4502,4601,5152,5239,5822
+26,Median Number of Rooms,MT,Gallatin,5.4,5.3,5.3,5.3,5.3,5.3,5.3,5.4,5.4,5.4
+27,Number of Rooms: 1,MT,Gallatin,586,617,756,851,897,926,1029,1042,1212,1340
+28,Number of Rooms: 2,MT,Gallatin,1591,1471,1470,1499,1523,1517,1674,1790,1875,2009
+29,Number of Rooms: 3,MT,Gallatin,3707,3946,4244,4690,4802,4886,4961,4890,4517,4724
+30,Number of Rooms: 4,MT,Gallatin,7550,8130,8249,7897,8167,8297,7952,8144,8411,8257
+31,Number of Rooms: 5,MT,Gallatin,7942,8146,8051,8158,8140,8211,8425,8691,8767,9039
+32,Number of Rooms: 6,MT,Gallatin,6353,5994,6144,5893,5961,5770,5982,6566,7484,7637
+33,Number of Rooms: 7,MT,Gallatin,4297,4256,4353,4285,4444,4651,5137,5037,5222,5307
+34,Number of Rooms: 8,MT,Gallatin,3613,3800,3406,3468,3494,3711,3647,3931,3840,3841
+35,Number of Rooms: 9+,MT,Gallatin,4809,5185,5532,5898,5860,6027,6125,6509,6648,7324
+26,Median Number of Rooms,MT,Garfield,5.0,4.9,4.9,4.9,4.7,4.7,4.9,4.9,5.0,5.0
+27,Number of Rooms: 1,MT,Garfield,15,20,16,19,31,27,21,26,21,33
+28,Number of Rooms: 2,MT,Garfield,26,38,43,37,49,44,33,20,22,9
+29,Number of Rooms: 3,MT,Garfield,97,123,125,102,95,94,75,75,80,79
+30,Number of Rooms: 4,MT,Garfield,184,178,167,186,213,203,210,214,191,182
+31,Number of Rooms: 5,MT,Garfield,233,197,176,174,178,213,221,216,211,211
+32,Number of Rooms: 6,MT,Garfield,132,138,135,140,122,110,113,130,121,112
+33,Number of Rooms: 7,MT,Garfield,97,77,79,79,61,56,66,64,59,48
+34,Number of Rooms: 8,MT,Garfield,44,41,45,43,46,40,41,42,56,56
+35,Number of Rooms: 9+,MT,Garfield,65,52,67,62,53,48,62,59,65,84
+26,Median Number of Rooms,MT,Glacier,5.0,5.0,5.0,5.0,5.1,5.1,5.0,4.9,4.9,4.8
+27,Number of Rooms: 1,MT,Glacier,109,117,106,104,114,117,121,145,158,127
+28,Number of Rooms: 2,MT,Glacier,356,359,352,352,253,190,168,173,133,160
+29,Number of Rooms: 3,MT,Glacier,486,455,507,605,538,470,498,527,499,586
+30,Number of Rooms: 4,MT,Glacier,1196,1191,1127,1063,1007,1064,1115,1202,1257,1407
+31,Number of Rooms: 5,MT,Glacier,1126,1123,1123,1094,1304,1465,1492,1590,1676,1443
+32,Number of Rooms: 6,MT,Glacier,862,941,983,987,865,881,778,758,708,770
+33,Number of Rooms: 7,MT,Glacier,593,637,586,550,621,580,541,498,477,423
+34,Number of Rooms: 8,MT,Glacier,282,237,277,302,315,284,253,220,227,191
+35,Number of Rooms: 9+,MT,Glacier,334,295,281,271,310,277,343,269,267,290
+26,Median Number of Rooms,MT,Golden Valley,5.0,5.2,5.1,5.3,5.3,5.3,5.4,5.3,5.4,5.4
+27,Number of Rooms: 1,MT,Golden Valley,12,12,11,4,8,14,8,21,20,10
+28,Number of Rooms: 2,MT,Golden Valley,21,21,20,20,18,5,3,14,13,12
+29,Number of Rooms: 3,MT,Golden Valley,27,23,34,22,28,19,22,28,35,39
+30,Number of Rooms: 4,MT,Golden Valley,95,74,88,83,93,99,100,94,97,100
+31,Number of Rooms: 5,MT,Golden Valley,135,145,136,133,107,118,105,86,77,89
+32,Number of Rooms: 6,MT,Golden Valley,64,78,74,77,82,80,91,82,90,92
+33,Number of Rooms: 7,MT,Golden Valley,52,51,47,37,35,26,31,31,43,52
+34,Number of Rooms: 8,MT,Golden Valley,21,19,21,25,28,37,35,40,49,42
+35,Number of Rooms: 9+,MT,Golden Valley,31,47,50,57,58,58,58,59,47,42
+26,Median Number of Rooms,MT,Granite,4.5,4.4,4.5,4.4,4.4,4.4,4.4,4.6,4.6,4.7
+27,Number of Rooms: 1,MT,Granite,152,146,151,221,179,223,258,257,182,228
+28,Number of Rooms: 2,MT,Granite,282,284,266,242,239,175,180,191,236,236
+29,Number of Rooms: 3,MT,Granite,373,433,443,377,407,383,345,314,321,295
+30,Number of Rooms: 4,MT,Granite,554,559,556,599,637,664,641,607,635,557
+31,Number of Rooms: 5,MT,Granite,511,476,477,454,500,520,525,591,611,627
+32,Number of Rooms: 6,MT,Granite,342,372,419,381,377,375,315,314,336,322
+33,Number of Rooms: 7,MT,Granite,239,269,239,206,176,141,164,199,236,268
+34,Number of Rooms: 8,MT,Granite,140,118,112,148,121,145,174,168,117,114
+35,Number of Rooms: 9+,MT,Granite,86,94,115,170,166,183,180,194,158,185
+26,Median Number of Rooms,MT,Hill,5.8,5.7,5.7,5.6,5.7,5.7,5.5,5.6,5.7,5.7
+27,Number of Rooms: 1,MT,Hill,128,167,195,292,260,211,197,210,110,115
+28,Number of Rooms: 2,MT,Hill,141,167,97,117,182,168,153,164,159,83
+29,Number of Rooms: 3,MT,Hill,524,591,655,520,458,537,591,650,691,654
+30,Number of Rooms: 4,MT,Hill,1103,981,936,1134,1007,1049,1102,1073,1013,1213
+31,Number of Rooms: 5,MT,Hill,1473,1478,1541,1411,1488,1471,1517,1497,1474,1355
+32,Number of Rooms: 6,MT,Hill,1076,1032,1021,1023,1072,1084,1015,1075,1234,1213
+33,Number of Rooms: 7,MT,Hill,1037,994,895,841,842,848,895,830,794,877
+34,Number of Rooms: 8,MT,Hill,796,721,749,761,694,650,635,711,732,753
+35,Number of Rooms: 9+,MT,Hill,1013,1135,1173,1132,1221,1214,1107,1101,1117,1085
+26,Median Number of Rooms,MT,Jefferson,5.9,5.9,5.9,6.0,6.1,6.2,6.3,6.3,6.3,6.4
+27,Number of Rooms: 1,MT,Jefferson,60,96,126,112,115,132,118,187,230,239
+28,Number of Rooms: 2,MT,Jefferson,73,104,107,87,118,116,119,139,154,121
+29,Number of Rooms: 3,MT,Jefferson,301,352,285,288,270,181,255,241,258,299
+30,Number of Rooms: 4,MT,Jefferson,663,612,678,637,519,587,487,484,461,460
+31,Number of Rooms: 5,MT,Jefferson,1042,1062,1068,1006,973,942,826,770,720,735
+32,Number of Rooms: 6,MT,Jefferson,763,719,669,743,855,838,932,914,874,776
+33,Number of Rooms: 7,MT,Jefferson,594,561,558,680,690,626,623,589,564,682
+34,Number of Rooms: 8,MT,Jefferson,615,623,570,498,537,567,578,583,631,645
+35,Number of Rooms: 9+,MT,Jefferson,795,854,957,978,975,1058,1104,1197,1220,1155
+26,Median Number of Rooms,MT,Judith Basin,5.6,5.6,5.5,5.6,5.7,5.7,5.6,5.4,5.4,5.5
+27,Number of Rooms: 1,MT,Judith Basin,12,11,20,26,20,41,55,72,85,88
+28,Number of Rooms: 2,MT,Judith Basin,47,51,54,54,45,34,46,38,37,38
+29,Number of Rooms: 3,MT,Judith Basin,87,100,78,104,94,90,101,109,108,126
+30,Number of Rooms: 4,MT,Judith Basin,154,152,172,145,147,149,176,178,189,173
+31,Number of Rooms: 5,MT,Judith Basin,320,340,322,307,292,288,261,297,285,261
+32,Number of Rooms: 6,MT,Judith Basin,399,401,350,366,323,297,281,232,207,219
+33,Number of Rooms: 7,MT,Judith Basin,125,141,140,157,167,181,164,124,129,102
+34,Number of Rooms: 8,MT,Judith Basin,88,94,95,95,96,100,89,86,108,126
+35,Number of Rooms: 9+,MT,Judith Basin,89,81,83,79,139,147,165,190,225,216
+26,Median Number of Rooms,MT,Lake,5.3,5.3,5.3,5.3,5.3,5.3,5.3,5.2,5.3,5.3
+27,Number of Rooms: 1,MT,Lake,234,315,293,265,390,478,539,666,676,538
+28,Number of Rooms: 2,MT,Lake,539,498,563,514,509,487,687,707,728,733
+29,Number of Rooms: 3,MT,Lake,1672,1548,1667,1714,1480,1366,1308,1280,1203,1309
+30,Number of Rooms: 4,MT,Lake,2843,3013,2906,2961,3093,3058,3127,3247,3089,3157
+31,Number of Rooms: 5,MT,Lake,3305,3557,3475,3515,3496,3566,3446,3398,3400,3388
+32,Number of Rooms: 6,MT,Lake,2891,2793,2941,3055,3028,3153,3070,3079,2937,3034
+33,Number of Rooms: 7,MT,Lake,1899,2038,2071,2019,1900,1781,1541,1564,1734,1652
+34,Number of Rooms: 8,MT,Lake,1245,1147,1177,1206,1174,1141,1201,1206,1291,1357
+35,Number of Rooms: 9+,MT,Lake,1461,1457,1391,1295,1519,1583,1666,1664,1772,1718
+26,Median Number of Rooms,MT,Lewis and Clark,5.4,5.5,5.5,5.5,5.5,5.5,5.4,5.5,5.5,5.6
+27,Number of Rooms: 1,MT,Lewis and Clark,791,742,801,906,851,798,1029,1119,964,967
+28,Number of Rooms: 2,MT,Lewis and Clark,959,886,820,1084,1346,1464,1413,1320,1283,997
+29,Number of Rooms: 3,MT,Lewis and Clark,1716,2104,2368,2451,2836,2890,3000,2845,2651,2431
+30,Number of Rooms: 4,MT,Lewis and Clark,5763,5388,5129,4940,4925,5155,5203,5498,5595,5507
+31,Number of Rooms: 5,MT,Lewis and Clark,5923,5774,5739,5665,5375,5169,5188,5040,5329,5350
+32,Number of Rooms: 6,MT,Lewis and Clark,4268,4403,4550,4224,4270,4236,4129,4009,4113,4427
+33,Number of Rooms: 7,MT,Lewis and Clark,3321,3507,3687,3909,4006,4102,3842,3971,3926,4058
+34,Number of Rooms: 8,MT,Lewis and Clark,2847,2809,2807,2755,2654,2737,2913,3073,3140,3179
+35,Number of Rooms: 9+,MT,Lewis and Clark,3843,4274,4161,4242,4140,4003,3929,4375,4432,4705
+26,Median Number of Rooms,MT,Liberty,5.9,6.1,6.0,5.9,5.9,5.8,5.7,5.6,5.9,5.7
+27,Number of Rooms: 1,MT,Liberty,61,65,76,94,74,64,80,61,26,23
+28,Number of Rooms: 2,MT,Liberty,7,3,12,12,11,12,21,33,35,40
+29,Number of Rooms: 3,MT,Liberty,79,68,44,41,56,46,47,77,90,80
+30,Number of Rooms: 4,MT,Liberty,100,130,139,154,156,180,137,155,123,98
+31,Number of Rooms: 5,MT,Liberty,195,161,207,201,208,228,236,216,235,283
+32,Number of Rooms: 6,MT,Liberty,244,216,175,184,148,107,108,125,136,183
+33,Number of Rooms: 7,MT,Liberty,161,166,186,157,167,165,162,113,109,103
+34,Number of Rooms: 8,MT,Liberty,122,149,123,112,108,126,115,137,189,169
+35,Number of Rooms: 9+,MT,Liberty,133,167,183,188,187,197,175,193,177,150
+26,Median Number of Rooms,MT,Lincoln,4.9,5.0,5.0,5.0,5.1,5.2,5.2,5.3,5.3,5.3
+27,Number of Rooms: 1,MT,Lincoln,520,593,566,571,484,428,419,388,357,365
+28,Number of Rooms: 2,MT,Lincoln,565,609,462,432,474,453,284,378,378,372
+29,Number of Rooms: 3,MT,Lincoln,1355,1147,1218,1187,1075,1046,1124,1039,984,895
+30,Number of Rooms: 4,MT,Lincoln,2098,2020,2045,2218,2335,2376,2290,2383,2273,2237
+31,Number of Rooms: 5,MT,Lincoln,2681,2677,2580,2521,2260,2086,2238,2166,2226,2388
+32,Number of Rooms: 6,MT,Lincoln,1729,1711,1666,1720,1905,2083,2049,2204,2193,2013
+33,Number of Rooms: 7,MT,Lincoln,1004,1129,1154,1128,1246,1231,1279,1347,1439,1325
+34,Number of Rooms: 8,MT,Lincoln,513,598,766,788,848,779,736,721,734,772
+35,Number of Rooms: 9+,MT,Lincoln,579,762,899,856,868,1016,1065,1023,1069,1224
+26,Median Number of Rooms,MT,McCone,5.5,5.7,5.8,6.0,6.0,5.8,5.6,5.5,5.4,5.4
+27,Number of Rooms: 1,MT,McCone,19,19,22,17,13,6,6,11,11,11
+28,Number of Rooms: 2,MT,McCone,9,0,3,3,3,3,5,3,14,16
+29,Number of Rooms: 3,MT,McCone,48,60,55,53,56,66,73,76,81,79
+30,Number of Rooms: 4,MT,McCone,171,137,132,107,106,146,142,164,141,154
+31,Number of Rooms: 5,MT,McCone,269,277,261,244,225,242,267,271,310,300
+32,Number of Rooms: 6,MT,McCone,140,123,139,176,212,187,171,154,127,135
+33,Number of Rooms: 7,MT,McCone,175,180,172,158,149,120,129,119,117,72
+34,Number of Rooms: 8,MT,McCone,103,136,115,124,105,81,50,74,51,87
+35,Number of Rooms: 9+,MT,McCone,88,111,141,149,164,178,179,176,193,210
+26,Median Number of Rooms,MT,Madison,5.0,5.1,5.1,5.2,5.2,5.2,5.2,5.3,5.2,5.2
+27,Number of Rooms: 1,MT,Madison,312,301,456,468,541,476,459,383,435,468
+28,Number of Rooms: 2,MT,Madison,325,348,409,371,397,355,416,372,403,355
+29,Number of Rooms: 3,MT,Madison,708,680,617,611,601,533,597,669,689,714
+30,Number of Rooms: 4,MT,Madison,1161,1150,1067,1034,996,1061,951,971,974,1053
+31,Number of Rooms: 5,MT,Madison,1389,1299,1378,1403,1345,1413,1409,1466,1372,1339
+32,Number of Rooms: 6,MT,Madison,939,997,1053,1019,1119,1189,1143,1112,1154,1027
+33,Number of Rooms: 7,MT,Madison,775,787,730,778,801,772,797,804,736,689
+34,Number of Rooms: 8,MT,Madison,399,486,548,612,632,636,639,577,523,603
+35,Number of Rooms: 9+,MT,Madison,482,532,542,584,500,496,495,645,725,754
+26,Median Number of Rooms,MT,Meagher,4.4,4.5,4.7,4.7,5.0,4.9,4.9,4.9,5.2,5.2
+27,Number of Rooms: 1,MT,Meagher,92,78,67,70,65,48,53,71,61,70
+28,Number of Rooms: 2,MT,Meagher,136,152,117,124,85,90,89,93,73,86
+29,Number of Rooms: 3,MT,Meagher,145,136,167,175,132,142,162,139,109,100
+30,Number of Rooms: 4,MT,Meagher,352,310,256,236,261,256,264,269,240,229
+31,Number of Rooms: 5,MT,Meagher,266,254,258,259,259,309,297,292,308,292
+32,Number of Rooms: 6,MT,Meagher,175,145,162,145,181,145,155,168,187,183
+33,Number of Rooms: 7,MT,Meagher,97,94,123,123,134,132,166,167,197,211
+34,Number of Rooms: 8,MT,Meagher,50,67,88,97,115,100,74,87,92,86
+35,Number of Rooms: 9+,MT,Meagher,66,86,99,93,119,128,118,105,119,111
+26,Median Number of Rooms,MT,Mineral,5.1,5.1,5.0,4.9,4.9,5.0,4.8,4.9,4.9,4.9
+27,Number of Rooms: 1,MT,Mineral,50,54,35,54,72,65,82,126,107,97
+28,Number of Rooms: 2,MT,Mineral,62,59,86,71,76,101,93,120,169,172
+29,Number of Rooms: 3,MT,Mineral,212,223,280,291,287,238,330,277,287,272
+30,Number of Rooms: 4,MT,Mineral,464,506,536,558,574,527,529,511,476,517
+31,Number of Rooms: 5,MT,Mineral,627,655,603,564,600,582,553,621,544,548
+32,Number of Rooms: 6,MT,Mineral,521,534,507,498,431,480,383,428,433,403
+33,Number of Rooms: 7,MT,Mineral,204,205,227,189,207,223,221,195,226,228
+34,Number of Rooms: 8,MT,Mineral,97,88,82,124,98,118,143,117,107,122
+35,Number of Rooms: 9+,MT,Mineral,127,87,76,95,118,123,114,108,151,145
+26,Median Number of Rooms,MT,Missoula,5.2,5.2,5.2,5.2,5.2,5.2,5.2,5.2,5.2,5.1
+27,Number of Rooms: 1,MT,Missoula,1199,1314,1455,1558,1706,1800,1817,2110,2105,2199
+28,Number of Rooms: 2,MT,Missoula,1753,2032,2256,2483,2652,2756,2740,2811,2755,2723
+29,Number of Rooms: 3,MT,Missoula,4978,4852,4973,4676,4823,5200,5502,6055,6464,6752
+30,Number of Rooms: 4,MT,Missoula,10182,10137,9762,10016,9506,9231,9550,9220,9250,9865
+31,Number of Rooms: 5,MT,Missoula,9669,9162,9005,9224,9286,9299,9220,8811,8577,8969
+32,Number of Rooms: 6,MT,Missoula,6281,6338,6620,6562,6625,6643,6539,6167,6359,6076
+33,Number of Rooms: 7,MT,Missoula,4932,5357,5312,5305,5297,5065,4795,5294,5453,5237
+34,Number of Rooms: 8,MT,Missoula,3829,3904,3884,3956,3855,4045,4094,4382,4269,4300
+35,Number of Rooms: 9+,MT,Missoula,6108,6512,6747,6519,6990,7017,7206,7709,8027,7834
+26,Median Number of Rooms,MT,Musselshell,5.0,5.0,5.1,5.2,5.3,5.3,5.4,5.4,5.3,5.4
+27,Number of Rooms: 1,MT,Musselshell,32,109,110,156,205,223,164,139,87,34
+28,Number of Rooms: 2,MT,Musselshell,85,95,72,63,65,37,38,52,58,56
+29,Number of Rooms: 3,MT,Musselshell,213,234,225,235,163,188,245,268,300,278
+30,Number of Rooms: 4,MT,Musselshell,633,553,532,464,414,526,470,489,403,475
+31,Number of Rooms: 5,MT,Musselshell,639,606,650,618,596,467,474,487,642,583
+32,Number of Rooms: 6,MT,Musselshell,357,419,369,346,389,360,368,402,405,376
+33,Number of Rooms: 7,MT,Musselshell,231,281,277,316,312,323,347,313,374,398
+34,Number of Rooms: 8,MT,Musselshell,100,125,119,159,174,232,207,220,169,211
+35,Number of Rooms: 9+,MT,Musselshell,249,185,263,305,362,352,382,374,311,322
+26,Median Number of Rooms,MT,Park,5.4,5.4,5.5,5.4,5.5,5.4,5.3,5.2,5.3,5.2
+27,Number of Rooms: 1,MT,Park,206,146,167,195,167,192,246,294,271,370
+28,Number of Rooms: 2,MT,Park,237,326,330,315,363,324,280,306,387,416
+29,Number of Rooms: 3,MT,Park,982,1001,865,997,927,911,985,1196,1086,1085
+30,Number of Rooms: 4,MT,Park,1509,1402,1597,1547,1650,1742,1832,1644,1702,1688
+31,Number of Rooms: 5,MT,Park,1847,1976,1756,1709,1611,1702,1707,1779,1713,1756
+32,Number of Rooms: 6,MT,Park,1511,1506,1559,1528,1587,1434,1375,1411,1558,1473
+33,Number of Rooms: 7,MT,Park,1108,1204,1284,1263,1214,1147,991,858,842,877
+34,Number of Rooms: 8,MT,Park,768,688,672,727,856,901,962,1053,892,756
+35,Number of Rooms: 9+,MT,Park,1047,1046,1099,1064,985,1014,991,983,1117,1178
+26,Median Number of Rooms,MT,Petroleum,5.8,5.6,5.2,5.0,4.9,4.8,5.5,5.5,5.7,5.9
+27,Number of Rooms: 1,MT,Petroleum,8,8,9,8,9,7,6,8,9,8
+28,Number of Rooms: 2,MT,Petroleum,12,20,35,32,27,24,17,15,18,19
+29,Number of Rooms: 3,MT,Petroleum,3,8,14,15,19,27,23,19,22,19
+30,Number of Rooms: 4,MT,Petroleum,55,74,80,83,81,83,62,63,46,34
+31,Number of Rooms: 5,MT,Petroleum,66,54,47,59,73,47,49,50,41,46
+32,Number of Rooms: 6,MT,Petroleum,114,98,68,66,49,61,70,57,56,67
+33,Number of Rooms: 7,MT,Petroleum,41,34,41,22,27,22,45,33,50,37
+34,Number of Rooms: 8,MT,Petroleum,20,13,19,14,16,12,15,17,9,9
+35,Number of Rooms: 9+,MT,Petroleum,47,37,30,32,33,26,31,45,45,63
+26,Median Number of Rooms,MT,Phillips,5.6,5.5,5.5,5.4,5.3,5.3,5.5,5.4,5.4,5.4
+27,Number of Rooms: 1,MT,Phillips,18,36,36,18,19,27,21,27,33,41
+28,Number of Rooms: 2,MT,Phillips,10,19,13,20,20,31,41,78,102,112
+29,Number of Rooms: 3,MT,Phillips,203,228,215,230,240,238,199,190,183,234
+30,Number of Rooms: 4,MT,Phillips,370,375,377,390,423,449,394,420,363,325
+31,Number of Rooms: 5,MT,Phillips,552,520,512,537,561,527,498,513,522,507
+32,Number of Rooms: 6,MT,Phillips,340,303,369,391,331,354,441,436,465,466
+33,Number of Rooms: 7,MT,Phillips,222,249,204,205,218,237,257,278,261,207
+34,Number of Rooms: 8,MT,Phillips,273,246,233,188,224,169,161,143,137,119
+35,Number of Rooms: 9+,MT,Phillips,381,367,383,351,294,283,298,268,283,341
+26,Median Number of Rooms,MT,Pondera,5.5,5.5,5.6,5.7,5.7,5.7,5.7,5.6,5.5,5.5
+27,Number of Rooms: 1,MT,Pondera,43,36,62,62,49,45,41,31,22,43
+28,Number of Rooms: 2,MT,Pondera,73,98,116,77,69,61,31,31,39,52
+29,Number of Rooms: 3,MT,Pondera,177,165,161,185,172,150,152,146,137,126
+30,Number of Rooms: 4,MT,Pondera,433,419,407,449,473,501,508,555,581,516
+31,Number of Rooms: 5,MT,Pondera,603,613,524,482,462,443,466,517,541,617
+32,Number of Rooms: 6,MT,Pondera,508,463,479,473,506,491,491,475,412,391
+33,Number of Rooms: 7,MT,Pondera,384,353,325,313,303,290,291,305,341,310
+34,Number of Rooms: 8,MT,Pondera,145,174,206,206,202,217,240,232,241,251
+35,Number of Rooms: 9+,MT,Pondera,330,350,394,407,423,439,419,386,363,386
+26,Median Number of Rooms,MT,Powder River,5.6,5.7,5.7,5.5,5.7,5.4,5.3,5.2,5.2,5.4
+27,Number of Rooms: 1,MT,Powder River,23,34,54,59,44,51,39,15,19,18
+28,Number of Rooms: 2,MT,Powder River,57,66,55,49,22,11,11,14,12,15
+29,Number of Rooms: 3,MT,Powder River,55,38,47,82,88,114,136,156,148,142
+30,Number of Rooms: 4,MT,Powder River,155,154,134,109,122,128,140,155,166,128
+31,Number of Rooms: 5,MT,Powder River,195,187,185,212,210,228,251,255,234,223
+32,Number of Rooms: 6,MT,Powder River,161,169,163,129,137,125,106,108,133,193
+33,Number of Rooms: 7,MT,Powder River,152,163,198,190,172,152,147,117,98,111
+34,Number of Rooms: 8,MT,Powder River,94,96,93,89,101,83,77,59,63,52
+35,Number of Rooms: 9+,MT,Powder River,98,104,85,97,129,129,128,169,159,121
+26,Median Number of Rooms,MT,Powell,5.3,5.4,5.4,5.4,5.2,5.2,5.3,5.2,5.3,5.4
+27,Number of Rooms: 1,MT,Powell,61,74,98,138,162,176,206,192,141,136
+28,Number of Rooms: 2,MT,Powell,100,118,125,128,132,83,87,118,115,115
+29,Number of Rooms: 3,MT,Powell,193,213,204,263,330,349,342,333,285,269
+30,Number of Rooms: 4,MT,Powell,594,561,552,477,488,476,476,503,527,520
+31,Number of Rooms: 5,MT,Powell,730,660,642,588,583,625,540,619,682,650
+32,Number of Rooms: 6,MT,Powell,367,478,442,457,479,426,464,547,523,457
+33,Number of Rooms: 7,MT,Powell,348,377,388,379,321,315,282,215,256,334
+34,Number of Rooms: 8,MT,Powell,258,242,261,290,260,260,268,272,231,214
+35,Number of Rooms: 9+,MT,Powell,428,374,382,373,342,380,425,370,436,508
+26,Median Number of Rooms,MT,Prairie,5.5,5.4,5.5,5.5,5.5,5.5,5.5,5.4,5.4,5.3
+27,Number of Rooms: 1,MT,Prairie,9,9,9,15,6,7,7,7,0,0
+28,Number of Rooms: 2,MT,Prairie,24,31,22,22,21,4,0,13,11,13
+29,Number of Rooms: 3,MT,Prairie,23,13,10,6,8,12,11,13,22,14
+30,Number of Rooms: 4,MT,Prairie,126,140,128,120,114,114,100,146,142,154
+31,Number of Rooms: 5,MT,Prairie,166,153,157,166,178,209,211,174,201,193
+32,Number of Rooms: 6,MT,Prairie,106,106,119,124,123,135,142,119,109,96
+33,Number of Rooms: 7,MT,Prairie,76,62,70,70,77,62,64,66,55,52
+34,Number of Rooms: 8,MT,Prairie,102,89,72,69,68,64,51,56,68,83
+35,Number of Rooms: 9+,MT,Prairie,58,61,66,59,53,66,78,85,89,85
+26,Median Number of Rooms,MT,Ravalli,5.5,5.4,5.4,5.3,5.4,5.4,5.4,5.5,5.5,5.5
+27,Number of Rooms: 1,MT,Ravalli,289,490,526,559,521,496,326,371,530,569
+28,Number of Rooms: 2,MT,Ravalli,794,880,940,903,889,826,724,615,550,723
+29,Number of Rooms: 3,MT,Ravalli,1334,1353,1380,1465,1576,1489,1350,1319,1476,1429
+30,Number of Rooms: 4,MT,Ravalli,2907,3096,3321,3758,3670,3666,3932,3616,3242,3064
+31,Number of Rooms: 5,MT,Ravalli,4343,4200,3778,3772,3668,3772,3668,3871,3948,3964
+32,Number of Rooms: 6,MT,Ravalli,3492,3219,3222,3221,3328,3206,3366,3684,3684,3493
+33,Number of Rooms: 7,MT,Ravalli,2005,2037,2092,2052,2156,1933,1900,2026,2018,2032
+34,Number of Rooms: 8,MT,Ravalli,1685,1690,1820,1668,1679,1811,1923,1896,1867,1895
+35,Number of Rooms: 9+,MT,Ravalli,2153,2354,2361,2113,2102,2367,2353,2390,2481,2647
+26,Median Number of Rooms,MT,Richland,5.8,5.8,5.8,5.8,5.8,5.6,5.5,5.6,5.6,5.6
+27,Number of Rooms: 1,MT,Richland,0,19,20,23,35,70,60,177,228,293
+28,Number of Rooms: 2,MT,Richland,117,80,98,125,87,47,51,37,18,59
+29,Number of Rooms: 3,MT,Richland,407,411,367,396,375,292,357,390,333,358
+30,Number of Rooms: 4,MT,Richland,587,614,673,657,776,935,961,898,935,826
+31,Number of Rooms: 5,MT,Richland,953,927,940,950,926,1011,1071,1039,999,1023
+32,Number of Rooms: 6,MT,Richland,599,685,656,602,653,707,657,745,749,694
+33,Number of Rooms: 7,MT,Richland,530,419,448,478,571,579,529,537,630,573
+34,Number of Rooms: 8,MT,Richland,480,545,516,521,484,454,483,491,483,483
+35,Number of Rooms: 9+,MT,Richland,859,845,911,954,887,821,863,843,828,939
+26,Median Number of Rooms,MT,Roosevelt,5.3,5.3,5.4,5.4,5.3,5.2,5.2,5.3,5.3,5.5
+27,Number of Rooms: 1,MT,Roosevelt,7,26,27,32,36,41,35,64,65,57
+28,Number of Rooms: 2,MT,Roosevelt,28,41,62,42,57,60,68,49,69,52
+29,Number of Rooms: 3,MT,Roosevelt,272,255,239,266,266,280,286,238,205,165
+30,Number of Rooms: 4,MT,Roosevelt,759,839,847,887,919,973,902,852,849,724
+31,Number of Rooms: 5,MT,Roosevelt,1180,1087,988,929,933,990,1031,1142,1109,1119
+32,Number of Rooms: 6,MT,Roosevelt,787,724,725,799,842,763,816,867,858,952
+33,Number of Rooms: 7,MT,Roosevelt,408,410,438,393,318,293,271,281,286,363
+34,Number of Rooms: 8,MT,Roosevelt,309,334,372,350,321,246,271,243,236,270
+35,Number of Rooms: 9+,MT,Roosevelt,312,354,376,376,397,421,402,388,446,432
+26,Median Number of Rooms,MT,Rosebud,5.2,5.1,5.1,5.2,5.3,5.3,5.5,5.6,5.6,5.8
+27,Number of Rooms: 1,MT,Rosebud,27,90,84,104,105,122,121,157,226,226
+28,Number of Rooms: 2,MT,Rosebud,118,146,83,111,100,95,72,118,98,94
+29,Number of Rooms: 3,MT,Rosebud,301,292,358,310,271,286,274,196,172,124
+30,Number of Rooms: 4,MT,Rosebud,730,671,703,663,687,659,597,592,632,545
+31,Number of Rooms: 5,MT,Rosebud,1179,1288,1288,1249,1183,1129,1015,941,904,884
+32,Number of Rooms: 6,MT,Rosebud,604,605,682,704,714,731,783,822,807,825
+33,Number of Rooms: 7,MT,Rosebud,409,397,354,334,336,347,428,487,520,690
+34,Number of Rooms: 8,MT,Rosebud,361,272,259,274,375,319,324,342,294,224
+35,Number of Rooms: 9+,MT,Rosebud,300,288,264,321,339,417,490,525,527,547
+26,Median Number of Rooms,MT,Sanders,4.8,4.7,4.7,4.8,4.8,4.9,4.9,5.0,5.0,5.1
+27,Number of Rooms: 1,MT,Sanders,74,78,138,181,195,203,225,255,289,296
+28,Number of Rooms: 2,MT,Sanders,320,344,383,330,294,273,204,195,218,229
+29,Number of Rooms: 3,MT,Sanders,962,1018,964,830,729,681,624,685,743,741
+30,Number of Rooms: 4,MT,Sanders,1426,1513,1466,1463,1464,1375,1328,1273,1111,1043
+31,Number of Rooms: 5,MT,Sanders,1287,1376,1526,1767,1963,2082,2104,2011,1878,1801
+32,Number of Rooms: 6,MT,Sanders,1132,1002,856,900,1030,1057,1131,1315,1318,1244
+33,Number of Rooms: 7,MT,Sanders,566,564,557,479,436,449,465,429,529,616
+34,Number of Rooms: 8,MT,Sanders,300,329,349,343,251,248,194,169,247,329
+35,Number of Rooms: 9+,MT,Sanders,367,348,381,347,323,294,378,422,436,463
+26,Median Number of Rooms,MT,Sheridan,6.0,6.1,6.0,6.1,6.1,6.1,6.2,6.2,6.0,5.9
+27,Number of Rooms: 1,MT,Sheridan,18,20,22,23,16,17,22,52,81,79
+28,Number of Rooms: 2,MT,Sheridan,77,53,52,46,8,12,14,1,1,2
+29,Number of Rooms: 3,MT,Sheridan,152,143,119,142,142,125,103,110,127,117
+30,Number of Rooms: 4,MT,Sheridan,242,298,331,337,399,379,286,291,242,237
+31,Number of Rooms: 5,MT,Sheridan,392,327,374,338,340,365,435,435,473,489
+32,Number of Rooms: 6,MT,Sheridan,347,345,297,278,253,242,253,271,329,366
+33,Number of Rooms: 7,MT,Sheridan,301,301,325,304,288,243,272,261,237,255
+34,Number of Rooms: 8,MT,Sheridan,224,253,197,233,215,227,235,260,190,191
+35,Number of Rooms: 9+,MT,Sheridan,348,382,397,400,429,497,475,469,492,425
+26,Median Number of Rooms,MT,Silver Bow,5.2,5.2,5.3,5.3,5.2,5.3,5.4,5.3,5.3,5.4
+27,Number of Rooms: 1,MT,Silver Bow,614,738,754,570,627,636,798,864,955,980
+28,Number of Rooms: 2,MT,Silver Bow,295,405,332,404,322,326,213,229,266,355
+29,Number of Rooms: 3,MT,Silver Bow,1528,1388,1356,1291,1526,1454,1480,1621,1720,1448
+30,Number of Rooms: 4,MT,Silver Bow,3503,3341,3169,3349,3380,3238,2837,3298,2945,2875
+31,Number of Rooms: 5,MT,Silver Bow,3348,3320,3284,3427,3444,3578,3608,3371,3223,3152
+32,Number of Rooms: 6,MT,Silver Bow,2361,2226,2603,2478,2587,2689,2928,2792,2948,2752
+33,Number of Rooms: 7,MT,Silver Bow,1725,1856,1795,1807,1805,1861,1645,1606,1564,1706
+34,Number of Rooms: 8,MT,Silver Bow,1457,1488,1411,1337,1232,1244,1390,1522,1723,1839
+35,Number of Rooms: 9+,MT,Silver Bow,1804,1913,2019,2066,1851,1750,1913,1785,1806,2135
+26,Median Number of Rooms,MT,Stillwater,5.3,5.3,5.4,5.5,5.4,5.5,5.5,5.5,5.6,5.7
+27,Number of Rooms: 1,MT,Stillwater,139,155,145,120,166,168,167,192,202,117
+28,Number of Rooms: 2,MT,Stillwater,121,137,147,209,244,221,223,225,205,151
+29,Number of Rooms: 3,MT,Stillwater,297,322,315,318,351,388,388,406,421,414
+30,Number of Rooms: 4,MT,Stillwater,694,738,659,602,615,604,719,642,650,638
+31,Number of Rooms: 5,MT,Stillwater,1293,1230,1227,1114,1095,1052,954,964,911,893
+32,Number of Rooms: 6,MT,Stillwater,744,735,710,682,694,761,734,812,852,962
+33,Number of Rooms: 7,MT,Stillwater,591,557,528,675,586,560,585,633,527,631
+34,Number of Rooms: 8,MT,Stillwater,378,404,453,424,389,459,422,419,449,475
+35,Number of Rooms: 9+,MT,Stillwater,405,466,584,640,669,604,619,585,660,585
+26,Median Number of Rooms,MT,Sweet Grass,5.6,5.6,5.7,5.7,5.8,5.6,5.5,5.4,5.3,5.1
+27,Number of Rooms: 1,MT,Sweet Grass,115,115,105,67,33,48,40,56,63,73
+28,Number of Rooms: 2,MT,Sweet Grass,26,39,44,56,52,84,98,115,101,101
+29,Number of Rooms: 3,MT,Sweet Grass,209,201,154,169,163,179,217,247,211,267
+30,Number of Rooms: 4,MT,Sweet Grass,308,303,285,284,296,314,332,348,417,443
+31,Number of Rooms: 5,MT,Sweet Grass,448,450,335,343,335,331,319,346,384,371
+32,Number of Rooms: 6,MT,Sweet Grass,445,482,471,398,370,342,318,319,345,357
+33,Number of Rooms: 7,MT,Sweet Grass,263,248,230,267,291,260,265,289,174,156
+34,Number of Rooms: 8,MT,Sweet Grass,238,227,173,170,148,146,153,194,195,194
+35,Number of Rooms: 9+,MT,Sweet Grass,207,257,255,269,304,291,274,249,275,247
+26,Median Number of Rooms,MT,Teton,5.7,5.8,5.7,5.5,5.5,5.6,5.5,5.5,5.6,5.8
+27,Number of Rooms: 1,MT,Teton,22,31,76,118,132,120,121,92,47,32
+28,Number of Rooms: 2,MT,Teton,61,71,74,104,101,107,95,95,82,78
+29,Number of Rooms: 3,MT,Teton,140,166,141,132,132,150,162,183,210,199
+30,Number of Rooms: 4,MT,Teton,409,403,451,494,467,442,441,479,462,446
+31,Number of Rooms: 5,MT,Teton,680,613,618,570,598,576,609,610,618,571
+32,Number of Rooms: 6,MT,Teton,585,606,536,522,552,548,470,475,501,487
+33,Number of Rooms: 7,MT,Teton,411,410,393,335,331,330,352,354,371,393
+34,Number of Rooms: 8,MT,Teton,231,235,231,229,227,278,270,243,287,308
+35,Number of Rooms: 9+,MT,Teton,367,370,383,363,353,326,362,387,352,405
+26,Median Number of Rooms,MT,Toole,5.6,5.6,5.6,5.7,5.7,5.6,5.9,5.7,5.5,5.7
+27,Number of Rooms: 1,MT,Toole,24,27,56,137,122,118,124,121,83,83
+28,Number of Rooms: 2,MT,Toole,56,54,37,43,52,56,89,49,85,117
+29,Number of Rooms: 3,MT,Toole,378,248,246,148,200,190,157,189,270,184
+30,Number of Rooms: 4,MT,Toole,288,431,422,378,399,420,304,406,415,381
+31,Number of Rooms: 5,MT,Toole,342,388,375,391,357,356,357,350,351,352
+32,Number of Rooms: 6,MT,Toole,351,362,324,273,261,303,320,317,352,419
+33,Number of Rooms: 7,MT,Toole,270,220,219,274,301,253,292,265,203,274
+34,Number of Rooms: 8,MT,Toole,164,179,183,244,244,298,349,355,291,228
+35,Number of Rooms: 9+,MT,Toole,403,425,473,442,405,344,354,321,326,331
+26,Median Number of Rooms,MT,Treasure,5.2,5.2,5.2,5.2,5.3,5.5,5.6,5.8,5.9,6.0
+27,Number of Rooms: 1,MT,Treasure,5,5,11,11,9,4,6,2,3,2
+28,Number of Rooms: 2,MT,Treasure,4,0,8,12,9,11,11,3,7,11
+29,Number of Rooms: 3,MT,Treasure,26,34,27,19,24,30,25,27,23,16
+30,Number of Rooms: 4,MT,Treasure,84,64,62,64,61,47,66,59,62,53
+31,Number of Rooms: 5,MT,Treasure,121,139,170,160,134,130,111,109,92,92
+32,Number of Rooms: 6,MT,Treasure,76,79,72,69,75,81,90,99,114,131
+33,Number of Rooms: 7,MT,Treasure,48,40,46,47,49,49,48,54,50,46
+34,Number of Rooms: 8,MT,Treasure,40,31,22,22,23,30,36,39,48,48
+35,Number of Rooms: 9+,MT,Treasure,14,22,26,31,45,55,59,64,67,70
+26,Median Number of Rooms,MT,Valley,5.4,5.5,5.4,5.4,5.4,5.4,5.5,5.5,5.5,5.6
+27,Number of Rooms: 1,MT,Valley,109,113,130,137,119,59,69,74,84,62
+28,Number of Rooms: 2,MT,Valley,42,76,85,61,52,94,57,59,101,101
+29,Number of Rooms: 3,MT,Valley,279,319,349,325,291,273,230,193,218,238
+30,Number of Rooms: 4,MT,Valley,867,745,720,706,740,776,746,657,749,635
+31,Number of Rooms: 5,MT,Valley,1305,1244,1292,1330,1375,1316,1322,1456,1289,1286
+32,Number of Rooms: 6,MT,Valley,1065,1045,949,953,817,739,808,772,780,1109
+33,Number of Rooms: 7,MT,Valley,361,436,479,489,437,528,573,516,512,517
+34,Number of Rooms: 8,MT,Valley,402,376,320,316,397,433,429,466,531,351
+35,Number of Rooms: 9+,MT,Valley,451,516,553,544,637,625,599,677,594,580
+26,Median Number of Rooms,MT,Wheatland,5.7,5.5,5.3,5.1,5.3,5.2,5.2,5.4,5.6,5.5
+27,Number of Rooms: 1,MT,Wheatland,0,0,2,20,19,19,45,50,38,38
+28,Number of Rooms: 2,MT,Wheatland,10,10,16,18,25,46,43,41,39,33
+29,Number of Rooms: 3,MT,Wheatland,96,80,86,108,151,140,161,133,134,109
+30,Number of Rooms: 4,MT,Wheatland,258,294,274,303,271,259,195,181,126,154
+31,Number of Rooms: 5,MT,Wheatland,304,306,327,318,289,290,277,246,246,255
+32,Number of Rooms: 6,MT,Wheatland,312,280,269,217,242,257,212,230,267,286
+33,Number of Rooms: 7,MT,Wheatland,169,125,128,100,86,78,95,69,91,81
+34,Number of Rooms: 8,MT,Wheatland,137,152,112,101,98,83,83,89,81,92
+35,Number of Rooms: 9+,MT,Wheatland,147,110,93,126,187,171,186,201,175,125
+26,Median Number of Rooms,MT,Wibaux,5.3,5.3,5.6,5.5,5.6,5.6,6.1,5.9,6.4,6.2
+27,Number of Rooms: 1,MT,Wibaux,0,0,0,0,0,13,16,18,18,17
+28,Number of Rooms: 2,MT,Wibaux,24,19,17,14,20,20,20,17,16,8
+29,Number of Rooms: 3,MT,Wibaux,8,12,22,25,22,28,16,7,9,15
+30,Number of Rooms: 4,MT,Wibaux,108,112,119,131,113,118,91,119,93,111
+31,Number of Rooms: 5,MT,Wibaux,168,140,100,102,116,94,97,99,97,70
+32,Number of Rooms: 6,MT,Wibaux,75,69,93,89,70,58,62,61,74,110
+33,Number of Rooms: 7,MT,Wibaux,31,38,51,49,60,82,81,88,126,100
+34,Number of Rooms: 8,MT,Wibaux,37,37,28,24,27,32,48,52,88,97
+35,Number of Rooms: 9+,MT,Wibaux,88,93,101,108,128,113,126,109,71,73
+26,Median Number of Rooms,MT,Yellowstone,5.6,5.6,5.6,5.6,5.5,5.5,5.6,5.6,5.7,5.8
+27,Number of Rooms: 1,MT,Yellowstone,579,690,676,529,650,813,869,1086,1263,1355
+28,Number of Rooms: 2,MT,Yellowstone,1556,1404,1208,1526,1579,1870,1903,2074,2097,2262
+29,Number of Rooms: 3,MT,Yellowstone,4639,4563,4735,5212,5259,5819,5980,6357,6356,6533
+30,Number of Rooms: 4,MT,Yellowstone,11613,11938,12007,11889,12063,12341,12551,12632,12769,12356
+31,Number of Rooms: 5,MT,Yellowstone,11651,11943,12113,12390,12685,12126,11481,11131,10800,10459
+32,Number of Rooms: 6,MT,Yellowstone,8795,8882,9156,9095,9068,8735,8953,9219,9466,9319
+33,Number of Rooms: 7,MT,Yellowstone,7672,7784,7862,7355,7707,7528,7633,7894,7940,8125
+34,Number of Rooms: 8,MT,Yellowstone,6332,6639,6275,5961,5880,6207,6265,6650,7140,7743
+35,Number of Rooms: 9+,MT,Yellowstone,9613,9502,9790,10283,10212,10353,11073,11518,12097,13032

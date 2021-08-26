@@ -1,0 +1,177 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,ID,Ada,2.66,2.66,2.65,2.65,2.65,2.65,2.66,2.67,2.69,2.68
+1,Avg household size of renter-occupied unit,ID,Ada,2.32,2.39,2.44,2.49,2.51,2.52,2.49,2.45,2.38,2.38
+36,Owner-Occupied,ID,Ada,269419,271056,270297,273723,275122,280409,288219,299370,310397,321423
+37,Renter-Occupied,ID,Ada,102459,109281,116841,120213,126513,129501,129959,127757,127263,126437
+0,Avg household size of owner-occupied unit,ID,Adams,2.31,2.22,2.29,2.3,2.31,2.31,2.19,2.1,2.24,2.26
+1,Avg household size of renter-occupied unit,ID,Adams,2.34,2.12,2.11,2.12,2.45,2.68,2.68,2.76,2.86,2.42
+36,Owner-Occupied,ID,Adams,3151,3183,3194,3206,3032,2832,2884,2912,3022,3191
+37,Renter-Occupied,ID,Adams,781,733,716,665,809,977,911,965,930,838
+0,Avg household size of owner-occupied unit,ID,Bannock,2.78,2.79,2.82,2.83,2.82,2.78,2.78,2.79,2.81,2.82
+1,Avg household size of renter-occupied unit,ID,Bannock,2.32,2.31,2.29,2.34,2.38,2.47,2.48,2.39,2.44,2.41
+36,Owner-Occupied,ID,Bannock,59162,59473,59890,58905,58734,56373,57537,59051,59029,59291
+37,Renter-Occupied,ID,Bannock,19928,20232,20656,22071,22461,24894,24063,22888,23889,24339
+0,Avg household size of owner-occupied unit,ID,Bear Lake,2.39,2.46,2.42,2.48,2.41,2.5,2.48,2.6,2.56,2.55
+1,Avg household size of renter-occupied unit,ID,Bear Lake,2.29,2.45,2.32,2.15,2.48,2.57,2.39,2.39,2.38,2.16
+36,Owner-Occupied,ID,Bear Lake,4917,4938,4839,4933,4774,4668,4631,4721,4621,4736
+37,Renter-Occupied,ID,Bear Lake,1109,1030,1093,979,1125,1232,1258,1183,1302,1226
+0,Avg household size of owner-occupied unit,ID,Benewah,2.35,2.29,2.37,2.37,2.41,2.42,2.48,2.54,2.72,2.63
+1,Avg household size of renter-occupied unit,ID,Benewah,2.51,2.6,2.6,2.24,2.54,2.55,2.57,2.59,2.6,2.69
+36,Owner-Occupied,ID,Benewah,6699,6550,6743,6917,6441,6403,6561,6604,6666,6596
+37,Renter-Occupied,ID,Benewah,2485,2612,2383,2163,2606,2599,2421,2362,2336,2460
+0,Avg household size of owner-occupied unit,ID,Bingham,3.08,3.12,3.15,3.11,3.08,3.06,3.01,3.03,3.13,3.11
+1,Avg household size of renter-occupied unit,ID,Bingham,3.06,2.98,2.8,3.01,2.97,3.11,3.2,3.01,2.88,2.81
+36,Owner-Occupied,ID,Bingham,35285,35268,35330,34042,33645,33275,32780,33804,34938,35807
+37,Renter-Occupied,ID,Bingham,8795,9381,9628,11103,11599,11842,12185,11296,10354,9771
+0,Avg household size of owner-occupied unit,ID,Blaine,2.28,2.31,2.32,2.39,2.31,2.35,2.4,2.45,2.48,2.64
+1,Avg household size of renter-occupied unit,ID,Blaine,2.31,2.37,2.2,2.02,2.16,2.34,2.44,2.78,3.0,3.01
+36,Owner-Occupied,ID,Blaine,14183,14358,14544,15393,14328,13823,14058,13549,14151,14780
+37,Renter-Occupied,ID,Blaine,6676,6680,6457,5566,6589,7126,6961,7629,7450,7211
+0,Avg household size of owner-occupied unit,ID,Boise,2.38,2.36,2.3,2.32,2.25,2.28,2.25,2.27,2.24,2.29
+1,Avg household size of renter-occupied unit,ID,Boise,2.07,2.26,2.42,2.17,2.18,2.35,2.37,2.42,2.47,2.21
+36,Owner-Occupied,ID,Boise,5516,5409,5436,5435,5492,5590,5485,5654,5851,6092
+37,Renter-Occupied,ID,Boise,1454,1587,1482,1415,1300,1219,1331,1243,1239,1217
+0,Avg household size of owner-occupied unit,ID,Bonner,2.25,2.21,2.24,2.34,2.32,2.37,2.39,2.37,2.38,2.46
+1,Avg household size of renter-occupied unit,ID,Bonner,2.07,2.16,2.3,2.26,2.36,2.35,2.4,2.31,2.47,2.47
+36,Owner-Occupied,ID,Bonner,30561,29809,29092,29737,29040,29600,29862,30351,31166,32624
+37,Renter-Occupied,ID,Bonner,9591,10671,11323,10593,11431,11018,11078,11066,11111,10562
+0,Avg household size of owner-occupied unit,ID,Bonneville,2.89,2.94,3.0,3.03,3.0,3.0,3.0,2.93,2.95,2.97
+1,Avg household size of renter-occupied unit,ID,Bonneville,2.57,2.52,2.51,2.54,2.6,2.63,2.63,2.61,2.6,2.54
+36,Owner-Occupied,ID,Bonneville,75846,77601,79580,79640,80021,78862,79546,79445,80509,82370
+37,Renter-Occupied,ID,Bonneville,23574,23837,23569,24790,25342,27398,27866,29399,30443,30692
+0,Avg household size of owner-occupied unit,ID,Boundary,2.64,2.62,2.6,2.65,2.7,2.63,2.6,2.61,2.56,2.6
+1,Avg household size of renter-occupied unit,ID,Boundary,2.26,2.21,2.66,2.4,2.44,2.32,2.28,2.19,2.26,2.26
+36,Owner-Occupied,ID,Boundary,9127,8901,8046,8181,8086,8294,8124,8641,8844,9279
+37,Renter-Occupied,ID,Boundary,1654,1771,2655,2541,2690,2567,2909,2574,2593,2452
+0,Avg household size of owner-occupied unit,ID,Butte,2.45,2.64,2.56,2.73,2.61,2.58,2.39,2.43,2.42,2.59
+1,Avg household size of renter-occupied unit,ID,Butte,2.26,2.28,2.38,2.51,2.61,2.63,2.44,2.53,2.52,2.77
+36,Owner-Occupied,ID,Butte,2333,2356,2285,2213,2170,2076,2101,2114,2137,2060
+37,Renter-Occupied,ID,Butte,443,431,493,527,517,536,447,453,419,474
+0,Avg household size of owner-occupied unit,ID,Camas,2.72,2.68,2.58,2.35,1.96,1.96,2.1,2.2,2.22,2.63
+1,Avg household size of renter-occupied unit,ID,Camas,3.2,2.8,3.33,3.52,3.53,3.4,3.72,2.94,3.26,2.75
+36,Owner-Occupied,ID,Camas,842,862,764,737,608,580,570,598,596,784
+37,Renter-Occupied,ID,Camas,374,369,509,528,547,472,398,288,290,264
+0,Avg household size of owner-occupied unit,ID,Canyon,2.85,2.9,2.95,2.98,3.0,2.99,2.98,2.97,2.97,2.98
+1,Avg household size of renter-occupied unit,ID,Canyon,2.97,2.98,2.97,2.99,2.94,2.93,2.95,2.89,2.91,2.85
+36,Owner-Occupied,ID,Canyon,126383,129778,131329,130803,133489,135412,135806,138935,143295,150930
+37,Renter-Occupied,ID,Canyon,52686,53932,55058,58330,58855,60387,63687,64834,65634,63380
+0,Avg household size of owner-occupied unit,ID,Caribou,2.55,2.63,2.57,2.51,2.45,2.5,2.55,2.65,2.63,2.77
+1,Avg household size of renter-occupied unit,ID,Caribou,2.35,2.34,2.56,2.79,2.84,2.85,3.02,2.8,2.53,2.44
+36,Owner-Occupied,ID,Caribou,5506,5708,5517,5591,5412,5304,5397,5627,5486,5584
+37,Renter-Occupied,ID,Caribou,1332,1096,1252,1170,1341,1393,1316,1144,1343,1283
+0,Avg household size of owner-occupied unit,ID,Cassia,2.98,3.0,3.01,2.99,3.05,2.99,3.03,2.95,2.91,2.97
+1,Avg household size of renter-occupied unit,ID,Cassia,2.68,2.76,2.76,2.88,2.72,2.9,2.88,2.95,3.01,3.15
+36,Owner-Occupied,ID,Cassia,15449,15399,15960,15791,16446,16354,16614,16068,16024,16099
+37,Renter-Occupied,ID,Cassia,6357,6716,6467,6849,6405,6571,6405,7001,7209,7212
+0,Avg household size of owner-occupied unit,ID,Clark,2.2,2.22,2.34,2.2,2.59,2.81,2.72,2.91,2.89,2.55
+1,Avg household size of renter-occupied unit,ID,Clark,3.83,3.74,3.08,2.73,3.29,3.88,4.07,3.8,4.41,3.92
+36,Owner-Occupied,ID,Clark,570,543,461,398,453,481,459,503,549,462
+37,Renter-Occupied,ID,Clark,287,292,305,336,352,400,480,532,507,427
+0,Avg household size of owner-occupied unit,ID,Clearwater,2.18,2.2,2.18,2.21,2.14,2.03,2.02,2.02,2.05,2.16
+1,Avg household size of renter-occupied unit,ID,Clearwater,2.26,2.26,2.11,2.1,2.14,2.11,2.0,2.04,2.11,2.21
+36,Owner-Occupied,ID,Clearwater,6243,6402,6332,6272,5985,5829,5712,5751,5796,5989
+37,Renter-Occupied,ID,Clearwater,1801,1587,1512,1475,1632,1656,1692,1747,1858,1721
+0,Avg household size of owner-occupied unit,ID,Custer,2.3,2.24,2.26,2.32,2.47,2.38,2.3,2.27,2.21,2.27
+1,Avg household size of renter-occupied unit,ID,Custer,1.96,2.2,2.2,1.94,1.91,2.17,2.09,1.87,2.5,2.35
+36,Owner-Occupied,ID,Custer,3531,3381,3459,3623,3403,3299,3269,3203,2912,3166
+37,Renter-Occupied,ID,Custer,746,833,771,601,768,822,798,823,1110,890
+0,Avg household size of owner-occupied unit,ID,Elmore,2.71,2.71,2.69,2.65,2.61,2.63,2.61,2.57,2.52,2.47
+1,Avg household size of renter-occupied unit,ID,Elmore,2.83,2.74,2.74,2.79,2.69,2.54,2.55,2.5,2.48,2.42
+36,Owner-Occupied,ID,Elmore,17394,17433,16765,15764,15436,15167,14792,14959,15050,15698
+37,Renter-Occupied,ID,Elmore,8753,8474,9114,10033,10158,10231,10632,10597,10707,10332
+0,Avg household size of owner-occupied unit,ID,Franklin,3.12,3.08,3.14,3.08,3.01,3.05,3.05,3.09,3.15,3.15
+1,Avg household size of renter-occupied unit,ID,Franklin,2.83,2.92,2.87,3.01,3.02,2.97,3.14,2.88,2.79,2.62
+36,Owner-Occupied,ID,Franklin,10292,10101,10512,10349,10263,10221,10248,10654,10923,11256
+37,Renter-Occupied,ID,Franklin,2205,2474,2150,2380,2522,2635,2712,2413,2303,2155
+0,Avg household size of owner-occupied unit,ID,Fremont,2.89,2.84,2.78,2.78,2.77,2.75,2.71,2.73,2.78,2.81
+1,Avg household size of renter-occupied unit,ID,Fremont,2.85,2.64,2.62,2.67,2.63,2.8,2.94,3.14,3.29,3.12
+36,Owner-Occupied,ID,Fremont,10631,10575,10705,10423,10168,10118,9785,9588,9734,9913
+37,Renter-Occupied,ID,Fremont,2356,2089,1911,2127,2269,2216,2529,2740,2652,2546
+0,Avg household size of owner-occupied unit,ID,Gem,2.49,2.46,2.49,2.52,2.56,2.69,2.75,2.66,2.73,2.76
+1,Avg household size of renter-occupied unit,ID,Gem,2.8,2.86,2.82,2.9,2.67,2.49,2.43,2.47,2.13,2.02
+36,Owner-Occupied,ID,Gem,12902,12129,11965,11894,11923,11912,12435,12718,13201,13788
+37,Renter-Occupied,ID,Gem,3750,4480,4633,4665,4656,4671,4270,3991,3715,3409
+0,Avg household size of owner-occupied unit,ID,Gooding,2.63,2.75,2.67,2.66,2.74,2.75,2.72,2.66,2.71,2.73
+1,Avg household size of renter-occupied unit,ID,Gooding,2.92,3.01,2.9,2.88,2.88,3.03,2.81,2.8,2.93,2.81
+36,Owner-Occupied,ID,Gooding,10558,10799,10480,10429,10262,9879,9963,10019,10026,10517
+37,Renter-Occupied,ID,Gooding,4397,4302,4682,4707,4860,5262,5107,4997,5045,4532
+0,Avg household size of owner-occupied unit,ID,Idaho,2.35,2.33,2.35,2.4,2.39,2.34,2.36,2.34,2.36,2.39
+1,Avg household size of renter-occupied unit,ID,Idaho,2.21,2.2,2.37,2.41,2.47,2.55,2.65,2.61,2.63,2.65
+36,Owner-Occupied,ID,Idaho,11763,12058,12136,12238,12469,12379,12046,12007,11891,11761
+37,Renter-Occupied,ID,Idaho,3522,3395,3507,3441,3257,3313,3556,3533,3745,3960
+0,Avg household size of owner-occupied unit,ID,Jefferson,3.2,3.16,3.27,3.34,3.33,3.36,3.33,3.28,3.28,3.28
+1,Avg household size of renter-occupied unit,ID,Jefferson,2.87,2.74,2.79,2.82,2.77,3.0,3.27,3.02,3.04,3.09
+36,Owner-Occupied,ID,Jefferson,20356,21002,21899,22588,22928,22397,22109,22528,22591,23258
+37,Renter-Occupied,ID,Jefferson,4059,4140,3906,3683,3597,4332,4955,4853,5351,5249
+0,Avg household size of owner-occupied unit,ID,Jerome,2.85,2.81,2.87,2.88,2.93,2.89,2.93,2.91,2.94,2.87
+1,Avg household size of renter-occupied unit,ID,Jerome,3.11,3.05,2.99,2.93,2.9,3.05,2.97,3.04,3.04,3.06
+36,Owner-Occupied,ID,Jerome,13313,13462,13945,14060,14323,14064,14919,14437,14685,14965
+37,Renter-Occupied,ID,Jerome,7969,8217,8070,8193,8112,8428,7604,8436,8582,8603
+0,Avg household size of owner-occupied unit,ID,Kootenai,2.5,2.5,2.5,2.5,2.52,2.51,2.5,2.52,2.5,2.51
+1,Avg household size of renter-occupied unit,ID,Kootenai,2.34,2.37,2.47,2.53,2.56,2.6,2.66,2.52,2.52,2.46
+36,Owner-Occupied,ID,Kootenai,96421,97706,97097,98115,98757,99503,99897,105136,106713,110193
+37,Renter-Occupied,ID,Kootenai,37329,38392,40780,41334,42559,43863,46053,43204,45084,45303
+0,Avg household size of owner-occupied unit,ID,Latah,2.46,2.46,2.48,2.5,2.55,2.55,2.51,2.53,2.55,2.58
+1,Avg household size of renter-occupied unit,ID,Latah,2.04,2.07,2.04,2.05,2.02,2.06,2.09,2.02,2.05,2.08
+36,Owner-Occupied,ID,Latah,19425,19752,20532,21190,20950,20764,20632,20837,20972,21608
+37,Renter-Occupied,ID,Latah,13705,14075,13698,13275,13875,14299,14650,14607,14992,14669
+0,Avg household size of owner-occupied unit,ID,Lemhi,2.18,2.11,2.13,2.08,2.07,2.15,2.12,2.08,2.1,2.1
+1,Avg household size of renter-occupied unit,ID,Lemhi,2.3,2.16,1.93,1.81,1.74,1.76,1.83,1.94,2.26,2.24
+36,Owner-Occupied,ID,Lemhi,5632,5732,5978,5671,5626,5679,5545,5433,5628,5853
+37,Renter-Occupied,ID,Lemhi,2220,2030,1748,1992,1994,1889,1984,2117,1967,1793
+0,Avg household size of owner-occupied unit,ID,Lewis,2.21,2.21,2.26,2.3,2.34,2.33,2.35,2.34,2.4,2.41
+1,Avg household size of renter-occupied unit,ID,Lewis,2.46,2.42,2.19,2.24,2.04,2.26,2.24,2.26,2.14,2.1
+36,Owner-Occupied,ID,Lewis,2644,2588,2824,2823,2844,2739,2733,2815,2805,2750
+37,Renter-Occupied,ID,Lewis,1107,1129,921,964,901,1011,1032,959,993,1054
+0,Avg household size of owner-occupied unit,ID,Lincoln,2.6,2.77,3.04,3.03,3.17,3.13,3.24,3.12,2.98,3.02
+1,Avg household size of renter-occupied unit,ID,Lincoln,3.02,3.32,3.24,3.66,3.42,3.42,3.39,3.59,3.45,3.2
+36,Owner-Occupied,ID,Lincoln,3555,3685,3748,3506,3723,3611,3585,3476,3477,3547
+37,Renter-Occupied,ID,Lincoln,1351,1388,1385,1678,1484,1606,1660,1772,1796,1756
+0,Avg household size of owner-occupied unit,ID,Madison,3.53,3.6,3.54,3.65,3.68,3.73,3.77,3.99,3.95,3.93
+1,Avg household size of renter-occupied unit,ID,Madison,3.45,3.56,3.61,3.42,3.43,3.48,3.38,3.16,3.29,3.18
+36,Owner-Occupied,ID,Madison,18121,18089,17976,18520,18497,18320,19094,19664,19473,19288
+37,Renter-Occupied,ID,Madison,16330,17529,18117,17939,18347,18806,18370,18003,18741,19383
+0,Avg household size of owner-occupied unit,ID,Minidoka,2.81,2.85,2.83,2.82,2.72,2.69,2.63,2.65,2.7,2.81
+1,Avg household size of renter-occupied unit,ID,Minidoka,3.02,3.1,3.11,2.96,3.11,3.22,3.18,3.06,3.13,2.95
+36,Owner-Occupied,ID,Minidoka,14560,14404,14197,14340,14078,14248,13612,13846,14091,14942
+37,Renter-Occupied,ID,Minidoka,4743,5182,5572,5645,6011,5949,6639,6523,6448,5691
+0,Avg household size of owner-occupied unit,ID,Nez Perce,2.51,2.51,2.52,2.52,2.46,2.48,2.51,2.5,2.51,2.53
+1,Avg household size of renter-occupied unit,ID,Nez Perce,2.07,2.09,2.1,2.14,2.24,2.23,2.21,2.13,2.13,2.04
+36,Owner-Occupied,ID,Nez Perce,27419,27287,27247,28029,27545,27926,27976,28835,28889,30159
+37,Renter-Occupied,ID,Nez Perce,10839,11071,11148,10518,11116,10783,10950,10138,10226,9085
+0,Avg household size of owner-occupied unit,ID,Oneida,2.88,2.78,2.71,2.7,2.59,2.72,2.85,2.79,2.78,2.82
+1,Avg household size of renter-occupied unit,ID,Oneida,1.94,2.23,2.43,2.56,2.3,2.42,2.31,2.33,2.42,2.23
+36,Owner-Occupied,ID,Oneida,3635,3574,3545,3458,3584,3429,3460,3466,3553,3632
+37,Renter-Occupied,ID,Oneida,567,608,650,759,623,783,778,787,742,724
+0,Avg household size of owner-occupied unit,ID,Owyhee,2.66,2.77,2.85,2.87,2.89,2.95,2.83,2.72,2.67,2.67
+1,Avg household size of renter-occupied unit,ID,Owyhee,3.12,3.27,3.07,2.95,2.9,2.66,2.59,2.61,2.65,2.58
+36,Owner-Occupied,ID,Owyhee,7241,7300,7108,7207,7360,7768,7679,7779,8000,8187
+37,Renter-Occupied,ID,Owyhee,4042,4043,4248,4133,3906,3440,3521,3463,3318,3241
+0,Avg household size of owner-occupied unit,ID,Payette,2.74,2.72,2.78,2.81,2.78,2.83,2.8,2.71,2.67,2.67
+1,Avg household size of renter-occupied unit,ID,Payette,2.59,2.57,2.6,2.72,2.59,2.57,2.64,2.47,2.46,2.44
+36,Owner-Occupied,ID,Payette,16963,17279,17305,16896,17255,17533,17462,17182,16998,17195
+37,Renter-Occupied,ID,Payette,5488,5151,5142,5571,5241,5015,5166,5512,5893,5911
+0,Avg household size of owner-occupied unit,ID,Power,2.88,2.96,2.91,2.86,2.75,2.77,2.8,2.84,2.95,3.03
+1,Avg household size of renter-occupied unit,ID,Power,2.91,2.84,3.24,3.33,3.55,3.52,3.93,3.32,2.98,2.5
+36,Owner-Occupied,ID,Power,5489,5695,5474,5193,4671,5058,5122,5073,5251,5927
+37,Renter-Occupied,ID,Power,2021,1908,2171,2498,2998,2600,2494,2524,2391,1682
+0,Avg household size of owner-occupied unit,ID,Shoshone,2.22,2.16,2.13,2.1,2.08,2.14,2.14,2.12,2.19,2.21
+1,Avg household size of renter-occupied unit,ID,Shoshone,2.17,2.13,2.17,2.32,2.23,2.2,2.24,2.29,2.24,2.36
+36,Owner-Occupied,ID,Shoshone,9143,8748,8475,8198,8158,8337,8307,8350,8513,8439
+37,Renter-Occupied,ID,Shoshone,3584,3700,3939,4180,4156,3979,3976,3852,3706,3868
+0,Avg household size of owner-occupied unit,ID,Teton,2.54,2.57,2.68,2.83,2.86,2.82,2.78,2.87,3.02,3.08
+1,Avg household size of renter-occupied unit,ID,Teton,2.36,2.52,2.78,2.8,2.88,2.94,2.85,2.83,2.82,3.1
+36,Owner-Occupied,ID,Teton,5738,6405,6887,7318,7249,7298,7407,7882,8340,8865
+37,Renter-Occupied,ID,Teton,3604,3334,3081,2794,2948,2987,3030,2894,2740,2561
+0,Avg household size of owner-occupied unit,ID,Twin Falls,2.7,2.67,2.67,2.7,2.71,2.73,2.75,2.75,2.75,2.71
+1,Avg household size of renter-occupied unit,ID,Twin Falls,2.6,2.64,2.75,2.75,2.71,2.69,2.69,2.58,2.54,2.64
+36,Owner-Occupied,ID,Twin Falls,50720,50667,50003,50779,51550,52385,53782,56167,57916,58160
+37,Renter-Occupied,ID,Twin Falls,23057,23783,25447,25695,25909,26384,25918,24862,24541,25620
+0,Avg household size of owner-occupied unit,ID,Valley,2.18,2.32,2.48,2.47,2.72,2.8,2.69,2.63,3.02,2.67
+1,Avg household size of renter-occupied unit,ID,Valley,2.42,2.71,3.2,3.52,3.61,3.5,3.24,3.37,2.71,2.94
+36,Owner-Occupied,ID,Valley,7429,7196,7080,6753,6760,6476,7122,7032,8219,8340
+37,Renter-Occupied,ID,Valley,2368,2484,2513,2754,2720,3059,2592,2893,1997,2182
+0,Avg household size of owner-occupied unit,ID,Washington,2.54,2.59,2.55,2.57,2.63,2.6,2.55,2.45,2.48,2.48
+1,Avg household size of renter-occupied unit,ID,Washington,2.32,2.13,2.37,2.36,2.31,2.56,2.52,2.54,2.42,2.4
+36,Owner-Occupied,ID,Washington,7676,7934,7556,7739,7480,7260,7249,7143,7003,7270
+37,Renter-Occupied,ID,Washington,2297,2077,2441,2204,2437,2611,2638,2714,2893,2655

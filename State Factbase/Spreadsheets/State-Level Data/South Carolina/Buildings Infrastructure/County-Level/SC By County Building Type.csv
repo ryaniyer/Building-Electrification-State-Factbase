@@ -1,0 +1,461 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40,Units in Structure: 1 ATTACHED,SC,Abbeville,49,29,33,44,110,110,123,142,115,42
+41,Units in Structure: 1 DETACHED,SC,Abbeville,7509,7719,8068,8184,8031,8081,7979,8016,7832,8058
+42,Units in Structure: 10-19,SC,Abbeville,0,0,21,22,19,24,22,0,2,1
+43,Units in Structure: 2,SC,Abbeville,317,247,236,92,114,75,79,95,226,231
+44,Units in Structure: 20-49,SC,Abbeville,9,12,15,12,11,50,64,91,109,136
+45,Units in Structure: 3-4,SC,Abbeville,197,253,282,364,387,283,287,299,288,335
+46,Units in Structure: 5-9,SC,Abbeville,385,298,261,230,256,252,210,154,219,186
+47,Units in Structure: 50+,SC,Abbeville,23,23,33,26,24,18,21,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Abbeville,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SC,Abbeville,3587,3501,3117,3055,3079,3115,3229,3329,3331,3202
+40,Units in Structure: 1 ATTACHED,SC,Aiken,2011,2140,2157,2176,2032,1855,1989,2163,2148,2386
+41,Units in Structure: 1 DETACHED,SC,Aiken,45739,45801,46152,46547,47293,48137,48516,49349,50535,51680
+42,Units in Structure: 10-19,SC,Aiken,809,990,931,1024,1134,1125,1012,1093,959,898
+43,Units in Structure: 2,SC,Aiken,988,1013,1258,1282,1428,1509,1490,1334,1532,1350
+44,Units in Structure: 20-49,SC,Aiken,435,477,512,528,468,513,495,537,596,542
+45,Units in Structure: 3-4,SC,Aiken,1858,2120,1950,1777,1983,1781,1633,1929,2132,1972
+46,Units in Structure: 5-9,SC,Aiken,2160,1923,1828,1778,1842,1899,2152,2340,2200,2163
+47,Units in Structure: 50+,SC,Aiken,540,512,474,411,382,475,535,577,647,612
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Aiken,152,88,91,185,29,32,37,57,25,28
+49,Units in Structure: Mobile Home,SC,Aiken,16096,16621,16895,16869,16634,16323,16242,15870,15160,15145
+40,Units in Structure: 1 ATTACHED,SC,Allendale,10,1,1,5,4,4,3,5,9,24
+41,Units in Structure: 1 DETACHED,SC,Allendale,2911,2953,2864,2967,2908,2897,2810,2811,2612,2787
+42,Units in Structure: 10-19,SC,Allendale,59,71,73,98,94,92,95,56,35,19
+43,Units in Structure: 2,SC,Allendale,194,103,98,41,24,23,95,113,118,89
+44,Units in Structure: 20-49,SC,Allendale,78,112,161,200,218,215,164,111,137,117
+45,Units in Structure: 3-4,SC,Allendale,143,87,63,24,9,12,19,33,72,85
+46,Units in Structure: 5-9,SC,Allendale,89,61,113,101,69,58,47,13,17,19
+47,Units in Structure: 50+,SC,Allendale,0,0,0,0,0,0,0,0,12,33
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Allendale,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SC,Allendale,1042,1118,1111,1022,1128,1147,1207,1338,1475,1339
+40,Units in Structure: 1 ATTACHED,SC,Anderson,1037,1349,1544,1523,1620,1729,1568,1502,1580,1488
+41,Units in Structure: 1 DETACHED,SC,Anderson,56677,57158,57889,58112,58645,59346,59015,60110,60333,61417
+42,Units in Structure: 10-19,SC,Anderson,1356,1511,1547,1638,1669,1647,1659,1780,1780,1758
+43,Units in Structure: 2,SC,Anderson,1793,1876,1668,1813,1927,1934,1723,1739,1606,1713
+44,Units in Structure: 20-49,SC,Anderson,878,985,1025,1145,1035,1079,1138,1367,1325,1415
+45,Units in Structure: 3-4,SC,Anderson,2022,1940,1769,1881,1947,1753,1735,1623,1602,1518
+46,Units in Structure: 5-9,SC,Anderson,2678,2828,2629,2810,2704,2811,3003,2994,3416,3574
+47,Units in Structure: 50+,SC,Anderson,590,717,795,801,765,564,631,590,685,633
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Anderson,123,156,152,135,89,51,26,53,38,35
+49,Units in Structure: Mobile Home,SC,Anderson,16598,15850,15689,14871,14663,14382,15177,15038,15060,14658
+40,Units in Structure: 1 ATTACHED,SC,Bamberg,42,69,39,64,52,58,47,22,12,24
+41,Units in Structure: 1 DETACHED,SC,Bamberg,5259,5565,5353,5221,5010,4873,4606,4562,4680,4824
+42,Units in Structure: 10-19,SC,Bamberg,22,17,58,87,52,125,130,87,89,93
+43,Units in Structure: 2,SC,Bamberg,113,106,34,82,147,142,115,124,128,150
+44,Units in Structure: 20-49,SC,Bamberg,79,105,60,65,111,78,63,69,86,0
+45,Units in Structure: 3-4,SC,Bamberg,215,210,219,201,104,80,224,190,179,247
+46,Units in Structure: 5-9,SC,Bamberg,100,39,15,12,9,0,12,47,92,118
+47,Units in Structure: 50+,SC,Bamberg,9,11,13,0,19,35,23,22,29,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Bamberg,23,34,38,43,54,0,0,0,0,0
+49,Units in Structure: Mobile Home,SC,Bamberg,1778,1536,1849,1884,2101,2255,2404,2568,2393,2251
+40,Units in Structure: 1 ATTACHED,SC,Barnwell,122,99,106,98,69,49,65,64,51,52
+41,Units in Structure: 1 DETACHED,SC,Barnwell,6172,6212,6303,6033,6036,6004,5801,5635,5798,5836
+42,Units in Structure: 10-19,SC,Barnwell,49,53,88,109,103,162,232,201,213,213
+43,Units in Structure: 2,SC,Barnwell,218,229,134,92,88,124,113,126,154,223
+44,Units in Structure: 20-49,SC,Barnwell,37,37,47,83,195,258,308,272,266,211
+45,Units in Structure: 3-4,SC,Barnwell,267,232,193,153,144,88,88,128,223,327
+46,Units in Structure: 5-9,SC,Barnwell,152,103,95,72,98,105,123,173,202,189
+47,Units in Structure: 50+,SC,Barnwell,12,57,64,107,152,141,99,100,70,18
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Barnwell,2,2,13,15,25,30,27,12,11,0
+49,Units in Structure: Mobile Home,SC,Barnwell,3422,3434,3405,3653,3521,3450,3530,3814,3558,3482
+40,Units in Structure: 1 ATTACHED,SC,Beaufort,4782,4439,4071,4330,4493,5145,5504,6183,6540,6804
+41,Units in Structure: 1 DETACHED,SC,Beaufort,53717,55376,56040,56138,56675,57226,58151,59525,60573,61508
+42,Units in Structure: 10-19,SC,Beaufort,3186,3241,3423,3866,4096,4460,4651,4676,4452,3921
+43,Units in Structure: 2,SC,Beaufort,1486,1668,1518,1306,1213,1028,941,858,791,661
+44,Units in Structure: 20-49,SC,Beaufort,3606,4285,4245,4263,4440,4679,4973,5143,5712,5516
+45,Units in Structure: 3-4,SC,Beaufort,3314,3205,3330,3430,3540,3311,3257,2919,2628,2685
+46,Units in Structure: 5-9,SC,Beaufort,5508,5240,5340,5476,5671,5657,5346,5324,4856,4862
+47,Units in Structure: 50+,SC,Beaufort,4190,4323,4512,4351,4395,3917,3531,3473,3548,4152
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Beaufort,64,55,80,88,58,34,32,6,36,92
+49,Units in Structure: Mobile Home,SC,Beaufort,9289,9598,9814,9624,8899,8401,8245,8294,8695,9003
+40,Units in Structure: 1 ATTACHED,SC,Berkeley,2479,2757,2817,2766,2944,3028,2977,3161,3315,3294
+41,Units in Structure: 1 DETACHED,SC,Berkeley,42311,43653,44804,45882,47202,48484,50063,51174,52913,54211
+42,Units in Structure: 10-19,SC,Berkeley,2381,2547,2542,2574,2742,2954,2801,3043,2893,3160
+43,Units in Structure: 2,SC,Berkeley,1327,1279,1224,1187,1135,1051,1033,1173,1148,922
+44,Units in Structure: 20-49,SC,Berkeley,1223,1393,1609,1662,1815,1790,1868,1814,1967,2134
+45,Units in Structure: 3-4,SC,Berkeley,1929,1837,1816,1619,1331,1416,1371,1460,1406,1441
+46,Units in Structure: 5-9,SC,Berkeley,3344,3403,3345,3444,3521,3022,2913,2953,3019,3015
+47,Units in Structure: 50+,SC,Berkeley,399,346,402,410,398,309,379,420,618,807
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Berkeley,42,32,38,115,100,105,122,121,85,128
+49,Units in Structure: Mobile Home,SC,Berkeley,14694,14781,14706,14622,14252,14344,14296,14730,14666,14986
+40,Units in Structure: 1 ATTACHED,SC,Calhoun,45,64,45,69,73,111,96,109,75,85
+41,Units in Structure: 1 DETACHED,SC,Calhoun,4527,4577,4529,4476,4613,4651,4371,4727,4832,4659
+42,Units in Structure: 10-19,SC,Calhoun,0,2,9,9,16,15,13,10,12,0
+43,Units in Structure: 2,SC,Calhoun,38,81,83,86,125,102,79,70,80,30
+44,Units in Structure: 20-49,SC,Calhoun,11,13,7,61,47,53,41,44,4,7
+45,Units in Structure: 3-4,SC,Calhoun,71,93,78,102,29,39,28,32,36,51
+46,Units in Structure: 5-9,SC,Calhoun,70,76,74,74,87,74,58,41,31,25
+47,Units in Structure: 50+,SC,Calhoun,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Calhoun,10,7,8,0,0,0,0,0,0,18
+49,Units in Structure: Mobile Home,SC,Calhoun,2546,2423,2509,2430,2318,2268,2619,2395,2366,2589
+40,Units in Structure: 1 ATTACHED,SC,Charleston,7682,8298,8864,9325,10559,10965,11138,11370,11633,11395
+41,Units in Structure: 1 DETACHED,SC,Charleston,97430,98653,100133,100409,101179,102669,103664,105070,107462,109673
+42,Units in Structure: 10-19,SC,Charleston,9905,10158,10281,10591,10664,10417,10039,9895,10024,10482
+43,Units in Structure: 2,SC,Charleston,6955,7174,6533,6478,6022,5651,5436,5583,5619,5408
+44,Units in Structure: 20-49,SC,Charleston,5032,5561,5782,5991,6343,6426,6185,6566,6994,7018
+45,Units in Structure: 3-4,SC,Charleston,9382,8801,8899,8563,8696,8522,9229,9846,9885,9783
+46,Units in Structure: 5-9,SC,Charleston,15105,14683,14985,14876,14786,15099,15631,14987,13436,13744
+47,Units in Structure: 50+,SC,Charleston,3389,3357,3436,3794,4053,4251,5002,5938,7284,8168
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Charleston,84,58,57,49,31,32,28,14,7,48
+49,Units in Structure: Mobile Home,SC,Charleston,12190,12025,11431,11549,11171,11575,11816,12057,12266,12234
+40,Units in Structure: 1 ATTACHED,SC,Cherokee,286,221,164,220,238,228,221,251,214,166
+41,Units in Structure: 1 DETACHED,SC,Cherokee,13883,13847,13667,13854,13895,13859,14159,14592,14451,14815
+42,Units in Structure: 10-19,SC,Cherokee,503,483,409,422,350,308,238,198,196,246
+43,Units in Structure: 2,SC,Cherokee,498,500,544,448,465,639,588,529,564,534
+44,Units in Structure: 20-49,SC,Cherokee,101,178,200,195,187,144,124,102,117,147
+45,Units in Structure: 3-4,SC,Cherokee,520,555,522,579,644,618,630,706,681,647
+46,Units in Structure: 5-9,SC,Cherokee,1084,886,787,708,908,962,966,980,1061,990
+47,Units in Structure: 50+,SC,Cherokee,47,45,65,63,49,89,94,85,89,86
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Cherokee,15,16,33,31,13,52,42,48,54,65
+49,Units in Structure: Mobile Home,SC,Cherokee,6888,7188,7552,7417,7231,7094,6951,6783,6953,6872
+40,Units in Structure: 1 ATTACHED,SC,Chester,81,44,31,51,66,66,68,81,55,34
+41,Units in Structure: 1 DETACHED,SC,Chester,10107,10107,10210,10077,10111,10184,10296,10666,10643,10645
+42,Units in Structure: 10-19,SC,Chester,52,66,111,107,115,119,137,81,90,49
+43,Units in Structure: 2,SC,Chester,341,274,268,295,254,373,389,331,281,257
+44,Units in Structure: 20-49,SC,Chester,21,26,18,19,23,28,31,30,42,112
+45,Units in Structure: 3-4,SC,Chester,210,270,231,201,252,275,338,319,351,255
+46,Units in Structure: 5-9,SC,Chester,337,344,282,328,341,373,412,452,403,397
+47,Units in Structure: 50+,SC,Chester,23,42,46,38,39,39,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Chester,0,23,17,30,30,25,12,11,3,0
+49,Units in Structure: Mobile Home,SC,Chester,3550,3531,3492,3473,3392,3162,2911,2779,2884,3006
+40,Units in Structure: 1 ATTACHED,SC,Chesterfield,170,99,66,124,90,89,104,104,61,76
+41,Units in Structure: 1 DETACHED,SC,Chesterfield,12118,12265,12637,12331,12257,12382,12228,12421,12238,11951
+42,Units in Structure: 10-19,SC,Chesterfield,25,36,48,51,48,33,10,22,23,20
+43,Units in Structure: 2,SC,Chesterfield,616,496,452,577,600,422,501,599,656,720
+44,Units in Structure: 20-49,SC,Chesterfield,40,31,40,38,27,23,37,27,38,28
+45,Units in Structure: 3-4,SC,Chesterfield,444,502,527,562,524,492,436,405,330,376
+46,Units in Structure: 5-9,SC,Chesterfield,457,513,445,590,508,551,652,566,546,567
+47,Units in Structure: 50+,SC,Chesterfield,4,16,23,26,17,30,6,7,7,7
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Chesterfield,23,3,10,12,0,0,0,56,73,87
+49,Units in Structure: Mobile Home,SC,Chesterfield,7248,7382,7132,7008,7319,7306,7305,7324,7619,7843
+40,Units in Structure: 1 ATTACHED,SC,Clarendon,70,103,93,75,125,167,120,98,121,67
+41,Units in Structure: 1 DETACHED,SC,Clarendon,9196,9152,9275,9343,9408,9542,9642,9577,9529,9672
+42,Units in Structure: 10-19,SC,Clarendon,122,113,106,165,173,117,102,81,32,116
+43,Units in Structure: 2,SC,Clarendon,76,93,88,76,69,72,95,175,165,176
+44,Units in Structure: 20-49,SC,Clarendon,144,177,118,148,154,122,113,99,110,93
+45,Units in Structure: 3-4,SC,Clarendon,208,156,265,203,234,265,268,254,376,410
+46,Units in Structure: 5-9,SC,Clarendon,265,346,365,375,442,441,337,357,289,254
+47,Units in Structure: 50+,SC,Clarendon,38,36,38,27,27,0,0,8,40,76
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Clarendon,10,5,9,0,0,0,0,0,5,6
+49,Units in Structure: Mobile Home,SC,Clarendon,7022,7141,7039,6964,6804,6676,6711,7026,7072,6970
+40,Units in Structure: 1 ATTACHED,SC,Colleton,314,325,359,288,281,180,164,140,155,119
+41,Units in Structure: 1 DETACHED,SC,Colleton,10798,10799,10936,10573,10532,10831,10997,10898,10808,10595
+42,Units in Structure: 10-19,SC,Colleton,166,240,174,332,323,329,291,311,184,204
+43,Units in Structure: 2,SC,Colleton,158,221,204,241,241,297,269,302,261,302
+44,Units in Structure: 20-49,SC,Colleton,148,150,149,155,200,171,171,142,152,135
+45,Units in Structure: 3-4,SC,Colleton,288,321,368,327,412,406,411,490,516,557
+46,Units in Structure: 5-9,SC,Colleton,420,451,391,351,362,318,329,384,322,286
+47,Units in Structure: 50+,SC,Colleton,98,82,113,81,78,56,70,15,14,63
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Colleton,13,9,12,15,25,24,22,23,24,30
+49,Units in Structure: Mobile Home,SC,Colleton,7301,7212,7126,7397,7328,7137,7005,7271,7579,7821
+40,Units in Structure: 1 ATTACHED,SC,Darlington,141,178,200,174,192,165,195,197,220,170
+41,Units in Structure: 1 DETACHED,SC,Darlington,18851,18904,18896,18819,18890,19040,18814,19002,18952,19263
+42,Units in Structure: 10-19,SC,Darlington,336,308,228,292,265,189,171,198,241,233
+43,Units in Structure: 2,SC,Darlington,735,785,779,854,852,801,854,878,810,782
+44,Units in Structure: 20-49,SC,Darlington,58,64,35,47,58,70,47,78,75,109
+45,Units in Structure: 3-4,SC,Darlington,357,421,341,319,399,482,448,472,612,567
+46,Units in Structure: 5-9,SC,Darlington,613,530,648,738,599,564,590,476,416,533
+47,Units in Structure: 50+,SC,Darlington,51,95,111,128,117,196,211,206,280,263
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Darlington,63,39,40,50,72,28,31,36,35,56
+49,Units in Structure: Mobile Home,SC,Darlington,9066,8997,9025,8794,8824,8709,8921,9088,9036,8822
+40,Units in Structure: 1 ATTACHED,SC,Dillon,38,31,23,23,31,16,68,63,85,74
+41,Units in Structure: 1 DETACHED,SC,Dillon,7401,7473,7617,7319,7465,7721,7690,7615,7963,7974
+42,Units in Structure: 10-19,SC,Dillon,35,35,82,71,90,106,130,64,51,46
+43,Units in Structure: 2,SC,Dillon,199,214,248,257,307,318,274,332,351,303
+44,Units in Structure: 20-49,SC,Dillon,4,6,15,16,20,31,35,26,32,25
+45,Units in Structure: 3-4,SC,Dillon,549,508,404,435,495,354,404,392,431,332
+46,Units in Structure: 5-9,SC,Dillon,305,294,260,176,155,197,189,197,211,261
+47,Units in Structure: 50+,SC,Dillon,44,44,30,17,19,0,0,17,15,15
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Dillon,0,0,19,18,24,26,22,0,0,0
+49,Units in Structure: Mobile Home,SC,Dillon,5044,5092,4989,5306,5045,4850,4768,5027,4591,4737
+40,Units in Structure: 1 ATTACHED,SC,Dorchester,1373,1508,1738,1648,1691,1795,1990,2013,2288,2497
+41,Units in Structure: 1 DETACHED,SC,Dorchester,35760,36675,36850,37022,37095,36742,37566,39245,39346,40393
+42,Units in Structure: 10-19,SC,Dorchester,1232,1311,1515,1676,2067,2152,2630,2719,2745,2283
+43,Units in Structure: 2,SC,Dorchester,837,761,659,678,797,1014,945,811,1055,1034
+44,Units in Structure: 20-49,SC,Dorchester,1183,1487,1753,1796,1746,1931,1540,1289,1295,1231
+45,Units in Structure: 3-4,SC,Dorchester,1303,1442,1289,1295,1516,1771,1868,2096,2069,1978
+46,Units in Structure: 5-9,SC,Dorchester,3218,3172,3079,3340,2871,2803,2718,2606,2614,3018
+47,Units in Structure: 50+,SC,Dorchester,382,392,398,482,401,405,376,414,479,486
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Dorchester,0,0,0,0,9,29,29,28,36,44
+49,Units in Structure: Mobile Home,SC,Dorchester,7290,7414,7631,7634,8164,8361,8050,7817,7850,7597
+40,Units in Structure: 1 ATTACHED,SC,Edgefield,5,5,20,44,90,82,88,118,61,43
+41,Units in Structure: 1 DETACHED,SC,Edgefield,6703,6439,6566,6535,6639,6938,7103,7087,7096,7132
+42,Units in Structure: 10-19,SC,Edgefield,120,115,66,68,31,58,80,77,141,170
+43,Units in Structure: 2,SC,Edgefield,113,149,161,151,87,131,111,90,86,113
+44,Units in Structure: 20-49,SC,Edgefield,41,28,55,35,33,41,50,26,33,32
+45,Units in Structure: 3-4,SC,Edgefield,383,375,326,352,439,445,476,527,539,489
+46,Units in Structure: 5-9,SC,Edgefield,96,140,152,88,78,142,135,174,211,232
+47,Units in Structure: 50+,SC,Edgefield,24,11,13,23,32,11,14,16,4,4
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Edgefield,0,0,0,10,13,21,28,29,24,20
+49,Units in Structure: Mobile Home,SC,Edgefield,2900,3225,3162,3220,3133,2739,2540,2637,2680,2708
+40,Units in Structure: 1 ATTACHED,SC,Fairfield,68,92,71,67,58,59,48,85,29,33
+41,Units in Structure: 1 DETACHED,SC,Fairfield,7576,7691,7868,7766,7855,8176,8181,8150,8297,7989
+42,Units in Structure: 10-19,SC,Fairfield,77,103,177,150,160,171,170,54,59,64
+43,Units in Structure: 2,SC,Fairfield,113,138,120,136,178,188,143,115,157,249
+44,Units in Structure: 20-49,SC,Fairfield,0,0,0,47,60,39,40,39,11,12
+45,Units in Structure: 3-4,SC,Fairfield,322,453,371,270,264,182,71,91,67,71
+46,Units in Structure: 5-9,SC,Fairfield,442,404,328,321,329,288,344,491,360,363
+47,Units in Structure: 50+,SC,Fairfield,14,18,3,4,0,0,0,0,36,129
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Fairfield,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SC,Fairfield,2909,2722,2702,2862,2756,2558,2665,2787,2835,2980
+40,Units in Structure: 1 ATTACHED,SC,Florence,847,760,733,751,787,726,948,981,935,811
+41,Units in Structure: 1 DETACHED,SC,Florence,35052,35293,36011,36440,36566,37107,37058,37248,37650,38153
+42,Units in Structure: 10-19,SC,Florence,742,938,940,991,1228,1316,1417,1596,1518,1322
+43,Units in Structure: 2,SC,Florence,2016,1790,1774,1735,1805,1785,1861,1882,1906,1872
+44,Units in Structure: 20-49,SC,Florence,405,481,472,576,575,637,601,624,553,543
+45,Units in Structure: 3-4,SC,Florence,2371,2295,2188,2076,2071,1860,1983,2101,2181,2148
+46,Units in Structure: 5-9,SC,Florence,3295,3161,3447,3551,3300,3322,3088,2979,2920,3309
+47,Units in Structure: 50+,SC,Florence,386,376,385,391,479,500,550,656,723,749
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Florence,50,55,50,36,44,12,29,24,56,40
+49,Units in Structure: Mobile Home,SC,Florence,12242,12944,12489,12088,12057,11746,11553,11631,11661,11799
+40,Units in Structure: 1 ATTACHED,SC,Georgetown,937,795,841,945,1135,1329,1426,1675,2101,1949
+41,Units in Structure: 1 DETACHED,SC,Georgetown,20054,20341,20507,20257,20437,20546,20522,21190,21346,21563
+42,Units in Structure: 10-19,SC,Georgetown,977,1023,1008,925,793,702,604,475,313,423
+43,Units in Structure: 2,SC,Georgetown,672,594,552,507,482,367,543,537,508,453
+44,Units in Structure: 20-49,SC,Georgetown,699,830,910,807,849,951,900,814,861,706
+45,Units in Structure: 3-4,SC,Georgetown,1660,1625,1384,1260,1284,1309,1322,1417,1321,1324
+46,Units in Structure: 5-9,SC,Georgetown,1291,1463,1710,1747,2031,2128,2140,1953,2038,1815
+47,Units in Structure: 50+,SC,Georgetown,267,332,420,517,513,486,419,462,455,442
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Georgetown,0,0,0,0,17,19,20,20,23,14
+49,Units in Structure: Mobile Home,SC,Georgetown,6785,6560,6349,6682,6282,6093,6195,6085,6067,6656
+40,Units in Structure: 1 ATTACHED,SC,Greenville,6223,6110,6512,7058,6994,7178,7570,7611,7919,8011
+41,Units in Structure: 1 DETACHED,SC,Greenville,126821,129867,130785,130933,131703,133364,134945,136948,138989,142341
+42,Units in Structure: 10-19,SC,Greenville,9479,9650,9456,9434,9668,9672,9805,9811,9876,9779
+43,Units in Structure: 2,SC,Greenville,4571,4515,4627,4726,4881,4762,4917,4704,4356,4213
+44,Units in Structure: 20-49,SC,Greenville,6192,6907,7440,7749,7536,6712,6421,6301,6701,6645
+45,Units in Structure: 3-4,SC,Greenville,5285,5079,4806,4781,4671,4659,4849,5342,5212,5246
+46,Units in Structure: 5-9,SC,Greenville,9783,9058,9174,8561,8959,9385,9440,9566,10225,9915
+47,Units in Structure: 50+,SC,Greenville,3270,3647,3886,4150,4431,4538,4826,5215,5617,6524
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Greenville,65,55,62,64,68,65,94,135,114,129
+49,Units in Structure: Mobile Home,SC,Greenville,19411,18625,18600,18867,18909,19034,18684,19144,18702,18297
+40,Units in Structure: 1 ATTACHED,SC,Greenwood,827,819,1046,1081,1064,1119,1201,939,857,819
+41,Units in Structure: 1 DETACHED,SC,Greenwood,20890,21087,20351,20435,20080,20050,19816,20766,20917,20913
+42,Units in Structure: 10-19,SC,Greenwood,274,277,311,284,285,393,445,453,424,399
+43,Units in Structure: 2,SC,Greenwood,903,1109,1122,1066,1258,1232,1249,1202,1139,1038
+44,Units in Structure: 20-49,SC,Greenwood,324,195,305,368,378,394,518,425,446,502
+45,Units in Structure: 3-4,SC,Greenwood,1534,1410,1586,1651,1593,1658,1674,1627,1494,1552
+46,Units in Structure: 5-9,SC,Greenwood,1925,1802,2007,1808,1949,1809,1917,1914,1988,1988
+47,Units in Structure: 50+,SC,Greenwood,173,246,298,312,338,296,196,224,246,206
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Greenwood,0,0,23,26,26,14,26,43,39,52
+49,Units in Structure: Mobile Home,SC,Greenwood,3945,3984,3951,3958,4071,4138,4077,3702,3831,3984
+40,Units in Structure: 1 ATTACHED,SC,Hampton,10,12,14,7,9,22,23,29,25,37
+41,Units in Structure: 1 DETACHED,SC,Hampton,5587,5570,5574,5429,5404,5213,5309,5203,5064,5221
+42,Units in Structure: 10-19,SC,Hampton,28,24,0,8,9,20,23,24,10,9
+43,Units in Structure: 2,SC,Hampton,60,66,59,74,65,78,96,76,46,44
+44,Units in Structure: 20-49,SC,Hampton,33,55,41,53,54,29,51,62,60,55
+45,Units in Structure: 3-4,SC,Hampton,143,129,161,150,214,205,150,133,273,214
+46,Units in Structure: 5-9,SC,Hampton,218,192,188,199,137,198,168,177,191,170
+47,Units in Structure: 50+,SC,Hampton,36,29,29,11,8,15,19,9,9,5
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Hampton,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SC,Hampton,2957,3032,3042,3135,3179,3278,3190,3418,3462,3426
+40,Units in Structure: 1 ATTACHED,SC,Horry,4443,4882,5715,6534,7482,7952,8501,8183,8294,8573
+41,Units in Structure: 1 DETACHED,SC,Horry,81119,83988,84761,85145,86112,88095,89591,92279,95397,98825
+42,Units in Structure: 10-19,SC,Horry,15922,17507,17690,17484,17087,16775,15115,15316,15343,15155
+43,Units in Structure: 2,SC,Horry,3383,3588,3203,3212,3036,3112,3037,2911,2558,2303
+44,Units in Structure: 20-49,SC,Horry,8902,9364,9682,10194,10682,10781,11833,12345,12640,13079
+45,Units in Structure: 3-4,SC,Horry,7242,7531,7205,6870,6473,6366,5614,5781,5928,6268
+46,Units in Structure: 5-9,SC,Horry,16142,16021,15963,15488,15003,14234,13965,13713,13305,13697
+47,Units in Structure: 50+,SC,Horry,11366,12506,13794,15311,16657,16894,18084,18773,19186,18697
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Horry,138,146,110,95,101,122,92,99,102,107
+49,Units in Structure: Mobile Home,SC,Horry,29423,27528,27315,26624,26478,26771,27728,28829,29243,29218
+40,Units in Structure: 1 ATTACHED,SC,Jasper,30,56,65,73,68,86,100,116,183,229
+41,Units in Structure: 1 DETACHED,SC,Jasper,5942,6469,6591,6023,6118,6026,6006,6323,6570,6902
+42,Units in Structure: 10-19,SC,Jasper,9,24,67,181,147,214,217,203,186,131
+43,Units in Structure: 2,SC,Jasper,128,99,52,64,82,47,47,53,27,19
+44,Units in Structure: 20-49,SC,Jasper,65,90,166,240,215,269,275,281,255,291
+45,Units in Structure: 3-4,SC,Jasper,58,65,82,87,174,181,186,185,175,130
+46,Units in Structure: 5-9,SC,Jasper,212,322,328,387,385,474,457,507,534,511
+47,Units in Structure: 50+,SC,Jasper,0,13,16,56,47,50,38,72,64,66
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Jasper,0,0,9,13,18,13,8,0,12,23
+49,Units in Structure: Mobile Home,SC,Jasper,3149,2780,2837,3284,3326,3369,3590,3566,3556,3563
+40,Units in Structure: 1 ATTACHED,SC,Kershaw,203,214,228,186,100,85,115,177,206,188
+41,Units in Structure: 1 DETACHED,SC,Kershaw,18065,18226,18674,18451,18914,19312,19747,19967,20232,20160
+42,Units in Structure: 10-19,SC,Kershaw,68,68,91,118,98,111,121,130,93,60
+43,Units in Structure: 2,SC,Kershaw,157,81,146,230,289,269,263,241,204,197
+44,Units in Structure: 20-49,SC,Kershaw,125,129,152,103,66,87,95,78,70,112
+45,Units in Structure: 3-4,SC,Kershaw,317,350,342,328,210,200,132,155,179,232
+46,Units in Structure: 5-9,SC,Kershaw,657,700,654,801,1017,778,636,529,481,264
+47,Units in Structure: 50+,SC,Kershaw,47,40,29,58,30,55,47,60,116,225
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Kershaw,11,0,0,0,0,0,0,20,52,54
+49,Units in Structure: Mobile Home,SC,Kershaw,7134,7361,7122,7271,7028,6999,6887,7192,7166,7629
+40,Units in Structure: 1 ATTACHED,SC,Lancaster,424,745,835,931,1140,1247,1296,1447,1564,1514
+41,Units in Structure: 1 DETACHED,SC,Lancaster,23377,23792,23996,24001,24507,25336,25978,27283,28335,29463
+42,Units in Structure: 10-19,SC,Lancaster,134,77,45,71,85,71,138,262,247,265
+43,Units in Structure: 2,SC,Lancaster,552,399,357,419,356,269,322,337,352,310
+44,Units in Structure: 20-49,SC,Lancaster,96,78,94,91,60,64,116,107,173,171
+45,Units in Structure: 3-4,SC,Lancaster,598,765,792,937,1042,1020,824,768,581,416
+46,Units in Structure: 5-9,SC,Lancaster,825,805,800,966,963,888,879,795,718,745
+47,Units in Structure: 50+,SC,Lancaster,159,109,109,105,133,129,148,162,130,186
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Lancaster,0,0,3,3,2,5,4,3,16,18
+49,Units in Structure: Mobile Home,SC,Lancaster,5307,5420,5350,5038,4700,4435,4421,4172,4344,4338
+40,Units in Structure: 1 ATTACHED,SC,Laurens,204,153,159,118,131,172,171,171,255,288
+41,Units in Structure: 1 DETACHED,SC,Laurens,18597,18537,18171,18295,18149,18333,18464,18923,18799,18964
+42,Units in Structure: 10-19,SC,Laurens,97,93,87,77,120,123,158,146,136,188
+43,Units in Structure: 2,SC,Laurens,426,337,394,349,370,332,399,329,345,306
+44,Units in Structure: 20-49,SC,Laurens,178,111,117,202,237,287,253,311,252,240
+45,Units in Structure: 3-4,SC,Laurens,496,415,351,367,414,438,556,604,604,682
+46,Units in Structure: 5-9,SC,Laurens,732,775,944,947,1004,1092,970,758,880,748
+47,Units in Structure: 50+,SC,Laurens,137,178,189,191,183,106,109,141,106,125
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Laurens,0,0,0,27,42,48,41,62,55,63
+49,Units in Structure: Mobile Home,SC,Laurens,9949,10154,10328,9998,9975,9699,9489,9610,9750,9741
+40,Units in Structure: 1 ATTACHED,SC,Lee,12,17,15,14,3,5,0,17,30,37
+41,Units in Structure: 1 DETACHED,SC,Lee,4342,4435,4535,4497,4543,4513,4572,4514,4490,4575
+42,Units in Structure: 10-19,SC,Lee,13,19,32,44,53,48,48,37,33,24
+43,Units in Structure: 2,SC,Lee,86,74,74,65,87,59,52,82,113,130
+44,Units in Structure: 20-49,SC,Lee,42,81,74,76,72,120,79,53,49,51
+45,Units in Structure: 3-4,SC,Lee,113,100,75,81,112,150,154,219,208,199
+46,Units in Structure: 5-9,SC,Lee,240,173,157,115,95,160,121,126,129,165
+47,Units in Structure: 50+,SC,Lee,0,0,0,10,13,12,11,31,56,61
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Lee,26,12,13,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,SC,Lee,2946,2878,2811,2817,2751,2638,2646,2681,2663,2531
+40,Units in Structure: 1 ATTACHED,SC,Lexington,2456,2792,2688,2497,2448,2341,2200,2466,2463,2421
+41,Units in Structure: 1 DETACHED,SC,Lexington,72529,73819,75280,75689,75709,76933,78854,80844,82799,84890
+42,Units in Structure: 10-19,SC,Lexington,2513,2173,2358,2612,2614,2660,2604,2709,2895,2817
+43,Units in Structure: 2,SC,Lexington,1433,1577,1485,1684,2021,1865,1855,1892,1704,1458
+44,Units in Structure: 20-49,SC,Lexington,1462,1842,1940,2008,2106,2023,1955,1951,1976,1989
+45,Units in Structure: 3-4,SC,Lexington,2056,2398,2422,2429,2435,2667,2420,2380,2611,2638
+46,Units in Structure: 5-9,SC,Lexington,4188,4033,4010,3824,4053,3983,3898,3798,3791,3621
+47,Units in Structure: 50+,SC,Lexington,1019,1176,1255,1249,1263,1402,1434,1376,1404,1541
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Lexington,108,56,81,66,68,91,105,131,151,165
+49,Units in Structure: Mobile Home,SC,Lexington,22346,22556,22291,22793,23640,23481,23319,23489,22917,22866
+40,Units in Structure: 1 ATTACHED,SC,McCormick,78,88,76,73,65,64,77,68,48,20
+41,Units in Structure: 1 DETACHED,SC,McCormick,3696,3646,3627,3654,3623,3558,3630,3669,3858,3945
+42,Units in Structure: 10-19,SC,McCormick,0,0,0,0,2,3,4,4,4,7
+43,Units in Structure: 2,SC,McCormick,127,89,77,53,51,46,39,27,23,26
+44,Units in Structure: 20-49,SC,McCormick,0,0,0,17,18,16,25,30,6,9
+45,Units in Structure: 3-4,SC,McCormick,249,177,144,137,146,127,133,146,172,195
+46,Units in Structure: 5-9,SC,McCormick,39,30,36,45,63,71,61,53,82,70
+47,Units in Structure: 50+,SC,McCormick,0,0,4,4,3,3,3,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,McCormick,0,0,0,0,0,6,6,13,12,18
+49,Units in Structure: Mobile Home,SC,McCormick,1116,1364,1456,1446,1489,1562,1489,1540,1382,1344
+40,Units in Structure: 1 ATTACHED,SC,Marion,101,84,125,172,206,138,143,199,103,91
+41,Units in Structure: 1 DETACHED,SC,Marion,9286,9160,9121,9060,8871,8876,8963,8998,8806,8502
+42,Units in Structure: 10-19,SC,Marion,0,0,15,41,58,58,50,30,0,0
+43,Units in Structure: 2,SC,Marion,455,667,780,722,796,727,610,593,592,601
+44,Units in Structure: 20-49,SC,Marion,60,51,38,36,36,45,56,50,29,0
+45,Units in Structure: 3-4,SC,Marion,321,275,218,315,330,355,449,431,341,470
+46,Units in Structure: 5-9,SC,Marion,400,342,286,222,172,77,148,213,254,317
+47,Units in Structure: 50+,SC,Marion,0,0,0,0,0,25,17,17,16,26
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Marion,10,14,15,14,0,0,5,5,7,7
+49,Units in Structure: Mobile Home,SC,Marion,4419,4413,4371,4284,4404,4533,4354,4371,4780,4983
+40,Units in Structure: 1 ATTACHED,SC,Marlboro,39,26,51,59,57,55,88,90,75,65
+41,Units in Structure: 1 DETACHED,SC,Marlboro,7528,7517,7698,7720,7625,7490,7597,7427,7396,7375
+42,Units in Structure: 10-19,SC,Marlboro,56,59,0,10,24,54,43,60,40,35
+43,Units in Structure: 2,SC,Marlboro,427,494,473,437,428,406,347,335,273,249
+44,Units in Structure: 20-49,SC,Marlboro,58,58,55,20,20,54,68,76,77,84
+45,Units in Structure: 3-4,SC,Marlboro,485,524,443,423,395,348,213,294,303,297
+46,Units in Structure: 5-9,SC,Marlboro,257,202,244,221,324,321,393,426,478,355
+47,Units in Structure: 50+,SC,Marlboro,14,3,9,11,12,12,10,0,1,1
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Marlboro,0,1,1,15,20,23,27,26,40,37
+49,Units in Structure: Mobile Home,SC,Marlboro,3201,3194,3065,3088,3112,3220,3165,3287,3338,3551
+40,Units in Structure: 1 ATTACHED,SC,Newberry,337,243,162,166,104,137,128,116,60,61
+41,Units in Structure: 1 DETACHED,SC,Newberry,11771,12062,11692,11803,11805,11561,11474,11769,11735,12163
+42,Units in Structure: 10-19,SC,Newberry,90,109,140,189,194,182,146,167,234,175
+43,Units in Structure: 2,SC,Newberry,208,218,198,194,172,172,263,268,300,426
+44,Units in Structure: 20-49,SC,Newberry,47,110,77,109,149,190,130,126,134,97
+45,Units in Structure: 3-4,SC,Newberry,317,323,309,284,270,281,396,389,361,342
+46,Units in Structure: 5-9,SC,Newberry,313,299,375,468,477,533,522,389,283,242
+47,Units in Structure: 50+,SC,Newberry,70,72,123,111,104,65,66,95,134,141
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Newberry,5,4,3,13,16,19,18,17,15,10
+49,Units in Structure: Mobile Home,SC,Newberry,4632,4434,4808,4534,4645,4814,4837,4796,4918,4631
+40,Units in Structure: 1 ATTACHED,SC,Oconee,397,416,355,346,438,415,477,482,514,589
+41,Units in Structure: 1 DETACHED,SC,Oconee,25889,26206,26069,26387,26640,26684,26928,27143,26485,26742
+42,Units in Structure: 10-19,SC,Oconee,467,695,899,1010,1164,1241,1190,1154,1032,962
+43,Units in Structure: 2,SC,Oconee,487,483,461,597,739,810,780,897,957,773
+44,Units in Structure: 20-49,SC,Oconee,347,314,256,176,158,115,137,205,247,329
+45,Units in Structure: 3-4,SC,Oconee,680,537,798,802,793,859,1095,877,1040,948
+46,Units in Structure: 5-9,SC,Oconee,777,947,971,802,662,695,712,745,739,724
+47,Units in Structure: 50+,SC,Oconee,86,67,96,91,114,157,124,252,307,318
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Oconee,172,121,135,128,66,76,88,68,94,102
+49,Units in Structure: Mobile Home,SC,Oconee,8411,8465,8577,8396,8119,7968,7608,7930,8641,8883
+40,Units in Structure: 1 ATTACHED,SC,Orangeburg,1071,1126,1004,764,718,644,607,666,635,622
+41,Units in Structure: 1 DETACHED,SC,Orangeburg,23557,23682,24192,24474,24235,24377,24427,24359,24524,24920
+42,Units in Structure: 10-19,SC,Orangeburg,459,406,360,366,378,345,230,209,201,168
+43,Units in Structure: 2,SC,Orangeburg,636,630,756,862,1008,982,1155,1210,1331,1341
+44,Units in Structure: 20-49,SC,Orangeburg,104,217,239,310,317,414,338,258,222,163
+45,Units in Structure: 3-4,SC,Orangeburg,1471,1482,1434,1604,1460,1438,1291,1291,1195,1351
+46,Units in Structure: 5-9,SC,Orangeburg,782,840,824,724,662,559,524,650,687,659
+47,Units in Structure: 50+,SC,Orangeburg,96,46,99,74,97,155,178,126,156,149
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Orangeburg,82,111,110,83,31,36,26,30,26,33
+49,Units in Structure: Mobile Home,SC,Orangeburg,13913,13824,13368,12988,13434,13287,13397,13874,13712,13391
+40,Units in Structure: 1 ATTACHED,SC,Pickens,620,788,743,728,645,674,560,605,563,656
+41,Units in Structure: 1 DETACHED,SC,Pickens,32434,32377,32570,32332,32526,33230,33310,33756,34390,34633
+42,Units in Structure: 10-19,SC,Pickens,2141,2355,2262,2456,2240,2397,2652,2833,3027,3152
+43,Units in Structure: 2,SC,Pickens,1365,1383,1146,1363,1576,1649,1628,1552,1376,1385
+44,Units in Structure: 20-49,SC,Pickens,745,813,948,935,906,776,712,733,823,775
+45,Units in Structure: 3-4,SC,Pickens,1426,1466,1441,1318,1412,1143,1198,1270,1449,1417
+46,Units in Structure: 5-9,SC,Pickens,1999,1913,2218,2045,2149,1971,2077,1881,1868,1877
+47,Units in Structure: 50+,SC,Pickens,341,367,378,388,419,351,363,468,434,596
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Pickens,0,5,7,7,12,19,14,21,46,38
+49,Units in Structure: Mobile Home,SC,Pickens,9783,9639,9526,9614,9641,9521,9571,9838,9748,9735
+40,Units in Structure: 1 ATTACHED,SC,Richland,4037,4018,4227,3948,4112,3940,4085,3955,4032,4413
+41,Units in Structure: 1 DETACHED,SC,Richland,100693,101748,103385,105191,106050,105996,107340,108650,109486,111257
+42,Units in Structure: 10-19,SC,Richland,8765,8153,8589,9106,9086,9704,10441,10284,9799,10087
+43,Units in Structure: 2,SC,Richland,5611,5486,5518,5432,5189,5521,5619,5488,5616,5524
+44,Units in Structure: 20-49,SC,Richland,6839,7288,7324,7097,7195,6795,6611,6268,6035,5291
+45,Units in Structure: 3-4,SC,Richland,5881,5928,5467,5530,6069,6466,6613,6872,6859,6334
+46,Units in Structure: 5-9,SC,Richland,11457,12387,12388,12321,12203,12310,11695,11306,11867,12043
+47,Units in Structure: 50+,SC,Richland,5138,5958,6012,5853,5925,6214,5961,6861,7805,8644
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Richland,80,134,101,104,135,137,110,143,79,71
+49,Units in Structure: Mobile Home,SC,Richland,9063,8880,8649,8288,8283,8588,8807,9334,9422,9379
+40,Units in Structure: 1 ATTACHED,SC,Saluda,59,56,76,76,51,32,33,29,48,41
+41,Units in Structure: 1 DETACHED,SC,Saluda,5930,5968,5956,5831,5944,6120,6010,6005,6068,5920
+42,Units in Structure: 10-19,SC,Saluda,0,0,0,0,0,0,0,9,12,9
+43,Units in Structure: 2,SC,Saluda,44,47,58,65,24,22,34,46,42,43
+44,Units in Structure: 20-49,SC,Saluda,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,SC,Saluda,78,53,59,58,74,59,102,100,137,181
+46,Units in Structure: 5-9,SC,Saluda,89,105,130,132,163,137,134,131,98,78
+47,Units in Structure: 50+,SC,Saluda,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Saluda,0,0,0,0,0,0,11,15,62,54
+49,Units in Structure: Mobile Home,SC,Saluda,2994,3024,2976,3084,3007,2898,2952,3022,2917,3098
+40,Units in Structure: 1 ATTACHED,SC,Spartanburg,2040,2346,2420,2482,2521,2624,2355,2126,2290,2264
+41,Units in Structure: 1 DETACHED,SC,Spartanburg,84045,83382,83678,84731,84737,85350,86687,87469,88931,91554
+42,Units in Structure: 10-19,SC,Spartanburg,2715,2828,2832,3005,3019,2998,2994,3125,3166,2775
+43,Units in Structure: 2,SC,Spartanburg,3213,3261,3353,3290,3592,3692,3916,4055,4253,4099
+44,Units in Structure: 20-49,SC,Spartanburg,1567,1968,2300,2464,2658,2526,2427,2449,2461,2566
+45,Units in Structure: 3-4,SC,Spartanburg,2715,2924,2890,2893,2856,2881,2642,2638,2607,2678
+46,Units in Structure: 5-9,SC,Spartanburg,4692,4805,4646,4150,4371,4301,4127,4464,4408,4151
+47,Units in Structure: 50+,SC,Spartanburg,1224,1243,1452,1438,1430,1459,1578,1561,1574,1632
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Spartanburg,39,24,25,18,5,5,12,14,24,26
+49,Units in Structure: Mobile Home,SC,Spartanburg,18887,19248,19027,18235,18207,18095,17894,18395,18136,17859
+40,Units in Structure: 1 ATTACHED,SC,Sumter,793,799,742,746,890,865,911,924,877,876
+41,Units in Structure: 1 DETACHED,SC,Sumter,27395,28102,28126,28351,29144,29697,29822,30140,30132,30421
+42,Units in Structure: 10-19,SC,Sumter,523,522,543,656,552,668,531,702,723,747
+43,Units in Structure: 2,SC,Sumter,1775,1557,1570,1682,1471,1363,1361,1153,1049,1046
+44,Units in Structure: 20-49,SC,Sumter,342,464,560,573,609,596,543,547,541,492
+45,Units in Structure: 3-4,SC,Sumter,1342,1249,1248,1202,1266,1122,1045,1144,1256,1222
+46,Units in Structure: 5-9,SC,Sumter,1607,1653,1638,1481,1367,1059,1005,855,991,956
+47,Units in Structure: 50+,SC,Sumter,459,604,623,703,730,708,580,632,643,663
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Sumter,0,0,25,36,44,85,73,51,45,53
+49,Units in Structure: Mobile Home,SC,Sumter,11206,10850,11004,10668,10424,10535,11029,11417,11580,11644
+40,Units in Structure: 1 ATTACHED,SC,Union,105,90,79,95,93,68,107,126,114,50
+41,Units in Structure: 1 DETACHED,SC,Union,9489,9650,9509,9574,9607,9456,9353,9618,9638,9784
+42,Units in Structure: 10-19,SC,Union,57,41,47,37,0,0,3,4,17,15
+43,Units in Structure: 2,SC,Union,284,285,352,353,355,336,321,313,246,201
+44,Units in Structure: 20-49,SC,Union,85,76,122,114,98,81,94,63,122,160
+45,Units in Structure: 3-4,SC,Union,210,218,242,221,192,324,349,325,346,377
+46,Units in Structure: 5-9,SC,Union,419,442,359,305,405,336,359,394,319,398
+47,Units in Structure: 50+,SC,Union,87,74,29,65,51,67,71,72,41,43
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Union,12,13,22,22,22,10,10,0,0,0
+49,Units in Structure: Mobile Home,SC,Union,3333,3236,3341,3281,3248,3371,3355,3178,3257,3067
+40,Units in Structure: 1 ATTACHED,SC,Williamsburg,71,33,43,52,41,43,69,65,56,82
+41,Units in Structure: 1 DETACHED,SC,Williamsburg,9076,8748,8553,8308,8016,8218,8174,8345,8275,8163
+42,Units in Structure: 10-19,SC,Williamsburg,60,60,51,24,25,26,73,91,54,79
+43,Units in Structure: 2,SC,Williamsburg,149,182,176,217,199,251,261,224,155,203
+44,Units in Structure: 20-49,SC,Williamsburg,14,43,71,69,91,152,108,79,74,77
+45,Units in Structure: 3-4,SC,Williamsburg,299,308,362,391,377,394,334,385,326,401
+46,Units in Structure: 5-9,SC,Williamsburg,424,347,310,245,198,216,166,205,227,224
+47,Units in Structure: 50+,SC,Williamsburg,7,6,8,12,6,14,49,51,39,41
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,Williamsburg,16,15,20,18,24,5,26,20,47,45
+49,Units in Structure: Mobile Home,SC,Williamsburg,5363,5676,5777,5907,6291,5901,5942,5915,6158,6165
+40,Units in Structure: 1 ATTACHED,SC,York,3584,3527,4038,4071,4751,5166,5740,6340,6697,6822
+41,Units in Structure: 1 DETACHED,SC,York,61175,63261,63865,64537,64957,65779,66276,68247,70204,72274
+42,Units in Structure: 10-19,SC,York,3569,3695,4213,4537,4379,4160,4391,4297,4267,4455
+43,Units in Structure: 2,SC,York,1525,1537,1684,1660,1931,1671,1436,1287,1059,944
+44,Units in Structure: 20-49,SC,York,1035,1345,1566,1836,2114,2056,2428,2711,3332,3997
+45,Units in Structure: 3-4,SC,York,2569,2698,2763,2422,2518,2565,2478,2315,2218,2158
+46,Units in Structure: 5-9,SC,York,4483,4329,3986,4176,3938,4198,4056,4020,3727,3597
+47,Units in Structure: 50+,SC,York,855,910,851,1068,1087,1354,1495,1582,1471,1717
+48,"Units in Structure: Boat,RV,Van,Etc.",SC,York,71,65,69,83,39,29,33,57,93,103
+49,Units in Structure: Mobile Home,SC,York,11159,11039,10972,10694,10746,10856,11305,11527,11777,11337

@@ -1,0 +1,576 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,MO,Adair,3665,3985,4052,3994,3982,4185,4151,4151,4031,3962
+4,House Heating Fuel: Fuel Oil,MO,Adair,41,23,25,12,30,16,19,16,19,5
+5,House Heating Fuel: Gas,MO,Adair,3811,3570,3460,3466,3371,3258,3267,3390,3446,3368
+6,House Heating Fuel: Propane,MO,Adair,1488,1401,1328,1508,1698,1712,1656,1723,1700,1603
+7,House Heating Fuel: Wood,MO,Adair,471,551,572,497,407,369,286,262,261,255
+3,House Heating Fuel: Electric,MO,Andrew,2931,3064,3143,3131,3074,3195,3284,3170,3209,3242
+4,House Heating Fuel: Fuel Oil,MO,Andrew,92,77,40,24,14,83,134,134,155,160
+5,House Heating Fuel: Gas,MO,Andrew,1851,1872,1814,1854,1972,1832,1758,1864,1841,1939
+6,House Heating Fuel: Propane,MO,Andrew,1448,1331,1386,1342,1315,1223,1125,1077,895,745
+7,House Heating Fuel: Wood,MO,Andrew,215,193,235,214,227,246,251,284,306,284
+3,House Heating Fuel: Electric,MO,Atchison,674,655,705,738,805,845,838,876,847,921
+4,House Heating Fuel: Fuel Oil,MO,Atchison,38,49,60,47,34,37,35,22,26,28
+5,House Heating Fuel: Gas,MO,Atchison,1106,1054,1016,986,1001,1029,1031,1083,1110,1107
+6,House Heating Fuel: Propane,MO,Atchison,539,583,553,551,504,465,400,325,294,311
+7,House Heating Fuel: Wood,MO,Atchison,43,44,53,54,61,61,95,75,80,37
+3,House Heating Fuel: Electric,MO,Audrain,3281,3375,3356,3515,3499,3453,3412,3569,3583,3716
+4,House Heating Fuel: Fuel Oil,MO,Audrain,0,0,0,0,0,0,0,5,5,4
+5,House Heating Fuel: Gas,MO,Audrain,4527,4272,4273,4200,4197,4118,4204,4222,4204,4185
+6,House Heating Fuel: Propane,MO,Audrain,1139,1106,1017,1058,1047,1071,1028,1032,991,939
+7,House Heating Fuel: Wood,MO,Audrain,544,605,572,493,546,548,550,547,461,379
+3,House Heating Fuel: Electric,MO,Barry,4414,4692,4734,4869,5126,5299,5353,5466,5409,5400
+4,House Heating Fuel: Fuel Oil,MO,Barry,6,10,5,15,13,15,14,14,1,25
+5,House Heating Fuel: Gas,MO,Barry,3436,3054,3162,3087,3034,3086,2961,2969,3038,2956
+6,House Heating Fuel: Propane,MO,Barry,4653,4424,4008,3682,3396,3020,2916,2859,3101,3489
+7,House Heating Fuel: Wood,MO,Barry,1636,1617,1677,1736,1716,1707,1835,1582,1460,1578
+3,House Heating Fuel: Electric,MO,Barton,966,1026,1037,1175,1254,1284,1434,1385,1393,1286
+4,House Heating Fuel: Fuel Oil,MO,Barton,52,53,46,5,15,14,16,18,19,8
+5,House Heating Fuel: Gas,MO,Barton,2246,2142,2151,2101,1937,1875,1742,1853,1824,1896
+6,House Heating Fuel: Propane,MO,Barton,1189,1261,1168,1153,1161,1216,1134,1187,1273,1292
+7,House Heating Fuel: Wood,MO,Barton,506,493,517,600,587,532,515,422,337,357
+3,House Heating Fuel: Electric,MO,Bates,1807,1917,1984,2184,2136,2144,2049,2089,2176,2107
+4,House Heating Fuel: Fuel Oil,MO,Bates,11,4,12,11,12,14,21,10,12,11
+5,House Heating Fuel: Gas,MO,Bates,2306,2334,2407,2350,2349,2264,2232,2237,2229,2266
+6,House Heating Fuel: Propane,MO,Bates,1789,1646,1631,1675,1668,1617,1665,1685,1680,1604
+7,House Heating Fuel: Wood,MO,Bates,662,677,676,582,582,586,582,592,543,492
+3,House Heating Fuel: Electric,MO,Benton,4241,4501,4327,4484,4647,4648,4716,4818,4883,4857
+4,House Heating Fuel: Fuel Oil,MO,Benton,18,14,40,25,22,21,30,9,23,25
+5,House Heating Fuel: Gas,MO,Benton,337,380,435,541,613,782,742,830,729,766
+6,House Heating Fuel: Propane,MO,Benton,2896,2528,2328,2150,1930,1655,1612,1422,1314,1288
+7,House Heating Fuel: Wood,MO,Benton,709,723,868,921,958,959,975,832,920,870
+3,House Heating Fuel: Electric,MO,Bollinger,1703,1629,1757,1808,1821,1931,1927,1902,1800,1660
+4,House Heating Fuel: Fuel Oil,MO,Bollinger,14,8,4,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,MO,Bollinger,557,588,590,624,612,495,485,497,426,470
+6,House Heating Fuel: Propane,MO,Bollinger,1589,1472,1351,1181,1072,1116,1152,1169,1272,1381
+7,House Heating Fuel: Wood,MO,Bollinger,928,1061,1073,1099,1195,1140,1172,1106,1035,996
+3,House Heating Fuel: Electric,MO,Boone,21023,21579,22494,23584,23539,24825,25996,26904,28074,29096
+4,House Heating Fuel: Fuel Oil,MO,Boone,58,34,34,5,10,37,30,27,43,50
+5,House Heating Fuel: Gas,MO,Boone,36305,36235,36016,35755,36538,35744,35538,35588,35757,35390
+6,House Heating Fuel: Propane,MO,Boone,4461,4418,4368,4344,4325,4443,4305,4476,4455,4507
+7,House Heating Fuel: Wood,MO,Boone,1283,1277,1405,1611,1287,1338,1318,1157,945,934
+3,House Heating Fuel: Electric,MO,Buchanan,9767,9741,10141,10722,11139,10953,11384,11287,11258,11436
+4,House Heating Fuel: Fuel Oil,MO,Buchanan,57,56,43,38,23,47,57,58,51,34
+5,House Heating Fuel: Gas,MO,Buchanan,21566,21365,20909,20113,19888,19825,19506,19315,19493,19503
+6,House Heating Fuel: Propane,MO,Buchanan,1918,1937,1831,1717,1669,1743,1728,1942,1951,1898
+7,House Heating Fuel: Wood,MO,Buchanan,431,435,486,517,466,436,476,470,452,429
+3,House Heating Fuel: Electric,MO,Butler,9046,9531,9577,9837,9587,9836,10074,10212,10712,10902
+4,House Heating Fuel: Fuel Oil,MO,Butler,46,35,23,34,34,8,17,14,7,10
+5,House Heating Fuel: Gas,MO,Butler,4490,4260,3939,3773,3710,3664,3562,3440,3072,2986
+6,House Heating Fuel: Propane,MO,Butler,2816,2850,2719,2535,2632,2465,2227,2124,1911,1791
+7,House Heating Fuel: Wood,MO,Butler,548,592,680,717,640,577,527,479,436,492
+3,House Heating Fuel: Electric,MO,Caldwell,1009,1059,1121,1091,1143,1149,1205,1179,1204,1199
+4,House Heating Fuel: Fuel Oil,MO,Caldwell,40,25,26,39,36,41,43,48,29,41
+5,House Heating Fuel: Gas,MO,Caldwell,455,437,427,454,384,398,406,405,398,411
+6,House Heating Fuel: Propane,MO,Caldwell,1924,1821,1805,1792,1721,1713,1667,1660,1614,1543
+7,House Heating Fuel: Wood,MO,Caldwell,259,304,287,291,331,343,323,359,355,363
+3,House Heating Fuel: Electric,MO,Callaway,7044,7260,7287,7355,7517,7564,7807,8034,8188,8250
+4,House Heating Fuel: Fuel Oil,MO,Callaway,40,44,40,50,52,23,12,34,20,47
+5,House Heating Fuel: Gas,MO,Callaway,4322,4269,4278,3896,3826,3893,3941,3696,3712,3547
+6,House Heating Fuel: Propane,MO,Callaway,3787,3821,3668,3666,3568,3226,2929,2815,2802,2862
+7,House Heating Fuel: Wood,MO,Callaway,1415,1468,1490,1474,1444,1330,1187,1396,1218,1150
+3,House Heating Fuel: Electric,MO,Camden,12168,12468,12185,12696,12657,12584,12370,12315,12061,12039
+4,House Heating Fuel: Fuel Oil,MO,Camden,8,0,17,28,36,33,36,64,152,280
+5,House Heating Fuel: Gas,MO,Camden,455,397,430,344,526,586,613,748,902,921
+6,House Heating Fuel: Propane,MO,Camden,4332,3938,3597,3172,2774,2264,2199,2014,1811,1629
+7,House Heating Fuel: Wood,MO,Camden,1294,1250,1319,1306,1293,1163,1036,1070,1090,1072
+3,House Heating Fuel: Electric,MO,Cape Girardeau,12622,12846,13446,13733,14321,14178,14154,13859,13633,13686
+4,House Heating Fuel: Fuel Oil,MO,Cape Girardeau,20,17,17,9,10,17,7,11,6,10
+5,House Heating Fuel: Gas,MO,Cape Girardeau,12897,12752,12340,12177,12065,12314,12399,12433,12531,12794
+6,House Heating Fuel: Propane,MO,Cape Girardeau,2820,2660,2429,2296,2188,2244,2218,2247,2232,2124
+7,House Heating Fuel: Wood,MO,Cape Girardeau,1181,1099,1153,1081,948,915,926,935,824,863
+3,House Heating Fuel: Electric,MO,Carroll,863,916,954,882,923,890,885,870,844,853
+4,House Heating Fuel: Fuel Oil,MO,Carroll,4,3,10,6,9,9,7,5,5,2
+5,House Heating Fuel: Gas,MO,Carroll,1672,1525,1447,1528,1479,1465,1553,1561,1489,1509
+6,House Heating Fuel: Propane,MO,Carroll,1060,927,940,929,980,969,978,953,977,927
+7,House Heating Fuel: Wood,MO,Carroll,238,257,265,228,223,272,255,208,215,183
+3,House Heating Fuel: Electric,MO,Carter,905,998,1124,1134,1221,1265,1233,1139,1160,1080
+4,House Heating Fuel: Fuel Oil,MO,Carter,0,0,0,0,0,13,12,11,12,15
+5,House Heating Fuel: Gas,MO,Carter,34,18,17,20,22,27,49,44,27,140
+6,House Heating Fuel: Propane,MO,Carter,924,910,868,807,725,691,687,668,663,692
+7,House Heating Fuel: Wood,MO,Carter,558,530,402,444,471,447,498,541,504,406
+3,House Heating Fuel: Electric,MO,Cass,10331,10677,10773,11144,11520,11987,11846,12049,12331,12679
+4,House Heating Fuel: Fuel Oil,MO,Cass,52,45,31,19,68,61,102,128,153,96
+5,House Heating Fuel: Gas,MO,Cass,21450,21704,22007,21674,21439,21433,21604,21795,22096,22197
+6,House Heating Fuel: Propane,MO,Cass,3667,3463,3408,3487,3349,3427,3446,3610,3630,3644
+7,House Heating Fuel: Wood,MO,Cass,763,831,870,850,980,940,875,943,1026,896
+3,House Heating Fuel: Electric,MO,Cedar,1871,1862,2006,2081,2180,2280,2379,2300,2103,2175
+4,House Heating Fuel: Fuel Oil,MO,Cedar,15,19,0,19,32,24,32,20,15,17
+5,House Heating Fuel: Gas,MO,Cedar,2123,2102,2081,1870,1762,1652,1532,1544,1632,1663
+6,House Heating Fuel: Propane,MO,Cedar,1315,1199,1111,1249,1130,1185,1278,1338,1290,1363
+7,House Heating Fuel: Wood,MO,Cedar,743,834,809,730,756,712,616,627,667,561
+3,House Heating Fuel: Electric,MO,Chariton,1084,1031,1014,1053,975,1034,1101,1123,1085,1083
+4,House Heating Fuel: Fuel Oil,MO,Chariton,23,40,34,19,16,25,11,12,14,11
+5,House Heating Fuel: Gas,MO,Chariton,924,858,834,764,737,707,729,736,653,645
+6,House Heating Fuel: Propane,MO,Chariton,844,856,825,805,943,926,867,801,872,749
+7,House Heating Fuel: Wood,MO,Chariton,237,263,280,297,260,245,183,148,134,163
+3,House Heating Fuel: Electric,MO,Christian,8304,8911,8913,9342,9897,10064,9607,10405,10498,10752
+4,House Heating Fuel: Fuel Oil,MO,Christian,71,61,59,39,30,31,27,0,12,10
+5,House Heating Fuel: Gas,MO,Christian,11553,11905,12149,11937,11747,11566,12135,12200,12659,12816
+6,House Heating Fuel: Propane,MO,Christian,6485,6108,6015,6059,6046,5964,6136,6055,5781,5988
+7,House Heating Fuel: Wood,MO,Christian,1723,1929,2004,2089,2067,2050,1993,1896,1889,1810
+3,House Heating Fuel: Electric,MO,Clark,776,775,772,749,786,818,852,849,847,836
+4,House Heating Fuel: Fuel Oil,MO,Clark,3,5,4,12,14,15,12,14,8,4
+5,House Heating Fuel: Gas,MO,Clark,819,851,793,783,725,746,727,720,747,666
+6,House Heating Fuel: Propane,MO,Clark,868,811,818,844,893,893,894,933,898,803
+7,House Heating Fuel: Wood,MO,Clark,308,364,361,311,377,322,309,341,421,326
+3,House Heating Fuel: Electric,MO,Clay,17694,18701,19348,20010,21219,22139,22556,23296,24110,24746
+4,House Heating Fuel: Fuel Oil,MO,Clay,151,164,154,136,101,84,80,98,98,69
+5,House Heating Fuel: Gas,MO,Clay,64681,64440,63718,63146,62378,61932,62039,62167,62139,62113
+6,House Heating Fuel: Propane,MO,Clay,2858,2966,2885,2989,2997,2721,2977,3376,3180,3549
+7,House Heating Fuel: Wood,MO,Clay,435,433,369,425,394,449,449,448,456,467
+3,House Heating Fuel: Electric,MO,Clinton,2232,2278,2509,2664,2656,2524,2718,2704,2688,2712
+4,House Heating Fuel: Fuel Oil,MO,Clinton,10,0,0,0,0,18,18,19,17,16
+5,House Heating Fuel: Gas,MO,Clinton,3893,3839,3568,3474,3500,3630,3533,3627,3444,3470
+6,House Heating Fuel: Propane,MO,Clinton,1471,1515,1502,1468,1521,1558,1481,1443,1522,1552
+7,House Heating Fuel: Wood,MO,Clinton,425,420,409,406,343,289,311,330,425,359
+3,House Heating Fuel: Electric,MO,Cole,12610,12961,13589,13957,13874,14050,14570,14370,14653,15085
+4,House Heating Fuel: Fuel Oil,MO,Cole,19,22,25,10,4,4,0,31,34,44
+5,House Heating Fuel: Gas,MO,Cole,12036,12258,11983,11477,11054,11027,10725,10907,10762,10914
+6,House Heating Fuel: Propane,MO,Cole,3142,2803,2637,2605,2968,2957,3067,3163,3082,2903
+7,House Heating Fuel: Wood,MO,Cole,1126,1122,1125,1178,1277,1231,1122,1050,1018,977
+3,House Heating Fuel: Electric,MO,Cooper,2049,2217,2256,2284,2324,2457,2432,2395,2469,2446
+4,House Heating Fuel: Fuel Oil,MO,Cooper,3,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,MO,Cooper,2721,2595,2616,2714,2592,2433,2431,2442,2382,2411
+6,House Heating Fuel: Propane,MO,Cooper,1211,1121,1122,1044,1094,1091,1138,1082,1090,1125
+7,House Heating Fuel: Wood,MO,Cooper,388,415,482,507,477,474,504,443,419,365
+3,House Heating Fuel: Electric,MO,Crawford,3549,3516,3428,3417,3601,3520,3616,3705,4321,4398
+4,House Heating Fuel: Fuel Oil,MO,Crawford,73,63,53,30,22,13,23,22,19,10
+5,House Heating Fuel: Gas,MO,Crawford,1071,1052,1041,1075,911,840,919,1053,906,912
+6,House Heating Fuel: Propane,MO,Crawford,3076,3088,3175,3043,3131,3238,2970,2705,2516,2718
+7,House Heating Fuel: Wood,MO,Crawford,1683,1767,1848,1839,1664,1598,1686,1735,1674,1520
+3,House Heating Fuel: Electric,MO,Dade,872,812,880,904,872,972,967,944,984,1091
+4,House Heating Fuel: Fuel Oil,MO,Dade,11,9,8,9,4,7,12,20,15,12
+5,House Heating Fuel: Gas,MO,Dade,832,799,735,779,751,729,776,850,761,726
+6,House Heating Fuel: Propane,MO,Dade,1016,1037,935,880,936,904,748,719,809,747
+7,House Heating Fuel: Wood,MO,Dade,471,525,537,576,570,549,562,538,513,441
+3,House Heating Fuel: Electric,MO,Dallas,3028,2953,3036,3017,3146,3161,3021,3135,3338,3146
+4,House Heating Fuel: Fuel Oil,MO,Dallas,0,0,0,0,0,0,0,0,0,59
+5,House Heating Fuel: Gas,MO,Dallas,278,287,282,216,187,163,168,150,264,219
+6,House Heating Fuel: Propane,MO,Dallas,2044,1887,1875,1910,1825,1753,1786,1695,1570,1688
+7,House Heating Fuel: Wood,MO,Dallas,1021,1112,1218,1200,1084,1070,1070,1091,974,991
+3,House Heating Fuel: Electric,MO,Daviess,794,751,725,730,767,754,761,722,718,690
+4,House Heating Fuel: Fuel Oil,MO,Daviess,29,40,30,28,18,17,4,2,5,5
+5,House Heating Fuel: Gas,MO,Daviess,535,573,646,738,752,764,816,772,740,719
+6,House Heating Fuel: Propane,MO,Daviess,1494,1418,1302,1221,1130,1025,988,1075,1039,1123
+7,House Heating Fuel: Wood,MO,Daviess,387,353,340,398,425,458,449,482,445,460
+3,House Heating Fuel: Electric,MO,DeKalb,1475,1480,1411,1356,1392,1359,1458,1560,1564,1478
+4,House Heating Fuel: Fuel Oil,MO,DeKalb,63,77,16,13,12,26,28,39,37,38
+5,House Heating Fuel: Gas,MO,DeKalb,831,711,695,697,734,784,829,737,691,742
+6,House Heating Fuel: Propane,MO,DeKalb,1327,1396,1404,1361,1319,1186,1089,1100,1114,1043
+7,House Heating Fuel: Wood,MO,DeKalb,225,246,246,298,292,376,332,379,342,433
+3,House Heating Fuel: Electric,MO,Dent,1738,1952,1916,2060,2108,2337,2353,2402,2692,2770
+4,House Heating Fuel: Fuel Oil,MO,Dent,347,297,233,163,104,70,84,97,106,134
+5,House Heating Fuel: Gas,MO,Dent,796,742,789,710,645,530,551,549,566,686
+6,House Heating Fuel: Propane,MO,Dent,1753,1560,1471,1451,1455,1374,1367,1419,1315,1276
+7,House Heating Fuel: Wood,MO,Dent,1440,1457,1462,1427,1510,1561,1474,1539,1525,1449
+3,House Heating Fuel: Electric,MO,Douglas,1026,913,1038,822,861,860,872,895,952,1079
+4,House Heating Fuel: Fuel Oil,MO,Douglas,20,18,10,12,10,0,0,10,23,20
+5,House Heating Fuel: Gas,MO,Douglas,552,604,649,707,762,705,696,742,614,638
+6,House Heating Fuel: Propane,MO,Douglas,1877,1987,1781,1900,1874,2030,1847,1855,1928,1832
+7,House Heating Fuel: Wood,MO,Douglas,1378,1526,1558,1694,1622,1649,1668,1645,1588,1544
+3,House Heating Fuel: Electric,MO,Dunklin,4700,4976,5057,5111,5157,5186,5227,5217,5098,5274
+4,House Heating Fuel: Fuel Oil,MO,Dunklin,0,3,6,5,14,18,31,25,28,28
+5,House Heating Fuel: Gas,MO,Dunklin,6344,6224,5990,6063,5809,5805,5703,5875,5704,5517
+6,House Heating Fuel: Propane,MO,Dunklin,1699,1528,1445,1498,1511,1423,1511,1446,1423,1394
+7,House Heating Fuel: Wood,MO,Dunklin,67,67,102,142,179,184,189,168,143,83
+3,House Heating Fuel: Electric,MO,Franklin,23899,24162,24886,25883,26095,26067,26646,27191,27457,27951
+4,House Heating Fuel: Fuel Oil,MO,Franklin,1219,1249,1200,1072,1152,1038,837,842,879,719
+5,House Heating Fuel: Gas,MO,Franklin,4684,4723,4730,4582,4805,5170,5406,5360,5559,5383
+6,House Heating Fuel: Propane,MO,Franklin,6606,6420,5886,5390,5371,5109,4722,4745,4433,4406
+7,House Heating Fuel: Wood,MO,Franklin,1891,2078,2145,2103,2073,2291,2299,2170,2100,2172
+3,House Heating Fuel: Electric,MO,Gasconade,2135,2176,2331,2251,2362,2299,2296,2292,2355,2391
+4,House Heating Fuel: Fuel Oil,MO,Gasconade,219,133,122,87,76,69,84,73,47,53
+5,House Heating Fuel: Gas,MO,Gasconade,996,982,846,817,825,880,858,927,913,875
+6,House Heating Fuel: Propane,MO,Gasconade,2051,2055,1973,1926,1909,1804,1786,1806,1773,1859
+7,House Heating Fuel: Wood,MO,Gasconade,994,958,961,1005,1078,1122,1074,960,950,818
+3,House Heating Fuel: Electric,MO,Gentry,513,550,543,562,594,626,582,622,634,579
+4,House Heating Fuel: Fuel Oil,MO,Gentry,5,7,6,9,8,9,5,6,6,6
+5,House Heating Fuel: Gas,MO,Gentry,882,909,935,952,929,976,1012,996,964,937
+6,House Heating Fuel: Propane,MO,Gentry,830,839,878,898,785,743,723,672,616,694
+7,House Heating Fuel: Wood,MO,Gentry,377,383,345,327,355,348,300,304,288,242
+3,House Heating Fuel: Electric,MO,Greene,30382,32290,33753,36168,37619,39351,40834,42706,46456,52457
+4,House Heating Fuel: Fuel Oil,MO,Greene,109,129,167,147,112,92,82,16,16,40
+5,House Heating Fuel: Gas,MO,Greene,71104,70515,70351,68603,68046,67285,67297,66388,64300,61888
+6,House Heating Fuel: Propane,MO,Greene,8121,7652,7371,7260,7529,7749,7585,7682,7986,7837
+7,House Heating Fuel: Wood,MO,Greene,2685,2753,2847,2877,2662,2606,2536,2435,2365,2079
+3,House Heating Fuel: Electric,MO,Grundy,1473,1541,1396,1492,1468,1492,1507,1449,1390,1370
+4,House Heating Fuel: Fuel Oil,MO,Grundy,28,23,19,21,4,20,21,25,24,19
+5,House Heating Fuel: Gas,MO,Grundy,1454,1428,1461,1344,1404,1255,1238,1268,1300,1298
+6,House Heating Fuel: Propane,MO,Grundy,882,875,808,837,875,903,882,859,813,809
+7,House Heating Fuel: Wood,MO,Grundy,337,392,401,388,343,341,362,369,410,382
+3,House Heating Fuel: Electric,MO,Harrison,572,644,712,726,754,830,810,808,787,765
+4,House Heating Fuel: Fuel Oil,MO,Harrison,17,10,8,2,6,5,5,10,8,5
+5,House Heating Fuel: Gas,MO,Harrison,1235,1217,1237,1207,1230,1216,1258,1163,1144,1093
+6,House Heating Fuel: Propane,MO,Harrison,1291,1195,1210,1183,1207,1142,1147,1198,1212,1134
+7,House Heating Fuel: Wood,MO,Harrison,373,372,410,362,350,349,338,321,380,362
+3,House Heating Fuel: Electric,MO,Henry,3671,3575,3617,3726,3825,3978,4250,4301,4563,4469
+4,House Heating Fuel: Fuel Oil,MO,Henry,18,18,9,7,9,9,3,19,23,21
+5,House Heating Fuel: Gas,MO,Henry,3460,3483,3609,3507,3355,3399,3124,2965,2692,3030
+6,House Heating Fuel: Propane,MO,Henry,1599,1606,1566,1545,1600,1363,1340,1354,1287,1154
+7,House Heating Fuel: Wood,MO,Henry,612,687,675,675,672,685,613,570,578,590
+3,House Heating Fuel: Electric,MO,Hickory,1922,1832,1983,1872,1891,1760,1885,1844,1882,2035
+4,House Heating Fuel: Fuel Oil,MO,Hickory,6,4,5,6,3,6,7,13,17,106
+5,House Heating Fuel: Gas,MO,Hickory,65,89,51,45,64,70,62,71,66,42
+6,House Heating Fuel: Propane,MO,Hickory,1719,1601,1479,1602,1558,1580,1405,1443,1430,1208
+7,House Heating Fuel: Wood,MO,Hickory,745,745,713,664,583,658,573,598,610,567
+3,House Heating Fuel: Electric,MO,Holt,702,754,772,845,837,812,822,827,790,777
+4,House Heating Fuel: Fuel Oil,MO,Holt,43,42,32,29,26,39,18,19,25,23
+5,House Heating Fuel: Gas,MO,Holt,790,737,738,696,711,722,717,751,753,729
+6,House Heating Fuel: Propane,MO,Holt,557,537,559,513,449,397,376,330,310,326
+7,House Heating Fuel: Wood,MO,Holt,109,110,112,120,110,113,106,104,77,81
+3,House Heating Fuel: Electric,MO,Howard,933,1039,1125,1209,1205,1244,1185,1180,1088,1088
+4,House Heating Fuel: Fuel Oil,MO,Howard,10,6,6,13,7,6,6,7,0,11
+5,House Heating Fuel: Gas,MO,Howard,1763,1613,1554,1583,1573,1473,1516,1489,1434,1347
+6,House Heating Fuel: Propane,MO,Howard,712,751,729,659,594,605,650,628,652,698
+7,House Heating Fuel: Wood,MO,Howard,422,363,385,326,362,367,375,376,350,293
+3,House Heating Fuel: Electric,MO,Howell,5105,5500,5664,5920,6535,6851,6577,6517,6523,6438
+4,House Heating Fuel: Fuel Oil,MO,Howell,143,104,99,82,66,95,78,56,66,73
+5,House Heating Fuel: Gas,MO,Howell,2417,2344,2244,2301,2348,2219,2483,2589,2686,2739
+6,House Heating Fuel: Propane,MO,Howell,5205,4779,4633,4510,4228,4442,4331,4471,4503,4469
+7,House Heating Fuel: Wood,MO,Howell,2383,2669,2815,2822,2702,2513,2554,2390,1964,2012
+3,House Heating Fuel: Electric,MO,Iron,1827,1949,1905,1996,2045,2057,1927,1934,2009,1983
+4,House Heating Fuel: Fuel Oil,MO,Iron,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,MO,Iron,1019,930,886,794,819,678,749,740,774,834
+6,House Heating Fuel: Propane,MO,Iron,817,748,649,644,578,551,556,577,561,521
+7,House Heating Fuel: Wood,MO,Iron,572,633,722,658,690,744,753,737,769,680
+3,House Heating Fuel: Electric,MO,Jackson,52714,55397,57580,59623,61957,63599,65388,66695,67892,70034
+4,House Heating Fuel: Fuel Oil,MO,Jackson,175,128,107,85,128,107,199,196,249,210
+5,House Heating Fuel: Gas,MO,Jackson,211247,208112,206226,204567,202561,203103,203711,205423,207050,208390
+6,House Heating Fuel: Propane,MO,Jackson,4792,4518,4462,4831,4699,5051,4963,5195,4971,5375
+7,House Heating Fuel: Wood,MO,Jackson,1154,1158,1159,1229,1194,1145,1055,1031,931,988
+3,House Heating Fuel: Electric,MO,Jasper,15403,16575,17140,17816,18793,19175,19334,20043,20279,20640
+4,House Heating Fuel: Fuel Oil,MO,Jasper,57,72,60,60,37,42,33,39,18,35
+5,House Heating Fuel: Gas,MO,Jasper,24495,23604,23385,22794,22167,21912,21814,21407,20395,20458
+6,House Heating Fuel: Propane,MO,Jasper,3042,3052,2950,2610,2637,2653,2702,2786,2848,3070
+7,House Heating Fuel: Wood,MO,Jasper,1312,1238,1240,1353,1382,1527,1588,1575,1510,1342
+3,House Heating Fuel: Electric,MO,Jefferson,43122,44135,45353,45733,46827,47661,48092,49271,49755,50092
+4,House Heating Fuel: Fuel Oil,MO,Jefferson,638,457,396,382,394,307,277,227,253,167
+5,House Heating Fuel: Gas,MO,Jefferson,25871,25847,25402,25355,25173,25135,25236,25545,25625,25706
+6,House Heating Fuel: Propane,MO,Jefferson,8193,7924,7469,7166,6711,6469,6332,6354,6479,6528
+7,House Heating Fuel: Wood,MO,Jefferson,2006,2058,2205,1849,1954,1926,1911,1914,1845,1575
+3,House Heating Fuel: Electric,MO,Johnson,7461,7830,8362,8561,8584,8761,9264,9571,9982,10235
+4,House Heating Fuel: Fuel Oil,MO,Johnson,56,13,0,31,31,29,54,61,38,32
+5,House Heating Fuel: Gas,MO,Johnson,8083,7794,7603,7674,7470,7252,7004,6635,6452,6070
+6,House Heating Fuel: Propane,MO,Johnson,2792,2944,2868,2918,2818,2838,2542,2645,2586,2691
+7,House Heating Fuel: Wood,MO,Johnson,701,753,837,732,849,901,924,808,747,694
+3,House Heating Fuel: Electric,MO,Knox,382,398,411,388,442,423,411,398,426,414
+4,House Heating Fuel: Fuel Oil,MO,Knox,11,0,0,4,5,14,12,12,3,2
+5,House Heating Fuel: Gas,MO,Knox,424,461,398,405,417,391,398,423,378,385
+6,House Heating Fuel: Propane,MO,Knox,727,682,756,670,656,643,628,625,616,563
+7,House Heating Fuel: Wood,MO,Knox,193,208,232,247,208,190,178,121,82,95
+3,House Heating Fuel: Electric,MO,Laclede,7355,7395,7471,7459,7156,7124,7592,7802,7787,8230
+4,House Heating Fuel: Fuel Oil,MO,Laclede,91,94,87,141,91,73,66,71,15,18
+5,House Heating Fuel: Gas,MO,Laclede,365,449,675,902,1231,1477,1488,1566,1778,1769
+6,House Heating Fuel: Propane,MO,Laclede,4906,4662,4066,3614,3391,2977,2656,2452,2451,2348
+7,House Heating Fuel: Wood,MO,Laclede,1576,1683,1796,1739,1793,1823,1860,1821,1691,1574
+3,House Heating Fuel: Electric,MO,Lafayette,3676,3630,3460,3792,3548,3779,3744,3956,3988,4052
+4,House Heating Fuel: Fuel Oil,MO,Lafayette,139,79,72,46,52,59,37,38,35,31
+5,House Heating Fuel: Gas,MO,Lafayette,6347,6351,6507,6298,6394,6157,6345,5922,5734,5779
+6,House Heating Fuel: Propane,MO,Lafayette,2785,2837,2790,2548,2675,2743,2645,2782,2652,2631
+7,House Heating Fuel: Wood,MO,Lafayette,335,299,351,334,270,257,320,309,388,442
+3,House Heating Fuel: Electric,MO,Lawrence,4802,4858,4944,5053,5032,4893,5062,5241,5071,4956
+4,House Heating Fuel: Fuel Oil,MO,Lawrence,10,7,5,3,5,14,14,11,13,11
+5,House Heating Fuel: Gas,MO,Lawrence,5532,5413,5124,4994,4903,4742,4828,5180,5379,5375
+6,House Heating Fuel: Propane,MO,Lawrence,2986,3001,3055,2860,2893,3045,2918,2689,2802,3019
+7,House Heating Fuel: Wood,MO,Lawrence,1532,1542,1559,1681,1504,1541,1500,1273,1138,1243
+3,House Heating Fuel: Electric,MO,Lewis,870,884,896,1019,1034,1073,1110,1168,1098,1089
+4,House Heating Fuel: Fuel Oil,MO,Lewis,16,0,5,5,4,3,3,0,0,0
+5,House Heating Fuel: Gas,MO,Lewis,1514,1562,1624,1488,1416,1407,1369,1346,1409,1444
+6,House Heating Fuel: Propane,MO,Lewis,1102,1067,1048,1062,1063,990,1017,963,996,944
+7,House Heating Fuel: Wood,MO,Lewis,207,225,269,329,301,361,284,264,244,254
+3,House Heating Fuel: Electric,MO,Lincoln,10271,10926,11132,11313,11379,11847,11594,12077,12259,12574
+4,House Heating Fuel: Fuel Oil,MO,Lincoln,63,59,12,7,9,19,19,19,30,29
+5,House Heating Fuel: Gas,MO,Lincoln,3364,3217,3304,3212,3158,3087,3265,3223,3160,3418
+6,House Heating Fuel: Propane,MO,Lincoln,3501,3432,3141,3159,2937,2581,2637,2603,2509,2526
+7,House Heating Fuel: Wood,MO,Lincoln,791,855,920,903,908,818,773,697,683,615
+3,House Heating Fuel: Electric,MO,Linn,1232,1197,1160,1262,1323,1367,1447,1494,1528,1494
+4,House Heating Fuel: Fuel Oil,MO,Linn,6,9,7,6,5,5,0,5,5,6
+5,House Heating Fuel: Gas,MO,Linn,2440,2282,2382,2285,2171,2153,2183,2096,2078,2077
+6,House Heating Fuel: Propane,MO,Linn,1017,1064,911,879,873,896,916,1011,1072,1146
+7,House Heating Fuel: Wood,MO,Linn,334,374,367,367,369,364,349,347,321,315
+3,House Heating Fuel: Electric,MO,Livingston,1438,1340,1399,1638,1598,1767,1918,1889,1988,1994
+4,House Heating Fuel: Fuel Oil,MO,Livingston,23,3,3,4,6,2,4,10,8,4
+5,House Heating Fuel: Gas,MO,Livingston,2658,2728,2685,2520,2578,2477,2402,2345,2380,2379
+6,House Heating Fuel: Propane,MO,Livingston,1041,1083,1006,998,988,1009,997,1065,995,1138
+7,House Heating Fuel: Wood,MO,Livingston,498,353,409,444,430,373,351,452,449,350
+3,House Heating Fuel: Electric,MO,McDonald,2504,2730,2897,3186,3112,3340,3660,3552,3604,3985
+4,House Heating Fuel: Fuel Oil,MO,McDonald,0,0,0,0,7,8,7,8,7,1
+5,House Heating Fuel: Gas,MO,McDonald,1876,1697,1601,1600,1547,1426,1505,1468,1390,1274
+6,House Heating Fuel: Propane,MO,McDonald,2229,2321,2400,2162,2112,2033,1678,1511,1527,1465
+7,House Heating Fuel: Wood,MO,McDonald,1342,1416,1251,1185,1291,1411,1347,1525,1512,1465
+3,House Heating Fuel: Electric,MO,Macon,1599,1650,1733,1873,1888,1965,2048,2103,1880,2007
+4,House Heating Fuel: Fuel Oil,MO,Macon,39,33,33,17,12,11,2,5,4,6
+5,House Heating Fuel: Gas,MO,Macon,2020,2013,1941,1781,1699,1643,1567,1520,1601,1653
+6,House Heating Fuel: Propane,MO,Macon,2090,2035,2008,2041,2077,2033,1939,1887,1799,1606
+7,House Heating Fuel: Wood,MO,Macon,551,528,577,596,478,527,465,435,492,448
+3,House Heating Fuel: Electric,MO,Madison,2298,2295,2242,2115,2140,2116,2350,2473,2746,2809
+4,House Heating Fuel: Fuel Oil,MO,Madison,12,10,10,8,11,1,1,1,2,37
+5,House Heating Fuel: Gas,MO,Madison,1191,1186,1245,1210,1103,1163,1022,1008,896,938
+6,House Heating Fuel: Propane,MO,Madison,711,721,689,684,678,676,633,622,544,507
+7,House Heating Fuel: Wood,MO,Madison,532,559,594,583,583,678,651,712,751,706
+3,House Heating Fuel: Electric,MO,Maries,1120,1118,1262,1454,1482,1483,1465,1456,1439,1329
+4,House Heating Fuel: Fuel Oil,MO,Maries,25,14,22,24,7,5,3,9,11,8
+5,House Heating Fuel: Gas,MO,Maries,111,150,110,123,104,98,53,61,38,118
+6,House Heating Fuel: Propane,MO,Maries,1335,1277,1353,1247,1160,1039,1067,1041,1046,1123
+7,House Heating Fuel: Wood,MO,Maries,997,1036,913,872,920,992,991,1057,1067,1145
+3,House Heating Fuel: Electric,MO,Marion,2870,2733,2799,2886,2977,2887,3155,3170,3298,3299
+4,House Heating Fuel: Fuel Oil,MO,Marion,13,15,17,4,6,8,11,3,4,4
+5,House Heating Fuel: Gas,MO,Marion,6812,6640,6502,6396,6379,6301,6167,6026,6131,6165
+6,House Heating Fuel: Propane,MO,Marion,1274,1352,1428,1491,1544,1480,1453,1571,1474,1496
+7,House Heating Fuel: Wood,MO,Marion,375,413,384,379,367,461,417,429,481,461
+3,House Heating Fuel: Electric,MO,Mercer,448,475,439,421,391,418,359,366,366,353
+4,House Heating Fuel: Fuel Oil,MO,Mercer,4,0,0,0,0,5,6,5,9,14
+5,House Heating Fuel: Gas,MO,Mercer,518,480,495,495,480,419,430,383,368,388
+6,House Heating Fuel: Propane,MO,Mercer,405,393,392,393,435,434,410,409,413,368
+7,House Heating Fuel: Wood,MO,Mercer,168,203,236,255,220,198,176,182,133,104
+3,House Heating Fuel: Electric,MO,Miller,5428,5698,5587,5629,5315,5041,5001,5328,5516,5985
+4,House Heating Fuel: Fuel Oil,MO,Miller,22,25,19,15,5,4,0,0,0,0
+5,House Heating Fuel: Gas,MO,Miller,1234,1116,1263,1271,1223,1189,1274,1150,1150,1155
+6,House Heating Fuel: Propane,MO,Miller,2275,2063,1755,1512,1476,1567,1573,1624,1693,1608
+7,House Heating Fuel: Wood,MO,Miller,1357,1347,1456,1466,1557,1514,1431,1334,1386,1228
+3,House Heating Fuel: Electric,MO,Mississippi,1709,1775,1812,1835,1781,1796,1903,2077,1887,2035
+4,House Heating Fuel: Fuel Oil,MO,Mississippi,6,7,6,5,6,0,0,0,0,0
+5,House Heating Fuel: Gas,MO,Mississippi,2881,2826,2874,2788,2758,2700,2562,2447,2552,2474
+6,House Heating Fuel: Propane,MO,Mississippi,687,670,559,587,675,652,619,559,558,501
+7,House Heating Fuel: Wood,MO,Mississippi,4,11,9,8,13,18,15,17,9,9
+3,House Heating Fuel: Electric,MO,Moniteau,1375,1386,1648,1627,1610,1676,1675,1543,1534,1562
+4,House Heating Fuel: Fuel Oil,MO,Moniteau,0,8,10,12,12,10,3,0,0,0
+5,House Heating Fuel: Gas,MO,Moniteau,2310,2373,2294,2351,2330,2244,2213,2293,2168,2217
+6,House Heating Fuel: Propane,MO,Moniteau,1170,1147,963,858,830,831,795,804,900,921
+7,House Heating Fuel: Wood,MO,Moniteau,589,563,553,566,652,712,755,703,712,709
+3,House Heating Fuel: Electric,MO,Monroe,1078,1065,1016,1106,1084,1094,1121,1203,1185,1281
+4,House Heating Fuel: Fuel Oil,MO,Monroe,35,41,7,6,6,2,3,0,2,3
+5,House Heating Fuel: Gas,MO,Monroe,1351,1195,1257,1186,1217,1283,1286,1316,1366,1330
+6,House Heating Fuel: Propane,MO,Monroe,1033,1009,937,881,901,781,736,715,759,815
+7,House Heating Fuel: Wood,MO,Monroe,326,310,314,285,313,302,320,308,267,224
+3,House Heating Fuel: Electric,MO,Montgomery,1867,2034,2154,2186,2079,2146,2136,2053,2247,2438
+4,House Heating Fuel: Fuel Oil,MO,Montgomery,28,22,19,16,17,17,13,13,9,2
+5,House Heating Fuel: Gas,MO,Montgomery,1416,1410,1389,1433,1353,1400,1343,1312,1226,1277
+6,House Heating Fuel: Propane,MO,Montgomery,1046,992,918,907,878,757,775,863,843,825
+7,House Heating Fuel: Wood,MO,Montgomery,503,507,550,500,497,488,547,541,511,442
+3,House Heating Fuel: Electric,MO,Morgan,3764,3798,4109,4160,4153,4231,4358,4222,4274,4263
+4,House Heating Fuel: Fuel Oil,MO,Morgan,22,28,26,52,41,29,27,100,160,162
+5,House Heating Fuel: Gas,MO,Morgan,1130,1115,1093,949,844,913,969,1010,1057,1026
+6,House Heating Fuel: Propane,MO,Morgan,2187,1913,1678,1722,1756,1569,1493,1424,1328,1324
+7,House Heating Fuel: Wood,MO,Morgan,1271,1306,1285,1235,1166,1029,948,941,845,714
+3,House Heating Fuel: Electric,MO,New Madrid,3480,3644,3590,3509,3449,3384,3314,3281,3381,3607
+4,House Heating Fuel: Fuel Oil,MO,New Madrid,4,2,2,2,2,5,2,3,2,2
+5,House Heating Fuel: Gas,MO,New Madrid,2886,2784,2723,2653,2586,2678,2724,2805,2729,2585
+6,House Heating Fuel: Propane,MO,New Madrid,1277,1123,1128,1132,1127,1079,1121,1088,1087,1073
+7,House Heating Fuel: Wood,MO,New Madrid,51,41,48,84,81,75,115,102,94,85
+3,House Heating Fuel: Electric,MO,Newton,8404,8591,8928,8890,9320,9325,9461,9730,10166,9844
+4,House Heating Fuel: Fuel Oil,MO,Newton,67,38,34,24,17,43,42,40,56,60
+5,House Heating Fuel: Gas,MO,Newton,7008,6908,6711,6856,6507,6500,6415,6475,6316,6657
+6,House Heating Fuel: Propane,MO,Newton,4095,3992,3931,3771,3715,3648,3627,3567,3599,3667
+7,House Heating Fuel: Wood,MO,Newton,1915,2039,2122,2387,2477,2409,2275,2114,1904,1726
+3,House Heating Fuel: Electric,MO,Nodaway,3603,3880,3991,4008,4075,4228,4168,4091,4040,4305
+4,House Heating Fuel: Fuel Oil,MO,Nodaway,54,39,32,33,39,50,44,53,64,54
+5,House Heating Fuel: Gas,MO,Nodaway,2675,2601,2625,2604,2565,2375,2388,2457,2407,2345
+6,House Heating Fuel: Propane,MO,Nodaway,1626,1629,1569,1465,1398,1349,1186,1115,1023,945
+7,House Heating Fuel: Wood,MO,Nodaway,317,346,358,418,437,505,506,539,479,461
+3,House Heating Fuel: Electric,MO,Oregon,1038,1041,1190,1249,1306,1434,1473,1445,1444,1479
+4,House Heating Fuel: Fuel Oil,MO,Oregon,54,32,24,25,44,44,38,52,37,9
+5,House Heating Fuel: Gas,MO,Oregon,32,34,38,48,44,48,65,89,95,94
+6,House Heating Fuel: Propane,MO,Oregon,2239,2342,2124,1971,1936,1763,1677,1617,1634,1625
+7,House Heating Fuel: Wood,MO,Oregon,1006,976,1080,1192,1140,1041,1053,1136,1072,1009
+3,House Heating Fuel: Electric,MO,Osage,1435,1374,1485,1663,1807,1790,1831,1793,1832,1911
+4,House Heating Fuel: Fuel Oil,MO,Osage,223,172,165,168,121,89,68,49,34,26
+5,House Heating Fuel: Gas,MO,Osage,127,145,138,151,159,168,201,186,165,137
+6,House Heating Fuel: Propane,MO,Osage,2184,2232,2000,1817,1753,1853,1735,1841,1858,1864
+7,House Heating Fuel: Wood,MO,Osage,1205,1267,1329,1278,1150,1084,1044,1030,1014,988
+3,House Heating Fuel: Electric,MO,Ozark,1033,1185,1315,1317,1383,1435,1374,1307,1301,1206
+4,House Heating Fuel: Fuel Oil,MO,Ozark,5,4,0,18,17,18,20,27,10,21
+5,House Heating Fuel: Gas,MO,Ozark,37,45,46,40,25,75,64,140,216,197
+6,House Heating Fuel: Propane,MO,Ozark,1877,1721,1649,1619,1793,1737,1869,1683,1634,1598
+7,House Heating Fuel: Wood,MO,Ozark,979,1012,1093,1031,1044,940,919,858,911,868
+3,House Heating Fuel: Electric,MO,Pemiscot,2134,2146,2172,2141,2179,2224,2244,2284,2170,2256
+4,House Heating Fuel: Fuel Oil,MO,Pemiscot,0,18,17,18,17,18,0,0,0,0
+5,House Heating Fuel: Gas,MO,Pemiscot,3871,3625,3844,3860,3789,3730,3631,3471,3501,3329
+6,House Heating Fuel: Propane,MO,Pemiscot,997,1025,932,891,874,950,998,1060,1065,1063
+7,House Heating Fuel: Wood,MO,Pemiscot,10,11,14,15,18,23,26,26,46,49
+3,House Heating Fuel: Electric,MO,Perry,2644,2748,2625,2581,2468,2545,2638,2806,2842,2932
+4,House Heating Fuel: Fuel Oil,MO,Perry,43,9,21,33,34,43,33,42,32,46
+5,House Heating Fuel: Gas,MO,Perry,2489,2358,2350,2286,2325,2411,2477,2386,2528,2590
+6,House Heating Fuel: Propane,MO,Perry,1433,1462,1547,1472,1380,1301,1146,1166,1151,1107
+7,House Heating Fuel: Wood,MO,Perry,1059,996,972,1034,1087,984,1011,1022,960,839
+3,House Heating Fuel: Electric,MO,Pettis,4990,5017,5324,5155,5443,5499,5667,5908,6010,6022
+4,House Heating Fuel: Fuel Oil,MO,Pettis,30,35,33,20,16,28,21,17,17,14
+5,House Heating Fuel: Gas,MO,Pettis,8231,8340,8310,8259,7978,7949,7621,7420,7462,7505
+6,House Heating Fuel: Propane,MO,Pettis,2243,2051,1826,1886,1874,1845,1979,1978,1777,1890
+7,House Heating Fuel: Wood,MO,Pettis,694,733,720,751,803,691,614,621,592,539
+3,House Heating Fuel: Electric,MO,Phelps,8851,9085,9460,9772,9802,10029,10227,10393,10450,11032
+4,House Heating Fuel: Fuel Oil,MO,Phelps,176,161,147,109,92,59,72,50,55,71
+5,House Heating Fuel: Gas,MO,Phelps,2990,2696,2509,2349,2511,2585,2570,2623,3056,2867
+6,House Heating Fuel: Propane,MO,Phelps,3184,3116,2882,2755,2550,2257,2324,2549,2440,2580
+7,House Heating Fuel: Wood,MO,Phelps,1442,1535,1481,1525,1579,1555,1506,1563,1462,1297
+3,House Heating Fuel: Electric,MO,Pike,2384,2620,2634,2619,2537,2621,2587,2766,2853,2970
+4,House Heating Fuel: Fuel Oil,MO,Pike,11,23,27,23,42,37,27,29,28,1
+5,House Heating Fuel: Gas,MO,Pike,2707,2296,2300,2325,2456,1971,2078,2055,1963,1902
+6,House Heating Fuel: Propane,MO,Pike,1255,1275,1246,1151,1081,1414,1390,1400,1354,1315
+7,House Heating Fuel: Wood,MO,Pike,317,290,313,381,412,413,472,411,381,374
+3,House Heating Fuel: Electric,MO,Platte,10094,10406,10464,11279,11255,11589,11801,11934,12098,12360
+4,House Heating Fuel: Fuel Oil,MO,Platte,16,17,21,19,28,27,50,45,44,19
+5,House Heating Fuel: Gas,MO,Platte,22150,22722,23238,23092,23162,23583,23242,23323,23841,24309
+6,House Heating Fuel: Propane,MO,Platte,2434,2135,1997,2009,2056,1992,2183,2430,2250,2216
+7,House Heating Fuel: Wood,MO,Platte,221,249,226,217,199,222,207,194,190,214
+3,House Heating Fuel: Electric,MO,Polk,6854,7003,7083,7241,7467,7719,8018,7982,7750,7634
+4,House Heating Fuel: Fuel Oil,MO,Polk,30,25,38,31,3,3,3,22,40,38
+5,House Heating Fuel: Gas,MO,Polk,182,130,179,146,118,110,100,127,123,219
+6,House Heating Fuel: Propane,MO,Polk,3271,2903,2865,2687,2352,2096,2190,2143,2190,2375
+7,House Heating Fuel: Wood,MO,Polk,1275,1550,1563,1750,1785,1700,1418,1296,1301,1302
+3,House Heating Fuel: Electric,MO,Pulaski,9488,10442,10612,10852,10975,11181,10981,11029,10852,10925
+4,House Heating Fuel: Fuel Oil,MO,Pulaski,73,50,46,40,29,18,13,17,10,9
+5,House Heating Fuel: Gas,MO,Pulaski,1491,1291,1318,1279,1220,1271,1327,1422,1454,1557
+6,House Heating Fuel: Propane,MO,Pulaski,3148,2741,2608,2410,2187,1854,1904,1940,1857,1951
+7,House Heating Fuel: Wood,MO,Pulaski,1132,1095,1045,1077,1008,1029,1006,894,806,656
+3,House Heating Fuel: Electric,MO,Putnam,409,406,461,477,476,426,430,397,351,379
+4,House Heating Fuel: Fuel Oil,MO,Putnam,2,0,0,22,20,21,23,21,7,0
+5,House Heating Fuel: Gas,MO,Putnam,602,620,685,619,715,721,671,657,651,565
+6,House Heating Fuel: Propane,MO,Putnam,987,957,903,808,802,798,743,622,650,614
+7,House Heating Fuel: Wood,MO,Putnam,218,235,244,255,202,194,222,224,139,180
+3,House Heating Fuel: Electric,MO,Ralls,1177,1276,1225,1277,1337,1387,1440,1510,1411,1387
+4,House Heating Fuel: Fuel Oil,MO,Ralls,52,75,31,28,31,0,0,0,0,0
+5,House Heating Fuel: Gas,MO,Ralls,1024,1029,890,876,768,727,783,803,842,934
+6,House Heating Fuel: Propane,MO,Ralls,1578,1456,1505,1351,1385,1444,1304,1299,1369,1371
+7,House Heating Fuel: Wood,MO,Ralls,294,358,435,460,465,411,360,308,313,281
+3,House Heating Fuel: Electric,MO,Randolph,3340,3474,3622,3710,3498,3543,3747,3714,3878,4257
+4,House Heating Fuel: Fuel Oil,MO,Randolph,19,16,5,17,15,14,14,13,0,5
+5,House Heating Fuel: Gas,MO,Randolph,3982,3940,3639,3438,3469,3411,3237,3147,3044,2876
+6,House Heating Fuel: Propane,MO,Randolph,1319,1161,1249,1222,1151,1004,989,971,989,1094
+7,House Heating Fuel: Wood,MO,Randolph,315,367,345,437,457,421,431,441,381,333
+3,House Heating Fuel: Electric,MO,Ray,2532,2750,2651,2624,2543,2523,2378,2384,2382,2480
+4,House Heating Fuel: Fuel Oil,MO,Ray,25,11,8,12,10,12,14,16,30,29
+5,House Heating Fuel: Gas,MO,Ray,3209,3138,3021,2851,2936,2884,2900,3059,2987,2864
+6,House Heating Fuel: Propane,MO,Ray,2912,2700,2857,2685,2658,2591,2646,2549,2794,2828
+7,House Heating Fuel: Wood,MO,Ray,445,382,440,494,518,584,651,619,545,586
+3,House Heating Fuel: Electric,MO,Reynolds,1095,1155,1097,1087,1090,981,1068,1003,983,957
+4,House Heating Fuel: Fuel Oil,MO,Reynolds,28,14,8,4,6,3,2,2,4,0
+5,House Heating Fuel: Gas,MO,Reynolds,19,26,25,20,15,27,32,37,31,36
+6,House Heating Fuel: Propane,MO,Reynolds,1056,956,855,764,781,773,737,764,857,854
+7,House Heating Fuel: Wood,MO,Reynolds,680,705,761,789,780,877,813,822,747,731
+3,House Heating Fuel: Electric,MO,Ripley,2175,2244,2238,2443,2569,2662,2773,2787,2445,2515
+4,House Heating Fuel: Fuel Oil,MO,Ripley,3,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,MO,Ripley,984,1013,932,942,840,767,782,861,888,797
+6,House Heating Fuel: Propane,MO,Ripley,1677,1531,1444,1294,1128,1129,1002,982,1014,987
+7,House Heating Fuel: Wood,MO,Ripley,707,742,818,844,878,835,780,750,798,741
+3,House Heating Fuel: Electric,MO,St. Charles,31074,32393,33907,35138,36551,37544,37585,37908,39212,40267
+4,House Heating Fuel: Fuel Oil,MO,St. Charles,466,598,720,783,728,738,776,642,656,688
+5,House Heating Fuel: Gas,MO,St. Charles,93422,94175,94418,94120,94306,94816,96330,98141,99058,100140
+6,House Heating Fuel: Propane,MO,St. Charles,4850,4669,4566,4698,4714,4614,4572,4445,4452,4375
+7,House Heating Fuel: Wood,MO,St. Charles,858,840,904,929,851,892,878,863,814,708
+3,House Heating Fuel: Electric,MO,St. Clair,1363,1424,1481,1552,1507,1428,1382,1412,1428,1475
+4,House Heating Fuel: Fuel Oil,MO,St. Clair,27,24,24,16,22,22,17,14,15,12
+5,House Heating Fuel: Gas,MO,St. Clair,300,304,319,341,338,311,277,292,237,319
+6,House Heating Fuel: Propane,MO,St. Clair,1660,1639,1508,1264,1254,1317,1384,1511,1639,1573
+7,House Heating Fuel: Wood,MO,St. Clair,912,903,947,891,855,855,846,843,732,693
+3,House Heating Fuel: Electric,MO,Ste. Genevieve,2946,2904,3121,3025,2916,2881,3043,2880,2963,3008
+4,House Heating Fuel: Fuel Oil,MO,Ste. Genevieve,74,56,28,32,13,18,31,35,37,53
+5,House Heating Fuel: Gas,MO,Ste. Genevieve,1516,1566,1474,1426,1400,1344,1212,1353,1290,1277
+6,House Heating Fuel: Propane,MO,Ste. Genevieve,1952,1839,1834,1837,1887,1822,1713,1786,1728,1669
+7,House Heating Fuel: Wood,MO,Ste. Genevieve,810,778,808,879,966,1044,1150,1105,1094,1043
+3,House Heating Fuel: Electric,MO,St. Francois,14981,15611,16065,16510,16558,16760,16492,16292,16627,16926
+4,House Heating Fuel: Fuel Oil,MO,St. Francois,4,4,73,67,61,53,51,10,7,8
+5,House Heating Fuel: Gas,MO,St. Francois,6367,6494,6199,5920,5994,5946,5930,6150,6085,6016
+6,House Heating Fuel: Propane,MO,St. Francois,1406,1240,1096,1119,1188,1069,1182,1126,1138,1029
+7,House Heating Fuel: Wood,MO,St. Francois,1318,1115,1088,926,954,1008,984,968,975,825
+3,House Heating Fuel: Electric,MO,St. Louis,70268,71506,73632,75073,76043,77119,78573,80719,81866,83682
+4,House Heating Fuel: Fuel Oil,MO,St. Louis,970,670,787,646,473,427,357,283,264,285
+5,House Heating Fuel: Gas,MO,St. Louis,327759,326021,323761,321352,319776,317913,315989,314343,314172,314631
+6,House Heating Fuel: Propane,MO,St. Louis,4216,4307,4347,4327,4314,4459,4697,4607,4909,5133
+7,House Heating Fuel: Wood,MO,St. Louis,777,768,766,892,905,789,842,942,892,849
+3,House Heating Fuel: Electric,MO,Saline,1622,1713,1820,1850,2008,1961,2160,2320,2362,2327
+4,House Heating Fuel: Fuel Oil,MO,Saline,58,48,49,51,33,17,19,18,17,17
+5,House Heating Fuel: Gas,MO,Saline,5410,5466,5306,5207,5166,5188,4921,4832,4572,4286
+6,House Heating Fuel: Propane,MO,Saline,1522,1391,1346,1315,1325,1395,1397,1277,1361,1397
+7,House Heating Fuel: Wood,MO,Saline,291,260,240,289,256,251,258,248,178,173
+3,House Heating Fuel: Electric,MO,Schuyler,575,607,494,462,444,487,511,498,515,497
+4,House Heating Fuel: Fuel Oil,MO,Schuyler,0,0,0,5,4,4,5,5,0,0
+5,House Heating Fuel: Gas,MO,Schuyler,552,558,465,488,467,468,458,444,376,362
+6,House Heating Fuel: Propane,MO,Schuyler,744,601,590,613,582,555,525,483,428,363
+7,House Heating Fuel: Wood,MO,Schuyler,159,123,170,164,218,193,201,211,244,227
+3,House Heating Fuel: Electric,MO,Scotland,396,392,382,363,325,316,342,329,352,368
+4,House Heating Fuel: Fuel Oil,MO,Scotland,18,13,0,4,12,20,19,28,5,5
+5,House Heating Fuel: Gas,MO,Scotland,567,608,567,572,582,561,506,583,559,544
+6,House Heating Fuel: Propane,MO,Scotland,814,822,784,735,736,741,701,727,712,658
+7,House Heating Fuel: Wood,MO,Scotland,160,169,205,205,201,192,179,127,121,140
+3,House Heating Fuel: Electric,MO,Scott,6895,6973,7106,6901,7346,7611,7792,8302,8414,8074
+4,House Heating Fuel: Fuel Oil,MO,Scott,0,0,0,0,0,0,0,0,8,6
+5,House Heating Fuel: Gas,MO,Scott,6742,6445,6297,6277,6090,5741,5564,5170,5197,5389
+6,House Heating Fuel: Propane,MO,Scott,1581,1488,1489,1560,1559,1478,1565,1450,1474,1415
+7,House Heating Fuel: Wood,MO,Scott,280,275,345,372,299,317,267,265,265,273
+3,House Heating Fuel: Electric,MO,Shannon,694,635,709,745,833,886,958,926,923,886
+4,House Heating Fuel: Fuel Oil,MO,Shannon,0,0,0,0,0,0,0,8,7,7
+5,House Heating Fuel: Gas,MO,Shannon,128,106,147,65,92,97,87,84,123,110
+6,House Heating Fuel: Propane,MO,Shannon,1541,1539,1428,1377,1339,1290,1250,1192,1189,1140
+7,House Heating Fuel: Wood,MO,Shannon,1031,1067,1067,1013,1017,959,841,929,907,906
+3,House Heating Fuel: Electric,MO,Shelby,861,867,844,880,862,794,840,838,935,984
+4,House Heating Fuel: Fuel Oil,MO,Shelby,69,54,51,32,28,27,32,35,6,5
+5,House Heating Fuel: Gas,MO,Shelby,727,658,678,649,602,617,620,575,535,545
+6,House Heating Fuel: Propane,MO,Shelby,850,852,848,795,827,837,782,742,744,673
+7,House Heating Fuel: Wood,MO,Shelby,167,184,171,180,164,172,143,197,174,168
+3,House Heating Fuel: Electric,MO,Stoddard,4352,4717,4720,4973,5230,5388,5232,5310,5245,5354
+4,House Heating Fuel: Fuel Oil,MO,Stoddard,27,27,26,0,3,3,4,8,7,20
+5,House Heating Fuel: Gas,MO,Stoddard,4636,4589,4509,4481,4378,4358,4292,4210,4086,3854
+6,House Heating Fuel: Propane,MO,Stoddard,2652,2443,2417,2363,2063,1938,1956,1906,2013,1919
+7,House Heating Fuel: Wood,MO,Stoddard,443,438,418,377,365,322,300,246,238,280
+3,House Heating Fuel: Electric,MO,Stone,6956,7202,7423,7492,7557,7386,7189,7159,7244,7212
+4,House Heating Fuel: Fuel Oil,MO,Stone,26,34,28,37,39,27,14,16,63,62
+5,House Heating Fuel: Gas,MO,Stone,854,740,604,597,558,685,721,665,609,690
+6,House Heating Fuel: Propane,MO,Stone,4505,4102,3836,3845,3757,3625,3563,3802,3906,3679
+7,House Heating Fuel: Wood,MO,Stone,1121,1134,1240,1139,990,952,1032,1071,918,1014
+3,House Heating Fuel: Electric,MO,Sullivan,636,646,695,737,743,680,653,612,587,541
+4,House Heating Fuel: Fuel Oil,MO,Sullivan,17,16,13,11,3,5,6,5,4,3
+5,House Heating Fuel: Gas,MO,Sullivan,826,834,787,763,763,733,668,696,655,636
+6,House Heating Fuel: Propane,MO,Sullivan,990,918,911,883,855,811,803,738,719,750
+7,House Heating Fuel: Wood,MO,Sullivan,157,177,194,214,215,245,213,203,186,166
+3,House Heating Fuel: Electric,MO,Taney,15071,14870,15296,15221,15311,15779,16749,16877,17226,17087
+4,House Heating Fuel: Fuel Oil,MO,Taney,10,21,27,40,43,42,30,23,7,6
+5,House Heating Fuel: Gas,MO,Taney,323,508,562,652,623,750,722,768,967,972
+6,House Heating Fuel: Propane,MO,Taney,3829,3909,3356,3463,3270,3284,2936,3029,2745,2763
+7,House Heating Fuel: Wood,MO,Taney,961,1137,1099,1168,1204,1282,1173,1238,1177,1201
+3,House Heating Fuel: Electric,MO,Texas,3223,3435,3491,3542,3643,3556,3518,3444,3577,3646
+4,House Heating Fuel: Fuel Oil,MO,Texas,22,27,9,3,6,7,5,5,7,7
+5,House Heating Fuel: Gas,MO,Texas,524,536,548,515,466,439,484,453,630,819
+6,House Heating Fuel: Propane,MO,Texas,3431,3216,3115,3072,2923,2847,2894,3007,2925,2940
+7,House Heating Fuel: Wood,MO,Texas,2243,2249,2376,2148,2076,2213,2217,2300,2291,2173
+3,House Heating Fuel: Electric,MO,Vernon,2736,2804,2966,3020,3052,2927,3093,3081,2960,3044
+4,House Heating Fuel: Fuel Oil,MO,Vernon,0,0,0,0,5,5,5,6,10,4
+5,House Heating Fuel: Gas,MO,Vernon,2636,2589,2426,2416,2529,2525,2490,2442,2520,2389
+6,House Heating Fuel: Propane,MO,Vernon,2287,2091,2037,1797,1606,1604,1585,1634,1655,1772
+7,House Heating Fuel: Wood,MO,Vernon,587,592,675,717,863,890,903,874,899,872
+3,House Heating Fuel: Electric,MO,Warren,7435,7602,7812,7858,7906,7900,8075,8477,8919,9129
+4,House Heating Fuel: Fuel Oil,MO,Warren,117,133,165,156,96,109,75,27,34,34
+5,House Heating Fuel: Gas,MO,Warren,1514,1614,1533,1497,1503,1388,1329,1377,1306,1312
+6,House Heating Fuel: Propane,MO,Warren,2607,2653,2577,2399,2159,1893,1813,1648,1567,1585
+7,House Heating Fuel: Wood,MO,Warren,433,494,555,627,639,625,501,461,368,483
+3,House Heating Fuel: Electric,MO,Washington,5023,5264,5538,5554,5652,5607,5576,5484,5228,5464
+4,House Heating Fuel: Fuel Oil,MO,Washington,110,92,96,91,24,4,6,8,9,3
+5,House Heating Fuel: Gas,MO,Washington,876,838,807,840,770,691,723,772,833,911
+6,House Heating Fuel: Propane,MO,Washington,1577,1511,1415,1296,1062,1159,1165,1196,1327,1309
+7,House Heating Fuel: Wood,MO,Washington,1413,1390,1284,1356,1502,1489,1552,1581,1688,1503
+3,House Heating Fuel: Electric,MO,Wayne,2271,2410,2448,2429,2382,2445,2497,2453,2475,2428
+4,House Heating Fuel: Fuel Oil,MO,Wayne,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,MO,Wayne,816,846,860,893,858,710,710,644,628,633
+6,House Heating Fuel: Propane,MO,Wayne,1843,1505,1390,1332,1298,1241,1300,1245,1180,1283
+7,House Heating Fuel: Wood,MO,Wayne,893,856,933,906,968,1025,1065,1111,1119,1032
+3,House Heating Fuel: Electric,MO,Webster,3803,4089,4242,4256,4561,4638,4801,4901,5151,5086
+4,House Heating Fuel: Fuel Oil,MO,Webster,101,72,107,63,55,60,46,24,35,29
+5,House Heating Fuel: Gas,MO,Webster,2012,1999,2031,1890,1906,1963,2132,2174,2306,2397
+6,House Heating Fuel: Propane,MO,Webster,4474,4100,3877,3676,3540,3423,3466,3613,3664,3855
+7,House Heating Fuel: Wood,MO,Webster,2340,2427,2433,2566,2404,2563,2462,2381,2163,2045
+3,House Heating Fuel: Electric,MO,Worth,214,222,237,260,261,262,256,255,214,226
+4,House Heating Fuel: Fuel Oil,MO,Worth,45,38,25,12,8,3,7,3,6,5
+5,House Heating Fuel: Gas,MO,Worth,265,292,278,245,226,231,257,273,303,296
+6,House Heating Fuel: Propane,MO,Worth,345,317,339,340,302,299,306,271,244,249
+7,House Heating Fuel: Wood,MO,Worth,86,86,78,69,82,81,73,64,67,53
+3,House Heating Fuel: Electric,MO,Wright,1859,1965,2052,2058,2013,1999,2141,2300,2047,2100
+4,House Heating Fuel: Fuel Oil,MO,Wright,57,92,49,26,38,48,16,19,55,61
+5,House Heating Fuel: Gas,MO,Wright,990,1107,1267,1192,1292,1459,1431,1304,1481,1441
+6,House Heating Fuel: Propane,MO,Wright,2797,2611,2319,2261,2328,2149,2051,2158,2024,1860
+7,House Heating Fuel: Wood,MO,Wright,1770,1725,1684,1720,1552,1589,1587,1536,1545,1489
+3,House Heating Fuel: Electric,MO,St. Lou,31285,32378,32832,35137,36065,36931,38192,39020,39068,40660
+4,House Heating Fuel: Fuel Oil,MO,St. Lou,243,150,153,151,137,119,104,111,77,103
+5,House Heating Fuel: Gas,MO,St. Lou,106110,104629,104267,102958,100921,100044,99203,97695,98168,98000
+6,House Heating Fuel: Propane,MO,St. Lou,1728,1543,1542,1434,1380,1483,1549,1677,1702,1727
+7,House Heating Fuel: Wood,MO,St. Lou,238,254,240,189,185,150,141,120,144,167

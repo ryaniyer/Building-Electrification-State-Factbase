@@ -1,0 +1,1021 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40,Units in Structure: 1 ATTACHED,IL,Adams,741,736,787,886,927,959,960,1016,1009,1092
+41,Units in Structure: 1 DETACHED,IL,Adams,22456,22626,22820,22495,22438,22295,22509,22506,22726,22758
+42,Units in Structure: 10-19,IL,Adams,404,347,345,416,458,504,558,465,316,228
+43,Units in Structure: 2,IL,Adams,1338,1283,1263,1309,1437,1623,1501,1635,1510,1356
+44,Units in Structure: 20-49,IL,Adams,252,231,245,241,281,211,222,247,298,339
+45,Units in Structure: 3-4,IL,Adams,1526,1392,1514,1502,1489,1531,1491,1630,1549,1509
+46,Units in Structure: 5-9,IL,Adams,854,837,784,759,712,716,720,746,852,923
+47,Units in Structure: 50+,IL,Adams,567,657,604,610,606,728,725,735,710,754
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Adams,38,4,22,23,26,25,19,0,0,6
+49,Units in Structure: Mobile Home,IL,Adams,1711,1759,1520,1595,1533,1384,1286,1187,1232,1227
+40,Units in Structure: 1 ATTACHED,IL,Alexander,42,59,71,30,35,24,17,17,6,2
+41,Units in Structure: 1 DETACHED,IL,Alexander,2881,2651,2665,2670,2552,2666,2757,2761,2825,2885
+42,Units in Structure: 10-19,IL,Alexander,139,179,152,78,91,97,57,61,50,29
+43,Units in Structure: 2,IL,Alexander,37,47,36,51,60,63,122,125,122,99
+44,Units in Structure: 20-49,IL,Alexander,11,43,42,53,58,76,77,122,118,136
+45,Units in Structure: 3-4,IL,Alexander,171,165,145,135,136,117,94,99,100,65
+46,Units in Structure: 5-9,IL,Alexander,120,127,135,125,160,108,93,109,107,114
+47,Units in Structure: 50+,IL,Alexander,97,131,105,127,127,133,131,143,231,219
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Alexander,0,10,19,18,16,17,7,4,0,0
+49,Units in Structure: Mobile Home,IL,Alexander,628,649,663,712,742,668,619,543,426,422
+40,Units in Structure: 1 ATTACHED,IL,Bond,71,49,32,35,27,24,24,35,31,24
+41,Units in Structure: 1 DETACHED,IL,Bond,5659,5682,5586,5487,5436,5413,5356,5450,5570,5552
+42,Units in Structure: 10-19,IL,Bond,55,50,147,131,119,123,110,23,78,88
+43,Units in Structure: 2,IL,Bond,125,152,196,183,163,148,143,93,94,79
+44,Units in Structure: 20-49,IL,Bond,19,75,79,66,63,83,53,62,63,92
+45,Units in Structure: 3-4,IL,Bond,206,166,173,154,133,140,170,206,235,232
+46,Units in Structure: 5-9,IL,Bond,121,26,65,109,147,145,136,195,158,155
+47,Units in Structure: 50+,IL,Bond,37,58,72,90,95,97,96,86,113,114
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Bond,0,0,7,7,16,15,29,32,38,25
+49,Units in Structure: Mobile Home,IL,Bond,794,824,729,817,887,893,984,1029,848,877
+40,Units in Structure: 1 ATTACHED,IL,Boone,504,533,553,607,673,655,612,689,778,756
+41,Units in Structure: 1 DETACHED,IL,Boone,15419,15561,15604,15435,15835,15987,16137,16386,16119,16120
+42,Units in Structure: 10-19,IL,Boone,239,205,288,363,313,287,487,382,333,277
+43,Units in Structure: 2,IL,Boone,615,613,548,608,512,454,528,526,667,677
+44,Units in Structure: 20-49,IL,Boone,27,20,20,62,47,81,77,80,48,65
+45,Units in Structure: 3-4,IL,Boone,577,649,715,797,749,615,515,421,385,479
+46,Units in Structure: 5-9,IL,Boone,649,541,555,467,370,363,364,293,368,346
+47,Units in Structure: 50+,IL,Boone,282,316,296,242,244,270,280,283,384,366
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Boone,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Boone,1269,1384,1330,1349,1227,1256,959,994,983,974
+40,Units in Structure: 1 ATTACHED,IL,Brown,22,15,22,37,32,33,19,16,9,12
+41,Units in Structure: 1 DETACHED,IL,Brown,1980,1900,1956,2033,1936,1934,1999,1970,1894,1930
+42,Units in Structure: 10-19,IL,Brown,59,100,96,63,94,104,53,59,76,30
+43,Units in Structure: 2,IL,Brown,31,25,18,13,31,37,59,58,59,57
+44,Units in Structure: 20-49,IL,Brown,24,33,33,8,7,10,0,0,0,0
+45,Units in Structure: 3-4,IL,Brown,155,158,124,110,84,73,49,49,76,88
+46,Units in Structure: 5-9,IL,Brown,13,43,61,31,72,57,30,31,32,34
+47,Units in Structure: 50+,IL,Brown,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Brown,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Brown,191,200,156,162,200,206,240,268,310,298
+40,Units in Structure: 1 ATTACHED,IL,Bureau,190,230,219,197,167,160,147,193,262,254
+41,Units in Structure: 1 DETACHED,IL,Bureau,13076,13199,13264,13157,13135,13133,13094,13337,13281,13321
+42,Units in Structure: 10-19,IL,Bureau,81,95,146,180,186,175,209,198,194,199
+43,Units in Structure: 2,IL,Bureau,571,524,464,437,426,337,344,325,421,382
+44,Units in Structure: 20-49,IL,Bureau,64,46,72,134,111,131,156,137,134,162
+45,Units in Structure: 3-4,IL,Bureau,582,511,503,484,611,590,563,483,423,386
+46,Units in Structure: 5-9,IL,Bureau,350,377,340,423,386,445,376,343,335,316
+47,Units in Structure: 50+,IL,Bureau,278,269,285,235,201,210,221,207,241,235
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Bureau,12,0,0,3,11,9,9,11,9,0
+49,Units in Structure: Mobile Home,IL,Bureau,482,448,419,429,449,457,545,462,405,427
+40,Units in Structure: 1 ATTACHED,IL,Calhoun,27,25,29,24,39,42,52,51,49,44
+41,Units in Structure: 1 DETACHED,IL,Calhoun,2252,2335,2395,2378,2389,2355,2341,2361,2365,2389
+42,Units in Structure: 10-19,IL,Calhoun,30,32,41,36,34,29,20,17,10,10
+43,Units in Structure: 2,IL,Calhoun,15,30,21,20,30,46,43,49,41,27
+44,Units in Structure: 20-49,IL,Calhoun,10,10,8,8,0,0,0,0,0,0
+45,Units in Structure: 3-4,IL,Calhoun,48,48,41,55,37,44,39,53,36,26
+46,Units in Structure: 5-9,IL,Calhoun,58,54,52,32,21,30,41,40,48,45
+47,Units in Structure: 50+,IL,Calhoun,13,11,10,9,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Calhoun,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Calhoun,371,280,237,263,283,282,307,299,333,334
+40,Units in Structure: 1 ATTACHED,IL,Carroll,82,58,56,44,41,41,52,102,105,117
+41,Units in Structure: 1 DETACHED,IL,Carroll,6991,7019,7011,7084,7293,7231,7197,7167,7163,7126
+42,Units in Structure: 10-19,IL,Carroll,79,70,95,102,54,62,54,50,51,70
+43,Units in Structure: 2,IL,Carroll,407,401,380,278,208,202,186,191,193,211
+44,Units in Structure: 20-49,IL,Carroll,82,94,109,173,124,140,178,182,151,148
+45,Units in Structure: 3-4,IL,Carroll,203,227,219,214,217,198,190,179,177,153
+46,Units in Structure: 5-9,IL,Carroll,172,179,113,146,143,151,168,165,142,141
+47,Units in Structure: 50+,IL,Carroll,33,26,30,39,22,42,53,77,100,133
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Carroll,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Carroll,333,361,419,336,311,368,346,345,381,376
+40,Units in Structure: 1 ATTACHED,IL,Cass,19,19,17,21,33,41,36,57,59,43
+41,Units in Structure: 1 DETACHED,IL,Cass,4537,4492,4442,4419,4506,4424,4432,4424,4453,4390
+42,Units in Structure: 10-19,IL,Cass,36,30,42,37,47,61,63,80,105,86
+43,Units in Structure: 2,IL,Cass,126,75,54,108,93,103,103,118,127,168
+44,Units in Structure: 20-49,IL,Cass,73,69,49,59,81,101,120,108,105,79
+45,Units in Structure: 3-4,IL,Cass,293,258,245,191,159,176,157,189,221,271
+46,Units in Structure: 5-9,IL,Cass,149,141,129,85,95,115,96,98,101,95
+47,Units in Structure: 50+,IL,Cass,6,10,11,13,5,4,6,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Cass,0,0,0,0,0,0,2,2,2,6
+49,Units in Structure: Mobile Home,IL,Cass,636,752,856,885,788,774,758,755,659,684
+40,Units in Structure: 1 ATTACHED,IL,Champaign,4384,4565,4938,5112,5201,5390,5060,4749,4508,4278
+41,Units in Structure: 1 DETACHED,IL,Champaign,47312,47214,47389,47901,48675,48616,49401,49577,49701,49280
+42,Units in Structure: 10-19,IL,Champaign,8466,8765,8922,9338,9133,9375,9613,9760,9903,9758
+43,Units in Structure: 2,IL,Champaign,2493,2584,2339,2331,2383,2424,2356,2529,2428,2627
+44,Units in Structure: 20-49,IL,Champaign,5548,5624,5740,5879,5628,5862,5983,6819,6910,7246
+45,Units in Structure: 3-4,IL,Champaign,3948,4026,3990,3866,3687,3631,3550,3372,3500,3718
+46,Units in Structure: 5-9,IL,Champaign,6228,6215,6647,6355,6676,6415,6600,6250,6559,6512
+47,Units in Structure: 50+,IL,Champaign,3493,3911,3651,3517,3683,3944,3747,4196,4579,5337
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Champaign,28,13,14,13,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Champaign,3988,3934,3830,3614,3289,3324,3336,3531,3579,3943
+40,Units in Structure: 1 ATTACHED,IL,Christian,121,121,83,60,59,102,115,125,206,181
+41,Units in Structure: 1 DETACHED,IL,Christian,12972,12901,12895,12955,12980,13041,13059,13120,12999,13062
+42,Units in Structure: 10-19,IL,Christian,135,129,108,97,130,132,169,172,170,115
+43,Units in Structure: 2,IL,Christian,289,350,394,329,326,385,310,334,350,331
+44,Units in Structure: 20-49,IL,Christian,116,173,193,178,171,153,136,217,264,250
+45,Units in Structure: 3-4,IL,Christian,490,493,477,563,523,394,433,430,401,414
+46,Units in Structure: 5-9,IL,Christian,216,193,179,163,173,243,204,171,181,214
+47,Units in Structure: 50+,IL,Christian,306,293,249,311,342,312,318,318,259,295
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Christian,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Christian,887,898,967,879,832,777,757,706,786,752
+40,Units in Structure: 1 ATTACHED,IL,Clark,15,35,51,66,62,57,51,59,72,41
+41,Units in Structure: 1 DETACHED,IL,Clark,6332,6158,6067,6064,6068,5996,6142,6289,6243,6276
+42,Units in Structure: 10-19,IL,Clark,33,9,8,24,33,50,51,46,43,62
+43,Units in Structure: 2,IL,Clark,159,192,170,142,110,152,115,139,197,199
+44,Units in Structure: 20-49,IL,Clark,0,15,30,26,25,44,31,25,31,49
+45,Units in Structure: 3-4,IL,Clark,214,286,313,304,364,348,249,203,201,192
+46,Units in Structure: 5-9,IL,Clark,89,81,114,86,135,134,171,162,152,149
+47,Units in Structure: 50+,IL,Clark,0,4,5,5,25,32,31,24,24,5
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Clark,19,17,12,21,6,7,6,14,25,26
+49,Units in Structure: Mobile Home,IL,Clark,943,982,1009,1009,918,924,912,826,809,815
+40,Units in Structure: 1 ATTACHED,IL,Clay,29,35,46,45,18,41,46,68,70,61
+41,Units in Structure: 1 DETACHED,IL,Clay,4684,4660,4710,4729,4828,4833,4730,4745,4697,4540
+42,Units in Structure: 10-19,IL,Clay,76,123,66,62,13,18,18,21,19,18
+43,Units in Structure: 2,IL,Clay,155,158,189,183,190,139,131,107,71,54
+44,Units in Structure: 20-49,IL,Clay,25,28,10,1,6,4,5,7,5,0
+45,Units in Structure: 3-4,IL,Clay,269,188,133,144,84,63,77,114,148,172
+46,Units in Structure: 5-9,IL,Clay,115,112,114,41,53,79,85,74,141,174
+47,Units in Structure: 50+,IL,Clay,13,27,22,32,42,39,29,40,20,39
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Clay,3,4,5,5,6,4,1,1,2,2
+49,Units in Structure: Mobile Home,IL,Clay,1068,1083,1108,1134,1144,1160,1241,1236,1255,1381
+40,Units in Structure: 1 ATTACHED,IL,Clinton,328,252,265,202,207,187,190,214,233,248
+41,Units in Structure: 1 DETACHED,IL,Clinton,12081,12194,12294,12217,12475,12628,12612,12529,12529,12737
+42,Units in Structure: 10-19,IL,Clinton,44,84,65,73,85,75,65,74,38,37
+43,Units in Structure: 2,IL,Clinton,290,247,302,342,288,293,383,290,360,321
+44,Units in Structure: 20-49,IL,Clinton,58,68,47,37,39,74,79,159,158,160
+45,Units in Structure: 3-4,IL,Clinton,393,406,343,270,193,163,118,170,238,283
+46,Units in Structure: 5-9,IL,Clinton,174,166,140,178,161,164,136,209,227,259
+47,Units in Structure: 50+,IL,Clinton,207,229,227,229,215,193,189,180,214,186
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Clinton,0,0,1,1,1,1,2,0,0,59
+49,Units in Structure: Mobile Home,IL,Clinton,1561,1593,1613,1805,1779,1726,1765,1879,1783,1592
+40,Units in Structure: 1 ATTACHED,IL,Coles,545,519,493,461,484,383,416,415,487,529
+41,Units in Structure: 1 DETACHED,IL,Coles,15887,15631,15769,15744,15831,15720,15773,15879,15889,15892
+42,Units in Structure: 10-19,IL,Coles,1104,1064,1068,1140,1189,1229,1252,1207,1019,1036
+43,Units in Structure: 2,IL,Coles,946,924,875,913,975,1020,1067,1102,1126,1163
+44,Units in Structure: 20-49,IL,Coles,867,804,746,614,594,659,637,636,681,781
+45,Units in Structure: 3-4,IL,Coles,1102,1478,1618,1707,1823,1702,1441,1406,1240,969
+46,Units in Structure: 5-9,IL,Coles,928,966,926,906,815,921,980,1061,1151,1217
+47,Units in Structure: 50+,IL,Coles,500,568,532,550,519,636,646,647,720,652
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Coles,0,0,0,0,0,0,0,5,8,6
+49,Units in Structure: Mobile Home,IL,Coles,1497,1434,1436,1389,1249,1194,1213,1185,1205,1250
+40,Units in Structure: 1 ATTACHED,IL,Cook,118871,119153,118595,117285,114759,114638,114564,114466,114543,116609
+41,Units in Structure: 1 DETACHED,IL,Cook,867126,867604,869539,871344,872996,873073,874907,880444,881012,882569
+42,Units in Structure: 10-19,IL,Cook,111998,111367,110050,108663,106561,106754,106404,105615,103914,102538
+43,Units in Structure: 2,IL,Cook,223617,222356,218404,214785,213916,213338,211843,211997,212985,212673
+44,Units in Structure: 20-49,IL,Cook,123139,123511,122955,123776,124668,126351,125857,126692,126108,124909
+45,Units in Structure: 3-4,IL,Cook,248890,250449,252173,250451,248817,245885,241638,236268,234651,234507
+46,Units in Structure: 5-9,IL,Cook,207658,206254,207272,208593,210534,212098,217180,220208,220889,220133
+47,Units in Structure: 50+,IL,Cook,255394,260473,263554,265598,269165,268940,269484,272518,278333,283283
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Cook,772,769,793,703,567,471,481,487,554,605
+49,Units in Structure: Mobile Home,IL,Cook,15968,15582,15404,15068,15050,15001,14984,15292,15405,15512
+40,Units in Structure: 1 ATTACHED,IL,Crawford,35,40,42,49,40,47,32,51,46,52
+41,Units in Structure: 1 DETACHED,IL,Crawford,7098,7113,7091,7220,7214,7348,7294,7333,7303,7162
+42,Units in Structure: 10-19,IL,Crawford,98,57,26,12,15,13,14,17,8,13
+43,Units in Structure: 2,IL,Crawford,177,136,147,111,110,83,110,102,124,173
+44,Units in Structure: 20-49,IL,Crawford,0,0,8,22,22,57,57,88,94,153
+45,Units in Structure: 3-4,IL,Crawford,179,166,159,172,159,176,171,206,185,193
+46,Units in Structure: 5-9,IL,Crawford,340,324,336,282,252,162,129,92,121,123
+47,Units in Structure: 50+,IL,Crawford,43,56,32,10,10,11,1,3,5,5
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Crawford,0,0,7,8,9,17,16,10,7,11
+49,Units in Structure: Mobile Home,IL,Crawford,763,779,834,770,824,729,833,791,790,804
+40,Units in Structure: 1 ATTACHED,IL,Cumberland,29,12,3,10,18,19,31,31,25,17
+41,Units in Structure: 1 DETACHED,IL,Cumberland,3980,3997,3994,3914,3946,3895,3885,3951,4035,4049
+42,Units in Structure: 10-19,IL,Cumberland,20,10,9,7,15,32,40,43,49,38
+43,Units in Structure: 2,IL,Cumberland,68,65,72,83,84,86,70,59,80,81
+44,Units in Structure: 20-49,IL,Cumberland,9,6,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,IL,Cumberland,126,154,124,141,167,170,146,124,126,114
+46,Units in Structure: 5-9,IL,Cumberland,13,14,8,12,27,15,12,8,22,29
+47,Units in Structure: 50+,IL,Cumberland,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Cumberland,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Cumberland,673,626,672,707,618,641,670,665,536,544
+40,Units in Structure: 1 ATTACHED,IL,DeKalb,4053,4032,4026,3941,4013,4417,4182,4266,4228,4133
+41,Units in Structure: 1 DETACHED,IL,DeKalb,23979,24186,24131,23706,23919,23459,23887,23848,23993,23593
+42,Units in Structure: 10-19,IL,DeKalb,2527,2429,2377,2718,2746,2491,2457,2650,2156,2367
+43,Units in Structure: 2,IL,DeKalb,1569,1585,1595,1664,1525,1664,1566,1454,1363,1248
+44,Units in Structure: 20-49,IL,DeKalb,1604,1869,1627,1519,1415,1438,1476,1669,1701,1733
+45,Units in Structure: 3-4,IL,DeKalb,1608,1532,1599,1665,1727,1757,1871,1993,1984,1980
+46,Units in Structure: 5-9,IL,DeKalb,2661,2733,3134,3156,3179,3308,3105,2869,3227,3623
+47,Units in Structure: 50+,IL,DeKalb,1290,1371,1391,1472,1391,1310,1425,1521,1707,1656
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,DeKalb,3,4,3,3,2,2,3,3,4,7
+49,Units in Structure: Mobile Home,IL,DeKalb,1003,1031,1049,1139,1117,1163,1045,870,818,866
+40,Units in Structure: 1 ATTACHED,IL,De Witt,52,39,37,50,45,33,52,38,26,44
+41,Units in Structure: 1 DETACHED,IL,De Witt,6159,6265,6408,6296,6307,6331,6281,6168,6210,6153
+42,Units in Structure: 10-19,IL,De Witt,31,5,6,9,39,54,54,70,48,23
+43,Units in Structure: 2,IL,De Witt,188,136,98,74,81,118,174,248,230,256
+44,Units in Structure: 20-49,IL,De Witt,44,39,50,66,74,79,80,93,120,117
+45,Units in Structure: 3-4,IL,De Witt,241,217,212,270,259,269,270,331,407,439
+46,Units in Structure: 5-9,IL,De Witt,304,300,275,261,208,157,115,96,94,91
+47,Units in Structure: 50+,IL,De Witt,155,181,122,158,148,127,82,89,58,28
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,De Witt,7,0,0,0,0,0,0,0,9,11
+49,Units in Structure: Mobile Home,IL,De Witt,325,341,327,343,358,354,405,432,367,407
+40,Units in Structure: 1 ATTACHED,IL,Douglas,295,273,235,290,280,261,245,238,185,177
+41,Units in Structure: 1 DETACHED,IL,Douglas,6702,6766,6861,6904,6831,6762,6663,6657,6649,6733
+42,Units in Structure: 10-19,IL,Douglas,70,76,83,70,46,58,51,90,97,117
+43,Units in Structure: 2,IL,Douglas,158,209,234,220,268,280,243,221,189,149
+44,Units in Structure: 20-49,IL,Douglas,85,95,114,136,160,149,187,129,119,122
+45,Units in Structure: 3-4,IL,Douglas,273,276,315,239,233,278,339,391,395,271
+46,Units in Structure: 5-9,IL,Douglas,336,255,194,224,280,276,260,252,287,304
+47,Units in Structure: 50+,IL,Douglas,16,21,17,21,17,26,19,46,66,82
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Douglas,26,25,32,0,0,0,0,4,4,4
+49,Units in Structure: Mobile Home,IL,Douglas,375,362,285,274,259,302,378,403,451,487
+40,Units in Structure: 1 ATTACHED,IL,DuPage,43935,43638,44266,44353,43913,43691,43425,43308,43129,43168
+41,Units in Structure: 1 DETACHED,IL,DuPage,211338,212999,212825,212468,213040,213557,213411,214673,214041,213688
+42,Units in Structure: 10-19,IL,DuPage,23373,21629,21429,21047,21932,22617,22882,23165,23170,23334
+43,Units in Structure: 2,IL,DuPage,3107,3196,2790,2564,2586,2441,2611,2676,3003,3428
+44,Units in Structure: 20-49,IL,DuPage,18708,18358,18158,18183,17559,16884,16379,16515,16472,16520
+45,Units in Structure: 3-4,IL,DuPage,10567,10593,10850,11097,11395,11585,11493,10871,11112,11015
+46,Units in Structure: 5-9,IL,DuPage,22710,22729,22929,23166,22747,22515,23410,23509,23689,23823
+47,Units in Structure: 50+,IL,DuPage,21506,22419,22524,22727,22833,22926,23174,22868,23831,24493
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,DuPage,72,39,52,64,44,112,102,106,166,142
+49,Units in Structure: Mobile Home,IL,DuPage,488,575,547,548,576,688,662,730,686,696
+40,Units in Structure: 1 ATTACHED,IL,Edgar,90,89,108,103,66,53,68,35,50,47
+41,Units in Structure: 1 DETACHED,IL,Edgar,7441,7432,7424,7322,7359,7331,7282,7296,7384,7410
+42,Units in Structure: 10-19,IL,Edgar,16,18,38,47,61,50,57,42,66,43
+43,Units in Structure: 2,IL,Edgar,201,177,167,172,195,164,187,202,186,140
+44,Units in Structure: 20-49,IL,Edgar,104,93,187,167,121,99,86,62,49,84
+45,Units in Structure: 3-4,IL,Edgar,137,178,189,202,187,203,232,290,318,350
+46,Units in Structure: 5-9,IL,Edgar,139,175,156,181,167,179,196,156,152,153
+47,Units in Structure: 50+,IL,Edgar,59,58,65,65,81,108,84,104,90,78
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Edgar,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Edgar,623,593,468,521,541,566,588,636,521,534
+40,Units in Structure: 1 ATTACHED,IL,Edwards,38,48,41,24,20,13,9,5,11,14
+41,Units in Structure: 1 DETACHED,IL,Edwards,2504,2510,2482,2482,2505,2514,2457,2484,2486,2464
+42,Units in Structure: 10-19,IL,Edwards,0,0,7,14,14,24,41,37,35,32
+43,Units in Structure: 2,IL,Edwards,46,49,75,70,51,44,39,39,40,45
+44,Units in Structure: 20-49,IL,Edwards,7,5,4,3,2,2,6,6,4,5
+45,Units in Structure: 3-4,IL,Edwards,51,47,68,56,55,29,29,10,33,38
+46,Units in Structure: 5-9,IL,Edwards,86,51,33,16,25,17,18,24,22,26
+47,Units in Structure: 50+,IL,Edwards,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Edwards,0,0,0,0,0,0,4,5,6,6
+49,Units in Structure: Mobile Home,IL,Edwards,482,491,483,510,502,527,561,573,557,571
+40,Units in Structure: 1 ATTACHED,IL,Effingham,124,99,117,149,177,176,173,188,152,190
+41,Units in Structure: 1 DETACHED,IL,Effingham,11522,11527,11733,11653,11747,11671,11597,11580,11604,11422
+42,Units in Structure: 10-19,IL,Effingham,187,233,215,242,254,216,246,253,273,280
+43,Units in Structure: 2,IL,Effingham,448,349,247,229,186,222,243,286,327,371
+44,Units in Structure: 20-49,IL,Effingham,97,183,267,295,287,317,288,235,219,260
+45,Units in Structure: 3-4,IL,Effingham,197,224,258,240,344,452,445,503,594,544
+46,Units in Structure: 5-9,IL,Effingham,666,671,531,611,495,454,424,431,448,440
+47,Units in Structure: 50+,IL,Effingham,192,199,202,209,114,110,143,144,153,178
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Effingham,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Effingham,1094,1073,1050,1019,1071,1109,1172,1196,1094,1207
+40,Units in Structure: 1 ATTACHED,IL,Fayette,59,62,88,112,111,98,62,47,37,34
+41,Units in Structure: 1 DETACHED,IL,Fayette,7244,7156,7042,6976,6936,6926,7032,7176,7247,7306
+42,Units in Structure: 10-19,IL,Fayette,47,35,30,29,35,26,36,58,67,57
+43,Units in Structure: 2,IL,Fayette,187,174,164,94,49,33,37,62,64,108
+44,Units in Structure: 20-49,IL,Fayette,91,71,73,71,70,49,37,40,48,43
+45,Units in Structure: 3-4,IL,Fayette,254,332,363,317,313,299,245,282,336,316
+46,Units in Structure: 5-9,IL,Fayette,98,106,96,134,125,134,117,106,70,78
+47,Units in Structure: 50+,IL,Fayette,63,68,48,53,38,47,48,30,46,50
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Fayette,0,0,0,0,0,0,0,0,0,7
+49,Units in Structure: Mobile Home,IL,Fayette,1271,1329,1392,1480,1602,1622,1618,1496,1400,1316
+40,Units in Structure: 1 ATTACHED,IL,Ford,70,76,71,40,26,39,48,59,77,94
+41,Units in Structure: 1 DETACHED,IL,Ford,5485,5499,5363,5388,5384,5516,5502,5527,5498,5392
+42,Units in Structure: 10-19,IL,Ford,41,80,100,157,154,121,99,104,96,135
+43,Units in Structure: 2,IL,Ford,104,74,72,54,71,64,83,83,73,97
+44,Units in Structure: 20-49,IL,Ford,90,100,118,124,106,97,117,81,71,81
+45,Units in Structure: 3-4,IL,Ford,163,95,136,123,171,162,171,168,207,205
+46,Units in Structure: 5-9,IL,Ford,79,97,120,148,168,127,131,180,202,200
+47,Units in Structure: 50+,IL,Ford,9,7,9,11,7,5,6,6,14,10
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Ford,9,7,10,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Ford,221,238,266,214,190,171,167,128,129,146
+40,Units in Structure: 1 ATTACHED,IL,Franklin,69,122,102,111,160,147,136,167,155,145
+41,Units in Structure: 1 DETACHED,IL,Franklin,14556,14318,14259,14388,14328,14478,14365,14512,14518,14497
+42,Units in Structure: 10-19,IL,Franklin,43,64,47,27,31,31,20,10,7,8
+43,Units in Structure: 2,IL,Franklin,531,540,615,628,742,721,692,708,699,669
+44,Units in Structure: 20-49,IL,Franklin,79,100,116,169,216,165,190,173,158,115
+45,Units in Structure: 3-4,IL,Franklin,443,500,476,501,442,406,438,382,336,367
+46,Units in Structure: 5-9,IL,Franklin,154,134,144,163,153,241,297,245,228,239
+47,Units in Structure: 50+,IL,Franklin,261,246,210,212,205,257,257,292,309,386
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Franklin,14,13,10,12,11,2,9,9,18,15
+49,Units in Structure: Mobile Home,IL,Franklin,2397,2505,2537,2251,2334,2138,2121,2162,2189,2218
+40,Units in Structure: 1 ATTACHED,IL,Fulton,117,124,147,170,197,184,226,237,298,263
+41,Units in Structure: 1 DETACHED,IL,Fulton,13517,13578,13438,13539,13607,13744,13950,13887,13769,13881
+42,Units in Structure: 10-19,IL,Fulton,144,183,137,169,208,204,179,244,222,214
+43,Units in Structure: 2,IL,Fulton,300,346,491,362,407,410,341,296,320,272
+44,Units in Structure: 20-49,IL,Fulton,55,56,31,28,49,55,59,106,114,119
+45,Units in Structure: 3-4,IL,Fulton,534,484,489,425,427,397,355,444,513,484
+46,Units in Structure: 5-9,IL,Fulton,312,365,388,419,324,277,199,254,277,293
+47,Units in Structure: 50+,IL,Fulton,302,268,319,359,361,387,357,314,301,247
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Fulton,6,0,0,0,0,0,0,0,2,3
+49,Units in Structure: Mobile Home,IL,Fulton,963,842,770,705,598,509,524,514,494,552
+40,Units in Structure: 1 ATTACHED,IL,Gallatin,4,8,11,23,17,39,30,30,30,31
+41,Units in Structure: 1 DETACHED,IL,Gallatin,2095,2025,2045,2011,2031,1997,2043,2027,1972,1853
+42,Units in Structure: 10-19,IL,Gallatin,18,17,15,12,18,11,5,8,5,2
+43,Units in Structure: 2,IL,Gallatin,106,93,95,91,80,103,106,123,118,129
+44,Units in Structure: 20-49,IL,Gallatin,4,5,0,0,5,4,9,10,12,8
+45,Units in Structure: 3-4,IL,Gallatin,58,65,53,35,55,80,91,98,115,97
+46,Units in Structure: 5-9,IL,Gallatin,17,17,23,18,17,9,18,8,9,9
+47,Units in Structure: 50+,IL,Gallatin,1,2,0,0,0,0,0,0,0,2
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Gallatin,4,6,0,0,0,0,0,0,13,10
+49,Units in Structure: Mobile Home,IL,Gallatin,511,549,523,553,507,493,429,444,474,600
+40,Units in Structure: 1 ATTACHED,IL,Greene,36,39,40,43,50,67,38,40,45,31
+41,Units in Structure: 1 DETACHED,IL,Greene,5277,5244,5290,5384,5332,5269,5298,5294,5261,5335
+42,Units in Structure: 10-19,IL,Greene,57,34,89,40,21,19,18,5,6,5
+43,Units in Structure: 2,IL,Greene,309,326,265,228,226,196,191,208,207,187
+44,Units in Structure: 20-49,IL,Greene,0,0,0,7,8,7,5,6,1,4
+45,Units in Structure: 3-4,IL,Greene,144,170,153,118,124,134,163,156,164,160
+46,Units in Structure: 5-9,IL,Greene,50,57,55,57,71,82,87,88,99,93
+47,Units in Structure: 50+,IL,Greene,6,3,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Greene,5,2,3,2,2,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Greene,545,523,493,494,537,588,573,607,646,623
+40,Units in Structure: 1 ATTACHED,IL,Grundy,2174,2155,2387,2328,2329,2083,2208,1930,2024,2032
+41,Units in Structure: 1 DETACHED,IL,Grundy,13471,13619,13558,13953,14058,14228,14230,14801,14885,14996
+42,Units in Structure: 10-19,IL,Grundy,465,461,434,412,349,327,317,413,438,446
+43,Units in Structure: 2,IL,Grundy,381,369,325,394,484,446,504,506,456,431
+44,Units in Structure: 20-49,IL,Grundy,201,191,142,155,173,213,291,292,192,186
+45,Units in Structure: 3-4,IL,Grundy,647,798,853,718,724,864,721,763,857,979
+46,Units in Structure: 5-9,IL,Grundy,751,846,796,795,808,780,767,693,702,705
+47,Units in Structure: 50+,IL,Grundy,301,264,364,289,347,416,421,330,310,288
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Grundy,0,0,0,0,0,24,17,13,11,23
+49,Units in Structure: Mobile Home,IL,Grundy,1105,1104,1060,983,885,868,882,825,886,837
+40,Units in Structure: 1 ATTACHED,IL,Hamilton,36,37,36,25,20,27,34,35,52,50
+41,Units in Structure: 1 DETACHED,IL,Hamilton,3194,3208,3178,3076,3092,3052,3070,3127,3206,3059
+42,Units in Structure: 10-19,IL,Hamilton,42,48,20,0,0,0,0,3,3,3
+43,Units in Structure: 2,IL,Hamilton,78,58,39,60,58,87,97,100,80,82
+44,Units in Structure: 20-49,IL,Hamilton,0,30,43,86,75,67,39,32,13,14
+45,Units in Structure: 3-4,IL,Hamilton,41,21,23,41,41,44,37,41,19,8
+46,Units in Structure: 5-9,IL,Hamilton,75,54,64,39,46,12,15,6,6,15
+47,Units in Structure: 50+,IL,Hamilton,9,16,11,7,22,17,19,18,23,14
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Hamilton,0,0,0,0,0,0,0,0,0,15
+49,Units in Structure: Mobile Home,IL,Hamilton,626,634,684,758,725,762,760,746,698,847
+40,Units in Structure: 1 ATTACHED,IL,Hancock,126,113,122,116,56,51,43,48,72,97
+41,Units in Structure: 1 DETACHED,IL,Hancock,7700,7701,7718,7628,7609,7569,7623,7628,7650,7713
+42,Units in Structure: 10-19,IL,Hancock,55,39,40,47,80,68,62,65,47,45
+43,Units in Structure: 2,IL,Hancock,240,273,278,272,264,281,261,321,327,281
+44,Units in Structure: 20-49,IL,Hancock,33,26,29,22,19,31,40,59,57,91
+45,Units in Structure: 3-4,IL,Hancock,343,333,311,413,442,374,409,411,345,306
+46,Units in Structure: 5-9,IL,Hancock,124,112,143,129,131,130,129,97,117,120
+47,Units in Structure: 50+,IL,Hancock,18,19,16,5,13,26,34,29,31,25
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Hancock,7,7,7,7,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Hancock,640,651,600,622,618,697,611,596,601,577
+40,Units in Structure: 1 ATTACHED,IL,Hardin,5,5,4,5,4,7,9,3,9,21
+41,Units in Structure: 1 DETACHED,IL,Hardin,1700,1670,1706,1689,1660,1667,1607,1555,1558,1589
+42,Units in Structure: 10-19,IL,Hardin,0,1,2,2,2,1,0,0,0,0
+43,Units in Structure: 2,IL,Hardin,42,50,49,35,35,29,27,31,40,31
+44,Units in Structure: 20-49,IL,Hardin,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,IL,Hardin,156,119,102,100,75,78,85,81,79,64
+46,Units in Structure: 5-9,IL,Hardin,19,20,19,18,17,6,8,6,4,3
+47,Units in Structure: 50+,IL,Hardin,0,0,0,0,0,1,1,1,1,1
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Hardin,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Hardin,552,573,531,527,509,501,499,518,471,472
+40,Units in Structure: 1 ATTACHED,IL,Henderson,17,17,17,20,14,24,37,49,30,32
+41,Units in Structure: 1 DETACHED,IL,Henderson,3180,3239,3201,3176,3214,3198,3162,3211,3276,3264
+42,Units in Structure: 10-19,IL,Henderson,32,8,8,14,15,16,15,11,6,5
+43,Units in Structure: 2,IL,Henderson,31,35,35,30,32,42,47,46,34,31
+44,Units in Structure: 20-49,IL,Henderson,0,0,0,0,0,6,8,7,9,10
+45,Units in Structure: 3-4,IL,Henderson,71,62,49,60,69,75,75,75,67,61
+46,Units in Structure: 5-9,IL,Henderson,33,35,21,19,23,19,20,24,26,22
+47,Units in Structure: 50+,IL,Henderson,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Henderson,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Henderson,536,470,521,505,454,431,463,438,417,443
+40,Units in Structure: 1 ATTACHED,IL,Henry,251,283,310,299,282,242,223,197,221,185
+41,Units in Structure: 1 DETACHED,IL,Henry,18624,18839,18911,18971,18864,19114,19005,19059,19085,19429
+42,Units in Structure: 10-19,IL,Henry,284,281,220,250,281,196,165,200,199,162
+43,Units in Structure: 2,IL,Henry,615,544,471,489,544,448,564,510,529,484
+44,Units in Structure: 20-49,IL,Henry,262,216,251,212,255,294,303,372,394,310
+45,Units in Structure: 3-4,IL,Henry,569,534,565,491,557,541,561,488,526,450
+46,Units in Structure: 5-9,IL,Henry,588,561,502,456,381,398,463,512,440,411
+47,Units in Structure: 50+,IL,Henry,280,305,308,340,421,358,331,336,353,351
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Henry,13,11,11,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Henry,597,556,586,619,545,521,481,487,433,383
+40,Units in Structure: 1 ATTACHED,IL,Iroquois,197,188,185,187,217,207,261,279,353,308
+41,Units in Structure: 1 DETACHED,IL,Iroquois,11411,11325,11400,11310,11238,11406,11343,11191,11167,11191
+42,Units in Structure: 10-19,IL,Iroquois,231,247,248,276,264,222,223,233,148,117
+43,Units in Structure: 2,IL,Iroquois,414,450,385,379,372,314,247,288,265,315
+44,Units in Structure: 20-49,IL,Iroquois,35,44,31,34,63,54,57,65,67,38
+45,Units in Structure: 3-4,IL,Iroquois,357,338,318,343,349,378,361,501,535,555
+46,Units in Structure: 5-9,IL,Iroquois,187,201,197,249,275,272,365,387,371,275
+47,Units in Structure: 50+,IL,Iroquois,89,129,160,168,121,100,112,102,108,150
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Iroquois,0,0,0,2,1,1,2,3,2,2
+49,Units in Structure: Mobile Home,IL,Iroquois,538,529,536,504,529,455,450,459,476,542
+40,Units in Structure: 1 ATTACHED,IL,Jackson,246,266,294,274,248,236,390,431,489,477
+41,Units in Structure: 1 DETACHED,IL,Jackson,15002,14980,14968,15163,15192,15514,15428,15828,15560,15289
+42,Units in Structure: 10-19,IL,Jackson,1222,1290,1426,1562,1653,1697,1784,1769,1709,1704
+43,Units in Structure: 2,IL,Jackson,2251,1831,2067,1770,1788,1623,1840,1787,2040,2153
+44,Units in Structure: 20-49,IL,Jackson,1086,1118,1079,990,1094,1176,1348,1371,1478,1647
+45,Units in Structure: 3-4,IL,Jackson,1664,1751,1654,1791,1771,1895,1895,1993,2109,2321
+46,Units in Structure: 5-9,IL,Jackson,1536,1633,1803,1762,1766,1940,1886,1801,1677,1540
+47,Units in Structure: 50+,IL,Jackson,1068,1210,1222,1442,1366,1242,922,797,834,784
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Jackson,0,5,23,23,33,63,91,66,78,83
+49,Units in Structure: Mobile Home,IL,Jackson,4198,4373,4006,3778,3723,3255,3099,3078,3022,2964
+40,Units in Structure: 1 ATTACHED,IL,Jasper,34,34,33,19,18,25,0,0,11,19
+41,Units in Structure: 1 DETACHED,IL,Jasper,3442,3521,3438,3547,3645,3589,3618,3645,3654,3623
+42,Units in Structure: 10-19,IL,Jasper,11,12,18,18,19,20,17,11,12,12
+43,Units in Structure: 2,IL,Jasper,29,6,5,0,0,45,48,60,41,51
+44,Units in Structure: 20-49,IL,Jasper,10,12,55,65,60,80,76,59,47,47
+45,Units in Structure: 3-4,IL,Jasper,206,157,128,35,29,64,52,58,66,68
+46,Units in Structure: 5-9,IL,Jasper,91,92,93,89,58,14,13,2,2,0
+47,Units in Structure: 50+,IL,Jasper,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Jasper,0,0,13,10,10,9,10,0,0,0
+49,Units in Structure: Mobile Home,IL,Jasper,546,524,565,545,496,480,490,515,500,529
+40,Units in Structure: 1 ATTACHED,IL,Jefferson,82,101,98,92,95,95,69,72,96,85
+41,Units in Structure: 1 DETACHED,IL,Jefferson,11704,11571,11623,11464,11454,11612,11674,11751,11715,11850
+42,Units in Structure: 10-19,IL,Jefferson,382,428,416,474,483,465,468,422,409,406
+43,Units in Structure: 2,IL,Jefferson,237,341,287,267,282,193,123,116,196,253
+44,Units in Structure: 20-49,IL,Jefferson,186,229,220,236,251,279,285,311,378,318
+45,Units in Structure: 3-4,IL,Jefferson,478,364,361,301,319,387,413,465,513,519
+46,Units in Structure: 5-9,IL,Jefferson,466,452,482,503,518,498,501,490,491,499
+47,Units in Structure: 50+,IL,Jefferson,349,355,329,353,336,326,327,331,277,259
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Jefferson,6,6,0,6,7,7,5,4,6,6
+49,Units in Structure: Mobile Home,IL,Jefferson,3220,3141,3153,3186,3134,3011,2971,2992,2890,2803
+40,Units in Structure: 1 ATTACHED,IL,Jersey,149,142,142,102,103,88,113,125,113,79
+41,Units in Structure: 1 DETACHED,IL,Jersey,7970,8071,8132,8073,8180,8268,8299,8389,8423,8673
+42,Units in Structure: 10-19,IL,Jersey,99,79,60,59,73,54,45,58,63,48
+43,Units in Structure: 2,IL,Jersey,248,276,276,238,253,218,172,237,252,158
+44,Units in Structure: 20-49,IL,Jersey,84,67,89,115,133,131,153,158,124,102
+45,Units in Structure: 3-4,IL,Jersey,158,143,121,139,187,186,254,280,329,292
+46,Units in Structure: 5-9,IL,Jersey,250,267,241,292,212,226,245,219,190,206
+47,Units in Structure: 50+,IL,Jersey,61,61,0,0,37,38,37,70,84,34
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Jersey,14,12,28,27,40,40,39,32,12,0
+49,Units in Structure: Mobile Home,IL,Jersey,737,699,766,836,734,730,659,532,535,556
+40,Units in Structure: 1 ATTACHED,IL,Jo Daviess,633,604,612,611,625,496,416,519,599,506
+41,Units in Structure: 1 DETACHED,IL,Jo Daviess,11037,11213,11287,11317,11324,11479,11468,11413,11290,11239
+42,Units in Structure: 10-19,IL,Jo Daviess,134,159,128,114,86,99,81,83,103,100
+43,Units in Structure: 2,IL,Jo Daviess,296,282,309,333,379,328,340,353,257,265
+44,Units in Structure: 20-49,IL,Jo Daviess,122,106,91,76,136,120,117,142,197,199
+45,Units in Structure: 3-4,IL,Jo Daviess,399,424,419,389,358,367,422,460,531,611
+46,Units in Structure: 5-9,IL,Jo Daviess,301,267,274,288,190,148,132,182,213,266
+47,Units in Structure: 50+,IL,Jo Daviess,44,26,6,17,26,24,36,41,29,18
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Jo Daviess,0,0,0,0,0,2,1,1,2,2
+49,Units in Structure: Mobile Home,IL,Jo Daviess,455,438,434,413,454,515,583,492,475,493
+40,Units in Structure: 1 ATTACHED,IL,Johnson,15,30,33,36,46,58,46,61,56,53
+41,Units in Structure: 1 DETACHED,IL,Johnson,3568,3768,3888,3885,3929,3976,4000,4060,4049,4126
+42,Units in Structure: 10-19,IL,Johnson,27,15,10,6,13,15,10,7,10,6
+43,Units in Structure: 2,IL,Johnson,95,77,74,105,103,112,106,111,84,101
+44,Units in Structure: 20-49,IL,Johnson,6,16,27,42,57,63,50,41,42,37
+45,Units in Structure: 3-4,IL,Johnson,148,143,132,132,125,133,119,119,125,119
+46,Units in Structure: 5-9,IL,Johnson,86,95,99,82,68,69,72,70,62,69
+47,Units in Structure: 50+,IL,Johnson,10,12,14,17,17,3,12,14,14,19
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Johnson,2,3,6,7,4,3,16,9,6,6
+49,Units in Structure: Mobile Home,IL,Johnson,1512,1418,1290,1252,1204,1141,1130,1134,1184,1089
+40,Units in Structure: 1 ATTACHED,IL,Kane,17314,17933,18561,18835,19734,20076,20356,20524,21019,20430
+41,Units in Structure: 1 DETACHED,IL,Kane,123494,124877,125036,125470,126687,126734,127621,129160,130385,130612
+42,Units in Structure: 10-19,IL,Kane,5008,5067,5232,5504,5423,5388,5311,5180,4820,4863
+43,Units in Structure: 2,IL,Kane,8362,7936,8028,7762,7619,7284,7364,7380,7383,7464
+44,Units in Structure: 20-49,IL,Kane,3168,3425,3865,3815,3604,3861,3467,3394,3586,4165
+45,Units in Structure: 3-4,IL,Kane,6600,7181,6757,7374,7226,7466,7212,7248,7020,6660
+46,Units in Structure: 5-9,IL,Kane,8183,7792,7502,6846,5917,5990,6117,6140,6223,7041
+47,Units in Structure: 50+,IL,Kane,5279,5287,5347,5224,5279,5369,5416,5357,5169,5540
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Kane,0,0,8,25,38,38,43,35,27,29
+49,Units in Structure: Mobile Home,IL,Kane,1243,1263,1251,1290,1325,1178,1168,1148,1127,1163
+40,Units in Structure: 1 ATTACHED,IL,Kankakee,1807,1613,1637,1566,1193,1236,1244,1387,1650,1757
+41,Units in Structure: 1 DETACHED,IL,Kankakee,31792,32348,32477,32350,32305,32262,32063,32131,32093,32206
+42,Units in Structure: 10-19,IL,Kankakee,870,811,756,778,934,887,907,878,867,855
+43,Units in Structure: 2,IL,Kankakee,1763,1794,1838,1964,1970,1887,1892,1884,1754,1759
+44,Units in Structure: 20-49,IL,Kankakee,476,425,454,464,439,306,351,261,344,426
+45,Units in Structure: 3-4,IL,Kankakee,2070,2104,2220,2330,2496,2533,2523,2445,2467,2082
+46,Units in Structure: 5-9,IL,Kankakee,2103,2119,2087,1925,2024,1998,2093,2197,2282,2460
+47,Units in Structure: 50+,IL,Kankakee,851,781,804,852,907,1026,1090,1184,1078,1135
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Kankakee,3,0,0,0,0,6,6,5,4,3
+49,Units in Structure: Mobile Home,IL,Kankakee,3114,3119,2902,2906,2921,3043,3013,3028,2976,2879
+40,Units in Structure: 1 ATTACHED,IL,Kendall,5583,6394,6320,7041,6587,6540,6249,6096,5757,6089
+41,Units in Structure: 1 DETACHED,IL,Kendall,28831,29744,30300,29666,30282,30444,30725,31148,31890,32193
+42,Units in Structure: 10-19,IL,Kendall,1083,1067,1117,1117,1082,1228,1202,1212,1090,974
+43,Units in Structure: 2,IL,Kendall,388,354,268,345,525,424,349,592,395,397
+44,Units in Structure: 20-49,IL,Kendall,347,300,380,457,475,568,672,589,488,467
+45,Units in Structure: 3-4,IL,Kendall,662,685,734,780,594,628,518,593,713,748
+46,Units in Structure: 5-9,IL,Kendall,545,569,556,708,859,735,951,832,849,670
+47,Units in Structure: 50+,IL,Kendall,289,230,250,228,267,326,384,354,452,468
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Kendall,10,9,9,0,0,0,0,20,28,15
+49,Units in Structure: Mobile Home,IL,Kendall,84,80,68,73,76,37,38,27,21,8
+40,Units in Structure: 1 ATTACHED,IL,Knox,165,127,151,206,294,348,380,404,386,317
+41,Units in Structure: 1 DETACHED,IL,Knox,18804,18853,18818,18806,18412,18332,18107,18292,18370,18629
+42,Units in Structure: 10-19,IL,Knox,587,505,525,525,517,600,564,528,525,563
+43,Units in Structure: 2,IL,Knox,935,869,860,830,935,802,808,753,680,539
+44,Units in Structure: 20-49,IL,Knox,269,292,292,376,344,384,292,355,269,253
+45,Units in Structure: 3-4,IL,Knox,792,843,846,767,878,743,764,866,915,814
+46,Units in Structure: 5-9,IL,Knox,675,770,895,882,890,914,952,831,842,853
+47,Units in Structure: 50+,IL,Knox,799,818,792,808,881,922,1068,1029,1097,977
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Knox,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Knox,1058,993,861,765,809,900,973,900,859,972
+40,Units in Structure: 1 ATTACHED,IL,Lake,29184,29853,30151,30190,29968,30293,28614,27453,26951,26724
+41,Units in Structure: 1 DETACHED,IL,Lake,174096,174451,175104,175285,175339,175280,176566,177353,177736,177495
+42,Units in Structure: 10-19,IL,Lake,10674,10793,11225,11261,11089,11122,11107,10683,10604,11309
+43,Units in Structure: 2,IL,Lake,7022,7025,6591,6783,6759,6682,6795,6897,6794,6800
+44,Units in Structure: 20-49,IL,Lake,8199,8050,8052,7919,8200,7673,7679,7880,8163,7873
+45,Units in Structure: 3-4,IL,Lake,7627,7324,7314,7425,7434,7369,7587,8221,8064,7880
+46,Units in Structure: 5-9,IL,Lake,8964,9278,8979,8875,8952,9042,9229,9454,9615,9831
+47,Units in Structure: 50+,IL,Lake,7480,7758,7857,7861,8431,9191,9749,10224,10967,11611
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Lake,42,54,33,60,70,89,72,75,38,47
+49,Units in Structure: Mobile Home,IL,Lake,4683,4772,4714,4679,4592,4488,4317,4313,4428,4508
+40,Units in Structure: 1 ATTACHED,IL,LaSalle,1128,1050,989,934,1068,998,998,1139,1383,1254
+41,Units in Structure: 1 DETACHED,IL,LaSalle,39857,39930,40020,40014,39267,39078,39178,39262,39369,39480
+42,Units in Structure: 10-19,IL,LaSalle,771,814,782,890,966,874,853,821,862,799
+43,Units in Structure: 2,IL,LaSalle,1771,1732,1669,1628,1820,1911,1994,2056,1964,2055
+44,Units in Structure: 20-49,IL,LaSalle,387,331,263,288,264,300,328,370,371,391
+45,Units in Structure: 3-4,IL,LaSalle,1667,1767,1744,1941,2003,2101,2056,2029,2060,2082
+46,Units in Structure: 5-9,IL,LaSalle,996,1238,1143,1239,1379,1512,1427,1424,1265,1351
+47,Units in Structure: 50+,IL,LaSalle,860,831,874,746,747,820,889,848,840,937
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,LaSalle,0,0,5,11,9,7,8,4,0,0
+49,Units in Structure: Mobile Home,IL,LaSalle,2329,2209,2435,2214,2348,2334,2140,2134,2015,1802
+40,Units in Structure: 1 ATTACHED,IL,Lawrence,23,34,42,39,41,30,43,43,34,43
+41,Units in Structure: 1 DETACHED,IL,Lawrence,5232,4918,5375,4459,4594,4739,5187,5604,5539,5491
+42,Units in Structure: 10-19,IL,Lawrence,51,48,81,58,61,39,41,48,43,88
+43,Units in Structure: 2,IL,Lawrence,211,187,211,85,94,118,151,169,198,209
+44,Units in Structure: 20-49,IL,Lawrence,61,69,123,107,116,137,119,88,95,92
+45,Units in Structure: 3-4,IL,Lawrence,112,207,113,103,71,78,106,117,102,157
+46,Units in Structure: 5-9,IL,Lawrence,83,58,56,3,32,33,31,31,36,5
+47,Units in Structure: 50+,IL,Lawrence,103,155,136,99,133,121,80,66,66,50
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Lawrence,5,2,18,18,11,7,10,0,0,0
+49,Units in Structure: Mobile Home,IL,Lawrence,1107,916,734,608,654,619,614,881,980,994
+40,Units in Structure: 1 ATTACHED,IL,Lee,237,237,287,274,273,238,256,236,233,290
+41,Units in Structure: 1 DETACHED,IL,Lee,11724,11860,11817,11733,11679,11847,11944,12138,12311,12223
+42,Units in Structure: 10-19,IL,Lee,89,84,100,209,220,202,200,184,109,86
+43,Units in Structure: 2,IL,Lee,631,625,556,572,687,623,583,569,627,538
+44,Units in Structure: 20-49,IL,Lee,255,224,269,269,234,227,229,236,244,292
+45,Units in Structure: 3-4,IL,Lee,612,600,601,624,611,567,484,494,443,459
+46,Units in Structure: 5-9,IL,Lee,610,636,586,523,561,542,494,429,358,359
+47,Units in Structure: 50+,IL,Lee,167,165,159,191,193,190,207,209,262,267
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Lee,9,9,0,0,3,3,3,3,2,0
+49,Units in Structure: Mobile Home,IL,Lee,637,579,674,640,596,608,642,600,503,569
+40,Units in Structure: 1 ATTACHED,IL,Livingston,310,287,291,283,455,436,461,424,388,225
+41,Units in Structure: 1 DETACHED,IL,Livingston,12345,12511,12491,12558,12326,12344,12216,12359,12371,12590
+42,Units in Structure: 10-19,IL,Livingston,226,232,289,311,275,302,318,263,222,226
+43,Units in Structure: 2,IL,Livingston,358,367,352,373,365,325,368,399,394,398
+44,Units in Structure: 20-49,IL,Livingston,145,157,145,87,38,46,51,70,83,88
+45,Units in Structure: 3-4,IL,Livingston,717,735,751,766,794,758,687,659,626,693
+46,Units in Structure: 5-9,IL,Livingston,697,571,550,471,539,538,563,519,552,419
+47,Units in Structure: 50+,IL,Livingston,148,204,227,224,257,239,322,378,374,350
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Livingston,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Livingston,890,806,767,778,802,859,859,839,887,930
+40,Units in Structure: 1 ATTACHED,IL,Logan,109,95,118,131,100,104,137,106,118,182
+41,Units in Structure: 1 DETACHED,IL,Logan,9742,9550,9354,9386,9332,9086,9618,10033,10010,9853
+42,Units in Structure: 10-19,IL,Logan,187,201,209,214,252,221,214,223,189,191
+43,Units in Structure: 2,IL,Logan,597,536,650,581,582,664,527,316,303,321
+44,Units in Structure: 20-49,IL,Logan,24,68,69,75,105,125,68,76,101,106
+45,Units in Structure: 3-4,IL,Logan,281,438,346,351,372,398,344,392,452,452
+46,Units in Structure: 5-9,IL,Logan,267,394,538,534,459,522,458,293,277,308
+47,Units in Structure: 50+,IL,Logan,210,214,224,197,218,181,185,160,172,162
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Logan,16,5,5,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Logan,648,594,494,473,478,421,415,482,440,475
+40,Units in Structure: 1 ATTACHED,IL,McDonough,600,520,495,577,636,529,631,651,590,664
+41,Units in Structure: 1 DETACHED,IL,McDonough,9102,9127,9172,9250,9086,9277,9223,9284,9318,9314
+42,Units in Structure: 10-19,IL,McDonough,635,537,664,629,611,588,658,548,595,621
+43,Units in Structure: 2,IL,McDonough,550,636,522,381,448,403,353,376,427,439
+44,Units in Structure: 20-49,IL,McDonough,445,479,474,463,385,349,323,341,337,366
+45,Units in Structure: 3-4,IL,McDonough,507,654,793,821,931,923,815,764,740,722
+46,Units in Structure: 5-9,IL,McDonough,803,827,775,663,691,718,806,899,902,918
+47,Units in Structure: 50+,IL,McDonough,696,712,644,764,758,710,644,749,704,699
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,McDonough,0,0,0,0,0,0,0,0,0,18
+49,Units in Structure: Mobile Home,IL,McDonough,1003,893,873,833,861,906,942,831,815,665
+40,Units in Structure: 1 ATTACHED,IL,McHenry,10999,11547,11666,11705,11841,11717,11363,11060,11427,11820
+41,Units in Structure: 1 DETACHED,IL,McHenry,89664,89888,90256,90563,90540,90458,90785,91655,91230,91254
+42,Units in Structure: 10-19,IL,McHenry,2749,2771,2773,2663,2302,2283,2263,2018,2094,2160
+43,Units in Structure: 2,IL,McHenry,1785,1823,1809,1880,2093,2240,2339,2377,2476,2307
+44,Units in Structure: 20-49,IL,McHenry,948,1052,938,1009,1071,1221,1205,1051,1024,1041
+45,Units in Structure: 3-4,IL,McHenry,2831,2973,3226,3105,3028,3009,3008,2838,2834,2903
+46,Units in Structure: 5-9,IL,McHenry,4089,3714,3706,3749,3991,3946,4303,4583,4592,4446
+47,Units in Structure: 50+,IL,McHenry,907,907,939,955,1026,1168,1281,1396,1528,1615
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,McHenry,27,36,37,44,8,31,30,60,73,43
+49,Units in Structure: Mobile Home,IL,McHenry,792,847,665,581,634,699,665,775,854,875
+40,Units in Structure: 1 ATTACHED,IL,McLean,3656,3538,3435,3114,3180,3236,3347,3215,3130,3258
+41,Units in Structure: 1 DETACHED,IL,McLean,42215,42786,42988,43458,43568,43775,43844,44449,44380,44537
+42,Units in Structure: 10-19,IL,McLean,5786,5879,6138,6121,5901,5972,5979,6028,6269,6432
+43,Units in Structure: 2,IL,McLean,1731,1661,1656,1795,1801,1738,1850,1955,1767,1839
+44,Units in Structure: 20-49,IL,McLean,1798,1896,1874,1844,2049,2201,2401,2638,2695,2728
+45,Units in Structure: 3-4,IL,McLean,3968,3991,4032,4036,4195,3972,3695,3615,3535,3349
+46,Units in Structure: 5-9,IL,McLean,4423,4328,4318,4535,4856,4886,4973,4907,5327,5128
+47,Units in Structure: 50+,IL,McLean,2031,2092,2110,2100,1960,2127,2266,2224,2282,2425
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,McLean,0,0,0,0,0,25,25,23,24,24
+49,Units in Structure: Mobile Home,IL,McLean,3181,3189,3140,2976,2975,2965,2874,2798,2716,2664
+40,Units in Structure: 1 ATTACHED,IL,Macon,813,731,712,681,583,578,679,757,774,789
+41,Units in Structure: 1 DETACHED,IL,Macon,39314,39085,39216,39292,39305,39428,39376,39499,39408,39421
+42,Units in Structure: 10-19,IL,Macon,1807,1862,1905,1943,2047,1971,1846,1754,1543,1370
+43,Units in Structure: 2,IL,Macon,733,700,818,846,888,1102,1001,1006,823,800
+44,Units in Structure: 20-49,IL,Macon,1107,1138,1108,1163,1150,1078,985,975,1218,1362
+45,Units in Structure: 3-4,IL,Macon,1273,1390,1422,1354,1419,1221,1262,1301,1410,1446
+46,Units in Structure: 5-9,IL,Macon,2164,2241,2178,1922,1775,1978,2088,2140,2139,2155
+47,Units in Structure: 50+,IL,Macon,1408,1502,1446,1571,1642,1580,1749,1682,1849,1808
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Macon,0,0,0,34,29,18,20,81,33,34
+49,Units in Structure: Mobile Home,IL,Macon,1980,1851,1700,1619,1586,1437,1315,1272,1267,1207
+40,Units in Structure: 1 ATTACHED,IL,Macoupin,129,101,120,131,103,107,107,80,109,113
+41,Units in Structure: 1 DETACHED,IL,Macoupin,17742,17595,17479,17508,17619,17589,17665,18031,17962,17947
+42,Units in Structure: 10-19,IL,Macoupin,125,149,134,84,77,40,34,36,45,78
+43,Units in Structure: 2,IL,Macoupin,729,761,842,804,729,747,737,692,687,702
+44,Units in Structure: 20-49,IL,Macoupin,102,122,160,172,183,201,210,157,124,96
+45,Units in Structure: 3-4,IL,Macoupin,370,447,464,542,526,438,422,405,520,534
+46,Units in Structure: 5-9,IL,Macoupin,467,384,307,302,412,457,484,465,409,307
+47,Units in Structure: 50+,IL,Macoupin,18,32,80,61,104,142,145,174,223,179
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Macoupin,0,0,0,0,4,4,4,4,15,8
+49,Units in Structure: Mobile Home,IL,Macoupin,2007,2019,2016,1952,1790,1833,1748,1595,1616,1774
+40,Units in Structure: 1 ATTACHED,IL,Madison,2674,2884,2783,3006,2992,3024,3178,3003,2863,2592
+41,Units in Structure: 1 DETACHED,IL,Madison,90446,90898,91162,91442,91731,92185,92394,92760,92707,93384
+42,Units in Structure: 10-19,IL,Madison,2225,2186,2241,2012,2093,1901,2095,2158,2221,2087
+43,Units in Structure: 2,IL,Madison,4241,4319,4157,3970,3716,3527,3484,3749,3834,4448
+44,Units in Structure: 20-49,IL,Madison,972,936,1005,985,987,882,763,778,1028,1107
+45,Units in Structure: 3-4,IL,Madison,6552,6390,6630,6364,6588,6799,6398,6341,6587,6163
+46,Units in Structure: 5-9,IL,Madison,3916,3739,3854,4144,4065,4057,3947,3763,3809,3671
+47,Units in Structure: 50+,IL,Madison,1735,1865,1689,1657,1775,2085,2228,2562,2546,2515
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Madison,29,36,27,43,20,16,8,15,9,9
+49,Units in Structure: Mobile Home,IL,Madison,3863,3653,3655,3682,3681,3443,3675,3677,3452,3416
+40,Units in Structure: 1 ATTACHED,IL,Marion,110,93,60,72,111,85,82,78,72,34
+41,Units in Structure: 1 DETACHED,IL,Marion,13276,12962,12756,12744,12684,12720,12956,13053,12983,12971
+42,Units in Structure: 10-19,IL,Marion,224,213,220,197,185,185,175,118,98,128
+43,Units in Structure: 2,IL,Marion,651,632,547,551,551,551,608,686,726,670
+44,Units in Structure: 20-49,IL,Marion,313,283,206,170,160,183,158,145,193,172
+45,Units in Structure: 3-4,IL,Marion,470,473,496,518,573,574,552,535,519,519
+46,Units in Structure: 5-9,IL,Marion,280,297,322,312,286,302,298,287,313,369
+47,Units in Structure: 50+,IL,Marion,25,83,144,196,213,196,206,186,145,166
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Marion,12,15,12,16,15,17,12,14,26,16
+49,Units in Structure: Mobile Home,IL,Marion,2984,3289,3550,3425,3434,3382,3085,3126,3163,3229
+40,Units in Structure: 1 ATTACHED,IL,Marshall,79,138,150,149,111,130,86,80,79,88
+41,Units in Structure: 1 DETACHED,IL,Marshall,5147,5182,5208,5136,5148,5193,5232,5226,5263,5321
+42,Units in Structure: 10-19,IL,Marshall,44,36,34,44,48,50,49,57,40,41
+43,Units in Structure: 2,IL,Marshall,172,163,147,124,127,104,95,122,118,126
+44,Units in Structure: 20-49,IL,Marshall,11,3,3,9,4,3,13,12,10,12
+45,Units in Structure: 3-4,IL,Marshall,143,137,140,167,168,159,153,138,121,119
+46,Units in Structure: 5-9,IL,Marshall,84,78,64,88,70,78,69,82,85,74
+47,Units in Structure: 50+,IL,Marshall,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Marshall,0,0,2,2,2,2,2,0,0,0
+49,Units in Structure: Mobile Home,IL,Marshall,266,189,174,186,217,193,197,190,190,138
+40,Units in Structure: 1 ATTACHED,IL,Mason,111,121,66,48,32,64,45,40,43,37
+41,Units in Structure: 1 DETACHED,IL,Mason,5894,5874,5887,5771,5764,5846,5893,5986,5927,6085
+42,Units in Structure: 10-19,IL,Mason,101,110,97,89,118,55,44,51,46,36
+43,Units in Structure: 2,IL,Mason,79,88,109,120,139,144,146,126,145,147
+44,Units in Structure: 20-49,IL,Mason,0,12,7,7,7,8,0,0,0,0
+45,Units in Structure: 3-4,IL,Mason,183,160,154,171,144,132,124,147,129,113
+46,Units in Structure: 5-9,IL,Mason,80,89,113,113,159,145,128,93,143,88
+47,Units in Structure: 50+,IL,Mason,0,8,7,6,16,15,12,10,11,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Mason,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Mason,646,622,635,718,670,621,644,605,605,549
+40,Units in Structure: 1 ATTACHED,IL,Massac,29,25,48,49,48,46,43,32,66,110
+41,Units in Structure: 1 DETACHED,IL,Massac,5233,5225,5279,5112,5061,4980,4880,5011,5117,4981
+42,Units in Structure: 10-19,IL,Massac,91,96,92,147,145,102,113,122,42,46
+43,Units in Structure: 2,IL,Massac,40,71,114,152,178,175,230,211,213,176
+44,Units in Structure: 20-49,IL,Massac,30,60,52,55,80,75,46,41,87,70
+45,Units in Structure: 3-4,IL,Massac,168,155,164,197,143,218,181,208,158,157
+46,Units in Structure: 5-9,IL,Massac,168,136,63,42,42,77,83,105,106,104
+47,Units in Structure: 50+,IL,Massac,71,75,58,57,41,30,60,43,22,52
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Massac,0,0,0,0,0,7,8,8,17,17
+49,Units in Structure: Mobile Home,IL,Massac,1289,1277,1246,1279,1355,1387,1438,1354,1325,1386
+40,Units in Structure: 1 ATTACHED,IL,Menard,53,54,48,48,86,90,96,122,113,95
+41,Units in Structure: 1 DETACHED,IL,Menard,4657,4581,4641,4641,4771,4741,4801,4920,4988,4995
+42,Units in Structure: 10-19,IL,Menard,46,63,72,92,56,66,64,46,23,33
+43,Units in Structure: 2,IL,Menard,216,245,281,287,230,277,260,225,189,190
+44,Units in Structure: 20-49,IL,Menard,62,92,68,75,75,77,60,79,71,81
+45,Units in Structure: 3-4,IL,Menard,47,55,59,58,48,28,24,27,38,39
+46,Units in Structure: 5-9,IL,Menard,26,28,11,17,42,37,29,28,49,36
+47,Units in Structure: 50+,IL,Menard,35,42,63,53,42,41,33,20,18,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Menard,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Menard,502,486,418,372,309,294,302,242,229,261
+40,Units in Structure: 1 ATTACHED,IL,Mercer,74,99,95,95,105,96,80,91,96,83
+41,Units in Structure: 1 DETACHED,IL,Mercer,6359,6406,6444,6457,6470,6452,6462,6455,6400,6427
+42,Units in Structure: 10-19,IL,Mercer,56,34,40,56,64,94,75,82,74,54
+43,Units in Structure: 2,IL,Mercer,183,147,146,95,48,47,22,4,22,82
+44,Units in Structure: 20-49,IL,Mercer,36,21,19,9,7,4,6,3,30,31
+45,Units in Structure: 3-4,IL,Mercer,126,106,107,139,150,188,209,202,207,225
+46,Units in Structure: 5-9,IL,Mercer,119,107,100,159,136,123,146,174,163,131
+47,Units in Structure: 50+,IL,Mercer,81,103,105,106,98,93,100,128,127,132
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Mercer,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Mercer,328,331,287,254,293,262,268,268,301,255
+40,Units in Structure: 1 ATTACHED,IL,Monroe,353,361,319,358,407,353,342,414,443,433
+41,Units in Structure: 1 DETACHED,IL,Monroe,10896,11038,11329,11106,11367,11529,11597,11492,11941,11748
+42,Units in Structure: 10-19,IL,Monroe,310,317,251,214,141,130,83,165,155,156
+43,Units in Structure: 2,IL,Monroe,383,396,354,366,280,353,420,465,450,601
+44,Units in Structure: 20-49,IL,Monroe,50,51,48,101,54,80,86,109,94,119
+45,Units in Structure: 3-4,IL,Monroe,266,353,356,394,409,348,215,234,212,267
+46,Units in Structure: 5-9,IL,Monroe,432,403,347,480,526,470,483,490,309,390
+47,Units in Structure: 50+,IL,Monroe,62,56,66,74,67,97,113,157,111,97
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Monroe,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Monroe,384,320,326,402,347,318,432,405,347,370
+40,Units in Structure: 1 ATTACHED,IL,Montgomery,86,66,87,96,91,95,88,68,41,41
+41,Units in Structure: 1 DETACHED,IL,Montgomery,10736,10757,10688,10594,10618,10337,10887,11181,11041,11072
+42,Units in Structure: 10-19,IL,Montgomery,95,89,89,113,136,109,70,59,53,14
+43,Units in Structure: 2,IL,Montgomery,218,213,246,157,148,207,185,141,179,197
+44,Units in Structure: 20-49,IL,Montgomery,67,119,93,94,97,81,67,83,84,118
+45,Units in Structure: 3-4,IL,Montgomery,425,482,611,652,374,263,302,350,439,451
+46,Units in Structure: 5-9,IL,Montgomery,177,152,96,93,137,131,105,93,178,182
+47,Units in Structure: 50+,IL,Montgomery,26,58,135,159,186,142,177,124,124,92
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Montgomery,7,6,9,7,3,2,4,1,1,2
+49,Units in Structure: Mobile Home,IL,Montgomery,1180,1102,806,830,888,1391,1081,1007,971,954
+40,Units in Structure: 1 ATTACHED,IL,Morgan,292,313,268,327,282,303,256,295,258,312
+41,Units in Structure: 1 DETACHED,IL,Morgan,11405,11528,11627,11455,11304,11292,11253,11306,11286,11528
+42,Units in Structure: 10-19,IL,Morgan,268,287,357,388,434,404,358,257,212,152
+43,Units in Structure: 2,IL,Morgan,607,535,596,652,698,695,772,679,617,545
+44,Units in Structure: 20-49,IL,Morgan,194,190,162,112,118,107,141,176,184,182
+45,Units in Structure: 3-4,IL,Morgan,838,820,700,592,669,782,670,701,744,689
+46,Units in Structure: 5-9,IL,Morgan,457,438,387,426,377,369,308,364,343,376
+47,Units in Structure: 50+,IL,Morgan,429,397,407,443,495,500,604,598,745,642
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Morgan,0,5,6,5,6,7,2,2,2,0
+49,Units in Structure: Mobile Home,IL,Morgan,1066,1030,994,1064,1079,990,1048,1146,1083,1037
+40,Units in Structure: 1 ATTACHED,IL,Moultrie,111,143,69,69,88,112,115,130,156,130
+41,Units in Structure: 1 DETACHED,IL,Moultrie,5204,5250,5277,5259,5245,5268,5309,5363,5373,5362
+42,Units in Structure: 10-19,IL,Moultrie,54,45,54,59,55,32,37,30,34,54
+43,Units in Structure: 2,IL,Moultrie,133,121,120,120,127,158,165,152,212,216
+44,Units in Structure: 20-49,IL,Moultrie,52,59,79,72,95,72,87,83,99,106
+45,Units in Structure: 3-4,IL,Moultrie,122,121,69,94,102,114,122,181,167,156
+46,Units in Structure: 5-9,IL,Moultrie,130,145,156,144,130,168,146,142,110,130
+47,Units in Structure: 50+,IL,Moultrie,0,0,8,23,29,32,45,43,48,78
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Moultrie,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Moultrie,386,350,428,434,424,369,323,281,247,255
+40,Units in Structure: 1 ATTACHED,IL,Ogle,398,374,406,420,436,420,470,412,554,521
+41,Units in Structure: 1 DETACHED,IL,Ogle,18297,18183,18106,18393,18168,18112,17929,18069,17928,18058
+42,Units in Structure: 10-19,IL,Ogle,523,513,424,376,325,320,299,248,239,182
+43,Units in Structure: 2,IL,Ogle,942,1013,1007,870,781,730,636,822,898,784
+44,Units in Structure: 20-49,IL,Ogle,380,406,308,315,347,328,406,437,403,440
+45,Units in Structure: 3-4,IL,Ogle,531,552,624,602,723,767,845,846,898,962
+46,Units in Structure: 5-9,IL,Ogle,495,436,568,632,787,922,942,889,807,784
+47,Units in Structure: 50+,IL,Ogle,159,157,150,108,101,67,148,139,182,186
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Ogle,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Ogle,661,868,946,842,898,917,877,774,751,746
+40,Units in Structure: 1 ATTACHED,IL,Peoria,2200,2139,2402,2478,2461,2509,2832,2432,2231,2217
+41,Units in Structure: 1 DETACHED,IL,Peoria,59703,59965,60123,59941,60032,60389,60238,60423,60860,60491
+42,Units in Structure: 10-19,IL,Peoria,4537,4687,4360,4477,4760,4893,4799,4731,4661,4572
+43,Units in Structure: 2,IL,Peoria,3202,3026,2842,2968,2955,2587,2501,2587,2259,2318
+44,Units in Structure: 20-49,IL,Peoria,2945,2942,3048,2958,2820,2859,3153,3376,3526,3433
+45,Units in Structure: 3-4,IL,Peoria,2443,2314,2453,2257,2501,2189,2097,2148,2257,2203
+46,Units in Structure: 5-9,IL,Peoria,3382,3555,3678,3750,3612,3799,3694,3757,3473,3846
+47,Units in Structure: 50+,IL,Peoria,2703,2770,2733,2889,2874,2821,2784,3087,3203,3407
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Peoria,6,6,7,6,6,0,0,11,11,12
+49,Units in Structure: Mobile Home,IL,Peoria,1481,1432,1397,1438,1323,1430,1389,1201,1270,1204
+40,Units in Structure: 1 ATTACHED,IL,Perry,88,38,45,49,74,67,42,40,30,23
+41,Units in Structure: 1 DETACHED,IL,Perry,7254,7109,7036,6852,6696,6843,6951,6997,7071,7293
+42,Units in Structure: 10-19,IL,Perry,71,150,183,186,213,250,185,159,70,103
+43,Units in Structure: 2,IL,Perry,205,246,216,302,385,413,459,477,426,354
+44,Units in Structure: 20-49,IL,Perry,107,128,94,159,244,258,212,195,166,141
+45,Units in Structure: 3-4,IL,Perry,178,154,234,280,313,238,219,308,348,278
+46,Units in Structure: 5-9,IL,Perry,164,142,136,114,100,102,109,103,157,142
+47,Units in Structure: 50+,IL,Perry,65,66,75,78,84,110,83,78,181,143
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Perry,7,15,17,16,17,9,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Perry,1373,1414,1404,1378,1313,1164,1214,1208,1134,1133
+40,Units in Structure: 1 ATTACHED,IL,Piatt,94,83,99,80,57,51,52,53,70,84
+41,Units in Structure: 1 DETACHED,IL,Piatt,6277,6326,6317,6318,6392,6341,6394,6504,6467,6403
+42,Units in Structure: 10-19,IL,Piatt,4,7,22,31,31,36,44,84,85,120
+43,Units in Structure: 2,IL,Piatt,104,82,78,143,153,242,231,209,155,147
+44,Units in Structure: 20-49,IL,Piatt,14,8,61,61,54,102,105,54,70,67
+45,Units in Structure: 3-4,IL,Piatt,164,194,204,158,162,165,149,134,130,138
+46,Units in Structure: 5-9,IL,Piatt,233,161,154,156,157,119,134,124,184,187
+47,Units in Structure: 50+,IL,Piatt,24,33,35,26,13,14,0,0,0,11
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Piatt,0,0,0,3,5,5,5,5,0,0
+49,Units in Structure: Mobile Home,IL,Piatt,348,370,315,318,286,246,224,222,243,249
+40,Units in Structure: 1 ATTACHED,IL,Pike,80,76,79,90,70,49,31,22,8,12
+41,Units in Structure: 1 DETACHED,IL,Pike,6470,6371,6405,6352,6376,6546,6659,6713,6778,6718
+42,Units in Structure: 10-19,IL,Pike,57,71,70,74,82,46,14,17,33,40
+43,Units in Structure: 2,IL,Pike,230,223,213,203,225,229,247,330,287,290
+44,Units in Structure: 20-49,IL,Pike,22,32,41,33,52,45,36,23,13,3
+45,Units in Structure: 3-4,IL,Pike,195,206,176,196,201,197,190,148,172,143
+46,Units in Structure: 5-9,IL,Pike,12,16,12,13,16,38,42,76,81,114
+47,Units in Structure: 50+,IL,Pike,64,61,46,9,8,0,7,6,8,11
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Pike,0,0,0,0,0,4,5,6,7,8
+49,Units in Structure: Mobile Home,IL,Pike,887,935,924,959,909,787,699,632,605,646
+40,Units in Structure: 1 ATTACHED,IL,Pope,13,8,21,21,16,13,12,8,20,13
+41,Units in Structure: 1 DETACHED,IL,Pope,1835,1862,1871,1795,1865,1880,1919,2019,2152,2073
+42,Units in Structure: 10-19,IL,Pope,0,4,8,7,7,6,3,0,0,3
+43,Units in Structure: 2,IL,Pope,74,55,57,49,35,38,44,39,42,81
+44,Units in Structure: 20-49,IL,Pope,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,IL,Pope,73,72,62,57,61,55,52,41,46,64
+46,Units in Structure: 5-9,IL,Pope,23,18,18,28,40,38,46,41,31,21
+47,Units in Structure: 50+,IL,Pope,0,0,0,0,14,6,12,3,4,2
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Pope,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Pope,489,530,526,628,626,616,599,627,532,549
+40,Units in Structure: 1 ATTACHED,IL,Pulaski,21,16,29,35,47,30,35,33,35,15
+41,Units in Structure: 1 DETACHED,IL,Pulaski,2119,2005,2055,2061,2064,2110,2065,2168,2118,2215
+42,Units in Structure: 10-19,IL,Pulaski,14,12,17,14,13,3,4,4,4,0
+43,Units in Structure: 2,IL,Pulaski,147,140,112,122,107,115,142,157,149,137
+44,Units in Structure: 20-49,IL,Pulaski,72,75,65,68,58,39,34,41,34,31
+45,Units in Structure: 3-4,IL,Pulaski,92,87,109,101,91,117,108,103,100,85
+46,Units in Structure: 5-9,IL,Pulaski,41,39,47,40,36,43,41,29,37,31
+47,Units in Structure: 50+,IL,Pulaski,9,3,17,20,24,22,23,18,20,20
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Pulaski,0,0,0,0,0,0,0,19,15,12
+49,Units in Structure: Mobile Home,IL,Pulaski,696,792,715,678,704,660,673,598,655,618
+40,Units in Structure: 1 ATTACHED,IL,Putnam,54,62,82,66,73,66,53,6,4,7
+41,Units in Structure: 1 DETACHED,IL,Putnam,2557,2478,2540,2592,2653,2694,2706,2712,2763,2722
+42,Units in Structure: 10-19,IL,Putnam,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,IL,Putnam,68,81,69,50,41,40,30,46,58,59
+44,Units in Structure: 20-49,IL,Putnam,0,0,0,0,2,1,2,1,2,0
+45,Units in Structure: 3-4,IL,Putnam,133,145,144,131,117,131,124,124,89,78
+46,Units in Structure: 5-9,IL,Putnam,56,49,50,62,46,42,39,47,39,47
+47,Units in Structure: 50+,IL,Putnam,0,0,0,0,0,0,0,0,7,7
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Putnam,0,0,0,0,0,0,0,0,3,3
+49,Units in Structure: Mobile Home,IL,Putnam,203,251,198,183,163,132,153,189,182,224
+40,Units in Structure: 1 ATTACHED,IL,Randolph,92,103,127,174,155,163,136,149,145,168
+41,Units in Structure: 1 DETACHED,IL,Randolph,10278,10278,10291,10315,10540,10530,10559,10505,10430,10562
+42,Units in Structure: 10-19,IL,Randolph,21,61,52,67,69,86,81,112,104,83
+43,Units in Structure: 2,IL,Randolph,487,452,444,482,476,505,489,431,499,439
+44,Units in Structure: 20-49,IL,Randolph,112,111,123,120,84,77,79,116,96,148
+45,Units in Structure: 3-4,IL,Randolph,540,517,465,358,283,316,398,488,423,497
+46,Units in Structure: 5-9,IL,Randolph,127,181,200,194,214,266,236,270,351,334
+47,Units in Structure: 50+,IL,Randolph,37,48,58,35,51,50,28,32,122,108
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Randolph,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Randolph,1992,1951,1958,1947,1873,1769,1776,1802,1762,1605
+40,Units in Structure: 1 ATTACHED,IL,Richland,43,52,23,36,34,26,54,49,40,59
+41,Units in Structure: 1 DETACHED,IL,Richland,5947,5852,5871,5741,5721,5771,5844,5843,5877,5981
+42,Units in Structure: 10-19,IL,Richland,25,36,44,54,44,53,78,85,73,77
+43,Units in Structure: 2,IL,Richland,254,263,223,201,181,178,163,165,159,154
+44,Units in Structure: 20-49,IL,Richland,113,109,95,98,107,128,106,141,174,212
+45,Units in Structure: 3-4,IL,Richland,117,114,127,134,188,173,195,175,198,151
+46,Units in Structure: 5-9,IL,Richland,97,75,101,169,186,184,154,160,109,82
+47,Units in Structure: 50+,IL,Richland,73,106,99,109,125,104,69,54,48,33
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Richland,0,11,9,11,11,9,0,20,22,17
+49,Units in Structure: Mobile Home,IL,Richland,899,913,932,950,917,866,832,820,816,752
+40,Units in Structure: 1 ATTACHED,IL,Rock Island,2014,2295,2517,2782,2832,2731,2476,2707,2752,2743
+41,Units in Structure: 1 DETACHED,IL,Rock Island,47982,47718,47373,46805,46435,46228,46105,46398,46738,47109
+42,Units in Structure: 10-19,IL,Rock Island,2080,2180,2311,2412,2212,2332,2420,2404,2359,2567
+43,Units in Structure: 2,IL,Rock Island,2644,2533,2331,2401,2385,2442,2425,2436,2284,2317
+44,Units in Structure: 20-49,IL,Rock Island,1455,1593,1593,1514,1451,1399,1287,1426,1607,1709
+45,Units in Structure: 3-4,IL,Rock Island,2678,2630,2610,2360,2319,2565,2657,2281,2165,2264
+46,Units in Structure: 5-9,IL,Rock Island,2853,2822,2818,3153,3166,3049,3087,3173,2941,2770
+47,Units in Structure: 50+,IL,Rock Island,2257,2465,2586,2644,3152,3084,3171,3205,3290,2889
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Rock Island,0,0,0,0,8,9,9,7,27,19
+49,Units in Structure: Mobile Home,IL,Rock Island,1713,1514,1633,1649,1860,1952,2163,2026,1953,1773
+40,Units in Structure: 1 ATTACHED,IL,St. Clair,4089,4349,4168,4204,3854,3968,3743,3420,3453,3810
+41,Units in Structure: 1 DETACHED,IL,St. Clair,80388,81043,81527,82225,81969,82320,82853,83880,84141,84173
+42,Units in Structure: 10-19,IL,St. Clair,3086,3057,2858,2990,3173,3011,3065,3131,2940,2664
+43,Units in Structure: 2,IL,St. Clair,5179,4963,5226,4829,5139,5140,4994,5157,5704,5413
+44,Units in Structure: 20-49,IL,St. Clair,975,1120,1202,1126,1076,1307,1242,1459,1605,1634
+45,Units in Structure: 3-4,IL,St. Clair,5731,5536,5478,5173,5338,5412,5677,5459,5402,5318
+46,Units in Structure: 5-9,IL,St. Clair,6679,6745,7159,7120,7170,7062,7345,7163,6980,7558
+47,Units in Structure: 50+,IL,St. Clair,2022,2006,2118,2213,2590,2643,2625,2603,2600,2699
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,St. Clair,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,St. Clair,6914,7027,6699,6936,7146,7086,6828,7083,6970,6967
+40,Units in Structure: 1 ATTACHED,IL,Saline,119,95,106,69,48,37,51,34,58,43
+41,Units in Structure: 1 DETACHED,IL,Saline,9010,8918,8909,8861,8715,8499,8730,8730,8622,8833
+42,Units in Structure: 10-19,IL,Saline,94,86,85,77,93,50,57,82,118,96
+43,Units in Structure: 2,IL,Saline,195,197,210,241,261,291,292,272,293,274
+44,Units in Structure: 20-49,IL,Saline,128,130,123,131,130,83,62,92,137,133
+45,Units in Structure: 3-4,IL,Saline,382,300,309,285,311,415,440,406,417,429
+46,Units in Structure: 5-9,IL,Saline,383,268,202,227,259,231,211,223,216,222
+47,Units in Structure: 50+,IL,Saline,126,115,71,117,135,168,156,177,157,138
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Saline,0,0,0,4,4,3,4,4,0,0
+49,Units in Structure: Mobile Home,IL,Saline,1473,1692,1725,1658,1688,1867,1636,1699,1674,1544
+40,Units in Structure: 1 ATTACHED,IL,Sangamon,4545,4914,4747,4950,4665,4533,4129,4120,4130,4238
+41,Units in Structure: 1 DETACHED,IL,Sangamon,62177,62711,63345,63381,64022,64241,64635,65466,65334,65879
+42,Units in Structure: 10-19,IL,Sangamon,3139,3005,3012,3167,3218,3053,3031,2975,2816,2720
+43,Units in Structure: 2,IL,Sangamon,3302,3192,2922,2802,2607,2643,2602,3104,3110,3202
+44,Units in Structure: 20-49,IL,Sangamon,969,1004,957,1054,955,957,1097,1043,1085,1152
+45,Units in Structure: 3-4,IL,Sangamon,3959,3949,3850,3752,3582,3656,3653,3574,3695,3454
+46,Units in Structure: 5-9,IL,Sangamon,3747,3253,3473,3505,3685,3617,3520,3338,3481,3794
+47,Units in Structure: 50+,IL,Sangamon,3088,2972,2995,2916,3098,3070,3220,3128,3285,3034
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Sangamon,38,10,7,7,8,10,10,9,3,3
+49,Units in Structure: Mobile Home,IL,Sangamon,4660,4762,4712,4504,4472,4653,4715,4472,4481,4261
+40,Units in Structure: 1 ATTACHED,IL,Schuyler,26,6,27,32,29,30,35,21,44,32
+41,Units in Structure: 1 DETACHED,IL,Schuyler,2942,2948,2921,2946,2911,2812,2767,2745,2670,2664
+42,Units in Structure: 10-19,IL,Schuyler,17,17,16,11,17,10,11,9,11,32
+43,Units in Structure: 2,IL,Schuyler,37,22,26,0,12,19,43,33,44,51
+44,Units in Structure: 20-49,IL,Schuyler,18,16,0,32,23,24,25,49,24,64
+45,Units in Structure: 3-4,IL,Schuyler,68,88,79,72,87,138,121,166,182,144
+46,Units in Structure: 5-9,IL,Schuyler,60,43,31,47,24,16,21,16,54,67
+47,Units in Structure: 50+,IL,Schuyler,0,0,11,16,13,11,13,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Schuyler,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Schuyler,297,320,345,283,327,381,406,415,423,399
+40,Units in Structure: 1 ATTACHED,IL,Scott,0,4,4,6,10,11,10,15,17,17
+41,Units in Structure: 1 DETACHED,IL,Scott,2006,1993,1965,1886,1964,1983,1995,2011,2047,2029
+42,Units in Structure: 10-19,IL,Scott,0,0,0,0,4,4,4,3,3,0
+43,Units in Structure: 2,IL,Scott,105,110,129,132,111,115,106,90,101,112
+44,Units in Structure: 20-49,IL,Scott,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,IL,Scott,78,68,72,60,48,50,45,44,39,36
+46,Units in Structure: 5-9,IL,Scott,16,6,23,31,29,31,50,37,32,29
+47,Units in Structure: 50+,IL,Scott,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Scott,0,0,1,1,2,1,1,0,0,0
+49,Units in Structure: Mobile Home,IL,Scott,272,296,268,331,281,240,242,253,225,227
+40,Units in Structure: 1 ATTACHED,IL,Shelby,53,57,71,69,50,69,121,141,167,197
+41,Units in Structure: 1 DETACHED,IL,Shelby,8461,8590,8621,8632,8462,8390,8461,8658,8646,8783
+42,Units in Structure: 10-19,IL,Shelby,3,3,7,9,28,28,21,23,29,8
+43,Units in Structure: 2,IL,Shelby,174,178,154,107,174,182,173,183,140,110
+44,Units in Structure: 20-49,IL,Shelby,70,22,25,35,23,35,85,82,74,88
+45,Units in Structure: 3-4,IL,Shelby,285,311,269,218,224,257,242,196,260,258
+46,Units in Structure: 5-9,IL,Shelby,82,97,115,142,158,109,83,69,52,54
+47,Units in Structure: 50+,IL,Shelby,44,65,63,64,124,129,98,81,86,22
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Shelby,0,0,5,4,4,5,4,0,0,0
+49,Units in Structure: Mobile Home,IL,Shelby,1133,1040,1090,1158,1214,1246,1187,1131,1130,1096
+40,Units in Structure: 1 ATTACHED,IL,Stark,20,26,23,27,29,14,4,2,6,10
+41,Units in Structure: 1 DETACHED,IL,Stark,2351,2325,2346,2352,2353,2388,2403,2388,2378,2340
+42,Units in Structure: 10-19,IL,Stark,9,10,0,0,0,0,0,0,5,5
+43,Units in Structure: 2,IL,Stark,72,60,60,56,49,50,58,56,41,61
+44,Units in Structure: 20-49,IL,Stark,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,IL,Stark,121,101,85,84,79,60,76,91,85,83
+46,Units in Structure: 5-9,IL,Stark,48,67,55,42,32,25,22,24,29,31
+47,Units in Structure: 50+,IL,Stark,0,0,0,0,0,0,0,5,7,5
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Stark,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Stark,86,100,115,102,124,125,102,96,101,118
+40,Units in Structure: 1 ATTACHED,IL,Stephenson,543,605,536,602,611,665,636,664,663,787
+41,Units in Structure: 1 DETACHED,IL,Stephenson,16510,16408,16469,16416,16245,16076,16032,16021,15992,16086
+42,Units in Structure: 10-19,IL,Stephenson,250,224,287,300,299,297,345,317,317,371
+43,Units in Structure: 2,IL,Stephenson,1411,1329,1259,1343,1388,1267,1203,1154,1184,1041
+44,Units in Structure: 20-49,IL,Stephenson,197,219,283,258,303,388,394,377,365,352
+45,Units in Structure: 3-4,IL,Stephenson,1041,1131,1069,1037,1055,1168,1098,1094,911,928
+46,Units in Structure: 5-9,IL,Stephenson,782,838,773,665,794,781,607,699,730,595
+47,Units in Structure: 50+,IL,Stephenson,533,493,457,472,463,489,657,878,959,939
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Stephenson,0,0,0,0,0,0,0,0,10,13
+49,Units in Structure: Mobile Home,IL,Stephenson,844,837,943,914,847,826,927,800,830,853
+40,Units in Structure: 1 ATTACHED,IL,Tazewell,1947,1959,2008,1858,1761,1770,1781,1882,2029,2161
+41,Units in Structure: 1 DETACHED,IL,Tazewell,45825,46350,46416,46519,46638,46580,46741,47102,47029,46962
+42,Units in Structure: 10-19,IL,Tazewell,1473,1387,1274,1256,1262,1268,1256,1266,1150,1147
+43,Units in Structure: 2,IL,Tazewell,1284,1181,1157,1246,1202,1243,1244,1275,1381,1504
+44,Units in Structure: 20-49,IL,Tazewell,525,483,383,432,524,512,496,581,563,612
+45,Units in Structure: 3-4,IL,Tazewell,1522,1623,1701,1563,1624,1754,1676,1743,1692,1680
+46,Units in Structure: 5-9,IL,Tazewell,2283,2200,2310,2515,2523,2541,2566,2425,2277,2119
+47,Units in Structure: 50+,IL,Tazewell,975,987,1018,1076,1125,1130,1189,1208,1431,1552
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Tazewell,11,0,0,3,4,4,4,22,17,30
+49,Units in Structure: Mobile Home,IL,Tazewell,1165,1136,1201,1140,1080,1156,1219,1080,1199,1080
+40,Units in Structure: 1 ATTACHED,IL,Union,16,12,25,18,22,32,47,35,51,57
+41,Units in Structure: 1 DETACHED,IL,Union,5665,5680,5876,5685,5880,5957,5993,6038,6150,6111
+42,Units in Structure: 10-19,IL,Union,56,5,24,25,60,60,87,52,83,49
+43,Units in Structure: 2,IL,Union,216,263,254,262,165,163,133,135,186,220
+44,Units in Structure: 20-49,IL,Union,12,11,11,20,27,29,34,32,16,9
+45,Units in Structure: 3-4,IL,Union,234,235,207,195,226,226,215,162,142,84
+46,Units in Structure: 5-9,IL,Union,45,86,90,78,82,87,54,75,98,124
+47,Units in Structure: 50+,IL,Union,192,181,146,137,134,124,103,138,124,143
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Union,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Union,1510,1474,1293,1481,1319,1236,1246,1326,1149,1197
+40,Units in Structure: 1 ATTACHED,IL,Vermilion,409,294,316,381,398,305,365,398,443,351
+41,Units in Structure: 1 DETACHED,IL,Vermilion,28349,28613,28523,28518,28339,28121,28196,28257,28387,28654
+42,Units in Structure: 10-19,IL,Vermilion,882,809,988,896,1019,999,972,897,897,820
+43,Units in Structure: 2,IL,Vermilion,917,857,919,942,983,889,946,892,895,910
+44,Units in Structure: 20-49,IL,Vermilion,308,378,321,281,238,301,314,356,460,500
+45,Units in Structure: 3-4,IL,Vermilion,1006,968,856,763,877,1083,1053,1212,1341,1190
+46,Units in Structure: 5-9,IL,Vermilion,1304,1096,1054,1312,1296,1385,1428,1339,1143,1206
+47,Units in Structure: 50+,IL,Vermilion,841,1036,1062,967,882,934,851,781,727,664
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Vermilion,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Vermilion,2452,2338,2276,2121,2105,2076,1880,1989,1840,1814
+40,Units in Structure: 1 ATTACHED,IL,Wabash,57,34,24,19,19,10,13,20,34,31
+41,Units in Structure: 1 DETACHED,IL,Wabash,4457,4410,4488,4422,4339,4310,4244,4266,4323,4368
+42,Units in Structure: 10-19,IL,Wabash,24,17,39,42,96,136,119,95,104,57
+43,Units in Structure: 2,IL,Wabash,31,38,13,20,63,79,116,92,94,81
+44,Units in Structure: 20-49,IL,Wabash,104,99,111,91,90,103,128,129,138,133
+45,Units in Structure: 3-4,IL,Wabash,110,105,121,156,157,172,139,130,37,53
+46,Units in Structure: 5-9,IL,Wabash,37,40,44,80,93,109,93,80,65,65
+47,Units in Structure: 50+,IL,Wabash,139,156,173,113,102,96,97,97,99,127
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Wabash,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,IL,Wabash,695,708,580,616,590,524,593,655,684,655
+40,Units in Structure: 1 ATTACHED,IL,Warren,15,24,21,21,38,104,159,153,168,187
+41,Units in Structure: 1 DETACHED,IL,Warren,6614,6466,6443,6475,6434,6373,6285,6291,6332,6332
+42,Units in Structure: 10-19,IL,Warren,63,67,19,4,9,11,23,32,39,46
+43,Units in Structure: 2,IL,Warren,139,105,252,258,240,269,253,186,176,128
+44,Units in Structure: 20-49,IL,Warren,74,89,104,100,67,69,72,91,106,128
+45,Units in Structure: 3-4,IL,Warren,201,283,252,184,195,189,181,203,295,289
+46,Units in Structure: 5-9,IL,Warren,120,134,90,141,192,216,230,264,153,187
+47,Units in Structure: 50+,IL,Warren,309,297,274,230,239,169,140,118,115,140
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Warren,0,0,0,3,8,8,7,8,0,0
+49,Units in Structure: Mobile Home,IL,Warren,196,239,242,270,264,282,317,348,309,250
+40,Units in Structure: 1 ATTACHED,IL,Washington,14,9,10,3,21,29,33,44,53,40
+41,Units in Structure: 1 DETACHED,IL,Washington,5561,5607,5592,5583,5508,5506,5399,5483,5489,5601
+42,Units in Structure: 10-19,IL,Washington,4,5,9,17,53,49,65,54,47,6
+43,Units in Structure: 2,IL,Washington,108,102,84,74,86,60,63,69,115,140
+44,Units in Structure: 20-49,IL,Washington,24,32,29,34,25,50,33,37,21,20
+45,Units in Structure: 3-4,IL,Washington,93,113,93,121,116,96,90,96,57,66
+46,Units in Structure: 5-9,IL,Washington,54,60,80,88,98,118,127,138,128,148
+47,Units in Structure: 50+,IL,Washington,9,10,10,11,0,0,0,0,2,1
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Washington,0,0,0,0,0,0,0,12,14,12
+49,Units in Structure: Mobile Home,IL,Washington,677,605,644,602,654,667,741,702,703,617
+40,Units in Structure: 1 ATTACHED,IL,Wayne,13,14,17,32,36,35,33,31,16,19
+41,Units in Structure: 1 DETACHED,IL,Wayne,5377,5510,5613,5798,5689,5629,5540,5527,5345,5563
+42,Units in Structure: 10-19,IL,Wayne,28,17,11,13,4,3,4,12,8,8
+43,Units in Structure: 2,IL,Wayne,58,47,57,71,60,68,109,104,78,61
+44,Units in Structure: 20-49,IL,Wayne,150,100,72,66,62,66,71,65,52,53
+45,Units in Structure: 3-4,IL,Wayne,230,227,231,212,185,168,190,185,192,164
+46,Units in Structure: 5-9,IL,Wayne,46,50,44,48,39,27,77,106,121,125
+47,Units in Structure: 50+,IL,Wayne,106,77,86,71,76,96,97,111,112,102
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Wayne,0,0,0,0,10,13,9,9,10,6
+49,Units in Structure: Mobile Home,IL,Wayne,2022,1949,1844,1623,1777,1800,1756,1821,2009,1885
+40,Units in Structure: 1 ATTACHED,IL,White,57,53,6,10,27,26,29,30,25,16
+41,Units in Structure: 1 DETACHED,IL,White,5733,5776,5784,5739,5647,5560,5389,5423,5458,5601
+42,Units in Structure: 10-19,IL,White,37,52,52,43,71,77,52,64,72,35
+43,Units in Structure: 2,IL,White,221,239,219,198,183,189,209,211,258,221
+44,Units in Structure: 20-49,IL,White,26,30,19,13,19,8,14,17,53,58
+45,Units in Structure: 3-4,IL,White,133,92,168,248,294,345,364,302,228,177
+46,Units in Structure: 5-9,IL,White,142,125,107,100,122,100,107,122,87,77
+47,Units in Structure: 50+,IL,White,18,18,18,28,19,22,20,25,10,17
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,White,7,7,7,1,22,22,23,24,24,1
+49,Units in Structure: Mobile Home,IL,White,899,841,822,774,741,780,939,967,961,961
+40,Units in Structure: 1 ATTACHED,IL,Whiteside,652,616,646,588,535,518,605,627,519,562
+41,Units in Structure: 1 DETACHED,IL,Whiteside,20503,20520,20374,20626,20434,20335,20252,20331,20292,20442
+42,Units in Structure: 10-19,IL,Whiteside,241,244,298,276,276,282,278,261,284,284
+43,Units in Structure: 2,IL,Whiteside,928,926,886,784,892,747,736,807,907,902
+44,Units in Structure: 20-49,IL,Whiteside,274,329,348,276,326,304,227,295,309,290
+45,Units in Structure: 3-4,IL,Whiteside,1195,1124,1087,1039,1023,1087,1169,1180,1201,1109
+46,Units in Structure: 5-9,IL,Whiteside,708,666,739,724,818,831,826,744,898,891
+47,Units in Structure: 50+,IL,Whiteside,361,424,449,468,619,683,666,657,564,485
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Whiteside,0,0,0,0,0,5,5,5,29,26
+49,Units in Structure: Mobile Home,IL,Whiteside,867,896,915,930,836,958,958,913,833,832
+40,Units in Structure: 1 ATTACHED,IL,Will,27098,28135,28351,28696,28808,28614,28771,28752,29340,29263
+41,Units in Structure: 1 DETACHED,IL,Will,174167,175547,176194,176301,176865,177835,178465,180275,180744,182200
+42,Units in Structure: 10-19,IL,Will,6588,6583,6687,6786,6804,6410,6565,6311,6227,5898
+43,Units in Structure: 2,IL,Will,4897,5102,5010,4905,4926,4987,5020,4758,5004,4908
+44,Units in Structure: 20-49,IL,Will,2708,2571,2533,2494,2232,2315,2342,2232,2375,2802
+45,Units in Structure: 3-4,IL,Will,5275,5045,5083,5553,5644,5853,5748,5811,5372,5232
+46,Units in Structure: 5-9,IL,Will,5093,5254,5044,4924,4961,4954,4647,4664,4722,4699
+47,Units in Structure: 50+,IL,Will,4143,4337,4639,4514,4802,4640,4854,5152,5358,5544
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Will,55,52,47,55,61,66,68,81,63,43
+49,Units in Structure: Mobile Home,IL,Will,3897,3591,3587,3578,3418,3558,3473,3462,3363,3318
+40,Units in Structure: 1 ATTACHED,IL,Williamson,534,497,443,527,461,514,610,726,720,644
+41,Units in Structure: 1 DETACHED,IL,Williamson,21047,21253,21498,21783,22312,22692,22615,22828,22433,22466
+42,Units in Structure: 10-19,IL,Williamson,210,266,300,305,273,228,222,227,221,252
+43,Units in Structure: 2,IL,Williamson,2096,2294,2017,2109,1974,1791,1675,1735,1862,1954
+44,Units in Structure: 20-49,IL,Williamson,306,236,299,329,331,239,238,173,236,205
+45,Units in Structure: 3-4,IL,Williamson,1474,1324,1596,1618,1547,1556,1654,1548,1452,1469
+46,Units in Structure: 5-9,IL,Williamson,648,627,577,405,585,642,732,747,912,741
+47,Units in Structure: 50+,IL,Williamson,296,388,425,395,378,383,386,339,393,541
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Williamson,27,31,8,9,7,0,0,0,0,18
+49,Units in Structure: Mobile Home,IL,Williamson,3432,3344,3182,2962,2734,2643,2662,2759,2971,2996
+40,Units in Structure: 1 ATTACHED,IL,Winnebago,3868,3890,4434,4892,5166,5405,5423,5465,5265,5274
+41,Units in Structure: 1 DETACHED,IL,Winnebago,86763,86885,86479,85975,86335,87220,87845,88048,88179,88158
+42,Units in Structure: 10-19,IL,Winnebago,4131,4257,4211,3986,3805,3397,3290,3120,3214,3001
+43,Units in Structure: 2,IL,Winnebago,8139,8479,8424,8138,8124,8037,8019,7927,7890,7621
+44,Units in Structure: 20-49,IL,Winnebago,2126,2144,2347,2328,2417,2375,2286,2188,2376,2275
+45,Units in Structure: 3-4,IL,Winnebago,8061,8001,8113,8294,8283,7974,7620,7807,7962,7978
+46,Units in Structure: 5-9,IL,Winnebago,6031,5874,5569,5674,5561,5282,5046,4865,4640,4961
+47,Units in Structure: 50+,IL,Winnebago,3795,3749,3911,3978,3657,3679,3886,4169,4211,4441
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Winnebago,12,7,14,22,20,28,44,44,38,32
+49,Units in Structure: Mobile Home,IL,Winnebago,2375,2449,2426,2497,2451,2323,2132,2167,1997,1966
+40,Units in Structure: 1 ATTACHED,IL,Woodford,619,619,527,521,615,531,543,544,516,438
+41,Units in Structure: 1 DETACHED,IL,Woodford,12451,12595,12819,12721,12749,12987,13068,13220,13266,13293
+42,Units in Structure: 10-19,IL,Woodford,129,137,151,139,103,50,62,46,50,77
+43,Units in Structure: 2,IL,Woodford,552,523,440,490,438,340,349,337,320,266
+44,Units in Structure: 20-49,IL,Woodford,127,65,58,90,99,142,134,133,117,120
+45,Units in Structure: 3-4,IL,Woodford,312,299,339,362,391,345,418,526,651,635
+46,Units in Structure: 5-9,IL,Woodford,142,113,127,161,151,165,170,164,133,141
+47,Units in Structure: 50+,IL,Woodford,70,104,86,70,126,127,114,100,149,130
+48,"Units in Structure: Boat,RV,Van,Etc.",IL,Woodford,0,0,0,0,0,0,0,0,6,7
+49,Units in Structure: Mobile Home,IL,Woodford,569,641,608,653,580,638,486,408,332,435

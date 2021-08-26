@@ -1,0 +1,137 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,NM,Bernalillo,2.58,2.6,2.59,2.61,2.6,2.61,2.61,2.61,2.61,2.59
+1,Avg household size of renter-occupied unit,NM,Bernalillo,2.24,2.24,2.27,2.31,2.35,2.37,2.41,2.38,2.36,2.34
+36,Owner-Occupied,NM,Bernalillo,431642,437235,434189,433068,428531,427791,426663,432509,435408,437055
+37,Renter-Occupied,NM,Bernalillo,205608,208713,217881,224290,233009,236077,238258,233036,233325,231971
+0,Avg household size of owner-occupied unit,NM,Catron,1.91,1.95,2.09,2.16,2.25,2.19,2.21,2.12,2.37,2.45
+1,Avg household size of renter-occupied unit,NM,Catron,2.55,2.46,2.38,2.8,3.44,5.59,4.06,5.52,3.55,3.39
+36,Owner-Occupied,NM,Catron,3007,3025,3057,3019,2831,2812,2913,2817,3020,2847
+37,Renter-Occupied,NM,Catron,645,578,511,509,633,570,443,563,373,553
+0,Avg household size of owner-occupied unit,NM,Chaves,2.64,2.66,2.72,2.74,2.78,2.75,2.77,2.72,2.74,2.71
+1,Avg household size of renter-occupied unit,NM,Chaves,2.62,2.58,2.58,2.61,2.58,2.66,2.71,2.73,2.72,2.69
+36,Owner-Occupied,NM,Chaves,42975,43218,42981,42822,42719,42939,42580,43090,43881,43475
+37,Renter-Occupied,NM,Chaves,18887,19398,20053,20603,20976,20810,21005,20365,19488,19492
+0,Avg household size of owner-occupied unit,NM,Cibola,3.15,3.18,3.19,3.11,2.95,2.85,2.82,2.7,2.82,2.91
+1,Avg household size of renter-occupied unit,NM,Cibola,3.03,3.09,3.16,3.25,3.29,3.35,3.13,2.97,2.89,2.93
+36,Owner-Occupied,NM,Cibola,17420,18248,18257,18080,18426,18045,17840,17384,17571,17428
+37,Renter-Occupied,NM,Cibola,7753,7120,7297,7195,6936,7391,7670,7769,7816,7983
+0,Avg household size of owner-occupied unit,NM,Colfax,2.35,2.28,2.28,2.31,2.4,2.27,2.29,2.18,2.13,2.01
+1,Avg household size of renter-occupied unit,NM,Colfax,2.29,2.35,2.32,2.37,2.33,2.23,2.21,2.08,1.96,1.92
+36,Owner-Occupied,NM,Colfax,9217,8708,8717,8754,8705,8780,8469,8199,8345,8356
+37,Renter-Occupied,NM,Colfax,4216,4608,4413,4239,4062,3741,3740,3797,3458,3256
+0,Avg household size of owner-occupied unit,NM,Curry,2.62,2.63,2.62,2.65,2.69,2.72,2.7,2.64,2.68,2.68
+1,Avg household size of renter-occupied unit,NM,Curry,2.66,2.66,2.7,2.7,2.7,2.72,2.72,2.7,2.62,2.56
+36,Owner-Occupied,NM,Curry,27824,28817,28210,28532,29082,28858,29083,28149,28491,28320
+37,Renter-Occupied,NM,Curry,17774,17409,18714,19609,19969,20587,20397,21082,20663,20378
+0,Avg household size of owner-occupied unit,NM,De Baca,2.28,2.44,2.76,2.91,3.25,3.69,3.4,2.55,2.47,2.36
+1,Avg household size of renter-occupied unit,NM,De Baca,2.17,2.09,2.49,2.55,3.14,4.4,3.68,3.86,3.68,4.06
+36,Owner-Occupied,NM,De Baca,1422,1612,1630,1595,1613,1533,1460,1129,1156,995
+37,Renter-Occupied,NM,De Baca,350,357,401,357,327,462,489,860,873,1020
+0,Avg household size of owner-occupied unit,NM,Do?a Ana,2.81,,,,,,,,,
+1,Avg household size of renter-occupied unit,NM,Do?a Ana,2.57,,,,,,,,,
+36,Owner-Occupied,NM,Do?a Ana,132193,,,,,,,,,
+37,Renter-Occupied,NM,Do?a Ana,63578,,,,,,,,,
+0,Avg household size of owner-occupied unit,NM,Eddy,2.72,2.67,2.65,2.66,2.66,2.63,2.65,2.6,2.64,2.61
+1,Avg household size of renter-occupied unit,NM,Eddy,2.57,2.71,2.67,2.78,2.73,2.75,2.69,2.72,2.74,2.85
+36,Owner-Occupied,NM,Eddy,39251,39114,38760,38532,39516,39582,39660,39096,39754,38569
+37,Renter-Occupied,NM,Eddy,12543,13329,14172,14996,14579,15331,16051,17045,17024,18496
+0,Avg household size of owner-occupied unit,NM,Grant,2.38,2.4,2.35,2.34,2.31,2.3,2.25,2.23,2.24,2.26
+1,Avg household size of renter-occupied unit,NM,Grant,2.19,2.17,2.34,2.42,2.43,2.57,2.68,2.58,2.36,2.3
+36,Owner-Occupied,NM,Grant,22963,22472,22042,21971,21391,20668,20001,19152,18885,18195
+37,Renter-Occupied,NM,Grant,6300,6544,6898,6834,7259,7794,8185,8512,8431,8692
+0,Avg household size of owner-occupied unit,NM,Guadalupe,2.59,2.58,2.82,3.09,3.2,3.54,3.74,3.61,3.08,3.11
+1,Avg household size of renter-occupied unit,NM,Guadalupe,2.21,3.14,3.08,3.33,2.84,2.6,2.15,1.74,1.68,1.68
+36,Owner-Occupied,NM,Guadalupe,2995,3132,3142,3124,3180,3054,3023,3006,2823,2696
+37,Renter-Occupied,NM,Guadalupe,741,804,801,828,777,854,773,731,815,868
+0,Avg household size of owner-occupied unit,NM,Harding,3.01,2.29,2.6,2.7,3.09,2.95,3.05,2.64,2.23,2.24
+1,Avg household size of renter-occupied unit,NM,Harding,2.18,1.86,2.1,2.3,3.11,3.19,2.46,2.83,2.08,1.81
+36,Owner-Occupied,NM,Harding,882,608,530,581,543,463,464,393,295,309
+37,Renter-Occupied,NM,Harding,61,65,82,106,112,102,101,153,164,132
+0,Avg household size of owner-occupied unit,NM,Hidalgo,3.03,3.05,2.73,2.63,2.5,2.53,2.49,2.4,2.38,2.39
+1,Avg household size of renter-occupied unit,NM,Hidalgo,2.64,2.88,2.44,2.46,2.47,2.36,2.56,2.65,2.57,2.73
+36,Owner-Occupied,NM,Hidalgo,3577,3294,3242,3200,3135,3144,3027,3081,2931,2839
+37,Renter-Occupied,NM,Hidalgo,1387,1556,1550,1522,1492,1379,1394,1270,1336,1344
+0,Avg household size of owner-occupied unit,NM,Lea,2.82,2.87,2.98,3.07,3.1,3.13,3.13,3.07,3.09,3.04
+1,Avg household size of renter-occupied unit,NM,Lea,2.81,2.91,2.96,2.88,2.87,2.96,3.03,2.99,2.98,2.94
+36,Owner-Occupied,NM,Lea,42599,43023,43785,45384,46729,46585,46315,45990,46210,45673
+37,Renter-Occupied,NM,Lea,17284,18216,18744,18217,18019,19418,20371,21035,21306,21986
+0,Avg household size of owner-occupied unit,NM,Lincoln,2.28,2.21,2.25,2.24,2.27,2.33,2.42,2.46,2.5,2.61
+1,Avg household size of renter-occupied unit,NM,Lincoln,2.48,2.24,2.63,2.6,2.48,2.35,2.54,2.41,2.37,2.26
+36,Owner-Occupied,NM,Lincoln,15219,15718,15476,15356,15185,15601,15286,15201,15033,15925
+37,Renter-Occupied,NM,Lincoln,4817,4461,4710,4794,4804,4189,4287,4132,4260,3327
+0,Avg household size of owner-occupied unit,NM,Los Alamos,2.5,2.48,2.47,2.42,2.49,2.44,2.46,2.48,2.53,2.46
+1,Avg household size of renter-occupied unit,NM,Los Alamos,1.97,2.06,2.09,2.13,2.04,2.07,2.04,2.12,2.08,1.99
+36,Owner-Occupied,NM,Los Alamos,14591,14676,14272,13874,14019,13758,13547,13732,14178,14448
+37,Renter-Occupied,NM,Los Alamos,3407,3240,3612,3981,3834,4070,4238,4194,4073,4076
+0,Avg household size of owner-occupied unit,NM,Luna,2.65,2.6,2.63,2.74,2.66,2.63,2.69,2.59,2.62,2.69
+1,Avg household size of renter-occupied unit,NM,Luna,2.86,2.94,2.93,2.86,2.76,2.83,2.93,2.7,2.67,2.6
+36,Owner-Occupied,NM,Luna,16931,16608,16056,16587,16370,16059,15263,14521,14317,14567
+37,Renter-Occupied,NM,Luna,8007,8311,8767,8053,8197,8327,8955,9394,9536,9069
+0,Avg household size of owner-occupied unit,NM,McKinley,4.04,4.13,4.19,4.22,4.18,4.08,4.03,3.76,3.66,3.48
+1,Avg household size of renter-occupied unit,NM,McKinley,3.73,3.92,3.7,3.79,3.68,3.67,3.51,3.36,3.29,3.29
+36,Owner-Occupied,NM,McKinley,52259,51595,52684,53375,54558,55031,54771,53170,52805,51658
+37,Renter-Occupied,NM,McKinley,17490,18678,18254,18122,17714,18215,18826,18945,19309,20037
+0,Avg household size of owner-occupied unit,NM,Mora,2.65,2.77,2.9,3.16,3.07,2.73,2.96,3.18,3.1,2.74
+1,Avg household size of renter-occupied unit,NM,Mora,3.03,2.26,2.2,2.69,3.12,3.11,3.03,2.59,2.57,2.04
+36,Owner-Occupied,NM,Mora,4019,4158,4324,4211,3656,3621,3448,3661,3575,4017
+37,Renter-Occupied,NM,Mora,904,659,455,540,1041,1026,1135,931,975,507
+0,Avg household size of owner-occupied unit,NM,Otero,2.58,2.55,2.54,2.54,2.53,2.58,2.67,2.63,2.7,2.66
+1,Avg household size of renter-occupied unit,NM,Otero,2.51,2.51,2.68,2.74,2.79,2.72,2.73,2.56,2.59,2.61
+36,Owner-Occupied,NM,Otero,41868,41853,41196,40265,39189,39227,39541,39954,41233,40309
+37,Renter-Occupied,NM,Otero,19593,20080,21163,22082,23490,23022,22488,21733,20986,22100
+0,Avg household size of owner-occupied unit,NM,Quay,2.32,2.36,2.48,2.48,2.61,2.59,2.68,2.83,3.01,2.97
+1,Avg household size of renter-occupied unit,NM,Quay,2.35,2.51,2.63,2.73,2.72,2.58,2.69,2.49,2.2,2.3
+36,Owner-Occupied,NM,Quay,6599,6684,6647,6812,6542,6170,5904,5979,5853,5544
+37,Renter-Occupied,NM,Quay,2344,2147,2181,1990,2213,2493,2603,2412,2449,2698
+0,Avg household size of owner-occupied unit,NM,Rio Arriba,2.67,2.66,2.66,2.67,2.77,2.87,2.98,3.08,3.17,3.08
+1,Avg household size of renter-occupied unit,NM,Rio Arriba,2.55,2.59,2.58,2.69,2.78,2.83,2.83,2.81,2.96,2.86
+36,Owner-Occupied,NM,Rio Arriba,31874,31916,31470,31306,30804,30602,30292,30338,30223,30113
+37,Renter-Occupied,NM,Rio Arriba,7684,7693,8107,8283,8710,8682,8950,8455,8430,8432
+0,Avg household size of owner-occupied unit,NM,Roosevelt,2.88,2.86,2.77,2.68,2.66,2.68,2.65,2.57,2.56,2.56
+1,Avg household size of renter-occupied unit,NM,Roosevelt,2.5,2.52,2.75,2.71,2.59,2.55,2.5,2.51,2.59,2.67
+36,Owner-Occupied,NM,Roosevelt,12318,11689,11515,11441,11328,11172,11421,11183,10930,10208
+37,Renter-Occupied,NM,Roosevelt,6287,7062,7424,7529,7610,7563,6985,6949,7050,7558
+0,Avg household size of owner-occupied unit,NM,Sandoval,2.75,2.76,2.79,2.81,2.8,2.84,2.82,2.82,2.81,2.79
+1,Avg household size of renter-occupied unit,NM,Sandoval,2.77,2.81,2.8,2.84,2.8,2.82,2.88,2.71,2.67,2.73
+36,Owner-Occupied,NM,Sandoval,100342,102467,105317,107153,108917,110262,111734,112300,110648,111876
+37,Renter-Occupied,NM,Sandoval,23233,25112,25302,25709,25558,25593,25575,25619,29141,29839
+0,Avg household size of owner-occupied unit,NM,San Juan,2.97,2.98,3.02,3.08,3.04,3.01,2.91,3.0,2.88,2.86
+1,Avg household size of renter-occupied unit,NM,San Juan,3.13,3.03,3.09,3.14,3.22,3.12,3.04,3.05,3.0,2.91
+36,Owner-Occupied,NM,San Juan,91670,93851,93807,93702,90479,89630,86838,91953,89255,88187
+37,Renter-Occupied,NM,San Juan,34170,32632,33083,33110,35199,33786,34005,34594,36432,36562
+0,Avg household size of owner-occupied unit,NM,San Miguel,2.4,2.34,2.38,2.48,2.48,2.58,2.62,2.52,2.38,2.31
+1,Avg household size of renter-occupied unit,NM,San Miguel,2.13,2.17,2.22,2.17,2.19,2.32,2.24,2.13,2.24,2.11
+36,Owner-Occupied,NM,San Miguel,18887,18800,18958,19698,20436,20065,19675,19608,19125,18843
+37,Renter-Occupied,NM,San Miguel,8334,8595,8382,7562,6741,6971,6997,6955,7283,7274
+0,Avg household size of owner-occupied unit,NM,Santa Fe,2.37,2.36,2.36,2.36,2.37,2.4,2.4,2.4,2.4,2.42
+1,Avg household size of renter-occupied unit,NM,Santa Fe,2.15,2.17,2.2,2.26,2.25,2.24,2.25,2.21,2.26,2.22
+36,Owner-Occupied,NM,Santa Fe,101649,101003,100072,100202,100891,101613,102637,104041,104419,106448
+37,Renter-Occupied,NM,Santa Fe,37210,38621,40754,41915,42330,42315,41659,40487,41559,39963
+0,Avg household size of owner-occupied unit,NM,Sierra,2.5,2.69,2.7,2.58,2.31,2.18,2.06,2.0,2.03,1.92
+1,Avg household size of renter-occupied unit,NM,Sierra,2.37,2.69,2.9,2.94,2.93,2.46,2.19,2.15,2.01,1.98
+36,Owner-Occupied,NM,Sierra,9291,9164,8608,8308,8205,7928,7996,8032,8271,7904
+37,Renter-Occupied,NM,Sierra,2444,2508,3097,3340,3309,3441,3199,2968,2605,2863
+0,Avg household size of owner-occupied unit,NM,Socorro,2.87,2.95,3.12,3.2,3.29,3.42,3.56,3.44,3.63,3.58
+1,Avg household size of renter-occupied unit,NM,Socorro,3.07,3.31,3.26,3.29,3.37,3.47,3.38,3.8,3.59,3.71
+36,Owner-Occupied,NM,Socorro,12745,12700,12663,12284,12303,12292,12203,12297,12172,11876
+37,Renter-Occupied,NM,Socorro,4782,4612,4616,4925,4784,4686,4591,4271,4309,4465
+0,Avg household size of owner-occupied unit,NM,Taos,2.5,2.51,2.49,2.51,2.54,2.52,2.57,2.6,2.74,2.76
+1,Avg household size of renter-occupied unit,NM,Taos,2.39,2.41,2.23,2.22,2.19,2.24,2.26,2.43,2.4,2.32
+36,Owner-Occupied,NM,Taos,24048,24345,24256,24129,24417,24064,24396,24313,25134,25573
+37,Renter-Occupied,NM,Taos,8406,7978,8063,8251,7960,8249,7911,7855,7117,6616
+0,Avg household size of owner-occupied unit,NM,Torrance,2.59,2.68,2.76,2.66,2.63,2.68,2.66,2.47,2.52,2.57
+1,Avg household size of renter-occupied unit,NM,Torrance,2.7,2.97,2.77,2.95,2.89,3.44,3.27,3.43,3.4,3.29
+36,Owner-Occupied,NM,Torrance,12458,11998,12611,12240,11975,12003,11651,11095,11909,12088
+37,Renter-Occupied,NM,Torrance,2803,3602,2804,3050,3202,3082,3263,3814,3213,3116
+0,Avg household size of owner-occupied unit,NM,Union,2.42,2.37,2.37,2.43,2.4,2.39,2.32,2.42,2.39,2.36
+1,Avg household size of renter-occupied unit,NM,Union,2.78,2.85,2.65,2.59,2.45,2.38,2.44,2.74,2.95,2.76
+36,Owner-Occupied,NM,Union,3102,2930,2663,2520,2435,2412,2204,2268,2309,2137
+37,Renter-Occupied,NM,Union,1273,1289,1450,1481,1435,1310,1457,1333,1226,1348
+0,Avg household size of owner-occupied unit,NM,Valencia,2.71,2.68,2.7,2.79,2.77,2.75,2.71,2.74,2.7,2.78
+1,Avg household size of renter-occupied unit,NM,Valencia,2.69,2.71,2.74,2.73,2.84,2.89,3.0,2.83,2.76,2.7
+36,Owner-Occupied,NM,Valencia,57855,59077,59113,59767,58757,58942,57592,59447,59817,61091
+37,Renter-Occupied,NM,Valencia,14757,14532,15137,14893,16033,15761,16845,14926,14651,13490
+0,Avg household size of owner-occupied unit,NM,Doña Ana,,2.82,2.82,2.82,2.82,2.82,2.8,2.74,2.75,2.75
+1,Avg household size of renter-occupied unit,NM,Doña Ana,,2.63,2.71,2.73,2.73,2.76,2.76,2.67,2.65,2.62
+36,Owner-Occupied,NM,Doña Ana,,135560,135899,136291,136096,136373,132615,132049,131444,135227
+37,Renter-Occupied,NM,Doña Ana,,64817,67672,69762,71861,72715,76187,76498,78380,75206

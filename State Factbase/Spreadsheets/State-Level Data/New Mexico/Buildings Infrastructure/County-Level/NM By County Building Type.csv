@@ -1,0 +1,341 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40,Units in Structure: 1 ATTACHED,NM,Bernalillo,15164,15388,14865,15617,15401,15896,15789,15827,14879,14579
+41,Units in Structure: 1 DETACHED,NM,Bernalillo,179462,180849,182628,183076,184323,184273,185734,188718,189870,190362
+42,Units in Structure: 10-19,NM,Bernalillo,12632,13336,13759,15130,15382,15324,15384,14473,13263,12501
+43,Units in Structure: 2,NM,Bernalillo,4286,4310,4413,4050,4379,4573,4686,4585,5086,5642
+44,Units in Structure: 20-49,NM,Bernalillo,8890,8867,9038,9037,8876,9186,9174,9408,9207,9686
+45,Units in Structure: 3-4,NM,Bernalillo,16812,16521,16747,15818,15657,14965,14968,15112,16066,16231
+46,Units in Structure: 5-9,NM,Bernalillo,12490,12934,12603,12068,12439,12390,12157,12123,11837,11628
+47,Units in Structure: 50+,NM,Bernalillo,13884,13716,13832,13614,13740,13951,14028,14178,15078,16089
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Bernalillo,156,190,219,202,249,242,250,251,322,274
+49,Units in Structure: Mobile Home,NM,Bernalillo,16659,16746,16271,16392,15824,16254,15846,16424,16831,16795
+40,Units in Structure: 1 ATTACHED,NM,Catron,5,7,8,0,0,20,21,28,31,25
+41,Units in Structure: 1 DETACHED,NM,Catron,2402,2458,2528,2701,2627,2617,2656,2729,2567,2450
+42,Units in Structure: 10-19,NM,Catron,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,NM,Catron,0,0,0,6,6,4,4,4,0,0
+44,Units in Structure: 20-49,NM,Catron,8,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,NM,Catron,0,0,0,0,8,8,7,8,7,2
+46,Units in Structure: 5-9,NM,Catron,0,0,0,0,0,0,0,0,0,0
+47,Units in Structure: 50+,NM,Catron,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Catron,22,21,22,26,22,0,0,0,0,0
+49,Units in Structure: Mobile Home,NM,Catron,1031,977,993,937,1035,1136,1242,1231,1288,1279
+40,Units in Structure: 1 ATTACHED,NM,Chaves,570,539,646,679,799,776,728,705,611,623
+41,Units in Structure: 1 DETACHED,NM,Chaves,19902,19673,19440,19620,19368,19557,19657,20198,20288,19930
+42,Units in Structure: 10-19,NM,Chaves,347,472,501,492,453,372,338,300,197,238
+43,Units in Structure: 2,NM,Chaves,713,750,872,718,673,656,620,526,588,628
+44,Units in Structure: 20-49,NM,Chaves,251,278,258,309,331,335,387,417,425,546
+45,Units in Structure: 3-4,NM,Chaves,520,589,636,609,630,658,600,559,632,633
+46,Units in Structure: 5-9,NM,Chaves,422,411,350,341,372,358,388,338,333,411
+47,Units in Structure: 50+,NM,Chaves,317,186,375,574,699,720,795,745,578,523
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Chaves,61,45,45,18,19,26,32,58,72,81
+49,Units in Structure: Mobile Home,NM,Chaves,3500,3712,3570,3288,3328,3251,3165,3239,3470,3666
+40,Units in Structure: 1 ATTACHED,NM,Cibola,590,530,422,436,371,302,306,287,316,253
+41,Units in Structure: 1 DETACHED,NM,Cibola,7394,7488,7351,7127,6998,6783,6578,6559,6751,6854
+42,Units in Structure: 10-19,NM,Cibola,154,127,65,67,73,61,60,100,70,89
+43,Units in Structure: 2,NM,Cibola,117,128,159,141,150,115,137,66,41,49
+44,Units in Structure: 20-49,NM,Cibola,129,50,32,28,91,82,153,144,152,123
+45,Units in Structure: 3-4,NM,Cibola,199,319,382,399,360,350,351,382,312,363
+46,Units in Structure: 5-9,NM,Cibola,168,118,132,188,187,204,297,348,281,306
+47,Units in Structure: 50+,NM,Cibola,116,64,61,55,57,51,69,85,101,107
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Cibola,0,0,18,21,18,19,20,0,21,27
+49,Units in Structure: Mobile Home,NM,Cibola,2161,2251,2465,2598,2795,3121,3139,3335,3298,3226
+40,Units in Structure: 1 ATTACHED,NM,Colfax,315,300,244,196,208,173,170,189,163,154
+41,Units in Structure: 1 DETACHED,NM,Colfax,7003,6940,6828,6875,6810,6793,6664,6733,6770,7045
+42,Units in Structure: 10-19,NM,Colfax,110,104,96,98,167,212,279,354,410,415
+43,Units in Structure: 2,NM,Colfax,236,301,342,304,295,260,229,228,198,179
+44,Units in Structure: 20-49,NM,Colfax,165,108,85,114,114,124,132,156,155,148
+45,Units in Structure: 3-4,NM,Colfax,245,273,272,307,278,260,291,331,308,267
+46,Units in Structure: 5-9,NM,Colfax,271,321,384,396,371,392,369,301,300,298
+47,Units in Structure: 50+,NM,Colfax,38,33,31,26,5,10,4,3,3,5
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Colfax,0,0,0,0,0,0,0,1,1,1
+49,Units in Structure: Mobile Home,NM,Colfax,1505,1587,1709,1688,1798,1843,1921,1911,1936,1772
+40,Units in Structure: 1 ATTACHED,NM,Curry,829,711,753,712,745,805,830,786,864,896
+41,Units in Structure: 1 DETACHED,NM,Curry,14129,14167,14498,14760,14955,14796,14677,14948,14987,15048
+42,Units in Structure: 10-19,NM,Curry,395,310,390,293,289,278,365,338,406,408
+43,Units in Structure: 2,NM,Curry,667,745,724,713,674,677,707,669,697,674
+44,Units in Structure: 20-49,NM,Curry,213,189,132,156,193,180,241,194,189,177
+45,Units in Structure: 3-4,NM,Curry,974,965,899,927,925,1020,988,1170,1167,1135
+46,Units in Structure: 5-9,NM,Curry,581,605,552,614,658,593,600,647,636,556
+47,Units in Structure: 50+,NM,Curry,90,87,129,157,130,71,94,81,49,62
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Curry,29,17,29,49,104,102,116,124,94,84
+49,Units in Structure: Mobile Home,NM,Curry,1979,2195,2029,1862,1749,2052,2067,2110,2098,2227
+40,Units in Structure: 1 ATTACHED,NM,De Baca,33,28,33,44,43,27,20,18,0,0
+41,Units in Structure: 1 DETACHED,NM,De Baca,889,854,813,869,796,680,791,882,871,838
+42,Units in Structure: 10-19,NM,De Baca,7,10,2,0,0,0,0,0,0,0
+43,Units in Structure: 2,NM,De Baca,47,51,40,24,13,14,3,8,23,19
+44,Units in Structure: 20-49,NM,De Baca,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,NM,De Baca,22,24,21,32,30,26,22,31,16,9
+46,Units in Structure: 5-9,NM,De Baca,0,0,0,0,0,0,0,0,0,0
+47,Units in Structure: 50+,NM,De Baca,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,De Baca,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,NM,De Baca,247,298,266,241,211,220,188,204,168,226
+40,Units in Structure: 1 ATTACHED,NM,Do?a Ana,2605,,,,,,,,,
+41,Units in Structure: 1 DETACHED,NM,Do?a Ana,44471,,,,,,,,,
+42,Units in Structure: 10-19,NM,Do?a Ana,3015,,,,,,,,,
+43,Units in Structure: 2,NM,Do?a Ana,2266,,,,,,,,,
+44,Units in Structure: 20-49,NM,Do?a Ana,1281,,,,,,,,,
+45,Units in Structure: 3-4,NM,Do?a Ana,2747,,,,,,,,,
+46,Units in Structure: 5-9,NM,Do?a Ana,3380,,,,,,,,,
+47,Units in Structure: 50+,NM,Do?a Ana,1471,,,,,,,,,
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Do?a Ana,92,,,,,,,,,
+49,Units in Structure: Mobile Home,NM,Do?a Ana,18102,,,,,,,,,
+40,Units in Structure: 1 ATTACHED,NM,Eddy,335,317,400,482,427,376,368,227,223,200
+41,Units in Structure: 1 DETACHED,NM,Eddy,16238,16728,16700,16539,16959,16854,16706,16848,17341,17654
+42,Units in Structure: 10-19,NM,Eddy,323,337,326,327,218,207,173,248,242,259
+43,Units in Structure: 2,NM,Eddy,535,383,411,440,369,323,499,463,411,399
+44,Units in Structure: 20-49,NM,Eddy,311,205,113,77,108,225,301,446,504,500
+45,Units in Structure: 3-4,NM,Eddy,601,512,371,295,360,452,538,602,481,419
+46,Units in Structure: 5-9,NM,Eddy,294,235,243,190,153,271,343,555,791,791
+47,Units in Structure: 50+,NM,Eddy,242,276,404,503,474,451,430,301,181,169
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Eddy,174,140,121,51,36,32,36,59,115,132
+49,Units in Structure: Mobile Home,NM,Eddy,3405,3384,3541,3822,3856,3975,4034,4262,3985,4053
+40,Units in Structure: 1 ATTACHED,NM,Grant,218,186,189,189,177,106,109,158,115,135
+41,Units in Structure: 1 DETACHED,NM,Grant,8736,8697,9022,8950,9046,9190,9456,9047,9201,9229
+42,Units in Structure: 10-19,NM,Grant,106,99,37,74,45,34,51,94,73,58
+43,Units in Structure: 2,NM,Grant,340,304,270,260,220,203,265,290,247,245
+44,Units in Structure: 20-49,NM,Grant,99,112,158,172,103,85,57,128,188,256
+45,Units in Structure: 3-4,NM,Grant,234,317,291,251,305,284,184,278,283,341
+46,Units in Structure: 5-9,NM,Grant,310,416,303,153,183,212,144,149,177,243
+47,Units in Structure: 50+,NM,Grant,51,4,0,0,0,4,4,29,51,68
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Grant,65,67,46,24,13,16,29,50,42,56
+49,Units in Structure: Mobile Home,NM,Grant,4469,4459,4347,4560,4591,4510,4379,4737,4636,4440
+40,Units in Structure: 1 ATTACHED,NM,Guadalupe,23,17,20,17,21,12,7,0,4,14
+41,Units in Structure: 1 DETACHED,NM,Guadalupe,1450,1411,1448,1331,1406,1371,1380,1442,1537,1580
+42,Units in Structure: 10-19,NM,Guadalupe,6,20,6,8,8,12,0,7,15,13
+43,Units in Structure: 2,NM,Guadalupe,5,43,57,52,54,70,73,65,81,133
+44,Units in Structure: 20-49,NM,Guadalupe,0,0,5,31,46,47,44,46,33,27
+45,Units in Structure: 3-4,NM,Guadalupe,66,46,60,52,71,129,121,125,146,133
+46,Units in Structure: 5-9,NM,Guadalupe,21,28,46,32,34,24,21,0,23,27
+47,Units in Structure: 50+,NM,Guadalupe,37,39,13,6,8,14,12,18,16,17
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Guadalupe,0,0,2,8,9,10,10,0,0,0
+49,Units in Structure: Mobile Home,NM,Guadalupe,574,613,557,612,634,572,676,795,834,726
+40,Units in Structure: 1 ATTACHED,NM,Harding,6,8,4,2,2,4,3,2,4,3
+41,Units in Structure: 1 DETACHED,NM,Harding,364,359,349,400,372,400,402,438,452,434
+42,Units in Structure: 10-19,NM,Harding,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,NM,Harding,3,2,2,5,7,5,3,3,0,0
+44,Units in Structure: 20-49,NM,Harding,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,NM,Harding,4,3,0,0,0,0,0,0,0,0
+46,Units in Structure: 5-9,NM,Harding,0,0,0,0,0,0,0,0,0,0
+47,Units in Structure: 50+,NM,Harding,0,0,0,0,1,2,1,1,1,0
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Harding,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,NM,Harding,146,141,112,100,111,101,105,120,133,130
+40,Units in Structure: 1 ATTACHED,NM,Hidalgo,16,14,44,38,65,83,64,66,29,33
+41,Units in Structure: 1 DETACHED,NM,Hidalgo,1520,1448,1513,1465,1363,1337,1347,1378,1385,1339
+42,Units in Structure: 10-19,NM,Hidalgo,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,NM,Hidalgo,40,25,71,64,44,24,41,23,19,20
+44,Units in Structure: 20-49,NM,Hidalgo,53,23,19,9,15,17,12,12,46,42
+45,Units in Structure: 3-4,NM,Hidalgo,23,20,17,36,28,16,12,18,19,28
+46,Units in Structure: 5-9,NM,Hidalgo,0,0,0,0,0,0,0,0,0,0
+47,Units in Structure: 50+,NM,Hidalgo,12,19,23,20,15,6,0,0,36,38
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Hidalgo,0,0,0,5,21,16,18,21,16,3
+49,Units in Structure: Mobile Home,NM,Hidalgo,700,671,719,753,842,884,905,920,896,951
+40,Units in Structure: 1 ATTACHED,NM,Lea,456,418,421,454,473,475,468,444,424,395
+41,Units in Structure: 1 DETACHED,NM,Lea,17563,17497,17416,17317,17256,17285,17234,17273,17274,17545
+42,Units in Structure: 10-19,NM,Lea,312,291,328,400,344,409,313,298,346,343
+43,Units in Structure: 2,NM,Lea,677,704,655,548,457,463,337,372,331,295
+44,Units in Structure: 20-49,NM,Lea,245,244,355,373,348,450,511,435,371,435
+45,Units in Structure: 3-4,NM,Lea,383,429,453,344,312,321,347,465,584,715
+46,Units in Structure: 5-9,NM,Lea,378,371,360,429,275,264,533,626,688,940
+47,Units in Structure: 50+,NM,Lea,301,609,631,664,835,1001,811,790,754,624
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Lea,88,67,116,94,134,192,231,276,294,252
+49,Units in Structure: Mobile Home,NM,Lea,4290,4207,4172,4285,4559,4257,4555,4958,5184,5066
+40,Units in Structure: 1 ATTACHED,NM,Lincoln,394,453,440,518,488,446,499,395,335,437
+41,Units in Structure: 1 DETACHED,NM,Lincoln,11417,11274,11581,11388,11475,11819,11644,11914,12225,12049
+42,Units in Structure: 10-19,NM,Lincoln,424,429,355,281,333,249,231,254,269,217
+43,Units in Structure: 2,NM,Lincoln,331,393,401,384,333,232,268,188,198,234
+44,Units in Structure: 20-49,NM,Lincoln,49,55,103,127,160,105,170,140,189,129
+45,Units in Structure: 3-4,NM,Lincoln,344,298,349,303,321,412,510,600,596,527
+46,Units in Structure: 5-9,NM,Lincoln,573,696,599,484,481,461,523,661,641,601
+47,Units in Structure: 50+,NM,Lincoln,68,68,59,73,45,28,30,31,66,108
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Lincoln,53,31,33,28,20,19,26,24,55,32
+49,Units in Structure: Mobile Home,NM,Lincoln,3585,3708,3538,3927,3941,3865,3770,3769,3504,3822
+40,Units in Structure: 1 ATTACHED,NM,Los Alamos,865,925,939,857,917,924,868,821,788,707
+41,Units in Structure: 1 DETACHED,NM,Los Alamos,5397,5376,5349,5349,5292,5137,5311,5347,5392,5355
+42,Units in Structure: 10-19,NM,Los Alamos,317,306,253,265,332,330,355,412,415,518
+43,Units in Structure: 2,NM,Los Alamos,283,393,473,498,491,463,344,406,305,334
+44,Units in Structure: 20-49,NM,Los Alamos,467,487,507,417,348,283,223,202,210,203
+45,Units in Structure: 3-4,NM,Los Alamos,356,285,276,292,260,379,430,407,393,390
+46,Units in Structure: 5-9,NM,Los Alamos,235,202,181,260,314,376,393,377,428,385
+47,Units in Structure: 50+,NM,Los Alamos,144,114,109,152,111,189,193,152,174,156
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Los Alamos,0,0,0,0,0,0,0,0,0,8
+49,Units in Structure: Mobile Home,NM,Los Alamos,333,296,284,242,264,232,192,246,274,328
+40,Units in Structure: 1 ATTACHED,NM,Luna,96,94,93,106,109,83,90,121,69,37
+41,Units in Structure: 1 DETACHED,NM,Luna,6376,6360,6253,6037,5934,5623,5537,5589,5676,5727
+42,Units in Structure: 10-19,NM,Luna,65,45,64,64,64,92,108,193,212,208
+43,Units in Structure: 2,NM,Luna,183,254,293,241,211,267,211,179,143,136
+44,Units in Structure: 20-49,NM,Luna,44,30,42,60,140,176,219,297,300,226
+45,Units in Structure: 3-4,NM,Luna,435,389,435,403,459,378,338,299,323,299
+46,Units in Structure: 5-9,NM,Luna,203,249,215,191,166,198,212,260,246,169
+47,Units in Structure: 50+,NM,Luna,78,77,98,159,168,143,204,249,250,235
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Luna,78,55,40,50,57,52,68,116,140,172
+49,Units in Structure: Mobile Home,NM,Luna,3550,3493,3490,3650,3688,3960,3971,3910,3881,4078
+40,Units in Structure: 1 ATTACHED,NM,McKinley,907,903,764,671,694,660,613,687,759,631
+41,Units in Structure: 1 DETACHED,NM,McKinley,17287,17170,17067,16975,16782,16572,16701,16898,16836,17219
+42,Units in Structure: 10-19,NM,McKinley,121,79,144,159,100,114,121,82,102,92
+43,Units in Structure: 2,NM,McKinley,617,716,662,604,630,585,505,501,542,551
+44,Units in Structure: 20-49,NM,McKinley,36,86,134,240,200,188,124,84,54,46
+45,Units in Structure: 3-4,NM,McKinley,640,550,596,454,485,588,806,839,924,962
+46,Units in Structure: 5-9,NM,McKinley,440,406,448,449,521,485,546,619,667,577
+47,Units in Structure: 50+,NM,McKinley,21,32,13,10,10,81,88,114,150,163
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,McKinley,0,3,8,6,8,8,10,11,12,14
+49,Units in Structure: Mobile Home,NM,McKinley,5871,5926,6006,6194,6365,6499,6254,6328,6173,6057
+40,Units in Structure: 1 ATTACHED,NM,Mora,16,17,12,11,9,5,5,9,8,5
+41,Units in Structure: 1 DETACHED,NM,Mora,2196,2396,2286,2195,2171,2108,1854,1852,1792,1927
+42,Units in Structure: 10-19,NM,Mora,7,9,11,18,13,4,3,2,0,0
+43,Units in Structure: 2,NM,Mora,0,0,2,2,1,5,13,12,12,24
+44,Units in Structure: 20-49,NM,Mora,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,NM,Mora,8,0,0,0,0,0,3,3,4,3
+46,Units in Structure: 5-9,NM,Mora,8,10,12,14,11,0,0,0,0,0
+47,Units in Structure: 50+,NM,Mora,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Mora,0,0,0,0,0,0,32,33,24,32
+49,Units in Structure: Mobile Home,NM,Mora,867,861,981,934,997,1125,1037,854,921,990
+40,Units in Structure: 1 ATTACHED,NM,Otero,691,706,690,756,792,1024,972,905,876,1057
+41,Units in Structure: 1 DETACHED,NM,Otero,19059,19080,19323,19537,19648,19093,19218,19368,19287,19471
+42,Units in Structure: 10-19,NM,Otero,366,403,362,338,405,363,306,393,408,433
+43,Units in Structure: 2,NM,Otero,709,856,726,685,579,521,328,398,454,437
+44,Units in Structure: 20-49,NM,Otero,126,107,123,107,89,138,135,91,103,73
+45,Units in Structure: 3-4,NM,Otero,710,647,589,641,636,653,931,1066,1040,1028
+46,Units in Structure: 5-9,NM,Otero,546,516,458,374,371,411,428,406,410,405
+47,Units in Structure: 50+,NM,Otero,264,197,67,43,26,0,0,16,47,66
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Otero,70,179,203,209,192,224,100,76,102,96
+49,Units in Structure: Mobile Home,NM,Otero,8372,8267,8405,8228,8244,8540,8558,8842,8946,8679
+40,Units in Structure: 1 ATTACHED,NM,Quay,138,96,103,30,29,11,12,19,18,38
+41,Units in Structure: 1 DETACHED,NM,Quay,3606,3601,3643,3801,3750,3836,3875,3932,3825,3856
+42,Units in Structure: 10-19,NM,Quay,2,3,6,52,50,51,49,52,24,16
+43,Units in Structure: 2,NM,Quay,93,78,109,99,163,123,163,146,120,106
+44,Units in Structure: 20-49,NM,Quay,0,5,7,7,6,5,0,0,0,6
+45,Units in Structure: 3-4,NM,Quay,80,35,44,41,50,46,49,40,98,113
+46,Units in Structure: 5-9,NM,Quay,50,101,112,88,84,161,107,84,164,185
+47,Units in Structure: 50+,NM,Quay,114,60,63,25,19,0,0,0,0,16
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Quay,6,4,4,3,3,0,0,0,0,0
+49,Units in Structure: Mobile Home,NM,Quay,1495,1592,1476,1413,1407,1318,1294,1386,1428,1354
+40,Units in Structure: 1 ATTACHED,NM,Rio Arriba,258,370,287,284,304,323,241,303,238,232
+41,Units in Structure: 1 DETACHED,NM,Rio Arriba,11353,11155,11256,11071,11019,10872,10984,11026,11225,11210
+42,Units in Structure: 10-19,NM,Rio Arriba,18,14,9,9,5,0,0,2,1,2
+43,Units in Structure: 2,NM,Rio Arriba,336,318,299,302,345,282,381,435,362,353
+44,Units in Structure: 20-49,NM,Rio Arriba,7,9,19,19,43,49,52,49,61,34
+45,Units in Structure: 3-4,NM,Rio Arriba,143,183,173,121,205,195,193,194,195,161
+46,Units in Structure: 5-9,NM,Rio Arriba,79,52,55,66,74,113,89,84,125,122
+47,Units in Structure: 50+,NM,Rio Arriba,98,89,83,87,84,16,13,14,5,11
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Rio Arriba,11,11,7,32,65,83,78,82,62,38
+49,Units in Structure: Mobile Home,NM,Rio Arriba,7082,7331,7371,7504,7457,7631,7526,7812,7770,8021
+40,Units in Structure: 1 ATTACHED,NM,Roosevelt,79,77,78,54,35,70,83,94,101,128
+41,Units in Structure: 1 DETACHED,NM,Roosevelt,5602,5598,5699,5523,5671,5406,5560,5584,5566,5538
+42,Units in Structure: 10-19,NM,Roosevelt,19,0,0,0,7,10,8,12,26,69
+43,Units in Structure: 2,NM,Roosevelt,179,160,221,188,215,368,330,409,449,477
+44,Units in Structure: 20-49,NM,Roosevelt,111,110,34,43,47,34,0,13,9,18
+45,Units in Structure: 3-4,NM,Roosevelt,447,433,441,522,536,489,552,496,506,399
+46,Units in Structure: 5-9,NM,Roosevelt,171,244,199,202,171,144,180,152,132,161
+47,Units in Structure: 50+,NM,Roosevelt,12,16,16,37,61,62,31,28,9,0
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Roosevelt,9,21,12,25,23,36,33,29,25,27
+49,Units in Structure: Mobile Home,NM,Roosevelt,1452,1476,1471,1607,1485,1675,1522,1617,1643,1701
+40,Units in Structure: 1 ATTACHED,NM,Sandoval,1536,1525,1573,1634,1674,1665,1783,1733,1823,1761
+41,Units in Structure: 1 DETACHED,NM,Sandoval,41680,43067,43807,44273,44451,44610,44784,45226,45141,46068
+42,Units in Structure: 10-19,NM,Sandoval,361,315,278,226,282,238,251,280,308,279
+43,Units in Structure: 2,NM,Sandoval,83,81,130,156,180,263,311,334,328,319
+44,Units in Structure: 20-49,NM,Sandoval,210,165,150,130,141,236,223,193,224,229
+45,Units in Structure: 3-4,NM,Sandoval,1347,1274,1247,1365,1333,1259,1219,1187,1254,1238
+46,Units in Structure: 5-9,NM,Sandoval,437,456,532,488,449,584,615,690,853,970
+47,Units in Structure: 50+,NM,Sandoval,706,724,698,589,675,720,682,787,900,919
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Sandoval,51,28,20,39,54,44,54,63,37,7
+49,Units in Structure: Mobile Home,NM,Sandoval,3903,3896,3838,3814,4050,4056,4271,4670,4963,4795
+40,Units in Structure: 1 ATTACHED,NM,San Juan,780,703,654,760,758,973,1089,1179,1075,900
+41,Units in Structure: 1 DETACHED,NM,San Juan,28076,28463,28795,28909,29304,29055,29221,29143,29137,28624
+42,Units in Structure: 10-19,NM,San Juan,588,600,399,457,519,583,659,660,644,718
+43,Units in Structure: 2,NM,San Juan,607,566,628,743,741,630,598,701,764,883
+44,Units in Structure: 20-49,NM,San Juan,209,235,357,322,263,226,263,234,295,362
+45,Units in Structure: 3-4,NM,San Juan,1546,1501,1655,1569,1507,1369,1223,1302,1403,1594
+46,Units in Structure: 5-9,NM,San Juan,705,629,686,832,744,844,813,814,689,861
+47,Units in Structure: 50+,NM,San Juan,207,188,203,191,179,161,215,205,238,201
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,San Juan,84,54,49,39,71,142,169,204,215,234
+49,Units in Structure: Mobile Home,NM,San Juan,15610,16056,15742,15426,15441,15579,15357,16274,16471,16736
+40,Units in Structure: 1 ATTACHED,NM,San Miguel,158,191,182,225,199,202,202,241,276,320
+41,Units in Structure: 1 DETACHED,NM,San Miguel,8846,9096,9080,9169,9206,9032,8803,8707,8528,8508
+42,Units in Structure: 10-19,NM,San Miguel,60,43,54,73,35,35,32,46,35,72
+43,Units in Structure: 2,NM,San Miguel,496,522,501,452,570,510,505,522,524,365
+44,Units in Structure: 20-49,NM,San Miguel,29,93,42,42,72,93,61,60,125,104
+45,Units in Structure: 3-4,NM,San Miguel,403,330,337,351,348,362,464,502,490,428
+46,Units in Structure: 5-9,NM,San Miguel,207,256,237,214,214,241,203,203,220,307
+47,Units in Structure: 50+,NM,San Miguel,78,93,92,78,67,79,53,56,56,73
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,San Miguel,0,7,8,8,8,10,0,0,15,13
+49,Units in Structure: Mobile Home,NM,San Miguel,5128,4883,4992,4900,4862,4994,5212,5536,5635,5794
+40,Units in Structure: 1 ATTACHED,NM,Santa Fe,4702,4775,4914,4863,4577,4669,4553,4496,4444,4741
+41,Units in Structure: 1 DETACHED,NM,Santa Fe,43470,44586,44596,45191,45985,46068,46032,46925,46547,46687
+42,Units in Structure: 10-19,NM,Santa Fe,2271,2220,2063,2075,2026,2127,1942,1938,2028,1966
+43,Units in Structure: 2,NM,Santa Fe,1716,1832,1856,1671,1733,1747,1609,1581,1538,1562
+44,Units in Structure: 20-49,NM,Santa Fe,1728,1733,1714,1561,1512,1366,1352,1373,1478,1491
+45,Units in Structure: 3-4,NM,Santa Fe,2485,2478,2535,2701,2652,2585,2678,2767,2717,2624
+46,Units in Structure: 5-9,NM,Santa Fe,2479,2354,2526,2249,2295,2432,2816,2757,2831,2715
+47,Units in Structure: 50+,NM,Santa Fe,958,934,1055,1030,946,1018,1119,1202,1181,1147
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Santa Fe,62,87,67,78,92,80,32,24,55,64
+49,Units in Structure: Mobile Home,NM,Santa Fe,9656,9578,9673,9785,9736,9581,9618,9683,10109,9991
+40,Units in Structure: 1 ATTACHED,NM,Sierra,138,100,111,75,42,57,50,54,53,98
+41,Units in Structure: 1 DETACHED,NM,Sierra,4296,4283,4238,3910,3874,3851,3926,3978,4080,4102
+42,Units in Structure: 10-19,NM,Sierra,20,20,19,40,68,82,121,184,198,196
+43,Units in Structure: 2,NM,Sierra,100,141,185,149,157,142,42,33,39,58
+44,Units in Structure: 20-49,NM,Sierra,78,134,135,114,89,109,62,68,85,75
+45,Units in Structure: 3-4,NM,Sierra,129,66,116,162,224,240,251,261,222,225
+46,Units in Structure: 5-9,NM,Sierra,178,178,203,218,186,199,196,234,237,208
+47,Units in Structure: 50+,NM,Sierra,24,31,53,43,57,83,72,21,43,98
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Sierra,92,97,116,96,160,150,147,148,139,73
+49,Units in Structure: Mobile Home,NM,Sierra,3409,3355,3197,3505,3464,3391,3422,3509,3415,3422
+40,Units in Structure: 1 ATTACHED,NM,Socorro,64,57,48,62,58,63,116,95,78,57
+41,Units in Structure: 1 DETACHED,NM,Socorro,4235,4151,4217,4305,4368,4480,4526,4521,4427,4494
+42,Units in Structure: 10-19,NM,Socorro,84,60,47,73,113,109,118,83,39,49
+43,Units in Structure: 2,NM,Socorro,176,165,236,191,183,160,205,174,175,180
+44,Units in Structure: 20-49,NM,Socorro,75,64,44,52,69,81,115,163,161,131
+45,Units in Structure: 3-4,NM,Socorro,172,201,222,228,151,114,113,63,96,132
+46,Units in Structure: 5-9,NM,Socorro,129,118,73,58,40,27,47,38,39,43
+47,Units in Structure: 50+,NM,Socorro,45,49,58,54,54,78,56,94,116,114
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Socorro,26,20,30,25,35,28,22,30,43,16
+49,Units in Structure: Mobile Home,NM,Socorro,3009,3156,3064,2946,2953,2870,2686,2918,3026,3018
+40,Units in Structure: 1 ATTACHED,NM,Taos,480,335,271,366,453,492,478,527,509,391
+41,Units in Structure: 1 DETACHED,NM,Taos,13949,14132,13592,13950,14008,13672,13624,13673,13813,13698
+42,Units in Structure: 10-19,NM,Taos,262,260,202,183,219,222,250,322,357,298
+43,Units in Structure: 2,NM,Taos,420,553,750,754,826,750,624,622,644,681
+44,Units in Structure: 20-49,NM,Taos,349,236,195,156,105,82,148,148,180,183
+45,Units in Structure: 3-4,NM,Taos,646,598,629,564,599,666,694,722,765,792
+46,Units in Structure: 5-9,NM,Taos,630,599,663,562,552,478,483,480,478,504
+47,Units in Structure: 50+,NM,Taos,155,163,137,94,56,28,14,3,6,13
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Taos,8,8,7,23,29,33,34,70,57,61
+49,Units in Structure: Mobile Home,NM,Taos,2848,3166,3670,3529,3449,3893,4010,4154,4000,4295
+40,Units in Structure: 1 ATTACHED,NM,Torrance,42,36,36,32,41,31,35,44,40,30
+41,Units in Structure: 1 DETACHED,NM,Torrance,4007,4259,4289,4447,4356,4349,4422,4512,4538,4288
+42,Units in Structure: 10-19,NM,Torrance,59,59,37,6,8,7,7,0,0,0
+43,Units in Structure: 2,NM,Torrance,11,8,5,5,15,18,39,49,73,52
+44,Units in Structure: 20-49,NM,Torrance,0,0,0,7,8,7,7,9,0,3
+45,Units in Structure: 3-4,NM,Torrance,59,70,54,42,38,26,14,19,24,29
+46,Units in Structure: 5-9,NM,Torrance,44,62,50,60,48,54,24,33,44,39
+47,Units in Structure: 50+,NM,Torrance,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Torrance,21,34,12,10,9,25,21,22,24,31
+49,Units in Structure: Mobile Home,NM,Torrance,3490,3244,3280,3128,3251,3252,3184,3302,3293,3554
+40,Units in Structure: 1 ATTACHED,NM,Union,77,56,66,60,63,21,23,2,2,1
+41,Units in Structure: 1 DETACHED,NM,Union,1967,1967,1864,1782,1814,1869,1895,1911,1922,1917
+42,Units in Structure: 10-19,NM,Union,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,NM,Union,27,41,35,44,68,75,64,67,53,31
+44,Units in Structure: 20-49,NM,Union,0,0,0,0,0,0,0,0,0,5
+45,Units in Structure: 3-4,NM,Union,0,19,22,24,26,28,15,2,23,36
+46,Units in Structure: 5-9,NM,Union,3,4,4,9,11,10,7,15,0,0
+47,Units in Structure: 50+,NM,Union,9,8,8,7,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Union,0,0,3,2,1,2,2,0,0,0
+49,Units in Structure: Mobile Home,NM,Union,336,315,288,362,326,294,300,346,345,357
+40,Units in Structure: 1 ATTACHED,NM,Valencia,1282,1230,1094,1087,929,774,738,685,625,523
+41,Units in Structure: 1 DETACHED,NM,Valencia,16767,17105,17897,18070,18295,18777,19273,19605,19791,19834
+42,Units in Structure: 10-19,NM,Valencia,147,112,82,80,145,139,156,175,208,109
+43,Units in Structure: 2,NM,Valencia,273,190,133,193,195,172,197,297,254,355
+44,Units in Structure: 20-49,NM,Valencia,326,361,267,225,243,174,142,170,214,159
+45,Units in Structure: 3-4,NM,Valencia,580,538,470,567,668,606,586,656,575,395
+46,Units in Structure: 5-9,NM,Valencia,104,101,176,170,124,181,297,250,302,268
+47,Units in Structure: 50+,NM,Valencia,102,91,95,106,94,74,77,61,40,124
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Valencia,49,71,106,89,71,84,74,25,32,31
+49,Units in Structure: Mobile Home,NM,Valencia,9645,9982,9626,9407,9378,9181,8716,8970,9009,9410
+40,Units in Structure: 1 ATTACHED,NM,Doña Ana,,2477,2575,2869,2758,2657,2546,2698,2606,2538
+41,Units in Structure: 1 DETACHED,NM,Doña Ana,,45420,46814,47110,48260,49062,49668,50309,50391,50990
+42,Units in Structure: 10-19,NM,Doña Ana,,2783,2366,2043,2051,1971,1947,2102,2347,2398
+43,Units in Structure: 2,NM,Doña Ana,,2363,2099,2246,2438,2226,2361,2577,2339,2217
+44,Units in Structure: 20-49,NM,Doña Ana,,1481,1488,1527,1451,1506,1535,1470,1510,1447
+45,Units in Structure: 3-4,NM,Doña Ana,,2818,2954,3398,3634,3895,3630,3661,4043,3863
+46,Units in Structure: 5-9,NM,Doña Ana,,3548,3786,3500,3171,3279,3399,3538,3688,3759
+47,Units in Structure: 50+,NM,Doña Ana,,1488,1386,1373,1617,1520,1470,1531,1522,1283
+48,"Units in Structure: Boat,RV,Van,Etc.",NM,Doña Ana,,50,78,91,57,61,74,48,47,58
+49,Units in Structure: Mobile Home,NM,Doña Ana,,18287,17931,17892,17551,17409,17491,18284,18603,19344

@@ -1,0 +1,1006 @@
+,state,fips code,county,sector,pollutant desc,pollutant type(s),total emissions,emissions uom
+302,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.03196,TON
+7895,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+8258,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.006916706999999999,TON
+15273,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.0030672440000000002,TON
+28745,AZ,4001,Apache,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,45.240604128,TON
+29744,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,7.9185257,TON
+30423,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+33582,AZ,4019,Pima,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.006626666999999999,TON
+52564,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+55150,AZ,4012,La Paz,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.04047626,TON
+56418,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.07022758,TON
+70054,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+81858,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+86311,AZ,4001,Apache,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,277.13799637,TON
+89777,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+95211,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,6.37334,TON
+99153,AZ,4011,Greenlee,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,4.0555830792,TON
+99585,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.48054140000000006,TON
+105883,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.14624790000000001,TON
+107673,AZ,4025,Yavapai,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,17.208270000000002,TON
+112832,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.001675995,TON
+118228,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,16.09139732,TON
+119131,AZ,4027,Yuma,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,94.7186443,TON
+126287,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+138067,AZ,4027,Yuma,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,42.169564062,TON
+146092,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+147568,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+150004,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.00039664199999999995,TON
+152965,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.851621,TON
+156731,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,6.8721914410089004,TON
+197219,AZ,4019,Pima,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,230.56404805,TON
+214926,AZ,4027,Yuma,Fuel Comb - Residential - Wood,Ammonia,CAP,2.4768980622,TON
+223151,AZ,4025,Yavapai,Fuel Comb - Residential - Other,Ammonia,CAP,0.2102514,TON
+224309,AZ,4025,Yavapai,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,38.68485,TON
+225543,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+230470,AZ,4017,Navajo,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.05881108,TON
+231646,AZ,4023,Santa Cruz,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.0008438889,TON
+233548,AZ,4011,Greenlee,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,1.8569950000000002,TON
+234005,AZ,4005,Coconino,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.0472926,TON
+238595,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.69370794,TON
+239962,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,12.305010000000001,TON
+243428,AZ,4025,Yavapai,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,90.90941,TON
+243736,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,7.035872,TON
+244690,AZ,4007,Gila,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,45.26693289999999,TON
+244777,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.02852245,TON
+245491,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+253862,AZ,4012,La Paz,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.37106059999999996,TON
+253866,AZ,4027,Yuma,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,102.337514,TON
+258049,AZ,4019,Pima,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.11906359999999999,TON
+261730,AZ,4025,Yavapai,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.2231899,TON
+264166,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+265614,AZ,4011,Greenlee,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.0014752429999999998,TON
+265693,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.00198321,TON
+267987,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.00024982950000000003,TON
+279698,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+281169,AZ,4017,Navajo,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.00017053919999999997,TON
+282510,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.02366258,TON
+285000,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.003797272,TON
+286786,AZ,4013,Maricopa,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1891521,TON
+297949,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+303806,AZ,4019,Pima,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,396.1594,TON
+313369,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+318920,AZ,4017,Navajo,Fuel Comb - Residential - Wood,Ammonia,CAP,2.6972461255,TON
+321505,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+324775,AZ,4005,Coconino,Commercial Cooking,Carbon Monoxide,CAP,54.305588,TON
+335773,AZ,4019,Pima,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,39.18655,TON
+344087,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.001286875,TON
+345090,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0156809,TON
+349344,AZ,4015,Mohave,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,473.87119974,TON
+349937,AZ,4011,Greenlee,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.0643515447,TON
+357830,AZ,4025,Yavapai,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.005604575,TON
+359864,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,2.44671,TON
+366632,AZ,4017,Navajo,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.11785239999999998,TON
+369393,AZ,4005,Coconino,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.6059536999999999,TON
+377226,AZ,4027,Yuma,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,5.073732,TON
+377801,AZ,4009,Graham,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,2.096045,TON
+388264,AZ,4011,Greenlee,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.9284973,TON
+396443,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+407573,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.27793254367,TON
+412206,AZ,4013,Maricopa,Fuel Comb - Residential - Oil,Ammonia,CAP,0.009687204,TON
+414572,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.01234777,TON
+415246,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+435211,AZ,4025,Yavapai,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.0007992124,TON
+443462,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.009936095,TON
+446857,AZ,4027,Yuma,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,5.568776452000001,TON
+466230,AZ,4027,Yuma,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,308.65775016,TON
+475760,AZ,4025,Yavapai,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.5029031,TON
+485307,AZ,4019,Pima,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,606.8910480000001,TON
+486750,AZ,4003,Cochise,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,40.822399058,TON
+490735,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.0029352909999999996,TON
+497142,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,2.465231,TON
+501083,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01035525,TON
+501697,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,3.5347660000000003,TON
+502449,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+506689,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+520320,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,9.369110000000001,TON
+531449,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+532592,AZ,4009,Graham,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.06618694,TON
+532924,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+534876,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,33.1661096,TON
+536976,AZ,4003,Cochise,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1077474,TON
+538172,AZ,4003,Cochise,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,19.59325,TON
+541747,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.218631966,TON
+544080,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.44340240000000003,TON
+551061,AZ,4007,Gila,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.08526814,TON
+552377,AZ,4001,Apache,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0008039706,TON
+553111,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+571259,AZ,4027,Yuma,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,1.395276,TON
+573421,AZ,4009,Graham,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.0005545556,TON
+575170,AZ,4011,Greenlee,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.0,TON
+582279,AZ,4019,Pima,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,655.804119,TON
+588519,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+588945,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.2040668,TON
+589685,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+590319,AZ,4027,Yuma,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.152212,TON
+592619,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.02228658,TON
+609281,AZ,4025,Yavapai,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.02017647,TON
+611726,AZ,4021,Pinal,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.03437198,TON
+612926,AZ,4023,Santa Cruz,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,1.993566,TON
+622872,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+630271,AZ,4007,Gila,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.0013611110000000001,TON
+630991,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.03658653,TON
+643675,AZ,4011,Greenlee,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,4.43373913,TON
+646953,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,2.120090749,TON
+658217,AZ,4007,Gila,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,7.224022,TON
+661681,AZ,4009,Graham,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,8.7402318421,TON
+669770,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+671087,AZ,4019,Pima,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.002218222,TON
+675108,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,7.807815,TON
+685470,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.07719578,TON
+689154,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+689155,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+694628,AZ,4023,Santa Cruz,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,9.510036999999999,TON
+695279,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.55100376,TON
+697041,AZ,4007,Gila,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.2812337,TON
+707528,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+708734,AZ,4021,Pinal,Fuel Comb - Residential - Other,Ammonia,CAP,0.03919612,TON
+710510,AZ,4017,Navajo,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,82.6664206,TON
+713999,AZ,4023,Santa Cruz,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,4.046824,TON
+714164,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,5.193759,TON
+714602,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,2.00734024,TON
+715669,AZ,4007,Gila,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,164.61148522,TON
+715895,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,3.9943093999999997,TON
+723653,AZ,4021,Pinal,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,110.44960944299999,TON
+726123,AZ,4027,Yuma,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,23.84654,TON
+727536,AZ,4005,Coconino,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0008526961,TON
+734218,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.9797669999999998,TON
+741582,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+746291,AZ,4007,Gila,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.0004077614,TON
+746546,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.01169788,TON
+746925,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+757646,AZ,4003,Cochise,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,4.489870579,TON
+768529,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,1.3508790000000002,TON
+771913,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.28546079999999996,TON
+783431,AZ,4019,Pima,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1664105,TON
+790211,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+792666,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+795350,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,4.271749,TON
+800919,AZ,4013,Maricopa,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.7338939999999998,TON
+801262,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+801732,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.17685789999999998,TON
+816288,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+826482,AZ,4017,Navajo,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,89.4704843,TON
+835922,AZ,4009,Graham,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,9.716059800000002,TON
+842020,AZ,4027,Yuma,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.131917,TON
+848634,AZ,4017,Navajo,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,5.489033999999999,TON
+865009,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,2.917694,TON
+883840,AZ,4021,Pinal,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.4544444,TON
+884540,AZ,4011,Greenlee,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.0,TON
+888724,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+897151,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.002397154,TON
+905150,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+910804,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,185.9192744071,TON
+912916,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+923635,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.4353523,TON
+928458,AZ,4005,Coconino,Fuel Comb - Residential - Wood,Ammonia,CAP,2.7883441372,TON
+930927,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,113.981205,TON
+932448,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+932660,AZ,4019,Pima,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,247.26358279,TON
+936438,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+942556,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.1416552,TON
+946185,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,3.8681400000000004,TON
+961246,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,1.76374,TON
+965451,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.2166072,TON
+973966,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+976214,AZ,4023,Santa Cruz,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,14.108439343599999,TON
+979997,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,5.396533,TON
+984079,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+985322,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.01085645,TON
+986391,AZ,4017,Navajo,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.08446085,TON
+986624,AZ,4021,Pinal,Commercial Cooking,Volatile Organic Compounds,CAP,19.88732418,TON
+990631,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+990837,AZ,4012,La Paz,Fuel Comb - Residential - Wood,Ammonia,CAP,0.37168321424999995,TON
+1008026,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,16.16735189,TON
+1010112,AZ,4012,La Paz,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.01056751,TON
+1013079,AZ,4019,Pima,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,11.1126,TON
+1019212,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1033140,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+1034628,AZ,4007,Gila,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,3.279544,TON
+1034839,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1035057,AZ,4015,Mohave,Commercial Cooking,Volatile Organic Compounds,CAP,23.89705925,TON
+1040651,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.01115291,TON
+1050857,AZ,4013,Maricopa,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.02063374,TON
+1058492,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.01360938,TON
+1060486,AZ,4003,Cochise,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.29389879999999996,TON
+1062042,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.01929773,TON
+1073801,AZ,4015,Mohave,Fuel Comb - Residential - Other,Ammonia,CAP,0.07839224,TON
+1074598,AZ,4017,Navajo,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.0005684641,TON
+1078298,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.00474659,TON
+1083101,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1085090,AZ,4011,Greenlee,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,4.363937,TON
+1101603,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01242012,TON
+1111282,AZ,4023,Santa Cruz,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,93.291330953,TON
+1113626,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+1121283,AZ,4017,Navajo,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,1.0803129999999999,TON
+1122479,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.1573979,TON
+1129485,AZ,4021,Pinal,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,98.906366026,TON
+1131951,AZ,4027,Yuma,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.10908519999999998,TON
+1134897,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+1149787,AZ,4023,Santa Cruz,Fuel Comb - Residential - Wood,Ammonia,CAP,0.7741471105,TON
+1150252,AZ,4027,Yuma,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.003031046,TON
+1150514,AZ,4017,Navajo,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,54.070876828,TON
+1152775,AZ,4003,Cochise,Commercial Cooking,Carbon Monoxide,CAP,35.198684,TON
+1153499,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,5.82317438,TON
+1158875,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.2623935,TON
+1170854,AZ,4017,Navajo,Fuel Comb - Residential - Oil,Ammonia,CAP,8.006536e-05,TON
+1171429,AZ,4013,Maricopa,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,168.8972,TON
+1174681,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.01745225,TON
+1175977,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.002011194,TON
+1183177,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1187717,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,21.969920000000002,TON
+1191379,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1193183,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.00998231,TON
+1202786,AZ,4021,Pinal,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.001019404,TON
+1205410,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1213161,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.00474659,TON
+1214547,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.01286503,TON
+1216964,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.082264417,TON
+1217102,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+1229493,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1238928,AZ,4011,Greenlee,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.02414093,TON
+1240031,AZ,4025,Yavapai,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,225.51051099999998,TON
+1240975,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1244849,AZ,4021,Pinal,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,714.91040339,TON
+1245941,AZ,4023,Santa Cruz,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,12.66284876,TON
+1252531,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.1709398,TON
+1252532,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.001072395,TON
+1252965,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,1.330244,TON
+1254611,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,3.308182,TON
+1258375,AZ,4011,Greenlee,Fuel Comb - Residential - Wood,Ammonia,CAP,0.18664617630999997,TON
+1260414,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1267651,AZ,4003,Cochise,Fuel Comb - Residential - Oil,Ammonia,CAP,0.001292484,TON
+1277591,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,3.2066222418756003,TON
+1279819,AZ,4021,Pinal,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.007148693,TON
+1283678,AZ,4013,Maricopa,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,44.53627,TON
+1286499,AZ,4009,Graham,Fuel Comb - Residential - Other,Ammonia,CAP,0.007262415,TON
+1287263,AZ,4005,Coconino,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.007205881999999999,TON
+1296951,AZ,4019,Pima,Commercial Cooking,Carbon Monoxide,CAP,259.06184,TON
+1303626,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.1393030164,TON
+1308342,AZ,4021,Pinal,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.524359,TON
+1308776,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.09375598,TON
+1309580,AZ,4003,Cochise,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.07709126,TON
+1310813,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,1.543803,TON
+1320636,AZ,4013,Maricopa,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.02305555,TON
+1323604,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,2.5989988,TON
+1323675,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.49289128,TON
+1324893,AZ,4025,Yavapai,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,60.68179,TON
+1331188,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.05925123,TON
+1343216,AZ,4017,Navajo,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,383.53232987,TON
+1347985,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.005695908,TON
+1351393,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.001316906,TON
+1360676,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,15.207239999999999,TON
+1367431,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.01655702,TON
+1381403,AZ,4007,Gila,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.09838631,TON
+1383146,AZ,4013,Maricopa,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,337.7944,TON
+1385781,AZ,4012,La Paz,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,4.077614e-05,TON
+1390156,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.02281254,TON
+1391170,AZ,4013,Maricopa,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,146.45389392,TON
+1393147,AZ,4011,Greenlee,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.01996269,TON
+1399070,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+1408995,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,3.249237,TON
+1410445,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+1414675,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1418215,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.002103625,TON
+1421466,AZ,4009,Graham,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,0.5944007,TON
+1424878,AZ,4011,Greenlee,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1429919,AZ,4023,Santa Cruz,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.001772876,TON
+1436292,AZ,4013,Maricopa,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.04843602,TON
+1449078,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+1462816,AZ,4021,Pinal,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,4.806624,TON
+1464791,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.13469160000000002,TON
+1468555,AZ,4025,Yavapai,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,86.274587236,TON
+1470497,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.09773231369999999,TON
+1475446,AZ,4019,Pima,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.1441296,TON
+1477881,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1480637,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1481613,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.002994198,TON
+1483109,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.5035282,TON
+1486085,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.02362987,TON
+1499861,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1500079,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.03447577,TON
+1505411,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,3.9383120000000003,TON
+1511350,AZ,4012,La Paz,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,7.763098080800001,TON
+1525597,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+1526365,AZ,4021,Pinal,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,126.10036399999998,TON
+1543781,AZ,4015,Mohave,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.33847150000000004,TON
+1553670,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+1556613,AZ,4017,Navajo,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.0004003268,TON
+1560205,AZ,4015,Mohave,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.006090686,TON
+1564220,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.010580154,TON
+1565971,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.014827385600000001,TON
+1576721,AZ,4007,Gila,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.004060458,TON
+1578784,AZ,4021,Pinal,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,82.14957,TON
+1588973,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1592398,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.002543919,TON
+1603996,AZ,4001,Apache,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.35544580000000003,TON
+1604132,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+1605324,AZ,4012,La Paz,Commercial Cooking,Volatile Organic Compounds,CAP,2.539584725,TON
+1606271,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,6.708933841008901,TON
+1611007,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1613969,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.002043107,TON
+1615023,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1615702,AZ,4013,Maricopa,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,4.3913269999999995,TON
+1622228,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.003193074,TON
+1622830,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.009043113,TON
+1634951,AZ,4003,Cochise,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.009176634,TON
+1637790,AZ,4013,Maricopa,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,937.63,TON
+1642093,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+1654141,AZ,4003,Cochise,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.02326471,TON
+1660741,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.001646133,TON
+1662164,AZ,4013,Maricopa,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,1160.62125333,TON
+1666049,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1670814,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.013163548,TON
+1692150,AZ,4009,Graham,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.006368579,TON
+1694853,AZ,4021,Pinal,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.3757906,TON
+1698812,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,58.422284999999995,TON
+1699199,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.1404953,TON
+1700385,AZ,4001,Apache,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.03877296,TON
+1700663,AZ,4005,Coconino,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,56.810393955,TON
+1703157,AZ,4027,Yuma,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.8128851449,TON
+1712134,AZ,4013,Maricopa,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,46.44673,TON
+1715095,AZ,4011,Greenlee,Fuel Comb - Residential - Oil,Ammonia,CAP,0.0,TON
+1717357,AZ,4005,Coconino,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,19.27722,TON
+1719221,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1724292,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1731778,AZ,4023,Santa Cruz,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,35.5732066,TON
+1733786,AZ,4019,Pima,Fuel Comb - Residential - Oil,Ammonia,CAP,0.0031111109999999997,TON
+1737252,AZ,4017,Navajo,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.7535384,TON
+1738774,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.011609999999999999,TON
+1739682,AZ,4007,Gila,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,22.079923056,TON
+1740431,AZ,4007,Gila,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.03067771,TON
+1740494,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,4.124293,TON
+1741758,AZ,4011,Greenlee,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,24.297292316999997,TON
+1749909,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1754168,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.04936453,TON
+1758664,AZ,4017,Navajo,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,7.8568229999999994,TON
+1767538,AZ,4001,Apache,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,38.140019589,TON
+1778209,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+1787099,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.015123297880000003,TON
+1790276,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1792440,AZ,4015,Mohave,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.01544118,TON
+1797437,AZ,4013,Maricopa,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,1163.07517333,TON
+1799808,AZ,4005,Coconino,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.05724894,TON
+1808824,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1810972,AZ,4023,Santa Cruz,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.27367820000000004,TON
+1811518,AZ,4013,Maricopa,Commercial Cooking,Carbon Monoxide,CAP,413.95,TON
+1814990,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.09677511,TON
+1815756,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+1823384,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1829961,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.8680599,TON
+1831181,AZ,4011,Greenlee,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.0017033,TON
+1831237,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.02434856,TON
+1833446,AZ,4017,Navajo,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,19.356070000000003,TON
+1834912,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1835802,AZ,4023,Santa Cruz,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.002517484,TON
+1835823,AZ,4001,Apache,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,14.0606994,TON
+1854380,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1855305,AZ,4007,Gila,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,2.637386339,TON
+1864953,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1865981,AZ,4025,Yavapai,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,2.362363,TON
+1869491,AZ,4015,Mohave,Fuel Comb - Residential - Oil,Ammonia,CAP,0.0008578431,TON
+1872156,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.006752652,TON
+1872884,AZ,4023,Santa Cruz,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.5564383,TON
+1884892,AZ,4009,Graham,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.05736201,TON
+1886669,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.08045276,TON
+1888846,AZ,4017,Navajo,Commercial Cooking,Carbon Monoxide,CAP,34.887121,TON
+1892284,AZ,4023,Santa Cruz,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.05260871,TON
+1893029,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.010580154,TON
+1893637,AZ,4001,Apache,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.033581599999999996,TON
+1905845,AZ,4003,Cochise,Commercial Cooking,Volatile Organic Compounds,CAP,12.8228095,TON
+1906140,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1926565,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+1927429,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.6360729999999999,TON
+1929377,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.5660611,TON
+1931916,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.1457,TON
+1932503,AZ,4001,Apache,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,9.130302,TON
+1932843,AZ,4005,Coconino,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,56.486857955,TON
+1936362,AZ,4003,Cochise,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,36.908785953,TON
+1941947,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+1942625,AZ,4015,Mohave,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,154.046267,TON
+1944750,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,2.839509,TON
+1945915,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.2509976,TON
+1949192,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.1379919,TON
+1963735,AZ,4005,Coconino,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.0009527778,TON
+1964090,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1970028,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.001646133,TON
+1971390,AZ,4001,Apache,Commercial Cooking,Volatile Organic Compounds,CAP,2.123262575,TON
+1976975,AZ,4001,Apache,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.01449252,TON
+1977865,AZ,4013,Maricopa,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.006906976,TON
+1980721,AZ,4027,Yuma,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.0004322271,TON
+1985405,AZ,4011,Greenlee,Fuel Comb - Residential - Other,Ammonia,CAP,0.001389721,TON
+1987386,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.06432513,TON
+1995024,AZ,4009,Graham,Fuel Comb - Residential - Wood,Ammonia,CAP,0.5374206679300001,TON
+2000445,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2042164,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,14.169189999999999,TON
+2048628,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2051770,AZ,4012,La Paz,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.028960000000000003,TON
+2055366,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2059904,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+2060685,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2062985,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.4074322,TON
+2064567,AZ,4003,Cochise,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.2547123,TON
+2070243,AZ,4005,Coconino,Fuel Comb - Residential - Other,Ammonia,CAP,0.05393016,TON
+2079930,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.04221523,TON
+2084368,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2086984,AZ,4013,Maricopa,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,8167.913630600001,TON
+2096620,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2098703,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.009358305,TON
+2098967,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2103953,AZ,4017,Navajo,Fuel Comb - Residential - Other,Ammonia,CAP,0.06706527,TON
+2107950,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,7.83462055,TON
+2113874,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,0.48921509999999996,TON
+2114169,AZ,4021,Pinal,Fuel Comb - Residential - Wood,Ammonia,CAP,5.93009666,TON
+2114431,AZ,4013,Maricopa,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,12.62969,TON
+2115108,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2116577,AZ,4015,Mohave,Commercial Cooking,Carbon Monoxide,CAP,65.716521,TON
+2117925,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2118195,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.01403746,TON
+2119671,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.5099814,TON
+2136839,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+2139579,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,1.2133129999999999,TON
+2142352,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2146813,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,1.1902216499,TON
+2158430,AZ,4021,Pinal,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,34.95726,TON
+2160821,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.47698820000000003,TON
+2164927,AZ,4007,Gila,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.048603,TON
+2166670,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,63.89375,TON
+2168356,AZ,4012,La Paz,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,6.4391094526,TON
+2174051,AZ,4015,Mohave,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,22.62521,TON
+2177241,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2185336,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,222.4706435056,TON
+2194044,AZ,4027,Yuma,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.5728773,TON
+2194183,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2195193,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+2200222,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2204404,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,220.5796466,TON
+2212091,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.147901368,TON
+2216780,AZ,4015,Mohave,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.004289215999999999,TON
+2230224,AZ,4001,Apache,Fuel Comb - Residential - Wood,Ammonia,CAP,1.9191934997,TON
+2235564,AZ,4019,Pima,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,84.28923,TON
+2238329,AZ,4005,Coconino,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.28915830000000003,TON
+2238330,AZ,4005,Coconino,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,2.650618,TON
+2240870,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+2241087,AZ,4007,Gila,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.5075384277,TON
+2243058,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.16310116300000002,TON
+2261835,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,61.5021694,TON
+2263120,AZ,4027,Yuma,Commercial Cooking,Volatile Organic Compounds,CAP,14.75872107,TON
+2271987,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2272314,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.11831289999999998,TON
+2273840,AZ,4021,Pinal,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,17.47863,TON
+2276135,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2291568,AZ,4015,Mohave,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.09608075,TON
+2293682,AZ,4012,La Paz,Fuel Comb - Residential - Oil,Ammonia,CAP,5.718954000000001e-05,TON
+2296863,AZ,4009,Graham,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.008901114,TON
+2298138,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2306193,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.42795600000000006,TON
+2307529,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2307991,AZ,4023,Santa Cruz,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.2761994679,TON
+2308432,AZ,4027,Yuma,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.001291225,TON
+2311553,AZ,4021,Pinal,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.04160819,TON
+2316523,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.6134536,TON
+2320077,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,21.75658945,TON
+2331611,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2341970,AZ,4021,Pinal,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.003402778,TON
+2346212,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.8028360999999999,TON
+2353686,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,22.508657999999997,TON
+2355013,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.1430076,TON
+2356019,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.120799265,TON
+2358030,AZ,4012,La Paz,Commercial Cooking,Carbon Monoxide,CAP,7.000911,TON
+2361183,AZ,4012,La Paz,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.01219328,TON
+2364158,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.4016893,TON
+2367438,AZ,4009,Graham,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,10.36929,TON
+2373072,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.5498586,TON
+2375603,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.03074658,TON
+2376468,AZ,4025,Yavapai,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,77.912664407,TON
+2378437,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.8924741471,TON
+2387113,AZ,4025,Yavapai,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.2576927,TON
+2390298,AZ,4019,Pima,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,23.17954,TON
+2391134,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.04759704,TON
+2392970,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.3242811,TON
+2393391,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.0002081913,TON
+2394356,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.4684893,TON
+2395493,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+2395887,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.0161947364,TON
+2403091,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+2407085,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.12165799999999999,TON
+2409266,AZ,4011,Greenlee,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,0.1137434,TON
+2417391,AZ,4012,La Paz,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.7029330000000003,TON
+2423008,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.07719578,TON
+2423935,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,2.303145,TON
+2424171,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.006946565,TON
+2425340,AZ,4001,Apache,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.0002691225,TON
+2428690,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,3.3090349999999997,TON
+2432637,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.02943069,TON
+2433292,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,1.085174,TON
+2434924,AZ,4007,Gila,Fuel Comb - Residential - Other,Ammonia,CAP,0.02502993,TON
+2443069,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.010895588000000001,TON
+2444899,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2447368,AZ,4007,Gila,Commercial Cooking,Volatile Organic Compounds,CAP,7.01507921,TON
+2462034,AZ,4001,Apache,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.9496478404,TON
+2466906,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.01972863,TON
+2470329,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01447384,TON
+2476962,AZ,4012,La Paz,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.008738516,TON
+2479533,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+2481978,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+2482251,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,9.43447,TON
+2487415,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.04101279,TON
+2490400,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,1.7303389999999998,TON
+2500557,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+2509837,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.02582693,TON
+2513506,AZ,4019,Pima,Commercial Cooking,Volatile Organic Compounds,CAP,94.28463609999999,TON
+2515417,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2521314,AZ,4015,Mohave,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.8808072,TON
+2521858,AZ,4027,Yuma,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,4.173036,TON
+2522089,AZ,4011,Greenlee,Commercial Cooking,Carbon Monoxide,CAP,1.7016941000000003,TON
+2531482,AZ,4007,Gila,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.02657023,TON
+2544485,AZ,4019,Pima,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,2.528677,TON
+2547975,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,11.1537,TON
+2550141,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,4.2695794000000005,TON
+2552906,AZ,4012,La Paz,Fuel Comb - Residential - Other,Ammonia,CAP,0.03302456,TON
+2561206,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2565948,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.001340796,TON
+2569354,AZ,4013,Maricopa,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,1353.50939096,TON
+2571206,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,5.42641591,TON
+2578630,AZ,4007,Gila,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.07051019,TON
+2579242,AZ,4025,Yavapai,Fuel Comb - Residential - Oil,Ammonia,CAP,0.001120915,TON
+2598207,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.21125729999999998,TON
+2605955,AZ,4015,Mohave,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,11.28238,TON
+2611515,AZ,4003,Cochise,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.7927875105,TON
+2617612,AZ,4017,Navajo,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,53.838015828,TON
+2621895,AZ,4019,Pima,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,1.8122189999999998,TON
+2635051,AZ,4017,Navajo,Commercial Cooking,Volatile Organic Compounds,CAP,12.55222544,TON
+2653095,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2653452,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,28.761907399999995,TON
+2654892,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.09263494,TON
+2657054,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2665637,AZ,4009,Graham,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,29.317046899999998,TON
+2675594,AZ,4025,Yavapai,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.002667778,TON
+2678201,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,4.3645329,TON
+2679110,AZ,4003,Cochise,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.9877600000000001,TON
+2683533,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.001975359,TON
+2684044,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.1291692,TON
+2689087,AZ,4019,Pima,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,28.54036131,TON
+2694493,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2702626,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,2.322603,TON
+2704044,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2708449,AZ,4009,Graham,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,64.344001038,TON
+2715073,AZ,4017,Navajo,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.001441176,TON
+2718279,AZ,4011,Greenlee,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,0.401095,TON
+2721701,AZ,4015,Mohave,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,53.0272,TON
+2723761,AZ,4007,Gila,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,24.976868865,TON
+2730791,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.3175217,TON
+2730793,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.017005283,TON
+2732664,AZ,4023,Santa Cruz,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,1.5350267419999999,TON
+2737584,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.13787639999999998,TON
+2749697,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2753138,AZ,4027,Yuma,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,10.14746,TON
+2759564,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.0002081913,TON
+2760437,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.01596537,TON
+2773070,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+2774016,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.03025425,TON
+2774280,AZ,4009,Graham,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.0038888890000000004,TON
+2775386,AZ,4023,Santa Cruz,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.0258564,TON
+2784676,AZ,4003,Cochise,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,36.968736953000004,TON
+2791828,AZ,4001,Apache,Fuel Comb - Residential - Oil,Ammonia,CAP,0.000377451,TON
+2794937,AZ,4019,Pima,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,168.5785,TON
+2803875,AZ,4003,Cochise,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,270.34575896,TON
+2805879,AZ,4001,Apache,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.1853694,TON
+2813508,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.47727520000000007,TON
+2814634,AZ,4011,Greenlee,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.0,TON
+2817291,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.002165189,TON
+2819975,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.08412123,TON
+2823950,AZ,4012,La Paz,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,49.120977503,TON
+2830455,AZ,4001,Apache,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.001887255,TON
+2832060,AZ,4021,Pinal,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.04804037,TON
+2833046,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,2.367436,TON
+2835142,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.3052037,TON
+2836298,AZ,4005,Coconino,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,45.30147,TON
+2838088,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2841459,AZ,4027,Yuma,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,48.554691505,TON
+2859796,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,5.99092525,TON
+2871816,AZ,4023,Santa Cruz,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.02135964,TON
+2878304,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,2.31031768,TON
+2887017,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,1.4243947,TON
+2889676,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2893484,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.001675995,TON
+2895172,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.01693474,TON
+2901010,AZ,4012,La Paz,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,0.8324304821999999,TON
+2916445,AZ,4007,Gila,Fuel Comb - Residential - Wood,Ammonia,CAP,1.3286076057,TON
+2916446,AZ,4025,Yavapai,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,78.027715407,TON
+2916447,AZ,4025,Yavapai,Fuel Comb - Residential - Wood,Ammonia,CAP,4.7295784295,TON
+2924853,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.06175662,TON
+2925884,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2925955,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.18265379999999998,TON
+2928070,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,3.329217,TON
+2930961,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.21426729999999997,TON
+2932326,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.07775133,TON
+2952263,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.00313618,TON
+2954201,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2957633,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.36332990000000004,TON
+2959306,AZ,4021,Pinal,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.003045343,TON
+2967678,AZ,4009,Graham,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.005522221999999999,TON
+2968542,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.09864317,TON
+2972791,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.06580707,TON
+2974374,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+2988144,AZ,4003,Cochise,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,7.195183999999999,TON
+2993927,AZ,4023,Santa Cruz,Fuel Comb - Residential - Oil,Ammonia,CAP,0.00035457519999999995,TON
+2998152,AZ,4019,Pima,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,231.05005805,TON
+3001044,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,1.94870776,TON
+3005347,AZ,4007,Gila,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.01029412,TON
+3005776,AZ,4025,Yavapai,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.4158622,TON
+3005867,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,1.041153,TON
+3006362,AZ,4009,Graham,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.013999999999999999,TON
+3008574,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.0354598,TON
+3012949,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+3017213,AZ,4012,La Paz,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,1.91028,TON
+3024356,AZ,4003,Cochise,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.0009215408,TON
+3025198,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,5.910132,TON
+3032397,AZ,4001,Apache,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,15.223525,TON
+3044753,AZ,4009,Graham,Fuel Comb - Residential - Oil,Ammonia,CAP,0.0007777778,TON
+3058118,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3074802,AZ,4021,Pinal,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.02573529,TON
+3084545,AZ,4012,La Paz,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.00013611110000000002,TON
+3088127,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.016633000000000002,TON
+3108173,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.04521556,TON
+3116156,AZ,4019,Pima,Fuel Comb - Residential - Other,Ammonia,CAP,0.1357743,TON
+3127630,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+3134087,AZ,4001,Apache,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,1.348141,TON
+3140362,AZ,4005,Coconino,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.002001634,TON
+3148034,AZ,4025,Yavapai,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.7381470734,TON
+3157663,AZ,4017,Navajo,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.2605231432,TON
+3165549,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,1062.22368,TON
+3190636,AZ,4021,Pinal,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.01015114,TON
+3204233,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,6.006264,TON
+3204560,AZ,4017,Navajo,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.08219794,TON
+3207707,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,12.806509806330002,TON
+3217036,AZ,4013,Maricopa,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,793.8169,TON
+3217358,AZ,4005,Coconino,Fuel Comb - Residential - Oil,Ammonia,CAP,0.0004003268,TON
+3221031,AZ,4005,Coconino,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,127.52694299999999,TON
+3223155,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.21274770000000004,TON
+3223235,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,2.001309,TON
+3224531,AZ,4017,Navajo,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.1021387,TON
+3224924,AZ,4005,Coconino,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,7.853401637,TON
+3227294,AZ,4005,Coconino,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,4.413976,TON
+3229084,AZ,4019,Pima,Fuel Comb - Residential - Wood,Ammonia,CAP,14.380531227,TON
+3243861,AZ,4001,Apache,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.5891900000000003,TON
+3251948,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,6.471165,TON
+3255681,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+3262469,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+3284048,AZ,4015,Mohave,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,64.58677639,TON
+3290739,AZ,4013,Maricopa,Fuel Comb - Residential - Other,Ammonia,CAP,0.1544684,TON
+3296692,AZ,4011,Greenlee,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.01561477,TON
+3300025,AZ,4015,Mohave,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.29334190000000004,TON
+3303416,AZ,4015,Mohave,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,64.75789139,TON
+3311313,AZ,4027,Yuma,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.0014427779999999998,TON
+3316223,AZ,4011,Greenlee,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.0,TON
+3316260,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.02658278,TON
+3319435,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.05799925,TON
+3324256,AZ,4012,La Paz,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,9.531397,TON
+3329246,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,13.148229999999998,TON
+3337248,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.04374109,TON
+3351324,AZ,4001,Apache,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.002679902,TON
+3357323,AZ,4005,Coconino,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.2072301,TON
+3359749,AZ,4001,Apache,Fuel Comb - Residential - Other,Ammonia,CAP,0.03163484,TON
+3361045,AZ,4012,La Paz,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,17.7865983,TON
+3369097,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3373298,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.6845388000000001,TON
+3373977,AZ,4012,La Paz,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.0004060458,TON
+3375500,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0008579163,TON
+3377327,AZ,4015,Mohave,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,22.564770000000003,TON
+3377475,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.05465314,TON
+3378473,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.01490414,TON
+3386337,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.084667302,TON
+3388730,AZ,4007,Gila,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,15.413860000000001,TON
+3393522,AZ,4015,Mohave,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.0006116422,TON
+3393907,AZ,4023,Santa Cruz,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.02985353,TON
+3395209,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.11923239999999999,TON
+3401501,AZ,4025,Yavapai,Commercial Cooking,Carbon Monoxide,CAP,88.768476,TON
+3404090,AZ,4011,Greenlee,Commercial Cooking,Volatile Organic Compounds,CAP,0.6036739725,TON
+3408413,AZ,4015,Mohave,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,6.416104,TON
+3408771,AZ,4009,Graham,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,4.4124620000000006,TON
+3409291,AZ,4009,Graham,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.08159975,TON
+3414571,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.1864739,TON
+3414882,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+3418740,AZ,4012,La Paz,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,16.4520067,TON
+3429269,AZ,4007,Gila,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.002859477,TON
+3432414,AZ,4003,Cochise,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.093321,TON
+3433178,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.001072395,TON
+3434412,AZ,4005,Coconino,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,9.63861,TON
+3435480,AZ,4023,Santa Cruz,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.06070236,TON
+3465966,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,2.3329433999999996,TON
+3467837,AZ,4013,Maricopa,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,3.6312900000000004,TON
+3472527,AZ,4003,Cochise,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,2.6940720000000002,TON
+3482509,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+3494936,AZ,4025,Yavapai,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,570.57791215,TON
+3503287,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+3503605,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3508882,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,2.851285,TON
+3509006,AZ,4013,Maricopa,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,1008.59,TON
+3513466,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3518325,AZ,4019,Pima,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1645.05040749,TON
+3525766,AZ,4005,Coconino,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.000285433,TON
+3528828,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.5843655,TON
+3537649,AZ,4012,La Paz,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.8128852,TON
+3541335,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3549490,AZ,4003,Cochise,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,9.796627,TON
+3562269,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3563503,AZ,4009,Graham,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.0077093330000000005,TON
+3565907,AZ,4007,Gila,Commercial Cooking,Carbon Monoxide,CAP,19.301034,TON
+3570312,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.02011433,TON
+3581591,AZ,4017,Navajo,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,7.11626528,TON
+3583434,AZ,4007,Gila,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.001218137,TON
+3583693,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01169788,TON
+3590846,AZ,4017,Navajo,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,3.9284120000000002,TON
+3600596,AZ,4027,Yuma,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.01091176,TON
+3601236,AZ,4015,Mohave,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.08321638,TON
+3603309,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3604470,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.03113966,TON
+3607823,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.28037449999999997,TON
+3609109,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.33034450000000004,TON
+3612293,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.1279406,TON
+3622099,AZ,4023,Santa Cruz,Commercial Cooking,Carbon Monoxide,CAP,14.001821,TON
+3623279,AZ,4013,Maricopa,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.13555899999999999,TON
+3624126,AZ,4023,Santa Cruz,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,7.029944,TON
+3627273,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3630693,AZ,4007,Gila,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.02194932,TON
+3645877,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.01743035,TON
+3649111,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+3651312,AZ,4011,Greenlee,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,0.5160784034,TON
+3657897,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3678001,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,158.59559,TON
+3680990,AZ,4021,Pinal,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,3.208052,TON
+3698565,AZ,4001,Apache,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.0008983333000000001,TON
+3699149,AZ,4013,Maricopa,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,5.066916,TON
+3701016,AZ,4007,Gila,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,48.926065,TON
+3702117,AZ,4015,Mohave,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.002041667,TON
+3704818,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.03318569,TON
+3704820,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.000166553,TON
+3710135,AZ,4012,La Paz,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.03505684,TON
+3715990,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3722611,AZ,4005,Coconino,Commercial Cooking,Volatile Organic Compounds,CAP,19.71299694,TON
+3738353,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3738474,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+3745516,AZ,4021,Pinal,Commercial Cooking,Carbon Monoxide,CAP,54.216314000000004,TON
+3757090,AZ,4023,Santa Cruz,Commercial Cooking,Volatile Organic Compounds,CAP,5.07916885,TON
+3757293,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+3778177,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.06707735,TON
+3786552,AZ,4027,Yuma,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,42.315733062,TON
+3788213,AZ,4009,Graham,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,1.0602782864,TON
+3788215,AZ,4021,Pinal,Fuel Comb - Residential - Oil,Ammonia,CAP,0.001429739,TON
+3798038,AZ,4013,Maricopa,Commercial Cooking,Volatile Organic Compounds,CAP,152.74,TON
+3810282,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,35.0006614,TON
+3819674,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.01066301,TON
+3821602,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.397897,TON
+3828041,AZ,4001,Apache,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.02022212,TON
+3831926,AZ,4027,Yuma,Fuel Comb - Residential - Oil,Ammonia,CAP,0.0006062092,TON
+3834786,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3836206,AZ,4019,Pima,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.02208889,TON
+3838804,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.5717584,TON
+3844116,AZ,4011,Greenlee,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.02785492,TON
+3845080,AZ,4027,Yuma,Commercial Cooking,Carbon Monoxide,CAP,40.4979,TON
+3853830,AZ,4005,Coconino,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.00284232,TON
+3853905,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+3858375,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01015915,TON
+3859565,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,892.30572,TON
+3860122,AZ,4017,Navajo,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.07119236,TON
+3871980,AZ,4027,Yuma,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,14.71544,TON
+3875046,AZ,4023,Santa Cruz,Fuel Comb - Residential - Other,Ammonia,CAP,0.02435748,TON
+3877125,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.8888469999999999,TON
+3892859,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3909546,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.08989673,TON
+3910474,AZ,4027,Yuma,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.05412396,TON
+3911394,AZ,4007,Gila,Fuel Comb - Residential - Oil,Ammonia,CAP,0.0005718954,TON
+3915271,AZ,4005,Coconino,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,137.859077,TON
+3918740,AZ,4017,Navajo,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,18.46354,TON
+3918861,AZ,4001,Apache,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.02774132,TON
+3921076,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.39319632460000004,TON
+3926886,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.02690683,TON
+3928196,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.1666546,TON
+3929474,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3931021,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+3940315,AZ,4015,Mohave,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.3697906891,TON
+3950397,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+3953191,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.0025560360000000002,TON
+3956303,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,6.853860000000001,TON
+3957968,AZ,4021,Pinal,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,136.096443,TON
+3968537,AZ,4009,Graham,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.04743397,TON
+3972542,AZ,4015,Mohave,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.001827206,TON
+3978999,AZ,4015,Mohave,Fuel Comb - Residential - Wood,Ammonia,CAP,3.7758515261000003,TON
+3987016,AZ,4007,Gila,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.9018745000000001,TON
+3988946,AZ,4003,Cochise,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.003076111,TON
+3989967,AZ,4021,Pinal,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,11.3126,TON
+3995339,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.38316890000000003,TON
+3995340,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.3301639,TON
+3995888,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.01242012,TON
+3997585,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.01763971,TON
+3998685,AZ,4011,Greenlee,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.2553368,TON
+4004677,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+4012626,AZ,4003,Cochise,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,46.04415,TON
+4012894,AZ,4005,Coconino,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.06609901,TON
+4014371,AZ,4023,Santa Cruz,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,2.023412,TON
+4015979,AZ,4023,Santa Cruz,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.00025281209999999997,TON
+4015981,AZ,4009,Graham,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,31.728585600000002,TON
+4017981,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.14882030300000001,TON
+4029813,AZ,4012,La Paz,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.001029412,TON
+4035109,AZ,4005,Coconino,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,65.10725568,TON
+4039185,AZ,4012,La Paz,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.11177169999999999,TON
+4043563,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4048271,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.8521488000000002,TON
+4053465,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.009640000000000001,TON
+4061994,AZ,4021,Pinal,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,12.685311487,TON
+4067685,AZ,4003,Cochise,Fuel Comb - Residential - Other,Ammonia,CAP,0.08791109,TON
+4067686,AZ,4003,Cochise,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,25.37249,TON
+4070185,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,29.343140000000002,TON
+4075119,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,7.85610565,TON
+4075345,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.27793254367,TON
+4075558,AZ,4011,Greenlee,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,3.5701860246,TON
+4077354,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4081886,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+4082878,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,1.3802864,TON
+4087397,AZ,4012,La Paz,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0001218137,TON
+4094185,AZ,4015,Mohave,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,73.77161132399999,TON
+4101314,AZ,4001,Apache,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,38.272797589,TON
+4103140,AZ,4009,Graham,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,2.2062310000000003,TON
+4104833,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,2.115434,TON
+4110121,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.04796092,TON
+4120377,AZ,4001,Apache,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,4.8939258930000005,TON
+4123729,AZ,4003,Cochise,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,88.98465440000001,TON
+4125744,AZ,4019,Pima,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,2.19152,TON
+4130295,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.9350578000000002,TON
+4138648,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,0.4109407,TON
+4138887,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4140477,AZ,4027,Yuma,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.004304085,TON
+4168023,AZ,4023,Santa Cruz,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.04350336,TON
+4169650,AZ,4023,Santa Cruz,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.006382353,TON
+4173430,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.4003624,TON
+4173813,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4176004,AZ,4013,Maricopa,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.0034389570000000003,TON
+4180280,AZ,4001,Apache,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.006794118,TON
+4181496,AZ,4025,Yavapai,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,19.34243,TON
+4184175,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.004869712,TON
+4197634,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4198443,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4199020,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4211308,AZ,4025,Yavapai,Commercial Cooking,Volatile Organic Compounds,CAP,32.2027609,TON
+4212235,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4216967,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4221552,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.5898443,TON
+4222335,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.012014138999999998,TON
+4226694,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+4233965,AZ,4013,Maricopa,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.17436970000000002,TON
+4240882,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,2.039941,TON
+4242021,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.7566064,TON
+4246950,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.082050183,TON
+4250826,AZ,4012,La Paz,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.4064426,TON
+4276067,AZ,4015,Mohave,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.06874397,TON
+4280699,AZ,4011,Greenlee,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.0012186789999999999,TON
+4287828,AZ,4005,Coconino,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,15.56507,TON
+4296890,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4306730,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.8034113668999999,TON
+4312890,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,17.648629999999997,TON
+4312891,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.1470719,TON
+4314672,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4321133,AZ,4003,Cochise,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.2106275,TON
+4323636,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+4330974,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+4333096,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.870613,TON
+4335629,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4335667,AZ,4023,Santa Cruz,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,32.9040033,TON
+4337376,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.01939527,TON
+4341706,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.01895388,TON
+4342536,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+4342538,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4343430,AZ,4013,Maricopa,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,19.859266075,TON
+4361159,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.02047922,TON
+4374908,AZ,4025,Yavapai,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,5.319168,TON
+4375550,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,3.03842,TON
+4376151,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.00570449,TON
+4392374,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4394992,AZ,4013,Maricopa,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.1639318,TON
+4405538,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4405738,AZ,4009,Graham,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.18888157985999998,TON
+4408603,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.008267237,TON
+4410922,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,23.3197,TON
+4412823,AZ,4003,Cochise,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.00275299,TON
+4417995,AZ,4005,Coconino,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.2506039,TON
+4439986,AZ,4009,Graham,Commercial Cooking,Carbon Monoxide,CAP,12.3768261,TON
+4440006,AZ,4001,Apache,Commercial Cooking,Carbon Monoxide,CAP,5.9175804,TON
+4443102,AZ,4025,Yavapai,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,208.591272,TON
+4469562,AZ,4009,Graham,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.6067136,TON
+4475124,AZ,4001,Apache,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.26715359999999994,TON
+4477599,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.0,TON
+4477600,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4478506,AZ,4005,Coconino,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.2018480683,TON
+4478509,AZ,4007,Gila,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,22.053600056,TON
+4480585,AZ,4011,Greenlee,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,3.5930567246,TON
+4482483,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4486374,AZ,4021,Pinal,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,98.62339102600001,TON
+4489081,AZ,4027,Yuma,Fuel Comb - Residential - Other,Ammonia,CAP,0.05098634,TON
+4491083,AZ,4009,Graham,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0016566670000000001,TON
+4494274,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.0,TON
+4495962,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.06692221,TON
+4505661,AZ,4021,Pinal,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.9529492287,TON
+4509657,AZ,4003,Cochise,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,82.3557157,TON
+4512142,AZ,4011,Greenlee,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4512179,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.0025560360000000002,TON
+4527034,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.24517289999999997,TON
+4527482,AZ,4025,Yavapai,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.002387549,TON
+4528731,AZ,4003,Cochise,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.006462418,TON
+4529794,AZ,4021,Pinal,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.4404036,TON
+4530792,AZ,4019,Pima,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.055999999999999994,TON
+4546148,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,1.4449285,TON
+4550297,AZ,4019,Pima,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.0074044440000000005,TON
+4554621,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.03123257,TON
+4555275,AZ,4017,Navajo,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.8084543000000001,TON
+4564820,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,34.011140000000005,TON
+4565536,AZ,4017,Navajo,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,63.200581001,TON
+4575630,AZ,4013,Maricopa,Fuel Comb - Residential - Wood,Ammonia,CAP,59.618910483,TON
+4582486,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.094118269,TON
+4584331,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,28.569359999999996,TON
+4593921,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.03603758,TON
+4596632,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0020448289999999997,TON
+4603512,AZ,4005,Coconino,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,388.14993161,TON
+4603525,AZ,4027,Yuma,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.0447111,TON
+4607213,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.01711978,TON
+4609285,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.01021554,TON
+4618162,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4621633,AZ,4025,Yavapai,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.1843743,TON
+4622349,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+4623514,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+4627363,AZ,4007,Gila,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,6.559087,TON
+4629398,AZ,4001,Apache,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.6740706,TON
+4640323,AZ,4003,Cochise,Fuel Comb - Residential - Wood,Ammonia,CAP,2.2690684473,TON
+4645035,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.02320884,TON
+4664860,AZ,4012,La Paz,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.13445769627,TON
+4666525,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.386973,TON
+4683164,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0119326156,TON
+4688561,AZ,4025,Yavapai,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.5802728,TON
+4689640,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+4693203,AZ,4025,Yavapai,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.007958497,TON
+4694371,AZ,4001,Apache,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,3.168132,TON
+4694538,AZ,4015,Mohave,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.2425712,TON
+4695717,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.7353597,TON
+4700127,AZ,4005,Coconino,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4701534,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,5.045262,TON
+4703163,AZ,4015,Mohave,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,3.102655,TON
+4707325,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.727448,TON
+4709006,AZ,4012,La Paz,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.0002859477,TON
+4731481,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.864642,TON
+4733431,AZ,4009,Graham,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.0018511110000000001,TON
+4741641,AZ,4025,Yavapai,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,9.37347605,TON
+4746650,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.002395359,TON
+4754040,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4758490,AZ,4027,Yuma,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.06249095,TON
+4758899,AZ,4017,Navajo,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.0001905556,TON
+4777141,AZ,4023,Santa Cruz,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,12.64386356,TON
+4778242,AZ,4015,Mohave,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.01935502,TON
+4779946,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0,TON
+4780376,AZ,4012,La Paz,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,6.4570526526,TON
+4781549,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.5000446,TON
+4784870,AZ,4019,Pima,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.01555556,TON
+4785196,AZ,4007,Gila,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+4786933,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.003593038,TON
+4787355,AZ,4027,Yuma,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.4799858,TON
+4787694,AZ,4017,Navajo,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,5.7086599999999997e-05,TON
+4793117,AZ,4021,Pinal,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,2.6237381,TON
+4796953,AZ,4025,Yavapai,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.02757529,TON
+4808526,AZ,4009,Graham,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,8.7536171421,TON
+4813009,AZ,4009,Graham,Commercial Cooking,Volatile Organic Compounds,CAP,4.45468638,TON
+4822442,AZ,4015,Mohave,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,166.487083,TON
+4824012,AZ,4023,Santa Cruz,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0007552450999999999,TON
+4833028,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.0,TON
+4836158,AZ,4012,La Paz,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,2.54434958,TON
+4849285,AZ,4019,Pima,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0,TON
+4858518,AZ,4001,Apache,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.01752584,TON
+4864459,AZ,4015,Mohave,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,8.194906644,TON
+4867011,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4868553,AZ,4023,Santa Cruz,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.002994198,TON
+4886428,AZ,4011,Greenlee,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.001348583,TON
+4892915,AZ,4019,Pima,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,4.648557556,TON
+4903655,AZ,4019,Pima,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.5255459999999998,TON
+4904963,AZ,4009,Graham,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.3763417,TON
+4918764,AZ,4011,Greenlee,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,4.08907457,TON
+4928704,AZ,4003,Cochise,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,1.150133,TON
+4934408,AZ,4013,Maricopa,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON

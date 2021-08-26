@@ -1,0 +1,13 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,DE,Kent,2.73,2.77,2.79,2.79,2.77,2.75,2.69,2.67,2.63,2.63
+1,Avg household size of renter-occupied unit,DE,Kent,2.48,2.51,2.58,2.6,2.67,2.63,2.64,2.6,2.62,2.57
+36,Owner-Occupied,DE,Kent,114400,115395,117556,118025,116345,116072,116028,117838,117116,119327
+37,Renter-Occupied,DE,Kent,38644,40014,40555,42075,45963,48275,50224,50076,52418,52311
+0,Avg household size of owner-occupied unit,DE,New Castle,2.68,2.67,2.68,2.7,2.71,2.71,2.73,2.74,2.73,2.71
+1,Avg household size of renter-occupied unit,DE,New Castle,2.4,2.42,2.44,2.43,2.42,2.46,2.45,2.46,2.45,2.43
+36,Owner-Occupied,DE,New Castle,378979,376676,377183,379775,379353,378730,379235,380246,378501,379002
+37,Renter-Occupied,DE,New Castle,136717,142970,145779,146273,149629,153750,155732,157763,159768,160265
+0,Avg household size of owner-occupied unit,DE,Sussex,2.4,2.43,2.45,2.46,2.45,2.44,2.43,2.41,2.38,2.36
+1,Avg household size of renter-occupied unit,DE,Sussex,2.81,2.96,3.02,3.07,2.95,2.8,2.73,2.65,2.6,2.64
+36,Owner-Occupied,DE,Sussex,145455,146433,146848,148221,150098,153478,157556,164983,169196,173566
+37,Renter-Occupied,DE,Sussex,42516,44850,47537,49312,50657,50874,50768,47719,47445,47809

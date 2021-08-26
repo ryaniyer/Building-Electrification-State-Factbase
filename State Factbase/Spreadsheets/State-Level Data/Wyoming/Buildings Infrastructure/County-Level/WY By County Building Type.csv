@@ -1,0 +1,231 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40,Units in Structure: 1 ATTACHED,WY,Albany,952,1058,1253,1230,1008,981,906,921,890,1194
+41,Units in Structure: 1 DETACHED,WY,Albany,8914,9044,8988,9305,9489,9430,9639,9819,9760,9729
+42,Units in Structure: 10-19,WY,Albany,806,1083,1103,1235,1464,1768,1713,1780,1844,1600
+43,Units in Structure: 2,WY,Albany,1302,1114,1073,972,748,713,880,839,977,1071
+44,Units in Structure: 20-49,WY,Albany,544,486,556,580,653,721,587,559,544,499
+45,Units in Structure: 3-4,WY,Albany,1711,1719,1554,1540,1623,1658,1598,1770,1777,1782
+46,Units in Structure: 5-9,WY,Albany,1230,1270,1552,1551,1537,1536,1650,1574,1522,1439
+47,Units in Structure: 50+,WY,Albany,184,182,212,168,145,163,158,153,204,181
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Albany,0,13,40,48,55,50,51,11,16,6
+49,Units in Structure: Mobile Home,WY,Albany,1965,1840,1673,1537,1651,1517,1513,1622,1628,1765
+40,Units in Structure: 1 ATTACHED,WY,Big Horn,55,39,46,54,51,35,54,37,59,57
+41,Units in Structure: 1 DETACHED,WY,Big Horn,4227,4196,4230,4246,4175,4122,4199,4231,4233,4227
+42,Units in Structure: 10-19,WY,Big Horn,19,40,51,39,48,55,42,26,25,34
+43,Units in Structure: 2,WY,Big Horn,134,141,152,141,150,127,133,137,122,93
+44,Units in Structure: 20-49,WY,Big Horn,5,9,11,5,6,5,0,0,0,0
+45,Units in Structure: 3-4,WY,Big Horn,75,86,66,61,66,68,77,98,92,95
+46,Units in Structure: 5-9,WY,Big Horn,106,90,105,101,150,159,152,164,127,104
+47,Units in Structure: 50+,WY,Big Horn,0,0,7,4,4,5,4,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Big Horn,0,0,0,6,7,30,30,31,26,31
+49,Units in Structure: Mobile Home,WY,Big Horn,705,759,696,715,718,767,685,730,777,833
+40,Units in Structure: 1 ATTACHED,WY,Campbell,969,826,907,917,1071,1180,1438,1489,1350,1297
+41,Units in Structure: 1 DETACHED,WY,Campbell,8342,9166,9815,10372,10598,10988,10519,10492,10517,11083
+42,Units in Structure: 10-19,WY,Campbell,587,544,495,678,780,863,937,908,796,624
+43,Units in Structure: 2,WY,Campbell,473,397,326,327,293,251,281,294,276,275
+44,Units in Structure: 20-49,WY,Campbell,848,929,877,924,870,768,870,880,898,968
+45,Units in Structure: 3-4,WY,Campbell,849,869,918,818,818,757,789,641,887,805
+46,Units in Structure: 5-9,WY,Campbell,616,696,645,664,711,706,624,807,784,792
+47,Units in Structure: 50+,WY,Campbell,121,111,108,83,94,47,84,85,134,133
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Campbell,100,90,87,76,125,183,129,123,109,46
+49,Units in Structure: Mobile Home,WY,Campbell,4610,4710,4641,4237,4026,3782,3955,4315,4407,4241
+40,Units in Structure: 1 ATTACHED,WY,Carbon,153,130,191,218,246,223,241,125,67,61
+41,Units in Structure: 1 DETACHED,WY,Carbon,6372,6279,6132,6103,5990,5898,6021,6266,6209,6317
+42,Units in Structure: 10-19,WY,Carbon,128,118,127,31,75,72,54,93,106,81
+43,Units in Structure: 2,WY,Carbon,107,132,171,193,194,172,160,90,97,48
+44,Units in Structure: 20-49,WY,Carbon,209,188,169,195,175,234,193,183,188,126
+45,Units in Structure: 3-4,WY,Carbon,314,261,168,130,150,110,160,195,245,264
+46,Units in Structure: 5-9,WY,Carbon,247,233,215,244,136,238,199,226,246,329
+47,Units in Structure: 50+,WY,Carbon,5,9,25,24,43,34,31,46,90,82
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Carbon,16,21,17,17,19,8,0,0,0,3
+49,Units in Structure: Mobile Home,WY,Carbon,981,1175,1365,1402,1532,1570,1512,1510,1507,1492
+40,Units in Structure: 1 ATTACHED,WY,Converse,218,260,229,250,267,384,329,398,316,278
+41,Units in Structure: 1 DETACHED,WY,Converse,4110,4021,4087,4110,4058,3997,4124,4137,4117,4326
+42,Units in Structure: 10-19,WY,Converse,145,149,104,126,188,181,163,195,282,192
+43,Units in Structure: 2,WY,Converse,70,105,154,150,128,136,93,43,76,88
+44,Units in Structure: 20-49,WY,Converse,100,76,57,29,34,46,60,144,149,161
+45,Units in Structure: 3-4,WY,Converse,182,282,303,316,312,299,257,245,218,220
+46,Units in Structure: 5-9,WY,Converse,288,258,224,198,254,204,227,184,116,113
+47,Units in Structure: 50+,WY,Converse,31,47,78,78,82,57,70,16,15,26
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Converse,0,0,0,10,17,31,29,50,33,29
+49,Units in Structure: Mobile Home,WY,Converse,1101,1128,1130,1138,1109,1143,1154,1211,1332,1245
+40,Units in Structure: 1 ATTACHED,WY,Crook,2,4,6,52,46,47,55,53,29,30
+41,Units in Structure: 1 DETACHED,WY,Crook,2450,2465,2463,2439,2445,2405,2378,2492,2592,2631
+42,Units in Structure: 10-19,WY,Crook,23,15,13,11,19,13,13,15,23,27
+43,Units in Structure: 2,WY,Crook,10,11,10,16,17,16,12,17,13,12
+44,Units in Structure: 20-49,WY,Crook,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,WY,Crook,20,29,39,71,80,100,93,111,73,62
+46,Units in Structure: 5-9,WY,Crook,43,54,45,62,79,70,71,72,57,47
+47,Units in Structure: 50+,WY,Crook,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Crook,0,0,8,8,7,5,5,3,3,5
+49,Units in Structure: Mobile Home,WY,Crook,957,985,990,915,897,931,946,874,860,842
+40,Units in Structure: 1 ATTACHED,WY,Fremont,385,453,435,515,533,536,490,522,544,561
+41,Units in Structure: 1 DETACHED,WY,Fremont,12335,12278,12377,12261,12372,12353,12260,12722,12783,12777
+42,Units in Structure: 10-19,WY,Fremont,221,277,264,230,227,175,196,149,185,220
+43,Units in Structure: 2,WY,Fremont,262,275,287,222,232,293,305,242,278,330
+44,Units in Structure: 20-49,WY,Fremont,156,165,213,186,202,203,216,213,190,186
+45,Units in Structure: 3-4,WY,Fremont,443,316,305,360,444,460,467,471,439,390
+46,Units in Structure: 5-9,WY,Fremont,447,690,685,668,676,543,434,384,336,337
+47,Units in Structure: 50+,WY,Fremont,87,101,123,108,113,98,102,81,119,160
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Fremont,15,15,19,19,12,10,14,9,9,18
+49,Units in Structure: Mobile Home,WY,Fremont,3143,3096,3002,3129,2920,3052,3219,3157,3100,3031
+40,Units in Structure: 1 ATTACHED,WY,Goshen,78,98,108,99,103,120,124,116,115,139
+41,Units in Structure: 1 DETACHED,WY,Goshen,4734,4791,4798,4864,4833,4735,4710,4783,4711,4560
+42,Units in Structure: 10-19,WY,Goshen,51,71,81,27,41,46,75,93,124,120
+43,Units in Structure: 2,WY,Goshen,137,99,93,108,84,44,84,54,61,63
+44,Units in Structure: 20-49,WY,Goshen,63,62,79,123,121,147,120,100,95,117
+45,Units in Structure: 3-4,WY,Goshen,136,158,86,72,60,96,96,112,157,176
+46,Units in Structure: 5-9,WY,Goshen,66,33,15,25,33,48,49,56,47,65
+47,Units in Structure: 50+,WY,Goshen,0,0,11,6,3,4,32,24,27,29
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Goshen,6,16,10,0,0,0,0,0,0,4
+49,Units in Structure: Mobile Home,WY,Goshen,715,651,671,633,690,712,659,694,694,758
+40,Units in Structure: 1 ATTACHED,WY,Hot Springs,22,19,18,17,23,21,30,6,23,9
+41,Units in Structure: 1 DETACHED,WY,Hot Springs,1900,1753,1713,1733,1739,1758,1840,1846,1942,1885
+42,Units in Structure: 10-19,WY,Hot Springs,0,0,69,69,80,76,67,33,15,12
+43,Units in Structure: 2,WY,Hot Springs,105,92,80,45,33,32,36,57,53,50
+44,Units in Structure: 20-49,WY,Hot Springs,73,42,41,43,50,44,41,37,39,31
+45,Units in Structure: 3-4,WY,Hot Springs,51,50,70,145,128,101,116,120,71,131
+46,Units in Structure: 5-9,WY,Hot Springs,97,144,136,89,52,44,27,30,42,50
+47,Units in Structure: 50+,WY,Hot Springs,13,16,22,14,23,24,23,17,20,13
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Hot Springs,0,0,0,0,0,0,11,11,3,4
+49,Units in Structure: Mobile Home,WY,Hot Springs,388,411,444,425,454,471,416,432,357,426
+40,Units in Structure: 1 ATTACHED,WY,Johnson,82,127,77,66,64,83,55,52,126,153
+41,Units in Structure: 1 DETACHED,WY,Johnson,2961,3163,3238,3289,3395,3312,3381,3407,3462,3331
+42,Units in Structure: 10-19,WY,Johnson,50,50,58,15,55,34,32,44,65,33
+43,Units in Structure: 2,WY,Johnson,90,61,69,63,70,126,117,78,52,107
+44,Units in Structure: 20-49,WY,Johnson,51,52,44,79,110,113,86,104,74,35
+45,Units in Structure: 3-4,WY,Johnson,176,198,241,228,234,164,130,96,98,95
+46,Units in Structure: 5-9,WY,Johnson,102,100,101,81,48,78,64,53,54,91
+47,Units in Structure: 50+,WY,Johnson,73,79,73,74,59,57,65,66,63,59
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Johnson,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,WY,Johnson,789,640,610,630,509,565,606,698,624,716
+40,Units in Structure: 1 ATTACHED,WY,Laramie,3170,2909,2977,3043,2976,3095,3362,3423,3530,3784
+41,Units in Structure: 1 DETACHED,WY,Laramie,24756,25619,25713,25779,26246,26415,26584,27416,27915,28148
+42,Units in Structure: 10-19,WY,Laramie,671,586,823,873,906,800,894,687,667,593
+43,Units in Structure: 2,WY,Laramie,1118,1239,1311,1201,1212,1068,1077,1145,1084,1059
+44,Units in Structure: 20-49,WY,Laramie,466,567,570,591,643,560,596,723,938,972
+45,Units in Structure: 3-4,WY,Laramie,3051,2902,2858,2875,2831,2796,2814,2541,2443,2607
+46,Units in Structure: 5-9,WY,Laramie,1485,1352,1218,1265,1304,1467,1385,1490,1453,1456
+47,Units in Structure: 50+,WY,Laramie,577,674,686,733,662,704,722,797,850,966
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Laramie,57,57,54,29,15,31,21,29,14,32
+49,Units in Structure: Mobile Home,WY,Laramie,4323,4262,4174,4193,4176,4320,4116,4173,4028,3767
+40,Units in Structure: 1 ATTACHED,WY,Lincoln,96,113,116,133,185,217,238,245,289,313
+41,Units in Structure: 1 DETACHED,WY,Lincoln,6839,7131,7352,7438,7374,7374,7246,7285,7497,7506
+42,Units in Structure: 10-19,WY,Lincoln,65,50,51,29,4,4,11,78,72,107
+43,Units in Structure: 2,WY,Lincoln,121,142,170,218,200,180,193,160,89,85
+44,Units in Structure: 20-49,WY,Lincoln,162,131,123,91,77,52,32,27,33,25
+45,Units in Structure: 3-4,WY,Lincoln,215,235,233,172,250,235,193,211,239,192
+46,Units in Structure: 5-9,WY,Lincoln,97,106,113,159,143,160,144,111,56,56
+47,Units in Structure: 50+,WY,Lincoln,0,0,0,14,15,17,18,19,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Lincoln,39,26,14,11,10,2,2,1,2,3
+49,Units in Structure: Mobile Home,WY,Lincoln,1043,899,753,686,734,767,965,1097,1042,1134
+40,Units in Structure: 1 ATTACHED,WY,Natrona,836,773,756,646,715,742,856,874,1038,1085
+41,Units in Structure: 1 DETACHED,WY,Natrona,23260,23904,24075,24297,24180,23950,23713,24442,24354,24597
+42,Units in Structure: 10-19,WY,Natrona,846,856,704,840,777,895,939,991,962,1139
+43,Units in Structure: 2,WY,Natrona,676,737,769,728,793,661,642,611,797,615
+44,Units in Structure: 20-49,WY,Natrona,928,861,1004,982,1415,1589,1695,1741,1759,1741
+45,Units in Structure: 3-4,WY,Natrona,1429,1453,1597,1625,1500,1724,1845,1747,1791,1840
+46,Units in Structure: 5-9,WY,Natrona,576,628,669,857,967,1094,1092,1189,1239,1353
+47,Units in Structure: 50+,WY,Natrona,749,845,818,820,787,780,640,508,481,474
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Natrona,61,26,57,49,48,65,55,43,58,72
+49,Units in Structure: Mobile Home,WY,Natrona,3589,3351,3503,3519,3718,3816,4171,4239,4224,4063
+40,Units in Structure: 1 ATTACHED,WY,Niobrara,26,30,29,38,20,11,7,5,12,15
+41,Units in Structure: 1 DETACHED,WY,Niobrara,1023,1119,1067,1021,1025,1055,1014,1081,1098,1030
+42,Units in Structure: 10-19,WY,Niobrara,0,0,13,28,23,21,21,12,10,19
+43,Units in Structure: 2,WY,Niobrara,18,13,11,3,11,18,14,16,17,26
+44,Units in Structure: 20-49,WY,Niobrara,43,58,75,70,55,51,32,28,20,19
+45,Units in Structure: 3-4,WY,Niobrara,15,16,29,48,37,35,34,18,4,6
+46,Units in Structure: 5-9,WY,Niobrara,3,0,0,0,0,0,0,8,9,12
+47,Units in Structure: 50+,WY,Niobrara,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Niobrara,0,0,0,0,0,0,5,5,4,0
+49,Units in Structure: Mobile Home,WY,Niobrara,144,159,114,123,144,130,154,181,203,201
+40,Units in Structure: 1 ATTACHED,WY,Park,455,443,429,493,576,628,646,860,789,691
+41,Units in Structure: 1 DETACHED,WY,Park,9454,9746,9555,9974,10030,10083,10276,10538,10683,10895
+42,Units in Structure: 10-19,WY,Park,90,73,118,160,177,138,198,177,124,134
+43,Units in Structure: 2,WY,Park,512,551,646,513,467,362,314,218,198,141
+44,Units in Structure: 20-49,WY,Park,103,100,125,99,141,132,135,81,77,87
+45,Units in Structure: 3-4,WY,Park,411,414,400,385,455,567,612,595,590,518
+46,Units in Structure: 5-9,WY,Park,219,302,345,356,292,285,241,276,369,495
+47,Units in Structure: 50+,WY,Park,51,20,24,20,20,19,16,0,35,33
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Park,3,2,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,WY,Park,1977,1793,1906,1649,1605,1609,1493,1447,1459,1458
+40,Units in Structure: 1 ATTACHED,WY,Platte,62,69,67,42,13,36,66,79,79,88
+41,Units in Structure: 1 DETACHED,WY,Platte,3155,3322,3389,3446,3537,3626,3613,3655,3717,3738
+42,Units in Structure: 10-19,WY,Platte,80,65,84,77,59,46,62,66,27,24
+43,Units in Structure: 2,WY,Platte,70,36,40,36,8,7,41,39,58,113
+44,Units in Structure: 20-49,WY,Platte,16,15,13,0,0,22,19,20,18,44
+45,Units in Structure: 3-4,WY,Platte,179,132,101,104,151,80,113,116,119,129
+46,Units in Structure: 5-9,WY,Platte,47,45,22,13,21,71,65,69,64,61
+47,Units in Structure: 50+,WY,Platte,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Platte,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,WY,Platte,1050,981,948,960,889,803,719,755,740,647
+40,Units in Structure: 1 ATTACHED,WY,Sheridan,431,470,412,394,441,448,530,493,546,509
+41,Units in Structure: 1 DETACHED,WY,Sheridan,9797,10129,10275,10178,10505,10428,10443,10797,10963,11027
+42,Units in Structure: 10-19,WY,Sheridan,111,157,160,170,264,255,207,196,218,104
+43,Units in Structure: 2,WY,Sheridan,328,307,263,142,175,156,123,200,220,267
+44,Units in Structure: 20-49,WY,Sheridan,230,175,159,153,152,305,329,321,360,370
+45,Units in Structure: 3-4,WY,Sheridan,696,617,564,620,499,515,599,581,511,573
+46,Units in Structure: 5-9,WY,Sheridan,485,482,589,722,617,674,606,479,551,612
+47,Units in Structure: 50+,WY,Sheridan,132,112,136,208,154,197,226,249,194,188
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Sheridan,7,0,0,0,0,0,18,21,19,18
+49,Units in Structure: Mobile Home,WY,Sheridan,1477,1366,1409,1454,1336,1279,1263,1314,1197,1247
+40,Units in Structure: 1 ATTACHED,WY,Sublette,36,106,105,132,120,101,60,66,54,85
+41,Units in Structure: 1 DETACHED,WY,Sublette,4181,4433,4727,4800,4764,4881,4772,4733,4770,4891
+42,Units in Structure: 10-19,WY,Sublette,16,16,16,15,15,12,7,10,8,9
+43,Units in Structure: 2,WY,Sublette,43,57,62,92,115,116,152,118,77,77
+44,Units in Structure: 20-49,WY,Sublette,13,22,21,16,27,19,12,10,23,33
+45,Units in Structure: 3-4,WY,Sublette,95,97,54,35,42,59,77,95,103,86
+46,Units in Structure: 5-9,WY,Sublette,9,20,27,44,32,31,51,73,66,55
+47,Units in Structure: 50+,WY,Sublette,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Sublette,0,13,15,17,21,17,3,0,0,0
+49,Units in Structure: Mobile Home,WY,Sublette,913,810,658,615,679,607,725,848,888,792
+40,Units in Structure: 1 ATTACHED,WY,Sweetwater,570,728,817,730,688,815,751,727,835,940
+41,Units in Structure: 1 DETACHED,WY,Sweetwater,10541,10606,10564,10562,10809,10886,11021,11519,11427,11386
+42,Units in Structure: 10-19,WY,Sweetwater,326,419,452,393,351,444,365,366,472,541
+43,Units in Structure: 2,WY,Sweetwater,586,643,642,657,664,563,550,517,652,541
+44,Units in Structure: 20-49,WY,Sweetwater,541,628,796,827,802,750,666,566,503,554
+45,Units in Structure: 3-4,WY,Sweetwater,618,532,566,611,644,566,692,854,687,817
+46,Units in Structure: 5-9,WY,Sweetwater,443,426,544,546,641,642,641,520,599,648
+47,Units in Structure: 50+,WY,Sweetwater,104,134,93,117,166,185,119,120,101,66
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Sweetwater,0,0,0,0,9,9,12,20,20,52
+49,Units in Structure: Mobile Home,WY,Sweetwater,4278,4320,4150,4342,4164,4182,4285,4317,4332,4226
+40,Units in Structure: 1 ATTACHED,WY,Teton,313,420,594,592,660,787,929,894,1135,1123
+41,Units in Structure: 1 DETACHED,WY,Teton,7857,7968,7697,8112,8337,8457,8408,8500,8214,8093
+42,Units in Structure: 10-19,WY,Teton,819,806,720,642,578,525,554,606,702,793
+43,Units in Structure: 2,WY,Teton,819,735,895,700,564,559,594,459,552,495
+44,Units in Structure: 20-49,WY,Teton,190,212,198,256,262,217,264,292,279,239
+45,Units in Structure: 3-4,WY,Teton,984,1019,1232,1189,1078,1011,1068,1099,1251,1250
+46,Units in Structure: 5-9,WY,Teton,1097,1130,1058,1000,1099,1028,935,1096,1039,1327
+47,Units in Structure: 50+,WY,Teton,58,19,0,21,38,48,53,50,39,23
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Teton,0,0,41,73,70,71,84,36,0,0
+49,Units in Structure: Mobile Home,WY,Teton,350,357,386,332,348,443,403,476,469,505
+40,Units in Structure: 1 ATTACHED,WY,Uinta,438,515,510,505,469,383,275,286,278,470
+41,Units in Structure: 1 DETACHED,WY,Uinta,5198,5156,5066,4989,4941,5029,5095,5029,5219,5259
+42,Units in Structure: 10-19,WY,Uinta,214,156,223,325,260,335,356,384,330,397
+43,Units in Structure: 2,WY,Uinta,136,119,81,79,67,32,27,35,35,43
+44,Units in Structure: 20-49,WY,Uinta,235,243,250,216,216,187,133,149,134,77
+45,Units in Structure: 3-4,WY,Uinta,262,269,280,234,286,315,317,300,344,335
+46,Units in Structure: 5-9,WY,Uinta,601,465,513,457,408,217,289,235,241,192
+47,Units in Structure: 50+,WY,Uinta,6,18,36,43,39,26,51,39,52,52
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Uinta,0,0,0,0,46,59,67,61,75,46
+49,Units in Structure: Mobile Home,WY,Uinta,1468,1712,1747,1865,2013,2182,2158,2423,2264,2170
+40,Units in Structure: 1 ATTACHED,WY,Washakie,21,28,26,19,36,44,43,93,96,94
+41,Units in Structure: 1 DETACHED,WY,Washakie,2964,3085,3034,3065,2995,2953,2918,2872,2833,2889
+42,Units in Structure: 10-19,WY,Washakie,0,0,31,37,44,38,37,20,28,25
+43,Units in Structure: 2,WY,Washakie,73,56,70,34,31,45,55,76,199,165
+44,Units in Structure: 20-49,WY,Washakie,15,17,12,41,47,38,32,27,15,20
+45,Units in Structure: 3-4,WY,Washakie,232,223,270,267,230,227,253,248,165,180
+46,Units in Structure: 5-9,WY,Washakie,40,0,0,0,0,0,19,43,46,78
+47,Units in Structure: 50+,WY,Washakie,19,10,13,11,9,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Washakie,0,0,0,0,19,22,22,23,31,14
+49,Units in Structure: Mobile Home,WY,Washakie,443,399,365,346,412,452,432,456,455,395
+40,Units in Structure: 1 ATTACHED,WY,Weston,57,82,81,69,73,58,33,37,25,24
+41,Units in Structure: 1 DETACHED,WY,Weston,2401,2378,2273,2295,2317,2327,2441,2516,2476,2449
+42,Units in Structure: 10-19,WY,Weston,32,27,67,63,47,19,24,12,62,35
+43,Units in Structure: 2,WY,Weston,60,71,60,34,41,62,26,75,68,39
+44,Units in Structure: 20-49,WY,Weston,0,17,17,65,61,78,91,87,20,51
+45,Units in Structure: 3-4,WY,Weston,99,82,57,46,43,35,17,40,30,35
+46,Units in Structure: 5-9,WY,Weston,27,50,51,54,73,64,28,35,30,50
+47,Units in Structure: 50+,WY,Weston,12,15,0,0,0,0,0,0,12,11
+48,"Units in Structure: Boat,RV,Van,Etc.",WY,Weston,0,0,0,0,0,3,6,5,4,3
+49,Units in Structure: Mobile Home,WY,Weston,808,784,916,888,865,860,832,757,838,865

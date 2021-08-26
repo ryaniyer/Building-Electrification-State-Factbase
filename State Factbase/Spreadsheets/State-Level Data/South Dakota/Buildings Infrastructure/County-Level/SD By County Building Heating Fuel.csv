@@ -1,0 +1,336 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,SD,Aurora,357,374,417,436,486,521,548,547,548,586
+4,House Heating Fuel: Fuel Oil,SD,Aurora,126,148,125,129,130,125,97,114,91,88
+5,House Heating Fuel: Gas,SD,Aurora,24,27,21,25,19,18,14,10,6,6
+6,House Heating Fuel: Propane,SD,Aurora,467,451,410,405,371,388,386,423,436,425
+7,House Heating Fuel: Wood,SD,Aurora,25,33,37,35,33,45,38,41,39,31
+3,House Heating Fuel: Electric,SD,Beadle,1617,1795,1852,2012,2267,2324,2508,2650,2607,2633
+4,House Heating Fuel: Fuel Oil,SD,Beadle,203,197,158,130,102,68,51,71,73,61
+5,House Heating Fuel: Gas,SD,Beadle,3868,3754,3728,3622,3490,3643,3624,3671,3807,3587
+6,House Heating Fuel: Propane,SD,Beadle,1010,1122,1142,1170,1236,1142,992,957,974,1024
+7,House Heating Fuel: Wood,SD,Beadle,95,57,58,77,72,79,80,94,114,112
+3,House Heating Fuel: Electric,SD,Bennett,334,316,294,292,298,276,273,284,313,312
+4,House Heating Fuel: Fuel Oil,SD,Bennett,14,22,21,12,15,6,1,7,10,8
+5,House Heating Fuel: Gas,SD,Bennett,101,98,80,59,25,45,45,45,35,40
+6,House Heating Fuel: Propane,SD,Bennett,581,673,650,636,687,650,586,558,554,557
+7,House Heating Fuel: Wood,SD,Bennett,12,13,40,39,44,47,48,44,49,47
+3,House Heating Fuel: Electric,SD,Bon Homme,929,960,1064,1091,956,957,1066,1110,1119,1172
+4,House Heating Fuel: Fuel Oil,SD,Bon Homme,456,398,333,304,304,294,252,261,222,236
+5,House Heating Fuel: Gas,SD,Bon Homme,168,158,191,203,233,240,248,248,276,256
+6,House Heating Fuel: Propane,SD,Bon Homme,964,959,869,827,894,856,812,787,775,775
+7,House Heating Fuel: Wood,SD,Bon Homme,28,20,18,25,53,73,77,76,87,47
+3,House Heating Fuel: Electric,SD,Brookings,3722,3937,4160,4489,5037,5214,5225,5430,5552,5300
+4,House Heating Fuel: Fuel Oil,SD,Brookings,236,228,220,198,199,179,196,191,174,221
+5,House Heating Fuel: Gas,SD,Brookings,5432,5446,5381,5439,5247,5130,5091,5177,5178,5377
+6,House Heating Fuel: Propane,SD,Brookings,1512,1467,1381,1379,1382,1347,1393,1305,1381,1582
+7,House Heating Fuel: Wood,SD,Brookings,90,105,101,81,96,94,86,88,89,58
+3,House Heating Fuel: Electric,SD,Brown,4386,4512,4769,4835,5125,5498,6093,6078,6269,6643
+4,House Heating Fuel: Fuel Oil,SD,Brown,486,477,370,332,304,252,191,218,282,211
+5,House Heating Fuel: Gas,SD,Brown,8498,8580,8645,8755,8677,8430,8165,8177,7876,7528
+6,House Heating Fuel: Propane,SD,Brown,1308,1356,1283,1329,1275,1322,1140,1337,1376,1502
+7,House Heating Fuel: Wood,SD,Brown,71,42,43,47,46,59,55,43,36,35
+3,House Heating Fuel: Electric,SD,Brule,731,773,799,806,856,858,922,1021,1191,1213
+4,House Heating Fuel: Fuel Oil,SD,Brule,164,173,135,91,82,87,65,73,77,90
+5,House Heating Fuel: Gas,SD,Brule,50,69,76,68,54,60,60,62,78,84
+6,House Heating Fuel: Propane,SD,Brule,1062,950,1026,1034,971,951,919,891,744,720
+7,House Heating Fuel: Wood,SD,Brule,30,23,21,27,21,33,34,42,31,32
+3,House Heating Fuel: Electric,SD,Buffalo,26,62,99,108,114,135,107,125,119,123
+4,House Heating Fuel: Fuel Oil,SD,Buffalo,24,16,11,8,6,9,37,71,65,67
+5,House Heating Fuel: Gas,SD,Buffalo,30,26,16,15,7,6,3,5,8,10
+6,House Heating Fuel: Propane,SD,Buffalo,423,447,437,403,406,378,326,305,348,347
+7,House Heating Fuel: Wood,SD,Buffalo,0,0,3,3,6,11,13,14,17,10
+3,House Heating Fuel: Electric,SD,Butte,697,844,1019,1044,1146,1107,1092,1066,1012,980
+4,House Heating Fuel: Fuel Oil,SD,Butte,39,23,36,37,24,27,18,4,0,0
+5,House Heating Fuel: Gas,SD,Butte,2087,1981,1833,1780,1746,1853,1864,1934,1917,2021
+6,House Heating Fuel: Propane,SD,Butte,742,775,803,844,873,791,818,766,809,765
+7,House Heating Fuel: Wood,SD,Butte,328,309,245,265,236,246,325,353,388,391
+3,House Heating Fuel: Electric,SD,Campbell,84,91,122,147,128,145,161,134,126,105
+4,House Heating Fuel: Fuel Oil,SD,Campbell,207,207,196,203,172,139,112,133,92,103
+5,House Heating Fuel: Gas,SD,Campbell,52,34,45,30,24,16,18,6,6,9
+6,House Heating Fuel: Propane,SD,Campbell,246,266,258,276,318,344,346,385,390,426
+7,House Heating Fuel: Wood,SD,Campbell,9,7,12,11,8,13,8,6,8,8
+3,House Heating Fuel: Electric,SD,Charles Mix,832,918,982,948,1002,1078,1124,1060,1148,1155
+4,House Heating Fuel: Fuel Oil,SD,Charles Mix,471,467,408,355,312,302,283,399,377,366
+5,House Heating Fuel: Gas,SD,Charles Mix,133,86,74,84,112,93,98,108,97,88
+6,House Heating Fuel: Propane,SD,Charles Mix,1663,1627,1568,1651,1639,1573,1568,1481,1396,1400
+7,House Heating Fuel: Wood,SD,Charles Mix,83,86,101,82,64,56,53,40,44,55
+3,House Heating Fuel: Electric,SD,Clark,372,386,423,417,486,493,514,494,494,484
+4,House Heating Fuel: Fuel Oil,SD,Clark,9,13,10,3,4,4,2,1,2,4
+5,House Heating Fuel: Gas,SD,Clark,550,542,540,577,541,595,602,601,615,579
+6,House Heating Fuel: Propane,SD,Clark,402,348,316,360,339,323,335,359,369,424
+7,House Heating Fuel: Wood,SD,Clark,24,28,32,39,39,27,29,35,32,43
+3,House Heating Fuel: Electric,SD,Clay,1052,1107,1221,1173,1115,1278,1382,1429,1554,1666
+4,House Heating Fuel: Fuel Oil,SD,Clay,90,98,103,92,101,108,98,69,102,76
+5,House Heating Fuel: Gas,SD,Clay,2975,2881,2849,2757,2873,2809,2745,2856,2715,2634
+6,House Heating Fuel: Propane,SD,Clay,629,699,640,764,732,820,810,767,697,721
+7,House Heating Fuel: Wood,SD,Clay,68,96,147,168,170,136,118,62,26,20
+3,House Heating Fuel: Electric,SD,Codington,3182,3199,3394,3438,3343,3736,3972,4238,4254,4458
+4,House Heating Fuel: Fuel Oil,SD,Codington,138,120,113,118,111,134,136,127,84,78
+5,House Heating Fuel: Gas,SD,Codington,6922,7026,6937,6803,7049,6967,6728,6652,6610,6463
+6,House Heating Fuel: Propane,SD,Codington,850,809,844,828,799,781,754,734,783,817
+7,House Heating Fuel: Wood,SD,Codington,68,81,78,90,89,73,53,40,53,75
+3,House Heating Fuel: Electric,SD,Corson,159,120,111,117,152,159,169,182,140,126
+4,House Heating Fuel: Fuel Oil,SD,Corson,83,94,86,84,62,68,68,65,55,47
+5,House Heating Fuel: Gas,SD,Corson,24,29,38,25,15,13,14,4,8,9
+6,House Heating Fuel: Propane,SD,Corson,797,846,890,936,956,959,944,948,947,976
+7,House Heating Fuel: Wood,SD,Corson,23,20,8,5,10,11,15,16,19,20
+3,House Heating Fuel: Electric,SD,Custer,1583,1684,1497,1491,1397,1416,1458,1558,1688,1565
+4,House Heating Fuel: Fuel Oil,SD,Custer,36,81,59,62,70,67,40,45,40,27
+5,House Heating Fuel: Gas,SD,Custer,31,52,90,147,169,181,210,179,150,180
+6,House Heating Fuel: Propane,SD,Custer,1378,1235,1285,1301,1273,1383,1391,1301,1157,1343
+7,House Heating Fuel: Wood,SD,Custer,578,624,616,646,662,614,694,745,839,692
+3,House Heating Fuel: Electric,SD,Davison,1731,1968,1920,1878,2036,2150,2133,2359,2499,2663
+4,House Heating Fuel: Fuel Oil,SD,Davison,252,275,285,235,175,69,99,86,88,126
+5,House Heating Fuel: Gas,SD,Davison,5160,5119,5211,5276,5345,5172,5167,5288,5000,4785
+6,House Heating Fuel: Propane,SD,Davison,578,532,593,675,601,664,634,450,536,563
+7,House Heating Fuel: Wood,SD,Davison,123,107,145,112,52,73,69,101,102,81
+3,House Heating Fuel: Electric,SD,Day,702,811,977,982,1058,1066,1127,1059,1034,953
+4,House Heating Fuel: Fuel Oil,SD,Day,287,280,226,194,216,238,200,184,198,168
+5,House Heating Fuel: Gas,SD,Day,545,538,485,512,526,478,474,560,537,593
+6,House Heating Fuel: Propane,SD,Day,826,711,704,748,674,671,667,643,670,725
+7,House Heating Fuel: Wood,SD,Day,68,68,48,46,50,28,36,31,52,41
+3,House Heating Fuel: Electric,SD,Deuel,579,593,617,636,624,633,603,636,627,605
+4,House Heating Fuel: Fuel Oil,SD,Deuel,47,45,31,46,46,36,48,48,37,33
+5,House Heating Fuel: Gas,SD,Deuel,459,458,437,483,505,519,473,477,465,516
+6,House Heating Fuel: Propane,SD,Deuel,615,590,563,499,511,553,542,562,556,565
+7,House Heating Fuel: Wood,SD,Deuel,56,61,98,79,108,114,118,78,81,56
+3,House Heating Fuel: Electric,SD,Dewey,322,313,337,341,336,326,300,290,296,286
+4,House Heating Fuel: Fuel Oil,SD,Dewey,193,177,138,112,120,108,100,117,123,127
+5,House Heating Fuel: Gas,SD,Dewey,32,49,55,54,48,40,34,21,13,18
+6,House Heating Fuel: Propane,SD,Dewey,1118,1139,1156,1135,1117,1134,1184,1196,1220,1199
+7,House Heating Fuel: Wood,SD,Dewey,4,6,9,9,12,12,17,16,6,9
+3,House Heating Fuel: Electric,SD,Douglas,396,387,427,466,481,506,508,548,546,560
+4,House Heating Fuel: Fuel Oil,SD,Douglas,250,221,209,185,179,172,176,163,168,143
+5,House Heating Fuel: Gas,SD,Douglas,41,38,47,32,22,46,46,36,43,26
+6,House Heating Fuel: Propane,SD,Douglas,505,525,505,496,510,469,473,462,444,439
+7,House Heating Fuel: Wood,SD,Douglas,8,17,19,25,30,39,15,13,14,13
+3,House Heating Fuel: Electric,SD,Edmunds,369,430,441,448,470,496,516,501,487,557
+4,House Heating Fuel: Fuel Oil,SD,Edmunds,201,207,166,122,107,104,87,80,77,76
+5,House Heating Fuel: Gas,SD,Edmunds,431,467,508,571,554,508,471,450,454,428
+6,House Heating Fuel: Propane,SD,Edmunds,505,442,417,402,413,441,473,488,490,447
+7,House Heating Fuel: Wood,SD,Edmunds,8,10,3,4,4,4,3,4,5,5
+3,House Heating Fuel: Electric,SD,Fall River,1111,1243,1185,1249,1211,1243,1312,1324,1302,1369
+4,House Heating Fuel: Fuel Oil,SD,Fall River,139,153,169,128,180,186,120,97,90,40
+5,House Heating Fuel: Gas,SD,Fall River,97,64,88,112,149,165,184,153,145,85
+6,House Heating Fuel: Propane,SD,Fall River,1295,1395,1346,1303,1187,1092,1077,1162,1285,1288
+7,House Heating Fuel: Wood,SD,Fall River,173,194,210,204,249,213,201,191,189,156
+3,House Heating Fuel: Electric,SD,Faulk,390,373,366,401,415,421,452,478,412,431
+4,House Heating Fuel: Fuel Oil,SD,Faulk,150,161,125,134,138,125,106,81,73,36
+5,House Heating Fuel: Gas,SD,Faulk,10,13,7,13,13,15,19,24,18,19
+6,House Heating Fuel: Propane,SD,Faulk,329,346,405,337,335,328,342,306,362,383
+7,House Heating Fuel: Wood,SD,Faulk,13,13,13,22,19,25,21,22,12,12
+3,House Heating Fuel: Electric,SD,Grant,1290,1333,1274,1209,1082,1076,1089,1054,1013,1217
+4,House Heating Fuel: Fuel Oil,SD,Grant,246,202,167,194,168,129,166,145,184,142
+5,House Heating Fuel: Gas,SD,Grant,983,1037,1055,1141,1293,1444,1392,1483,1425,1211
+6,House Heating Fuel: Propane,SD,Grant,511,436,483,462,430,428,464,424,496,550
+7,House Heating Fuel: Wood,SD,Grant,119,141,152,126,125,108,94,79,75,77
+3,House Heating Fuel: Electric,SD,Gregory,684,703,736,804,846,831,853,911,878,860
+4,House Heating Fuel: Fuel Oil,SD,Gregory,237,248,262,206,168,161,150,126,147,144
+5,House Heating Fuel: Gas,SD,Gregory,30,34,46,42,34,28,39,11,21,27
+6,House Heating Fuel: Propane,SD,Gregory,906,894,777,796,797,828,763,785,696,688
+7,House Heating Fuel: Wood,SD,Gregory,61,51,64,62,51,54,49,67,64,59
+3,House Heating Fuel: Electric,SD,Haakon,157,214,276,265,280,289,311,342,343,292
+4,House Heating Fuel: Fuel Oil,SD,Haakon,20,28,38,30,39,45,47,44,55,44
+5,House Heating Fuel: Gas,SD,Haakon,9,10,9,3,0,6,6,13,15,21
+6,House Heating Fuel: Propane,SD,Haakon,519,429,394,438,474,447,447,444,438,434
+7,House Heating Fuel: Wood,SD,Haakon,40,47,43,54,72,48,39,33,41,17
+3,House Heating Fuel: Electric,SD,Hamlin,538,576,663,710,734,745,796,792,785,778
+4,House Heating Fuel: Fuel Oil,SD,Hamlin,104,105,90,62,56,47,38,36,41,35
+5,House Heating Fuel: Gas,SD,Hamlin,690,664,665,677,718,821,804,820,826,844
+6,House Heating Fuel: Propane,SD,Hamlin,530,503,481,485,438,423,443,418,439,476
+7,House Heating Fuel: Wood,SD,Hamlin,57,60,58,40,68,85,82,83,89,54
+3,House Heating Fuel: Electric,SD,Hand,578,647,627,615,698,768,770,796,780,728
+4,House Heating Fuel: Fuel Oil,SD,Hand,196,189,192,158,142,119,126,105,88,85
+5,House Heating Fuel: Gas,SD,Hand,62,53,46,37,21,13,9,21,28,21
+6,House Heating Fuel: Propane,SD,Hand,618,619,557,559,538,520,484,504,556,600
+7,House Heating Fuel: Wood,SD,Hand,17,27,27,15,27,31,28,22,24,12
+3,House Heating Fuel: Electric,SD,Hanson,246,249,264,267,282,338,316,312,306,280
+4,House Heating Fuel: Fuel Oil,SD,Hanson,147,131,96,84,68,61,66,82,75,91
+5,House Heating Fuel: Gas,SD,Hanson,241,245,205,202,177,176,180,199,213,229
+6,House Heating Fuel: Propane,SD,Hanson,393,382,364,362,365,328,331,333,352,339
+7,House Heating Fuel: Wood,SD,Hanson,70,70,71,64,65,59,59,30,25,13
+3,House Heating Fuel: Electric,SD,Harding,127,120,148,164,152,151,146,143,138,113
+4,House Heating Fuel: Fuel Oil,SD,Harding,22,28,23,23,31,26,20,25,21,3
+5,House Heating Fuel: Gas,SD,Harding,23,23,14,21,34,41,45,54,57,48
+6,House Heating Fuel: Propane,SD,Harding,312,304,309,284,261,261,259,287,308,330
+7,House Heating Fuel: Wood,SD,Harding,25,20,21,24,19,17,18,19,20,27
+3,House Heating Fuel: Electric,SD,Hughes,2571,2828,2711,2702,2806,2731,2838,2918,3021,3179
+4,House Heating Fuel: Fuel Oil,SD,Hughes,393,316,264,251,206,162,163,161,154,111
+5,House Heating Fuel: Gas,SD,Hughes,3245,3207,3161,3039,3025,2977,2930,3063,3175,3064
+6,House Heating Fuel: Propane,SD,Hughes,787,667,815,888,996,1131,1244,1169,1059,1033
+7,House Heating Fuel: Wood,SD,Hughes,51,28,32,23,11,11,15,19,21,23
+3,House Heating Fuel: Electric,SD,Hutchinson,886,917,959,939,957,997,972,1067,1027,1058
+4,House Heating Fuel: Fuel Oil,SD,Hutchinson,639,569,501,542,489,506,477,483,412,427
+5,House Heating Fuel: Gas,SD,Hutchinson,825,826,820,820,794,826,857,848,916,938
+6,House Heating Fuel: Propane,SD,Hutchinson,474,471,492,496,539,471,447,349,391,401
+7,House Heating Fuel: Wood,SD,Hutchinson,40,34,29,25,23,23,24,29,28,15
+3,House Heating Fuel: Electric,SD,Hyde,267,306,282,284,261,247,262,253,268,290
+4,House Heating Fuel: Fuel Oil,SD,Hyde,52,49,47,38,42,43,38,30,41,36
+5,House Heating Fuel: Gas,SD,Hyde,20,15,3,12,25,24,30,33,28,12
+6,House Heating Fuel: Propane,SD,Hyde,215,212,217,182,189,192,213,219,230,217
+7,House Heating Fuel: Wood,SD,Hyde,13,8,6,5,3,13,12,15,13,16
+3,House Heating Fuel: Electric,SD,Jackson,131,142,183,237,230,229,248,280,229,221
+4,House Heating Fuel: Fuel Oil,SD,Jackson,90,58,70,66,43,51,56,46,31,25
+5,House Heating Fuel: Gas,SD,Jackson,33,22,14,25,35,43,45,46,13,0
+6,House Heating Fuel: Propane,SD,Jackson,593,549,566,538,528,543,520,499,502,513
+7,House Heating Fuel: Wood,SD,Jackson,92,169,180,173,197,141,100,88,77,78
+3,House Heating Fuel: Electric,SD,Jerauld,249,245,288,280,260,265,279,272,285,280
+4,House Heating Fuel: Fuel Oil,SD,Jerauld,90,70,94,89,97,76,72,106,84,76
+5,House Heating Fuel: Gas,SD,Jerauld,10,18,16,14,21,39,30,38,44,35
+6,House Heating Fuel: Propane,SD,Jerauld,517,490,443,444,456,407,400,415,420,465
+7,House Heating Fuel: Wood,SD,Jerauld,25,26,35,33,30,31,29,21,23,10
+3,House Heating Fuel: Electric,SD,Jones,235,227,237,228,225,230,213,211,208,211
+4,House Heating Fuel: Fuel Oil,SD,Jones,37,34,26,32,32,31,27,22,14,12
+5,House Heating Fuel: Gas,SD,Jones,14,10,11,8,3,0,0,0,4,2
+6,House Heating Fuel: Propane,SD,Jones,160,155,145,150,160,147,160,155,158,163
+7,House Heating Fuel: Wood,SD,Jones,18,31,17,14,11,11,7,7,19,20
+3,House Heating Fuel: Electric,SD,Kingsbury,514,522,624,723,726,727,788,749,695,670
+4,House Heating Fuel: Fuel Oil,SD,Kingsbury,83,50,45,41,51,40,36,33,32,24
+5,House Heating Fuel: Gas,SD,Kingsbury,1072,1074,984,895,933,897,890,896,946,924
+6,House Heating Fuel: Propane,SD,Kingsbury,576,595,584,542,490,516,495,542,512,553
+7,House Heating Fuel: Wood,SD,Kingsbury,40,32,35,41,27,35,50,52,61,53
+3,House Heating Fuel: Electric,SD,Lake,1444,1543,1567,1595,1628,1512,1361,1447,1415,1350
+4,House Heating Fuel: Fuel Oil,SD,Lake,88,69,73,67,68,45,51,65,58,78
+5,House Heating Fuel: Gas,SD,Lake,1883,1859,1944,2058,2112,2336,2324,2266,2133,2094
+6,House Heating Fuel: Propane,SD,Lake,949,882,842,766,783,729,750,791,826,852
+7,House Heating Fuel: Wood,SD,Lake,101,95,88,80,61,54,72,67,69,67
+3,House Heating Fuel: Electric,SD,Lawrence,3168,3293,3516,3423,3642,3597,3829,3463,3436,3113
+4,House Heating Fuel: Fuel Oil,SD,Lawrence,62,127,122,65,51,66,17,19,19,23
+5,House Heating Fuel: Gas,SD,Lawrence,5820,5674,5620,5696,5346,5413,5449,6033,6103,6450
+6,House Heating Fuel: Propane,SD,Lawrence,964,1001,930,895,895,980,1049,949,947,965
+7,House Heating Fuel: Wood,SD,Lawrence,480,514,450,436,436,386,279,257,303,261
+3,House Heating Fuel: Electric,SD,Lincoln,2307,2408,2553,3030,3389,3858,4288,4450,4637,5106
+4,House Heating Fuel: Fuel Oil,SD,Lincoln,94,105,110,117,139,142,169,226,236,196
+5,House Heating Fuel: Gas,SD,Lincoln,10833,11536,12015,11989,12101,12039,11756,11943,12168,12177
+6,House Heating Fuel: Propane,SD,Lincoln,2207,2104,1839,1685,1557,1525,1557,1631,1830,1854
+7,House Heating Fuel: Wood,SD,Lincoln,85,68,69,136,155,149,149,130,89,88
+3,House Heating Fuel: Electric,SD,Lyman,368,446,430,452,462,508,466,466,463,449
+4,House Heating Fuel: Fuel Oil,SD,Lyman,93,59,46,39,28,33,42,58,69,80
+5,House Heating Fuel: Gas,SD,Lyman,37,47,60,49,52,21,13,6,25,55
+6,House Heating Fuel: Propane,SD,Lyman,926,873,833,854,864,788,801,809,801,787
+7,House Heating Fuel: Wood,SD,Lyman,16,8,6,4,5,7,20,17,23,17
+3,House Heating Fuel: Electric,SD,McCook,465,499,510,511,515,530,506,495,529,571
+4,House Heating Fuel: Fuel Oil,SD,McCook,118,82,93,85,110,124,164,165,137,122
+5,House Heating Fuel: Gas,SD,McCook,822,804,788,767,747,790,769,766,780,754
+6,House Heating Fuel: Propane,SD,McCook,676,713,700,692,677,670,620,621,661,677
+7,House Heating Fuel: Wood,SD,McCook,18,25,27,38,51,54,52,53,42,27
+3,House Heating Fuel: Electric,SD,McPherson,215,212,245,255,256,278,308,296,310,329
+4,House Heating Fuel: Fuel Oil,SD,McPherson,501,468,433,421,432,355,333,320,290,266
+5,House Heating Fuel: Gas,SD,McPherson,34,50,40,34,28,34,39,28,28,42
+6,House Heating Fuel: Propane,SD,McPherson,281,275,297,300,267,297,285,340,347,349
+7,House Heating Fuel: Wood,SD,McPherson,6,7,22,17,17,23,22,15,15,27
+3,House Heating Fuel: Electric,SD,Marshall,681,656,719,736,774,786,835,816,816,783
+4,House Heating Fuel: Fuel Oil,SD,Marshall,333,307,322,290,233,281,265,241,182,223
+5,House Heating Fuel: Gas,SD,Marshall,64,63,50,50,57,45,29,49,66,60
+6,House Heating Fuel: Propane,SD,Marshall,599,601,529,551,612,571,544,611,688,689
+7,House Heating Fuel: Wood,SD,Marshall,20,25,36,32,35,59,44,55,60,55
+3,House Heating Fuel: Electric,SD,Meade,2596,3065,3276,3226,3042,3252,3368,3487,3409,3687
+4,House Heating Fuel: Fuel Oil,SD,Meade,43,44,43,61,46,49,68,57,40,43
+5,House Heating Fuel: Gas,SD,Meade,5029,4893,4618,4862,5074,5269,5128,5481,5346,5274
+6,House Heating Fuel: Propane,SD,Meade,1444,1368,1512,1481,1583,1567,1608,1487,1551,1357
+7,House Heating Fuel: Wood,SD,Meade,529,520,491,377,388,373,355,407,456,560
+3,House Heating Fuel: Electric,SD,Mellette,130,150,174,192,181,183,213,185,201,188
+4,House Heating Fuel: Fuel Oil,SD,Mellette,19,25,24,15,30,27,18,19,22,17
+5,House Heating Fuel: Gas,SD,Mellette,12,11,11,17,17,9,18,15,21,20
+6,House Heating Fuel: Propane,SD,Mellette,415,354,347,365,358,352,353,344,300,326
+7,House Heating Fuel: Wood,SD,Mellette,83,83,92,104,104,102,104,114,120,106
+3,House Heating Fuel: Electric,SD,Miner,255,274,334,357,362,366,341,297,310,268
+4,House Heating Fuel: Fuel Oil,SD,Miner,141,108,96,82,80,68,55,48,44,22
+5,House Heating Fuel: Gas,SD,Miner,292,339,294,318,261,282,272,308,272,284
+6,House Heating Fuel: Propane,SD,Miner,371,345,315,266,267,252,263,295,290,303
+7,House Heating Fuel: Wood,SD,Miner,14,17,24,19,28,28,28,29,27,19
+3,House Heating Fuel: Electric,SD,Minnehaha,9616,10524,11327,12677,13329,13724,14842,16779,17520,19012
+4,House Heating Fuel: Fuel Oil,SD,Minnehaha,430,398,419,458,530,551,461,499,486,286
+5,House Heating Fuel: Gas,SD,Minnehaha,49697,49601,49821,48839,49284,50146,50488,50400,51332,51703
+6,House Heating Fuel: Propane,SD,Minnehaha,4054,4135,3935,3885,3822,3771,3609,3722,3564,3672
+7,House Heating Fuel: Wood,SD,Minnehaha,93,123,174,197,241,238,215,194,191,113
+3,House Heating Fuel: Electric,SD,Moody,484,521,662,741,775,755,702,676,650,613
+4,House Heating Fuel: Fuel Oil,SD,Moody,174,179,109,127,96,85,66,84,74,90
+5,House Heating Fuel: Gas,SD,Moody,647,675,637,648,627,642,749,799,812,793
+6,House Heating Fuel: Propane,SD,Moody,1121,1082,1103,1041,1042,1042,997,961,961,1042
+7,House Heating Fuel: Wood,SD,Moody,62,33,31,41,39,48,42,39,43,37
+3,House Heating Fuel: Electric,SD,Pennington,10394,10913,10699,11049,11735,11806,12583,13153,13484,13917
+4,House Heating Fuel: Fuel Oil,SD,Pennington,265,250,255,245,199,213,156,113,139,140
+5,House Heating Fuel: Gas,SD,Pennington,24794,24905,25288,25348,24957,25340,24819,24918,24845,25273
+6,House Heating Fuel: Propane,SD,Pennington,2862,2768,2921,2847,3035,3036,3244,3370,3413,3288
+7,House Heating Fuel: Wood,SD,Pennington,833,797,743,631,725,733,898,998,1163,932
+3,House Heating Fuel: Electric,SD,Perkins,492,472,466,487,488,456,461,459,435,429
+4,House Heating Fuel: Fuel Oil,SD,Perkins,108,113,105,112,106,96,77,72,66,64
+5,House Heating Fuel: Gas,SD,Perkins,21,24,37,30,29,28,43,39,51,58
+6,House Heating Fuel: Propane,SD,Perkins,630,578,611,663,646,649,635,645,630,628
+7,House Heating Fuel: Wood,SD,Perkins,30,21,25,27,27,32,44,46,45,44
+3,House Heating Fuel: Electric,SD,Potter,226,219,222,249,275,301,319,297,289,286
+4,House Heating Fuel: Fuel Oil,SD,Potter,213,207,174,182,161,149,136,120,81,78
+5,House Heating Fuel: Gas,SD,Potter,290,303,305,304,297,299,304,335,346,347
+6,House Heating Fuel: Propane,SD,Potter,248,246,248,272,275,269,247,250,259,255
+7,House Heating Fuel: Wood,SD,Potter,15,23,14,14,12,10,5,5,3,0
+3,House Heating Fuel: Electric,SD,Roberts,1346,1323,1298,1438,1414,1397,1517,1552,1519,1596
+4,House Heating Fuel: Fuel Oil,SD,Roberts,631,568,582,523,520,461,434,395,341,301
+5,House Heating Fuel: Gas,SD,Roberts,95,92,65,66,55,54,70,69,102,100
+6,House Heating Fuel: Propane,SD,Roberts,1558,1536,1508,1444,1425,1555,1498,1559,1652,1711
+7,House Heating Fuel: Wood,SD,Roberts,48,65,100,112,120,121,103,101,106,86
+3,House Heating Fuel: Electric,SD,Sanborn,226,266,288,316,322,336,305,305,320,337
+4,House Heating Fuel: Fuel Oil,SD,Sanborn,121,115,123,106,112,110,102,96,100,82
+5,House Heating Fuel: Gas,SD,Sanborn,43,43,38,46,13,16,23,26,21,18
+6,House Heating Fuel: Propane,SD,Sanborn,517,524,475,509,546,519,538,537,518,489
+7,House Heating Fuel: Wood,SD,Sanborn,15,22,41,36,43,45,41,39,40,34
+3,House Heating Fuel: Electric,SD,Shannon,585,598,593,778,796,,,,,
+4,House Heating Fuel: Fuel Oil,SD,Shannon,43,82,101,107,77,,,,,
+5,House Heating Fuel: Gas,SD,Shannon,94,78,54,24,14,,,,,
+6,House Heating Fuel: Propane,SD,Shannon,1875,1744,1763,1637,1710,,,,,
+7,House Heating Fuel: Wood,SD,Shannon,212,237,296,299,309,,,,,
+3,House Heating Fuel: Electric,SD,Spink,806,774,847,859,929,928,953,974,980,853
+4,House Heating Fuel: Fuel Oil,SD,Spink,121,104,102,92,85,87,90,82,66,62
+5,House Heating Fuel: Gas,SD,Spink,1051,1012,1013,1009,1001,1001,999,967,1035,1083
+6,House Heating Fuel: Propane,SD,Spink,575,612,573,565,538,547,528,538,501,569
+7,House Heating Fuel: Wood,SD,Spink,19,20,18,18,13,8,12,12,11,6
+3,House Heating Fuel: Electric,SD,Stanley,235,295,353,321,362,415,409,411,398,387
+4,House Heating Fuel: Fuel Oil,SD,Stanley,38,19,41,64,53,48,49,13,15,22
+5,House Heating Fuel: Gas,SD,Stanley,458,461,495,522,498,525,616,678,646,716
+6,House Heating Fuel: Propane,SD,Stanley,396,362,341,307,268,234,185,185,194,208
+7,House Heating Fuel: Wood,SD,Stanley,2,0,0,0,6,5,7,4,4,0
+3,House Heating Fuel: Electric,SD,Sully,196,204,205,228,214,263,255,237,225,239
+4,House Heating Fuel: Fuel Oil,SD,Sully,52,54,40,24,34,34,37,48,48,44
+5,House Heating Fuel: Gas,SD,Sully,100,115,125,122,134,121,135,156,156,137
+6,House Heating Fuel: Propane,SD,Sully,225,226,204,203,187,166,127,118,110,133
+7,House Heating Fuel: Wood,SD,Sully,9,0,0,9,9,10,9,9,0,0
+3,House Heating Fuel: Electric,SD,Todd,823,773,808,950,865,918,981,1087,1053,1095
+4,House Heating Fuel: Fuel Oil,SD,Todd,95,105,53,22,38,40,34,29,20,8
+5,House Heating Fuel: Gas,SD,Todd,48,12,71,73,82,85,122,114,138,172
+6,House Heating Fuel: Propane,SD,Todd,1294,1443,1417,1373,1455,1408,1200,1170,1097,1019
+7,House Heating Fuel: Wood,SD,Todd,276,224,283,227,267,236,356,333,370,373
+3,House Heating Fuel: Electric,SD,Tripp,1048,1052,1109,1040,1057,1074,1042,1004,958,972
+4,House Heating Fuel: Fuel Oil,SD,Tripp,255,184,169,156,112,67,26,42,46,63
+5,House Heating Fuel: Gas,SD,Tripp,65,81,113,140,130,76,30,29,59,87
+6,House Heating Fuel: Propane,SD,Tripp,1005,946,955,981,1085,1143,1239,1114,1117,1040
+7,House Heating Fuel: Wood,SD,Tripp,43,44,63,88,72,80,124,129,139,117
+3,House Heating Fuel: Electric,SD,Turner,925,926,950,972,997,993,1013,1095,1096,1093
+4,House Heating Fuel: Fuel Oil,SD,Turner,350,359,355,315,307,281,288,263,213,201
+5,House Heating Fuel: Gas,SD,Turner,888,981,985,1013,1012,1084,1024,1012,974,977
+6,House Heating Fuel: Propane,SD,Turner,1098,1012,979,923,940,941,896,932,1031,1096
+7,House Heating Fuel: Wood,SD,Turner,63,69,75,101,103,76,91,89,75,70
+3,House Heating Fuel: Electric,SD,Union,1561,1659,1666,1749,1815,1922,2135,2433,2458,2505
+4,House Heating Fuel: Fuel Oil,SD,Union,51,40,49,47,47,38,41,20,11,5
+5,House Heating Fuel: Gas,SD,Union,3191,3224,3265,3296,3395,3293,3259,3140,3123,3254
+6,House Heating Fuel: Propane,SD,Union,889,801,654,576,493,541,474,556,701,732
+7,House Heating Fuel: Wood,SD,Union,37,36,34,10,23,24,25,37,50,30
+3,House Heating Fuel: Electric,SD,Walworth,242,322,397,518,566,630,586,549,522,545
+4,House Heating Fuel: Fuel Oil,SD,Walworth,549,494,441,342,258,227,188,173,162,137
+5,House Heating Fuel: Gas,SD,Walworth,763,723,772,791,877,817,884,965,1021,999
+6,House Heating Fuel: Propane,SD,Walworth,616,622,635,654,641,673,633,574,546,542
+7,House Heating Fuel: Wood,SD,Walworth,13,21,21,23,31,40,34,18,16,2
+3,House Heating Fuel: Electric,SD,Yankton,1977,2069,2040,2145,2227,2496,2459,2719,2666,2641
+4,House Heating Fuel: Fuel Oil,SD,Yankton,160,160,129,116,91,101,90,117,165,130
+5,House Heating Fuel: Gas,SD,Yankton,4695,4691,4771,4770,4881,4719,4731,4675,4789,4956
+6,House Heating Fuel: Propane,SD,Yankton,1674,1558,1416,1489,1407,1348,1497,1564,1524,1520
+7,House Heating Fuel: Wood,SD,Yankton,70,60,107,100,111,119,94,53,47,31
+3,House Heating Fuel: Electric,SD,Ziebach,179,205,220,204,218,230,180,187,153,155
+4,House Heating Fuel: Fuel Oil,SD,Ziebach,22,21,22,5,5,7,8,9,11,8
+5,House Heating Fuel: Gas,SD,Ziebach,29,32,40,34,11,6,3,7,8,8
+6,House Heating Fuel: Propane,SD,Ziebach,506,505,510,539,542,554,594,557,559,569
+7,House Heating Fuel: Wood,SD,Ziebach,32,36,19,16,11,9,2,4,13,14
+3,House Heating Fuel: Electric,SD,Oglala Lakota,,,,,,861,881,909,815,848
+4,House Heating Fuel: Fuel Oil,SD,Oglala Lakota,,,,,,83,56,52,45,47
+5,House Heating Fuel: Gas,SD,Oglala Lakota,,,,,,15,33,21,22,13
+6,House Heating Fuel: Propane,SD,Oglala Lakota,,,,,,1678,1710,1707,1721,1607
+7,House Heating Fuel: Wood,SD,Oglala Lakota,,,,,,276,222,201,197,191

@@ -1,0 +1,651 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40,Units in Structure: 1 ATTACHED,LA,Acadia,234,291,325,254,194,206,154,208,203,213
+41,Units in Structure: 1 DETACHED,LA,Acadia,18415,18656,18752,18958,18857,18826,18997,18832,19107,19690
+42,Units in Structure: 10-19,LA,Acadia,153,95,134,134,193,334,302,308,321,253
+43,Units in Structure: 2,LA,Acadia,748,728,546,604,717,598,668,751,746,742
+44,Units in Structure: 20-49,LA,Acadia,81,146,135,162,177,137,81,153,182,183
+45,Units in Structure: 3-4,LA,Acadia,209,225,302,316,351,341,406,399,319,227
+46,Units in Structure: 5-9,LA,Acadia,593,546,428,323,232,290,297,362,399,454
+47,Units in Structure: 50+,LA,Acadia,0,0,125,178,176,185,174,112,78,72
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Acadia,95,93,79,80,27,29,42,49,38,22
+49,Units in Structure: Mobile Home,LA,Acadia,4536,4481,4543,4428,4710,4791,4746,4929,4839,4579
+40,Units in Structure: 1 ATTACHED,LA,Allen,50,42,21,25,56,60,97,106,83,65
+41,Units in Structure: 1 DETACHED,LA,Allen,6900,7011,7111,6995,6932,6762,6757,6824,7063,7139
+42,Units in Structure: 10-19,LA,Allen,0,0,3,6,6,23,17,11,7,10
+43,Units in Structure: 2,LA,Allen,459,449,390,400,408,423,437,401,375,484
+44,Units in Structure: 20-49,LA,Allen,28,8,5,8,15,3,3,3,4,0
+45,Units in Structure: 3-4,LA,Allen,138,136,145,144,209,212,185,168,145,97
+46,Units in Structure: 5-9,LA,Allen,164,153,101,115,129,121,189,188,170,239
+47,Units in Structure: 50+,LA,Allen,13,2,3,6,7,7,7,6,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Allen,3,3,2,3,4,3,3,0,13,27
+49,Units in Structure: Mobile Home,LA,Allen,1904,1901,1944,2031,2014,2167,2087,2163,2021,1891
+40,Units in Structure: 1 ATTACHED,LA,Ascension,357,328,354,419,444,471,482,486,581,557
+41,Units in Structure: 1 DETACHED,LA,Ascension,28729,29517,29588,30092,30252,31281,31794,32882,33659,34588
+42,Units in Structure: 10-19,LA,Ascension,327,360,406,528,718,673,665,639,515,433
+43,Units in Structure: 2,LA,Ascension,451,537,471,342,313,281,247,363,605,679
+44,Units in Structure: 20-49,LA,Ascension,176,130,181,129,146,197,234,197,232,258
+45,Units in Structure: 3-4,LA,Ascension,824,974,938,892,868,883,792,838,934,921
+46,Units in Structure: 5-9,LA,Ascension,439,518,650,736,620,595,629,578,501,530
+47,Units in Structure: 50+,LA,Ascension,40,47,53,70,96,80,133,134,246,263
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Ascension,8,9,72,59,129,127,156,90,152,137
+49,Units in Structure: Mobile Home,LA,Ascension,7899,7826,8266,8345,8885,8667,8995,9291,9111,9025
+40,Units in Structure: 1 ATTACHED,LA,Assumption,56,57,28,38,26,27,44,51,14,17
+41,Units in Structure: 1 DETACHED,LA,Assumption,6789,6613,6598,6744,6982,7014,7047,7097,6964,6923
+42,Units in Structure: 10-19,LA,Assumption,67,73,62,97,62,43,34,35,0,24
+43,Units in Structure: 2,LA,Assumption,102,95,84,44,118,113,113,175,213,187
+44,Units in Structure: 20-49,LA,Assumption,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,LA,Assumption,108,150,145,100,132,68,61,97,113,61
+46,Units in Structure: 5-9,LA,Assumption,32,80,81,92,87,58,45,46,77,80
+47,Units in Structure: 50+,LA,Assumption,0,0,0,0,0,6,6,8,6,10
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Assumption,19,20,22,23,0,0,33,32,30,32
+49,Units in Structure: Mobile Home,LA,Assumption,3116,3238,3342,3216,3028,3141,3119,3106,3310,3471
+40,Units in Structure: 1 ATTACHED,LA,Avoyelles,137,153,144,148,157,115,126,104,92,67
+41,Units in Structure: 1 DETACHED,LA,Avoyelles,12951,13152,13288,13085,13102,13134,13248,13238,13117,13166
+42,Units in Structure: 10-19,LA,Avoyelles,100,68,74,78,43,57,64,60,83,150
+43,Units in Structure: 2,LA,Avoyelles,743,538,544,664,623,651,606,533,469,565
+44,Units in Structure: 20-49,LA,Avoyelles,143,164,203,193,155,161,144,93,88,108
+45,Units in Structure: 3-4,LA,Avoyelles,287,276,243,239,259,185,216,193,257,360
+46,Units in Structure: 5-9,LA,Avoyelles,399,378,251,243,362,364,411,400,438,224
+47,Units in Structure: 50+,LA,Avoyelles,10,9,8,8,23,27,69,73,74,69
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Avoyelles,19,22,25,8,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,LA,Avoyelles,3134,3227,3254,3378,3389,3463,3300,3571,3702,3825
+40,Units in Structure: 1 ATTACHED,LA,Beauregard,41,55,85,60,64,78,63,63,55,50
+41,Units in Structure: 1 DETACHED,LA,Beauregard,9529,9667,9691,9961,9904,10135,9907,9939,9560,9763
+42,Units in Structure: 10-19,LA,Beauregard,70,64,95,87,84,35,47,29,10,17
+43,Units in Structure: 2,LA,Beauregard,248,217,279,250,248,333,355,372,346,310
+44,Units in Structure: 20-49,LA,Beauregard,46,93,100,105,81,71,42,34,22,29
+45,Units in Structure: 3-4,LA,Beauregard,230,238,223,231,250,265,256,315,304,294
+46,Units in Structure: 5-9,LA,Beauregard,405,370,307,301,275,219,268,266,307,353
+47,Units in Structure: 50+,LA,Beauregard,30,18,11,11,14,15,13,35,30,46
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Beauregard,14,15,20,34,22,20,23,21,2,47
+49,Units in Structure: Mobile Home,LA,Beauregard,4331,4264,4257,4036,4197,4030,4246,4364,4924,4904
+40,Units in Structure: 1 ATTACHED,LA,Bienville,38,26,32,22,21,14,19,22,23,41
+41,Units in Structure: 1 DETACHED,LA,Bienville,5122,5093,5048,5046,5010,4995,4807,4820,4657,4613
+42,Units in Structure: 10-19,LA,Bienville,20,18,9,29,26,33,36,40,9,3
+43,Units in Structure: 2,LA,Bienville,261,231,300,253,203,163,144,126,191,174
+44,Units in Structure: 20-49,LA,Bienville,31,36,28,29,23,18,14,51,67,71
+45,Units in Structure: 3-4,LA,Bienville,143,146,155,178,181,199,184,210,151,198
+46,Units in Structure: 5-9,LA,Bienville,163,182,171,152,96,99,77,99,139,154
+47,Units in Structure: 50+,LA,Bienville,6,4,0,0,0,0,15,15,17,21
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Bienville,15,18,18,19,4,4,6,7,8,19
+49,Units in Structure: Mobile Home,LA,Bienville,1956,1980,1977,1986,2170,2202,2429,2410,2552,2600
+40,Units in Structure: 1 ATTACHED,LA,Bossier,1025,1092,1165,1270,1479,1537,1465,1371,1536,1665
+41,Units in Structure: 1 DETACHED,LA,Bossier,30931,31342,31635,32184,32781,33373,34182,35713,37124,38312
+42,Units in Structure: 10-19,LA,Bossier,2455,2498,2558,2296,1804,1708,1473,1540,1520,1572
+43,Units in Structure: 2,LA,Bossier,911,1125,960,1059,1187,1100,929,979,936,699
+44,Units in Structure: 20-49,LA,Bossier,765,817,901,769,835,739,601,547,722,705
+45,Units in Structure: 3-4,LA,Bossier,854,1070,1138,1397,1512,1964,2263,2509,2689,2942
+46,Units in Structure: 5-9,LA,Bossier,2273,2267,2597,2893,3228,3200,3353,3230,2879,2456
+47,Units in Structure: 50+,LA,Bossier,1020,944,1002,884,927,997,1140,1199,1164,1247
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Bossier,11,47,84,111,118,144,73,53,43,66
+49,Units in Structure: Mobile Home,LA,Bossier,7644,7532,7641,7688,7834,8089,8438,8116,7653,7282
+40,Units in Structure: 1 ATTACHED,LA,Caddo,3742,3939,4263,4233,3938,3935,3783,3704,3262,3139
+41,Units in Structure: 1 DETACHED,LA,Caddo,75178,75762,75148,75729,76907,76692,76988,76784,77017,77009
+42,Units in Structure: 10-19,LA,Caddo,3722,3512,3359,3549,3614,3849,3900,4351,4548,4965
+43,Units in Structure: 2,LA,Caddo,2270,2412,2372,2470,2645,2422,2135,1935,1964,1969
+44,Units in Structure: 20-49,LA,Caddo,1464,1377,1375,1434,1390,1311,1168,1034,1335,1364
+45,Units in Structure: 3-4,LA,Caddo,4553,4416,4880,4742,4625,4486,5006,4553,4705,4790
+46,Units in Structure: 5-9,LA,Caddo,7101,7145,7315,6803,6237,6468,6301,6298,5845,5747
+47,Units in Structure: 50+,LA,Caddo,3071,2910,2991,2895,2676,3178,3403,3550,3940,4154
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Caddo,43,40,62,36,33,90,60,59,59,63
+49,Units in Structure: Mobile Home,LA,Caddo,10622,10452,10397,10232,10315,10126,10001,10633,10324,10047
+40,Units in Structure: 1 ATTACHED,LA,Calcasieu,1116,985,994,1086,970,961,976,1003,991,1254
+41,Units in Structure: 1 DETACHED,LA,Calcasieu,55193,56020,56575,57162,57398,58161,58159,59539,59385,59524
+42,Units in Structure: 10-19,LA,Calcasieu,1970,1964,1650,1683,1670,1764,1829,2254,2557,2470
+43,Units in Structure: 2,LA,Calcasieu,2817,2834,2914,2834,2853,3004,3368,3271,3698,4132
+44,Units in Structure: 20-49,LA,Calcasieu,821,968,1181,1206,1194,1283,1010,806,886,998
+45,Units in Structure: 3-4,LA,Calcasieu,1660,2045,2246,2057,2255,2294,2229,2071,2140,2149
+46,Units in Structure: 5-9,LA,Calcasieu,2648,2538,2445,2430,2703,2580,3071,3281,3539,3254
+47,Units in Structure: 50+,LA,Calcasieu,930,920,1150,1175,1150,1327,1204,1232,1191,1367
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Calcasieu,218,97,79,131,118,158,180,261,201,206
+49,Units in Structure: Mobile Home,LA,Calcasieu,13530,13151,13184,13234,13702,13422,13872,13689,14242,14814
+40,Units in Structure: 1 ATTACHED,LA,Caldwell,9,8,9,8,9,13,13,4,13,14
+41,Units in Structure: 1 DETACHED,LA,Caldwell,3188,3261,3296,3277,3219,3086,3127,3162,3095,3125
+42,Units in Structure: 10-19,LA,Caldwell,0,0,10,23,9,3,4,0,0,0
+43,Units in Structure: 2,LA,Caldwell,147,148,157,125,110,174,167,127,100,106
+44,Units in Structure: 20-49,LA,Caldwell,26,3,2,3,4,3,1,2,10,19
+45,Units in Structure: 3-4,LA,Caldwell,27,28,37,42,18,28,32,22,21,30
+46,Units in Structure: 5-9,LA,Caldwell,25,30,33,31,28,8,4,3,18,16
+47,Units in Structure: 50+,LA,Caldwell,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Caldwell,0,0,0,0,11,35,34,37,57,49
+49,Units in Structure: Mobile Home,LA,Caldwell,1592,1526,1458,1485,1597,1664,1646,1738,1808,1849
+40,Units in Structure: 1 ATTACHED,LA,Cameron,0,0,9,9,12,7,37,9,8,11
+41,Units in Structure: 1 DETACHED,LA,Cameron,2480,2215,2282,2233,2285,2213,2309,2271,2414,2499
+42,Units in Structure: 10-19,LA,Cameron,0,0,0,0,0,0,0,0,0,0
+43,Units in Structure: 2,LA,Cameron,12,13,0,0,0,0,0,0,0,0
+44,Units in Structure: 20-49,LA,Cameron,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,LA,Cameron,0,7,7,30,41,36,21,23,0,0
+46,Units in Structure: 5-9,LA,Cameron,0,0,0,0,0,0,0,0,0,0
+47,Units in Structure: 50+,LA,Cameron,0,0,0,0,0,0,5,4,5,5
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Cameron,141,62,57,45,48,63,61,52,47,61
+49,Units in Structure: Mobile Home,LA,Cameron,1189,1290,1353,1276,1235,1205,1208,1450,1523,1549
+40,Units in Structure: 1 ATTACHED,LA,Catahoula,19,27,17,34,34,46,27,39,43,42
+41,Units in Structure: 1 DETACHED,LA,Catahoula,3672,3509,3325,3215,3137,3245,3294,3295,3333,3246
+42,Units in Structure: 10-19,LA,Catahoula,6,9,12,11,16,26,23,20,26,49
+43,Units in Structure: 2,LA,Catahoula,19,19,30,27,51,74,83,89,107,116
+44,Units in Structure: 20-49,LA,Catahoula,18,18,14,20,20,13,7,4,2,2
+45,Units in Structure: 3-4,LA,Catahoula,87,89,77,71,89,39,39,54,60,60
+46,Units in Structure: 5-9,LA,Catahoula,0,5,4,5,4,5,0,0,0,9
+47,Units in Structure: 50+,LA,Catahoula,0,0,9,5,5,5,6,2,2,1
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Catahoula,0,0,6,6,7,8,8,6,6,5
+49,Units in Structure: Mobile Home,LA,Catahoula,1166,1245,1428,1490,1529,1440,1418,1459,1411,1477
+40,Units in Structure: 1 ATTACHED,LA,Claiborne,66,50,49,74,72,65,61,64,39,49
+41,Units in Structure: 1 DETACHED,LA,Claiborne,5509,5485,5487,5295,5501,5359,5310,5414,5442,5262
+42,Units in Structure: 10-19,LA,Claiborne,14,24,15,13,24,23,0,0,21,39
+43,Units in Structure: 2,LA,Claiborne,163,159,159,186,152,154,124,97,47,55
+44,Units in Structure: 20-49,LA,Claiborne,4,4,4,12,19,68,137,175,132,150
+45,Units in Structure: 3-4,LA,Claiborne,76,101,103,104,73,89,51,25,29,77
+46,Units in Structure: 5-9,LA,Claiborne,34,47,25,6,5,10,5,27,38,84
+47,Units in Structure: 50+,LA,Claiborne,9,8,7,8,0,0,17,18,18,15
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Claiborne,5,7,7,2,1,2,6,6,7,18
+49,Units in Structure: Mobile Home,LA,Claiborne,1912,1890,1921,2050,1926,1990,2044,2008,2058,2128
+40,Units in Structure: 1 ATTACHED,LA,Concordia,116,94,146,105,51,44,40,10,29,42
+41,Units in Structure: 1 DETACHED,LA,Concordia,6631,6554,6351,6430,6452,6256,6335,6512,6425,6426
+42,Units in Structure: 10-19,LA,Concordia,9,6,16,15,26,23,24,15,15,0
+43,Units in Structure: 2,LA,Concordia,227,270,128,112,174,175,144,147,117,104
+44,Units in Structure: 20-49,LA,Concordia,13,0,3,13,13,12,9,5,0,0
+45,Units in Structure: 3-4,LA,Concordia,127,110,146,113,109,133,96,54,90,95
+46,Units in Structure: 5-9,LA,Concordia,140,231,297,310,381,477,488,509,459,396
+47,Units in Structure: 50+,LA,Concordia,0,0,0,0,0,0,13,16,15,15
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Concordia,0,0,8,13,29,25,26,18,18,0
+49,Units in Structure: Mobile Home,LA,Concordia,2106,2116,2299,2265,2167,2273,2259,2239,2390,2533
+40,Units in Structure: 1 ATTACHED,LA,De Soto,92,78,80,98,60,85,79,115,75,71
+41,Units in Structure: 1 DETACHED,LA,De Soto,7286,7436,7357,7345,7434,7112,7161,7330,7581,7814
+42,Units in Structure: 10-19,LA,De Soto,113,154,134,158,131,92,66,66,22,26
+43,Units in Structure: 2,LA,De Soto,314,258,248,276,227,230,310,307,288,401
+44,Units in Structure: 20-49,LA,De Soto,42,47,44,62,70,94,93,110,52,53
+45,Units in Structure: 3-4,LA,De Soto,188,172,205,192,226,328,358,357,453,605
+46,Units in Structure: 5-9,LA,De Soto,282,356,377,339,314,231,200,185,172,122
+47,Units in Structure: 50+,LA,De Soto,17,8,34,20,47,85,80,58,107,68
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,De Soto,48,49,43,45,6,12,11,13,10,21
+49,Units in Structure: Mobile Home,LA,De Soto,3753,3673,3732,3743,3807,4100,4074,4130,4062,3874
+40,Units in Structure: 1 ATTACHED,LA,East Baton Rouge,5359,5090,5022,4772,4525,4452,4518,4733,5508,5771
+41,Units in Structure: 1 DETACHED,LA,East Baton Rouge,119540,119808,120414,120350,120460,120915,121677,121609,122643,123481
+42,Units in Structure: 10-19,LA,East Baton Rouge,11449,12217,12825,13518,13656,14453,14082,14274,13265,13031
+43,Units in Structure: 2,LA,East Baton Rouge,3732,4202,4570,4431,4734,4825,4786,4545,4659,4503
+44,Units in Structure: 20-49,LA,East Baton Rouge,5518,6113,6458,7459,7939,8509,8719,9130,8718,8351
+45,Units in Structure: 3-4,LA,East Baton Rouge,12396,12211,12146,12248,12294,12116,12302,11966,11311,11632
+46,Units in Structure: 5-9,LA,East Baton Rouge,11674,11541,11661,11484,11948,10917,10901,10177,9900,8911
+47,Units in Structure: 50+,LA,East Baton Rouge,9046,8918,8435,8318,8100,8156,8449,9570,11115,12578
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,East Baton Rouge,132,133,154,152,64,57,56,45,22,38
+49,Units in Structure: Mobile Home,LA,East Baton Rouge,5805,6049,5914,5629,5633,5943,5907,6110,6070,5940
+40,Units in Structure: 1 ATTACHED,LA,East Carroll,31,17,26,26,23,14,17,14,23,20
+41,Units in Structure: 1 DETACHED,LA,East Carroll,2055,2106,2128,2180,2165,2264,2067,2047,1999,1995
+42,Units in Structure: 10-19,LA,East Carroll,0,0,7,6,15,8,26,16,20,16
+43,Units in Structure: 2,LA,East Carroll,104,74,89,103,131,213,269,327,315,239
+44,Units in Structure: 20-49,LA,East Carroll,8,11,13,0,9,8,25,47,32,38
+45,Units in Structure: 3-4,LA,East Carroll,36,112,114,108,97,106,41,65,71,64
+46,Units in Structure: 5-9,LA,East Carroll,102,102,21,35,27,76,67,58,51,57
+47,Units in Structure: 50+,LA,East Carroll,0,9,9,13,11,12,0,0,5,5
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,East Carroll,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,LA,East Carroll,477,544,483,510,521,455,564,446,387,455
+40,Units in Structure: 1 ATTACHED,LA,East Feliciana,26,23,20,27,33,23,24,45,55,46
+41,Units in Structure: 1 DETACHED,LA,East Feliciana,5322,5209,5355,5303,5311,5363,5544,5393,5303,5508
+42,Units in Structure: 10-19,LA,East Feliciana,14,12,16,20,21,17,10,7,5,11
+43,Units in Structure: 2,LA,East Feliciana,115,139,121,113,137,68,79,93,70,65
+44,Units in Structure: 20-49,LA,East Feliciana,41,24,22,21,19,9,11,16,6,10
+45,Units in Structure: 3-4,LA,East Feliciana,119,146,164,147,152,132,117,106,98,88
+46,Units in Structure: 5-9,LA,East Feliciana,53,70,47,60,74,85,61,101,147,104
+47,Units in Structure: 50+,LA,East Feliciana,24,18,4,3,0,0,23,24,33,30
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,East Feliciana,0,0,0,0,4,7,7,10,20,27
+49,Units in Structure: Mobile Home,LA,East Feliciana,2280,2367,2281,2348,2342,2434,2301,2529,2649,2598
+40,Units in Structure: 1 ATTACHED,LA,Evangeline,133,101,162,181,114,127,150,48,27,29
+41,Units in Structure: 1 DETACHED,LA,Evangeline,11362,11155,11091,11073,10980,11378,11299,11437,11474,11539
+42,Units in Structure: 10-19,LA,Evangeline,40,50,95,106,94,92,104,121,123,132
+43,Units in Structure: 2,LA,Evangeline,307,392,433,412,405,429,359,349,409,550
+44,Units in Structure: 20-49,LA,Evangeline,87,81,105,115,71,47,42,44,47,89
+45,Units in Structure: 3-4,LA,Evangeline,198,148,125,113,172,137,188,238,221,221
+46,Units in Structure: 5-9,LA,Evangeline,119,58,39,52,92,156,185,192,294,246
+47,Units in Structure: 50+,LA,Evangeline,245,290,277,263,261,242,279,247,240,205
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Evangeline,13,17,21,17,0,0,0,0,31,24
+49,Units in Structure: Mobile Home,LA,Evangeline,2170,2360,2343,2373,2577,2207,2236,2242,2122,2020
+40,Units in Structure: 1 ATTACHED,LA,Franklin,151,106,85,27,25,25,21,17,36,66
+41,Units in Structure: 1 DETACHED,LA,Franklin,6733,6856,6725,6657,6510,6591,6399,6254,6195,6288
+42,Units in Structure: 10-19,LA,Franklin,31,29,38,42,57,19,13,16,26,32
+43,Units in Structure: 2,LA,Franklin,69,86,104,132,165,108,164,193,163,148
+44,Units in Structure: 20-49,LA,Franklin,22,35,35,30,26,29,24,22,22,26
+45,Units in Structure: 3-4,LA,Franklin,145,137,149,146,200,195,160,140,100,102
+46,Units in Structure: 5-9,LA,Franklin,73,55,89,105,73,88,108,138,107,90
+47,Units in Structure: 50+,LA,Franklin,26,26,28,54,47,33,28,25,8,9
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Franklin,0,2,3,13,15,16,11,13,2,1
+49,Units in Structure: Mobile Home,LA,Franklin,1737,1682,1777,1844,1959,1987,2181,2367,2532,2549
+40,Units in Structure: 1 ATTACHED,LA,Grant,18,47,54,49,69,59,76,56,52,45
+41,Units in Structure: 1 DETACHED,LA,Grant,6487,6267,5994,5987,5979,5990,6167,6316,6431,6341
+42,Units in Structure: 10-19,LA,Grant,13,10,11,15,10,6,8,6,11,10
+43,Units in Structure: 2,LA,Grant,88,90,111,72,54,41,33,38,77,90
+44,Units in Structure: 20-49,LA,Grant,19,9,0,0,0,0,0,0,0,6
+45,Units in Structure: 3-4,LA,Grant,77,70,73,68,77,44,38,49,20,24
+46,Units in Structure: 5-9,LA,Grant,43,38,36,49,47,43,34,40,33,93
+47,Units in Structure: 50+,LA,Grant,3,3,3,5,2,2,2,2,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Grant,38,41,48,52,60,12,12,11,11,2
+49,Units in Structure: Mobile Home,LA,Grant,2057,2297,2582,2616,2660,2785,2661,2683,2626,2727
+40,Units in Structure: 1 ATTACHED,LA,Iberia,239,266,203,204,240,285,274,238,198,176
+41,Units in Structure: 1 DETACHED,LA,Iberia,20127,20229,20428,20472,19812,19838,19961,20274,20270,20527
+42,Units in Structure: 10-19,LA,Iberia,222,236,264,329,418,324,309,494,511,403
+43,Units in Structure: 2,LA,Iberia,365,437,464,513,623,601,493,561,444,347
+44,Units in Structure: 20-49,LA,Iberia,180,197,165,166,244,327,332,386,425,410
+45,Units in Structure: 3-4,LA,Iberia,1035,919,848,823,986,789,953,972,1028,1022
+46,Units in Structure: 5-9,LA,Iberia,1087,976,883,839,725,773,748,965,1170,1130
+47,Units in Structure: 50+,LA,Iberia,123,258,371,388,350,375,298,152,93,109
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Iberia,82,12,7,34,37,33,34,31,15,44
+49,Units in Structure: Mobile Home,LA,Iberia,5964,6055,6093,5979,6458,6657,6675,6319,6299,6427
+40,Units in Structure: 1 ATTACHED,LA,Iberville,154,163,111,96,117,127,207,247,261,276
+41,Units in Structure: 1 DETACHED,LA,Iberville,9151,8871,8991,9154,9384,9172,9277,9508,9560,9374
+42,Units in Structure: 10-19,LA,Iberville,51,42,47,2,32,55,53,97,111,81
+43,Units in Structure: 2,LA,Iberville,332,372,365,258,283,351,239,173,232,220
+44,Units in Structure: 20-49,LA,Iberville,48,51,50,56,53,51,47,39,42,44
+45,Units in Structure: 3-4,LA,Iberville,264,218,200,217,210,264,349,280,383,449
+46,Units in Structure: 5-9,LA,Iberville,119,77,40,45,66,95,103,111,128,223
+47,Units in Structure: 50+,LA,Iberville,0,16,12,13,15,15,5,8,19,32
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Iberville,52,73,52,30,27,89,85,80,73,65
+49,Units in Structure: Mobile Home,LA,Iberville,2439,2787,2852,2863,2662,2695,2644,2662,2512,2632
+40,Units in Structure: 1 ATTACHED,LA,Jackson,15,28,25,37,43,64,75,85,48,64
+41,Units in Structure: 1 DETACHED,LA,Jackson,5329,5307,5424,5472,5327,5546,5642,5789,5725,5747
+42,Units in Structure: 10-19,LA,Jackson,0,0,0,10,72,51,77,81,62,26
+43,Units in Structure: 2,LA,Jackson,357,343,311,244,272,210,188,190,255,293
+44,Units in Structure: 20-49,LA,Jackson,22,13,14,13,15,9,8,4,6,1
+45,Units in Structure: 3-4,LA,Jackson,163,123,131,79,84,84,100,100,108,96
+46,Units in Structure: 5-9,LA,Jackson,80,102,98,144,122,111,121,96,80,71
+47,Units in Structure: 50+,LA,Jackson,0,0,0,0,0,0,18,15,11,10
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Jackson,7,19,28,43,55,47,44,30,28,35
+49,Units in Structure: Mobile Home,LA,Jackson,1670,1722,1639,1641,1735,1607,1465,1417,1530,1535
+40,Units in Structure: 1 ATTACHED,LA,Jefferson,7038,7917,8252,8027,8090,8221,7480,7420,7319,7262
+41,Units in Structure: 1 DETACHED,LA,Jefferson,122353,122346,122391,122055,122798,122575,123819,123993,124137,123997
+42,Units in Structure: 10-19,LA,Jefferson,10783,11236,11114,11235,10977,11088,10958,10812,11107,11022
+43,Units in Structure: 2,LA,Jefferson,7521,7657,7529,7762,7808,7778,7480,7428,7145,7243
+44,Units in Structure: 20-49,LA,Jefferson,8330,8034,8195,8421,8547,8699,8665,8320,8344,8552
+45,Units in Structure: 3-4,LA,Jefferson,12033,12491,12706,12772,12763,12546,11943,11794,11982,11969
+46,Units in Structure: 5-9,LA,Jefferson,7468,7693,7526,8019,7896,7864,7873,7893,7870,7633
+47,Units in Structure: 50+,LA,Jefferson,7926,7753,8104,7693,7344,7441,7967,7810,7623,7715
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Jefferson,71,75,76,80,115,103,130,141,125,63
+49,Units in Structure: Mobile Home,LA,Jefferson,3563,3064,2760,2768,2820,2848,2855,2917,2887,3055
+40,Units in Structure: 1 ATTACHED,LA,Jefferson Davis,49,81,230,261,233,239,210,122,83,67
+41,Units in Structure: 1 DETACHED,LA,Jefferson Davis,10208,10185,9979,10019,10051,10168,10231,10366,10403,10326
+42,Units in Structure: 10-19,LA,Jefferson Davis,96,97,98,73,57,35,30,57,68,49
+43,Units in Structure: 2,LA,Jefferson Davis,226,155,210,245,298,264,339,314,366,326
+44,Units in Structure: 20-49,LA,Jefferson Davis,40,31,28,12,11,9,22,21,48,59
+45,Units in Structure: 3-4,LA,Jefferson Davis,143,147,173,136,118,136,166,176,229,293
+46,Units in Structure: 5-9,LA,Jefferson Davis,159,121,149,141,147,81,125,96,140,235
+47,Units in Structure: 50+,LA,Jefferson Davis,13,0,0,0,15,21,34,32,37,20
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Jefferson Davis,27,25,8,8,10,0,0,57,86,77
+49,Units in Structure: Mobile Home,LA,Jefferson Davis,2280,2443,2479,2482,2504,2566,2439,2472,2349,2467
+40,Units in Structure: 1 ATTACHED,LA,Lafayette,2125,2138,2093,2316,2675,2572,2430,2679,2738,2563
+41,Units in Structure: 1 DETACHED,LA,Lafayette,58024,58954,59949,60875,61489,62180,63628,64693,66005,67703
+42,Units in Structure: 10-19,LA,Lafayette,4001,4433,4471,4311,4558,5115,5184,5085,5181,5364
+43,Units in Structure: 2,LA,Lafayette,1873,1789,1720,1590,1675,1599,1887,1947,1879,1786
+44,Units in Structure: 20-49,LA,Lafayette,2417,2387,2625,2899,3096,3135,3249,3536,3291,3232
+45,Units in Structure: 3-4,LA,Lafayette,5123,4800,4754,4598,4336,3990,4363,4607,4448,4475
+46,Units in Structure: 5-9,LA,Lafayette,3802,4061,4410,4216,4295,4216,3927,4219,4557,4405
+47,Units in Structure: 50+,LA,Lafayette,3453,3519,2910,2921,2915,2881,2212,2152,2288,2293
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Lafayette,172,144,160,81,57,54,71,44,57,45
+49,Units in Structure: Mobile Home,LA,Lafayette,10343,10500,10586,10565,10277,10726,10896,10600,10700,10625
+40,Units in Structure: 1 ATTACHED,LA,Lafourche,333,359,387,391,373,474,510,514,534,450
+41,Units in Structure: 1 DETACHED,LA,Lafourche,27156,27316,27515,27504,27795,28198,28410,28874,29637,29962
+42,Units in Structure: 10-19,LA,Lafourche,315,430,342,461,460,500,537,467,521,523
+43,Units in Structure: 2,LA,Lafourche,1005,710,719,673,767,614,680,839,950,988
+44,Units in Structure: 20-49,LA,Lafourche,138,162,162,219,249,192,249,213,260,426
+45,Units in Structure: 3-4,LA,Lafourche,1140,1045,1118,1097,1163,1253,1198,1236,1142,1106
+46,Units in Structure: 5-9,LA,Lafourche,675,546,557,601,527,471,505,493,631,713
+47,Units in Structure: 50+,LA,Lafourche,164,152,207,219,225,288,280,269,252,373
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Lafourche,142,94,146,117,90,87,88,50,64,93
+49,Units in Structure: Mobile Home,LA,Lafourche,6803,7449,7469,7542,7510,7341,7254,7342,6706,6483
+40,Units in Structure: 1 ATTACHED,LA,La Salle,30,32,,,,,,,,
+41,Units in Structure: 1 DETACHED,LA,La Salle,4901,4876,,,,,,,,
+42,Units in Structure: 10-19,LA,La Salle,6,0,,,,,,,,
+43,Units in Structure: 2,LA,La Salle,233,236,,,,,,,,
+44,Units in Structure: 20-49,LA,La Salle,20,0,,,,,,,,
+45,Units in Structure: 3-4,LA,La Salle,19,14,,,,,,,,
+46,Units in Structure: 5-9,LA,La Salle,40,44,,,,,,,,
+47,Units in Structure: 50+,LA,La Salle,3,3,,,,,,,,
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,La Salle,0,3,,,,,,,,
+49,Units in Structure: Mobile Home,LA,La Salle,1270,1346,,,,,,,,
+40,Units in Structure: 1 ATTACHED,LA,Lincoln,299,277,254,217,227,164,137,177,234,184
+41,Units in Structure: 1 DETACHED,LA,Lincoln,11115,10954,11303,11326,11170,11633,11602,11359,11120,11565
+42,Units in Structure: 10-19,LA,Lincoln,610,660,580,468,418,319,370,293,346,464
+43,Units in Structure: 2,LA,Lincoln,1718,1705,1589,1642,1610,1629,1719,1921,1994,1956
+44,Units in Structure: 20-49,LA,Lincoln,359,435,508,584,488,471,504,450,304,320
+45,Units in Structure: 3-4,LA,Lincoln,1122,1031,1036,942,979,814,847,859,1050,1007
+46,Units in Structure: 5-9,LA,Lincoln,591,515,545,632,747,849,956,1031,1032,844
+47,Units in Structure: 50+,LA,Lincoln,256,305,314,250,220,232,120,112,130,161
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Lincoln,24,40,45,44,25,37,37,26,27,17
+49,Units in Structure: Mobile Home,LA,Lincoln,3025,3396,3257,3379,3703,3497,3430,3703,3838,3733
+40,Units in Structure: 1 ATTACHED,LA,Livingston,268,411,419,489,530,494,378,277,191,223
+41,Units in Structure: 1 DETACHED,LA,Livingston,31206,32267,33108,33597,34558,35630,35599,36966,38309,39174
+42,Units in Structure: 10-19,LA,Livingston,569,536,671,643,687,734,765,540,423,335
+43,Units in Structure: 2,LA,Livingston,210,234,419,519,508,535,555,487,347,301
+44,Units in Structure: 20-49,LA,Livingston,324,251,263,220,264,225,253,334,305,406
+45,Units in Structure: 3-4,LA,Livingston,655,798,1080,1133,1093,1020,975,852,745,600
+46,Units in Structure: 5-9,LA,Livingston,437,325,427,382,460,453,487,504,549,500
+47,Units in Structure: 50+,LA,Livingston,238,231,207,166,103,277,355,727,1138,1323
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Livingston,106,92,66,42,12,29,212,221,266,338
+49,Units in Structure: Mobile Home,LA,Livingston,13730,14095,13622,13886,13889,13491,14094,14397,13948,13545
+40,Units in Structure: 1 ATTACHED,LA,Madison,22,24,16,23,14,12,5,3,0,0
+41,Units in Structure: 1 DETACHED,LA,Madison,3526,3447,3413,3422,3534,3619,3576,3733,3787,3738
+42,Units in Structure: 10-19,LA,Madison,27,80,60,68,71,65,19,20,70,101
+43,Units in Structure: 2,LA,Madison,135,97,82,76,65,53,143,127,179,167
+44,Units in Structure: 20-49,LA,Madison,67,72,83,42,61,76,67,49,64,75
+45,Units in Structure: 3-4,LA,Madison,182,214,189,229,189,216,262,281,196,229
+46,Units in Structure: 5-9,LA,Madison,252,160,260,252,248,250,282,205,150,163
+47,Units in Structure: 50+,LA,Madison,0,0,7,8,9,11,10,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Madison,8,29,22,40,13,8,7,3,4,4
+49,Units in Structure: Mobile Home,LA,Madison,608,696,691,668,632,574,557,567,590,629
+40,Units in Structure: 1 ATTACHED,LA,Morehouse,102,81,122,128,164,144,166,125,113,111
+41,Units in Structure: 1 DETACHED,LA,Morehouse,9285,9202,9038,9046,8980,9324,9160,9094,9149,9003
+42,Units in Structure: 10-19,LA,Morehouse,13,34,47,71,77,69,74,108,88,137
+43,Units in Structure: 2,LA,Morehouse,263,242,227,204,241,135,191,231,197,250
+44,Units in Structure: 20-49,LA,Morehouse,157,131,140,115,76,70,45,25,27,58
+45,Units in Structure: 3-4,LA,Morehouse,266,335,295,283,367,356,333,349,417,417
+46,Units in Structure: 5-9,LA,Morehouse,197,222,226,226,237,216,185,145,112,109
+47,Units in Structure: 50+,LA,Morehouse,97,74,94,173,213,179,205,184,100,105
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Morehouse,38,43,16,0,0,0,0,0,0,16
+49,Units in Structure: Mobile Home,LA,Morehouse,2119,2103,2274,2178,2108,2001,2143,2302,2388,2472
+40,Units in Structure: 1 ATTACHED,LA,Natchitoches,405,422,516,471,477,656,633,907,1063,1174
+41,Units in Structure: 1 DETACHED,LA,Natchitoches,10977,10798,10785,10979,11013,11043,11120,11008,10943,10811
+42,Units in Structure: 10-19,LA,Natchitoches,671,637,682,637,677,714,674,643,598,567
+43,Units in Structure: 2,LA,Natchitoches,652,626,637,586,553,434,440,325,260,246
+44,Units in Structure: 20-49,LA,Natchitoches,210,344,310,407,576,618,607,646,586,541
+45,Units in Structure: 3-4,LA,Natchitoches,648,608,568,494,519,560,541,412,474,415
+46,Units in Structure: 5-9,LA,Natchitoches,814,897,833,694,513,316,401,575,744,819
+47,Units in Structure: 50+,LA,Natchitoches,141,128,135,237,271,338,357,354,261,253
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Natchitoches,13,6,5,9,16,13,15,34,76,76
+49,Units in Structure: Mobile Home,LA,Natchitoches,3857,4066,4136,4101,4066,4028,3974,4040,4042,4231
+40,Units in Structure: 1 ATTACHED,LA,Orleans,20969,23258,25519,25394,25109,23208,21050,18969,18332,17941
+41,Units in Structure: 1 DETACHED,LA,Orleans,70671,78062,81427,84111,84501,84767,85542,85378,84821,85749
+42,Units in Structure: 10-19,LA,Orleans,7305,7903,8453,8186,8606,8525,8587,8020,8148,7400
+43,Units in Structure: 2,LA,Orleans,21982,25303,25169,26075,26634,28743,30736,33073,33667,33362
+44,Units in Structure: 20-49,LA,Orleans,5476,6493,7037,7501,8029,7709,7357,7427,7193,7261
+45,Units in Structure: 3-4,LA,Orleans,14310,16452,17032,16402,16350,16342,16280,16122,16207,16059
+46,Units in Structure: 5-9,LA,Orleans,8204,8683,9351,9305,8834,9125,9315,8925,8855,8571
+47,Units in Structure: 50+,LA,Orleans,8457,9918,10723,11301,11567,12024,12286,12611,13358,14428
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Orleans,102,85,107,42,32,59,80,63,102,117
+49,Units in Structure: Mobile Home,LA,Orleans,3461,2900,2169,1810,1648,1449,1125,1045,1055,920
+40,Units in Structure: 1 ATTACHED,LA,Ouachita,684,725,785,887,942,1098,1212,1173,1230,1227
+41,Units in Structure: 1 DETACHED,LA,Ouachita,42736,43067,43108,42861,43506,43650,43996,44644,44684,44526
+42,Units in Structure: 10-19,LA,Ouachita,1172,1266,1174,1149,1085,931,917,1057,1157,1171
+43,Units in Structure: 2,LA,Ouachita,1941,2078,2211,2108,2389,2397,2420,2301,2439,2367
+44,Units in Structure: 20-49,LA,Ouachita,698,755,681,712,596,544,503,556,552,657
+45,Units in Structure: 3-4,LA,Ouachita,3501,3625,3822,3663,3874,4315,4153,4552,4476,4744
+46,Units in Structure: 5-9,LA,Ouachita,2584,2862,2839,3222,3066,3154,3183,3226,3061,3332
+47,Units in Structure: 50+,LA,Ouachita,1232,1061,1007,964,725,732,875,911,1205,1279
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Ouachita,22,28,27,43,45,46,42,30,22,43
+49,Units in Structure: Mobile Home,LA,Ouachita,9373,8789,8972,9273,9138,8936,9033,8642,8906,9011
+40,Units in Structure: 1 ATTACHED,LA,Plaquemines,444,502,564,625,521,555,535,644,788,903
+41,Units in Structure: 1 DETACHED,LA,Plaquemines,5205,5164,5431,5294,5435,5184,5124,5301,5345,5358
+42,Units in Structure: 10-19,LA,Plaquemines,29,70,99,165,165,200,139,149,59,80
+43,Units in Structure: 2,LA,Plaquemines,690,662,579,327,397,444,450,455,562,432
+44,Units in Structure: 20-49,LA,Plaquemines,27,0,0,0,24,19,25,47,56,33
+45,Units in Structure: 3-4,LA,Plaquemines,559,488,352,425,439,435,499,332,232,320
+46,Units in Structure: 5-9,LA,Plaquemines,267,277,235,170,115,157,179,181,218,245
+47,Units in Structure: 50+,LA,Plaquemines,13,0,0,23,56,51,60,60,36,32
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Plaquemines,27,17,8,17,14,19,15,10,19,24
+49,Units in Structure: Mobile Home,LA,Plaquemines,2009,2275,2300,2578,2572,2749,2840,2915,2887,2747
+40,Units in Structure: 1 ATTACHED,LA,Pointe Coupee,148,160,129,105,85,72,133,142,126,140
+41,Units in Structure: 1 DETACHED,LA,Pointe Coupee,8220,8027,8241,8079,8116,8186,8140,8208,8154,8193
+42,Units in Structure: 10-19,LA,Pointe Coupee,26,45,71,39,33,51,20,14,24,21
+43,Units in Structure: 2,LA,Pointe Coupee,124,126,148,130,130,175,188,165,208,288
+44,Units in Structure: 20-49,LA,Pointe Coupee,35,63,29,40,59,52,63,56,53,26
+45,Units in Structure: 3-4,LA,Pointe Coupee,63,84,136,161,249,232,239,200,122,42
+46,Units in Structure: 5-9,LA,Pointe Coupee,75,115,64,76,68,50,49,47,43,53
+47,Units in Structure: 50+,LA,Pointe Coupee,31,35,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Pointe Coupee,0,0,0,0,10,10,15,15,15,5
+49,Units in Structure: Mobile Home,LA,Pointe Coupee,2319,2447,2318,2514,2464,2429,2451,2566,2734,2821
+40,Units in Structure: 1 ATTACHED,LA,Rapides,776,756,862,871,923,850,885,914,979,1052
+41,Units in Structure: 1 DETACHED,LA,Rapides,39279,38683,38856,38835,38924,39110,39196,38967,39010,38834
+42,Units in Structure: 10-19,LA,Rapides,1158,1370,1236,1194,1162,1434,1297,1434,1501,1380
+43,Units in Structure: 2,LA,Rapides,2396,2513,2793,2435,2324,2388,2322,2457,2724,2728
+44,Units in Structure: 20-49,LA,Rapides,429,429,334,473,415,395,431,414,294,320
+45,Units in Structure: 3-4,LA,Rapides,1625,1819,1905,2103,2125,2178,2163,2226,2018,1830
+46,Units in Structure: 5-9,LA,Rapides,1938,1918,1843,1911,2146,1977,2022,2098,2165,2120
+47,Units in Structure: 50+,LA,Rapides,434,467,514,498,516,571,666,689,798,861
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Rapides,128,76,50,55,58,32,32,35,36,43
+49,Units in Structure: Mobile Home,LA,Rapides,7064,7494,7456,7646,7855,7805,7974,8281,8298,8985
+40,Units in Structure: 1 ATTACHED,LA,Red River,50,33,22,24,36,27,16,18,58,60
+41,Units in Structure: 1 DETACHED,LA,Red River,3090,3048,2961,2808,2704,2735,2597,2647,2531,2538
+42,Units in Structure: 10-19,LA,Red River,4,3,5,4,3,3,4,13,9,10
+43,Units in Structure: 2,LA,Red River,96,103,94,118,164,157,179,171,176,156
+44,Units in Structure: 20-49,LA,Red River,29,31,31,19,7,5,16,9,9,7
+45,Units in Structure: 3-4,LA,Red River,40,31,29,35,27,45,78,70,66,77
+46,Units in Structure: 5-9,LA,Red River,26,44,46,65,75,82,76,66,41,66
+47,Units in Structure: 50+,LA,Red River,11,10,8,5,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Red River,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,LA,Red River,772,819,935,1040,1116,1078,1174,1176,1300,1302
+40,Units in Structure: 1 ATTACHED,LA,Richland,23,18,34,49,54,45,40,31,12,81
+41,Units in Structure: 1 DETACHED,LA,Richland,6366,6306,6418,6126,6268,6319,6168,6186,6341,6276
+42,Units in Structure: 10-19,LA,Richland,26,39,16,16,5,16,25,30,27,25
+43,Units in Structure: 2,LA,Richland,254,283,295,341,309,314,310,379,401,473
+44,Units in Structure: 20-49,LA,Richland,52,41,46,47,65,84,91,80,67,43
+45,Units in Structure: 3-4,LA,Richland,176,243,155,134,163,178,209,208,195,194
+46,Units in Structure: 5-9,LA,Richland,84,85,109,114,112,116,117,90,89,68
+47,Units in Structure: 50+,LA,Richland,0,12,9,13,11,11,8,8,7,10
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Richland,45,41,36,38,4,4,17,17,15,13
+49,Units in Structure: Mobile Home,LA,Richland,1531,1518,1537,1813,1760,1699,1844,1888,1796,1811
+40,Units in Structure: 1 ATTACHED,LA,Sabine,226,186,176,105,75,99,76,92,144,134
+41,Units in Structure: 1 DETACHED,LA,Sabine,7480,7548,7473,7518,7690,7878,7805,7801,7779,7683
+42,Units in Structure: 10-19,LA,Sabine,77,113,84,61,52,62,34,37,125,120
+43,Units in Structure: 2,LA,Sabine,338,317,319,344,330,303,340,335,301,334
+44,Units in Structure: 20-49,LA,Sabine,68,47,50,39,31,31,44,36,33,32
+45,Units in Structure: 3-4,LA,Sabine,98,83,69,116,133,163,184,179,153,88
+46,Units in Structure: 5-9,LA,Sabine,179,176,182,155,154,110,124,181,166,170
+47,Units in Structure: 50+,LA,Sabine,32,27,16,15,9,9,15,15,13,16
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Sabine,9,12,13,13,13,17,12,13,13,26
+49,Units in Structure: Mobile Home,LA,Sabine,5585,5604,5786,5811,5797,5672,5799,6078,6171,6453
+40,Units in Structure: 1 ATTACHED,LA,St. Bernard,344,639,827,753,759,759,661,854,1001,1129
+41,Units in Structure: 1 DETACHED,LA,St. Bernard,9227,11099,11884,12311,12315,12295,12292,12309,12317,12426
+42,Units in Structure: 10-19,LA,St. Bernard,107,105,160,153,160,154,128,116,90,168
+43,Units in Structure: 2,LA,St. Bernard,1216,1275,1339,1467,1468,1561,1708,1593,1497,1242
+44,Units in Structure: 20-49,LA,St. Bernard,0,52,56,68,54,89,74,63,37,73
+45,Units in Structure: 3-4,LA,St. Bernard,643,640,621,513,581,541,545,503,550,588
+46,Units in Structure: 5-9,LA,St. Bernard,234,240,246,291,372,345,468,485,409,339
+47,Units in Structure: 50+,LA,St. Bernard,38,30,0,0,19,34,34,43,45,58
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,St. Bernard,79,81,48,51,33,25,21,27,30,28
+49,Units in Structure: Mobile Home,LA,St. Bernard,1944,1810,1372,1167,1045,997,940,932,1013,984
+40,Units in Structure: 1 ATTACHED,LA,St. Charles,189,226,314,370,316,339,362,290,206,255
+41,Units in Structure: 1 DETACHED,LA,St. Charles,15465,15675,15524,15388,15441,15561,15404,15559,15721,15993
+42,Units in Structure: 10-19,LA,St. Charles,156,108,65,125,218,188,193,211,153,76
+43,Units in Structure: 2,LA,St. Charles,222,241,414,450,479,542,611,496,595,651
+44,Units in Structure: 20-49,LA,St. Charles,91,137,110,83,117,144,130,104,103,72
+45,Units in Structure: 3-4,LA,St. Charles,675,842,846,983,920,970,955,1052,942,960
+46,Units in Structure: 5-9,LA,St. Charles,621,488,516,533,575,480,525,595,537,549
+47,Units in Structure: 50+,LA,St. Charles,252,126,70,65,36,38,35,102,156,187
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,St. Charles,0,0,28,26,23,26,28,18,19,18
+49,Units in Structure: Mobile Home,LA,St. Charles,2007,2009,2071,1982,1992,1921,2046,2029,2146,1949
+40,Units in Structure: 1 ATTACHED,LA,St. Helena,0,2,3,3,16,18,22,11,16,4
+41,Units in Structure: 1 DETACHED,LA,St. Helena,3215,3034,3229,3035,3018,2912,3007,2894,3180,3270
+42,Units in Structure: 10-19,LA,St. Helena,0,9,15,15,14,10,30,20,23,39
+43,Units in Structure: 2,LA,St. Helena,11,7,0,0,6,12,16,15,17,4
+44,Units in Structure: 20-49,LA,St. Helena,29,42,32,41,27,21,20,13,9,5
+45,Units in Structure: 3-4,LA,St. Helena,14,16,14,12,7,10,85,82,74,70
+46,Units in Structure: 5-9,LA,St. Helena,58,54,28,30,31,6,14,9,6,5
+47,Units in Structure: 50+,LA,St. Helena,5,18,18,5,5,5,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,St. Helena,0,0,0,0,0,0,0,7,8,7
+49,Units in Structure: Mobile Home,LA,St. Helena,1842,1974,1829,2000,2030,2169,1963,2193,1940,1926
+40,Units in Structure: 1 ATTACHED,LA,St. James,65,71,55,140,136,151,127,120,42,37
+41,Units in Structure: 1 DETACHED,LA,St. James,6263,6196,6244,6352,6516,6470,6557,6469,6331,6496
+42,Units in Structure: 10-19,LA,St. James,28,0,0,0,0,33,54,34,34,27
+43,Units in Structure: 2,LA,St. James,443,414,440,411,239,234,338,329,420,538
+44,Units in Structure: 20-49,LA,St. James,0,0,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,LA,St. James,96,73,60,111,159,202,267,339,359,361
+46,Units in Structure: 5-9,LA,St. James,61,138,112,107,97,51,0,12,64,71
+47,Units in Structure: 50+,LA,St. James,11,14,15,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,St. James,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,LA,St. James,1380,1511,1566,1393,1443,1509,1359,1514,1622,1389
+40,Units in Structure: 1 ATTACHED,LA,St. John the Baptist,204,216,247,197,204,240,128,109,146,134
+41,Units in Structure: 1 DETACHED,LA,St. John the Baptist,13647,13916,13897,14050,13894,13797,13798,13888,13661,13885
+42,Units in Structure: 10-19,LA,St. John the Baptist,86,185,215,172,154,193,90,88,84,52
+43,Units in Structure: 2,LA,St. John the Baptist,447,467,451,530,627,567,472,508,416,468
+44,Units in Structure: 20-49,LA,St. John the Baptist,64,49,11,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,LA,St. John the Baptist,637,585,645,581,687,736,753,829,932,733
+46,Units in Structure: 5-9,LA,St. John the Baptist,163,217,219,135,128,184,193,221,191,197
+47,Units in Structure: 50+,LA,St. John the Baptist,128,114,104,94,124,61,91,103,118,73
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,St. John the Baptist,21,17,18,17,26,19,24,21,28,9
+49,Units in Structure: Mobile Home,LA,St. John the Baptist,1986,1706,1696,1719,1716,1787,2070,1935,2182,2227
+40,Units in Structure: 1 ATTACHED,LA,St. Landry,187,161,195,200,197,230,188,121,160,181
+41,Units in Structure: 1 DETACHED,LA,St. Landry,25075,24898,24901,24318,24457,24386,24908,25685,25735,25713
+42,Units in Structure: 10-19,LA,St. Landry,155,180,107,110,183,245,209,229,259,248
+43,Units in Structure: 2,LA,St. Landry,1403,1307,1238,1450,1298,1359,1408,1409,1274,1341
+44,Units in Structure: 20-49,LA,St. Landry,419,364,293,249,261,199,183,163,175,167
+45,Units in Structure: 3-4,LA,St. Landry,553,521,601,638,842,706,734,697,749,694
+46,Units in Structure: 5-9,LA,St. Landry,567,544,601,657,540,542,513,485,476,640
+47,Units in Structure: 50+,LA,St. Landry,248,268,209,155,115,144,144,123,174,172
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,St. Landry,37,31,9,0,0,23,40,55,75,73
+49,Units in Structure: Mobile Home,LA,St. Landry,7288,7535,7738,8045,8047,8213,7845,7491,7501,7696
+40,Units in Structure: 1 ATTACHED,LA,St. Martin,165,177,154,116,180,176,220,177,128,93
+41,Units in Structure: 1 DETACHED,LA,St. Martin,14946,14889,14827,14918,15058,14917,14944,15653,15875,15949
+42,Units in Structure: 10-19,LA,St. Martin,170,89,50,41,123,113,110,158,134,44
+43,Units in Structure: 2,LA,St. Martin,393,277,285,260,214,255,283,270,321,347
+44,Units in Structure: 20-49,LA,St. Martin,29,32,36,64,101,63,76,97,86,32
+45,Units in Structure: 3-4,LA,St. Martin,229,230,235,217,139,165,190,172,162,215
+46,Units in Structure: 5-9,LA,St. Martin,236,247,304,400,366,357,469,397,390,425
+47,Units in Structure: 50+,LA,St. Martin,16,20,44,55,51,67,73,39,29,28
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,St. Martin,42,11,33,46,55,45,44,58,70,52
+49,Units in Structure: Mobile Home,LA,St. Martin,5472,5867,6025,5932,5963,6232,6127,5901,5966,6199
+40,Units in Structure: 1 ATTACHED,LA,St. Mary,266,247,228,262,249,226,251,209,215,181
+41,Units in Structure: 1 DETACHED,LA,St. Mary,15304,15390,15722,15544,15615,15422,15406,15584,15898,15961
+42,Units in Structure: 10-19,LA,St. Mary,193,117,113,185,202,247,350,386,365,405
+43,Units in Structure: 2,LA,St. Mary,702,693,656,755,790,822,726,748,755,707
+44,Units in Structure: 20-49,LA,St. Mary,210,192,192,137,166,190,261,244,273,306
+45,Units in Structure: 3-4,LA,St. Mary,960,963,891,781,865,784,686,781,736,667
+46,Units in Structure: 5-9,LA,St. Mary,568,578,624,579,594,690,768,623,588,550
+47,Units in Structure: 50+,LA,St. Mary,0,10,65,89,103,151,185,137,118,120
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,St. Mary,95,120,142,180,163,121,76,72,20,46
+49,Units in Structure: Mobile Home,LA,St. Mary,4544,4629,4358,4508,4370,4509,4497,4629,4521,4561
+40,Units in Structure: 1 ATTACHED,LA,St. Tammany,2570,2349,2551,2531,2412,2200,2426,2195,2147,2225
+41,Units in Structure: 1 DETACHED,LA,St. Tammany,72349,73298,74172,74450,74830,75799,77004,78495,79484,80327
+42,Units in Structure: 10-19,LA,St. Tammany,2053,1965,2063,2408,2574,2615,2570,2554,2422,2439
+43,Units in Structure: 2,LA,St. Tammany,1579,1746,1759,1941,1979,1954,2067,2116,1981,2012
+44,Units in Structure: 20-49,LA,St. Tammany,933,1053,1323,1352,1509,1637,1613,1784,1930,2010
+45,Units in Structure: 3-4,LA,St. Tammany,2183,2260,1905,1736,1871,1823,1767,1873,1882,1869
+46,Units in Structure: 5-9,LA,St. Tammany,1871,1796,1802,1504,1464,1568,1611,1829,1816,2282
+47,Units in Structure: 50+,LA,St. Tammany,1715,1806,1742,1810,1825,1923,2035,2022,2090,1993
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,St. Tammany,293,259,128,82,29,26,76,73,128,121
+49,Units in Structure: Mobile Home,LA,St. Tammany,8033,8163,8187,8348,8476,8346,7747,7610,8007,7631
+40,Units in Structure: 1 ATTACHED,LA,Tangipahoa,861,883,823,633,773,710,630,624,598,533
+41,Units in Structure: 1 DETACHED,LA,Tangipahoa,30479,30429,30741,30591,31092,31433,32591,33772,34753,35349
+42,Units in Structure: 10-19,LA,Tangipahoa,394,391,350,291,279,252,221,303,394,407
+43,Units in Structure: 2,LA,Tangipahoa,2329,2606,2746,2754,3142,3351,3191,3406,3424,2943
+44,Units in Structure: 20-49,LA,Tangipahoa,442,370,340,398,327,377,363,326,261,222
+45,Units in Structure: 3-4,LA,Tangipahoa,2251,2496,2563,2686,2697,2582,2383,2312,2220,2120
+46,Units in Structure: 5-9,LA,Tangipahoa,1108,1153,1151,1160,1318,1198,1316,1088,1284,1272
+47,Units in Structure: 50+,LA,Tangipahoa,134,97,93,116,89,56,69,122,170,193
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Tangipahoa,31,57,73,48,53,83,68,144,141,140
+49,Units in Structure: Mobile Home,LA,Tangipahoa,10629,11087,11325,11998,11593,11896,11681,11612,11270,12146
+40,Units in Structure: 1 ATTACHED,LA,Tensas,23,0,0,0,0,20,19,43,47,48
+41,Units in Structure: 1 DETACHED,LA,Tensas,2917,2928,2919,2863,2812,2731,2718,2741,2747,2809
+42,Units in Structure: 10-19,LA,Tensas,0,0,5,9,11,15,17,5,2,24
+43,Units in Structure: 2,LA,Tensas,14,13,14,17,3,13,13,24,21,21
+44,Units in Structure: 20-49,LA,Tensas,21,16,22,15,13,11,13,9,15,11
+45,Units in Structure: 3-4,LA,Tensas,17,21,23,20,26,25,24,26,22,31
+46,Units in Structure: 5-9,LA,Tensas,71,33,33,43,38,21,28,28,13,7
+47,Units in Structure: 50+,LA,Tensas,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Tensas,5,7,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,LA,Tensas,289,337,342,393,457,531,545,520,539,481
+40,Units in Structure: 1 ATTACHED,LA,Terrebonne,709,667,593,583,639,435,432,574,501,426
+41,Units in Structure: 1 DETACHED,LA,Terrebonne,30252,30469,30629,30495,30126,29962,30260,30455,30930,31033
+42,Units in Structure: 10-19,LA,Terrebonne,508,652,693,824,943,1113,1183,1358,1215,1227
+43,Units in Structure: 2,LA,Terrebonne,1027,787,784,895,1043,1252,1151,1293,1362,1334
+44,Units in Structure: 20-49,LA,Terrebonne,371,498,482,594,596,671,617,640,668,884
+45,Units in Structure: 3-4,LA,Terrebonne,1200,1081,1150,1258,1304,1302,1440,1390,1352,1283
+46,Units in Structure: 5-9,LA,Terrebonne,1175,1161,1123,1080,1134,1162,1294,1191,1199,1119
+47,Units in Structure: 50+,LA,Terrebonne,529,498,737,644,618,686,814,694,856,1055
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Terrebonne,75,96,105,64,113,128,83,72,114,72
+49,Units in Structure: Mobile Home,LA,Terrebonne,7667,7837,7554,7500,7663,7652,7342,7341,7074,6991
+40,Units in Structure: 1 ATTACHED,LA,Union,3,15,12,11,31,40,24,31,25,16
+41,Units in Structure: 1 DETACHED,LA,Union,7685,7580,7915,7508,7199,7045,6981,6879,7140,7176
+42,Units in Structure: 10-19,LA,Union,27,26,15,15,26,50,46,46,51,30
+43,Units in Structure: 2,LA,Union,90,164,173,146,150,141,118,125,97,82
+44,Units in Structure: 20-49,LA,Union,65,34,60,84,63,58,61,56,46,38
+45,Units in Structure: 3-4,LA,Union,269,254,235,214,168,159,198,164,172,198
+46,Units in Structure: 5-9,LA,Union,141,187,196,198,209,239,237,225,211,197
+47,Units in Structure: 50+,LA,Union,62,4,13,8,0,0,28,29,43,40
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Union,23,32,27,17,28,21,8,22,28,38
+49,Units in Structure: Mobile Home,LA,Union,3066,3087,2758,3163,3518,3667,3728,4019,3864,4022
+40,Units in Structure: 1 ATTACHED,LA,Vermilion,226,235,291,297,233,218,115,150,193,236
+41,Units in Structure: 1 DETACHED,LA,Vermilion,17617,17895,17884,17693,18293,18279,18379,18273,18929,19117
+42,Units in Structure: 10-19,LA,Vermilion,140,133,229,290,314,226,293,290,262,217
+43,Units in Structure: 2,LA,Vermilion,274,305,345,365,423,380,353,523,511,433
+44,Units in Structure: 20-49,LA,Vermilion,15,41,51,110,109,116,116,212,148,112
+45,Units in Structure: 3-4,LA,Vermilion,343,224,302,397,445,424,352,385,414,385
+46,Units in Structure: 5-9,LA,Vermilion,315,276,309,313,275,295,282,213,238,332
+47,Units in Structure: 50+,LA,Vermilion,144,138,154,185,112,111,84,37,23,55
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Vermilion,90,86,100,163,128,157,162,175,143,95
+49,Units in Structure: Mobile Home,LA,Vermilion,5516,5654,5556,5556,5256,5516,5733,5950,5500,5604
+40,Units in Structure: 1 ATTACHED,LA,Vernon,1018,1261,1410,1337,1375,1599,1386,1385,1460,1358
+41,Units in Structure: 1 DETACHED,LA,Vernon,10582,10494,10405,10508,10728,10461,10675,11113,11088,11012
+42,Units in Structure: 10-19,LA,Vernon,430,411,318,268,287,214,201,245,229,226
+43,Units in Structure: 2,LA,Vernon,1259,1064,1217,1445,1332,1339,1485,1469,1530,1773
+44,Units in Structure: 20-49,LA,Vernon,108,82,85,77,75,106,105,103,120,118
+45,Units in Structure: 3-4,LA,Vernon,2365,2558,2347,2210,2259,2192,2174,2285,2181,1934
+46,Units in Structure: 5-9,LA,Vernon,1093,911,864,810,752,770,852,792,772,851
+47,Units in Structure: 50+,LA,Vernon,68,50,43,36,38,29,28,31,53,58
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Vernon,22,17,43,47,45,42,40,21,63,68
+49,Units in Structure: Mobile Home,LA,Vernon,4513,4584,4717,4711,4710,4897,4773,4577,4627,4804
+40,Units in Structure: 1 ATTACHED,LA,Washington,173,150,164,151,97,109,110,111,146,146
+41,Units in Structure: 1 DETACHED,LA,Washington,14765,14736,14936,14589,14585,14702,14978,14726,15015,15642
+42,Units in Structure: 10-19,LA,Washington,59,114,117,101,105,140,43,26,28,38
+43,Units in Structure: 2,LA,Washington,455,391,500,459,365,338,323,289,327,551
+44,Units in Structure: 20-49,LA,Washington,184,113,135,222,248,300,365,303,212,140
+45,Units in Structure: 3-4,LA,Washington,317,357,312,239,133,205,196,226,268,404
+46,Units in Structure: 5-9,LA,Washington,298,289,183,171,89,44,48,79,47,46
+47,Units in Structure: 50+,LA,Washington,33,20,27,42,64,128,122,126,109,73
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Washington,47,2,3,68,71,57,46,69,8,9
+49,Units in Structure: Mobile Home,LA,Washington,4301,4727,4654,5022,5414,5209,5053,5513,5388,4728
+40,Units in Structure: 1 ATTACHED,LA,Webster,117,100,52,44,76,161,211,355,415,429
+41,Units in Structure: 1 DETACHED,LA,Webster,13382,13491,13286,13449,13582,13575,13639,13733,13583,13609
+42,Units in Structure: 10-19,LA,Webster,168,240,269,197,89,92,48,90,215,339
+43,Units in Structure: 2,LA,Webster,529,555,505,471,306,251,209,199,154,135
+44,Units in Structure: 20-49,LA,Webster,130,80,75,35,90,151,221,234,307,231
+45,Units in Structure: 3-4,LA,Webster,534,467,551,533,475,412,359,306,253,227
+46,Units in Structure: 5-9,LA,Webster,407,355,394,382,391,444,397,462,491,428
+47,Units in Structure: 50+,LA,Webster,91,82,66,96,75,156,231,283,269,322
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Webster,31,14,12,27,16,20,21,26,8,7
+49,Units in Structure: Mobile Home,LA,Webster,3938,3973,4156,4083,4301,4159,4091,3896,3923,3954
+40,Units in Structure: 1 ATTACHED,LA,West Baton Rouge,82,94,43,38,53,30,41,94,99,78
+41,Units in Structure: 1 DETACHED,LA,West Baton Rouge,6100,6194,6373,6709,6934,7069,7100,7425,7391,7524
+42,Units in Structure: 10-19,LA,West Baton Rouge,61,104,42,94,130,141,124,158,185,124
+43,Units in Structure: 2,LA,West Baton Rouge,184,166,163,84,74,105,115,121,122,110
+44,Units in Structure: 20-49,LA,West Baton Rouge,23,7,129,173,188,188,211,132,199,319
+45,Units in Structure: 3-4,LA,West Baton Rouge,316,416,328,330,343,293,258,277,361,334
+46,Units in Structure: 5-9,LA,West Baton Rouge,132,147,215,213,205,227,153,102,105,161
+47,Units in Structure: 50+,LA,West Baton Rouge,40,17,17,20,11,6,0,0,73,52
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,West Baton Rouge,53,11,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,LA,West Baton Rouge,2107,2061,2062,1846,1750,1814,2076,2089,2134,2275
+40,Units in Structure: 1 ATTACHED,LA,West Carroll,9,10,13,15,8,17,28,23,37,42
+41,Units in Structure: 1 DETACHED,LA,West Carroll,3662,3674,3680,3591,3544,3541,3656,3797,3751,3569
+42,Units in Structure: 10-19,LA,West Carroll,7,4,5,6,6,0,0,0,0,0
+43,Units in Structure: 2,LA,West Carroll,43,83,79,41,30,27,21,21,17,15
+44,Units in Structure: 20-49,LA,West Carroll,27,4,5,6,6,3,0,0,0,0
+45,Units in Structure: 3-4,LA,West Carroll,44,42,56,84,59,61,75,48,48,79
+46,Units in Structure: 5-9,LA,West Carroll,40,14,18,20,21,14,10,6,4,17
+47,Units in Structure: 50+,LA,West Carroll,3,4,9,6,7,12,13,10,9,9
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,West Carroll,0,1,23,18,18,17,17,0,0,0
+49,Units in Structure: Mobile Home,LA,West Carroll,1224,1210,1179,1255,1361,1373,1256,1236,1275,1427
+40,Units in Structure: 1 ATTACHED,LA,West Feliciana,37,49,45,51,6,24,21,42,25,31
+41,Units in Structure: 1 DETACHED,LA,West Feliciana,3499,3486,3624,3682,3570,3581,3622,3681,3681,3765
+42,Units in Structure: 10-19,LA,West Feliciana,0,17,14,13,27,38,33,42,53,39
+43,Units in Structure: 2,LA,West Feliciana,53,62,93,128,94,85,97,97,130,148
+44,Units in Structure: 20-49,LA,West Feliciana,39,37,49,34,28,50,43,48,48,46
+45,Units in Structure: 3-4,LA,West Feliciana,168,167,174,152,174,176,193,199,179,197
+46,Units in Structure: 5-9,LA,West Feliciana,150,187,150,141,104,106,110,77,95,82
+47,Units in Structure: 50+,LA,West Feliciana,20,7,3,7,5,5,4,15,84,89
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,West Feliciana,0,0,0,0,0,15,9,10,10,14
+49,Units in Structure: Mobile Home,LA,West Feliciana,1044,1051,954,919,1170,1134,1117,1152,1107,1035
+40,Units in Structure: 1 ATTACHED,LA,Winn,25,25,10,4,5,5,7,28,25,19
+41,Units in Structure: 1 DETACHED,LA,Winn,4982,4991,4915,4882,4873,4963,4965,5013,5101,5122
+42,Units in Structure: 10-19,LA,Winn,0,0,16,9,19,22,19,13,25,0
+43,Units in Structure: 2,LA,Winn,208,174,178,196,172,131,131,117,121,226
+44,Units in Structure: 20-49,LA,Winn,9,21,16,11,5,5,6,8,6,16
+45,Units in Structure: 3-4,LA,Winn,173,114,171,154,131,184,164,160,146,159
+46,Units in Structure: 5-9,LA,Winn,53,92,38,50,55,49,6,32,43,28
+47,Units in Structure: 50+,LA,Winn,0,1,2,1,13,23,34,28,19,5
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,Winn,3,35,80,77,82,64,45,31,51,55
+49,Units in Structure: Mobile Home,LA,Winn,1843,1797,1823,1837,1866,1797,1856,1851,1762,1687
+40,Units in Structure: 1 ATTACHED,LA,LaSalle,,,28,14,14,2,0,3,3,3
+41,Units in Structure: 1 DETACHED,LA,LaSalle,,,4847,4732,4511,4544,4480,4564,4659,4579
+42,Units in Structure: 10-19,LA,LaSalle,,,0,0,0,0,0,0,3,3
+43,Units in Structure: 2,LA,LaSalle,,,192,250,244,173,216,250,173,89
+44,Units in Structure: 20-49,LA,LaSalle,,,0,0,0,0,0,0,0,0
+45,Units in Structure: 3-4,LA,LaSalle,,,4,12,55,109,89,110,107,123
+46,Units in Structure: 5-9,LA,LaSalle,,,42,31,30,42,23,28,49,38
+47,Units in Structure: 50+,LA,LaSalle,,,3,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",LA,LaSalle,,,22,22,34,40,39,11,11,0
+49,Units in Structure: Mobile Home,LA,LaSalle,,,1418,1488,1687,1671,1734,1706,1697,1876

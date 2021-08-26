@@ -1,0 +1,526 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,KS,Allen,1075,1038,1018,1034,1155,1218,1270,1458,1461,1489
+4,House Heating Fuel: Fuel Oil,KS,Allen,0,0,0,0,0,0,0,0,0,7
+5,House Heating Fuel: Gas,KS,Allen,3554,3632,3635,3584,3409,3225,3143,3049,2998,3087
+6,House Heating Fuel: Propane,KS,Allen,643,550,593,613,547,569,621,579,510,552
+7,House Heating Fuel: Wood,KS,Allen,245,309,289,241,260,266,242,216,299,227
+3,House Heating Fuel: Electric,KS,Anderson,406,457,540,646,707,706,598,571,448,386
+4,House Heating Fuel: Fuel Oil,KS,Anderson,25,38,34,27,17,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Anderson,1670,1639,1583,1432,1488,1453,1549,1493,1579,1656
+6,House Heating Fuel: Propane,KS,Anderson,775,738,728,800,802,841,754,850,810,814
+7,House Heating Fuel: Wood,KS,Anderson,306,320,388,401,299,277,296,276,214,222
+3,House Heating Fuel: Electric,KS,Atchison,833,794,839,968,990,914,1049,1008,1151,1096
+4,House Heating Fuel: Fuel Oil,KS,Atchison,6,5,3,17,19,20,22,26,0,0
+5,House Heating Fuel: Gas,KS,Atchison,4075,4012,3885,3746,3736,3726,3586,3538,3482,3540
+6,House Heating Fuel: Propane,KS,Atchison,1052,975,1014,1171,1174,1112,1194,1172,1077,1089
+7,House Heating Fuel: Wood,KS,Atchison,189,243,234,229,164,176,140,131,157,152
+3,House Heating Fuel: Electric,KS,Barber,272,278,259,263,259,282,300,328,386,391
+4,House Heating Fuel: Fuel Oil,KS,Barber,0,0,0,2,2,3,3,2,0,0
+5,House Heating Fuel: Gas,KS,Barber,1600,1565,1571,1496,1460,1320,1333,1296,1235,1162
+6,House Heating Fuel: Propane,KS,Barber,375,406,388,382,377,334,265,263,250,287
+7,House Heating Fuel: Wood,KS,Barber,25,30,23,30,31,27,44,62,73,72
+3,House Heating Fuel: Electric,KS,Barton,1031,1164,1192,1342,1526,1534,1725,1961,2067,2038
+4,House Heating Fuel: Fuel Oil,KS,Barton,20,18,14,3,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Barton,9247,8996,8926,9120,8794,8594,8371,8165,7689,7617
+6,House Heating Fuel: Propane,KS,Barton,983,914,1039,899,1020,1029,996,946,893,758
+7,House Heating Fuel: Wood,KS,Barton,180,136,120,98,96,95,93,98,107,99
+3,House Heating Fuel: Electric,KS,Bourbon,994,1034,1092,1264,1341,1275,1369,1495,1523,1582
+4,House Heating Fuel: Fuel Oil,KS,Bourbon,10,12,9,14,0,12,19,17,23,22
+5,House Heating Fuel: Gas,KS,Bourbon,3166,3219,3331,3163,3248,3301,3128,3007,3033,2821
+6,House Heating Fuel: Propane,KS,Bourbon,1163,994,913,826,776,708,777,734,765,843
+7,House Heating Fuel: Wood,KS,Bourbon,390,383,311,287,279,317,306,354,371,351
+3,House Heating Fuel: Electric,KS,Brown,589,563,593,496,605,608,610,579,600,620
+4,House Heating Fuel: Fuel Oil,KS,Brown,48,14,14,3,0,2,2,2,7,8
+5,House Heating Fuel: Gas,KS,Brown,2381,2442,2447,2455,2464,2421,2381,2376,2261,2268
+6,House Heating Fuel: Propane,KS,Brown,950,953,958,986,938,911,910,881,900,827
+7,House Heating Fuel: Wood,KS,Brown,68,114,110,123,103,112,65,82,61,76
+3,House Heating Fuel: Electric,KS,Butler,4890,5285,5379,5490,5452,5878,5947,6117,6154,6691
+4,House Heating Fuel: Fuel Oil,KS,Butler,15,13,2,24,20,20,23,25,0,0
+5,House Heating Fuel: Gas,KS,Butler,14693,14499,14810,14895,14894,14508,14395,14099,14219,14070
+6,House Heating Fuel: Propane,KS,Butler,3483,3395,3291,3171,3069,3190,3286,3430,3343,3182
+7,House Heating Fuel: Wood,KS,Butler,651,604,612,562,531,530,496,536,577,689
+3,House Heating Fuel: Electric,KS,Chase,154,126,122,135,137,108,100,117,135,177
+4,House Heating Fuel: Fuel Oil,KS,Chase,0,0,0,0,7,12,11,11,11,6
+5,House Heating Fuel: Gas,KS,Chase,639,658,613,583,554,555,546,578,524,497
+6,House Heating Fuel: Propane,KS,Chase,283,336,351,390,343,335,317,298,262,302
+7,House Heating Fuel: Wood,KS,Chase,84,29,20,23,62,58,73,67,73,51
+3,House Heating Fuel: Electric,KS,Chautauqua,125,139,167,144,207,228,229,228,251,250
+4,House Heating Fuel: Fuel Oil,KS,Chautauqua,10,9,10,10,10,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Chautauqua,1076,1075,1054,1011,983,903,812,796,775,792
+6,House Heating Fuel: Propane,KS,Chautauqua,227,191,190,235,236,267,279,280,267,281
+7,House Heating Fuel: Wood,KS,Chautauqua,110,127,129,147,125,138,124,104,128,108
+3,House Heating Fuel: Electric,KS,Cherokee,2421,2420,2406,2562,2705,2663,2894,3065,3194,3148
+4,House Heating Fuel: Fuel Oil,KS,Cherokee,9,10,0,9,6,10,10,8,0,0
+5,House Heating Fuel: Gas,KS,Cherokee,4293,4101,4039,3729,3818,3761,3541,3419,3518,3407
+6,House Heating Fuel: Propane,KS,Cherokee,1039,952,945,917,911,882,902,995,948,985
+7,House Heating Fuel: Wood,KS,Cherokee,453,566,593,634,622,636,462,432,311,272
+3,House Heating Fuel: Electric,KS,Cheyenne,109,111,135,144,129,154,163,141,125,148
+4,House Heating Fuel: Fuel Oil,KS,Cheyenne,3,4,5,4,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Cheyenne,932,936,920,909,884,851,842,837,873,849
+6,House Heating Fuel: Propane,KS,Cheyenne,169,156,182,206,226,226,220,236,192,188
+7,House Heating Fuel: Wood,KS,Cheyenne,40,42,43,60,33,19,21,30,31,34
+3,House Heating Fuel: Electric,KS,Clark,103,114,124,138,131,127,129,131,133,157
+4,House Heating Fuel: Fuel Oil,KS,Clark,0,0,0,0,4,4,3,4,3,0
+5,House Heating Fuel: Gas,KS,Clark,659,612,612,600,656,632,612,632,619,561
+6,House Heating Fuel: Propane,KS,Clark,161,139,129,155,123,141,140,139,130,147
+7,House Heating Fuel: Wood,KS,Clark,18,11,21,20,31,9,11,6,8,8
+3,House Heating Fuel: Electric,KS,Clay,390,453,441,509,448,458,404,540,435,546
+4,House Heating Fuel: Fuel Oil,KS,Clay,39,28,26,47,39,25,35,28,64,84
+5,House Heating Fuel: Gas,KS,Clay,2318,2251,2237,2073,2009,2023,2063,2045,2177,2252
+6,House Heating Fuel: Propane,KS,Clay,656,692,695,692,775,748,705,622,545,445
+7,House Heating Fuel: Wood,KS,Clay,138,93,78,78,99,94,117,152,137,137
+3,House Heating Fuel: Electric,KS,Cloud,292,396,425,597,609,617,618,657,482,478
+4,House Heating Fuel: Fuel Oil,KS,Cloud,16,18,2,7,7,9,14,18,24,30
+5,House Heating Fuel: Gas,KS,Cloud,3121,2965,2916,2778,2688,2647,2655,2670,2802,2687
+6,House Heating Fuel: Propane,KS,Cloud,404,483,515,531,517,532,450,405,391,374
+7,House Heating Fuel: Wood,KS,Cloud,127,102,106,78,97,114,124,101,119,93
+3,House Heating Fuel: Electric,KS,Coffey,558,553,703,714,790,810,838,841,763,813
+4,House Heating Fuel: Fuel Oil,KS,Coffey,20,17,8,7,8,7,2,2,1,16
+5,House Heating Fuel: Gas,KS,Coffey,1809,1788,1718,1719,1775,1750,1730,1735,1728,1659
+6,House Heating Fuel: Propane,KS,Coffey,842,869,849,863,775,784,847,827,865,966
+7,House Heating Fuel: Wood,KS,Coffey,211,247,208,182,199,189,128,129,140,95
+3,House Heating Fuel: Electric,KS,Comanche,103,130,140,173,157,154,151,129,132,121
+4,House Heating Fuel: Fuel Oil,KS,Comanche,0,0,0,0,0,0,0,0,7,5
+5,House Heating Fuel: Gas,KS,Comanche,546,527,468,427,434,462,427,407,415,436
+6,House Heating Fuel: Propane,KS,Comanche,146,148,157,136,129,127,141,143,152,162
+7,House Heating Fuel: Wood,KS,Comanche,29,32,32,44,23,27,31,36,29,27
+3,House Heating Fuel: Electric,KS,Cowley,2605,2601,2729,2877,3023,3019,3006,2926,3082,3096
+4,House Heating Fuel: Fuel Oil,KS,Cowley,11,11,9,3,11,12,20,18,27,31
+5,House Heating Fuel: Gas,KS,Cowley,8950,8869,9068,8952,8729,8659,8683,8554,8212,8137
+6,House Heating Fuel: Propane,KS,Cowley,1585,1475,1412,1385,1335,1346,1367,1406,1515,1598
+7,House Heating Fuel: Wood,KS,Cowley,372,465,437,542,560,518,517,583,544,452
+3,House Heating Fuel: Electric,KS,Crawford,3055,3396,3385,3738,3733,3884,3848,3923,4140,4137
+4,House Heating Fuel: Fuel Oil,KS,Crawford,9,2,3,3,2,2,12,17,23,21
+5,House Heating Fuel: Gas,KS,Crawford,10311,9797,9925,9745,9782,9406,9352,9193,9056,9251
+6,House Heating Fuel: Propane,KS,Crawford,1692,1697,1454,1378,1252,1193,1209,1352,1355,1488
+7,House Heating Fuel: Wood,KS,Crawford,330,364,424,401,435,446,453,337,348,266
+3,House Heating Fuel: Electric,KS,Decatur,95,102,136,155,179,173,150,137,160,102
+4,House Heating Fuel: Fuel Oil,KS,Decatur,7,6,5,0,24,19,21,23,19,2
+5,House Heating Fuel: Gas,KS,Decatur,931,1008,910,949,898,936,871,907,877,869
+6,House Heating Fuel: Propane,KS,Decatur,427,300,344,287,265,284,300,313,387,417
+7,House Heating Fuel: Wood,KS,Decatur,45,62,81,91,76,61,78,55,39,47
+3,House Heating Fuel: Electric,KS,Dickinson,902,990,1013,1030,1089,1154,1272,1243,1298,1235
+4,House Heating Fuel: Fuel Oil,KS,Dickinson,37,22,8,0,0,0,0,0,0,8
+5,House Heating Fuel: Gas,KS,Dickinson,4903,4850,4990,5016,4923,4933,4888,4837,4873,4989
+6,House Heating Fuel: Propane,KS,Dickinson,1255,1367,1484,1507,1527,1471,1472,1421,1328,1342
+7,House Heating Fuel: Wood,KS,Dickinson,241,260,227,210,211,199,228,226,241,258
+3,House Heating Fuel: Electric,KS,Doniphan,477,459,474,512,508,502,517,558,591,624
+4,House Heating Fuel: Fuel Oil,KS,Doniphan,33,28,20,34,23,24,16,19,21,22
+5,House Heating Fuel: Gas,KS,Doniphan,1563,1630,1630,1615,1617,1579,1524,1481,1422,1462
+6,House Heating Fuel: Propane,KS,Doniphan,842,765,789,789,774,855,888,876,868,813
+7,House Heating Fuel: Wood,KS,Doniphan,193,209,215,187,196,128,124,112,112,112
+3,House Heating Fuel: Electric,KS,Douglas,9340,9786,9973,10369,10555,10247,10489,11037,11315,11756
+4,House Heating Fuel: Fuel Oil,KS,Douglas,64,47,45,34,27,24,11,15,54,47
+5,House Heating Fuel: Gas,KS,Douglas,30172,30158,29961,29469,29416,29628,29692,30085,31215,31577
+6,House Heating Fuel: Propane,KS,Douglas,2695,2526,2694,2853,3006,3035,3114,2857,2777,2781
+7,House Heating Fuel: Wood,KS,Douglas,526,574,578,533,583,568,693,725,631,523
+3,House Heating Fuel: Electric,KS,Edwards,157,142,101,106,111,106,152,184,162,199
+4,House Heating Fuel: Fuel Oil,KS,Edwards,0,0,0,1,9,11,10,10,8,0
+5,House Heating Fuel: Gas,KS,Edwards,997,986,1009,960,916,920,870,866,927,925
+6,House Heating Fuel: Propane,KS,Edwards,177,168,158,163,200,209,202,187,174,165
+7,House Heating Fuel: Wood,KS,Edwards,24,28,24,22,30,24,16,23,27,14
+3,House Heating Fuel: Electric,KS,Elk,213,203,224,196,194,179,197,173,169,185
+4,House Heating Fuel: Fuel Oil,KS,Elk,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Elk,794,749,682,715,728,718,712,705,664,654
+6,House Heating Fuel: Propane,KS,Elk,156,177,170,194,197,202,198,178,175,181
+7,House Heating Fuel: Wood,KS,Elk,156,135,130,141,135,138,128,97,102,98
+3,House Heating Fuel: Electric,KS,Ellis,2437,2314,2413,2583,2651,2553,2795,3007,3243,3309
+4,House Heating Fuel: Fuel Oil,KS,Ellis,10,17,16,15,8,6,2,1,1,2
+5,House Heating Fuel: Gas,KS,Ellis,8361,8488,8400,8306,8246,8292,7879,7632,7191,7089
+6,House Heating Fuel: Propane,KS,Ellis,796,725,768,761,766,738,752,737,899,878
+7,House Heating Fuel: Wood,KS,Ellis,50,52,73,65,77,116,124,95,96,73
+3,House Heating Fuel: Electric,KS,Ellsworth,216,278,323,312,307,309,331,368,389,396
+4,House Heating Fuel: Fuel Oil,KS,Ellsworth,33,30,22,18,25,23,41,41,46,24
+5,House Heating Fuel: Gas,KS,Ellsworth,1713,1616,1638,1575,1600,1696,1705,1626,1599,1594
+6,House Heating Fuel: Propane,KS,Ellsworth,323,347,313,319,381,391,336,384,328,286
+7,House Heating Fuel: Wood,KS,Ellsworth,205,147,143,130,44,39,33,39,54,74
+3,House Heating Fuel: Electric,KS,Finney,1752,1789,1854,1916,1950,2093,2228,2173,2278,2346
+4,House Heating Fuel: Fuel Oil,KS,Finney,0,0,0,0,0,0,0,0,9,12
+5,House Heating Fuel: Gas,KS,Finney,9387,9558,9666,9903,10029,9799,9776,9785,9599,9525
+6,House Heating Fuel: Propane,KS,Finney,667,618,599,567,605,594,564,595,499,529
+7,House Heating Fuel: Wood,KS,Finney,65,70,61,57,47,58,53,78,68,45
+3,House Heating Fuel: Electric,KS,Ford,1490,1616,1546,1628,1773,2052,2122,2626,2481,2337
+4,House Heating Fuel: Fuel Oil,KS,Ford,0,0,0,12,35,26,31,46,13,4
+5,House Heating Fuel: Gas,KS,Ford,8536,8420,8582,8487,8376,8314,8341,7943,7961,8281
+6,House Heating Fuel: Propane,KS,Ford,597,654,654,732,701,722,649,662,722,613
+7,House Heating Fuel: Wood,KS,Ford,284,224,177,157,130,65,60,26,58,80
+3,House Heating Fuel: Electric,KS,Franklin,2092,2088,2164,2207,2238,2367,2476,2583,2535,2561
+4,House Heating Fuel: Fuel Oil,KS,Franklin,0,2,2,4,4,5,0,0,5,5
+5,House Heating Fuel: Gas,KS,Franklin,6123,6088,5903,5789,5730,5539,5509,5514,5601,5656
+6,House Heating Fuel: Propane,KS,Franklin,1555,1577,1574,1358,1352,1286,1261,1234,1315,1314
+7,House Heating Fuel: Wood,KS,Franklin,316,312,370,479,569,609,540,523,475,507
+3,House Heating Fuel: Electric,KS,Geary,2071,2501,2969,3282,3834,4367,4882,5201,5689,5515
+4,House Heating Fuel: Fuel Oil,KS,Geary,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Geary,8119,8357,8274,8342,8062,7462,7037,6956,6383,6517
+6,House Heating Fuel: Propane,KS,Geary,1032,870,841,755,698,650,675,589,497,497
+7,House Heating Fuel: Wood,KS,Geary,77,84,68,125,136,143,81,109,99,75
+3,House Heating Fuel: Electric,KS,Gove,148,139,142,152,172,172,170,189,190,188
+4,House Heating Fuel: Fuel Oil,KS,Gove,0,2,3,3,4,6,4,2,2,2
+5,House Heating Fuel: Gas,KS,Gove,683,668,692,693,698,691,695,690,689,675
+6,House Heating Fuel: Propane,KS,Gove,274,277,279,280,262,250,246,229,253,269
+7,House Heating Fuel: Wood,KS,Gove,55,46,44,37,38,38,45,46,52,65
+3,House Heating Fuel: Electric,KS,Graham,108,91,107,108,114,141,168,160,182,149
+4,House Heating Fuel: Fuel Oil,KS,Graham,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Graham,732,735,761,840,813,849,884,904,854,880
+6,House Heating Fuel: Propane,KS,Graham,271,295,258,176,166,137,123,116,147,143
+7,House Heating Fuel: Wood,KS,Graham,23,47,31,49,46,55,48,51,28,19
+3,House Heating Fuel: Electric,KS,Grant,290,301,275,327,445,545,573,613,473,496
+4,House Heating Fuel: Fuel Oil,KS,Grant,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Grant,2211,2271,2301,2211,2081,1959,1882,1834,1890,1869
+6,House Heating Fuel: Propane,KS,Grant,209,224,233,255,250,203,223,181,229,186
+7,House Heating Fuel: Wood,KS,Grant,0,0,0,0,0,0,0,0,0,0
+3,House Heating Fuel: Electric,KS,Gray,186,207,192,204,236,236,262,293,317,345
+4,House Heating Fuel: Fuel Oil,KS,Gray,3,3,3,2,4,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Gray,1498,1450,1510,1462,1512,1583,1567,1592,1677,1574
+6,House Heating Fuel: Propane,KS,Gray,311,337,309,350,334,295,256,229,158,213
+7,House Heating Fuel: Wood,KS,Gray,33,43,36,39,33,31,41,22,20,12
+3,House Heating Fuel: Electric,KS,Greeley,22,26,38,54,71,72,86,101,102,84
+4,House Heating Fuel: Fuel Oil,KS,Greeley,0,0,0,0,3,3,3,3,3,0
+5,House Heating Fuel: Gas,KS,Greeley,391,375,372,354,315,319,309,315,321,362
+6,House Heating Fuel: Propane,KS,Greeley,83,93,78,78,74,83,71,68,64,67
+7,House Heating Fuel: Wood,KS,Greeley,4,8,5,7,8,8,5,3,2,4
+3,House Heating Fuel: Electric,KS,Greenwood,446,426,451,485,465,416,416,427,430,463
+4,House Heating Fuel: Fuel Oil,KS,Greenwood,0,7,7,5,7,11,7,5,5,5
+5,House Heating Fuel: Gas,KS,Greenwood,1662,1539,1538,1499,1478,1486,1438,1385,1364,1327
+6,House Heating Fuel: Propane,KS,Greenwood,627,652,601,601,613,651,679,694,659,675
+7,House Heating Fuel: Wood,KS,Greenwood,279,293,283,216,250,212,199,207,265,270
+3,House Heating Fuel: Electric,KS,Hamilton,110,39,54,77,80,60,72,100,131,157
+4,House Heating Fuel: Fuel Oil,KS,Hamilton,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Hamilton,826,860,892,877,793,824,722,677,616,618
+6,House Heating Fuel: Propane,KS,Hamilton,127,135,136,115,126,103,102,80,98,86
+7,House Heating Fuel: Wood,KS,Hamilton,52,37,23,7,9,7,3,3,4,26
+3,House Heating Fuel: Electric,KS,Harper,308,275,308,284,269,303,360,384,346,365
+4,House Heating Fuel: Fuel Oil,KS,Harper,2,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Harper,1828,1879,1860,1845,1873,1687,1566,1554,1464,1443
+6,House Heating Fuel: Propane,KS,Harper,467,470,466,412,358,356,386,337,408,407
+7,House Heating Fuel: Wood,KS,Harper,35,28,35,42,45,56,56,52,28,30
+3,House Heating Fuel: Electric,KS,Harvey,2987,3073,3135,3148,3395,3414,3339,3445,3264,3479
+4,House Heating Fuel: Fuel Oil,KS,Harvey,16,0,5,5,26,27,27,12,21,0
+5,House Heating Fuel: Gas,KS,Harvey,8659,8532,8632,8784,8522,8719,8548,8529,8651,8385
+6,House Heating Fuel: Propane,KS,Harvey,1191,1175,1168,1138,1130,1030,1065,898,915,881
+7,House Heating Fuel: Wood,KS,Harvey,305,282,206,155,175,299,345,359,408,443
+3,House Heating Fuel: Electric,KS,Haskell,219,188,171,154,170,165,197,214,206,236
+4,House Heating Fuel: Fuel Oil,KS,Haskell,0,0,0,0,0,4,4,4,5,5
+5,House Heating Fuel: Gas,KS,Haskell,1041,1087,1138,1122,1114,1096,1003,972,1003,956
+6,House Heating Fuel: Propane,KS,Haskell,96,113,102,120,126,122,112,133,112,119
+7,House Heating Fuel: Wood,KS,Haskell,6,7,8,15,11,8,9,7,3,4
+3,House Heating Fuel: Electric,KS,Hodgeman,92,75,82,69,63,57,103,112,122,156
+4,House Heating Fuel: Fuel Oil,KS,Hodgeman,3,3,2,1,1,1,1,0,0,0
+5,House Heating Fuel: Gas,KS,Hodgeman,415,439,444,410,395,389,379,371,347,356
+6,House Heating Fuel: Propane,KS,Hodgeman,252,248,255,314,323,338,299,270,261,236
+7,House Heating Fuel: Wood,KS,Hodgeman,22,14,12,14,15,10,17,24,21,10
+3,House Heating Fuel: Electric,KS,Jackson,834,774,792,701,756,785,885,873,950,875
+4,House Heating Fuel: Fuel Oil,KS,Jackson,6,4,4,5,5,8,1,4,3,4
+5,House Heating Fuel: Gas,KS,Jackson,1530,1660,1650,1590,1625,1615,1560,1624,1574,1575
+6,House Heating Fuel: Propane,KS,Jackson,2357,2356,2339,2396,2341,2251,2077,2119,2188,2346
+7,House Heating Fuel: Wood,KS,Jackson,391,468,534,505,482,558,621,615,632,597
+3,House Heating Fuel: Electric,KS,Jefferson,920,961,949,1076,1163,1265,1366,1384,1364,1295
+4,House Heating Fuel: Fuel Oil,KS,Jefferson,81,30,36,34,14,7,5,0,0,29
+5,House Heating Fuel: Gas,KS,Jefferson,3172,3100,3048,2898,2897,2780,2735,2776,2735,2896
+6,House Heating Fuel: Propane,KS,Jefferson,2636,2439,2562,2479,2499,2571,2573,2603,2645,2644
+7,House Heating Fuel: Wood,KS,Jefferson,538,604,608,698,759,758,831,829,745,576
+3,House Heating Fuel: Electric,KS,Jewell,109,95,89,75,81,72,59,72,87,79
+4,House Heating Fuel: Fuel Oil,KS,Jewell,0,0,6,5,5,6,5,0,0,0
+5,House Heating Fuel: Gas,KS,Jewell,833,891,851,848,797,769,738,784,786,786
+6,House Heating Fuel: Propane,KS,Jewell,328,248,236,270,281,347,426,409,387,400
+7,House Heating Fuel: Wood,KS,Jewell,125,105,107,106,128,120,126,100,89,86
+3,House Heating Fuel: Electric,KS,Johnson,43468,46568,47834,50327,51882,54037,54737,56126,56762,58533
+4,House Heating Fuel: Fuel Oil,KS,Johnson,42,24,70,70,52,57,79,63,121,120
+5,House Heating Fuel: Gas,KS,Johnson,163304,162701,163725,162457,162373,161865,163017,163377,164865,165268
+6,House Heating Fuel: Propane,KS,Johnson,2704,2570,2224,2316,2132,2268,2407,2679,2726,3177
+7,House Heating Fuel: Wood,KS,Johnson,392,360,413,420,568,510,655,572,570,389
+3,House Heating Fuel: Electric,KS,Kearny,149,129,134,106,91,96,115,159,167,222
+4,House Heating Fuel: Fuel Oil,KS,Kearny,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Kearny,1144,1078,1077,993,1083,1149,1114,976,982,863
+6,House Heating Fuel: Propane,KS,Kearny,117,169,166,195,163,132,96,103,107,106
+7,House Heating Fuel: Wood,KS,Kearny,0,0,0,0,4,2,2,1,2,5
+3,House Heating Fuel: Electric,KS,Kingman,436,442,364,435,455,447,464,537,440,439
+4,House Heating Fuel: Fuel Oil,KS,Kingman,16,16,17,5,6,6,6,5,0,0
+5,House Heating Fuel: Gas,KS,Kingman,1699,1709,1818,1769,1703,1667,1578,1621,1629,1669
+6,House Heating Fuel: Propane,KS,Kingman,1134,1024,905,840,797,775,814,820,844,797
+7,House Heating Fuel: Wood,KS,Kingman,127,120,102,123,91,93,100,129,134,176
+3,House Heating Fuel: Electric,KS,Kiowa,130,191,208,233,240,247,222,199,196,224
+4,House Heating Fuel: Fuel Oil,KS,Kiowa,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Kiowa,675,639,672,649,605,615,599,593,559,539
+6,House Heating Fuel: Propane,KS,Kiowa,162,160,168,149,178,185,178,187,203,193
+7,House Heating Fuel: Wood,KS,Kiowa,6,6,5,8,6,6,5,15,17,21
+3,House Heating Fuel: Electric,KS,Labette,1576,1501,1623,1510,1643,1798,1874,1739,1903,1975
+4,House Heating Fuel: Fuel Oil,KS,Labette,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Labette,5618,5592,5603,5592,5322,5151,4988,4854,4671,4799
+6,House Heating Fuel: Propane,KS,Labette,1263,1230,1164,1122,1072,950,964,970,891,910
+7,House Heating Fuel: Wood,KS,Labette,443,427,408,430,418,428,449,455,488,414
+3,House Heating Fuel: Electric,KS,Lane,99,112,90,94,114,114,106,110,95,68
+4,House Heating Fuel: Fuel Oil,KS,Lane,0,0,0,0,0,0,2,2,4,4
+5,House Heating Fuel: Gas,KS,Lane,496,492,512,544,513,555,538,535,527,518
+6,House Heating Fuel: Propane,KS,Lane,139,108,134,135,149,113,139,156,145,160
+7,House Heating Fuel: Wood,KS,Lane,13,14,9,26,23,19,25,23,14,3
+3,House Heating Fuel: Electric,KS,Leavenworth,4857,5071,4907,5325,5266,5731,5848,5848,5550,5991
+4,House Heating Fuel: Fuel Oil,KS,Leavenworth,78,103,99,62,70,70,30,39,42,75
+5,House Heating Fuel: Gas,KS,Leavenworth,16700,16583,16884,16607,16761,16473,16784,16947,17198,17055
+6,House Heating Fuel: Propane,KS,Leavenworth,3254,3379,3472,3463,3522,3762,3794,3718,3631,3492
+7,House Heating Fuel: Wood,KS,Leavenworth,416,386,489,520,499,518,473,486,449,442
+3,House Heating Fuel: Electric,KS,Lincoln,134,147,125,149,161,162,173,159,114,145
+4,House Heating Fuel: Fuel Oil,KS,Lincoln,0,4,8,12,8,9,6,0,0,0
+5,House Heating Fuel: Gas,KS,Lincoln,791,795,818,788,755,726,709,711,707,726
+6,House Heating Fuel: Propane,KS,Lincoln,424,389,373,347,349,339,330,326,369,318
+7,House Heating Fuel: Wood,KS,Lincoln,78,74,91,73,87,73,70,76,64,41
+3,House Heating Fuel: Electric,KS,Linn,1357,1539,1625,1665,1739,1727,1699,1711,1681,1715
+4,House Heating Fuel: Fuel Oil,KS,Linn,0,0,0,4,5,27,35,36,26,25
+5,House Heating Fuel: Gas,KS,Linn,1330,1389,1282,1235,1098,1081,1114,1244,1214,1297
+6,House Heating Fuel: Propane,KS,Linn,1392,1188,1151,1105,1122,1201,1188,1219,1203,1200
+7,House Heating Fuel: Wood,KS,Linn,186,163,148,172,135,120,175,182,198,236
+3,House Heating Fuel: Electric,KS,Logan,125,158,178,198,160,197,173,132,141,163
+4,House Heating Fuel: Fuel Oil,KS,Logan,0,0,0,0,0,0,0,0,0,19
+5,House Heating Fuel: Gas,KS,Logan,1009,1010,947,915,872,868,831,842,841,847
+6,House Heating Fuel: Propane,KS,Logan,169,128,136,149,169,151,140,169,130,111
+7,House Heating Fuel: Wood,KS,Logan,13,13,7,5,13,17,23,24,24,11
+3,House Heating Fuel: Electric,KS,Lyon,3266,3293,3327,3315,3275,3470,3681,3964,3916,4045
+4,House Heating Fuel: Fuel Oil,KS,Lyon,51,52,42,44,26,7,13,11,9,3
+5,House Heating Fuel: Gas,KS,Lyon,8672,8379,8081,8135,8028,7854,7645,7540,7589,7434
+6,House Heating Fuel: Propane,KS,Lyon,1360,1265,1393,1273,1293,1467,1534,1546,1607,1665
+7,House Heating Fuel: Wood,KS,Lyon,379,379,291,325,371,387,380,432,402,343
+3,House Heating Fuel: Electric,KS,McPherson,1574,1768,1734,1953,2145,2277,2559,2683,2920,2906
+4,House Heating Fuel: Fuel Oil,KS,McPherson,20,36,36,30,13,12,30,44,36,42
+5,House Heating Fuel: Gas,KS,McPherson,8124,7825,7863,7701,7641,7701,7595,7660,7627,7704
+6,House Heating Fuel: Propane,KS,McPherson,1557,1449,1460,1440,1451,1341,1258,1251,1288,1345
+7,House Heating Fuel: Wood,KS,McPherson,305,314,349,323,383,386,405,408,398,325
+3,House Heating Fuel: Electric,KS,Marion,483,557,569,563,593,600,668,650,689,754
+4,House Heating Fuel: Fuel Oil,KS,Marion,41,48,51,20,17,13,10,3,4,9
+5,House Heating Fuel: Gas,KS,Marion,3124,3141,3095,3038,2984,3001,2915,2989,2955,2934
+6,House Heating Fuel: Propane,KS,Marion,969,940,901,856,865,815,799,805,724,758
+7,House Heating Fuel: Wood,KS,Marion,325,297,290,340,331,332,381,384,384,353
+3,House Heating Fuel: Electric,KS,Marshall,348,416,507,578,587,633,675,672,580,648
+4,House Heating Fuel: Fuel Oil,KS,Marshall,30,17,11,0,0,5,10,36,57,62
+5,House Heating Fuel: Gas,KS,Marshall,2705,2604,2578,2625,2591,2558,2587,2458,2443,2366
+6,House Heating Fuel: Propane,KS,Marshall,1002,1013,934,890,881,894,844,832,815,812
+7,House Heating Fuel: Wood,KS,Marshall,117,166,180,145,127,123,117,126,144,137
+3,House Heating Fuel: Electric,KS,Meade,172,175,211,205,215,203,217,218,208,229
+4,House Heating Fuel: Fuel Oil,KS,Meade,6,6,6,6,5,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Meade,1352,1352,1298,1249,1249,1214,1190,1224,1216,1211
+6,House Heating Fuel: Propane,KS,Meade,212,216,225,235,267,254,235,198,216,220
+7,House Heating Fuel: Wood,KS,Meade,18,8,11,8,14,18,16,32,32,24
+3,House Heating Fuel: Electric,KS,Miami,5339,5453,5773,5746,6104,6181,6185,6110,6142,6127
+4,House Heating Fuel: Fuel Oil,KS,Miami,0,0,0,0,0,32,30,29,41,41
+5,House Heating Fuel: Gas,KS,Miami,4306,4324,4227,4517,4214,4206,4304,4462,4380,4465
+6,House Heating Fuel: Propane,KS,Miami,1927,1852,1725,1589,1546,1632,1674,1738,1743,1803
+7,House Heating Fuel: Wood,KS,Miami,228,302,325,378,393,394,304,336,298,263
+3,House Heating Fuel: Electric,KS,Mitchell,198,217,211,254,259,236,274,261,194,237
+4,House Heating Fuel: Fuel Oil,KS,Mitchell,0,0,0,0,0,1,1,2,16,13
+5,House Heating Fuel: Gas,KS,Mitchell,1923,1836,1827,1862,1841,1728,1784,1895,1856,1724
+6,House Heating Fuel: Propane,KS,Mitchell,486,465,463,473,448,486,493,435,466,504
+7,House Heating Fuel: Wood,KS,Mitchell,68,83,88,93,108,98,93,110,58,61
+3,House Heating Fuel: Electric,KS,Montgomery,2462,2638,2754,2792,2854,2660,2690,2763,2863,3063
+4,House Heating Fuel: Fuel Oil,KS,Montgomery,7,0,0,0,0,24,29,28,24,35
+5,House Heating Fuel: Gas,KS,Montgomery,10194,9767,9603,9492,9197,9323,9410,9250,9155,9009
+6,House Heating Fuel: Propane,KS,Montgomery,1425,1317,1290,1186,1111,922,970,977,931,962
+7,House Heating Fuel: Wood,KS,Montgomery,408,391,439,498,528,466,489,538,491,420
+3,House Heating Fuel: Electric,KS,Morris,301,331,322,371,417,421,406,426,421,404
+4,House Heating Fuel: Fuel Oil,KS,Morris,3,2,2,0,0,0,8,6,6,11
+5,House Heating Fuel: Gas,KS,Morris,1536,1425,1383,1346,1274,1259,1173,1123,1108,1151
+6,House Heating Fuel: Propane,KS,Morris,539,595,597,560,498,485,499,520,485,528
+7,House Heating Fuel: Wood,KS,Morris,164,168,157,188,202,175,188,194,188,158
+3,House Heating Fuel: Electric,KS,Morton,157,163,194,190,192,183,241,221,206,222
+4,House Heating Fuel: Fuel Oil,KS,Morton,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Morton,965,898,870,880,861,828,770,711,715,671
+6,House Heating Fuel: Propane,KS,Morton,148,154,152,113,132,152,130,152,159,120
+7,House Heating Fuel: Wood,KS,Morton,0,0,0,0,11,18,11,25,25,10
+3,House Heating Fuel: Electric,KS,Nemaha,527,557,548,584,544,617,613,582,534,591
+4,House Heating Fuel: Fuel Oil,KS,Nemaha,58,63,56,38,52,62,50,52,71,42
+5,House Heating Fuel: Gas,KS,Nemaha,2083,2140,2045,2051,2165,2186,2213,2319,2200,2143
+6,House Heating Fuel: Propane,KS,Nemaha,1050,1040,1099,1164,1092,1082,985,914,985,1084
+7,House Heating Fuel: Wood,KS,Nemaha,173,163,202,189,226,201,189,182,150,85
+3,House Heating Fuel: Electric,KS,Neosho,689,678,758,912,1093,1180,1280,1441,1536,1462
+4,House Heating Fuel: Fuel Oil,KS,Neosho,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Neosho,4277,4321,4284,4194,4058,4081,3955,3945,3926,3879
+6,House Heating Fuel: Propane,KS,Neosho,1263,1136,1078,947,967,812,856,843,855,903
+7,House Heating Fuel: Wood,KS,Neosho,507,498,471,404,327,322,287,260,346,342
+3,House Heating Fuel: Electric,KS,Ness,70,79,124,124,125,134,128,110,116,95
+4,House Heating Fuel: Fuel Oil,KS,Ness,12,9,15,5,5,5,6,5,6,3
+5,House Heating Fuel: Gas,KS,Ness,756,780,736,750,796,785,741,762,710,725
+6,House Heating Fuel: Propane,KS,Ness,440,399,394,385,412,408,399,411,450,403
+7,House Heating Fuel: Wood,KS,Ness,32,36,35,38,24,20,15,17,13,28
+3,House Heating Fuel: Electric,KS,Norton,167,209,201,189,268,257,243,312,277,190
+4,House Heating Fuel: Fuel Oil,KS,Norton,0,2,2,2,2,1,0,0,0,1
+5,House Heating Fuel: Gas,KS,Norton,1533,1460,1563,1475,1424,1266,1305,1168,1147,1221
+6,House Heating Fuel: Propane,KS,Norton,439,442,394,414,356,388,377,359,453,375
+7,House Heating Fuel: Wood,KS,Norton,22,101,111,161,156,163,57,29,16,5
+3,House Heating Fuel: Electric,KS,Osage,1340,1270,1195,1356,1348,1421,1480,1572,1438,1487
+4,House Heating Fuel: Fuel Oil,KS,Osage,15,25,21,17,23,23,14,14,12,5
+5,House Heating Fuel: Gas,KS,Osage,3549,3456,3353,3172,3150,3046,2986,3025,3204,3188
+6,House Heating Fuel: Propane,KS,Osage,1348,1456,1563,1626,1569,1522,1508,1389,1350,1362
+7,House Heating Fuel: Wood,KS,Osage,442,412,396,338,397,431,387,536,498,499
+3,House Heating Fuel: Electric,KS,Osborne,78,86,101,118,134,143,151,159,164,193
+4,House Heating Fuel: Fuel Oil,KS,Osborne,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Osborne,1134,1126,1125,1123,1160,1162,1109,1118,1106,1062
+6,House Heating Fuel: Propane,KS,Osborne,399,399,338,334,328,316,322,328,311,292
+7,House Heating Fuel: Wood,KS,Osborne,87,108,111,118,107,108,95,83,83,82
+3,House Heating Fuel: Electric,KS,Ottawa,326,344,325,361,297,362,407,431,421,432
+4,House Heating Fuel: Fuel Oil,KS,Ottawa,6,17,23,32,52,52,34,29,39,68
+5,House Heating Fuel: Gas,KS,Ottawa,924,946,1002,990,1120,1098,1089,1009,1050,1039
+6,House Heating Fuel: Propane,KS,Ottawa,831,838,842,804,803,740,702,734,698,717
+7,House Heating Fuel: Wood,KS,Ottawa,183,179,187,182,155,175,122,137,126,124
+3,House Heating Fuel: Electric,KS,Pawnee,248,386,450,413,472,505,376,379,464,488
+4,House Heating Fuel: Fuel Oil,KS,Pawnee,5,5,1,3,6,3,6,7,7,11
+5,House Heating Fuel: Gas,KS,Pawnee,1951,1661,1593,1611,1522,1490,1705,1735,1649,1631
+6,House Heating Fuel: Propane,KS,Pawnee,264,420,428,452,472,488,442,418,337,258
+7,House Heating Fuel: Wood,KS,Pawnee,52,47,38,39,22,36,38,31,24,36
+3,House Heating Fuel: Electric,KS,Phillips,146,204,233,276,308,342,315,343,365,345
+4,House Heating Fuel: Fuel Oil,KS,Phillips,0,8,5,6,10,17,4,4,17,14
+5,House Heating Fuel: Gas,KS,Phillips,1543,1571,1629,1549,1572,1518,1554,1497,1547,1493
+6,House Heating Fuel: Propane,KS,Phillips,367,359,314,338,353,350,376,388,356,381
+7,House Heating Fuel: Wood,KS,Phillips,159,184,166,159,135,100,80,74,70,70
+3,House Heating Fuel: Electric,KS,Pottawatomie,1031,1088,1132,1261,1427,1394,1506,1694,1671,1713
+4,House Heating Fuel: Fuel Oil,KS,Pottawatomie,31,29,22,18,8,0,13,42,63,61
+5,House Heating Fuel: Gas,KS,Pottawatomie,4621,4645,4623,4552,4567,4556,4629,4565,4799,4754
+6,House Heating Fuel: Propane,KS,Pottawatomie,1678,1677,1703,1634,1520,1637,1525,1512,1531,1541
+7,House Heating Fuel: Wood,KS,Pottawatomie,330,372,394,445,499,520,585,577,506,523
+3,House Heating Fuel: Electric,KS,Pratt,354,304,316,386,477,533,564,582,679,752
+4,House Heating Fuel: Fuel Oil,KS,Pratt,0,0,8,17,19,18,17,6,1,8
+5,House Heating Fuel: Gas,KS,Pratt,3002,3057,3046,3051,2922,2714,2579,2594,2479,2376
+6,House Heating Fuel: Propane,KS,Pratt,469,478,489,483,529,499,483,456,436,426
+7,House Heating Fuel: Wood,KS,Pratt,118,100,125,92,69,67,56,55,55,64
+3,House Heating Fuel: Electric,KS,Rawlins,104,113,109,127,121,108,113,121,139,154
+4,House Heating Fuel: Fuel Oil,KS,Rawlins,13,9,4,4,4,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Rawlins,648,632,689,678,662,677,653,661,655,654
+6,House Heating Fuel: Propane,KS,Rawlins,361,384,343,353,375,385,369,354,346,344
+7,House Heating Fuel: Wood,KS,Rawlins,38,43,53,42,42,34,30,26,23,19
+3,House Heating Fuel: Electric,KS,Reno,3881,4247,4618,4443,4364,4923,5291,5409,5693,5990
+4,House Heating Fuel: Fuel Oil,KS,Reno,41,40,33,54,69,52,42,39,17,0
+5,House Heating Fuel: Gas,KS,Reno,19073,18775,18540,18493,18289,17556,16882,16745,16522,16180
+6,House Heating Fuel: Propane,KS,Reno,2297,2204,2199,2177,2081,2059,2140,2136,2091,2033
+7,House Heating Fuel: Wood,KS,Reno,431,428,428,419,456,442,537,555,589,628
+3,House Heating Fuel: Electric,KS,Republic,224,287,270,267,231,200,184,250,253,272
+4,House Heating Fuel: Fuel Oil,KS,Republic,3,3,3,2,8,6,17,23,81,99
+5,House Heating Fuel: Gas,KS,Republic,1425,1328,1372,1316,1345,1401,1412,1368,1368,1290
+6,House Heating Fuel: Propane,KS,Republic,498,522,476,529,500,463,431,405,317,322
+7,House Heating Fuel: Wood,KS,Republic,200,183,169,132,147,144,105,113,101,111
+3,House Heating Fuel: Electric,KS,Rice,454,458,505,496,518,583,582,709,697,701
+4,House Heating Fuel: Fuel Oil,KS,Rice,29,19,21,27,22,5,9,22,21,23
+5,House Heating Fuel: Gas,KS,Rice,2815,2637,2677,2738,2644,2659,2750,2631,2623,2645
+6,House Heating Fuel: Propane,KS,Rice,507,501,447,460,425,457,445,420,422,450
+7,House Heating Fuel: Wood,KS,Rice,167,145,159,128,139,122,130,110,63,76
+3,House Heating Fuel: Electric,KS,Riley,7038,7335,7842,8391,9200,10016,10544,11231,11227,10966
+4,House Heating Fuel: Fuel Oil,KS,Riley,21,13,7,7,11,17,21,21,17,30
+5,House Heating Fuel: Gas,KS,Riley,15659,15936,15766,15434,14901,14433,13917,13371,13169,13038
+6,House Heating Fuel: Propane,KS,Riley,1696,1703,1711,1699,1597,1522,1500,1500,1673,1932
+7,House Heating Fuel: Wood,KS,Riley,227,189,175,153,239,251,324,321,321,310
+3,House Heating Fuel: Electric,KS,Rooks,187,186,213,218,250,261,306,281,288,346
+4,House Heating Fuel: Fuel Oil,KS,Rooks,3,4,4,2,1,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Rooks,1722,1688,1655,1653,1632,1562,1530,1545,1493,1500
+6,House Heating Fuel: Propane,KS,Rooks,355,345,333,309,290,268,259,236,221,216
+7,House Heating Fuel: Wood,KS,Rooks,105,124,150,147,130,108,84,62,79,96
+3,House Heating Fuel: Electric,KS,Rush,106,114,109,138,156,166,156,168,168,164
+4,House Heating Fuel: Fuel Oil,KS,Rush,0,0,3,4,5,4,4,2,2,0
+5,House Heating Fuel: Gas,KS,Rush,1124,1121,1066,1051,1033,990,962,937,921,934
+6,House Heating Fuel: Propane,KS,Rush,296,266,272,268,268,263,250,278,264,282
+7,House Heating Fuel: Wood,KS,Rush,49,58,61,62,68,55,46,43,35,29
+3,House Heating Fuel: Electric,KS,Russell,411,403,398,385,419,443,427,490,524,387
+4,House Heating Fuel: Fuel Oil,KS,Russell,46,0,1,1,2,2,1,0,0,0
+5,House Heating Fuel: Gas,KS,Russell,2316,2298,2307,2416,2420,2284,2316,2236,2098,2231
+6,House Heating Fuel: Propane,KS,Russell,321,428,394,341,361,348,303,304,270,288
+7,House Heating Fuel: Wood,KS,Russell,110,103,106,132,65,122,107,94,71,66
+3,House Heating Fuel: Electric,KS,Saline,3718,4130,4277,4674,4735,4723,4751,4850,4666,4970
+4,House Heating Fuel: Fuel Oil,KS,Saline,11,35,48,67,63,73,86,66,50,50
+5,House Heating Fuel: Gas,KS,Saline,15832,15753,15473,15190,15582,15590,15738,15480,15611,15047
+6,House Heating Fuel: Propane,KS,Saline,1821,1730,1717,1585,1451,1309,1198,1313,1409,1423
+7,House Heating Fuel: Wood,KS,Saline,294,388,413,466,417,465,384,365,283,274
+3,House Heating Fuel: Electric,KS,Scott,385,381,354,370,355,244,246,269,222,333
+4,House Heating Fuel: Fuel Oil,KS,Scott,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Scott,1636,1616,1634,1691,1678,1797,1703,1644,1608,1476
+6,House Heating Fuel: Propane,KS,Scott,99,54,77,60,124,126,165,165,156,116
+7,House Heating Fuel: Wood,KS,Scott,9,0,0,0,0,29,25,27,23,24
+3,House Heating Fuel: Electric,KS,Sedgwick,41373,42562,44351,46293,47300,48746,49314,50092,51199,54101
+4,House Heating Fuel: Fuel Oil,KS,Sedgwick,174,146,117,254,232,175,183,184,122,116
+5,House Heating Fuel: Gas,KS,Sedgwick,141114,141233,140802,138484,137249,136444,136386,136357,136059,134612
+6,House Heating Fuel: Propane,KS,Sedgwick,6724,6422,6051,6083,5761,5901,6313,6599,6665,6812
+7,House Heating Fuel: Wood,KS,Sedgwick,922,874,855,724,809,755,772,655,722,631
+3,House Heating Fuel: Electric,KS,Seward,1335,1279,1201,1107,1054,990,1046,1146,1146,1339
+4,House Heating Fuel: Fuel Oil,KS,Seward,40,56,42,0,0,0,0,9,8,12
+5,House Heating Fuel: Gas,KS,Seward,5754,5687,5721,5901,5976,6084,5935,6037,5691,5503
+6,House Heating Fuel: Propane,KS,Seward,293,347,323,326,282,316,305,315,387,421
+7,House Heating Fuel: Wood,KS,Seward,22,34,49,50,53,45,26,14,32,24
+3,House Heating Fuel: Electric,KS,Shawnee,15460,15787,15613,16169,16312,16174,15991,15523,15355,15093
+4,House Heating Fuel: Fuel Oil,KS,Shawnee,38,83,105,122,143,94,66,62,65,45
+5,House Heating Fuel: Gas,KS,Shawnee,53008,52773,52650,51178,50352,49900,49800,50712,51555,52215
+6,House Heating Fuel: Propane,KS,Shawnee,3793,3651,3726,3844,3974,3935,3928,4095,4046,4144
+7,House Heating Fuel: Wood,KS,Shawnee,445,569,663,806,784,808,711,716,559,432
+3,House Heating Fuel: Electric,KS,Sheridan,72,83,107,120,152,141,157,140,148,111
+4,House Heating Fuel: Fuel Oil,KS,Sheridan,0,1,3,3,2,2,0,0,0,0
+5,House Heating Fuel: Gas,KS,Sheridan,757,774,727,721,710,707,704,742,694,745
+6,House Heating Fuel: Propane,KS,Sheridan,244,209,249,239,233,251,244,218,246,249
+7,House Heating Fuel: Wood,KS,Sheridan,15,17,13,16,24,22,28,28,7,11
+3,House Heating Fuel: Electric,KS,Sherman,268,281,319,327,247,305,443,516,432,351
+4,House Heating Fuel: Fuel Oil,KS,Sherman,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Sherman,2014,2034,2138,2166,2295,2268,2135,2010,1988,1955
+6,House Heating Fuel: Propane,KS,Sherman,208,168,157,112,125,149,164,161,166,185
+7,House Heating Fuel: Wood,KS,Sherman,77,86,115,122,71,64,62,42,63,53
+3,House Heating Fuel: Electric,KS,Smith,143,142,157,227,237,258,275,265,204,193
+4,House Heating Fuel: Fuel Oil,KS,Smith,31,26,35,32,29,6,7,0,4,4
+5,House Heating Fuel: Gas,KS,Smith,1189,1149,1115,1024,987,977,986,1006,1038,1065
+6,House Heating Fuel: Propane,KS,Smith,357,351,346,304,309,319,326,321,367,317
+7,House Heating Fuel: Wood,KS,Smith,61,61,60,60,74,72,73,61,61,112
+3,House Heating Fuel: Electric,KS,Stafford,115,142,202,207,223,246,207,202,201,210
+4,House Heating Fuel: Fuel Oil,KS,Stafford,2,2,5,5,4,4,4,2,1,2
+5,House Heating Fuel: Gas,KS,Stafford,1208,1203,1209,1181,1164,1122,1097,1159,1146,1078
+6,House Heating Fuel: Propane,KS,Stafford,446,419,394,412,410,346,369,346,358,396
+7,House Heating Fuel: Wood,KS,Stafford,68,73,73,70,63,63,82,84,74,61
+3,House Heating Fuel: Electric,KS,Stanton,42,101,111,126,137,139,104,89,72,84
+4,House Heating Fuel: Fuel Oil,KS,Stanton,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Stanton,641,629,602,623,672,634,639,608,648,557
+6,House Heating Fuel: Propane,KS,Stanton,32,25,44,26,24,45,62,96,81,87
+7,House Heating Fuel: Wood,KS,Stanton,0,0,0,0,0,2,5,5,6,5
+3,House Heating Fuel: Electric,KS,Stevens,199,208,235,184,196,196,244,319,362,389
+4,House Heating Fuel: Fuel Oil,KS,Stevens,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Stevens,1651,1613,1528,1563,1515,1559,1411,1420,1306,1243
+6,House Heating Fuel: Propane,KS,Stevens,197,218,210,177,211,220,224,181,216,153
+7,House Heating Fuel: Wood,KS,Stevens,7,7,3,0,4,13,21,16,12,12
+3,House Heating Fuel: Electric,KS,Sumner,1498,1517,1603,1542,1466,1476,1417,1508,1555,1681
+4,House Heating Fuel: Fuel Oil,KS,Sumner,30,36,34,24,32,15,7,7,8,13
+5,House Heating Fuel: Gas,KS,Sumner,5708,5567,5620,5588,5534,5519,5547,5462,5498,5496
+6,House Heating Fuel: Propane,KS,Sumner,1662,1735,1613,1612,1650,1732,1758,1780,1848,1712
+7,House Heating Fuel: Wood,KS,Sumner,306,270,276,253,261,235,315,371,359,391
+3,House Heating Fuel: Electric,KS,Thomas,250,308,324,355,404,523,522,536,577,638
+4,House Heating Fuel: Fuel Oil,KS,Thomas,0,0,0,0,0,0,0,1,3,4
+5,House Heating Fuel: Gas,KS,Thomas,2516,2580,2611,2586,2572,2480,2532,2495,2501,2481
+6,House Heating Fuel: Propane,KS,Thomas,203,214,152,137,174,134,149,199,197,223
+7,House Heating Fuel: Wood,KS,Thomas,37,27,30,13,9,7,6,11,9,9
+3,House Heating Fuel: Electric,KS,Trego,203,185,252,254,307,296,318,271,229,192
+4,House Heating Fuel: Fuel Oil,KS,Trego,1,2,10,11,9,7,10,0,0,0
+5,House Heating Fuel: Gas,KS,Trego,823,809,798,810,718,725,759,875,937,986
+6,House Heating Fuel: Propane,KS,Trego,182,151,136,109,163,211,192,204,194,186
+7,House Heating Fuel: Wood,KS,Trego,66,57,16,21,31,34,37,22,12,6
+3,House Heating Fuel: Electric,KS,Wabaunsee,329,332,342,344,340,399,432,464,449,478
+4,House Heating Fuel: Fuel Oil,KS,Wabaunsee,23,3,6,5,23,53,57,60,71,38
+5,House Heating Fuel: Gas,KS,Wabaunsee,962,983,876,919,947,926,1022,1120,1091,1057
+6,House Heating Fuel: Propane,KS,Wabaunsee,1182,1171,1127,1163,1159,1066,961,897,901,873
+7,House Heating Fuel: Wood,KS,Wabaunsee,215,245,250,212,192,175,195,156,222,235
+3,House Heating Fuel: Electric,KS,Wallace,18,36,40,52,62,62,59,58,69,77
+4,House Heating Fuel: Fuel Oil,KS,Wallace,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Wallace,375,397,378,375,356,371,369,365,399,416
+6,House Heating Fuel: Propane,KS,Wallace,161,169,169,173,187,184,147,159,146,130
+7,House Heating Fuel: Wood,KS,Wallace,19,21,9,8,9,8,7,5,5,2
+3,House Heating Fuel: Electric,KS,Washington,172,205,231,222,241,286,265,241,317,311
+4,House Heating Fuel: Fuel Oil,KS,Washington,0,2,2,1,9,29,70,63,83,117
+5,House Heating Fuel: Gas,KS,Washington,1521,1510,1519,1556,1501,1443,1422,1395,1339,1332
+6,House Heating Fuel: Propane,KS,Washington,569,541,498,505,480,495,462,426,372,360
+7,House Heating Fuel: Wood,KS,Washington,189,196,182,166,192,156,136,143,141,104
+3,House Heating Fuel: Electric,KS,Wichita,86,114,93,98,104,97,102,119,134,145
+4,House Heating Fuel: Fuel Oil,KS,Wichita,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Wichita,680,674,753,724,703,621,641,659,671,683
+6,House Heating Fuel: Propane,KS,Wichita,76,64,40,27,33,41,79,100,98,106
+7,House Heating Fuel: Wood,KS,Wichita,14,10,16,8,10,8,4,0,0,0
+3,House Heating Fuel: Electric,KS,Wilson,478,454,396,428,468,461,532,651,704,694
+4,House Heating Fuel: Fuel Oil,KS,Wilson,0,0,0,0,0,3,2,2,3,32
+5,House Heating Fuel: Gas,KS,Wilson,2372,2313,2270,2334,2344,2316,2343,2266,2120,2054
+6,House Heating Fuel: Propane,KS,Wilson,756,817,854,761,696,640,616,569,597,633
+7,House Heating Fuel: Wood,KS,Wilson,247,226,234,245,280,305,333,339,327,268
+3,House Heating Fuel: Electric,KS,Woodson,219,217,237,212,230,206,242,217,231,263
+4,House Heating Fuel: Fuel Oil,KS,Woodson,12,12,13,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,KS,Woodson,839,779,712,771,703,724,703,718,660,662
+6,House Heating Fuel: Propane,KS,Woodson,412,444,430,374,397,388,348,380,396,352
+7,House Heating Fuel: Wood,KS,Woodson,92,110,132,160,166,202,206,184,164,134
+3,House Heating Fuel: Electric,KS,Wyandotte,10556,11914,12765,13251,13748,14537,14378,14294,15075,15384
+4,House Heating Fuel: Fuel Oil,KS,Wyandotte,51,48,31,24,25,31,28,19,23,27
+5,House Heating Fuel: Gas,KS,Wyandotte,45252,43811,43111,42595,42726,42709,43172,43488,43468,43480
+6,House Heating Fuel: Propane,KS,Wyandotte,794,771,867,874,900,859,804,903,806,695
+7,House Heating Fuel: Wood,KS,Wyandotte,407,424,438,379,419,455,386,320,259,224

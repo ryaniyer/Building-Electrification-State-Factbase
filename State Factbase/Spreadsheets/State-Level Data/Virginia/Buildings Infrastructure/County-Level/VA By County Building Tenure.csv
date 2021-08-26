@@ -1,0 +1,537 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,VA,Accomack,2.25,2.24,2.16,2.13,2.11,2.16,2.21,2.22,2.21,2.23
+1,Avg household size of renter-occupied unit,VA,Accomack,2.8,2.79,2.55,2.53,2.58,2.61,2.55,2.64,2.69,2.6
+36,Owner-Occupied,VA,Accomack,23469,22837,21722,21209,21188,21409,21224,21038,20058,19975
+37,Renter-Occupied,VA,Accomack,10206,9911,10744,11071,10923,10563,10737,10715,11571,11588
+0,Avg household size of owner-occupied unit,VA,Albemarle,2.61,2.64,2.65,2.63,2.6,2.6,2.55,2.56,2.55,2.54
+1,Avg household size of renter-occupied unit,VA,Albemarle,2.15,2.17,2.19,2.16,2.16,2.18,2.25,2.22,2.24,2.21
+36,Owner-Occupied,VA,Albemarle,64033,65213,65308,65949,65401,65636,65198,65081,64690,66617
+37,Renter-Occupied,VA,Albemarle,27883,27503,28239,27886,28901,29548,31110,32359,34095,33609
+0,Avg household size of owner-occupied unit,VA,Alleghany,2.35,2.34,2.35,2.36,2.33,2.28,2.27,2.19,2.2,2.24
+1,Avg household size of renter-occupied unit,VA,Alleghany,2.04,2.16,2.26,2.32,2.48,2.49,2.33,2.27,2.29,2.26
+36,Owner-Occupied,VA,Alleghany,13506,13167,13178,12773,12424,12186,12241,11446,11508,11263
+37,Renter-Occupied,VA,Alleghany,2461,2817,2792,3151,3412,3602,3380,3728,3442,3536
+0,Avg household size of owner-occupied unit,VA,Amelia,2.56,2.45,2.56,2.53,2.58,2.69,2.87,2.72,2.61,2.52
+1,Avg household size of renter-occupied unit,VA,Amelia,2.25,2.73,2.92,2.94,2.96,2.67,2.31,2.58,2.88,2.95
+36,Owner-Occupied,VA,Amelia,10451,9914,9886,9742,10034,10276,11041,10670,10547,10536
+37,Renter-Occupied,VA,Amelia,1850,2600,2661,2835,2589,2351,1607,1990,2168,2282
+0,Avg household size of owner-occupied unit,VA,Amherst,2.42,2.48,2.47,2.45,2.49,2.51,2.52,2.56,2.56,2.55
+1,Avg household size of renter-occupied unit,VA,Amherst,2.15,2.28,2.35,2.41,2.41,2.41,2.48,2.44,2.52,2.42
+36,Owner-Occupied,VA,Amherst,23195,23858,23706,23046,23312,23903,23738,23865,23977,23935
+37,Renter-Occupied,VA,Amherst,6733,6977,7214,7900,7728,7155,7123,6829,6799,6742
+0,Avg household size of owner-occupied unit,VA,Appomattox,2.49,2.53,2.55,2.57,2.51,2.56,2.59,2.66,2.6,2.63
+1,Avg household size of renter-occupied unit,VA,Appomattox,2.29,2.45,2.4,2.62,2.61,2.5,2.39,2.29,2.35,2.36
+36,Owner-Occupied,VA,Appomattox,11287,11184,11510,11955,12128,12293,12339,12802,12301,12438
+37,Renter-Occupied,VA,Appomattox,3285,3527,3339,3009,2932,2845,2902,2587,3204,3196
+0,Avg household size of owner-occupied unit,VA,Arlington,2.3,2.35,2.38,2.42,2.44,2.43,2.43,2.41,2.4,2.39
+1,Avg household size of renter-occupied unit,VA,Arlington,1.95,2.0,2.07,2.1,2.11,2.1,2.05,2.06,2.01,1.97
+36,Owner-Occupied,VA,Arlington,99352,101203,101659,103080,105197,106141,107997,109704,109269,109146
+37,Renter-Occupied,VA,Arlington,94777,98732,104328,108742,111983,114794,115028,116739,119262,120881
+0,Avg household size of owner-occupied unit,VA,Augusta,2.53,2.53,2.5,2.53,2.51,2.53,2.52,2.5,2.45,2.44
+1,Avg household size of renter-occupied unit,VA,Augusta,2.27,2.3,2.35,2.35,2.38,2.38,2.41,2.33,2.32,2.26
+36,Owner-Occupied,VA,Augusta,57365,57758,57412,57355,57373,56469,56845,56883,56577,57059
+37,Renter-Occupied,VA,Augusta,11888,11975,12450,12562,12623,13834,14023,14016,14338,13821
+0,Avg household size of owner-occupied unit,VA,Bath,2.31,2.34,2.17,2.13,1.97,2.08,2.15,2.53,2.14,2.27
+1,Avg household size of renter-occupied unit,VA,Bath,2.55,2.56,2.67,2.32,2.26,2.13,2.04,1.8,2.04,2.3
+36,Owner-Occupied,VA,Bath,4060,3825,3491,3406,3297,3113,3073,3447,3081,3076
+37,Renter-Occupied,VA,Bath,673,749,1075,1160,1248,1384,1373,869,1137,1022
+0,Avg household size of owner-occupied unit,VA,Bedford,2.51,2.51,2.53,2.5,2.5,2.52,2.51,2.48,2.47,2.48
+1,Avg household size of renter-occupied unit,VA,Bedford,2.39,2.56,2.58,2.71,2.43,2.34,2.37,2.48,2.51,2.54
+36,Owner-Occupied,VA,Bedford,57507,57081,57843,57847,61693,62515,62783,62535,62995,63639
+37,Renter-Occupied,VA,Bedford,10062,10948,10624,11032,13360,13409,13648,14297,14419,14260
+0,Avg household size of owner-occupied unit,VA,Bland,2.5,2.34,2.41,2.3,2.19,2.18,2.23,2.27,2.31,2.35
+1,Avg household size of renter-occupied unit,VA,Bland,2.14,2.21,2.58,2.68,2.42,2.25,2.27,2.07,2.03,2.17
+36,Owner-Occupied,VA,Bland,5471,5233,4892,4699,4555,4553,4705,4813,4824,4532
+37,Renter-Occupied,VA,Bland,837,950,1116,1167,1244,1181,1032,919,887,954
+0,Avg household size of owner-occupied unit,VA,Botetourt,2.52,2.56,2.56,2.56,2.56,2.57,2.52,2.53,2.54,2.54
+1,Avg household size of renter-occupied unit,VA,Botetourt,2.3,2.38,2.46,2.48,2.42,2.39,2.19,2.2,2.27,2.14
+36,Owner-Occupied,VA,Botetourt,28337,28784,28724,28926,29147,29054,28814,28530,28800,29114
+37,Renter-Occupied,VA,Botetourt,3807,3712,3943,3788,3632,3822,4089,4326,4104,3892
+0,Avg household size of owner-occupied unit,VA,Brunswick,2.4,2.4,2.41,2.52,2.44,2.44,2.32,2.28,2.27,2.25
+1,Avg household size of renter-occupied unit,VA,Brunswick,2.6,2.58,2.62,2.6,2.8,2.7,2.5,2.61,2.67,2.57
+36,Owner-Occupied,VA,Brunswick,10241,10356,10263,10620,10575,10535,10171,10179,9844,9586
+37,Renter-Occupied,VA,Brunswick,4736,4681,4645,4216,4279,4315,4387,4116,4565,4546
+0,Avg household size of owner-occupied unit,VA,Buchanan,2.62,2.55,2.42,2.38,2.37,2.37,2.45,2.41,2.4,2.45
+1,Avg household size of renter-occupied unit,VA,Buchanan,2.48,2.48,2.56,2.53,2.55,2.39,2.36,2.36,2.34,2.38
+36,Owner-Occupied,VA,Buchanan,19007,18307,17789,17751,17978,17648,17525,17153,16650,16252
+37,Renter-Occupied,VA,Buchanan,4643,4828,5232,5123,4674,4766,4619,4492,4562,4636
+0,Avg household size of owner-occupied unit,VA,Buckingham,1.93,2.09,2.14,2.25,2.39,2.63,2.62,2.67,2.61,2.56
+1,Avg household size of renter-occupied unit,VA,Buckingham,2.26,2.16,2.51,2.6,2.76,2.83,2.73,2.55,2.42,2.57
+36,Owner-Occupied,VA,Buckingham,7006,8713,9184,9954,10609,11454,11384,11461,11457,11215
+37,Renter-Occupied,VA,Buckingham,2769,3295,3578,3632,3780,3557,3657,3587,3489,3716
+0,Avg household size of owner-occupied unit,VA,Campbell,2.47,2.49,2.52,2.5,2.5,2.52,2.49,2.48,2.43,2.38
+1,Avg household size of renter-occupied unit,VA,Campbell,2.39,2.54,2.5,2.5,2.49,2.45,2.3,2.23,2.24,2.32
+36,Owner-Occupied,VA,Campbell,41078,40603,41579,41404,41956,41767,42158,42014,41886,41122
+37,Renter-Occupied,VA,Campbell,12801,13419,12706,13062,12392,12768,12423,12647,12760,13547
+0,Avg household size of owner-occupied unit,VA,Caroline,2.65,2.6,2.52,2.5,2.49,2.44,2.52,2.58,2.6,2.58
+1,Avg household size of renter-occupied unit,VA,Caroline,2.68,2.68,2.83,2.8,2.83,2.67,2.49,2.52,2.42,2.52
+36,Owner-Occupied,VA,Caroline,22571,22487,22218,21394,21740,21581,21478,22393,23048,22351
+37,Renter-Occupied,VA,Caroline,4690,4851,5141,5948,5640,5647,6084,5419,4951,5748
+0,Avg household size of owner-occupied unit,VA,Carroll,2.27,2.34,2.34,2.37,2.41,2.43,2.42,2.44,2.48,2.45
+1,Avg household size of renter-occupied unit,VA,Carroll,2.44,2.42,2.38,2.31,2.24,2.13,2.05,2.1,2.1,2.22
+36,Owner-Occupied,VA,Carroll,22152,22749,23081,23486,23684,24070,23828,23817,23597,23670
+37,Renter-Occupied,VA,Carroll,7441,6818,6555,6206,5973,5619,5736,5786,5975,5960
+0,Avg household size of owner-occupied unit,VA,Charles City,2.74,2.68,2.68,2.55,2.53,2.47,2.48,2.38,2.46,2.41
+1,Avg household size of renter-occupied unit,VA,Charles City,2.15,2.33,2.24,2.43,2.49,2.47,2.51,2.62,2.37,2.5
+36,Owner-Occupied,VA,Charles City,6328,6271,6108,5855,5777,5784,5819,5755,5883,5847
+37,Renter-Occupied,VA,Charles City,877,952,1118,1350,1377,1334,1267,1267,1112,1167
+0,Avg household size of owner-occupied unit,VA,Charlotte,2.87,2.66,2.58,2.58,2.53,2.54,2.52,2.54,2.49,2.41
+1,Avg household size of renter-occupied unit,VA,Charlotte,2.77,2.96,2.53,2.6,2.81,2.64,2.86,3.02,2.95,2.88
+36,Owner-Occupied,VA,Charlotte,9859,9353,9350,8946,8634,8340,7961,8111,7846,8019
+37,Renter-Occupied,VA,Charlotte,2703,3027,2985,3339,3586,3808,4115,3905,4089,3863
+0,Avg household size of owner-occupied unit,VA,Chesterfield,2.77,2.8,2.82,2.84,2.83,2.81,2.78,2.76,2.75,2.74
+1,Avg household size of renter-occupied unit,VA,Chesterfield,2.47,2.5,2.55,2.58,2.64,2.66,2.68,2.68,2.66,2.66
+36,Owner-Occupied,VA,Chesterfield,244316,246726,248483,248610,249114,250599,249944,251630,255405,259435
+37,Renter-Occupied,VA,Chesterfield,60036,61903,64024,67497,71030,73545,77909,80141,80320,80440
+0,Avg household size of owner-occupied unit,VA,Clarke,2.52,2.49,2.49,2.52,2.58,2.66,2.66,2.64,2.6,2.62
+1,Avg household size of renter-occupied unit,VA,Clarke,2.42,2.42,2.46,2.38,2.22,2.2,2.12,2.24,2.24,2.28
+36,Owner-Occupied,VA,Clarke,10555,10640,10915,11219,11040,11144,11066,11013,10980,11024
+37,Renter-Occupied,VA,Clarke,3246,3138,2939,2701,2985,2932,3026,3113,3190,3203
+0,Avg household size of owner-occupied unit,VA,Craig,2.55,2.58,2.51,2.53,2.49,2.44,2.37,2.24,2.3,2.25
+1,Avg household size of renter-occupied unit,VA,Craig,2.45,2.67,2.31,1.9,2.07,1.94,1.9,2.02,2.11,2.1
+36,Owner-Occupied,VA,Craig,4345,4529,4453,4536,4318,4379,3971,3882,3768,3956
+37,Renter-Occupied,VA,Craig,699,588,695,630,864,816,1207,1232,1328,1138
+0,Avg household size of owner-occupied unit,VA,Culpeper,2.82,2.87,2.89,2.85,2.84,2.87,2.83,2.91,2.93,2.96
+1,Avg household size of renter-occupied unit,VA,Culpeper,2.65,2.76,2.76,2.82,2.73,2.73,2.76,2.77,2.83,2.78
+36,Owner-Occupied,VA,Culpeper,32421,32934,33662,33407,34200,34495,34258,35725,36722,36738
+37,Renter-Occupied,VA,Culpeper,11493,11801,11502,12188,12011,12268,13210,12645,12341,12959
+0,Avg household size of owner-occupied unit,VA,Cumberland,2.37,2.32,2.25,2.26,2.3,2.31,2.34,2.43,2.53,2.53
+1,Avg household size of renter-occupied unit,VA,Cumberland,2.86,3.03,3.22,3.07,2.9,2.8,2.48,2.52,2.26,2.27
+36,Owner-Occupied,VA,Cumberland,7330,7000,6970,7090,7064,6685,6980,6973,7325,7424
+37,Renter-Occupied,VA,Cumberland,2515,2884,2938,2809,2811,3131,2746,2780,2418,2358
+0,Avg household size of owner-occupied unit,VA,Dickenson,2.56,2.56,2.43,2.46,2.49,2.43,2.48,2.44,2.48,2.49
+1,Avg household size of renter-occupied unit,VA,Dickenson,2.58,2.55,2.54,2.38,2.38,2.42,2.38,2.35,2.49,2.43
+36,Owner-Occupied,VA,Dickenson,12737,12371,12213,12188,12048,11693,11266,11305,11058,10871
+37,Renter-Occupied,VA,Dickenson,3089,3435,3475,3313,3253,3388,3608,3441,3448,3414
+0,Avg household size of owner-occupied unit,VA,Dinwiddie,2.71,2.77,2.71,2.66,2.75,2.75,2.66,2.63,2.69,2.66
+1,Avg household size of renter-occupied unit,VA,Dinwiddie,2.68,2.92,2.94,2.96,2.65,2.71,2.6,2.66,2.53,2.69
+36,Owner-Occupied,VA,Dinwiddie,20156,20606,20081,20208,20538,20946,20748,21011,21261,21333
+37,Renter-Occupied,VA,Dinwiddie,6367,6291,6998,6888,6602,6299,6613,6288,6304,6376
+0,Avg household size of owner-occupied unit,VA,Essex,2.42,2.54,2.6,2.67,2.67,2.58,2.49,2.42,2.38,2.27
+1,Avg household size of renter-occupied unit,VA,Essex,2.37,2.19,2.27,2.26,2.25,2.4,2.37,2.49,2.56,2.61
+36,Owner-Occupied,VA,Essex,8072,8592,8606,8702,8497,8215,7925,7619,7401,6933
+37,Renter-Occupied,VA,Essex,2670,2280,2361,2304,2488,2743,3010,3278,3464,3911
+0,Avg household size of owner-occupied unit,VA,Fairfax,2.8,2.81,2.82,2.84,2.86,2.88,2.88,2.89,2.9,2.9
+1,Avg household size of renter-occupied unit,VA,Fairfax,2.52,2.58,2.64,2.73,2.76,2.8,2.82,2.85,2.82,2.79
+36,Owner-Occupied,VA,Fairfax,769655,768704,764769,763461,763713,764482,763333,772011,779296,781920
+37,Renter-Occupied,VA,Fairfax,270686,288070,310750,329155,344585,355279,360500,360978,355132,354858
+0,Avg household size of owner-occupied unit,VA,Fauquier,2.93,2.88,2.88,2.91,2.93,2.91,2.89,2.89,2.86,2.87
+1,Avg household size of renter-occupied unit,VA,Fauquier,2.62,2.6,2.62,2.53,2.6,2.59,2.63,2.65,2.69,2.67
+36,Owner-Occupied,VA,Fauquier,51647,51787,52464,53946,53991,54322,53870,54314,54425,55135
+37,Renter-Occupied,VA,Fauquier,12400,12764,12595,11657,12333,12761,13772,13716,14315,14222
+0,Avg household size of owner-occupied unit,VA,Floyd,2.37,2.49,2.51,2.58,2.53,2.47,2.51,2.43,2.41,2.38
+1,Avg household size of renter-occupied unit,VA,Floyd,2.36,2.35,2.46,2.27,2.51,2.42,2.27,2.3,2.39,2.52
+36,Owner-Occupied,VA,Floyd,11803,11822,11863,12186,12119,12045,12319,12652,12815,12517
+37,Renter-Occupied,VA,Floyd,3217,3265,3329,3103,3254,3390,3178,2852,2761,3094
+0,Avg household size of owner-occupied unit,VA,Fluvanna,2.68,2.63,2.6,2.59,2.5,2.48,2.55,2.57,2.56,2.58
+1,Avg household size of renter-occupied unit,VA,Fluvanna,2.48,2.55,2.56,2.63,2.64,2.6,2.45,2.44,2.46,2.4
+36,Owner-Occupied,VA,Fluvanna,21357,21305,21497,20992,20360,20148,19917,20323,21148,21741
+37,Renter-Occupied,VA,Fluvanna,2900,3072,2980,3599,4322,4593,4969,4599,3903,3582
+0,Avg household size of owner-occupied unit,VA,Franklin,2.26,2.29,2.34,2.35,2.38,2.37,2.36,2.34,2.34,2.36
+1,Avg household size of renter-occupied unit,VA,Franklin,2.44,2.35,2.27,2.34,2.3,2.32,2.44,2.43,2.45,2.44
+36,Owner-Occupied,VA,Franklin,41419,42877,42812,42758,42980,42622,43045,43042,43256,44378
+37,Renter-Occupied,VA,Franklin,12255,11493,11876,11994,11921,12138,11629,11680,11426,10254
+0,Avg household size of owner-occupied unit,VA,Frederick,2.63,2.67,2.68,2.7,2.72,2.73,2.73,2.74,2.76,2.78
+1,Avg household size of renter-occupied unit,VA,Frederick,2.53,2.62,2.52,2.61,2.69,2.7,2.65,2.6,2.51,2.42
+36,Owner-Occupied,VA,Frederick,59216,60019,62095,61772,61753,62798,63784,64691,66502,67955
+37,Renter-Occupied,VA,Frederick,15321,16088,15107,16501,17458,17432,17350,17850,17340,17090
+0,Avg household size of owner-occupied unit,VA,Giles,2.45,2.43,2.34,2.36,2.33,2.31,2.28,2.38,2.39,2.4
+1,Avg household size of renter-occupied unit,VA,Giles,2.2,2.36,2.53,2.4,2.32,2.33,2.35,2.32,2.37,2.42
+36,Owner-Occupied,VA,Giles,13515,13349,12914,12819,12763,12730,12452,12598,12836,12469
+37,Renter-Occupied,VA,Giles,3458,3680,4069,4134,4113,4041,4285,4140,3844,4166
+0,Avg household size of owner-occupied unit,VA,Gloucester,2.61,2.67,2.67,2.68,2.64,2.58,2.54,2.5,2.5,2.51
+1,Avg household size of renter-occupied unit,VA,Gloucester,2.42,2.38,2.41,2.4,2.44,2.54,2.52,2.48,2.5,2.47
+36,Owner-Occupied,VA,Gloucester,30144,31158,31113,30864,30074,29105,28221,28418,28164,29043
+37,Renter-Occupied,VA,Gloucester,5973,5261,5397,5696,6573,7616,8524,8347,8740,7941
+0,Avg household size of owner-occupied unit,VA,Goochland,2.35,2.33,2.34,2.38,2.46,2.51,2.56,2.55,2.57,2.58
+1,Avg household size of renter-occupied unit,VA,Goochland,2.13,2.65,2.85,2.58,2.26,2.49,2.4,2.47,2.32,2.42
+36,Owner-Occupied,VA,Goochland,14657,16915,16925,17295,17690,17766,17993,18337,18370,18598
+37,Renter-Occupied,VA,Goochland,1275,1496,1888,2029,2299,2643,2750,2646,2943,3113
+0,Avg household size of owner-occupied unit,VA,Grayson,2.31,2.35,2.28,2.33,2.24,2.23,2.14,2.21,2.21,2.22
+1,Avg household size of renter-occupied unit,VA,Grayson,2.12,2.11,2.18,2.2,2.31,2.27,2.36,2.42,2.51,2.39
+36,Owner-Occupied,VA,Grayson,12882,12727,12067,11959,11367,11279,11304,11560,11472,11705
+37,Renter-Occupied,VA,Grayson,2725,2843,3321,3253,3706,3947,3336,3420,3413,2901
+0,Avg household size of owner-occupied unit,VA,Greene,2.65,2.68,2.67,2.67,2.69,2.7,2.7,2.67,2.7,2.62
+1,Avg household size of renter-occupied unit,VA,Greene,2.62,2.61,2.62,2.66,2.59,2.41,2.52,2.43,2.29,2.41
+36,Owner-Occupied,VA,Greene,14219,14569,14265,14559,14426,14903,14984,15649,15937,15326
+37,Renter-Occupied,VA,Greene,3548,3564,4026,3851,4176,3859,3940,3417,3340,4072
+0,Avg household size of owner-occupied unit,VA,Greensville,2.8,2.46,2.54,2.45,2.4,2.19,2.28,2.27,2.19,2.14
+1,Avg household size of renter-occupied unit,VA,Greensville,3.32,3.22,2.66,2.57,2.49,2.11,2.43,2.51,2.56,2.59
+36,Owner-Occupied,VA,Greensville,7080,5811,5909,6294,5958,5473,6429,6250,5914,5722
+37,Renter-Occupied,VA,Greensville,2854,2914,2615,2108,2278,2091,2167,2247,2530,2522
+0,Avg household size of owner-occupied unit,VA,Halifax,2.47,2.42,2.43,2.4,2.4,2.42,2.43,2.43,2.47,2.44
+1,Avg household size of renter-occupied unit,VA,Halifax,2.37,2.47,2.31,2.33,2.44,2.45,2.4,2.45,2.3,2.22
+36,Owner-Occupied,VA,Halifax,27475,26835,26425,25593,25419,25044,24671,24799,25842,25623
+37,Renter-Occupied,VA,Halifax,8359,8537,8859,9534,9499,9681,9857,9471,8164,8134
+0,Avg household size of owner-occupied unit,VA,Hanover,2.76,2.73,2.75,2.73,2.74,2.72,2.72,2.71,2.7,2.7
+1,Avg household size of renter-occupied unit,VA,Hanover,2.34,2.27,2.29,2.29,2.32,2.35,2.41,2.42,2.48,2.48
+36,Owner-Occupied,VA,Hanover,83503,83613,83938,83901,83396,82641,83227,84096,85028,86857
+37,Renter-Occupied,VA,Hanover,13590,13403,13511,14099,15188,16742,17107,17283,17607,16893
+0,Avg household size of owner-occupied unit,VA,Henrico,2.53,2.54,2.53,2.56,2.6,2.61,2.62,2.64,2.63,2.65
+1,Avg household size of renter-occupied unit,VA,Henrico,2.23,2.25,2.33,2.36,2.39,2.42,2.43,2.4,2.39,2.33
+36,Owner-Occupied,VA,Henrico,206320,206583,205766,206704,205197,204754,205886,209257,210009,213028
+37,Renter-Occupied,VA,Henrico,89849,93518,98440,101631,107084,111842,113689,112460,113128,111916
+0,Avg household size of owner-occupied unit,VA,Henry,2.35,2.35,2.32,2.3,2.3,2.29,2.32,2.34,2.4,2.42
+1,Avg household size of renter-occupied unit,VA,Henry,2.43,2.42,2.45,2.41,2.41,2.4,2.36,2.24,2.25,2.28
+36,Owner-Occupied,VA,Henry,40927,39966,39913,38983,38358,38269,37652,37958,37458,36996
+37,Renter-Occupied,VA,Henry,13390,14091,13541,13913,14012,13678,13885,13321,13424,13571
+0,Avg household size of owner-occupied unit,VA,Highland,2.07,2.09,2.06,2.18,2.08,2.1,2.01,1.91,1.91,2.04
+1,Avg household size of renter-occupied unit,VA,Highland,2.28,2.24,2.94,2.8,2.35,2.07,1.85,1.86,2.24,2.09
+36,Owner-Occupied,VA,Highland,1792,1861,1815,1889,1892,1855,1927,1899,1760,1820
+37,Renter-Occupied,VA,Highland,603,493,502,387,366,389,303,314,454,384
+0,Avg household size of owner-occupied unit,VA,Isle of Wight,2.64,2.65,2.62,2.62,2.63,2.6,2.59,2.56,2.55,2.52
+1,Avg household size of renter-occupied unit,VA,Isle of Wight,2.16,2.27,2.42,2.47,2.52,2.48,2.49,2.41,2.44,2.41
+36,Owner-Occupied,VA,Isle of Wight,29081,29161,28612,28642,28089,27940,28157,28044,27299,27843
+37,Renter-Occupied,VA,Isle of Wight,5528,5758,6426,6497,7165,7501,7582,7767,8814,8527
+0,Avg household size of owner-occupied unit,VA,James City,2.47,2.49,2.51,2.54,2.54,2.53,2.54,2.58,2.57,2.58
+1,Avg household size of renter-occupied unit,VA,James City,2.39,2.38,2.39,2.37,2.35,2.35,2.37,2.41,2.44,2.48
+36,Owner-Occupied,VA,James City,48871,49854,51065,52103,52286,53194,54188,54415,55175,56921
+37,Renter-Occupied,VA,James City,14528,15121,15005,15164,16590,16486,16669,17581,17920,16927
+0,Avg household size of owner-occupied unit,VA,King and Queen,2.48,2.36,2.41,2.44,2.45,2.44,2.46,2.42,2.45,2.57
+1,Avg household size of renter-occupied unit,VA,King and Queen,2.4,2.59,2.29,2.48,2.63,2.52,2.85,2.82,2.74,2.74
+36,Owner-Occupied,VA,King and Queen,5603,5480,5447,5337,5203,5349,5449,5365,5782,5822
+37,Renter-Occupied,VA,King and Queen,1323,1466,1521,1683,1870,1757,1691,1687,1270,1220
+0,Avg household size of owner-occupied unit,VA,King George,2.7,2.83,2.84,2.78,2.91,2.93,2.86,2.8,2.81,2.8
+1,Avg household size of renter-occupied unit,VA,King George,2.5,2.67,2.88,3.1,2.95,3.02,3.0,2.93,2.84,2.89
+36,Owner-Occupied,VA,King George,16910,17347,17438,16973,17798,17931,18146,18966,19734,20322
+37,Renter-Occupied,VA,King George,4828,5513,5855,6813,6500,6833,6965,6420,5943,5654
+0,Avg household size of owner-occupied unit,VA,King William,2.6,2.66,2.68,2.63,2.61,2.63,2.63,2.63,2.63,2.71
+1,Avg household size of renter-occupied unit,VA,King William,2.72,2.37,2.29,2.72,2.54,2.78,2.77,2.96,2.91,2.9
+36,Owner-Occupied,VA,King William,13118,13265,13458,13123,13190,12962,13429,13771,13971,14407
+37,Renter-Occupied,VA,King William,2343,2378,2323,2763,2789,3076,2671,2505,2471,2225
+0,Avg household size of owner-occupied unit,VA,Lancaster,2.0,1.94,2.01,2.08,2.09,2.18,2.18,2.2,2.16,2.14
+1,Avg household size of renter-occupied unit,VA,Lancaster,2.26,2.14,2.23,2.36,2.12,2.01,2.04,1.86,1.83,1.95
+36,Owner-Occupied,VA,Lancaster,8350,8357,8673,8553,8317,8437,8342,8199,8405,8213
+37,Renter-Occupied,VA,Lancaster,2800,2727,2420,2534,2757,2588,2603,2535,2285,2378
+0,Avg household size of owner-occupied unit,VA,Lee,2.5,2.4,2.42,2.47,2.47,2.5,2.5,2.48,2.51,2.46
+1,Avg household size of renter-occupied unit,VA,Lee,2.52,2.32,2.49,2.56,2.55,2.57,2.57,2.45,2.39,2.44
+36,Owner-Occupied,VA,Lee,18183,18035,17876,17709,17207,17252,16651,16540,16235,15927
+37,Renter-Occupied,VA,Lee,6490,5813,6124,6333,6741,6530,6754,6392,6403,6532
+0,Avg household size of owner-occupied unit,VA,Loudoun,3.16,3.12,3.1,3.11,3.14,3.15,3.18,3.17,3.15,3.16
+1,Avg household size of renter-occupied unit,VA,Loudoun,2.58,2.69,2.72,2.81,2.82,2.84,2.75,2.72,2.73,2.68
+36,Owner-Occupied,VA,Loudoun,243520,246567,252179,258181,265915,275792,288232,299605,307434,317340
+37,Renter-Occupied,VA,Loudoun,47264,55932,61801,67146,71708,73880,72635,73195,75794,75772
+0,Avg household size of owner-occupied unit,VA,Louisa,2.48,2.48,2.52,2.52,2.58,2.6,2.57,2.54,2.58,2.56
+1,Avg household size of renter-occupied unit,VA,Louisa,2.27,2.42,2.56,2.65,2.8,2.78,2.74,2.75,2.68,2.7
+36,Owner-Occupied,VA,Louisa,25683,25507,26392,26262,26839,26549,26390,27198,27867,28455
+37,Renter-Occupied,VA,Louisa,6565,7051,6521,6963,6754,7294,7838,7494,7395,7466
+0,Avg household size of owner-occupied unit,VA,Lunenburg,2.63,2.56,2.41,2.4,2.34,2.43,2.43,2.53,2.59,2.62
+1,Avg household size of renter-occupied unit,VA,Lunenburg,2.66,2.55,2.64,2.71,2.69,2.62,2.55,2.61,2.67,2.66
+36,Owner-Occupied,VA,Lunenburg,8827,8371,8304,8257,8029,8069,8054,8149,8009,8082
+37,Renter-Occupied,VA,Lunenburg,3073,3066,3054,3062,3240,3114,3439,3273,3316,3226
+0,Avg household size of owner-occupied unit,VA,Madison,2.47,2.42,2.5,2.54,2.55,2.61,2.56,2.51,2.54,2.61
+1,Avg household size of renter-occupied unit,VA,Madison,2.95,2.95,2.88,2.83,2.55,2.52,2.54,2.54,2.56,2.63
+36,Owner-Occupied,VA,Madison,10412,9954,10031,10237,10166,9473,9372,9420,9416,9633
+37,Renter-Occupied,VA,Madison,2930,3171,3042,2805,2828,3445,3519,3454,3495,3321
+0,Avg household size of owner-occupied unit,VA,Mathews,2.37,2.35,2.32,2.25,2.25,2.26,2.24,2.31,2.18,2.19
+1,Avg household size of renter-occupied unit,VA,Mathews,2.33,2.33,2.3,2.45,2.63,2.5,2.49,2.37,2.47,2.27
+36,Owner-Occupied,VA,Mathews,7431,7383,7029,6932,6949,7132,7263,7492,7431,7309
+37,Renter-Occupied,VA,Mathews,1498,1494,1808,1906,1864,1638,1474,1229,1241,1339
+0,Avg household size of owner-occupied unit,VA,Mecklenburg,2.36,2.39,2.39,2.34,2.31,2.35,2.41,2.47,2.45,2.41
+1,Avg household size of renter-occupied unit,VA,Mecklenburg,2.84,2.75,2.56,2.64,2.48,2.58,2.67,2.74,2.69,2.57
+36,Owner-Occupied,VA,Mecklenburg,22314,22316,21968,21687,21759,21748,20883,20990,20256,20720
+37,Renter-Occupied,VA,Mecklenburg,8895,8811,8797,8899,8561,8356,9106,8977,9579,8995
+0,Avg household size of owner-occupied unit,VA,Middlesex,2.37,2.35,2.33,2.37,2.35,2.36,2.26,2.23,2.18,2.07
+1,Avg household size of renter-occupied unit,VA,Middlesex,2.88,2.8,2.73,2.47,2.43,2.47,2.52,2.5,2.88,2.83
+36,Owner-Occupied,VA,Middlesex,8254,8307,8502,8546,8659,8511,8312,8153,7802,7500
+37,Renter-Occupied,VA,Middlesex,2343,2240,2018,1963,1802,1804,2002,2160,2502,2780
+0,Avg household size of owner-occupied unit,VA,Montgomery,2.43,2.48,2.49,2.51,2.59,2.56,2.57,2.6,2.59,2.52
+1,Avg household size of renter-occupied unit,VA,Montgomery,2.23,2.26,2.31,2.37,2.35,2.39,2.36,2.36,2.4,2.45
+36,Owner-Occupied,VA,Montgomery,47101,47274,46933,47664,48764,48870,49096,50680,50493,49834
+37,Renter-Occupied,VA,Montgomery,33384,35142,36733,37324,37520,38489,39053,37881,38301,39021
+0,Avg household size of owner-occupied unit,VA,Nelson,2.29,2.33,2.34,2.4,2.36,2.35,2.31,2.25,2.25,2.3
+1,Avg household size of renter-occupied unit,VA,Nelson,2.25,2.14,2.22,2.04,2.18,2.25,2.31,2.28,2.39,2.27
+36,Owner-Occupied,VA,Nelson,11660,11412,11607,11647,11127,10756,10719,10557,10749,11290
+37,Renter-Occupied,VA,Nelson,3257,3486,3250,3159,3640,3985,4000,4197,3956,3438
+0,Avg household size of owner-occupied unit,VA,New Kent,2.6,2.68,2.68,2.63,2.61,2.6,2.57,2.6,2.64,2.6
+1,Avg household size of renter-occupied unit,VA,New Kent,2.57,2.64,2.49,2.77,2.68,2.66,2.67,2.85,2.7,2.97
+36,Owner-Occupied,VA,New Kent,15249,15967,16152,16118,16326,16200,16283,16059,17442,17927
+37,Renter-Occupied,VA,New Kent,1667,1579,1744,2106,2284,2818,3211,3916,3097,3190
+0,Avg household size of owner-occupied unit,VA,Northampton,2.34,2.22,2.2,2.17,2.12,2.15,2.24,2.19,2.15,2.15
+1,Avg household size of renter-occupied unit,VA,Northampton,2.66,2.57,2.82,2.66,2.64,2.52,2.5,2.37,2.47,2.44
+36,Owner-Occupied,VA,Northampton,8456,7993,7678,7665,7762,7764,7633,7331,7241,7207
+37,Renter-Occupied,VA,Northampton,3908,4082,4330,4306,4155,4121,4159,4350,4405,4374
+0,Avg household size of owner-occupied unit,VA,Northumberland,2.2,2.17,2.23,2.2,2.24,2.2,2.21,2.15,2.14,2.15
+1,Avg household size of renter-occupied unit,VA,Northumberland,2.61,2.51,2.19,1.96,1.84,1.58,1.61,1.98,2.2,2.44
+36,Owner-Occupied,VA,Northumberland,10179,10037,10521,10654,10580,10791,11004,10554,10390,10718
+37,Renter-Occupied,VA,Northumberland,2240,2368,1847,1666,1726,1513,1268,1700,1833,1472
+0,Avg household size of owner-occupied unit,VA,Nottoway,2.75,2.68,2.78,2.67,2.58,2.51,2.52,2.47,2.45,2.45
+1,Avg household size of renter-occupied unit,VA,Nottoway,2.68,2.78,2.66,2.5,2.57,2.6,2.38,2.39,2.45,2.45
+36,Owner-Occupied,VA,Nottoway,9924,10106,10384,9824,9296,9161,9001,8205,8321,8623
+37,Renter-Occupied,VA,Nottoway,5351,5006,4695,5007,5214,5030,4989,5540,5250,4705
+0,Avg household size of owner-occupied unit,VA,Orange,2.54,2.56,2.59,2.62,2.66,2.52,2.53,2.49,2.53,2.52
+1,Avg household size of renter-occupied unit,VA,Orange,2.46,2.69,2.74,2.73,2.9,3.08,2.82,2.88,2.86,2.84
+36,Owner-Occupied,VA,Orange,25241,24634,25303,25077,25349,24402,26143,25897,26467,27173
+37,Renter-Occupied,VA,Orange,6712,8041,7774,8328,8379,9684,8205,8835,8596,8256
+0,Avg household size of owner-occupied unit,VA,Page,2.53,2.54,2.52,2.45,2.45,2.45,2.42,2.43,2.47,2.51
+1,Avg household size of renter-occupied unit,VA,Page,2.32,2.4,2.51,2.53,2.59,2.71,2.6,2.59,2.64,2.6
+36,Owner-Occupied,VA,Page,18436,18244,17837,16959,16546,16145,16258,15882,16164,16581
+37,Renter-Occupied,VA,Page,5454,5656,6004,6821,7167,7512,7310,7615,7383,6994
+0,Avg household size of owner-occupied unit,VA,Patrick,2.53,2.62,2.5,2.33,2.34,2.3,2.22,2.23,2.24,2.25
+1,Avg household size of renter-occupied unit,VA,Patrick,2.36,2.25,2.19,2.27,2.42,2.34,2.53,2.48,2.4,2.2
+36,Owner-Occupied,VA,Patrick,15133,15054,14659,14098,13671,13768,13374,13264,13191,13775
+37,Renter-Occupied,VA,Patrick,3240,3275,3597,4092,4448,4254,4532,4391,4328,3595
+0,Avg household size of owner-occupied unit,VA,Pittsylvania,2.38,2.39,2.38,2.38,2.38,2.34,2.31,2.27,2.27,2.26
+1,Avg household size of renter-occupied unit,VA,Pittsylvania,2.17,2.23,2.33,2.34,2.38,2.43,2.39,2.31,2.41,2.37
+36,Owner-Occupied,VA,Pittsylvania,50265,50125,49925,49570,48618,47103,46453,45648,44737,44699
+37,Renter-Occupied,VA,Pittsylvania,11883,11984,12229,12426,13354,14777,14920,15273,15827,15336
+0,Avg household size of owner-occupied unit,VA,Powhatan,2.44,2.5,2.6,2.62,2.65,2.64,2.57,2.56,2.52,2.55
+1,Avg household size of renter-occupied unit,VA,Powhatan,2.64,2.57,2.3,2.47,2.58,2.52,2.77,2.71,2.71,2.61
+36,Owner-Occupied,VA,Powhatan,18915,21052,21819,22212,22329,22474,22488,22955,23011,23561
+37,Renter-Occupied,VA,Powhatan,2361,2727,2415,2665,3007,3104,3131,2765,2866,2645
+0,Avg household size of owner-occupied unit,VA,Prince Edward,2.59,2.55,2.51,2.62,2.61,2.61,2.59,2.51,2.52,2.46
+1,Avg household size of renter-occupied unit,VA,Prince Edward,2.8,2.36,2.52,2.2,2.13,2.27,2.46,2.54,2.49,2.45
+36,Owner-Occupied,VA,Prince Edward,12000,12299,12497,12743,13110,12535,12195,11861,12129,11363
+37,Renter-Occupied,VA,Prince Edward,7483,5947,5668,5718,5512,5923,6350,6493,5913,6267
+0,Avg household size of owner-occupied unit,VA,Prince George,2.67,2.63,2.7,2.77,2.8,2.86,2.87,2.78,2.83,2.85
+1,Avg household size of renter-occupied unit,VA,Prince George,3.31,3.41,3.36,3.32,3.4,3.43,3.32,3.4,3.28,3.19
+36,Owner-Occupied,VA,Prince George,21083,21436,21766,21596,21506,22378,22025,21456,21669,22138
+37,Renter-Occupied,VA,Prince George,8554,8800,9239,10110,10962,11206,11702,12209,12337,11918
+0,Avg household size of owner-occupied unit,VA,Prince William,3.05,3.08,3.1,3.13,3.17,3.19,3.22,3.24,3.28,3.28
+1,Avg household size of renter-occupied unit,VA,Prince William,2.84,2.95,3.04,3.08,3.12,3.1,3.1,3.12,3.07,3.07
+36,Owner-Occupied,VA,Prince William,284926,290124,292683,298688,306275,312225,316297,326890,336907,340865
+37,Renter-Occupied,VA,Prince William,89515,97005,107020,113722,118404,121051,123377,119763,115744,116581
+0,Avg household size of owner-occupied unit,VA,Pulaski,2.3,2.29,2.32,2.32,2.28,2.35,2.35,2.31,2.31,2.27
+1,Avg household size of renter-occupied unit,VA,Pulaski,2.18,2.25,2.18,2.17,2.1,2.17,2.17,2.22,2.21,2.27
+36,Owner-Occupied,VA,Pulaski,25105,24735,24776,25074,25162,24494,24530,24512,24277,23581
+37,Renter-Occupied,VA,Pulaski,8744,9199,9176,8827,8594,9127,8887,8788,8883,9469
+0,Avg household size of owner-occupied unit,VA,Rappahannock,2.44,2.32,2.23,2.24,2.21,2.24,2.25,2.38,2.42,2.45
+1,Avg household size of renter-occupied unit,VA,Rappahannock,2.05,1.95,2.34,2.38,2.44,2.32,2.35,2.24,2.56,2.74
+36,Owner-Occupied,VA,Rappahannock,5592,5777,5667,5724,5744,5593,5428,5600,5321,5307
+37,Renter-Occupied,VA,Rappahannock,1784,1610,1734,1683,1662,1813,1963,1740,1994,2058
+0,Avg household size of owner-occupied unit,VA,Richmond,2.51,2.61,2.62,2.51,2.49,2.46,2.19,2.16,2.23,2.36
+1,Avg household size of renter-occupied unit,VA,Richmond,2.85,2.77,2.97,2.72,2.77,2.48,2.54,2.31,2.46,2.37
+36,Owner-Occupied,VA,Richmond,6028,5985,5263,5371,5284,5268,4938,5043,5044,5071
+37,Renter-Occupied,VA,Richmond,1726,1698,2218,1944,1881,1828,2096,2104,2159,2186
+0,Avg household size of owner-occupied unit,VA,Roanoke,2.46,2.45,2.46,2.48,2.45,2.45,2.44,2.44,2.45,2.5
+1,Avg household size of renter-occupied unit,VA,Roanoke,2.06,2.09,2.15,2.11,2.18,2.26,2.25,2.19,2.19,2.11
+36,Owner-Occupied,VA,Roanoke,72372,71724,70987,72123,70499,69696,69388,70115,69700,71342
+37,Renter-Occupied,VA,Roanoke,17370,18236,19411,18631,20590,21857,22131,21163,21726,20287
+0,Avg household size of owner-occupied unit,VA,Rockbridge,2.4,2.44,2.51,2.45,2.44,2.41,2.41,2.45,2.51,2.4
+1,Avg household size of renter-occupied unit,VA,Rockbridge,2.28,2.2,2.24,2.24,2.29,2.31,2.34,2.36,2.37,2.46
+36,Owner-Occupied,VA,Rockbridge,17174,16696,16614,16590,16896,16697,17319,17225,17676,16718
+37,Renter-Occupied,VA,Rockbridge,5043,5405,5537,5547,5266,5536,4923,5005,4619,5634
+0,Avg household size of owner-occupied unit,VA,Rockingham,2.5,2.51,2.55,2.59,2.62,2.63,2.65,2.62,2.62,2.61
+1,Avg household size of renter-occupied unit,VA,Rockingham,2.29,2.41,2.42,2.44,2.41,2.39,2.35,2.27,2.21,2.32
+36,Owner-Occupied,VA,Rockingham,55460,57032,58013,58585,58931,59036,58632,58459,59750,60142
+37,Renter-Occupied,VA,Rockingham,17212,16897,16686,16668,16782,17117,18139,18498,17967,18385
+0,Avg household size of owner-occupied unit,VA,Russell,2.54,2.56,2.6,2.59,2.61,2.56,2.61,2.52,2.51,2.51
+1,Avg household size of renter-occupied unit,VA,Russell,2.36,2.41,2.38,2.29,2.3,2.35,2.19,2.22,2.29,2.32
+36,Owner-Occupied,VA,Russell,22596,22200,22360,22684,22409,22058,22163,21791,20919,20657
+37,Renter-Occupied,VA,Russell,6246,6355,6063,5580,5611,5715,5329,5451,5993,5988
+0,Avg household size of owner-occupied unit,VA,Scott,2.41,2.4,2.35,2.29,2.37,2.36,2.43,2.51,2.52,2.5
+1,Avg household size of renter-occupied unit,VA,Scott,2.21,2.19,2.37,2.39,2.4,2.28,2.22,2.05,2.1,2.11
+36,Owner-Occupied,VA,Scott,17866,18189,17672,17115,17417,17167,16960,17381,17200,16934
+37,Renter-Occupied,VA,Scott,4869,4662,4972,5339,4810,4758,4719,4185,4063,4185
+0,Avg household size of owner-occupied unit,VA,Shenandoah,2.44,2.42,2.41,2.39,2.4,2.44,2.44,2.42,2.47,2.47
+1,Avg household size of renter-occupied unit,VA,Shenandoah,2.28,2.39,2.42,2.43,2.53,2.56,2.5,2.54,2.44,2.45
+36,Owner-Occupied,VA,Shenandoah,29335,29154,29512,29305,29760,30270,29796,29157,30222,30454
+37,Renter-Occupied,VA,Shenandoah,12030,12188,12102,12500,12322,11977,12602,13261,12415,12387
+0,Avg household size of owner-occupied unit,VA,Smyth,2.43,2.49,2.44,2.41,2.37,2.4,2.39,2.42,2.39,2.4
+1,Avg household size of renter-occupied unit,VA,Smyth,2.38,2.43,2.59,2.61,2.55,2.49,2.37,2.3,2.27,2.26
+36,Owner-Occupied,VA,Smyth,22999,22586,21751,21539,21213,21478,21631,21854,21936,21813
+37,Renter-Occupied,VA,Smyth,8362,8812,9504,9645,9958,9593,9183,8757,8388,8187
+0,Avg household size of owner-occupied unit,VA,Southampton,2.62,2.6,2.59,2.57,2.56,2.58,2.51,2.51,2.5,2.48
+1,Avg household size of renter-occupied unit,VA,Southampton,2.45,2.38,2.57,2.4,2.41,2.4,2.48,2.45,2.53,2.57
+36,Owner-Occupied,VA,Southampton,13133,12719,12373,12357,12209,12006,11583,11970,11933,12171
+37,Renter-Occupied,VA,Southampton,3843,4120,4537,4534,4524,4867,5243,4640,4433,4251
+0,Avg household size of owner-occupied unit,VA,Spotsylvania,2.92,2.94,2.95,2.97,2.95,2.97,2.98,2.98,2.98,2.99
+1,Avg household size of renter-occupied unit,VA,Spotsylvania,2.85,2.92,3.0,2.98,3.04,2.97,3.0,3.04,3.06,2.94
+36,Owner-Occupied,VA,Spotsylvania,95770,94550,95091,95877,95109,96824,99162,99935,101139,103790
+37,Renter-Occupied,VA,Spotsylvania,23499,26532,27317,28004,30679,30441,29572,29770,29834,28607
+0,Avg household size of owner-occupied unit,VA,Stafford,3.06,3.09,3.1,3.06,3.09,3.09,3.07,3.05,3.07,3.08
+1,Avg household size of renter-occupied unit,VA,Stafford,2.81,2.89,2.91,2.97,2.98,3.04,3.06,3.01,2.9,2.9
+36,Owner-Occupied,VA,Stafford,96389,99212,100013,99287,101366,102829,102402,104784,108426,112299
+37,Renter-Occupied,VA,Stafford,24381,24859,25950,28965,29752,30693,33591,32980,32058,30844
+0,Avg household size of owner-occupied unit,VA,Surry,2.76,2.72,2.69,2.65,2.68,2.58,2.52,2.41,2.33,2.35
+1,Avg household size of renter-occupied unit,VA,Surry,3.07,2.86,2.82,2.7,2.3,2.46,2.36,2.39,2.59,2.52
+36,Owner-Occupied,VA,Surry,5072,5138,5351,5511,5589,5511,5564,5088,4947,4757
+37,Renter-Occupied,VA,Surry,1967,1888,1637,1411,1296,1312,1167,1582,1653,1766
+0,Avg household size of owner-occupied unit,VA,Sussex,2.88,2.94,2.65,2.23,2.07,2.07,1.82,1.96,2.01,2.23
+1,Avg household size of renter-occupied unit,VA,Sussex,2.84,2.54,2.31,2.08,2.04,2.1,1.61,2.27,2.16,2.73
+36,Owner-Occupied,VA,Sussex,7317,6802,6334,5798,4405,4265,4477,4690,5166,5841
+37,Renter-Occupied,VA,Sussex,3551,3262,2898,2301,2319,2288,2146,2257,2696,3192
+0,Avg household size of owner-occupied unit,VA,Tazewell,2.52,2.49,2.44,2.41,2.35,2.37,2.38,2.38,2.37,2.41
+1,Avg household size of renter-occupied unit,VA,Tazewell,2.25,2.26,2.31,2.27,2.32,2.4,2.38,2.35,2.4,2.45
+36,Owner-Occupied,VA,Tazewell,33258,32687,31965,32161,31647,31805,31410,31692,30660,29747
+37,Renter-Occupied,VA,Tazewell,10800,11110,11657,11225,11292,10557,10425,9474,9894,10311
+0,Avg household size of owner-occupied unit,VA,Warren,2.61,2.64,2.65,2.66,2.67,2.68,2.72,2.72,2.68,2.62
+1,Avg household size of renter-occupied unit,VA,Warren,2.5,2.4,2.37,2.36,2.44,2.45,2.56,2.6,2.73,2.72
+36,Owner-Occupied,VA,Warren,27654,27872,27206,27772,28574,29493,29210,29593,29624,29440
+37,Renter-Occupied,VA,Warren,8905,8757,9643,9330,8817,8191,8804,8600,9027,9264
+0,Avg household size of owner-occupied unit,VA,Washington,2.39,2.36,2.37,2.39,2.39,2.41,2.46,2.43,2.41,2.38
+1,Avg household size of renter-occupied unit,VA,Washington,2.14,2.14,2.19,2.19,2.15,2.15,2.01,2.13,2.2,2.23
+36,Owner-Occupied,VA,Washington,40349,40735,40835,41234,42035,41565,42207,41110,40447,39879
+37,Renter-Occupied,VA,Washington,12514,12408,12349,12074,11295,11605,10723,11660,12197,12351
+0,Avg household size of owner-occupied unit,VA,Westmoreland,2.37,2.34,2.44,2.43,2.44,2.49,2.39,2.36,2.25,2.22
+1,Avg household size of renter-occupied unit,VA,Westmoreland,2.56,2.73,2.49,2.49,2.65,2.56,2.63,2.35,2.43,2.24
+36,Owner-Occupied,VA,Westmoreland,12881,12444,13194,13481,13152,12918,13164,13428,12780,12867
+37,Renter-Occupied,VA,Westmoreland,4356,4822,4156,3929,4245,4516,4239,4043,4730,4755
+0,Avg household size of owner-occupied unit,VA,Wise,2.52,2.54,2.5,2.53,2.49,2.49,2.47,2.47,2.44,2.4
+1,Avg household size of renter-occupied unit,VA,Wise,2.39,2.41,2.35,2.37,2.33,2.39,2.36,2.3,2.27,2.32
+36,Owner-Occupied,VA,Wise,27686,27488,27173,27596,26739,26419,25854,25874,24316,23882
+37,Renter-Occupied,VA,Wise,11401,11180,11297,10633,11153,11063,11283,10681,11657,11534
+0,Avg household size of owner-occupied unit,VA,Wythe,2.45,2.52,2.53,2.54,2.46,2.43,2.37,2.37,2.36,2.39
+1,Avg household size of renter-occupied unit,VA,Wythe,2.52,2.35,2.37,2.32,2.31,2.45,2.48,2.58,2.53,2.39
+36,Owner-Occupied,VA,Wythe,21992,21581,21215,21826,20885,20099,20485,21436,21505,22309
+37,Renter-Occupied,VA,Wythe,6751,7170,7641,7129,8084,8806,8415,7355,7196,6314
+0,Avg household size of owner-occupied unit,VA,York,2.56,2.61,2.66,2.67,2.69,2.7,2.72,2.64,2.64,2.62
+1,Avg household size of renter-occupied unit,VA,York,2.76,2.75,2.75,2.74,2.77,2.82,2.87,2.9,2.84,2.73
+36,Owner-Occupied,VA,York,48394,48860,48321,48292,47324,47290,46820,46403,46603,46853
+37,Renter-Occupied,VA,York,14181,15185,15982,16420,17595,18269,19098,19672,19702,19672
+0,Avg household size of owner-occupied unit,VA,Alexandr,2.09,2.12,2.15,2.17,2.19,2.17,2.13,2.14,2.13,2.13
+1,Avg household size of renter-occupied unit,VA,Alexandr,2.06,2.09,2.14,2.18,2.21,2.25,2.26,2.3,2.28,2.27
+36,Owner-Occupied,VA,Alexandr,60908,61328,61012,61496,61523,61550,61142,63288,63881,64986
+37,Renter-Occupied,VA,Alexandr,71351,73797,77641,80617,83439,86410,88926,89921,91094,91100
+0,Avg household size of owner-occupied unit,VA,Bedfo,2.38,2.24,2.32,2.42,,,,,,
+1,Avg household size of renter-occupied unit,VA,Bedfo,1.87,1.86,1.83,1.57,,,,,,
+36,Owner-Occupied,VA,Bedfo,4412,3884,3828,3978,,,,,,
+37,Renter-Occupied,VA,Bedfo,1735,1940,1962,1811,,,,,,
+0,Avg household size of owner-occupied unit,VA,Brist,2.25,2.24,2.25,2.24,2.11,2.12,2.02,2.14,2.12,2.16
+1,Avg household size of renter-occupied unit,VA,Brist,2.04,2.09,2.17,2.26,2.33,2.34,2.46,2.39,2.37,2.4
+36,Owner-Occupied,VA,Brist,11049,10661,10235,10051,9052,9007,8947,9376,9245,9575
+37,Renter-Occupied,VA,Brist,6214,6476,6982,7179,8099,8112,7976,7283,7207,6977
+0,Avg household size of owner-occupied unit,VA,Buena Vis,2.41,2.32,2.21,2.25,2.15,2.2,2.1,2.13,2.25,2.32
+1,Avg household size of renter-occupied unit,VA,Buena Vis,2.47,2.36,2.46,2.36,2.48,2.34,2.51,2.59,2.46,2.45
+36,Owner-Occupied,VA,Buena Vis,4211,3970,4021,4079,3780,3523,3384,3463,3809,3974
+37,Renter-Occupied,VA,Buena Vis,2345,2288,2245,2193,2441,2652,2762,2549,2081,1977
+0,Avg household size of owner-occupied unit,VA,Charlottesvil,2.21,2.24,2.24,2.28,2.3,2.34,2.34,2.3,2.31,2.37
+1,Avg household size of renter-occupied unit,VA,Charlottesvil,2.22,2.27,2.35,2.37,2.42,2.43,2.43,2.44,2.42,2.37
+36,Owner-Occupied,VA,Charlottesvil,15810,16098,15834,16132,16883,18079,17745,18660,18545,18916
+37,Renter-Occupied,VA,Charlottesvil,22571,23197,24154,24558,24820,24335,25224,25090,25600,25182
+0,Avg household size of owner-occupied unit,VA,Chesapea,2.82,2.8,2.81,2.82,2.82,2.8,2.81,2.82,2.8,2.82
+1,Avg household size of renter-occupied unit,VA,Chesapea,2.48,2.57,2.59,2.65,2.61,2.63,2.57,2.6,2.61,2.63
+36,Owner-Occupied,VA,Chesapea,166144,164481,162555,162177,162456,160601,162798,166173,168476,170532
+37,Renter-Occupied,VA,Chesapea,49133,51958,55661,57814,59460,63424,63599,62855,63120,63815
+0,Avg household size of owner-occupied unit,VA,Colonial Heigh,2.53,2.45,2.51,2.51,2.48,2.45,2.4,2.38,2.37,2.43
+1,Avg household size of renter-occupied unit,VA,Colonial Heigh,2.32,2.36,2.37,2.38,2.45,2.43,2.43,2.58,2.64,2.49
+36,Owner-Occupied,VA,Colonial Heigh,11787,11398,11575,11278,11267,10916,10440,10622,10638,10768
+37,Renter-Occupied,VA,Colonial Heigh,5613,5848,5664,6009,6086,6417,6928,6774,6778,6494
+0,Avg household size of owner-occupied unit,VA,Covingt,2.26,2.28,2.31,2.38,2.52,2.41,2.39,2.37,2.33,2.31
+1,Avg household size of renter-occupied unit,VA,Covingt,2.29,2.49,2.19,2.05,1.81,1.93,1.84,2.21,2.14,2.29
+36,Owner-Occupied,VA,Covingt,4099,4073,4091,4410,4675,4418,4432,4273,4120,4103
+37,Renter-Occupied,VA,Covingt,1890,1884,1771,1417,1112,1236,1132,1314,1368,1395
+0,Avg household size of owner-occupied unit,VA,Danvil,2.19,2.25,2.25,2.23,2.23,2.2,2.17,2.16,2.13,2.13
+1,Avg household size of renter-occupied unit,VA,Danvil,2.09,2.16,2.13,2.21,2.21,2.21,2.2,2.19,2.19,2.18
+36,Owner-Occupied,VA,Danvil,23280,23458,23118,22655,22381,22022,21891,21305,21043,20102
+37,Renter-Occupied,VA,Danvil,18406,18407,18510,18762,18743,18847,18900,19027,18858,19373
+0,Avg household size of owner-occupied unit,VA,Empor,2.31,2.26,2.39,2.19,2.32,2.14,2.33,2.29,2.34,2.53
+1,Avg household size of renter-occupied unit,VA,Empor,2.41,2.2,2.15,2.26,2.21,2.26,2.46,2.62,2.49,2.47
+36,Owner-Occupied,VA,Empor,2687,2750,2626,2479,2207,2249,2031,2066,2055,2118
+37,Renter-Occupied,VA,Empor,2991,2886,2977,3068,3246,3183,3293,3187,3086,3081
+0,Avg household size of owner-occupied unit,VA,Fairf,2.54,2.55,2.58,2.63,2.66,2.67,2.73,2.72,2.77,2.75
+1,Avg household size of renter-occupied unit,VA,Fairf,2.47,2.63,2.68,2.69,2.83,2.75,2.69,2.65,2.59,2.47
+36,Owner-Occupied,VA,Fairf,15590,15006,15381,15314,15798,15849,16346,16203,16796,16530
+37,Renter-Occupied,VA,Fairf,5861,6811,6852,7208,7175,6983,6682,6767,6445,6368
+0,Avg household size of owner-occupied unit,VA,Falls Chur,2.53,2.65,2.68,2.77,2.86,2.88,2.93,2.92,2.88,2.79
+1,Avg household size of renter-occupied unit,VA,Falls Chur,2.27,2.15,2.27,2.18,2.29,2.13,2.0,2.12,2.31,2.24
+36,Owner-Occupied,VA,Falls Chur,7603,7851,8116,8252,8383,8722,9274,9274,9355,8955
+37,Renter-Occupied,VA,Falls Chur,3862,3957,4155,4451,4654,4539,4277,4525,4667,5128
+0,Avg household size of owner-occupied unit,VA,Frankl,2.24,2.3,2.34,2.41,2.32,2.62,2.44,2.4,2.23,2.24
+1,Avg household size of renter-occupied unit,VA,Frankl,2.47,2.52,2.4,2.34,2.37,2.22,2.39,2.32,2.35,2.32
+36,Owner-Occupied,VA,Frankl,3651,3390,3547,3630,3613,4323,4160,4149,3914,4069
+37,Renter-Occupied,VA,Frankl,4679,5032,4842,4771,4786,4000,4119,4054,4167,3950
+0,Avg household size of owner-occupied unit,VA,Fredericksbu,2.36,2.47,2.5,2.48,2.55,2.55,2.67,2.69,2.56,2.6
+1,Avg household size of renter-occupied unit,VA,Fredericksbu,2.21,2.18,2.18,2.32,2.38,2.42,2.33,2.3,2.38,2.32
+36,Owner-Occupied,VA,Fredericksbu,8478,8946,9141,9241,9090,8841,9538,10088,9791,9929
+37,Renter-Occupied,VA,Fredericksbu,12379,12474,13195,14063,14935,15978,15631,15371,16063,16130
+0,Avg household size of owner-occupied unit,VA,Gal,2.0,2.15,2.28,2.53,2.48,2.28,2.3,2.29,2.33,2.42
+1,Avg household size of renter-occupied unit,VA,Gal,1.85,1.53,1.5,1.63,1.89,2.05,2.37,2.19,2.18,2.07
+36,Owner-Occupied,VA,Gal,4209,4788,4934,4965,4349,4029,3595,3840,4195,4390
+37,Renter-Occupied,VA,Gal,2262,1984,1776,1712,2289,2447,2857,2548,2060,1755
+0,Avg household size of owner-occupied unit,VA,Hampt,2.61,2.6,2.58,2.58,2.55,2.54,2.5,2.55,2.51,2.48
+1,Avg household size of renter-occupied unit,VA,Hampt,2.44,2.43,2.46,2.44,2.47,2.46,2.43,2.35,2.34,2.33
+36,Owner-Occupied,VA,Hampt,82323,83473,81569,81342,78878,77445,75271,77614,75859,74682
+37,Renter-Occupied,VA,Hampt,52899,49872,51280,51138,53605,55238,57082,54151,55163,55780
+0,Avg household size of owner-occupied unit,VA,Harrisonbu,2.52,2.57,2.6,2.56,2.59,2.55,2.55,2.55,2.63,2.64
+1,Avg household size of renter-occupied unit,VA,Harrisonbu,2.58,2.69,2.74,2.77,2.81,2.77,2.76,2.81,2.81,2.82
+36,Owner-Occupied,VA,Harrisonbu,14541,14546,14528,14535,14714,15105,15902,16405,16809,17512
+37,Renter-Occupied,VA,Harrisonbu,23726,25604,26738,27807,28698,29021,28731,29263,29175,28441
+0,Avg household size of owner-occupied unit,VA,Hopewe,2.41,2.49,2.54,2.47,2.48,2.48,2.47,2.35,2.33,2.32
+1,Avg household size of renter-occupied unit,VA,Hopewe,2.61,2.57,2.59,2.61,2.58,2.59,2.51,2.5,2.5,2.49
+36,Owner-Occupied,VA,Hopewe,11095,11038,11238,10894,11483,11068,10986,10939,10645,9998
+37,Renter-Occupied,VA,Hopewe,11254,11345,11067,11327,10675,10967,11103,11176,11535,12239
+0,Avg household size of owner-occupied unit,VA,Lexingt,2.21,2.19,2.09,2.06,2.18,2.12,2.0,1.8,1.82,1.8
+1,Avg household size of renter-occupied unit,VA,Lexingt,2.04,1.96,1.92,2.04,1.99,1.94,1.8,1.92,2.04,2.25
+36,Owner-Occupied,VA,Lexingt,2383,1924,2046,1953,2036,1997,2087,2063,1914,2041
+37,Renter-Occupied,VA,Lexingt,2097,1657,1574,1547,1578,1352,1462,1510,1906,2313
+0,Avg household size of owner-occupied unit,VA,Lynchbu,2.39,2.38,2.44,2.44,2.49,2.46,2.5,2.51,2.55,2.54
+1,Avg household size of renter-occupied unit,VA,Lynchbu,2.29,2.29,2.25,2.24,2.26,2.28,2.33,2.35,2.4,2.42
+36,Owner-Occupied,VA,Lynchbu,37499,37614,37843,36789,36845,35565,35662,35147,35536,34948
+37,Renter-Occupied,VA,Lynchbu,27879,29064,29161,30277,30816,32120,32536,33335,33914,35122
+0,Avg household size of owner-occupied unit,VA,Manass,3.08,3.13,3.16,3.21,3.27,3.19,3.22,3.23,3.25,3.18
+1,Avg household size of renter-occupied unit,VA,Manass,3.03,2.98,3.12,3.3,3.32,3.42,3.44,3.41,3.23,3.2
+36,Owner-Occupied,VA,Manass,24615,24684,24761,25268,25929,25465,24915,25774,27010,27112
+37,Renter-Occupied,VA,Manass,11299,11882,12987,13899,14403,15222,16176,15541,14375,13982
+0,Avg household size of owner-occupied unit,VA,Manassas Pa,3.31,3.55,3.68,3.6,3.42,3.31,3.47,3.45,3.64,3.83
+1,Avg household size of renter-occupied unit,VA,Manassas Pa,2.72,2.61,2.76,3.08,3.13,3.31,3.1,3.22,3.19,3.33
+36,Owner-Occupied,VA,Manassas Pa,9899,10181,10371,10170,9887,10733,10809,11110,11287,11725
+37,Renter-Occupied,VA,Manassas Pa,3296,3578,4038,4955,5105,4892,5018,5007,5136,5261
+0,Avg household size of owner-occupied unit,VA,Martinsvil,2.27,2.28,2.3,2.34,2.29,2.34,2.32,2.25,2.28,2.31
+1,Avg household size of renter-occupied unit,VA,Martinsvil,2.22,2.16,2.11,2.08,2.15,2.17,2.23,2.22,2.21,2.16
+36,Owner-Occupied,VA,Martinsvil,7981,7868,7665,7544,7522,7249,7090,7131,7481,7131
+37,Renter-Occupied,VA,Martinsvil,5342,5433,5653,5779,5795,6001,6078,5717,5190,5268
+0,Avg household size of owner-occupied unit,VA,Newport Ne,2.55,2.56,2.57,2.56,2.57,2.57,2.56,2.56,2.56,2.53
+1,Avg household size of renter-occupied unit,VA,Newport Ne,2.34,2.4,2.41,2.43,2.45,2.43,2.43,2.45,2.38,2.36
+36,Owner-Occupied,VA,Newport Ne,93826,92813,91872,91234,89683,89240,87767,87836,87061,86571
+37,Renter-Occupied,VA,Newport Ne,78984,80892,81181,81512,83296,83458,85226,84211,84141,84120
+0,Avg household size of owner-occupied unit,VA,Norfo,2.74,2.7,2.7,2.68,2.64,2.62,2.59,2.59,2.58,2.56
+1,Avg household size of renter-occupied unit,VA,Norfo,2.53,2.51,2.52,2.52,2.49,2.47,2.46,2.46,2.43,2.4
+36,Owner-Occupied,VA,Norfo,108798,106615,105184,101911,99623,99180,96856,98167,97968,98019
+37,Renter-Occupied,VA,Norfo,114837,114277,116710,119454,121400,121281,123020,121606,121744,120166
+0,Avg household size of owner-occupied unit,VA,Nort,2.24,2.35,2.45,2.4,2.49,2.33,2.1,2.33,2.24,2.47
+1,Avg household size of renter-occupied unit,VA,Nort,2.08,2.07,2.15,2.22,2.29,2.09,2.12,2.14,2.09,2.34
+36,Owner-Occupied,VA,Nort,2135,2251,2180,2155,2182,2118,1771,2023,1891,2009
+37,Renter-Occupied,VA,Nort,1685,1640,1747,1794,1780,1831,2150,1964,2044,1904
+0,Avg household size of owner-occupied unit,VA,Petersbu,2.43,2.56,2.45,2.4,2.47,2.55,2.32,2.38,2.38,2.47
+1,Avg household size of renter-occupied unit,VA,Petersbu,2.74,2.62,2.67,2.63,2.57,2.36,2.4,2.34,2.32,2.24
+36,Owner-Occupied,VA,Petersbu,15182,14905,14026,13692,13774,13498,12602,13166,12784,12602
+37,Renter-Occupied,VA,Petersbu,16571,16660,17382,17790,17808,17735,18556,18100,18310,18071
+0,Avg household size of owner-occupied unit,VA,Poquos,2.73,2.71,2.66,2.67,2.67,2.68,2.66,2.69,2.63,2.68
+1,Avg household size of renter-occupied unit,VA,Poquos,2.38,2.38,2.4,2.41,2.33,2.17,2.34,2.31,2.45,2.37
+36,Owner-Occupied,VA,Poquos,10452,10255,10347,10034,10031,10222,10190,9831,10113,10015
+37,Renter-Occupied,VA,Poquos,1637,1763,1689,2017,2014,1804,1826,2139,1874,2018
+0,Avg household size of owner-occupied unit,VA,Portsmou,2.52,2.49,2.5,2.53,2.49,2.52,2.53,2.53,2.53,2.57
+1,Avg household size of renter-occupied unit,VA,Portsmou,2.44,2.42,2.47,2.49,2.56,2.55,2.53,2.52,2.5,2.44
+36,Owner-Occupied,VA,Portsmou,57984,56002,54174,53136,51160,50825,50077,50367,50181,51426
+37,Renter-Occupied,VA,Portsmou,34980,34850,37227,39144,41591,42404,43140,42021,41633,39942
+0,Avg household size of owner-occupied unit,VA,Radfo,2.18,2.22,2.25,2.39,2.46,2.52,2.44,2.37,2.4,2.64
+1,Avg household size of renter-occupied unit,VA,Radfo,2.26,2.4,2.5,2.58,2.78,2.61,2.6,2.82,2.95,2.64
+36,Owner-Occupied,VA,Radfo,6385,6087,6152,6090,6186,6041,5974,6066,6425,6860
+37,Renter-Occupied,VA,Radfo,6206,6960,7227,7670,7819,8049,8209,8290,8136,7874
+0,Avg household size of owner-occupied unit,VA,Richmo,2.3,2.3,2.33,2.35,2.35,2.36,2.33,2.33,2.33,2.36
+1,Avg household size of renter-occupied unit,VA,Richmo,2.29,2.31,2.32,2.31,2.32,2.3,2.3,2.36,2.4,2.41
+36,Owner-Occupied,VA,Richmo,86186,86565,86130,85756,86321,87189,85929,86791,88322,90812
+37,Renter-Occupied,VA,Richmo,105517,106240,108752,111656,114063,115742,119891,123070,124479,124883
+0,Avg household size of owner-occupied unit,VA,Roano,2.25,2.23,2.24,2.26,2.25,2.29,2.28,2.29,2.33,2.36
+1,Avg household size of renter-occupied unit,VA,Roano,2.11,2.15,2.19,2.22,2.25,2.29,2.28,2.32,2.32,2.3
+36,Owner-Occupied,VA,Roano,54084,54008,53282,52484,52240,51902,50589,50261,50694,50784
+37,Renter-Occupied,VA,Roano,39687,40140,41328,42718,43609,44721,46570,47251,46918,46523
+0,Avg household size of owner-occupied unit,VA,Sal,2.34,2.31,2.27,2.31,2.34,2.27,2.28,2.33,2.44,2.45
+1,Avg household size of renter-occupied unit,VA,Sal,2.2,2.31,2.38,2.35,2.28,2.32,2.29,2.27,2.13,2.02
+36,Owner-Occupied,VA,Sal,15916,15836,15178,15237,15676,15121,14757,15296,15657,15470
+37,Renter-Occupied,VA,Sal,6789,7134,7789,7792,7404,7867,8235,7817,7388,7284
+0,Avg household size of owner-occupied unit,VA,Staunt,2.23,2.23,2.23,2.29,2.3,2.35,2.34,2.32,2.28,2.27
+1,Avg household size of renter-occupied unit,VA,Staunt,1.89,1.9,1.93,1.96,2.0,2.02,2.03,2.02,2.09,2.05
+36,Owner-Occupied,VA,Staunt,14024,14187,13961,13849,13968,13848,14089,13960,13612,13791
+37,Renter-Occupied,VA,Staunt,7782,7872,8408,8696,8833,9061,8827,8988,9504,9286
+0,Avg household size of owner-occupied unit,VA,Suffo,2.7,2.7,2.73,2.76,2.77,2.77,2.75,2.73,2.69,2.7
+1,Avg household size of renter-occupied unit,VA,Suffo,2.72,2.77,2.73,2.72,2.69,2.72,2.65,2.65,2.61,2.56
+36,Owner-Occupied,VA,Suffo,61144,61576,62136,61829,60978,60539,60413,61043,61952,62573
+37,Renter-Occupied,VA,Suffo,20345,20873,21093,22059,23569,24790,25866,26334,26636,27070
+0,Avg household size of owner-occupied unit,VA,Virginia Bea,2.66,2.67,2.69,2.69,2.68,2.69,2.66,2.65,2.65,2.63
+1,Avg household size of renter-occupied unit,VA,Virginia Bea,2.48,2.48,2.47,2.49,2.54,2.53,2.55,2.56,2.51,2.48
+36,Owner-Occupied,VA,Virginia Bea,290108,288285,286286,284996,284398,283668,281913,284211,287112,286691
+37,Renter-Occupied,VA,Virginia Bea,136271,138429,142465,146895,150614,153700,157006,155172,152493,153563
+0,Avg household size of owner-occupied unit,VA,Waynesbo,2.42,2.4,2.44,2.35,2.41,2.34,2.29,2.26,2.34,2.4
+1,Avg household size of renter-occupied unit,VA,Waynesbo,2.39,2.36,2.31,2.48,2.31,2.3,2.42,2.48,2.43,2.38
+36,Owner-Occupied,VA,Waynesbo,12164,12316,12723,11915,12282,12186,11992,12135,12557,12718
+37,Renter-Occupied,VA,Waynesbo,8443,8556,8162,9033,8727,8791,9201,9310,9194,9245
+0,Avg household size of owner-occupied unit,VA,Williamsbu,1.82,1.86,1.99,2.02,2.09,2.18,2.04,2.09,2.17,2.22
+1,Avg household size of renter-occupied unit,VA,Williamsbu,2.36,2.2,2.37,2.51,2.53,2.53,2.63,2.46,2.34,2.26
+36,Owner-Occupied,VA,Williamsbu,3673,3405,3691,3962,4229,4544,4401,4600,5001,5155
+37,Renter-Occupied,VA,Williamsbu,4851,5239,5729,6098,5915,6194,6505,6040,5537,5395
+0,Avg household size of owner-occupied unit,VA,Winchest,2.56,2.57,2.51,2.54,2.53,2.51,2.51,2.58,2.58,2.65
+1,Avg household size of renter-occupied unit,VA,Winchest,2.29,2.37,2.33,2.38,2.35,2.44,2.46,2.47,2.49,2.49
+36,Owner-Occupied,VA,Winchest,13224,12987,12967,12853,12869,11920,12124,12373,12793,12287
+37,Renter-Occupied,VA,Winchest,11563,12070,12312,12723,13176,14277,14230,14127,13973,14576

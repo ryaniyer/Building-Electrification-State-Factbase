@@ -1,0 +1,476 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,TN,Anderson,16251,16873,17104,17376,17357,17618,17546,17545,17244,16744
+4,House Heating Fuel: Fuel Oil,TN,Anderson,185,125,88,109,102,121,109,124,121,28
+5,House Heating Fuel: Gas,TN,Anderson,12830,12603,12144,11750,11539,11559,11682,11539,11926,12598
+6,House Heating Fuel: Propane,TN,Anderson,746,595,624,532,614,634,730,668,620,590
+7,House Heating Fuel: Wood,TN,Anderson,762,746,737,600,580,535,443,504,484,510
+3,House Heating Fuel: Electric,TN,Bedford,10558,10703,10951,11218,11385,11766,12240,12098,12056,12318
+4,House Heating Fuel: Fuel Oil,TN,Bedford,84,59,80,26,58,102,117,131,144,93
+5,House Heating Fuel: Gas,TN,Bedford,3222,3099,2913,2902,3006,2822,2743,2914,2785,2733
+6,House Heating Fuel: Propane,TN,Bedford,1683,1722,1653,1685,1610,1508,1438,1450,1451,1433
+7,House Heating Fuel: Wood,TN,Bedford,393,452,532,552,490,467,473,389,360,413
+3,House Heating Fuel: Electric,TN,Benton,3105,3175,3163,3097,2994,3224,3349,3228,3350,3400
+4,House Heating Fuel: Fuel Oil,TN,Benton,37,35,10,11,0,0,9,8,8,8
+5,House Heating Fuel: Gas,TN,Benton,2779,2640,2716,2592,2598,2338,2368,2414,2457,2500
+6,House Heating Fuel: Propane,TN,Benton,728,776,733,695,750,652,566,548,502,423
+7,House Heating Fuel: Wood,TN,Benton,299,368,356,437,430,479,446,440,406,361
+3,House Heating Fuel: Electric,TN,Bledsoe,2195,2096,2352,2328,2328,2323,2317,2172,2270,2177
+4,House Heating Fuel: Fuel Oil,TN,Bledsoe,126,140,133,67,33,28,45,109,226,297
+5,House Heating Fuel: Gas,TN,Bledsoe,837,946,824,848,789,863,915,953,932,943
+6,House Heating Fuel: Propane,TN,Bledsoe,809,766,674,654,639,628,680,578,612,635
+7,House Heating Fuel: Wood,TN,Bledsoe,427,536,564,637,677,674,656,829,784,823
+3,House Heating Fuel: Electric,TN,Blount,28832,29495,30342,31207,31452,32163,32342,32415,32865,33104
+4,House Heating Fuel: Fuel Oil,TN,Blount,555,553,507,388,351,196,129,155,181,160
+5,House Heating Fuel: Gas,TN,Blount,13454,13618,13290,12864,12654,12496,12366,12618,12602,12736
+6,House Heating Fuel: Propane,TN,Blount,3983,3611,3313,2986,2743,2767,3034,3252,3076,3356
+7,House Heating Fuel: Wood,TN,Blount,1058,949,1025,1061,1183,1152,1256,1217,1099,956
+3,House Heating Fuel: Electric,TN,Bradley,28322,28328,28853,29083,29403,30159,31364,31651,32142,32794
+4,House Heating Fuel: Fuel Oil,TN,Bradley,309,275,254,236,158,93,118,104,108,65
+5,House Heating Fuel: Gas,TN,Bradley,6205,6036,5750,5753,5627,5595,5139,5302,5184,4953
+6,House Heating Fuel: Propane,TN,Bradley,2030,1919,1831,1837,1890,1839,1811,1769,1685,1673
+7,House Heating Fuel: Wood,TN,Bradley,522,620,625,593,625,656,615,650,543,516
+3,House Heating Fuel: Electric,TN,Campbell,8930,9239,9400,9524,9735,9932,9779,9905,9945,9859
+4,House Heating Fuel: Fuel Oil,TN,Campbell,552,469,376,374,222,149,194,163,190,184
+5,House Heating Fuel: Gas,TN,Campbell,3982,3806,3848,3688,3654,3660,3706,3619,3929,4123
+6,House Heating Fuel: Propane,TN,Campbell,1677,1756,1739,1649,1552,1497,1345,1273,1282,1317
+7,House Heating Fuel: Wood,TN,Campbell,481,545,514,564,585,604,766,712,704,586
+3,House Heating Fuel: Electric,TN,Cannon,2899,2959,3006,3111,3166,3191,3338,3519,3619,3738
+4,House Heating Fuel: Fuel Oil,TN,Cannon,51,38,11,11,7,7,8,17,20,25
+5,House Heating Fuel: Gas,TN,Cannon,1668,1687,1655,1665,1460,1436,1393,1307,1294,1276
+6,House Heating Fuel: Propane,TN,Cannon,348,345,233,176,209,207,177,207,249,266
+7,House Heating Fuel: Wood,TN,Cannon,288,282,406,410,530,516,446,380,297,182
+3,House Heating Fuel: Electric,TN,Carroll,4916,4927,4935,5113,5132,5426,5554,5557,5162,4954
+4,House Heating Fuel: Fuel Oil,TN,Carroll,61,49,41,51,37,39,39,31,28,31
+5,House Heating Fuel: Gas,TN,Carroll,4712,4577,4439,4431,4393,4330,4589,4637,4902,5134
+6,House Heating Fuel: Propane,TN,Carroll,1118,1078,1094,1048,1139,1017,829,692,574,489
+7,House Heating Fuel: Wood,TN,Carroll,234,259,304,334,374,353,349,400,391,350
+3,House Heating Fuel: Electric,TN,Carter,17201,17682,17538,17375,17584,17400,17433,17294,17482,17661
+4,House Heating Fuel: Fuel Oil,TN,Carter,1764,1520,1433,1411,1265,1248,1239,1166,993,976
+5,House Heating Fuel: Gas,TN,Carter,2189,2131,2000,2188,2359,2302,2407,2638,2536,2417
+6,House Heating Fuel: Propane,TN,Carter,1592,1544,1654,1679,1495,1464,1410,1344,1314,1448
+7,House Heating Fuel: Wood,TN,Carter,1019,1142,1152,1189,1128,1234,1037,1154,1100,1132
+3,House Heating Fuel: Electric,TN,Cheatham,9172,9708,9970,9869,10064,10091,10003,10146,10648,10596
+4,House Heating Fuel: Fuel Oil,TN,Cheatham,211,177,111,85,54,116,84,60,78,58
+5,House Heating Fuel: Gas,TN,Cheatham,2653,2539,2452,2556,2576,2554,2653,2769,2642,2850
+6,House Heating Fuel: Propane,TN,Cheatham,1793,1487,1624,1550,1381,1366,1362,1141,995,1120
+7,House Heating Fuel: Wood,TN,Cheatham,325,425,337,361,438,363,399,468,458,344
+3,House Heating Fuel: Electric,TN,Chester,2204,2232,2391,2715,2745,2693,2732,2729,2504,2653
+4,House Heating Fuel: Fuel Oil,TN,Chester,63,34,14,10,0,0,0,0,0,15
+5,House Heating Fuel: Gas,TN,Chester,2584,2669,2678,2461,2484,2640,2675,2726,2962,2930
+6,House Heating Fuel: Propane,TN,Chester,732,745,736,616,482,419,340,272,291,340
+7,House Heating Fuel: Wood,TN,Chester,387,253,192,96,165,253,201,214,170,122
+3,House Heating Fuel: Electric,TN,Claiborne,9829,10113,10133,10141,10346,10216,10297,10624,11000,11029
+4,House Heating Fuel: Fuel Oil,TN,Claiborne,383,361,327,332,263,226,255,253,221,233
+5,House Heating Fuel: Gas,TN,Claiborne,584,626,588,544,613,690,626,621,605,600
+6,House Heating Fuel: Propane,TN,Claiborne,714,716,637,552,543,600,530,515,539,529
+7,House Heating Fuel: Wood,TN,Claiborne,764,750,851,831,842,863,963,862,793,791
+3,House Heating Fuel: Electric,TN,Clay,2675,2631,2309,2290,2127,2122,2191,2311,2403,2301
+4,House Heating Fuel: Fuel Oil,TN,Clay,43,44,31,67,28,21,22,14,0,0
+5,House Heating Fuel: Gas,TN,Clay,112,125,87,102,96,140,107,118,173,211
+6,House Heating Fuel: Propane,TN,Clay,370,286,345,365,378,395,357,259,183,241
+7,House Heating Fuel: Wood,TN,Clay,403,507,504,437,416,475,389,378,330,270
+3,House Heating Fuel: Electric,TN,Cocke,9555,9828,9971,10318,10287,9981,10079,9816,9362,9194
+4,House Heating Fuel: Fuel Oil,TN,Cocke,511,538,468,439,353,365,327,329,351,344
+5,House Heating Fuel: Gas,TN,Cocke,1833,1853,1686,1598,1565,1835,1688,1848,1926,1912
+6,House Heating Fuel: Propane,TN,Cocke,1655,1579,1561,1448,1357,1365,1254,1392,1354,1498
+7,House Heating Fuel: Wood,TN,Cocke,1113,1076,1015,963,1113,1060,1131,1109,1118,1021
+3,House Heating Fuel: Electric,TN,Coffee,12715,13121,13071,13250,13221,13206,13360,13571,14071,14716
+4,House Heating Fuel: Fuel Oil,TN,Coffee,111,117,104,119,116,94,81,105,46,80
+5,House Heating Fuel: Gas,TN,Coffee,6054,5909,6001,5814,5859,5928,6004,5974,5705,5456
+6,House Heating Fuel: Propane,TN,Coffee,1366,1226,1125,1155,1227,1328,1360,1324,1199,973
+7,House Heating Fuel: Wood,TN,Coffee,593,628,722,664,654,547,519,446,457,314
+3,House Heating Fuel: Electric,TN,Crockett,2956,3094,3318,3299,3192,3180,3135,3052,3097,3171
+4,House Heating Fuel: Fuel Oil,TN,Crockett,21,15,13,30,28,27,21,21,19,30
+5,House Heating Fuel: Gas,TN,Crockett,1829,1785,1702,1693,1698,1577,1563,1614,1633,1696
+6,House Heating Fuel: Propane,TN,Crockett,661,566,480,515,584,610,673,653,540,534
+7,House Heating Fuel: Wood,TN,Crockett,66,62,56,66,58,51,37,40,28,36
+3,House Heating Fuel: Electric,TN,Cumberland,9691,10139,10894,10841,10784,11511,11994,12077,12537,13048
+4,House Heating Fuel: Fuel Oil,TN,Cumberland,35,40,41,22,100,213,203,243,336,229
+5,House Heating Fuel: Gas,TN,Cumberland,9781,9543,8941,9224,9457,9121,9271,9742,9686,9752
+6,House Heating Fuel: Propane,TN,Cumberland,1936,1876,1851,1752,1677,1547,1420,1564,1442,1580
+7,House Heating Fuel: Wood,TN,Cumberland,1312,1395,1551,1824,1759,1655,1489,1322,1161,984
+3,House Heating Fuel: Electric,TN,Davidson,155543,159062,161566,164643,167748,172030,176065,179536,182611,186198
+4,House Heating Fuel: Fuel Oil,TN,Davidson,454,427,444,367,327,276,297,262,293,312
+5,House Heating Fuel: Gas,TN,Davidson,91445,89984,89506,87633,87443,87726,88372,89011,90038,90856
+6,House Heating Fuel: Propane,TN,Davidson,3650,3357,3209,2994,2820,2787,2834,3020,3110,3152
+7,House Heating Fuel: Wood,TN,Davidson,733,629,524,491,453,444,476,507,570,492
+3,House Heating Fuel: Electric,TN,Decatur,1691,1721,1823,1864,1901,1837,1768,1957,1941,1815
+4,House Heating Fuel: Fuel Oil,TN,Decatur,18,16,12,13,1,13,6,5,20,22
+5,House Heating Fuel: Gas,TN,Decatur,2387,2418,2400,2325,2346,2389,2357,2217,2086,1983
+6,House Heating Fuel: Propane,TN,Decatur,580,610,543,537,494,496,454,405,404,411
+7,House Heating Fuel: Wood,TN,Decatur,282,368,369,323,298,237,196,127,166,201
+3,House Heating Fuel: Electric,TN,DeKalb,3014,3003,3069,3056,3238,3087,3281,3603,3672,3970
+4,House Heating Fuel: Fuel Oil,TN,DeKalb,66,71,91,78,11,0,0,2,2,1
+5,House Heating Fuel: Gas,TN,DeKalb,3494,3507,3418,3417,3222,3325,3349,3234,3348,3321
+6,House Heating Fuel: Propane,TN,DeKalb,371,285,237,226,246,236,228,269,185,184
+7,House Heating Fuel: Wood,TN,DeKalb,220,203,263,210,204,189,218,189,245,212
+3,House Heating Fuel: Electric,TN,Dickson,8103,8462,8729,8721,9036,9151,9280,9388,9597,9373
+4,House Heating Fuel: Fuel Oil,TN,Dickson,129,114,120,94,19,28,28,38,50,54
+5,House Heating Fuel: Gas,TN,Dickson,8909,8638,8307,8259,8017,8062,8340,8544,8364,8788
+6,House Heating Fuel: Propane,TN,Dickson,1110,1037,1062,959,817,819,716,592,619,591
+7,House Heating Fuel: Wood,TN,Dickson,619,535,489,559,530,450,460,439,345,370
+3,House Heating Fuel: Electric,TN,Dyer,7689,7741,7814,8256,8265,8032,7883,8358,8038,8103
+4,House Heating Fuel: Fuel Oil,TN,Dyer,0,3,2,20,21,20,17,17,0,0
+5,House Heating Fuel: Gas,TN,Dyer,6538,6815,6391,6180,6232,6243,6530,6401,6632,6514
+6,House Heating Fuel: Propane,TN,Dyer,723,595,632,586,515,542,543,471,447,434
+7,House Heating Fuel: Wood,TN,Dyer,71,65,67,33,32,36,26,40,40,49
+3,House Heating Fuel: Electric,TN,Fayette,4177,4469,4897,4742,4912,5067,5267,5426,5530,5356
+4,House Heating Fuel: Fuel Oil,TN,Fayette,75,66,21,32,42,48,84,95,71,43
+5,House Heating Fuel: Gas,TN,Fayette,6779,7035,7246,7503,7661,7788,7574,7461,7708,7977
+6,House Heating Fuel: Propane,TN,Fayette,2170,1956,2060,2034,1775,1636,1653,1696,1665,1791
+7,House Heating Fuel: Wood,TN,Fayette,249,261,150,199,261,271,315,386,392,363
+3,House Heating Fuel: Electric,TN,Fentress,3199,3335,3525,3476,3417,3142,3305,3157,3235,3355
+4,House Heating Fuel: Fuel Oil,TN,Fentress,32,39,25,21,109,100,96,102,81,33
+5,House Heating Fuel: Gas,TN,Fentress,1778,1806,1826,1663,1727,1882,1776,1811,1891,1976
+6,House Heating Fuel: Propane,TN,Fentress,1335,1188,1106,1188,1092,1002,1027,1089,979,975
+7,House Heating Fuel: Wood,TN,Fentress,948,1003,847,935,917,1119,1143,1174,1170,1057
+3,House Heating Fuel: Electric,TN,Franklin,8675,8762,8798,8821,8821,9017,9215,9489,10038,10523
+4,House Heating Fuel: Fuel Oil,TN,Franklin,51,48,35,23,26,35,13,16,20,19
+5,House Heating Fuel: Gas,TN,Franklin,4420,4639,4692,4852,4876,4848,4766,4468,4307,3992
+6,House Heating Fuel: Propane,TN,Franklin,2099,1884,1900,1883,1849,1844,1790,1778,1489,1396
+7,House Heating Fuel: Wood,TN,Franklin,456,491,507,399,388,383,369,410,429,351
+3,House Heating Fuel: Electric,TN,Gibson,8555,8925,8884,8950,9215,9905,10044,10206,10504,10652
+4,House Heating Fuel: Fuel Oil,TN,Gibson,56,50,60,60,18,13,15,46,46,105
+5,House Heating Fuel: Gas,TN,Gibson,9834,9390,9354,9114,8997,8462,8244,7944,7620,7617
+6,House Heating Fuel: Propane,TN,Gibson,797,745,773,756,710,731,828,807,749,636
+7,House Heating Fuel: Wood,TN,Gibson,277,307,282,302,289,305,233,221,238,236
+3,House Heating Fuel: Electric,TN,Giles,6766,6914,6904,6990,6950,6822,7175,7194,6911,7364
+4,House Heating Fuel: Fuel Oil,TN,Giles,94,79,75,72,46,11,11,12,8,33
+5,House Heating Fuel: Gas,TN,Giles,2375,2234,2337,2309,2067,2212,2216,2243,2414,2427
+6,House Heating Fuel: Propane,TN,Giles,1897,1784,1728,1687,1609,1555,1376,1444,1506,1355
+7,House Heating Fuel: Wood,TN,Giles,540,574,611,690,642,671,682,684,631,690
+3,House Heating Fuel: Electric,TN,Grainger,6411,6726,6957,7114,7264,7275,7219,7571,7442,7510
+4,House Heating Fuel: Fuel Oil,TN,Grainger,146,153,140,157,131,127,97,67,57,37
+5,House Heating Fuel: Gas,TN,Grainger,118,108,111,124,160,140,159,140,100,78
+6,House Heating Fuel: Propane,TN,Grainger,1012,945,806,653,558,594,564,578,658,619
+7,House Heating Fuel: Wood,TN,Grainger,811,868,864,857,664,714,752,692,654,695
+3,House Heating Fuel: Electric,TN,Greene,22198,22668,23482,23524,23516,22713,22174,22070,22315,22346
+4,House Heating Fuel: Fuel Oil,TN,Greene,789,718,661,682,650,604,516,329,293,201
+5,House Heating Fuel: Gas,TN,Greene,1709,1787,1534,1381,1221,1420,1254,1361,1351,1430
+6,House Heating Fuel: Propane,TN,Greene,1974,1776,1706,1511,1264,1356,1437,1525,1407,1538
+7,House Heating Fuel: Wood,TN,Greene,1259,1350,1394,1355,1576,1667,1683,1657,1567,1549
+3,House Heating Fuel: Electric,TN,Grundy,2182,2426,2565,2626,2775,2835,2763,2816,2871,2876
+4,House Heating Fuel: Fuel Oil,TN,Grundy,145,96,75,65,85,37,30,35,45,17
+5,House Heating Fuel: Gas,TN,Grundy,481,424,484,425,397,330,318,278,318,317
+6,House Heating Fuel: Propane,TN,Grundy,1958,1784,1631,1570,1380,1303,1242,1201,1184,1166
+7,House Heating Fuel: Wood,TN,Grundy,485,515,529,658,656,663,621,531,388,416
+3,House Heating Fuel: Electric,TN,Hamblen,19116,19677,19427,19461,19666,19642,19561,19685,20161,20123
+4,House Heating Fuel: Fuel Oil,TN,Hamblen,169,135,120,148,118,85,115,93,68,47
+5,House Heating Fuel: Gas,TN,Hamblen,4152,3876,3739,3748,3635,3729,3641,3674,3327,3349
+6,House Heating Fuel: Propane,TN,Hamblen,747,678,659,560,555,553,682,537,567,602
+7,House Heating Fuel: Wood,TN,Hamblen,224,245,280,294,313,346,311,269,240,287
+3,House Heating Fuel: Electric,TN,Hamilton,84127,84631,85814,86985,86652,88216,90199,93938,96347,99299
+4,House Heating Fuel: Fuel Oil,TN,Hamilton,1097,878,709,575,491,415,481,414,393,466
+5,House Heating Fuel: Gas,TN,Hamilton,43999,43843,43833,43414,44329,43437,42378,40576,40350,41568
+6,House Heating Fuel: Propane,TN,Hamilton,3502,3536,3171,3191,3178,3049,3039,2952,2679,2752
+7,House Heating Fuel: Wood,TN,Hamilton,797,734,807,772,811,731,736,729,774,723
+3,House Heating Fuel: Electric,TN,Hancock,1836,1826,1906,1909,1987,1926,1900,1922,1970,1863
+4,House Heating Fuel: Fuel Oil,TN,Hancock,45,30,19,18,8,70,68,70,67,70
+5,House Heating Fuel: Gas,TN,Hancock,92,69,42,44,17,54,48,64,100,109
+6,House Heating Fuel: Propane,TN,Hancock,226,254,210,193,194,204,210,181,197,168
+7,House Heating Fuel: Wood,TN,Hancock,677,693,657,596,544,420,453,410,444,473
+3,House Heating Fuel: Electric,TN,Hardeman,3820,3893,3847,3749,3689,3734,3455,3560,3625,3765
+4,House Heating Fuel: Fuel Oil,TN,Hardeman,4,3,25,24,23,29,61,58,53,54
+5,House Heating Fuel: Gas,TN,Hardeman,3769,3743,3823,3850,3821,3727,3819,3834,3932,3864
+6,House Heating Fuel: Propane,TN,Hardeman,1164,961,899,789,851,849,893,915,950,948
+7,House Heating Fuel: Wood,TN,Hardeman,223,189,229,240,277,340,306,264,306,235
+3,House Heating Fuel: Electric,TN,Hardin,4147,4186,4062,3971,3902,4030,4212,4320,4494,4347
+4,House Heating Fuel: Fuel Oil,TN,Hardin,41,44,49,28,0,0,0,0,0,0
+5,House Heating Fuel: Gas,TN,Hardin,4177,4304,4157,4043,4078,4030,3995,3958,3899,3890
+6,House Heating Fuel: Propane,TN,Hardin,1646,1446,1338,1312,1324,1147,1223,1341,1336,1261
+7,House Heating Fuel: Wood,TN,Hardin,447,532,537,580,553,602,446,423,441,580
+3,House Heating Fuel: Electric,TN,Hawkins,16660,16742,17012,17049,17245,16969,16813,17184,17309,17039
+4,House Heating Fuel: Fuel Oil,TN,Hawkins,229,125,103,122,151,139,121,169,142,101
+5,House Heating Fuel: Gas,TN,Hawkins,4412,4352,4012,3796,3682,3885,4216,4089,4081,4239
+6,House Heating Fuel: Propane,TN,Hawkins,1028,1022,992,944,934,776,614,620,734,711
+7,House Heating Fuel: Wood,TN,Hawkins,1152,1157,1027,1119,1091,1168,1114,1144,928,884
+3,House Heating Fuel: Electric,TN,Haywood,3004,2868,2873,2796,2829,2655,2842,3075,3169,3394
+4,House Heating Fuel: Fuel Oil,TN,Haywood,21,23,20,11,0,0,0,4,6,7
+5,House Heating Fuel: Gas,TN,Haywood,3404,3246,3274,3288,3217,3405,3427,3231,3186,3067
+6,House Heating Fuel: Propane,TN,Haywood,892,947,853,852,857,847,686,647,615,570
+7,House Heating Fuel: Wood,TN,Haywood,124,106,73,135,76,83,82,142,115,125
+3,House Heating Fuel: Electric,TN,Henderson,3462,3330,3604,3529,3644,3543,3628,3789,3760,3782
+4,House Heating Fuel: Fuel Oil,TN,Henderson,70,32,32,0,0,0,0,0,0,33
+5,House Heating Fuel: Gas,TN,Henderson,6451,6548,6603,6519,6508,6556,6487,6436,6315,6344
+6,House Heating Fuel: Propane,TN,Henderson,427,403,489,486,474,448,395,454,435,331
+7,House Heating Fuel: Wood,TN,Henderson,365,360,336,369,271,228,156,135,153,139
+3,House Heating Fuel: Electric,TN,Henry,7091,7196,7230,7459,7574,7695,7880,7820,7933,7835
+4,House Heating Fuel: Fuel Oil,TN,Henry,38,26,38,42,41,41,40,25,24,25
+5,House Heating Fuel: Gas,TN,Henry,4936,4652,4719,4582,4401,4435,4379,4512,4515,4760
+6,House Heating Fuel: Propane,TN,Henry,939,821,758,704,643,645,699,670,630,537
+7,House Heating Fuel: Wood,TN,Henry,447,521,555,606,573,570,413,354,270,180
+3,House Heating Fuel: Electric,TN,Hickman,5366,5571,5668,5683,5780,5821,5911,6102,6116,6142
+4,House Heating Fuel: Fuel Oil,TN,Hickman,72,57,45,45,34,8,33,48,47,44
+5,House Heating Fuel: Gas,TN,Hickman,2164,1966,1862,1907,1751,1719,1824,1691,1450,1457
+6,House Heating Fuel: Propane,TN,Hickman,753,771,663,612,637,605,522,533,563,533
+7,House Heating Fuel: Wood,TN,Hickman,660,583,515,577,575,581,529,527,467,434
+3,House Heating Fuel: Electric,TN,Houston,2037,2141,2272,2159,2178,2334,2195,2190,2202,2113
+4,House Heating Fuel: Fuel Oil,TN,Houston,22,24,27,28,0,0,0,0,14,13
+5,House Heating Fuel: Gas,TN,Houston,503,504,485,506,469,324,285,237,189,255
+6,House Heating Fuel: Propane,TN,Houston,450,405,406,420,350,321,423,425,407,397
+7,House Heating Fuel: Wood,TN,Houston,380,368,328,300,297,241,198,143,127,96
+3,House Heating Fuel: Electric,TN,Humphreys,2946,3214,3026,3166,3370,3276,3182,3254,3174,3078
+4,House Heating Fuel: Fuel Oil,TN,Humphreys,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,TN,Humphreys,3902,3772,3724,3625,3462,3243,3173,3284,3227,3299
+6,House Heating Fuel: Propane,TN,Humphreys,279,307,342,289,240,214,224,175,165,177
+7,House Heating Fuel: Wood,TN,Humphreys,413,372,418,304,278,381,337,340,281,201
+3,House Heating Fuel: Electric,TN,Jackson,2977,3068,3024,3007,3092,3169,3232,3328,3283,3244
+4,House Heating Fuel: Fuel Oil,TN,Jackson,21,21,27,42,16,14,15,13,19,16
+5,House Heating Fuel: Gas,TN,Jackson,456,427,369,327,359,261,287,335,337,328
+6,House Heating Fuel: Propane,TN,Jackson,759,718,638,642,542,502,506,481,457,514
+7,House Heating Fuel: Wood,TN,Jackson,435,476,472,475,541,583,479,381,415,435
+3,House Heating Fuel: Electric,TN,Jefferson,14775,14867,15226,15540,15612,15416,15422,15575,15415,15634
+4,House Heating Fuel: Fuel Oil,TN,Jefferson,191,148,109,91,46,62,68,57,82,100
+5,House Heating Fuel: Gas,TN,Jefferson,2949,2785,2728,2621,2630,2555,2507,2528,2478,2605
+6,House Heating Fuel: Propane,TN,Jefferson,1180,1001,987,921,994,1009,1139,1252,1360,1264
+7,House Heating Fuel: Wood,TN,Jefferson,429,435,466,540,607,553,538,559,497,483
+3,House Heating Fuel: Electric,TN,Johnson,4164,4070,4055,3932,3944,4082,3970,4035,4020,4130
+4,House Heating Fuel: Fuel Oil,TN,Johnson,1328,1225,1033,905,789,666,706,656,673,722
+5,House Heating Fuel: Gas,TN,Johnson,119,93,95,76,49,91,139,145,141,139
+6,House Heating Fuel: Propane,TN,Johnson,915,768,880,853,939,902,995,926,930,897
+7,House Heating Fuel: Wood,TN,Johnson,810,1069,1128,1111,1339,1205,1075,1134,1055,871
+3,House Heating Fuel: Electric,TN,Knox,107521,111726,114186,114807,113779,112877,112448,112687,113521,117264
+4,House Heating Fuel: Fuel Oil,TN,Knox,799,685,640,584,583,389,275,378,315,398
+5,House Heating Fuel: Gas,TN,Knox,64078,62039,61490,60881,61242,62405,63501,64077,64655,64939
+6,House Heating Fuel: Propane,TN,Knox,3705,3590,3157,2811,2730,2804,2730,2754,2719,2667
+7,House Heating Fuel: Wood,TN,Knox,1080,1050,1041,1273,1393,1347,1454,1551,1357,1300
+3,House Heating Fuel: Electric,TN,Lake,986,1073,1070,987,1006,987,1003,1070,1178,1301
+4,House Heating Fuel: Fuel Oil,TN,Lake,5,5,4,4,0,0,0,0,0,0
+5,House Heating Fuel: Gas,TN,Lake,1139,1118,1122,1101,1016,932,981,999,923,874
+6,House Heating Fuel: Propane,TN,Lake,160,136,125,88,99,130,128,84,73,46
+7,House Heating Fuel: Wood,TN,Lake,10,20,24,15,17,26,14,0,0,0
+3,House Heating Fuel: Electric,TN,Lauderdale,3574,3648,3866,3947,4019,4052,4073,4077,4049,3946
+4,House Heating Fuel: Fuel Oil,TN,Lauderdale,97,32,44,45,8,17,25,20,13,13
+5,House Heating Fuel: Gas,TN,Lauderdale,4881,5027,5087,4834,4943,4921,4929,4929,4906,5033
+6,House Heating Fuel: Propane,TN,Lauderdale,669,729,664,700,645,604,537,509,557,473
+7,House Heating Fuel: Wood,TN,Lauderdale,128,120,149,139,179,176,158,155,194,189
+3,House Heating Fuel: Electric,TN,Lawrence,7177,7846,8254,8594,8772,8814,8524,8288,8099,8102
+4,House Heating Fuel: Fuel Oil,TN,Lawrence,42,61,67,59,70,67,48,39,17,0
+5,House Heating Fuel: Gas,TN,Lawrence,4876,4581,4461,4070,4260,4361,4485,4694,4950,4908
+6,House Heating Fuel: Propane,TN,Lawrence,2726,2537,2349,2147,1701,1599,1735,1803,1793,1861
+7,House Heating Fuel: Wood,TN,Lawrence,912,874,895,912,1051,1161,1243,1193,1220,1031
+3,House Heating Fuel: Electric,TN,Lewis,1931,2037,1957,2041,2148,2231,2263,2257,2363,2552
+4,House Heating Fuel: Fuel Oil,TN,Lewis,14,8,8,0,0,12,9,9,7,12
+5,House Heating Fuel: Gas,TN,Lewis,1772,1678,1766,1783,1640,1683,1727,1665,1677,1591
+6,House Heating Fuel: Propane,TN,Lewis,408,413,532,510,597,451,395,376,318,238
+7,House Heating Fuel: Wood,TN,Lewis,409,490,431,391,360,313,281,325,360,263
+3,House Heating Fuel: Electric,TN,Lincoln,5473,5721,5755,6097,6379,6823,7093,7258,7597,7828
+4,House Heating Fuel: Fuel Oil,TN,Lincoln,117,114,109,82,37,19,23,20,19,19
+5,House Heating Fuel: Gas,TN,Lincoln,4375,4105,4218,4028,4116,3854,3822,3777,3638,3524
+6,House Heating Fuel: Propane,TN,Lincoln,3096,2927,2856,2647,2630,2440,2144,2098,2011,1820
+7,House Heating Fuel: Wood,TN,Lincoln,320,381,454,555,500,481,507,468,345,320
+3,House Heating Fuel: Electric,TN,Loudon,11832,11939,12290,12191,12669,12838,13199,13222,13470,13701
+4,House Heating Fuel: Fuel Oil,TN,Loudon,91,120,110,92,34,42,16,19,12,121
+5,House Heating Fuel: Gas,TN,Loudon,5957,5957,5534,5570,5471,5446,5213,5233,5159,5325
+6,House Heating Fuel: Propane,TN,Loudon,923,1068,1043,1031,1042,906,982,1010,952,927
+7,House Heating Fuel: Wood,TN,Loudon,482,506,519,510,552,658,502,476,433,368
+3,House Heating Fuel: Electric,TN,McMinn,12813,12561,12425,12650,13007,13073,13511,13958,14149,14469
+4,House Heating Fuel: Fuel Oil,TN,McMinn,211,191,201,58,32,99,159,148,155,217
+5,House Heating Fuel: Gas,TN,McMinn,5661,5794,5691,5519,5176,4995,4693,4579,4509,4688
+6,House Heating Fuel: Propane,TN,McMinn,1418,1429,1353,1192,1030,786,767,821,679,685
+7,House Heating Fuel: Wood,TN,McMinn,652,757,842,793,848,948,805,714,785,588
+3,House Heating Fuel: Electric,TN,McNairy,4998,5145,5151,5212,5396,5669,5743,5726,5587,5633
+4,House Heating Fuel: Fuel Oil,TN,McNairy,42,40,43,12,15,32,27,30,29,16
+5,House Heating Fuel: Gas,TN,McNairy,2288,2141,2111,2038,1919,1819,1699,1799,1927,1924
+6,House Heating Fuel: Propane,TN,McNairy,2316,2200,2085,1837,1808,1747,1830,1920,1958,2008
+7,House Heating Fuel: Wood,TN,McNairy,402,467,452,575,616,562,497,572,475,407
+3,House Heating Fuel: Electric,TN,Macon,4945,5104,5546,5647,5829,6107,6162,6327,6321,6237
+4,House Heating Fuel: Fuel Oil,TN,Macon,105,90,61,73,94,47,36,24,30,13
+5,House Heating Fuel: Gas,TN,Macon,1559,1402,1269,1367,1180,1154,1263,1320,1363,1531
+6,House Heating Fuel: Propane,TN,Macon,1130,1098,1008,989,894,953,951,1052,1014,991
+7,House Heating Fuel: Wood,TN,Macon,439,466,513,468,638,590,551,421,430,339
+3,House Heating Fuel: Electric,TN,Madison,14955,14988,14687,14328,14699,15249,15889,16580,17506,17244
+4,House Heating Fuel: Fuel Oil,TN,Madison,49,64,59,44,66,33,53,48,36,23
+5,House Heating Fuel: Gas,TN,Madison,19654,18846,19074,19064,19146,19220,19022,18199,18029,18614
+6,House Heating Fuel: Propane,TN,Madison,1977,1853,1683,1656,1708,1634,1586,1701,1677,1661
+7,House Heating Fuel: Wood,TN,Madison,328,376,458,495,487,492,469,423,347,294
+3,House Heating Fuel: Electric,TN,Marion,7044,7264,7089,7246,7443,7869,7640,7834,8074,8025
+4,House Heating Fuel: Fuel Oil,TN,Marion,83,80,43,59,49,55,25,37,44,38
+5,House Heating Fuel: Gas,TN,Marion,2012,1911,1973,2027,2022,1988,1935,1963,1799,1769
+6,House Heating Fuel: Propane,TN,Marion,1615,1585,1674,1467,1325,1196,1162,1110,1137,1182
+7,House Heating Fuel: Wood,TN,Marion,530,467,384,384,394,345,399,416,471,392
+3,House Heating Fuel: Electric,TN,Marshall,6703,6991,7108,7151,7366,7621,7707,7851,8099,8261
+4,House Heating Fuel: Fuel Oil,TN,Marshall,47,28,28,17,41,26,63,58,61,42
+5,House Heating Fuel: Gas,TN,Marshall,3062,2782,2743,2735,2677,2628,2552,2469,2400,2332
+6,House Heating Fuel: Propane,TN,Marshall,1412,1284,1330,1201,1171,1189,1184,1080,1233,1195
+7,House Heating Fuel: Wood,TN,Marshall,468,428,446,412,413,454,490,501,511,471
+3,House Heating Fuel: Electric,TN,Maury,16718,17226,17853,18322,18627,19143,19271,19658,19880,21082
+4,House Heating Fuel: Fuel Oil,TN,Maury,180,181,155,90,83,67,97,64,137,178
+5,House Heating Fuel: Gas,TN,Maury,11095,10665,10166,10339,9876,10170,10391,10559,10521,10356
+6,House Heating Fuel: Propane,TN,Maury,2956,2852,2963,2564,2671,2331,2293,2193,2246,2277
+7,House Heating Fuel: Wood,TN,Maury,717,802,771,720,694,613,687,672,620,687
+3,House Heating Fuel: Electric,TN,Meigs,3137,3290,3334,3379,3519,3608,3737,3898,3968,4030
+4,House Heating Fuel: Fuel Oil,TN,Meigs,129,122,101,117,63,8,9,19,24,32
+5,House Heating Fuel: Gas,TN,Meigs,205,212,223,258,197,191,236,261,257,264
+6,House Heating Fuel: Propane,TN,Meigs,643,634,604,647,455,465,447,415,365,439
+7,House Heating Fuel: Wood,TN,Meigs,438,383,369,370,443,348,246,225,176,167
+3,House Heating Fuel: Electric,TN,Monroe,12410,12462,12323,12124,12301,12201,12455,12987,13322,13702
+4,House Heating Fuel: Fuel Oil,TN,Monroe,159,150,103,126,130,45,79,108,79,100
+5,House Heating Fuel: Gas,TN,Monroe,2414,2402,2383,2538,2391,2209,2220,1956,1939,1930
+6,House Heating Fuel: Propane,TN,Monroe,1365,1392,1415,1503,1368,1368,1343,1272,1360,1372
+7,House Heating Fuel: Wood,TN,Monroe,1161,1125,1149,1199,1265,1315,1146,1008,908,800
+3,House Heating Fuel: Electric,TN,Montgomery,42862,44582,45616,46806,47478,49151,50286,52681,54231,56208
+4,House Heating Fuel: Fuel Oil,TN,Montgomery,338,358,288,260,216,196,107,111,68,68
+5,House Heating Fuel: Gas,TN,Montgomery,14516,14421,14437,14265,14485,14364,14172,13810,14029,14386
+6,House Heating Fuel: Propane,TN,Montgomery,1937,1838,1821,1749,1708,1559,1562,1463,1259,1208
+7,House Heating Fuel: Wood,TN,Montgomery,480,463,626,666,588,553,533,400,357,393
+3,House Heating Fuel: Electric,TN,Moore,1501,1569,1620,1700,1765,1700,1808,1775,1770,1834
+4,House Heating Fuel: Fuel Oil,TN,Moore,0,0,0,0,0,0,12,13,25,22
+5,House Heating Fuel: Gas,TN,Moore,189,147,161,148,158,225,226,213,233,177
+6,House Heating Fuel: Propane,TN,Moore,569,562,478,420,390,430,440,543,498,474
+7,House Heating Fuel: Wood,TN,Moore,119,132,124,137,118,99,74,69,70,71
+3,House Heating Fuel: Electric,TN,Morgan,3321,3187,2927,2924,2987,3145,3212,3403,3382,3298
+4,House Heating Fuel: Fuel Oil,TN,Morgan,114,43,15,32,36,60,62,68,49,48
+5,House Heating Fuel: Gas,TN,Morgan,3215,3416,3301,3291,3160,3119,2919,2924,2946,3178
+6,House Heating Fuel: Propane,TN,Morgan,707,714,806,758,641,528,461,491,556,557
+7,House Heating Fuel: Wood,TN,Morgan,480,485,482,389,446,428,457,416,485,445
+3,House Heating Fuel: Electric,TN,Obion,6044,6145,6206,6362,6443,6563,6678,6777,6636,6595
+4,House Heating Fuel: Fuel Oil,TN,Obion,9,0,0,0,20,19,24,41,44,23
+5,House Heating Fuel: Gas,TN,Obion,5210,5156,4951,4820,4822,4806,4730,4722,4916,4982
+6,House Heating Fuel: Propane,TN,Obion,1191,1118,1097,959,908,892,940,927,889,911
+7,House Heating Fuel: Wood,TN,Obion,153,193,209,238,230,255,200,175,122,75
+3,House Heating Fuel: Electric,TN,Overton,5357,5857,5598,5674,5482,5555,5356,5636,5692,5834
+4,House Heating Fuel: Fuel Oil,TN,Overton,87,62,64,33,21,8,4,13,33,25
+5,House Heating Fuel: Gas,TN,Overton,1055,975,998,979,1045,1208,1295,1191,1278,1407
+6,House Heating Fuel: Propane,TN,Overton,1303,1171,1178,1122,1220,1143,1090,1032,946,910
+7,House Heating Fuel: Wood,TN,Overton,917,851,939,882,848,885,1046,1001,996,939
+3,House Heating Fuel: Electric,TN,Perry,1630,1695,1769,1760,1904,1993,1930,1948,1968,1719
+4,House Heating Fuel: Fuel Oil,TN,Perry,10,15,17,24,16,21,12,12,0,0
+5,House Heating Fuel: Gas,TN,Perry,961,893,929,819,764,715,746,787,878,925
+6,House Heating Fuel: Propane,TN,Perry,320,267,207,230,154,173,208,200,206,213
+7,House Heating Fuel: Wood,TN,Perry,372,370,341,349,403,284,274,304,232,179
+3,House Heating Fuel: Electric,TN,Pickett,1385,1489,1542,1553,1582,1499,1473,1397,1436,1515
+4,House Heating Fuel: Fuel Oil,TN,Pickett,0,0,0,0,0,0,0,0,0,3
+5,House Heating Fuel: Gas,TN,Pickett,47,76,120,96,88,81,42,107,98,81
+6,House Heating Fuel: Propane,TN,Pickett,526,571,575,564,438,480,409,444,502,520
+7,House Heating Fuel: Wood,TN,Pickett,208,142,180,155,118,143,186,214,163,148
+3,House Heating Fuel: Electric,TN,Polk,3885,4245,4384,4576,4317,4319,4439,4435,4450,4794
+4,House Heating Fuel: Fuel Oil,TN,Polk,412,366,366,342,303,272,215,170,157,143
+5,House Heating Fuel: Gas,TN,Polk,291,255,193,176,252,180,179,327,271,258
+6,House Heating Fuel: Propane,TN,Polk,1273,1165,1158,1251,1225,1310,1267,1408,1447,1584
+7,House Heating Fuel: Wood,TN,Polk,443,439,409,374,489,631,626,590,668,516
+3,House Heating Fuel: Electric,TN,Putnam,17585,18064,18919,19644,20236,20811,21179,21214,21759,22103
+4,House Heating Fuel: Fuel Oil,TN,Putnam,90,82,58,48,53,52,53,35,58,89
+5,House Heating Fuel: Gas,TN,Putnam,7816,7721,7170,6939,6974,6760,6898,7442,7663,7652
+6,House Heating Fuel: Propane,TN,Putnam,1198,1150,1187,1283,1049,1080,1010,894,651,635
+7,House Heating Fuel: Wood,TN,Putnam,768,735,784,899,935,886,830,903,807,811
+3,House Heating Fuel: Electric,TN,Rhea,5716,5998,6096,6419,6679,7043,7006,7319,7173,7162
+4,House Heating Fuel: Fuel Oil,TN,Rhea,83,86,43,56,92,84,82,65,44,8
+5,House Heating Fuel: Gas,TN,Rhea,4842,4615,4692,4473,4552,4444,4499,4484,4442,4324
+6,House Heating Fuel: Propane,TN,Rhea,653,603,573,508,396,437,368,314,305,331
+7,House Heating Fuel: Wood,TN,Rhea,542,624,462,587,557,508,427,387,331,302
+3,House Heating Fuel: Electric,TN,Roane,12022,12151,12547,12918,13113,13269,12947,12515,11930,12110
+4,House Heating Fuel: Fuel Oil,TN,Roane,278,233,235,165,190,78,120,83,108,109
+5,House Heating Fuel: Gas,TN,Roane,7658,7522,7193,6767,6655,6370,6399,6873,6947,6883
+6,House Heating Fuel: Propane,TN,Roane,1730,1571,1515,1323,1255,1244,1238,1148,1096,1016
+7,House Heating Fuel: Wood,TN,Roane,803,885,890,857,769,821,727,777,664,576
+3,House Heating Fuel: Electric,TN,Robertson,13155,13641,14059,14288,14404,14638,14568,15018,15479,15964
+4,House Heating Fuel: Fuel Oil,TN,Robertson,254,187,134,152,119,108,160,132,117,58
+5,House Heating Fuel: Gas,TN,Robertson,7552,7429,7325,7163,7242,7169,7484,7426,7398,7458
+6,House Heating Fuel: Propane,TN,Robertson,2490,2385,2287,2230,2329,2301,2142,2075,1965,1881
+7,House Heating Fuel: Wood,TN,Robertson,301,359,297,277,302,326,276,275,256,176
+3,House Heating Fuel: Electric,TN,Rutherford,61020,62990,64630,66484,68732,70527,74194,77309,79923,81642
+4,House Heating Fuel: Fuel Oil,TN,Rutherford,163,123,93,94,49,44,29,38,58,47
+5,House Heating Fuel: Gas,TN,Rutherford,28354,28271,27787,27344,26868,26854,26222,26467,26647,27081
+6,House Heating Fuel: Propane,TN,Rutherford,2075,1976,2060,2055,2073,2416,2347,2061,1953,1996
+7,House Heating Fuel: Wood,TN,Rutherford,422,421,443,401,440,509,515,476,535,446
+3,House Heating Fuel: Electric,TN,Scott,2629,2616,2642,2714,2792,3090,3117,3155,3378,3323
+4,House Heating Fuel: Fuel Oil,TN,Scott,171,108,90,36,26,5,5,6,5,6
+5,House Heating Fuel: Gas,TN,Scott,4850,4946,4916,4614,4629,4438,4474,4605,4596,4684
+6,House Heating Fuel: Propane,TN,Scott,338,316,258,226,231,214,216,191,206,244
+7,House Heating Fuel: Wood,TN,Scott,571,536,513,601,595,542,527,527,490,391
+3,House Heating Fuel: Electric,TN,Sequatchie,2795,2861,3299,3456,3485,3576,3504,3521,3596,3750
+4,House Heating Fuel: Fuel Oil,TN,Sequatchie,88,120,35,0,25,24,51,105,130,169
+5,House Heating Fuel: Gas,TN,Sequatchie,1103,1172,979,804,865,824,751,772,805,769
+6,House Heating Fuel: Propane,TN,Sequatchie,808,844,936,1023,977,903,957,776,623,538
+7,House Heating Fuel: Wood,TN,Sequatchie,276,309,228,317,265,274,271,323,279,278
+3,House Heating Fuel: Electric,TN,Sevier,28495,28230,28469,28171,27975,28126,28788,28553,28444,28332
+4,House Heating Fuel: Fuel Oil,TN,Sevier,375,253,158,204,147,126,191,246,291,278
+5,House Heating Fuel: Gas,TN,Sevier,5602,5399,5235,5248,4903,5077,5035,5196,5432,6062
+6,House Heating Fuel: Propane,TN,Sevier,1823,1938,1862,1703,1668,1624,1473,1410,1416,1191
+7,House Heating Fuel: Wood,TN,Sevier,1180,1263,1230,1358,1387,1546,1309,1284,1126,1136
+3,House Heating Fuel: Electric,TN,Shelby,122938,128325,134536,139552,142768,145858,150132,151761,155100,160619
+4,House Heating Fuel: Fuel Oil,TN,Shelby,338,325,317,174,282,215,216,233,270,193
+5,House Heating Fuel: Gas,TN,Shelby,212550,207325,203001,199345,197771,196372,194685,192099,189911,185509
+6,House Heating Fuel: Propane,TN,Shelby,3443,3308,2997,3125,3168,3181,3144,3129,2988,2928
+7,House Heating Fuel: Wood,TN,Shelby,521,473,402,495,573,561,531,547,538,466
+3,House Heating Fuel: Electric,TN,Smith,3333,3470,3743,4189,4477,4393,4578,4729,4797,4440
+4,House Heating Fuel: Fuel Oil,TN,Smith,45,29,31,33,26,12,11,22,21,19
+5,House Heating Fuel: Gas,TN,Smith,2421,2504,2521,2169,2117,2323,2242,2189,2216,2549
+6,House Heating Fuel: Propane,TN,Smith,721,643,635,588,520,485,461,356,342,373
+7,House Heating Fuel: Wood,TN,Smith,283,327,315,247,212,221,220,191,189,205
+3,House Heating Fuel: Electric,TN,Stewart,3417,3391,3569,3766,3801,3686,3690,3872,3771,3839
+4,House Heating Fuel: Fuel Oil,TN,Stewart,13,7,44,50,45,53,70,31,6,5
+5,House Heating Fuel: Gas,TN,Stewart,73,81,98,111,101,109,125,123,177,201
+6,House Heating Fuel: Propane,TN,Stewart,1537,1390,1265,1115,1022,1026,1086,1091,1075,972
+7,House Heating Fuel: Wood,TN,Stewart,312,327,261,239,276,251,209,191,204,148
+3,House Heating Fuel: Electric,TN,Sullivan,54950,55463,55934,55673,55684,56167,55891,56708,56823,57387
+4,House Heating Fuel: Fuel Oil,TN,Sullivan,1045,813,739,632,622,743,669,707,607,474
+5,House Heating Fuel: Gas,TN,Sullivan,7567,7268,6967,6952,6751,6364,6201,6147,5928,5862
+6,House Heating Fuel: Propane,TN,Sullivan,1576,1479,1426,1488,1606,1600,1602,1330,1247,1233
+7,House Heating Fuel: Wood,TN,Sullivan,1027,1115,1144,1054,1133,1040,1057,984,931,909
+3,House Heating Fuel: Electric,TN,Sumner,31661,32729,33304,33994,34496,35670,36172,36501,36181,36966
+4,House Heating Fuel: Fuel Oil,TN,Sumner,226,160,120,180,145,129,123,131,64,49
+5,House Heating Fuel: Gas,TN,Sumner,24279,24047,23988,23466,23697,23596,23876,24904,26358,27026
+6,House Heating Fuel: Propane,TN,Sumner,2680,2546,2515,2450,2394,2258,2266,2205,2227,2165
+7,House Heating Fuel: Wood,TN,Sumner,526,556,545,596,530,517,517,546,524,511
+3,House Heating Fuel: Electric,TN,Tipton,7631,7910,7958,7797,7877,7696,7558,7619,7740,7906
+4,House Heating Fuel: Fuel Oil,TN,Tipton,74,44,47,42,33,11,11,4,23,27
+5,House Heating Fuel: Gas,TN,Tipton,11943,12149,11936,12340,12204,12498,12400,12524,12402,12433
+6,House Heating Fuel: Propane,TN,Tipton,1316,1176,1176,1059,979,1007,1010,930,864,806
+7,House Heating Fuel: Wood,TN,Tipton,242,267,261,331,373,341,352,345,238,210
+3,House Heating Fuel: Electric,TN,Trousdale,1628,1741,1812,1875,1965,2015,1944,1936,2084,2115
+4,House Heating Fuel: Fuel Oil,TN,Trousdale,64,69,71,34,0,0,24,40,31,31
+5,House Heating Fuel: Gas,TN,Trousdale,386,424,356,380,427,418,427,474,516,570
+6,House Heating Fuel: Propane,TN,Trousdale,607,426,417,431,394,383,465,448,382,349
+7,House Heating Fuel: Wood,TN,Trousdale,120,118,179,161,128,97,98,46,41,87
+3,House Heating Fuel: Electric,TN,Unicoi,3977,3838,4032,4049,4031,4099,4200,4179,4180,4304
+4,House Heating Fuel: Fuel Oil,TN,Unicoi,533,541,391,412,471,391,302,319,231,233
+5,House Heating Fuel: Gas,TN,Unicoi,2575,2553,2583,2696,2549,2361,2400,2427,2374,2405
+6,House Heating Fuel: Propane,TN,Unicoi,296,240,228,214,189,220,376,380,379,331
+7,House Heating Fuel: Wood,TN,Unicoi,187,243,269,221,285,302,304,267,300,343
+3,House Heating Fuel: Electric,TN,Union,5833,5831,6001,6075,5859,5946,5787,6000,5919,6216
+4,House Heating Fuel: Fuel Oil,TN,Union,118,135,116,93,80,51,37,26,31,41
+5,House Heating Fuel: Gas,TN,Union,137,121,55,21,20,33,27,59,63,126
+6,House Heating Fuel: Propane,TN,Union,610,589,606,580,528,583,707,531,566,565
+7,House Heating Fuel: Wood,TN,Union,631,618,594,611,694,648,671,586,506,427
+3,House Heating Fuel: Electric,TN,Van Buren,1236,1229,1257,1275,1230,1315,1401,1248,1338,1280
+4,House Heating Fuel: Fuel Oil,TN,Van Buren,0,0,0,0,0,7,7,27,50,75
+5,House Heating Fuel: Gas,TN,Van Buren,433,392,372,343,344,311,268,337,273,269
+6,House Heating Fuel: Propane,TN,Van Buren,220,188,219,261,312,283,255,256,195,206
+7,House Heating Fuel: Wood,TN,Van Buren,207,254,229,216,194,177,197,271,277,290
+3,House Heating Fuel: Electric,TN,Warren,9334,9710,9945,10079,10078,10203,10227,10361,10547,10900
+4,House Heating Fuel: Fuel Oil,TN,Warren,194,168,116,99,102,85,58,203,153,147
+5,House Heating Fuel: Gas,TN,Warren,4220,4178,4033,3906,3940,4123,4154,4110,3924,3674
+6,House Heating Fuel: Propane,TN,Warren,764,726,674,727,740,750,639,570,533,489
+7,House Heating Fuel: Wood,TN,Warren,424,449,472,423,462,382,395,409,421,433
+3,House Heating Fuel: Electric,TN,Washington,37900,39705,41017,41242,41750,41796,41745,41729,42741,43593
+4,House Heating Fuel: Fuel Oil,TN,Washington,1153,921,612,630,662,527,500,459,404,299
+5,House Heating Fuel: Gas,TN,Washington,7700,7415,7304,7167,7245,7580,7615,7639,7460,7272
+6,House Heating Fuel: Propane,TN,Washington,1432,1467,1288,1527,1486,1498,1290,1624,1483,1503
+7,House Heating Fuel: Wood,TN,Washington,694,737,727,855,906,951,954,928,837,846
+3,House Heating Fuel: Electric,TN,Wayne,2702,2976,2975,3217,3434,3449,3540,3722,3813,3696
+4,House Heating Fuel: Fuel Oil,TN,Wayne,21,34,35,19,7,4,0,0,0,0
+5,House Heating Fuel: Gas,TN,Wayne,1183,1032,1004,1031,906,851,882,837,914,853
+6,House Heating Fuel: Propane,TN,Wayne,1431,1299,1375,1288,1148,1049,1006,837,734,731
+7,House Heating Fuel: Wood,TN,Wayne,514,570,630,517,505,595,561,454,486,479
+3,House Heating Fuel: Electric,TN,Weakley,8362,8671,8471,8340,8365,8585,8508,8893,8707,8621
+4,House Heating Fuel: Fuel Oil,TN,Weakley,53,24,37,8,10,25,31,60,66,68
+5,House Heating Fuel: Gas,TN,Weakley,3816,3711,3871,3933,3803,3749,3722,3514,3651,3740
+6,House Heating Fuel: Propane,TN,Weakley,1199,1132,1139,1110,1045,929,847,781,817,848
+7,House Heating Fuel: Wood,TN,Weakley,308,383,362,374,386,331,299,287,277,335
+3,House Heating Fuel: Electric,TN,White,4157,4261,4519,4496,4503,4585,4487,4544,4832,4828
+4,House Heating Fuel: Fuel Oil,TN,White,14,23,8,6,5,5,12,10,10,9
+5,House Heating Fuel: Gas,TN,White,4176,4113,3906,4028,4244,4106,4175,4290,4276,4266
+6,House Heating Fuel: Propane,TN,White,774,729,641,559,490,451,352,354,344,426
+7,House Heating Fuel: Wood,TN,White,675,666,627,640,585,584,640,583,470,494
+3,House Heating Fuel: Electric,TN,Williamson,21982,23089,24090,24624,25742,25901,26755,27435,29124,30153
+4,House Heating Fuel: Fuel Oil,TN,Williamson,155,139,113,112,75,32,37,32,37,58
+5,House Heating Fuel: Gas,TN,Williamson,37240,37890,38011,38796,39395,40157,40701,42178,42759,44083
+6,House Heating Fuel: Propane,TN,Williamson,2685,2443,2261,2361,2380,2685,2938,2863,2741,2946
+7,House Heating Fuel: Wood,TN,Williamson,410,417,405,364,288,370,305,317,329,300
+3,House Heating Fuel: Electric,TN,Wilson,23003,23774,23978,24362,25363,25636,27046,28335,29128,30071
+4,House Heating Fuel: Fuel Oil,TN,Wilson,68,73,105,56,90,110,116,68,79,48
+5,House Heating Fuel: Gas,TN,Wilson,14606,15036,15340,15063,15059,15525,15366,15838,16843,16973
+6,House Heating Fuel: Propane,TN,Wilson,2986,2731,2670,2767,2730,2681,2353,2368,2169,1930
+7,House Heating Fuel: Wood,TN,Wilson,466,417,350,383,380,339,368,436,450,512

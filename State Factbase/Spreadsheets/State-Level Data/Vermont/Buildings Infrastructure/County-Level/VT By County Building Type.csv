@@ -1,0 +1,141 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+40,Units in Structure: 1 ATTACHED,VT,Addison,424,464,501,496,442,500,477,449,441,447
+41,Units in Structure: 1 DETACHED,VT,Addison,12500,12550,12443,12364,12458,12450,12499,12713,12905,13231
+42,Units in Structure: 10-19,VT,Addison,104,124,135,161,180,226,166,153,127,85
+43,Units in Structure: 2,VT,Addison,631,656,720,764,796,739,791,872,960,979
+44,Units in Structure: 20-49,VT,Addison,103,124,116,183,202,212,246,272,201,198
+45,Units in Structure: 3-4,VT,Addison,611,606,641,547,547,655,722,749,817,724
+46,Units in Structure: 5-9,VT,Addison,586,549,564,575,510,415,462,396,339,363
+47,Units in Structure: 50+,VT,Addison,105,94,111,145,183,186,204,199,155,102
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Addison,0,0,0,3,4,3,3,12,9,10
+49,Units in Structure: Mobile Home,VT,Addison,1555,1536,1529,1529,1521,1505,1401,1398,1382,1292
+40,Units in Structure: 1 ATTACHED,VT,Bennington,772,701,722,639,481,355,419,385,424,492
+41,Units in Structure: 1 DETACHED,VT,Bennington,14440,14590,14689,14572,14938,15154,15074,15164,15161,15292
+42,Units in Structure: 10-19,VT,Bennington,140,114,124,153,152,97,141,142,222,212
+43,Units in Structure: 2,VT,Bennington,1221,1266,1365,1340,1214,1288,1368,1356,1344,1178
+44,Units in Structure: 20-49,VT,Bennington,100,121,136,144,158,152,191,213,262,371
+45,Units in Structure: 3-4,VT,Bennington,1660,1626,1548,1584,1667,1563,1481,1531,1444,1303
+46,Units in Structure: 5-9,VT,Bennington,751,760,720,798,761,754,713,759,659,693
+47,Units in Structure: 50+,VT,Bennington,208,191,230,203,217,236,317,265,346,388
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Bennington,26,18,18,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,VT,Bennington,1484,1493,1322,1447,1341,1320,1218,1293,1277,1224
+40,Units in Structure: 1 ATTACHED,VT,Caledonia,333,318,203,185,202,174,182,165,135,110
+41,Units in Structure: 1 DETACHED,VT,Caledonia,11064,11067,10960,11073,11129,11132,11363,11467,11579,11605
+42,Units in Structure: 10-19,VT,Caledonia,143,167,158,165,158,122,153,190,227,298
+43,Units in Structure: 2,VT,Caledonia,787,774,792,677,620,691,645,757,818,910
+44,Units in Structure: 20-49,VT,Caledonia,366,369,368,353,325,227,256,236,221,176
+45,Units in Structure: 3-4,VT,Caledonia,1014,999,1075,964,1038,1085,979,915,1023,1027
+46,Units in Structure: 5-9,VT,Caledonia,707,687,760,807,735,749,741,778,634,605
+47,Units in Structure: 50+,VT,Caledonia,74,66,68,58,48,50,75,46,53,47
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Caledonia,0,0,0,0,0,0,0,7,10,13
+49,Units in Structure: Mobile Home,VT,Caledonia,1268,1420,1522,1661,1756,1792,1683,1713,1628,1589
+40,Units in Structure: 1 ATTACHED,VT,Chittenden,4523,4638,4811,4683,4913,5257,5582,5904,6388,6502
+41,Units in Structure: 1 DETACHED,VT,Chittenden,35415,35851,35723,35860,35918,35908,35428,35228,35035,34844
+42,Units in Structure: 10-19,VT,Chittenden,2017,2074,1915,1851,1814,1766,1871,1876,1944,2190
+43,Units in Structure: 2,VT,Chittenden,5259,5519,5464,5381,5283,5333,5105,4949,4937,4658
+44,Units in Structure: 20-49,VT,Chittenden,2101,2141,2307,2563,2702,2770,3020,3467,3770,3961
+45,Units in Structure: 3-4,VT,Chittenden,5783,5527,5725,6216,6303,6201,6594,6624,6165,6096
+46,Units in Structure: 5-9,VT,Chittenden,4744,4635,4808,4727,4623,4590,4702,4758,4799,5250
+47,Units in Structure: 50+,VT,Chittenden,2363,2469,2515,2443,2488,2651,2544,2694,2887,3149
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Chittenden,10,0,35,30,30,27,37,8,7,9
+49,Units in Structure: Mobile Home,VT,Chittenden,2638,2515,2410,2248,2408,2524,2640,2945,3126,3075
+40,Units in Structure: 1 ATTACHED,VT,Essex,18,11,9,10,12,12,13,9,8,9
+41,Units in Structure: 1 DETACHED,VT,Essex,4110,4125,4073,4070,4112,4168,4212,4283,4329,4328
+42,Units in Structure: 10-19,VT,Essex,15,17,12,8,11,11,3,6,8,4
+43,Units in Structure: 2,VT,Essex,120,124,138,146,128,144,145,134,135,153
+44,Units in Structure: 20-49,VT,Essex,11,9,9,18,21,16,19,28,17,13
+45,Units in Structure: 3-4,VT,Essex,126,123,120,118,104,81,92,95,81,83
+46,Units in Structure: 5-9,VT,Essex,68,71,72,85,107,104,102,117,95,66
+47,Units in Structure: 50+,VT,Essex,0,0,0,0,0,0,0,0,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Essex,4,2,1,2,2,1,0,0,0,0
+49,Units in Structure: Mobile Home,VT,Essex,515,533,586,563,525,488,478,453,473,511
+40,Units in Structure: 1 ATTACHED,VT,Franklin,471,584,556,552,649,571,537,485,534,553
+41,Units in Structure: 1 DETACHED,VT,Franklin,15447,15638,15666,15635,15662,15570,15723,16263,16597,16850
+42,Units in Structure: 10-19,VT,Franklin,205,173,160,180,163,225,253,287,235,212
+43,Units in Structure: 2,VT,Franklin,1261,1328,1292,1161,1136,1197,1043,1111,1195,1250
+44,Units in Structure: 20-49,VT,Franklin,300,359,358,378,397,419,443,387,492,448
+45,Units in Structure: 3-4,VT,Franklin,1293,1139,1077,1053,972,865,881,805,774,778
+46,Units in Structure: 5-9,VT,Franklin,473,410,499,604,587,769,821,705,610,637
+47,Units in Structure: 50+,VT,Franklin,67,65,131,124,127,149,175,112,147,180
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Franklin,5,5,5,0,0,0,0,4,5,5
+49,Units in Structure: Mobile Home,VT,Franklin,1813,1789,1847,2000,2093,2121,2090,2148,1828,1649
+40,Units in Structure: 1 ATTACHED,VT,Grand Isle,42,65,55,46,55,51,37,52,61,48
+41,Units in Structure: 1 DETACHED,VT,Grand Isle,4058,4065,4128,4114,4080,4156,4144,4244,4248,4315
+42,Units in Structure: 10-19,VT,Grand Isle,40,49,35,30,27,23,17,22,15,17
+43,Units in Structure: 2,VT,Grand Isle,115,104,107,78,100,95,106,101,133,121
+44,Units in Structure: 20-49,VT,Grand Isle,7,20,20,15,16,15,0,2,3,3
+45,Units in Structure: 3-4,VT,Grand Isle,65,87,85,109,84,93,106,95,108,127
+46,Units in Structure: 5-9,VT,Grand Isle,39,27,40,44,14,21,26,15,17,23
+47,Units in Structure: 50+,VT,Grand Isle,0,0,0,12,11,23,23,23,9,8
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Grand Isle,0,0,0,0,0,0,0,0,0,0
+49,Units in Structure: Mobile Home,VT,Grand Isle,653,623,578,625,720,619,658,658,653,628
+40,Units in Structure: 1 ATTACHED,VT,Lamoille,174,145,321,428,508,478,590,587,574,530
+41,Units in Structure: 1 DETACHED,VT,Lamoille,8680,8610,8631,8691,8720,8661,8777,8895,8927,9109
+42,Units in Structure: 10-19,VT,Lamoille,100,123,128,108,179,242,224,160,151,102
+43,Units in Structure: 2,VT,Lamoille,878,1105,959,885,881,942,837,1053,1054,1046
+44,Units in Structure: 20-49,VT,Lamoille,130,109,124,125,145,207,216,205,218,202
+45,Units in Structure: 3-4,VT,Lamoille,669,737,818,919,1059,979,992,896,805,783
+46,Units in Structure: 5-9,VT,Lamoille,713,693,630,620,438,443,500,532,630,603
+47,Units in Structure: 50+,VT,Lamoille,16,8,8,19,23,8,11,13,0,0
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Lamoille,2,2,0,3,3,4,7,23,25,27
+49,Units in Structure: Mobile Home,VT,Lamoille,1366,1352,1331,1209,1138,1158,1081,1067,1169,1279
+40,Units in Structure: 1 ATTACHED,VT,Orange,221,198,186,161,153,158,148,120,129,127
+41,Units in Structure: 1 DETACHED,VT,Orange,11668,11637,11678,11624,11655,11635,11718,11883,12066,12147
+42,Units in Structure: 10-19,VT,Orange,85,97,86,90,86,110,105,93,91,105
+43,Units in Structure: 2,VT,Orange,446,429,431,439,424,466,511,586,617,669
+44,Units in Structure: 20-49,VT,Orange,103,98,88,81,79,71,92,103,120,123
+45,Units in Structure: 3-4,VT,Orange,384,375,358,375,443,497,528,510,496,494
+46,Units in Structure: 5-9,VT,Orange,292,311,292,341,333,271,260,185,131,137
+47,Units in Structure: 50+,VT,Orange,19,27,43,69,72,84,79,62,28,13
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Orange,2,3,3,3,3,4,3,0,0,0
+49,Units in Structure: Mobile Home,VT,Orange,1440,1593,1650,1654,1670,1593,1617,1700,1668,1602
+40,Units in Structure: 1 ATTACHED,VT,Orleans,115,99,139,109,124,125,193,268,347,352
+41,Units in Structure: 1 DETACHED,VT,Orleans,12235,12245,12171,12329,12228,12409,12491,12920,12943,13310
+42,Units in Structure: 10-19,VT,Orleans,151,144,145,118,165,186,203,180,206,170
+43,Units in Structure: 2,VT,Orleans,699,741,821,812,885,886,822,773,859,803
+44,Units in Structure: 20-49,VT,Orleans,51,82,68,94,87,90,71,64,55,72
+45,Units in Structure: 3-4,VT,Orleans,675,743,734,760,729,667,631,597,555,653
+46,Units in Structure: 5-9,VT,Orleans,571,548,507,488,523,467,510,542,538,481
+47,Units in Structure: 50+,VT,Orleans,0,0,3,4,3,5,24,16,21,20
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Orleans,3,5,6,3,7,8,4,3,4,0
+49,Units in Structure: Mobile Home,VT,Orleans,1496,1446,1587,1521,1608,1643,1760,1717,1776,1684
+40,Units in Structure: 1 ATTACHED,VT,Rutland,444,466,496,605,561,600,509,518,407,391
+41,Units in Structure: 1 DETACHED,VT,Rutland,21461,21740,21937,22273,22664,22862,23310,23689,23642,23522
+42,Units in Structure: 10-19,VT,Rutland,768,788,653,606,638,756,930,1180,1360,1382
+43,Units in Structure: 2,VT,Rutland,3291,3116,2924,2802,2644,2334,2346,2283,2343,2345
+44,Units in Structure: 20-49,VT,Rutland,743,717,730,752,745,748,710,678,679,856
+45,Units in Structure: 3-4,VT,Rutland,2393,2450,2602,2459,2388,2414,2283,2114,2245,2361
+46,Units in Structure: 5-9,VT,Rutland,1650,1573,1650,1486,1518,1469,1400,1276,1192,1058
+47,Units in Structure: 50+,VT,Rutland,463,457,535,541,541,540,521,508,465,473
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Rutland,13,13,15,7,14,8,8,10,7,0
+49,Units in Structure: Mobile Home,VT,Rutland,2393,2383,2201,2194,2058,2011,1824,2000,1992,2023
+40,Units in Structure: 1 ATTACHED,VT,Washington,934,810,1101,1332,1487,1531,1573,1306,1018,1093
+41,Units in Structure: 1 DETACHED,VT,Washington,18940,19240,19100,19167,19422,19839,19772,19900,19854,19711
+42,Units in Structure: 10-19,VT,Washington,619,620,641,554,575,543,546,672,802,681
+43,Units in Structure: 2,VT,Washington,2037,2173,2292,2088,1808,1787,1759,1815,1966,2009
+44,Units in Structure: 20-49,VT,Washington,587,663,642,658,725,706,611,709,701,640
+45,Units in Structure: 3-4,VT,Washington,2225,2027,2057,2023,1926,1935,2140,2200,2203,2345
+46,Units in Structure: 5-9,VT,Washington,2212,2190,2104,2041,1972,1744,1736,1706,1870,1960
+47,Units in Structure: 50+,VT,Washington,462,476,425,437,470,410,486,590,569,610
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Washington,15,15,15,12,0,2,2,2,3,3
+49,Units in Structure: Mobile Home,VT,Washington,1660,1644,1528,1618,1671,1579,1517,1610,1638,1708
+40,Units in Structure: 1 ATTACHED,VT,Windham,1952,1969,2056,2057,2201,2182,2128,2167,2182,2182
+41,Units in Structure: 1 DETACHED,VT,Windham,18975,19314,19238,19572,19513,19534,19604,19811,19955,19953
+42,Units in Structure: 10-19,VT,Windham,882,773,765,690,638,501,485,411,374,268
+43,Units in Structure: 2,VT,Windham,1397,1400,1315,1594,1619,1604,1480,1459,1329,1348
+44,Units in Structure: 20-49,VT,Windham,648,758,726,635,613,617,595,637,673,752
+45,Units in Structure: 3-4,VT,Windham,1908,1830,1879,1866,1722,1733,1711,1675,1675,1885
+46,Units in Structure: 5-9,VT,Windham,1417,1424,1344,1257,1362,1485,1719,1982,2034,2115
+47,Units in Structure: 50+,VT,Windham,549,415,490,449,449,472,495,406,362,436
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Windham,13,6,6,2,4,4,5,11,8,8
+49,Units in Structure: Mobile Home,VT,Windham,1647,1718,1812,1607,1685,1729,1735,1708,1833,1639
+40,Units in Structure: 1 ATTACHED,VT,Windsor,801,637,627,630,639,653,666,736,780,738
+41,Units in Structure: 1 DETACHED,VT,Windsor,22766,22987,23191,23053,23170,23162,23376,23733,24280,24580
+42,Units in Structure: 10-19,VT,Windsor,967,1040,1029,1046,870,885,687,619,571,661
+43,Units in Structure: 2,VT,Windsor,1814,1885,1949,1932,1911,1947,1795,1708,1472,1276
+44,Units in Structure: 20-49,VT,Windsor,347,343,397,414,447,476,407,490,515,533
+45,Units in Structure: 3-4,VT,Windsor,2000,2079,1945,2146,2230,2142,2349,2368,2386,2386
+46,Units in Structure: 5-9,VT,Windsor,2624,2526,2435,2362,2213,2031,2045,2113,2027,2143
+47,Units in Structure: 50+,VT,Windsor,190,182,251,262,317,338,333,285,264,295
+48,"Units in Structure: Boat,RV,Van,Etc.",VT,Windsor,12,11,13,15,43,43,42,39,36,6
+49,Units in Structure: Mobile Home,VT,Windsor,2390,2357,2269,2217,2308,2455,2527,2537,2427,2264

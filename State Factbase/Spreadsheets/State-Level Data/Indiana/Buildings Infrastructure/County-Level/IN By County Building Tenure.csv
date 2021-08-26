@@ -1,0 +1,369 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,IN,Fulton,2.39,2.44,2.41,2.51,2.52,2.6,2.61,2.62,2.6,2.61
+1,Avg household size of renter-occupied unit,IN,Fulton,2.42,2.56,2.52,2.43,2.38,2.36,2.26,2.23,2.34,2.37
+36,Owner-Occupied,IN,Fulton,15213,15297,14910,15764,15731,15941,16158,16062,15692,15195
+37,Renter-Occupied,IN,Fulton,5080,5262,5647,4712,4678,4341,4017,4002,4296,4686
+0,Avg household size of owner-occupied unit,IN,Gibson,2.55,2.58,2.58,2.59,2.59,2.56,2.52,2.5,2.5,2.51
+1,Avg household size of renter-occupied unit,IN,Gibson,2.31,2.38,2.23,2.19,2.3,2.32,2.31,2.32,2.39,2.31
+36,Owner-Occupied,IN,Gibson,25776,25862,26170,26388,26427,25958,25820,25745,25551,25259
+37,Renter-Occupied,IN,Gibson,6709,6817,6526,6380,6408,6913,7039,7026,7221,7559
+0,Avg household size of owner-occupied unit,IN,Grant,2.52,2.44,2.43,2.41,2.41,2.42,2.41,2.41,2.4,2.36
+1,Avg household size of renter-occupied unit,IN,Grant,2.34,2.32,2.33,2.33,2.33,2.33,2.39,2.34,2.26,2.2
+36,Owner-Occupied,IN,Grant,47539,46371,45642,45376,45209,44693,43516,43078,43444,42509
+37,Renter-Occupied,IN,Grant,18400,18777,19081,19036,18777,18713,19538,19317,18180,18345
+0,Avg household size of owner-occupied unit,IN,Greene,2.54,2.58,2.56,2.56,2.58,2.53,2.55,2.57,2.56,2.52
+1,Avg household size of renter-occupied unit,IN,Greene,2.37,2.34,2.43,2.43,2.37,2.56,2.55,2.41,2.28,2.4
+36,Owner-Occupied,IN,Greene,26032,25946,25561,25885,26240,25632,25745,25954,26160,25607
+37,Renter-Occupied,IN,Greene,6815,6678,7099,6768,6406,6868,6584,6178,5837,6252
+0,Avg household size of owner-occupied unit,IN,Hamilton,2.84,2.83,2.84,2.85,2.86,2.87,2.84,2.83,2.82,2.82
+1,Avg household size of renter-occupied unit,IN,Hamilton,2.21,2.21,2.23,2.25,2.23,2.22,2.23,2.21,2.26,2.23
+36,Owner-Occupied,IN,Hamilton,217953,223301,228561,233272,238236,242971,246167,252657,254541,259884
+37,Renter-Occupied,IN,Hamilton,42303,44093,46049,48238,50000,52150,55371,55502,59999,61709
+0,Avg household size of owner-occupied unit,IN,Hancock,2.74,2.74,2.72,2.76,2.76,2.78,2.76,2.69,2.66,2.67
+1,Avg household size of renter-occupied unit,IN,Hancock,2.24,2.25,2.42,2.36,2.43,2.35,2.38,2.36,2.38,2.29
+36,Owner-Occupied,IN,Hancock,55805,57696,57535,57654,56619,57225,56738,57467,58145,60818
+37,Renter-Occupied,IN,Hancock,11377,10701,11585,12183,13603,13450,14557,14648,15024,13671
+0,Avg household size of owner-occupied unit,IN,Harrison,2.74,2.71,2.75,2.75,2.74,2.76,2.77,2.7,2.75,2.79
+1,Avg household size of renter-occupied unit,IN,Harrison,2.37,2.24,2.37,2.35,2.22,2.27,2.36,2.5,2.48,2.54
+36,Owner-Occupied,IN,Harrison,33008,33302,32802,32316,32961,32854,32566,32741,33046,33338
+37,Renter-Occupied,IN,Harrison,5338,4995,5741,6408,5869,6123,6511,6379,6310,6224
+0,Avg household size of owner-occupied unit,IN,Hendricks,2.77,2.77,2.8,2.82,2.82,2.84,2.86,2.82,2.86,2.86
+1,Avg household size of renter-occupied unit,IN,Hendricks,2.33,2.35,2.42,2.42,2.41,2.42,2.33,2.35,2.24,2.27
+36,Owner-Occupied,IN,Hendricks,116137,118510,120643,122822,123049,124534,126471,126843,130299,132449
+37,Renter-Occupied,IN,Hendricks,20904,20879,21814,22601,24905,26113,26818,28616,27963,28817
+0,Avg household size of owner-occupied unit,IN,Henry,2.49,2.51,2.52,2.56,2.59,2.63,2.59,2.54,2.48,2.45
+1,Avg household size of renter-occupied unit,IN,Henry,2.23,2.23,2.3,2.33,2.34,2.29,2.43,2.4,2.36,2.44
+36,Owner-Occupied,IN,Henry,36161,35656,35427,34554,34577,34848,33656,33605,33585,32927
+37,Renter-Occupied,IN,Henry,9964,10263,10698,11424,11331,10967,11939,11681,11479,11843
+0,Avg household size of owner-occupied unit,IN,Howard,2.4,2.45,2.47,2.44,2.44,2.42,2.42,2.4,2.39,2.4
+1,Avg household size of renter-occupied unit,IN,Howard,2.24,2.24,2.19,2.16,2.25,2.26,2.26,2.25,2.27,2.19
+36,Owner-Occupied,IN,Howard,58169,59270,59653,59536,57483,57455,57013,56704,56421,58528
+37,Renter-Occupied,IN,Howard,22686,22447,21957,22002,24309,24173,24594,24656,24836,22647
+0,Avg household size of owner-occupied unit,IN,Huntington,2.62,2.59,2.55,2.55,2.52,2.49,2.5,2.44,2.44,2.42
+1,Avg household size of renter-occupied unit,IN,Huntington,2.22,2.26,2.4,2.42,2.29,2.31,2.2,2.28,2.17,2.23
+36,Owner-Occupied,IN,Huntington,29680,29100,27854,27869,27712,27274,27572,27236,27258,26908
+37,Renter-Occupied,IN,Huntington,6402,6797,7899,7753,7801,8107,7679,7880,7740,8067
+0,Avg household size of owner-occupied unit,IN,Jackson,2.51,2.49,2.51,2.54,2.56,2.61,2.66,2.66,2.62,2.62
+1,Avg household size of renter-occupied unit,IN,Jackson,2.39,2.45,2.49,2.47,2.54,2.47,2.44,2.46,2.48,2.5
+36,Owner-Occupied,IN,Jackson,30948,30650,30586,31006,31729,32207,32411,31934,31818,31586
+37,Renter-Occupied,IN,Jackson,10585,10958,11260,11159,10762,10574,10524,11127,11388,11688
+0,Avg household size of owner-occupied unit,IN,Jasper,2.63,2.68,2.66,2.71,2.72,2.72,2.71,2.67,2.64,2.66
+1,Avg household size of renter-occupied unit,IN,Jasper,2.5,2.49,2.67,2.71,2.66,2.67,2.6,2.62,2.47,2.41
+36,Owner-Occupied,IN,Jasper,25366,25391,25289,25782,25655,25317,25246,24970,25036,25520
+37,Renter-Occupied,IN,Jasper,6485,6705,6979,6572,6809,7191,7260,7549,7528,7055
+0,Avg household size of owner-occupied unit,IN,Jay,2.58,2.58,2.6,2.59,2.56,2.56,2.58,2.54,2.54,2.53
+1,Avg household size of renter-occupied unit,IN,Jay,2.47,2.44,2.5,2.54,2.58,2.66,2.64,2.54,2.54,2.48
+36,Owner-Occupied,IN,Jay,16884,16562,16411,16059,15728,15532,15700,15435,15136,15108
+37,Renter-Occupied,IN,Jay,4298,4563,4671,4999,5274,5441,5218,5397,5586,5462
+0,Avg household size of owner-occupied unit,IN,Jefferson,2.52,2.49,2.5,2.43,2.38,2.35,2.35,2.36,2.34,2.44
+1,Avg household size of renter-occupied unit,IN,Jefferson,2.09,2.12,2.16,2.28,2.33,2.4,2.41,2.31,2.27,2.12
+36,Owner-Occupied,IN,Jefferson,22875,22417,22595,22309,21607,21476,21244,21416,21510,22172
+37,Renter-Occupied,IN,Jefferson,7478,7886,7770,7903,8512,8564,8732,8271,8126,7542
+0,Avg household size of owner-occupied unit,IN,Jennings,2.54,2.55,2.59,2.58,2.59,2.59,2.63,2.56,2.6,2.57
+1,Avg household size of renter-occupied unit,IN,Jennings,2.59,2.63,2.7,2.8,2.76,2.7,2.64,2.54,2.47,2.4
+36,Owner-Occupied,IN,Jennings,20487,20805,21031,20809,20837,20810,20385,20457,20874,21586
+37,Renter-Occupied,IN,Jennings,7582,7272,7015,7174,7034,6938,7283,7026,6494,5757
+0,Avg household size of owner-occupied unit,IN,Johnson,2.67,2.72,2.71,2.73,2.73,2.77,2.76,2.74,2.77,2.78
+1,Avg household size of renter-occupied unit,IN,Johnson,2.25,2.31,2.4,2.47,2.52,2.49,2.57,2.52,2.44,2.38
+36,Owner-Occupied,IN,Johnson,103527,105232,104674,103441,104392,104530,104440,106944,110826,114404
+37,Renter-Occupied,IN,Johnson,27815,29522,32088,35385,36772,38743,40676,40064,38321,36828
+0,Avg household size of owner-occupied unit,IN,Knox,2.52,2.51,2.47,2.5,2.52,2.49,2.54,2.47,2.48,2.43
+1,Avg household size of renter-occupied unit,IN,Knox,2.12,2.12,2.18,2.2,2.19,2.21,2.19,2.16,2.11,2.1
+36,Owner-Occupied,IN,Knox,26128,26050,25450,24843,24490,24338,24517,23744,24100,23637
+37,Renter-Occupied,IN,Knox,9510,9490,10046,10558,10899,11078,10943,11642,11043,11206
+0,Avg household size of owner-occupied unit,IN,Kosciusko,2.55,2.56,2.57,2.6,2.64,2.62,2.58,2.58,2.56,2.55
+1,Avg household size of renter-occupied unit,IN,Kosciusko,2.29,2.28,2.35,2.44,2.43,2.44,2.47,2.46,2.39,2.35
+36,Owner-Occupied,IN,Kosciusko,59745,60371,60409,59978,59906,59399,58659,58326,57820,59060
+37,Renter-Occupied,IN,Kosciusko,16260,15556,15579,16123,16377,16977,18211,18807,19402,18373
+0,Avg household size of owner-occupied unit,IN,LaGrange,3.13,3.14,3.21,3.23,3.24,3.31,3.31,3.29,3.28,3.32
+1,Avg household size of renter-occupied unit,IN,LaGrange,2.56,2.59,2.62,2.76,2.96,2.84,2.78,2.68,2.79,2.39
+36,Owner-Occupied,IN,LaGrange,31616,31150,30775,30180,30727,31466,32089,32584,32789,33637
+37,Renter-Occupied,IN,LaGrange,5312,5624,6106,6890,6662,6272,5965,5805,5843,5259
+0,Avg household size of owner-occupied unit,IN,Lake,2.74,2.75,2.75,2.74,2.72,2.7,2.67,2.64,2.64,2.62
+1,Avg household size of renter-occupied unit,IN,Lake,2.5,2.48,2.53,2.55,2.54,2.53,2.54,2.51,2.49,2.45
+36,Owner-Occupied,IN,Lake,355171,355912,352150,347200,342888,341237,337776,339795,340712,341124
+37,Renter-Occupied,IN,Lake,132840,133386,137196,141168,144413,144541,146142,143134,140448,138875
+0,Avg household size of owner-occupied unit,IN,LaPorte,2.49,2.47,2.46,2.45,2.45,2.42,2.42,2.43,2.41,2.39
+1,Avg household size of renter-occupied unit,IN,LaPorte,2.37,2.42,2.34,2.3,2.25,2.26,2.25,2.26,2.31,2.33
+36,Owner-Occupied,IN,LaPorte,79079,78194,77096,75921,74642,73563,74070,74652,74367,74384
+37,Renter-Occupied,IN,LaPorte,24467,25488,26149,26874,27707,28647,28050,27685,27917,27679
+0,Avg household size of owner-occupied unit,IN,Lawrence,2.49,2.49,2.47,2.51,2.5,2.52,2.51,2.49,2.49,2.46
+1,Avg household size of renter-occupied unit,IN,Lawrence,2.29,2.25,2.19,2.2,2.21,2.18,2.22,2.26,2.23,2.15
+36,Owner-Occupied,IN,Lawrence,36521,36481,36435,36507,36464,35849,35797,36136,35711,35578
+37,Renter-Occupied,IN,Lawrence,9152,9049,9031,8875,8821,9253,9202,8843,9229,9305
+0,Avg household size of owner-occupied unit,IN,Madison,2.48,2.48,2.48,2.49,2.44,2.43,2.4,2.39,2.39,2.44
+1,Avg household size of renter-occupied unit,IN,Madison,2.37,2.42,2.43,2.41,2.37,2.37,2.4,2.39,2.41,2.37
+36,Owner-Occupied,IN,Madison,93796,91755,90974,87992,86609,85889,85468,85253,86000,86721
+37,Renter-Occupied,IN,Madison,32416,33762,34142,36681,37527,37642,37865,38067,37366,36660
+0,Avg household size of owner-occupied unit,IN,Marion,2.57,2.58,2.58,2.59,2.61,2.61,2.6,2.62,2.63,2.65
+1,Avg household size of renter-occupied unit,IN,Marion,2.27,2.3,2.33,2.36,2.35,2.38,2.39,2.39,2.38,2.35
+36,Owner-Occupied,IN,Marion,539012,535071,527422,520086,521257,514171,510113,518912,523150,532382
+37,Renter-Occupied,IN,Marion,333714,345910,360549,375419,381115,395343,405009,404035,404741,403067
+0,Avg household size of owner-occupied unit,IN,Marshall,2.7,2.67,2.67,2.69,2.74,2.74,2.77,2.75,2.73,2.71
+1,Avg household size of renter-occupied unit,IN,Marshall,2.41,2.38,2.38,2.45,2.34,2.4,2.46,2.41,2.43,2.42
+36,Owner-Occupied,IN,Marshall,37216,36398,36628,36804,36780,36560,35903,35799,35404,35033
+37,Renter-Occupied,IN,Marshall,9237,9909,9695,9510,9496,9628,10152,10176,10410,10597
+0,Avg household size of owner-occupied unit,IN,Martin,2.52,2.57,2.55,2.55,2.53,2.58,2.55,2.48,2.51,2.51
+1,Avg household size of renter-occupied unit,IN,Martin,2.33,2.29,2.17,2.06,2.0,1.86,1.86,1.83,1.78,1.85
+36,Owner-Occupied,IN,Martin,8694,8843,8678,8507,8653,8437,8367,8490,8356,8224
+37,Renter-Occupied,IN,Martin,1551,1331,1520,1666,1547,1726,1736,1519,1558,1692
+0,Avg household size of owner-occupied unit,IN,Miami,2.68,2.68,2.66,2.65,2.64,2.61,2.59,2.55,2.47,2.45
+1,Avg household size of renter-occupied unit,IN,Miami,2.49,2.56,2.58,2.6,2.51,2.55,2.46,2.43,2.42,2.52
+36,Owner-Occupied,IN,Miami,27726,27084,26663,26359,25980,25107,24938,24125,24146,23828
+37,Renter-Occupied,IN,Miami,7862,8342,8482,8475,8509,9090,8970,9718,9557,9781
+0,Avg household size of owner-occupied unit,IN,Monroe,2.41,2.38,2.4,2.42,2.46,2.5,2.47,2.47,2.45,2.46
+1,Avg household size of renter-occupied unit,IN,Monroe,2.25,2.16,2.16,2.2,2.22,2.2,2.24,2.22,2.22,2.23
+36,Owner-Occupied,IN,Monroe,68270,69102,70011,70382,71659,72538,72855,73461,74647,76421
+37,Renter-Occupied,IN,Monroe,51790,52164,53414,54675,54904,55317,55634,56052,55737,54762
+0,Avg household size of owner-occupied unit,IN,Montgomery,2.58,2.58,2.58,2.58,2.6,2.56,2.56,2.57,2.52,2.48
+1,Avg household size of renter-occupied unit,IN,Montgomery,2.38,2.49,2.4,2.4,2.36,2.42,2.28,2.2,2.2,2.22
+36,Owner-Occupied,IN,Montgomery,27539,27084,26809,27232,27049,26642,27199,27651,27225,27304
+37,Renter-Occupied,IN,Montgomery,9140,9880,10140,9714,9860,10246,9655,9359,9787,9707
+0,Avg household size of owner-occupied unit,IN,Morgan,2.74,2.72,2.67,2.7,2.72,2.71,2.68,2.66,2.66,2.67
+1,Avg household size of renter-occupied unit,IN,Morgan,2.67,2.6,2.6,2.6,2.62,2.58,2.65,2.65,2.63,2.58
+36,Owner-Occupied,IN,Morgan,54782,54127,53135,52836,52818,52972,52375,52595,52545,53544
+37,Renter-Occupied,IN,Morgan,13238,14096,15217,15684,15799,15616,16278,16040,16229,15361
+0,Avg household size of owner-occupied unit,IN,Newton,2.65,2.7,2.65,2.64,2.69,2.59,2.51,2.49,2.4,2.36
+1,Avg household size of renter-occupied unit,IN,Newton,2.31,2.35,2.56,2.47,2.39,2.47,2.55,2.54,2.77,2.87
+36,Owner-Occupied,IN,Newton,11825,11575,11073,10864,10930,10539,10310,10330,10556,10238
+37,Renter-Occupied,IN,Newton,2274,2548,2967,3114,3024,3310,3500,3507,3242,3529
+0,Avg household size of owner-occupied unit,IN,Noble,2.76,2.69,2.66,2.65,2.64,2.6,2.61,2.63,2.63,2.62
+1,Avg household size of renter-occupied unit,IN,Noble,2.37,2.45,2.58,2.58,2.64,2.52,2.56,2.36,2.43,2.34
+36,Owner-Occupied,IN,Noble,37353,37253,36306,35813,35300,35364,35032,35642,36124,36728
+37,Renter-Occupied,IN,Noble,9362,9506,10470,10911,11404,11371,11765,10990,10537,9982
+0,Avg household size of owner-occupied unit,IN,Ohio,2.43,2.54,2.49,2.56,2.54,2.61,2.56,2.48,2.37,2.35
+1,Avg household size of renter-occupied unit,IN,Ohio,2.42,2.43,2.39,2.28,2.23,2.12,1.98,1.91,2.13,2.05
+36,Owner-Occupied,IN,Ohio,4565,4495,4563,4609,4677,4904,5032,4868,4675,4576
+37,Renter-Occupied,IN,Ohio,1492,1531,1479,1413,1344,1077,918,992,1159,1245
+0,Avg household size of owner-occupied unit,IN,Orange,2.57,2.65,2.68,2.66,2.65,2.64,2.61,2.52,2.46,2.46
+1,Avg household size of renter-occupied unit,IN,Orange,2.12,2.22,2.15,2.2,2.28,2.23,2.18,2.31,2.39,2.37
+36,Owner-Occupied,IN,Orange,15683,15691,15780,15265,15292,15403,15039,14876,14491,14436
+37,Renter-Occupied,IN,Orange,3758,3907,3773,4285,4185,4039,4259,4463,4764,4805
+0,Avg household size of owner-occupied unit,IN,Owen,2.59,2.51,2.48,2.51,2.5,2.46,2.46,2.42,2.35,2.34
+1,Avg household size of renter-occupied unit,IN,Owen,2.54,2.47,2.37,2.33,2.33,2.44,2.33,2.48,2.5,2.41
+36,Owner-Occupied,IN,Owen,17772,17257,16843,16908,16750,16766,16685,16347,16082,16269
+37,Renter-Occupied,IN,Owen,3802,4012,4382,4248,4318,4246,4173,4432,4617,4393
+0,Avg household size of owner-occupied unit,IN,Parke,2.35,2.56,2.61,2.66,2.55,2.58,2.55,2.58,2.59,2.57
+1,Avg household size of renter-occupied unit,IN,Parke,2.56,2.55,2.54,2.68,2.53,2.6,2.42,2.43,2.31,2.51
+36,Owner-Occupied,IN,Parke,12494,13168,13329,13123,12854,12337,12260,12187,12269,12279
+37,Renter-Occupied,IN,Parke,2882,2670,2346,2551,2779,3143,3229,3379,3254,3232
+0,Avg household size of owner-occupied unit,IN,Perry,2.4,2.45,2.49,2.48,2.47,2.45,2.41,2.36,2.42,2.4
+1,Avg household size of renter-occupied unit,IN,Perry,1.98,1.99,1.91,2.1,2.18,2.31,2.35,2.32,2.06,1.92
+36,Owner-Occupied,IN,Perry,14425,14440,14961,14673,14467,14210,13733,13614,14017,14201
+37,Renter-Occupied,IN,Perry,3326,3367,2850,3127,3283,3426,3820,3929,3472,3259
+0,Avg household size of owner-occupied unit,IN,Pike,2.41,2.38,2.42,2.42,2.42,2.46,2.46,2.36,2.38,2.42
+1,Avg household size of renter-occupied unit,IN,Pike,2.26,2.24,2.29,2.52,2.63,2.62,2.62,2.6,2.35,2.14
+36,Owner-Occupied,IN,Pike,10764,10491,10665,10369,10140,10089,10235,9947,10110,10202
+37,Renter-Occupied,IN,Pike,1875,2202,1970,2192,2360,2353,2075,2283,2057,1934
+0,Avg household size of owner-occupied unit,IN,Porter,2.69,2.7,2.73,2.7,2.7,2.7,2.69,2.67,2.67,2.65
+1,Avg household size of renter-occupied unit,IN,Porter,2.27,2.28,2.28,2.37,2.39,2.36,2.36,2.33,2.26,2.27
+36,Owner-Occupied,IN,Porter,128436,128328,129754,128766,128853,129206,128980,127265,128659,128124
+37,Renter-Occupied,IN,Porter,30741,31657,31163,32898,33351,33703,34277,36229,35414,36472
+0,Avg household size of owner-occupied unit,IN,Posey,2.62,2.61,2.58,2.57,2.56,2.58,2.59,2.56,2.57,2.56
+1,Avg household size of renter-occupied unit,IN,Posey,2.24,2.28,2.29,2.29,2.16,2.12,2.13,2.18,2.15,2.17
+36,Owner-Occupied,IN,Posey,22318,22143,22045,21965,21668,21698,21939,21581,21179,21248
+37,Renter-Occupied,IN,Posey,3410,3522,3487,3462,3699,3606,3317,3741,4132,4035
+0,Avg household size of owner-occupied unit,IN,Pulaski,2.61,2.63,2.52,2.6,2.49,2.42,2.39,2.36,2.33,2.38
+1,Avg household size of renter-occupied unit,IN,Pulaski,2.69,2.58,2.87,2.48,2.62,2.68,2.7,2.45,2.65,2.52
+36,Owner-Occupied,IN,Pulaski,10517,10536,10034,10520,9886,9590,9363,9533,9343,9295
+37,Renter-Occupied,IN,Pulaski,2906,2767,3134,2508,3030,3257,3369,3067,3172,3122
+0,Avg household size of owner-occupied unit,IN,Putnam,2.63,2.65,2.61,2.59,2.56,2.49,2.45,2.42,2.42,2.42
+1,Avg household size of renter-occupied unit,IN,Putnam,2.4,2.64,2.62,2.65,2.55,2.62,2.53,2.48,2.34,2.25
+36,Owner-Occupied,IN,Putnam,26162,26316,25760,25414,24530,23184,23421,23497,23395,23451
+37,Renter-Occupied,IN,Putnam,6765,6586,6847,6859,7573,8725,8656,8616,8872,8669
+0,Avg household size of owner-occupied unit,IN,Randolph,2.5,2.45,2.45,2.38,2.37,2.36,2.38,2.37,2.4,2.44
+1,Avg household size of renter-occupied unit,IN,Randolph,2.55,2.58,2.62,2.68,2.54,2.48,2.39,2.34,2.2,2.26
+36,Owner-Occupied,IN,Randolph,19916,19281,18876,18208,18445,18333,18899,18885,19376,19066
+37,Renter-Occupied,IN,Randolph,6097,6595,6888,7413,6986,6880,6117,5929,5319,5480
+0,Avg household size of owner-occupied unit,IN,Ripley,2.7,2.66,2.72,2.74,2.68,2.68,2.64,2.57,2.56,2.6
+1,Avg household size of renter-occupied unit,IN,Ripley,2.44,2.45,2.41,2.25,2.3,2.22,2.33,2.25,2.31,2.35
+36,Owner-Occupied,IN,Ripley,22638,22457,22153,22440,22330,22625,22033,22012,22016,21652
+37,Renter-Occupied,IN,Ripley,5698,5818,6138,5762,5815,5504,6111,5865,5906,6222
+0,Avg household size of owner-occupied unit,IN,Rush,2.67,2.64,2.55,2.47,2.43,2.41,2.5,2.51,2.45,2.43
+1,Avg household size of renter-occupied unit,IN,Rush,2.36,2.38,2.41,2.48,2.48,2.43,2.4,2.41,2.47,2.54
+36,Owner-Occupied,IN,Rush,13192,13030,12515,12197,11947,11966,12124,12143,11745,11574
+37,Renter-Occupied,IN,Rush,4098,4148,4545,4785,4954,4814,4541,4413,4752,4854
+0,Avg household size of owner-occupied unit,IN,St. Joseph,2.61,2.6,2.6,2.58,2.59,2.58,2.63,2.64,2.64,2.63
+1,Avg household size of renter-occupied unit,IN,St. Joseph,2.28,2.28,2.29,2.31,2.32,2.33,2.34,2.35,2.32,2.31
+36,Owner-Occupied,IN,St. Joseph,187837,185801,184508,182605,180112,180515,180304,180604,181422,182870
+37,Renter-Occupied,IN,St. Joseph,65425,67539,69296,71585,74659,74969,75354,75882,75575,74742
+0,Avg household size of owner-occupied unit,IN,Scott,2.58,2.68,2.7,2.71,2.71,2.68,2.7,2.63,2.58,2.64
+1,Avg household size of renter-occupied unit,IN,Scott,2.48,2.42,2.44,2.53,2.42,2.43,2.48,2.61,2.63,2.52
+36,Owner-Occupied,IN,Scott,18156,18242,17937,17686,17407,17434,17524,17546,16914,17026
+37,Renter-Occupied,IN,Scott,5532,5572,5806,6039,6154,5984,5839,5807,6445,6335
+0,Avg household size of owner-occupied unit,IN,Shelby,2.61,2.62,2.64,2.62,2.6,2.57,2.56,2.5,2.47,2.46
+1,Avg household size of renter-occupied unit,IN,Shelby,2.3,2.22,2.32,2.38,2.34,2.48,2.44,2.41,2.46,2.42
+36,Owner-Occupied,IN,Shelby,33384,32897,32667,31970,32053,31949,31949,32349,32024,32188
+37,Renter-Occupied,IN,Shelby,10170,10732,11070,11833,11677,11794,11744,11270,11652,11516
+0,Avg household size of owner-occupied unit,IN,Spencer,2.64,2.63,2.61,2.65,2.66,2.61,2.55,2.54,2.53,2.54
+1,Avg household size of renter-occupied unit,IN,Spencer,2.1,2.14,2.28,2.3,2.34,2.42,2.48,2.39,2.33,2.22
+36,Owner-Occupied,IN,Spencer,17859,17798,17302,17349,17164,17102,16822,16845,16640,16873
+37,Renter-Occupied,IN,Spencer,2811,2845,3320,3287,3409,3436,3657,3475,3596,3281
+0,Avg household size of owner-occupied unit,IN,Starke,2.59,2.56,2.55,2.56,2.53,2.59,2.58,2.58,2.6,2.67
+1,Avg household size of renter-occupied unit,IN,Starke,2.49,2.46,2.58,2.66,2.71,2.79,2.89,2.71,2.69,2.7
+36,Owner-Occupied,IN,Starke,18599,18489,18421,18627,18286,18415,18246,18180,17948,18311
+37,Renter-Occupied,IN,Starke,4506,4565,4693,4491,4825,4645,4765,4726,4933,4580
+0,Avg household size of owner-occupied unit,IN,Steuben,2.47,2.45,2.46,2.49,2.49,2.48,2.5,2.46,2.39,2.34
+1,Avg household size of renter-occupied unit,IN,Steuben,2.13,2.05,2.21,2.26,2.33,2.29,2.27,2.19,2.18,2.24
+36,Owner-Occupied,IN,Steuben,27159,26870,26590,26026,25883,25898,25819,26390,26198,25994
+37,Renter-Occupied,IN,Steuben,6240,6111,6332,6922,6975,6949,7085,6703,6940,7105
+0,Avg household size of owner-occupied unit,IN,Sullivan,2.44,2.48,2.48,2.54,2.51,2.55,2.54,2.57,2.56,2.58
+1,Avg household size of renter-occupied unit,IN,Sullivan,2.32,2.48,2.25,2.24,2.33,2.27,2.22,2.21,2.04,2.0
+36,Owner-Occupied,IN,Sullivan,15127,15139,14480,14236,14258,14252,14006,14205,14506,14650
+37,Renter-Occupied,IN,Sullivan,4259,4321,4590,4832,4768,4645,4873,4587,4162,3910
+0,Avg household size of owner-occupied unit,IN,Switzerland,2.5,2.48,2.52,2.45,2.45,2.44,2.4,2.36,2.42,2.46
+1,Avg household size of renter-occupied unit,IN,Switzerland,2.66,2.6,2.88,2.85,2.85,2.83,2.85,2.72,2.52,2.35
+36,Owner-Occupied,IN,Switzerland,8228,8098,8013,7657,7206,7091,6932,7096,7666,8012
+37,Renter-Occupied,IN,Switzerland,2037,2289,2395,2769,3194,3292,3441,3413,2856,2571
+0,Avg household size of owner-occupied unit,IN,Tippecanoe,2.56,2.58,2.59,2.58,2.57,2.61,2.63,2.64,2.68,2.67
+1,Avg household size of renter-occupied unit,IN,Tippecanoe,2.18,2.21,2.22,2.24,2.31,2.28,2.27,2.28,2.3,2.23
+36,Owner-Occupied,IN,Tippecanoe,91596,91840,93747,93411,92542,93525,95585,98401,100542,103878
+37,Renter-Occupied,IN,Tippecanoe,61897,65167,65724,68380,71437,73032,72240,71696,72572,70777
+0,Avg household size of owner-occupied unit,IN,Tipton,2.4,2.4,2.35,2.37,2.41,2.42,2.4,2.39,2.44,2.39
+1,Avg household size of renter-occupied unit,IN,Tipton,2.26,2.28,2.35,2.3,2.32,2.33,2.3,2.26,2.13,2.11
+36,Owner-Occupied,IN,Tipton,12510,12549,12411,12133,12045,12049,12157,12144,12386,12465
+37,Renter-Occupied,IN,Tipton,3237,3197,3254,3474,3420,3299,3064,2918,2603,2460
+0,Avg household size of owner-occupied unit,IN,Union,2.51,2.5,2.54,2.56,2.62,2.55,2.46,2.45,2.33,2.35
+1,Avg household size of renter-occupied unit,IN,Union,2.68,2.34,2.18,2.25,2.02,2.15,2.46,2.66,2.89,2.88
+36,Owner-Occupied,IN,Union,5815,5858,5911,5742,5834,5441,5220,5077,4706,4770
+37,Renter-Occupied,IN,Union,1648,1508,1431,1579,1460,1789,1964,2084,2382,2280
+0,Avg household size of owner-occupied unit,IN,Vanderburgh,2.45,2.45,2.43,2.45,2.43,2.45,2.46,2.43,2.43,2.4
+1,Avg household size of renter-occupied unit,IN,Vanderburgh,2.08,2.12,2.14,2.15,2.17,2.16,2.18,2.18,2.13,2.13
+36,Owner-Occupied,IN,Vanderburgh,118062,115941,115680,115401,114777,115248,115007,116428,117458,117795
+37,Renter-Occupied,IN,Vanderburgh,53812,56355,57036,57790,58936,58907,59778,58661,57243,56836
+0,Avg household size of owner-occupied unit,IN,Vermillion,2.46,2.52,2.44,2.43,2.44,2.43,2.4,2.4,2.36,2.34
+1,Avg household size of renter-occupied unit,IN,Vermillion,2.15,2.38,2.44,2.5,2.32,2.27,2.2,2.25,2.21,2.17
+36,Owner-Occupied,IN,Vermillion,12783,12471,12178,12289,12536,12096,12025,11747,11374,11427
+37,Renter-Occupied,IN,Vermillion,3098,3537,3733,3523,3161,3536,3502,3670,3958,3883
+0,Avg household size of owner-occupied unit,IN,Vigo,2.53,2.58,2.54,2.59,2.59,2.55,2.54,2.54,2.51,2.49
+1,Avg household size of renter-occupied unit,IN,Vigo,2.21,2.25,2.35,2.32,2.31,2.29,2.24,2.17,2.13,2.14
+36,Owner-Occupied,IN,Vigo,67439,67254,65957,65484,64074,62564,63179,63354,64424,64691
+37,Renter-Occupied,IN,Vigo,30566,30826,32441,33147,34712,36225,35593,35241,34563,34278
+0,Avg household size of owner-occupied unit,IN,Wabash,2.45,2.45,2.46,2.47,2.44,2.41,2.42,2.38,2.39,2.34
+1,Avg household size of renter-occupied unit,IN,Wabash,2.13,2.22,2.23,2.23,2.23,2.22,2.22,2.12,2.08,2.15
+36,Owner-Occupied,IN,Wabash,24891,23948,23737,23880,23594,22995,23036,22803,22553,22282
+37,Renter-Occupied,IN,Wabash,6135,7093,7069,6759,6897,7412,7194,7114,7176,7189
+0,Avg household size of owner-occupied unit,IN,Warren,2.63,2.56,2.63,2.58,2.58,2.56,2.49,2.39,2.42,2.4
+1,Avg household size of renter-occupied unit,IN,Warren,2.18,2.41,2.43,2.43,2.23,2.28,2.37,2.54,2.34,2.55
+36,Owner-Occupied,IN,Warren,6751,6718,6531,6496,6700,6809,6881,6799,6882,6765
+37,Renter-Occupied,IN,Warren,1605,1699,1856,1870,1628,1466,1341,1383,1279,1382
+0,Avg household size of owner-occupied unit,IN,Warrick,2.69,2.68,2.7,2.72,2.71,2.68,2.65,2.63,2.58,2.57
+1,Avg household size of renter-occupied unit,IN,Warrick,2.21,2.24,2.3,2.28,2.28,2.41,2.42,2.27,2.28,2.28
+36,Owner-Occupied,IN,Warrick,49859,50323,49890,50888,51177,50123,49628,50306,49782,49468
+37,Renter-Occupied,IN,Warrick,7933,8074,9030,8536,8603,10088,11008,10482,11352,12021
+0,Avg household size of owner-occupied unit,IN,Washington,2.67,2.64,2.65,2.67,2.7,2.69,2.72,2.72,2.66,2.67
+1,Avg household size of renter-occupied unit,IN,Washington,2.27,2.42,2.33,2.39,2.42,2.39,2.25,2.24,2.27,1.99
+36,Owner-Occupied,IN,Washington,22839,22487,23043,22759,22374,21788,21936,21834,21739,22742
+37,Renter-Occupied,IN,Washington,5107,5422,4820,5011,5350,5853,5575,5689,5806,4826
+0,Avg household size of owner-occupied unit,IN,Wayne,2.46,2.42,2.39,2.36,2.38,2.39,2.46,2.49,2.46,2.44
+1,Avg household size of renter-occupied unit,IN,Wayne,2.25,2.25,2.26,2.29,2.3,2.42,2.36,2.33,2.28,2.28
+36,Owner-Occupied,IN,Wayne,47140,46402,45409,44463,44653,44404,44415,44247,44241,43492
+37,Renter-Occupied,IN,Wayne,19780,19996,20729,21432,21051,20747,20357,20056,19674,20097
+0,Avg household size of owner-occupied unit,IN,Wells,2.67,2.65,2.62,2.59,2.57,2.58,2.6,2.59,2.63,2.6
+1,Avg household size of renter-occupied unit,IN,Wells,1.99,2.08,2.11,2.15,2.14,2.23,2.21,2.1,2.09,2.23
+36,Owner-Occupied,IN,Wells,22365,22373,22231,22095,22380,22707,22619,22540,22719,22293
+37,Renter-Occupied,IN,Wells,4696,4844,4931,5094,4833,4559,4676,4739,4658,5127
+0,Avg household size of owner-occupied unit,IN,White,2.41,2.49,2.51,2.54,2.55,2.54,2.48,2.48,2.46,2.46
+1,Avg household size of renter-occupied unit,IN,White,2.43,2.46,2.57,2.53,2.57,2.49,2.47,2.43,2.43,2.24
+36,Owner-Occupied,IN,White,18848,18821,18460,18544,18503,18713,18723,18867,18740,18869
+37,Renter-Occupied,IN,White,5486,5498,5782,5655,5660,5366,5241,5109,5176,4979
+0,Avg household size of owner-occupied unit,IN,Whitley,2.56,2.59,2.61,2.6,2.6,2.57,2.56,2.51,2.49,2.46
+1,Avg household size of renter-occupied unit,IN,Whitley,2.02,1.98,1.97,2.08,2.1,2.16,2.21,2.24,2.24,2.24
+36,Owner-Occupied,IN,Whitley,28194,28232,28480,27838,27729,27866,27084,26871,28103,27809
+37,Renter-Occupied,IN,Whitley,4487,4457,4293,4983,5124,5011,5824,6166,5105,5485
+0,Avg household size of owner-occupied unit,IN,Adams,2.91,2.93,2.92,2.99,3.02,3.01,2.99,2.99,2.99,3.01
+1,Avg household size of renter-occupied unit,IN,Adams,2.22,2.15,2.05,2.1,1.99,2.02,2.14,2.05,2.05,2.05
+36,Owner-Occupied,IN,Adams,27870,28493,28871,28555,28761,28755,28043,28374,28802,28931
+37,Renter-Occupied,IN,Adams,5898,5354,5017,5375,5247,5331,6200,6079,5821,5863
+0,Avg household size of owner-occupied unit,IN,Allen,2.68,2.69,2.66,2.66,2.66,2.66,2.66,2.65,2.67,2.66
+1,Avg household size of renter-occupied unit,IN,Allen,2.21,2.24,2.29,2.3,2.3,2.29,2.29,2.29,2.27,2.25
+36,Owner-Occupied,IN,Allen,257504,258648,256769,257140,257311,257536,257721,258604,261158,263862
+37,Renter-Occupied,IN,Allen,88315,89496,93616,95711,98014,100227,102182,103480,103189,103122
+0,Avg household size of owner-occupied unit,IN,Bartholomew,2.55,2.54,2.56,2.59,2.57,2.6,2.61,2.6,2.61,2.66
+1,Avg household size of renter-occupied unit,IN,Bartholomew,2.36,2.44,2.47,2.5,2.48,2.49,2.42,2.41,2.43,2.42
+36,Owner-Occupied,IN,Bartholomew,55286,55367,55656,55086,54761,56230,56757,58028,58848,59769
+37,Renter-Occupied,IN,Bartholomew,19394,20142,20654,21817,22838,22262,22475,21993,22104,21742
+0,Avg household size of owner-occupied unit,IN,Benton,2.51,2.51,2.55,2.55,2.56,2.62,2.56,2.53,2.52,2.45
+1,Avg household size of renter-occupied unit,IN,Benton,2.35,2.16,2.4,2.44,2.38,2.27,2.46,2.48,2.5,2.63
+36,Owner-Occupied,IN,Benton,7043,6879,6612,6548,6336,6355,6302,6360,6173,6220
+37,Renter-Occupied,IN,Benton,1777,1804,2076,2149,2349,2273,2283,2200,2373,2341
+0,Avg household size of owner-occupied unit,IN,Blackford,2.46,2.45,2.41,2.42,2.41,2.42,2.44,2.4,2.38,2.36
+1,Avg household size of renter-occupied unit,IN,Blackford,2.16,2.22,2.27,2.36,2.23,2.18,2.08,2.06,2.02,1.98
+36,Owner-Occupied,IN,Blackford,10363,9887,9562,9435,9616,9363,9367,9531,9414,9229
+37,Renter-Occupied,IN,Blackford,2552,2775,2999,3056,2788,2941,2832,2523,2555,2628
+0,Avg household size of owner-occupied unit,IN,Boone,2.71,2.77,2.76,2.8,2.81,2.77,2.79,2.76,2.74,2.71
+1,Avg household size of renter-occupied unit,IN,Boone,2.12,2.05,2.06,2.05,2.08,2.11,2.07,2.0,2.07,1.98
+36,Owner-Occupied,IN,Boone,44529,45817,46272,47046,47793,48235,49648,50627,51804,53360
+37,Renter-Occupied,IN,Boone,9223,9353,10002,10417,10874,11671,11607,11749,11869,11520
+0,Avg household size of owner-occupied unit,IN,Brown,2.57,2.44,2.41,2.51,2.45,2.36,2.45,2.45,2.45,2.44
+1,Avg household size of renter-occupied unit,IN,Brown,2.55,2.73,2.74,2.73,2.83,2.76,2.65,2.59,2.41,2.23
+36,Owner-Occupied,IN,Brown,12884,12612,12140,12255,11725,11408,11640,12309,12480,12769
+37,Renter-Occupied,IN,Brown,2299,2461,2892,2729,3210,3464,3185,2557,2415,2156
+0,Avg household size of owner-occupied unit,IN,Carroll,2.5,2.48,2.47,2.51,2.57,2.57,2.57,2.57,2.56,2.53
+1,Avg household size of renter-occupied unit,IN,Carroll,2.39,2.34,2.47,2.44,2.44,2.49,2.52,2.41,2.37,2.35
+36,Owner-Occupied,IN,Carroll,15997,15915,15586,15824,16114,16112,16170,16437,16294,16320
+37,Renter-Occupied,IN,Carroll,3922,3993,4343,4133,3818,3780,3717,3439,3581,3635
+0,Avg household size of owner-occupied unit,IN,Cass,2.51,2.6,2.6,2.61,2.57,2.59,2.55,2.5,2.52,2.53
+1,Avg household size of renter-occupied unit,IN,Cass,2.49,2.41,2.43,2.33,2.47,2.5,2.59,2.52,2.51,2.4
+36,Owner-Occupied,IN,Cass,28470,28957,29405,29305,28328,28467,28072,27347,27448,27435
+37,Renter-Occupied,IN,Cass,9120,8833,8298,8344,9279,8950,9171,9789,9442,9187
+0,Avg household size of owner-occupied unit,IN,Clark,2.53,2.58,2.62,2.67,2.67,2.66,2.68,2.65,2.65,2.66
+1,Avg household size of renter-occupied unit,IN,Clark,2.25,2.3,2.31,2.36,2.36,2.43,2.42,2.43,2.4,2.43
+36,Owner-Occupied,IN,Clark,78072,78871,80428,81131,81914,81361,82301,82718,82590,83752
+37,Renter-Occupied,IN,Clark,28013,28451,28115,28489,28668,30104,29899,30325,31356,31029
+0,Avg household size of owner-occupied unit,IN,Clay,2.61,2.62,2.59,2.58,2.57,2.56,2.48,2.46,2.46,2.43
+1,Avg household size of renter-occupied unit,IN,Clay,2.57,2.65,2.75,2.64,2.63,2.5,2.49,2.31,2.44,2.45
+36,Owner-Occupied,IN,Clay,21220,21179,20548,20084,19877,19897,19624,20177,19875,19902
+37,Renter-Occupied,IN,Clay,5500,5438,6021,6429,6560,6413,6532,5745,5910,5805
+0,Avg household size of owner-occupied unit,IN,Clinton,2.78,2.77,2.81,2.77,2.75,2.75,2.73,2.7,2.71,2.72
+1,Avg household size of renter-occupied unit,IN,Clinton,2.54,2.59,2.7,2.73,2.68,2.8,2.7,2.57,2.45,2.42
+36,Owner-Occupied,IN,Clinton,24326,24122,23671,23481,23387,23186,23278,23065,23328,23089
+37,Renter-Occupied,IN,Clinton,8029,8404,8836,8944,8948,8987,8774,8764,8359,8581
+0,Avg household size of owner-occupied unit,IN,Crawford,2.49,2.53,2.51,2.51,2.55,2.59,2.6,2.63,2.67,2.73
+1,Avg household size of renter-occupied unit,IN,Crawford,2.33,2.37,2.38,2.39,2.45,2.46,2.46,2.58,2.7,2.72
+36,Owner-Occupied,IN,Crawford,9051,9037,8824,8714,8624,8404,8591,8762,8659,8649
+37,Renter-Occupied,IN,Crawford,1641,1589,1754,1821,1912,2090,1890,1734,1822,1816
+0,Avg household size of owner-occupied unit,IN,Daviess,2.91,2.96,2.93,2.96,2.86,2.89,2.92,2.95,2.98,3.1
+1,Avg household size of renter-occupied unit,IN,Daviess,2.37,2.31,2.4,2.35,2.47,2.49,2.43,2.41,2.43,2.35
+36,Owner-Occupied,IN,Daviess,25467,25396,24978,25071,24324,23964,24627,24973,24987,25554
+37,Renter-Occupied,IN,Daviess,5342,5477,6135,6337,7285,7881,7387,7230,7374,6990
+0,Avg household size of owner-occupied unit,IN,Dearborn,2.79,2.81,2.8,2.72,2.69,2.67,2.67,2.67,2.7,2.63
+1,Avg household size of renter-occupied unit,IN,Dearborn,2.33,2.24,2.24,2.46,2.45,2.48,2.45,2.44,2.35,2.42
+36,Owner-Occupied,IN,Dearborn,39500,39597,39806,38865,39541,39164,39346,39481,39658,39584
+37,Renter-Occupied,IN,Dearborn,9731,9612,9463,10482,9675,9894,9602,9497,9260,9318
+0,Avg household size of owner-occupied unit,IN,Decatur,2.55,2.61,2.63,2.65,2.67,2.61,2.58,2.58,2.6,2.62
+1,Avg household size of renter-occupied unit,IN,Decatur,2.43,2.39,2.44,2.53,2.52,2.46,2.53,2.38,2.31,2.31
+36,Owner-Occupied,IN,Decatur,18275,18041,18347,18343,18644,18486,18487,18563,18710,18966
+37,Renter-Occupied,IN,Decatur,6805,7322,7099,7258,7121,7388,7482,7542,7460,7206
+0,Avg household size of owner-occupied unit,IN,DeKalb,2.68,2.67,2.65,2.69,2.66,2.7,2.74,2.69,2.64,2.61
+1,Avg household size of renter-occupied unit,IN,DeKalb,2.26,2.23,2.17,2.28,2.27,2.18,2.09,2.2,2.12,2.27
+36,Owner-Occupied,IN,DeKalb,34235,34378,34309,33971,34114,33787,34012,33613,33895,33359
+37,Renter-Occupied,IN,DeKalb,7183,7296,7434,7795,7702,8162,7987,8429,8344,9118
+0,Avg household size of owner-occupied unit,IN,Delaware,2.41,2.4,2.42,2.4,2.4,2.43,2.4,2.37,2.39,2.36
+1,Avg household size of renter-occupied unit,IN,Delaware,2.3,2.32,2.29,2.31,2.31,2.34,2.31,2.3,2.29,2.3
+36,Owner-Occupied,IN,Delaware,73908,73043,72208,70816,70411,70933,70593,70607,71006,68929
+37,Renter-Occupied,IN,Delaware,35632,36480,37097,38684,39134,38739,38378,38049,37373,38722
+0,Avg household size of owner-occupied unit,IN,Dubois,2.63,2.68,2.66,2.67,2.66,2.59,2.6,2.61,2.59,2.56
+1,Avg household size of renter-occupied unit,IN,Dubois,2.15,2.22,2.3,2.32,2.33,2.42,2.32,2.15,2.2,2.1
+36,Owner-Occupied,IN,Dubois,33110,33095,32852,33134,33022,31800,32569,33232,33417,33699
+37,Renter-Occupied,IN,Dubois,7113,7938,8235,8038,8190,9515,8807,8169,8004,7835
+0,Avg household size of owner-occupied unit,IN,Elkhart,2.86,2.84,2.84,2.86,2.86,2.87,2.89,2.86,2.85,2.9
+1,Avg household size of renter-occupied unit,IN,Elkhart,2.55,2.58,2.6,2.6,2.61,2.63,2.58,2.6,2.58,2.58
+36,Owner-Occupied,IN,Elkhart,145667,145585,143810,143282,141392,140520,140876,140943,141868,145009
+37,Renter-Occupied,IN,Elkhart,48691,48594,50878,51858,54631,56573,57231,58449,58180,55955
+0,Avg household size of owner-occupied unit,IN,Fayette,2.47,2.52,2.5,2.52,2.57,2.53,2.46,2.43,2.4,2.4
+1,Avg household size of renter-occupied unit,IN,Fayette,2.3,2.36,2.36,2.35,2.4,2.43,2.47,2.46,2.36,2.32
+36,Owner-Occupied,IN,Fayette,18071,17714,17297,17329,16731,16290,16017,15761,15956,15998
+37,Renter-Occupied,IN,Fayette,5898,6055,6391,6275,6757,7077,7176,7239,6874,6765
+0,Avg household size of owner-occupied unit,IN,Floyd,2.58,2.57,2.59,2.61,2.64,2.65,2.68,2.69,2.69,2.71
+1,Avg household size of renter-occupied unit,IN,Floyd,2.28,2.36,2.33,2.38,2.33,2.36,2.33,2.32,2.26,2.31
+36,Owner-Occupied,IN,Floyd,54624,54362,54669,54403,55300,55696,55939,56472,57146,57660
+37,Renter-Occupied,IN,Floyd,17799,18689,18814,19561,18925,18959,19072,18701,18313,18258
+0,Avg household size of owner-occupied unit,IN,Fountain,2.47,2.44,2.5,2.47,2.47,2.46,2.46,2.4,2.36,2.36
+1,Avg household size of renter-occupied unit,IN,Fountain,2.44,2.53,2.38,2.34,2.32,2.23,2.15,2.2,2.22,2.23
+36,Owner-Occupied,IN,Fountain,13584,13597,13509,13096,12859,12784,12634,12429,12585,12554
+37,Renter-Occupied,IN,Fountain,3531,3469,3500,3817,3959,3929,3916,3998,3724,3714
+0,Avg household size of owner-occupied unit,IN,Franklin,2.85,2.77,2.73,2.76,2.68,2.62,2.62,2.61,2.63,2.61
+1,Avg household size of renter-occupied unit,IN,Franklin,2.36,2.23,2.43,2.29,2.3,2.35,2.54,2.34,2.43,2.57
+36,Owner-Occupied,IN,Franklin,18716,19080,18661,18758,18647,18540,18010,18562,18647,19022
+37,Renter-Occupied,IN,Franklin,4199,3832,4195,4044,4101,4183,4673,4077,4009,3584

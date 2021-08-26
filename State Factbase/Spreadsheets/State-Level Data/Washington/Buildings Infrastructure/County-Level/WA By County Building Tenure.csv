@@ -1,0 +1,157 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,WA,Adams,3.06,3.16,3.23,3.27,3.19,3.24,3.24,3.23,3.21,3.16
+1,Avg household size of renter-occupied unit,WA,Adams,3.31,3.19,3.13,3.14,3.23,3.25,3.38,3.32,3.36,3.36
+36,Owner-Occupied,WA,Adams,10950,11273,11823,12351,12046,12262,12562,12080,11968,11925
+37,Renter-Occupied,WA,Adams,6686,6697,6444,6150,6617,6545,6262,6908,7219,7407
+0,Avg household size of owner-occupied unit,WA,Asotin,2.41,2.4,2.37,2.42,2.26,2.28,2.31,2.33,2.36,2.44
+1,Avg household size of renter-occupied unit,WA,Asotin,2.22,2.33,2.3,2.27,2.4,2.46,2.46,2.52,2.53,2.44
+36,Owner-Occupied,WA,Asotin,15459,15178,14610,14776,14257,14261,14343,15244,15236,15683
+37,Renter-Occupied,WA,Asotin,5721,5918,6665,6693,7418,7571,7557,6801,6876,6507
+0,Avg household size of owner-occupied unit,WA,Benton,2.77,2.78,2.77,2.77,2.77,2.78,2.75,2.72,2.76,2.78
+1,Avg household size of renter-occupied unit,WA,Benton,2.44,2.47,2.5,2.56,2.58,2.59,2.64,2.61,2.61,2.58
+36,Owner-Occupied,WA,Benton,119634,122471,123878,123774,125277,126346,128695,130382,133918,137946
+37,Renter-Occupied,WA,Benton,45924,47471,50022,53620,55073,56763,57010,58481,58652,58007
+0,Avg household size of owner-occupied unit,WA,Chelan,2.66,2.61,2.58,2.53,2.51,2.54,2.61,2.66,2.69,2.69
+1,Avg household size of renter-occupied unit,WA,Chelan,2.54,2.64,2.73,2.83,2.96,3.0,2.87,2.77,2.58,2.55
+36,Owner-Occupied,WA,Chelan,48205,46577,46196,44943,44413,45187,46706,47902,49682,49110
+37,Renter-Occupied,WA,Chelan,21642,23815,24867,26781,28052,27873,26795,25948,24762,25762
+0,Avg household size of owner-occupied unit,WA,Clallam,2.24,2.27,2.28,2.3,2.28,2.25,2.25,2.19,2.2,2.26
+1,Avg household size of renter-occupied unit,WA,Clallam,2.15,2.13,2.2,2.23,2.29,2.32,2.37,2.35,2.34,2.25
+36,Owner-Occupied,WA,Clallam,49341,50218,50050,49473,49045,49266,49296,49245,50877,52318
+37,Renter-Occupied,WA,Clallam,19269,19065,19705,20780,21653,21976,22505,23040,22451,21923
+0,Avg household size of owner-occupied unit,WA,Clark,2.73,2.74,2.75,2.76,2.76,2.76,2.77,2.76,2.74,2.74
+1,Avg household size of renter-occupied unit,WA,Clark,2.48,2.5,2.52,2.59,2.61,2.63,2.62,2.6,2.59,2.57
+36,Owner-Occupied,WA,Clark,286707,288787,287105,284839,287430,287888,295005,304361,312844,320613
+37,Renter-Occupied,WA,Clark,124064,129029,136437,144153,147173,152757,151956,149092,148465,148488
+0,Avg household size of owner-occupied unit,WA,Columbia,2.37,2.26,2.37,2.46,2.34,2.33,2.24,2.11,2.2,2.17
+1,Avg household size of renter-occupied unit,WA,Columbia,2.03,1.98,2.04,2.19,2.22,2.26,2.44,2.49,2.28,2.2
+36,Owner-Occupied,WA,Columbia,2972,2983,3082,2990,2992,2896,2713,2639,2662,2646
+37,Renter-Occupied,WA,Columbia,975,929,837,953,947,1001,1162,1269,1251,1267
+0,Avg household size of owner-occupied unit,WA,Cowlitz,2.54,2.51,2.5,2.55,2.52,2.53,2.58,2.57,2.57,2.59
+1,Avg household size of renter-occupied unit,WA,Cowlitz,2.43,2.54,2.61,2.54,2.56,2.57,2.53,2.41,2.4,2.38
+36,Owner-Occupied,WA,Cowlitz,67360,67339,65718,66861,66296,65964,67296,69333,70135,71676
+37,Renter-Occupied,WA,Cowlitz,31368,33029,35006,33936,34557,35165,34335,32999,33695,33839
+0,Avg household size of owner-occupied unit,WA,Douglas,2.66,2.66,2.67,2.68,2.65,2.69,2.73,2.71,2.72,2.71
+1,Avg household size of renter-occupied unit,WA,Douglas,2.73,2.76,2.78,2.91,2.99,2.95,2.88,2.79,2.71,2.78
+36,Owner-Occupied,WA,Douglas,26435,26637,26670,26615,26921,27437,27813,28018,28625,28377
+37,Renter-Occupied,WA,Douglas,10607,10788,11303,11819,11904,11826,11940,12206,12377,13268
+0,Avg household size of owner-occupied unit,WA,Ferry,2.74,2.52,2.48,2.43,2.39,2.43,2.5,2.43,2.42,2.47
+1,Avg household size of renter-occupied unit,WA,Ferry,2.69,2.67,2.66,2.61,2.34,2.27,2.29,2.35,2.26,2.26
+36,Owner-Occupied,WA,Ferry,5307,5342,5090,5167,5260,5372,5369,5234,5500,5434
+37,Renter-Occupied,WA,Ferry,2066,1885,2190,2158,2123,2033,2040,2121,1870,1939
+0,Avg household size of owner-occupied unit,WA,Franklin,3.33,3.4,3.41,3.39,3.37,3.31,3.33,3.31,3.3,3.31
+1,Avg household size of renter-occupied unit,WA,Franklin,3.21,3.26,3.32,3.47,3.5,3.59,3.54,3.48,3.49,3.46
+36,Owner-Occupied,WA,Franklin,47634,50307,51053,53264,54720,54927,56903,58981,59612,60517
+37,Renter-Occupied,WA,Franklin,22827,23535,26144,26884,27828,29212,28623,27868,28765,29184
+0,Avg household size of owner-occupied unit,WA,Garfield,2.21,2.13,2.01,2.06,2.35,2.33,2.36,2.27,2.33,2.32
+1,Avg household size of renter-occupied unit,WA,Garfield,2.86,2.75,2.67,2.93,2.66,2.25,2.19,2.01,1.93,2.06
+36,Owner-Occupied,WA,Garfield,1454,1519,1476,1530,1597,1512,1593,1576,1626,1630
+37,Renter-Occupied,WA,Garfield,703,673,716,670,598,683,610,627,575,578
+0,Avg household size of owner-occupied unit,WA,Grant,2.83,2.81,2.8,2.87,2.85,2.84,2.95,2.92,2.98,3.0
+1,Avg household size of renter-occupied unit,WA,Grant,2.86,2.97,3.09,3.11,3.19,3.23,3.27,3.21,3.2,3.18
+36,Owner-Occupied,WA,Grant,52050,50833,51204,52122,51783,52257,53814,55202,56398,57803
+37,Renter-Occupied,WA,Grant,31469,35117,36458,36856,38490,38762,37678,37208,37496,36765
+0,Avg household size of owner-occupied unit,WA,Grays Harbor,2.46,2.5,2.44,2.47,2.45,2.44,2.43,2.46,2.49,2.51
+1,Avg household size of renter-occupied unit,WA,Grays Harbor,2.5,2.55,2.57,2.63,2.64,2.67,2.58,2.41,2.34,2.28
+36,Owner-Occupied,WA,Grays Harbor,47544,48150,47108,46842,46190,45009,44798,45537,46690,48249
+37,Renter-Occupied,WA,Grays Harbor,22033,21251,22116,22114,22377,23431,23372,22907,22326,21572
+0,Avg household size of owner-occupied unit,WA,Island,2.32,2.35,2.34,2.33,2.35,2.33,2.33,2.3,2.33,2.32
+1,Avg household size of renter-occupied unit,WA,Island,2.23,2.24,2.29,2.33,2.35,2.34,2.35,2.3,2.27,2.29
+36,Owner-Occupied,WA,Island,56584,55963,54380,53473,52814,52302,52289,53219,55539,57586
+37,Renter-Occupied,WA,Island,19238,20963,22721,23567,24285,24998,25778,24901,23985,22749
+0,Avg household size of owner-occupied unit,WA,Jefferson,2.05,2.01,2.06,2.1,2.15,2.15,2.16,2.12,2.08,2.08
+1,Avg household size of renter-occupied unit,WA,Jefferson,1.93,1.98,2.01,2.11,2.14,2.29,2.21,2.18,2.2,2.06
+36,Owner-Occupied,WA,Jefferson,21497,21000,21231,21233,21773,21618,21703,21667,21674,22681
+37,Renter-Occupied,WA,Jefferson,7193,7924,7756,7805,7335,7663,7817,8051,8378,7800
+0,Avg household size of owner-occupied unit,WA,King,2.55,2.56,2.58,2.59,2.61,2.62,2.63,2.62,2.64,2.64
+1,Avg household size of renter-occupied unit,WA,King,2.07,2.09,2.13,2.17,2.2,2.22,2.22,2.22,2.21,2.2
+36,Owner-Occupied,WA,King,1196751,1205980,1209890,1209922,1214925,1234514,1253015,1278811,1306015,1324591
+37,Renter-Occupied,WA,King,648649,668227,696187,729328,758211,774932,790192,803139,820652,833650
+0,Avg household size of owner-occupied unit,WA,Kitsap,2.61,2.57,2.55,2.55,2.55,2.57,2.58,2.57,2.59,2.56
+1,Avg household size of renter-occupied unit,WA,Kitsap,2.35,2.37,2.4,2.43,2.44,2.47,2.47,2.39,2.35,2.31
+36,Owner-Occupied,WA,Kitsap,171047,168459,169365,168201,167067,168718,171053,172089,175555,180625
+37,Renter-Occupied,WA,Kitsap,71096,74088,75093,77292,79316,79287,79282,79742,79928,77202
+0,Avg household size of owner-occupied unit,WA,Kittitas,2.4,2.41,2.41,2.36,2.37,2.4,2.48,2.44,2.47,2.47
+1,Avg household size of renter-occupied unit,WA,Kittitas,2.1,2.14,2.26,2.34,2.31,2.27,2.18,2.19,2.2,2.22
+36,Owner-Occupied,WA,Kittitas,22548,22898,22311,22128,22740,23405,23599,24865,25555,26752
+37,Renter-Occupied,WA,Kittitas,15181,15280,16337,16758,16540,16322,16679,16368,16787,16610
+0,Avg household size of owner-occupied unit,WA,Klickitat,2.27,2.38,2.39,2.45,2.53,2.62,2.62,2.63,2.54,2.42
+1,Avg household size of renter-occupied unit,WA,Klickitat,2.59,2.56,2.52,2.71,2.65,2.6,2.43,2.34,2.34,2.42
+36,Owner-Occupied,WA,Klickitat,13357,13555,13465,13746,13809,14159,14276,14664,14409,14610
+37,Renter-Occupied,WA,Klickitat,6559,6458,6710,6546,6608,6405,6402,6257,6739,6859
+0,Avg household size of owner-occupied unit,WA,Lewis,2.55,2.54,2.57,2.54,2.52,2.53,2.54,2.47,2.51,2.54
+1,Avg household size of renter-occupied unit,WA,Lewis,2.45,2.44,2.44,2.48,2.53,2.5,2.53,2.54,2.5,2.45
+36,Owner-Occupied,WA,Lewis,53833,53178,52432,51444,50355,50346,50848,51064,52906,54982
+37,Renter-Occupied,WA,Lewis,19954,21115,22071,22979,23978,24038,23742,23816,22911,22024
+0,Avg household size of owner-occupied unit,WA,Lincoln,2.27,2.26,2.28,2.38,2.37,2.39,2.38,2.34,2.33,2.34
+1,Avg household size of renter-occupied unit,WA,Lincoln,2.23,2.11,2.16,2.12,2.11,2.17,2.23,2.23,2.19,2.19
+36,Owner-Occupied,WA,Lincoln,8271,8322,8282,8267,8277,8242,8084,8149,8256,8257
+37,Renter-Occupied,WA,Lincoln,2223,2070,2113,2087,2008,1998,2116,2072,2052,2188
+0,Avg household size of owner-occupied unit,WA,Mason,2.57,2.5,2.45,2.45,2.48,2.52,2.59,2.57,2.57,2.56
+1,Avg household size of renter-occupied unit,WA,Mason,2.86,2.73,2.87,2.82,2.92,2.82,2.95,2.79,2.74,2.64
+36,Owner-Occupied,WA,Mason,45344,45401,44883,44517,44742,44573,44770,45782,46405,48141
+37,Renter-Occupied,WA,Mason,11964,12910,14113,14603,14727,14949,15193,14647,15075,14519
+0,Avg household size of owner-occupied unit,WA,Okanogan,2.49,2.46,2.48,2.46,2.38,2.37,2.34,2.3,2.22,2.22
+1,Avg household size of renter-occupied unit,WA,Okanogan,2.63,2.49,2.52,2.53,2.56,2.52,2.5,2.47,2.5,2.46
+36,Owner-Occupied,WA,Okanogan,26946,26268,26495,26830,26675,26898,26349,26500,25709,25781
+37,Renter-Occupied,WA,Okanogan,13002,12363,12708,12825,13292,13351,13853,13755,14790,14903
+0,Avg household size of owner-occupied unit,WA,Pacific,2.18,2.23,2.2,2.18,2.23,2.19,2.24,2.33,2.31,2.29
+1,Avg household size of renter-occupied unit,WA,Pacific,2.09,2.16,2.2,2.22,2.23,2.37,2.39,2.43,2.33,2.39
+36,Owner-Occupied,WA,Pacific,15652,15559,15232,14847,14841,14378,14826,15611,16320,16977
+37,Renter-Occupied,WA,Pacific,5208,5187,5374,5633,5536,5997,5646,5067,4698,4446
+0,Avg household size of owner-occupied unit,WA,Pend Oreille,2.39,2.39,2.38,2.34,2.31,2.33,2.34,2.28,2.26,2.34
+1,Avg household size of renter-occupied unit,WA,Pend Oreille,2.08,2.22,2.33,2.34,2.36,2.55,2.52,2.35,2.27,2.22
+36,Owner-Occupied,WA,Pend Oreille,10447,10216,9873,9649,9537,9461,9729,10005,10275,10446
+37,Renter-Occupied,WA,Pend Oreille,2370,2626,2992,3194,3308,3381,3148,2934,2816,2806
+0,Avg household size of owner-occupied unit,WA,Pierce,2.66,2.66,2.69,2.7,2.72,2.74,2.75,2.73,2.74,2.76
+1,Avg household size of renter-occupied unit,WA,Pierce,2.41,2.45,2.45,2.48,2.5,2.51,2.52,2.5,2.5,2.47
+36,Owner-Occupied,WA,Pierce,497412,500957,501125,499539,502003,507324,512571,523904,536672,554772
+37,Renter-Occupied,WA,Pierce,260937,269010,277255,286703,292692,297701,302926,303115,304722,302857
+0,Avg household size of owner-occupied unit,WA,San Juan,1.99,1.96,2.0,2.05,2.1,2.07,2.11,2.12,2.07,2.05
+1,Avg household size of renter-occupied unit,WA,San Juan,1.83,1.84,1.84,1.91,1.94,1.97,2.0,1.94,1.92,1.9
+36,Owner-Occupied,WA,San Juan,11161,10931,11078,11369,11495,11414,11685,12135,12234,12606
+37,Renter-Occupied,WA,San Juan,4334,4551,4472,4221,4148,4328,4167,3882,4034,3988
+0,Avg household size of owner-occupied unit,WA,Skagit,2.5,2.49,2.49,2.49,2.51,2.48,2.48,2.46,2.52,2.52
+1,Avg household size of renter-occupied unit,WA,Skagit,2.53,2.59,2.63,2.71,2.7,2.72,2.76,2.69,2.6,2.63
+36,Owner-Occupied,WA,Skagit,79232,77849,77611,76093,76333,75999,77272,78889,81611,83749
+37,Renter-Occupied,WA,Skagit,34303,36698,37697,39758,40211,41475,41390,41008,40472,40037
+0,Avg household size of owner-occupied unit,WA,Skamania,2.5,2.57,2.62,2.57,2.55,2.52,2.45,2.41,2.5,2.47
+1,Avg household size of renter-occupied unit,WA,Skamania,2.12,2.12,2.14,2.25,2.4,2.42,2.48,2.47,2.39,2.31
+36,Owner-Occupied,WA,Skamania,8597,8553,8770,8446,8210,7958,7773,7864,8330,8861
+37,Renter-Occupied,WA,Skamania,2272,2361,2217,2616,2921,3225,3483,3574,3230,2831
+0,Avg household size of owner-occupied unit,WA,Snohomish,2.72,2.71,2.71,2.73,2.74,2.75,2.75,2.75,2.75,2.76
+1,Avg household size of renter-occupied unit,WA,Snohomish,2.34,2.39,2.44,2.51,2.53,2.55,2.55,2.52,2.52,2.52
+36,Owner-Occupied,WA,Snohomish,488463,488908,489175,490951,494967,497901,507145,521447,532846,544066
+37,Renter-Occupied,WA,Snohomish,196775,205117,214821,223497,230283,238428,241154,239911,242843,243275
+0,Avg household size of owner-occupied unit,WA,Spokane,2.54,2.55,2.55,2.57,2.56,2.55,2.54,2.52,2.52,2.51
+1,Avg household size of renter-occupied unit,WA,Spokane,2.17,2.2,2.21,2.22,2.26,2.29,2.33,2.29,2.27,2.25
+36,Owner-Occupied,WA,Spokane,305049,306306,306917,307558,305736,303805,302584,306818,313541,317865
+37,Renter-Occupied,WA,Spokane,140179,144509,147770,150469,155203,160912,167259,167890,168549,171851
+0,Avg household size of owner-occupied unit,WA,Stevens,2.52,2.47,2.45,2.44,2.43,2.45,2.53,2.53,2.57,2.6
+1,Avg household size of renter-occupied unit,WA,Stevens,2.29,2.3,2.44,2.43,2.5,2.42,2.37,2.31,2.35,2.26
+36,Owner-Occupied,WA,Stevens,35387,35207,34218,33453,32843,32522,33430,34254,34685,35646
+37,Renter-Occupied,WA,Stevens,7746,7776,8887,9694,10351,10701,9981,9273,9200,8688
+0,Avg household size of owner-occupied unit,WA,Thurston,2.52,2.51,2.53,2.57,2.58,2.59,2.62,2.57,2.56,2.58
+1,Avg household size of renter-occupied unit,WA,Thurston,2.26,2.31,2.35,2.36,2.4,2.41,2.39,2.38,2.42,2.38
+36,Owner-Occupied,WA,Thurston,167181,169427,171988,173409,169829,171324,172809,174482,175817,185252
+37,Renter-Occupied,WA,Thurston,72744,75425,76921,79039,85771,87609,89651,91470,95068,90727
+0,Avg household size of owner-occupied unit,WA,Wahkiakum,2.26,2.29,2.28,2.23,2.22,2.26,2.21,2.14,2.23,2.24
+1,Avg household size of renter-occupied unit,WA,Wahkiakum,2.25,2.62,2.39,2.46,2.53,2.49,2.3,2.55,2.33,2.1
+36,Owner-Occupied,WA,Wahkiakum,2874,2922,3105,2897,2930,3062,3191,3167,3525,3689
+37,Renter-Occupied,WA,Wahkiakum,1098,973,799,1017,1003,907,797,883,609,528
+0,Avg household size of owner-occupied unit,WA,Walla Walla,2.62,2.55,2.56,2.54,2.53,2.52,2.52,2.51,2.56,2.55
+1,Avg household size of renter-occupied unit,WA,Walla Walla,2.24,2.29,2.36,2.41,2.44,2.46,2.43,2.31,2.29,2.22
+36,Owner-Occupied,WA,Walla Walla,34624,34336,34478,33960,34402,35175,35683,36217,36920,37488
+37,Renter-Occupied,WA,Walla Walla,18295,18725,19042,20004,19754,19060,18667,18346,18098,17724
+0,Avg household size of owner-occupied unit,WA,Whatcom,2.54,2.53,2.56,2.57,2.57,2.58,2.58,2.57,2.58,2.6
+1,Avg household size of renter-occupied unit,WA,Whatcom,2.27,2.31,2.33,2.37,2.38,2.44,2.42,2.35,2.34,2.32
+36,Owner-Occupied,WA,Whatcom,123813,125890,128009,128211,128435,129887,130153,132261,135973,139285
+37,Renter-Occupied,WA,Whatcom,66912,67883,68129,69689,71036,71714,74036,74965,75456,76267
+0,Avg household size of owner-occupied unit,WA,Whitman,2.58,2.51,2.49,2.42,2.42,2.4,2.5,2.47,2.56,2.58
+1,Avg household size of renter-occupied unit,WA,Whitman,2.25,2.22,2.26,2.3,2.21,2.24,2.28,2.19,2.16,2.17
+36,Owner-Occupied,WA,Whitman,19877,19265,19103,18550,18702,18585,19141,19425,19748,20270
+37,Renter-Occupied,WA,Whitman,18019,18900,19767,20590,20836,21660,21671,21422,21955,22032
+0,Avg household size of owner-occupied unit,WA,Yakima,2.96,2.96,2.97,2.97,2.98,3.01,3.04,3.0,3.0,2.99
+1,Avg household size of renter-occupied unit,WA,Yakima,2.9,2.98,3.06,3.12,3.15,3.11,3.05,2.98,2.95,2.92
+36,Owner-Occupied,WA,Yakima,150031,149663,148428,147054,146878,150345,152506,153874,156179,155456
+37,Renter-Occupied,WA,Yakima,82187,86441,90262,93887,95824,93352,91412,90768,89477,90632

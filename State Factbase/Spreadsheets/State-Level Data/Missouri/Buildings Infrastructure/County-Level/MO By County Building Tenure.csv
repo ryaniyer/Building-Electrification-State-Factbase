@@ -1,0 +1,461 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,MO,Adair,2.48,2.45,2.46,2.5,2.49,2.53,2.58,2.5,2.48,2.55
+1,Avg household size of renter-occupied unit,MO,Adair,2.1,2.03,2.04,2.03,2.14,2.11,2.16,2.15,2.2,2.28
+36,Owner-Occupied,MO,Adair,14530,14244,14629,14518,14353,14277,14405,14251,14146,14207
+37,Renter-Occupied,MO,Adair,7842,7751,7479,7798,8218,8428,8375,8397,8366,8442
+0,Avg household size of owner-occupied unit,MO,Andrew,2.6,2.63,2.57,2.64,2.65,2.57,2.51,2.53,2.51,2.53
+1,Avg household size of renter-occupied unit,MO,Andrew,2.35,2.2,2.4,2.26,2.21,2.31,2.49,2.39,2.58,2.67
+36,Owner-Occupied,MO,Andrew,13560,13676,13553,13569,13793,13714,13235,13440,13382,13704
+37,Renter-Occupied,MO,Andrew,3325,3136,3403,3512,3349,3401,3905,3721,3829,3621
+0,Avg household size of owner-occupied unit,MO,Atchison,2.36,2.26,2.23,2.25,2.2,2.16,2.16,2.15,2.1,2.02
+1,Avg household size of renter-occupied unit,MO,Atchison,2.01,2.14,2.17,2.13,2.13,2.07,2.0,1.98,1.97,1.94
+36,Owner-Occupied,MO,Atchison,4232,3998,3866,3827,3738,3692,3737,3780,3695,3616
+37,Renter-Occupied,MO,Atchison,1374,1458,1558,1583,1627,1632,1527,1445,1462,1507
+0,Avg household size of owner-occupied unit,MO,Audrain,2.54,2.59,2.62,2.6,2.59,2.65,2.71,2.61,2.63,2.62
+1,Avg household size of renter-occupied unit,MO,Audrain,2.22,2.22,2.33,2.37,2.39,2.41,2.31,2.32,2.39,2.42
+36,Owner-Occupied,MO,Audrain,18524,18336,17927,17985,17695,17272,17180,16771,16241,16677
+37,Renter-Occupied,MO,Audrain,4972,5179,5687,5713,6078,6642,6721,7000,7525,7073
+0,Avg household size of owner-occupied unit,MO,Barry,2.53,2.5,2.5,2.55,2.58,2.56,2.57,2.58,2.52,2.44
+1,Avg household size of renter-occupied unit,MO,Barry,2.38,2.64,2.85,2.84,2.83,3.02,2.97,2.99,3.06,2.98
+36,Owner-Occupied,MO,Barry,26982,26315,25760,26055,25986,25527,25530,25110,24534,24562
+37,Renter-Occupied,MO,Barry,8488,8947,9556,9221,9378,9896,9878,9981,10653,10665
+0,Avg household size of owner-occupied unit,MO,Barton,2.52,2.49,2.5,2.43,2.41,2.43,2.49,2.4,2.38,2.36
+1,Avg household size of renter-occupied unit,MO,Barton,2.54,2.43,2.45,2.38,2.47,2.36,2.3,2.36,2.34,2.42
+36,Owner-Occupied,MO,Barton,9506,9424,9435,9274,9044,8887,8362,8199,8249,8082
+37,Renter-Occupied,MO,Barton,3055,2935,2857,2976,3119,3144,3566,3587,3434,3542
+0,Avg household size of owner-occupied unit,MO,Bates,2.62,2.58,2.51,2.46,2.42,2.44,2.43,2.42,2.42,2.48
+1,Avg household size of renter-occupied unit,MO,Bates,2.33,2.42,2.4,2.31,2.44,2.45,2.48,2.34,2.33,2.32
+36,Owner-Occupied,MO,Bates,12962,12994,12584,12420,11831,11820,11367,11954,11785,11807
+37,Renter-Occupied,MO,Bates,3876,3782,4101,4138,4628,4514,4825,4124,4255,4147
+0,Avg household size of owner-occupied unit,MO,Benton,2.23,2.24,2.32,2.31,2.28,2.29,2.3,2.32,2.32,2.35
+1,Avg household size of renter-occupied unit,MO,Benton,2.38,2.46,2.35,2.14,2.15,2.26,2.21,2.42,2.53,2.6
+36,Owner-Occupied,MO,Benton,15467,15505,15874,15947,15865,15206,15268,15078,15354,15095
+37,Renter-Occupied,MO,Benton,3158,3297,2894,2808,2847,3400,3308,3594,3389,3761
+0,Avg household size of owner-occupied unit,MO,Bollinger,2.55,2.56,2.56,2.55,2.53,2.52,2.47,2.53,2.55,2.59
+1,Avg household size of renter-occupied unit,MO,Bollinger,2.64,2.58,2.49,2.64,2.62,2.71,2.71,2.51,2.74,2.72
+36,Owner-Occupied,MO,Bollinger,9656,9947,9980,9813,9909,9760,9589,9788,9614,9619
+37,Renter-Occupied,MO,Bollinger,2700,2313,2243,2419,2294,2400,2484,2346,2443,2393
+0,Avg household size of owner-occupied unit,MO,Boone,2.47,2.5,2.49,2.49,2.51,2.55,2.53,2.56,2.54,2.53
+1,Avg household size of renter-occupied unit,MO,Boone,2.17,2.18,2.23,2.23,2.25,2.23,2.26,2.21,2.22,2.21
+36,Owner-Occupied,MO,Boone,90121,91781,92562,93387,94209,95642,93757,96549,98088,99439
+37,Renter-Occupied,MO,Boone,58257,59021,61016,62796,64529,65744,69551,68749,69318,69215
+0,Avg household size of owner-occupied unit,MO,Buchanan,2.55,2.6,2.63,2.64,2.62,2.62,2.61,2.62,2.61,2.6
+1,Avg household size of renter-occupied unit,MO,Buchanan,2.3,2.35,2.36,2.43,2.47,2.51,2.48,2.46,2.41,2.37
+36,Owner-Occupied,MO,Buchanan,58616,58464,57955,56893,55605,55321,54700,55073,55460,54359
+37,Renter-Occupied,MO,Buchanan,25053,26185,27155,28565,30020,30356,30615,30145,29474,29928
+0,Avg household size of owner-occupied unit,MO,Butler,2.44,2.46,2.51,2.53,2.6,2.58,2.58,2.58,2.6,2.54
+1,Avg household size of renter-occupied unit,MO,Butler,2.35,2.26,2.32,2.31,2.32,2.38,2.42,2.43,2.46,2.53
+36,Owner-Occupied,MO,Butler,28009,28782,28682,28471,28793,28107,27391,27038,27081,26546
+37,Renter-Occupied,MO,Butler,13198,12797,13106,13476,13187,13870,14488,14756,14609,15066
+0,Avg household size of owner-occupied unit,MO,Caldwell,2.52,2.56,2.45,2.42,2.43,2.44,2.47,2.44,2.47,2.49
+1,Avg household size of renter-occupied unit,MO,Caldwell,2.18,2.24,2.43,2.42,2.42,2.26,2.08,2.14,2.2,2.25
+36,Owner-Occupied,MO,Caldwell,7062,7082,6686,6433,6492,6768,6909,6853,6786,6889
+37,Renter-Occupied,MO,Caldwell,2079,2109,2425,2626,2495,2122,1947,1991,2056,1959
+0,Avg household size of owner-occupied unit,MO,Callaway,2.51,2.48,2.49,2.53,2.55,2.62,2.64,2.62,2.6,2.66
+1,Avg household size of renter-occupied unit,MO,Callaway,2.11,2.07,2.1,2.18,2.22,2.24,2.31,2.33,2.4,2.3
+36,Owner-Occupied,MO,Callaway,31475,32283,32727,31908,31266,31134,30438,30252,30380,30769
+37,Renter-Occupied,MO,Callaway,8619,8082,7691,8604,9406,9517,10325,10591,10445,10103
+0,Avg household size of owner-occupied unit,MO,Camden,2.33,2.35,2.45,2.45,2.47,2.57,2.61,2.61,2.66,2.69
+1,Avg household size of renter-occupied unit,MO,Camden,2.34,2.45,2.47,2.48,2.59,2.69,2.84,3.13,3.21,3.25
+36,Owner-Occupied,MO,Camden,34699,34325,34528,33763,33757,33875,33249,34026,34334,34817
+37,Renter-Occupied,MO,Camden,8021,8593,8635,9544,9630,9590,10418,10333,10221,10057
+0,Avg household size of owner-occupied unit,MO,Cape Girardeau,2.51,2.52,2.52,2.56,2.58,2.59,2.57,2.57,2.58,2.55
+1,Avg household size of renter-occupied unit,MO,Cape Girardeau,2.15,2.22,2.27,2.3,2.29,2.31,2.37,2.41,2.49,2.51
+36,Owner-Occupied,MO,Cape Girardeau,50033,49801,50453,49946,49454,49634,49689,49827,49729,49012
+37,Renter-Occupied,MO,Cape Girardeau,20744,21608,21569,22708,23989,24506,24896,24741,25199,26057
+0,Avg household size of owner-occupied unit,MO,Carroll,2.52,2.55,2.5,2.53,2.5,2.47,2.47,2.52,2.56,2.52
+1,Avg household size of renter-occupied unit,MO,Carroll,2.21,2.49,2.53,2.49,2.42,2.49,2.2,2.18,2.2,2.34
+36,Owner-Occupied,MO,Carroll,7609,7424,7270,7339,7010,6725,6811,6718,6567,6557
+37,Renter-Occupied,MO,Carroll,1867,1864,1909,1777,2042,2255,2083,2078,2160,2112
+0,Avg household size of owner-occupied unit,MO,Carter,2.45,2.44,2.46,2.51,2.53,2.57,2.52,2.57,2.61,2.62
+1,Avg household size of renter-occupied unit,MO,Carter,2.75,2.6,2.73,2.68,2.54,2.49,2.46,2.63,2.58,2.61
+36,Owner-Occupied,MO,Carter,4606,4461,4460,4483,4462,4492,4380,4482,4695,4730
+37,Renter-Occupied,MO,Carter,1525,1671,1697,1717,1768,1748,1824,1727,1457,1373
+0,Avg household size of owner-occupied unit,MO,Cass,2.68,2.68,2.67,2.68,2.68,2.68,2.69,2.66,2.63,2.63
+1,Avg household size of renter-occupied unit,MO,Cass,2.59,2.54,2.55,2.56,2.54,2.48,2.46,2.44,2.43,2.43
+36,Owner-Occupied,MO,Cass,78055,77982,77671,77509,76975,76705,77124,77708,78902,79977
+37,Renter-Occupied,MO,Cass,18794,19843,20767,21368,22330,23018,23159,23185,22821,22668
+0,Avg household size of owner-occupied unit,MO,Cedar,2.22,2.2,2.26,2.32,2.33,2.35,2.38,2.38,2.47,2.46
+1,Avg household size of renter-occupied unit,MO,Cedar,2.43,2.39,2.25,2.2,2.33,2.26,2.26,2.22,2.14,2.16
+36,Owner-Occupied,MO,Cedar,10386,10159,10187,9836,9921,9693,9550,9838,10332,10154
+37,Renter-Occupied,MO,Cedar,3541,3564,3478,3830,3794,4038,4219,3864,3425,3697
+0,Avg household size of owner-occupied unit,MO,Chariton,2.47,2.53,2.55,2.55,2.54,2.53,2.59,2.61,2.69,2.77
+1,Avg household size of renter-occupied unit,MO,Chariton,2.07,2.25,2.3,2.48,2.53,2.48,2.37,2.51,2.39,2.45
+36,Owner-Occupied,MO,Chariton,6219,6182,6032,5744,5804,5752,5770,5708,6049,5815
+37,Renter-Occupied,MO,Chariton,1295,1392,1488,1749,1693,1671,1616,1644,1260,1429
+0,Avg household size of owner-occupied unit,MO,Christian,2.67,2.66,2.66,2.67,2.65,2.68,2.69,2.69,2.71,2.71
+1,Avg household size of renter-occupied unit,MO,Christian,2.39,2.38,2.51,2.53,2.61,2.71,2.73,2.65,2.63,2.63
+36,Owner-Occupied,MO,Christian,57260,57673,58039,58680,58940,58427,59393,61271,62551,63588
+37,Renter-Occupied,MO,Christian,16528,17785,18869,19447,20290,21828,22004,21105,21092,21463
+0,Avg household size of owner-occupied unit,MO,Clark,2.65,2.57,2.62,2.68,2.57,2.51,2.47,2.38,2.36,2.61
+1,Avg household size of renter-occupied unit,MO,Clark,2.12,2.1,2.14,2.04,1.95,2.11,2.16,2.14,2.08,2.26
+36,Owner-Occupied,MO,Clark,5656,5695,5605,5650,5560,5437,5274,5190,5093,5190
+37,Renter-Occupied,MO,Clark,1431,1321,1375,1298,1360,1412,1514,1546,1628,1508
+0,Avg household size of owner-occupied unit,MO,Clay,2.58,2.61,2.64,2.65,2.67,2.71,2.73,2.72,2.76,2.78
+1,Avg household size of renter-occupied unit,MO,Clay,2.16,2.16,2.24,2.33,2.35,2.33,2.33,2.33,2.3,2.31
+36,Owner-Occupied,MO,Clay,160896,162182,164032,163578,165712,166160,168358,168618,172385,173964
+37,Renter-Occupied,MO,Clay,51063,53592,55122,58709,59513,61508,62040,64737,64123,65975
+0,Avg household size of owner-occupied unit,MO,Clinton,2.57,2.52,2.48,2.48,2.46,2.43,2.43,2.44,2.41,2.47
+1,Avg household size of renter-occupied unit,MO,Clinton,2.32,2.5,2.63,2.55,2.58,2.64,2.58,2.47,2.58,2.38
+36,Owner-Occupied,MO,Clinton,15882,15238,14677,14570,14524,14460,14556,14998,14837,15445
+37,Renter-Occupied,MO,Clinton,4438,5099,5572,5646,5572,5579,5476,5036,5172,4590
+0,Avg household size of owner-occupied unit,MO,Cole,2.56,2.61,2.57,2.57,2.58,2.56,2.55,2.57,2.59,2.54
+1,Avg household size of renter-occupied unit,MO,Cole,2.02,2.12,2.17,2.24,2.18,2.17,2.15,2.13,2.06,2.06
+36,Owner-Occupied,MO,Cole,50692,50657,50735,50305,51342,51016,51268,51187,52036,50815
+37,Renter-Occupied,MO,Cole,18813,21098,21273,21847,20574,20692,20475,20732,19923,20926
+0,Avg household size of owner-occupied unit,MO,Cooper,2.56,2.58,2.51,2.5,2.52,2.53,2.49,2.57,2.53,2.57
+1,Avg household size of renter-occupied unit,MO,Cooper,2.22,2.27,2.26,2.22,2.28,2.32,2.35,2.34,2.41,2.34
+36,Owner-Occupied,MO,Cooper,11845,11981,11867,12052,11625,11706,11509,11718,11399,11928
+37,Renter-Occupied,MO,Cooper,3932,3938,4010,3890,4352,4324,4525,4313,4632,4113
+0,Avg household size of owner-occupied unit,MO,Crawford,2.65,2.62,2.6,2.62,2.65,2.59,2.55,2.5,2.45,2.44
+1,Avg household size of renter-occupied unit,MO,Crawford,2.34,2.34,2.35,2.39,2.39,2.65,2.73,2.78,2.65,2.54
+36,Owner-Occupied,MO,Crawford,18805,19126,18847,18905,18445,17544,17143,16592,16098,16705
+37,Renter-Occupied,MO,Crawford,5566,5220,5541,5449,5882,6750,7007,7362,7715,6963
+0,Avg household size of owner-occupied unit,MO,Dade,2.49,2.46,2.47,2.43,2.45,2.39,2.44,2.48,2.43,2.45
+1,Avg household size of renter-occupied unit,MO,Dade,2.15,2.24,2.37,2.28,2.1,2.13,2.27,2.07,2.21,2.28
+36,Owner-Occupied,MO,Dade,6331,6150,5965,5943,6141,6013,5853,6057,5905,5780
+37,Renter-Occupied,MO,Dade,1588,1624,1719,1657,1386,1454,1583,1370,1524,1625
+0,Avg household size of owner-occupied unit,MO,Dallas,2.57,2.66,2.6,2.66,2.65,2.66,2.72,2.72,2.65,2.66
+1,Avg household size of renter-occupied unit,MO,Dallas,2.6,2.42,2.31,2.18,2.34,2.49,2.45,2.41,2.45,2.56
+36,Owner-Occupied,MO,Dallas,13560,13547,13627,13746,13346,12621,12215,12254,12361,12583
+37,Renter-Occupied,MO,Dallas,3052,3089,2988,2779,3085,3734,4075,3970,3912,3811
+0,Avg household size of owner-occupied unit,MO,Daviess,2.56,2.63,2.73,2.66,2.64,2.69,2.72,2.66,2.74,2.69
+1,Avg household size of renter-occupied unit,MO,Daviess,2.43,2.53,2.5,2.43,2.49,2.51,2.4,2.5,2.59,2.6
+36,Owner-Occupied,MO,Daviess,6287,6343,6484,6396,6378,6366,6456,6456,6440,6471
+37,Renter-Occupied,MO,Daviess,2019,1948,1754,1817,1778,1711,1593,1641,1666,1632
+0,Avg household size of owner-occupied unit,MO,DeKalb,2.66,2.72,2.79,2.75,2.7,2.67,2.58,2.48,2.54,2.6
+1,Avg household size of renter-occupied unit,MO,DeKalb,2.08,1.96,1.93,1.95,2.03,2.16,2.18,2.07,2.04,1.97
+36,Owner-Occupied,MO,DeKalb,7150,7176,7076,6771,6670,6292,6126,6359,6627,6832
+37,Renter-Occupied,MO,DeKalb,2651,2576,2481,2558,2649,3034,3049,2669,2451,2320
+0,Avg household size of owner-occupied unit,MO,Dent,2.59,2.61,2.64,2.62,2.59,2.54,2.6,2.48,2.43,2.44
+1,Avg household size of renter-occupied unit,MO,Dent,2.21,2.24,2.43,2.65,2.7,2.76,2.62,2.62,2.43,2.32
+36,Owner-Occupied,MO,Dent,12338,12010,11754,11192,10912,10673,10949,10614,10764,11422
+37,Renter-Occupied,MO,Dent,2985,3268,3578,4208,4533,4727,4416,4744,4529,3924
+0,Avg household size of owner-occupied unit,MO,Douglas,2.77,2.65,2.59,2.57,2.62,2.5,2.62,2.59,2.54,2.55
+1,Avg household size of renter-occupied unit,MO,Douglas,2.64,2.69,2.92,2.72,2.56,2.65,2.56,2.49,2.75,2.64
+36,Owner-Occupied,MO,Douglas,11172,10584,10178,10351,10378,9843,10410,10256,10386,10437
+37,Renter-Occupied,MO,Douglas,2328,2956,3364,3150,3053,3538,2924,3006,2859,2741
+0,Avg household size of owner-occupied unit,MO,Dunklin,2.33,2.35,2.39,2.38,2.36,2.41,2.36,2.31,2.31,2.32
+1,Avg household size of renter-occupied unit,MO,Dunklin,2.44,2.55,2.57,2.47,2.57,2.5,2.5,2.47,2.53,2.47
+36,Owner-Occupied,MO,Dunklin,18743,18699,18514,18839,18757,19224,18756,18621,18029,17749
+37,Renter-Occupied,MO,Dunklin,11840,12533,12650,12311,12281,11630,11805,11581,11682,11551
+0,Avg household size of owner-occupied unit,MO,Franklin,2.64,2.64,2.63,2.61,2.59,2.59,2.58,2.55,2.57,2.58
+1,Avg household size of renter-occupied unit,MO,Franklin,2.43,2.39,2.4,2.41,2.38,2.36,2.36,2.35,2.31,2.27
+36,Owner-Occupied,MO,Franklin,78316,78839,78298,78570,77652,76197,75553,76776,76767,78615
+37,Renter-Occupied,MO,Franklin,21717,21454,22209,22111,23179,24820,25685,24790,25134,23659
+0,Avg household size of owner-occupied unit,MO,Gasconade,2.44,2.39,2.37,2.38,2.31,2.34,2.38,2.36,2.38,2.42
+1,Avg household size of renter-occupied unit,MO,Gasconade,2.05,2.2,2.33,2.48,2.38,2.38,2.34,2.39,2.34,2.24
+36,Owner-Occupied,MO,Gasconade,12473,12089,11628,11307,11138,10901,10948,11050,11511,11514
+37,Renter-Occupied,MO,Gasconade,2781,2899,3249,3497,3597,3774,3660,3457,2977,2947
+0,Avg household size of owner-occupied unit,MO,Gentry,2.57,2.52,2.5,2.44,2.46,2.48,2.46,2.49,2.58,2.65
+1,Avg household size of renter-occupied unit,MO,Gentry,2.14,2.0,2.02,2.05,2.24,2.1,2.33,2.25,2.17,2.1
+36,Owner-Occupied,MO,Gentry,5255,5186,5091,4942,4996,5004,4879,4799,4961,4974
+37,Renter-Occupied,MO,Gentry,1335,1350,1447,1594,1552,1536,1623,1652,1468,1419
+0,Avg household size of owner-occupied unit,MO,Greene,2.39,2.39,2.39,2.4,2.39,2.39,2.38,2.39,2.37,2.35
+1,Avg household size of renter-occupied unit,MO,Greene,2.09,2.12,2.14,2.16,2.19,2.2,2.19,2.17,2.13,2.07
+36,Owner-Occupied,MO,Greene,167094,165781,164799,164532,165128,164483,165260,166533,166176,164594
+37,Renter-Occupied,MO,Greene,90112,94322,98535,101835,104049,107566,108908,108865,110817,113717
+0,Avg household size of owner-occupied unit,MO,Grundy,2.38,2.36,2.41,2.43,2.45,2.52,2.55,2.55,2.55,2.61
+1,Avg household size of renter-occupied unit,MO,Grundy,2.19,2.1,2.29,2.31,2.28,2.28,2.2,2.2,2.21,2.14
+36,Owner-Occupied,MO,Grundy,7149,7174,7227,7302,6989,7173,7113,6899,6831,7001
+37,Renter-Occupied,MO,Grundy,2763,2711,2701,2649,2958,2759,2792,2880,2883,2671
+0,Avg household size of owner-occupied unit,MO,Harrison,2.52,2.49,2.37,2.44,2.45,2.45,2.47,2.45,2.43,2.47
+1,Avg household size of renter-occupied unit,MO,Harrison,2.39,2.54,2.47,2.5,2.23,2.14,1.98,2.13,2.08,2.25
+36,Owner-Occupied,MO,Harrison,6694,6480,6358,6375,6411,6422,6312,6309,6222,6148
+37,Renter-Occupied,MO,Harrison,2092,2224,2300,2263,2131,2038,2048,2032,2059,2104
+0,Avg household size of owner-occupied unit,MO,Henry,2.42,2.37,2.33,2.3,2.25,2.28,2.27,2.34,2.35,2.32
+1,Avg household size of renter-occupied unit,MO,Henry,2.11,2.2,2.22,2.29,2.4,2.34,2.4,2.28,2.31,2.26
+36,Owner-Occupied,MO,Henry,16755,16477,15832,16053,15624,16219,16040,15940,15760,15624
+37,Renter-Occupied,MO,Henry,5334,5515,6111,5863,6264,5590,5660,5658,5751,5842
+0,Avg household size of owner-occupied unit,MO,Hickory,2.14,2.18,2.17,2.16,2.16,2.16,2.23,2.23,2.32,2.35
+1,Avg household size of renter-occupied unit,MO,Hickory,2.07,2.37,2.45,2.54,2.7,2.66,2.7,2.75,2.25,2.33
+36,Owner-Occupied,MO,Hickory,8040,7809,7746,7559,7438,7189,7127,7299,7597,7677
+37,Renter-Occupied,MO,Hickory,1482,1692,1707,1840,1883,2054,2046,1966,1683,1645
+0,Avg household size of owner-occupied unit,MO,Holt,2.19,2.2,2.17,2.2,2.24,2.21,2.18,2.16,2.21,2.21
+1,Avg household size of renter-occupied unit,MO,Holt,2.34,2.13,1.96,1.85,1.84,1.87,1.91,1.87,1.86,1.91
+36,Owner-Occupied,MO,Holt,3796,3735,3640,3493,3393,3355,3201,3267,3278,3407
+37,Renter-Occupied,MO,Holt,1135,1061,1083,1165,1187,1148,1223,1122,1069,920
+0,Avg household size of owner-occupied unit,MO,Howard,2.45,2.58,2.59,2.57,2.55,2.55,2.49,2.54,2.66,2.68
+1,Avg household size of renter-occupied unit,MO,Howard,1.97,2.04,2.01,2.14,2.3,2.48,2.52,2.49,2.52,2.68
+36,Owner-Occupied,MO,Howard,7404,7677,7470,7286,7352,7058,7086,7158,7341,7275
+37,Renter-Occupied,MO,Howard,1641,1674,1895,2121,2064,2381,2305,2232,2008,2025
+0,Avg household size of owner-occupied unit,MO,Howell,2.59,2.59,2.63,2.62,2.62,2.57,2.54,2.53,2.58,2.58
+1,Avg household size of renter-occupied unit,MO,Howell,2.49,2.4,2.32,2.29,2.2,2.19,2.24,2.24,2.28,2.29
+36,Owner-Occupied,MO,Howell,28714,28917,28890,28828,28646,28018,28633,28385,28072,28056
+37,Renter-Occupied,MO,Howell,10733,10452,10763,10989,11222,11748,11070,11195,11474,11478
+0,Avg household size of owner-occupied unit,MO,Iron,2.46,2.4,2.4,2.5,2.42,2.53,2.57,2.56,2.47,2.52
+1,Avg household size of renter-occupied unit,MO,Iron,2.24,2.36,2.48,2.33,2.41,2.29,2.1,2.14,2.14,2.13
+36,Owner-Occupied,MO,Iron,7685,7588,7376,7462,7142,7151,7244,7490,7158,7260
+37,Renter-Occupied,MO,Iron,2612,2691,2808,2665,2908,2795,2601,2425,2693,2532
+0,Avg household size of owner-occupied unit,MO,Jackson,2.55,2.56,2.56,2.55,2.57,2.55,2.55,2.54,2.54,2.53
+1,Avg household size of renter-occupied unit,MO,Jackson,2.22,2.24,2.26,2.28,2.28,2.28,2.26,2.25,2.22,2.2
+36,Owner-Occupied,MO,Jackson,437239,432297,427914,423485,421172,414572,412341,417234,419283,421804
+37,Renter-Occupied,MO,Jackson,222046,227540,234360,241439,246006,254845,259814,259939,261144,262724
+0,Avg household size of owner-occupied unit,MO,Jasper,2.61,2.61,2.6,2.61,2.61,2.59,2.59,2.59,2.65,2.64
+1,Avg household size of renter-occupied unit,MO,Jasper,2.36,2.44,2.42,2.44,2.4,2.4,2.38,2.4,2.45,2.44
+36,Owner-Occupied,MO,Jasper,76439,76171,76181,75548,76466,75436,76298,76939,77836,76927
+37,Renter-Occupied,MO,Jasper,35947,37758,37961,38861,38108,39343,38662,39192,39029,40637
+0,Avg household size of owner-occupied unit,MO,Jefferson,2.74,2.73,2.73,2.74,2.72,2.72,2.71,2.66,2.65,2.66
+1,Avg household size of renter-occupied unit,MO,Jefferson,2.36,2.41,2.39,2.46,2.49,2.51,2.56,2.54,2.5,2.5
+36,Owner-Occupied,MO,Jefferson,184233,182480,183696,183085,181619,180446,179112,177787,178252,178251
+37,Renter-Occupied,MO,Jefferson,30486,33212,33054,34631,36963,39089,41245,42721,42876,43506
+0,Avg household size of owner-occupied unit,MO,Johnson,2.54,2.54,2.52,2.51,2.55,2.53,2.56,2.55,2.54,2.54
+1,Avg household size of renter-occupied unit,MO,Johnson,2.41,2.38,2.38,2.37,2.4,2.43,2.39,2.36,2.35,2.38
+36,Owner-Occupied,MO,Johnson,31498,31717,31243,30927,30779,30519,30315,30410,30207,30749
+37,Renter-Occupied,MO,Johnson,16378,16508,17527,18396,18772,19195,19357,18918,18871,18423
+0,Avg household size of owner-occupied unit,MO,Knox,2.35,2.38,2.32,2.39,2.38,2.4,2.4,2.43,2.53,2.61
+1,Avg household size of renter-occupied unit,MO,Knox,2.08,2.07,1.97,2.14,2.03,2.11,2.26,2.43,2.46,2.47
+36,Owner-Occupied,MO,Knox,3073,3075,3109,3089,3102,3167,3031,3071,3106,3213
+37,Renter-Occupied,MO,Knox,911,969,921,930,894,784,886,820,754,639
+0,Avg household size of owner-occupied unit,MO,Laclede,2.47,2.45,2.47,2.5,2.6,2.64,2.61,2.61,2.54,2.5
+1,Avg household size of renter-occupied unit,MO,Laclede,2.38,2.43,2.5,2.59,2.48,2.49,2.44,2.39,2.52,2.47
+36,Owner-Occupied,MO,Laclede,25085,25193,24971,24351,25132,25058,24403,24401,24133,24508
+37,Renter-Occupied,MO,Laclede,9966,9959,10189,10837,10066,10102,10736,10712,10996,10640
+0,Avg household size of owner-occupied unit,MO,Lafayette,2.53,2.55,2.53,2.52,2.5,2.49,2.44,2.41,2.49,2.48
+1,Avg household size of renter-occupied unit,MO,Lafayette,2.04,2.14,2.22,2.35,2.38,2.28,2.34,2.43,2.4,2.37
+36,Owner-Occupied,MO,Lafayette,25098,25392,25307,24599,25087,24897,24026,23289,23413,22923
+37,Renter-Occupied,MO,Lafayette,7117,7154,7231,7842,7246,7314,8065,8691,8530,9034
+0,Avg household size of owner-occupied unit,MO,Lawrence,2.53,2.58,2.62,2.65,2.64,2.66,2.61,2.6,2.61,2.56
+1,Avg household size of renter-occupied unit,MO,Lawrence,2.44,2.39,2.35,2.29,2.43,2.45,2.51,2.48,2.47,2.51
+36,Owner-Occupied,MO,Lawrence,27602,28141,28383,28656,27460,27417,27412,26895,27408,27167
+37,Renter-Occupied,MO,Lawrence,10086,9762,9539,9198,10211,10207,10188,10639,10132,10449
+0,Avg household size of owner-occupied unit,MO,Lewis,2.56,2.56,2.48,2.45,2.56,2.55,2.59,2.62,2.59,2.54
+1,Avg household size of renter-occupied unit,MO,Lewis,2.35,2.25,2.3,2.24,2.15,2.15,2.11,2.08,2.07,2.1
+36,Owner-Occupied,MO,Lewis,7330,7290,7114,7146,7161,7240,7146,7166,7127,7244
+37,Renter-Occupied,MO,Lewis,2111,2124,2316,2272,2246,2171,2212,2117,2092,1884
+0,Avg household size of owner-occupied unit,MO,Lincoln,2.81,2.77,2.81,2.82,2.86,2.87,2.89,2.88,2.91,2.86
+1,Avg household size of renter-occupied unit,MO,Lincoln,2.82,2.74,2.69,2.72,2.83,2.88,2.97,2.93,2.99,2.98
+36,Owner-Occupied,MO,Lincoln,41655,42082,42323,41287,41161,41122,40708,41470,42646,43344
+37,Renter-Occupied,MO,Lincoln,9147,9444,9700,11131,11637,12042,12864,12598,12161,12358
+0,Avg household size of owner-occupied unit,MO,Linn,2.56,2.57,2.62,2.62,2.63,2.59,2.53,2.48,2.46,2.38
+1,Avg household size of renter-occupied unit,MO,Linn,2.44,2.4,2.39,2.35,2.44,2.37,2.27,2.24,2.14,2.23
+36,Owner-Occupied,MO,Linn,9730,9528,9595,9747,9402,9314,9164,9063,9013,8867
+37,Renter-Occupied,MO,Linn,3094,3034,2882,2656,2907,2908,2976,3014,3007,3084
+0,Avg household size of owner-occupied unit,MO,Livingston,2.56,2.53,2.55,2.48,2.47,2.48,2.51,2.45,2.41,2.41
+1,Avg household size of renter-occupied unit,MO,Livingston,2.2,2.38,2.31,2.27,2.27,2.21,2.15,2.15,2.14,2.13
+36,Owner-Occupied,MO,Livingston,9706,9739,10028,9925,9901,9878,9757,9515,9661,9510
+37,Renter-Occupied,MO,Livingston,4180,4024,3720,3745,3761,3787,3967,4158,4018,4201
+0,Avg household size of owner-occupied unit,MO,McDonald,2.78,2.74,2.76,2.72,2.74,2.7,2.69,2.77,2.79,2.7
+1,Avg household size of renter-occupied unit,MO,McDonald,3.02,2.85,2.77,2.87,2.81,2.74,2.79,2.79,2.8,2.81
+36,Owner-Occupied,MO,McDonald,15684,15583,15675,15519,15852,15797,16047,15913,15724,15306
+37,Renter-Occupied,MO,McDonald,7195,7285,7137,7204,6818,6775,6481,6648,6910,7287
+0,Avg household size of owner-occupied unit,MO,Macon,2.4,2.48,2.49,2.49,2.51,2.53,2.54,2.57,2.63,2.67
+1,Avg household size of renter-occupied unit,MO,Macon,2.13,2.18,2.06,2.03,2.25,2.14,2.31,2.29,2.3,2.21
+36,Owner-Occupied,MO,Macon,11651,11951,12156,12193,11628,11743,11424,11471,11487,11643
+37,Renter-Occupied,MO,Macon,3180,3257,3035,3011,3582,3427,3688,3565,3489,3283
+0,Avg household size of owner-occupied unit,MO,Madison,2.65,2.62,2.62,2.76,2.78,2.74,2.69,2.57,2.49,2.49
+1,Avg household size of renter-occupied unit,MO,Madison,2.18,2.26,2.28,2.29,2.41,2.3,2.38,2.24,2.17,2.09
+36,Owner-Occupied,MO,Madison,9737,9574,9695,9660,9536,9609,9389,8905,9062,9016
+37,Renter-Occupied,MO,Madison,2355,2527,2457,2514,2648,2623,2834,3137,2961,2977
+0,Avg household size of owner-occupied unit,MO,Maries,2.6,2.59,2.5,2.39,2.37,2.44,2.41,2.37,2.47,2.33
+1,Avg household size of renter-occupied unit,MO,Maries,2.1,2.14,2.26,2.44,2.58,2.44,2.54,2.56,2.25,2.27
+36,Owner-Occupied,MO,Maries,7710,7584,7331,6934,6596,6572,6522,6343,6579,6559
+37,Renter-Occupied,MO,Maries,1366,1513,1713,2078,2417,2410,2381,2527,2210,2144
+0,Avg household size of owner-occupied unit,MO,Marion,2.52,2.52,2.52,2.49,2.48,2.5,2.48,2.43,2.41,2.43
+1,Avg household size of renter-occupied unit,MO,Marion,2.14,2.17,2.19,2.28,2.28,2.32,2.31,2.35,2.27,2.17
+36,Owner-Occupied,MO,Marion,19298,19462,19635,19028,18781,18150,18269,17584,17799,18358
+37,Renter-Occupied,MO,Marion,7956,7531,7424,8136,8453,9126,9039,9565,9305,8687
+0,Avg household size of owner-occupied unit,MO,Mercer,2.45,2.42,2.4,2.38,2.47,2.58,2.69,2.71,2.81,2.95
+1,Avg household size of renter-occupied unit,MO,Mercer,2.17,2.19,2.23,2.2,2.15,1.95,2.14,2.21,2.37,2.3
+36,Owner-Occupied,MO,Mercer,2882,2870,2904,2910,2811,2942,2861,2861,2860,2946
+37,Renter-Occupied,MO,Mercer,820,820,793,775,857,707,772,739,734,626
+0,Avg household size of owner-occupied unit,MO,Miller,2.45,2.48,2.52,2.54,2.61,2.65,2.67,2.65,2.56,2.51
+1,Avg household size of renter-occupied unit,MO,Miller,1.97,2.02,2.05,2.15,2.25,2.45,2.46,2.39,2.4,2.3
+36,Owner-Occupied,MO,Miller,19228,19522,19359,19609,19773,19451,19047,18869,18555,18857
+37,Renter-Occupied,MO,Miller,5075,4960,5167,4950,4820,5188,5628,5728,6145,5992
+0,Avg household size of owner-occupied unit,MO,Mississippi,2.57,2.58,2.58,2.49,2.41,2.44,2.49,2.42,2.42,2.38
+1,Avg household size of renter-occupied unit,MO,Mississippi,2.67,2.53,2.44,2.52,2.5,2.36,2.3,2.29,2.33,2.31
+36,Owner-Occupied,MO,Mississippi,8532,8833,8861,8326,7887,7574,7525,7525,7246,7151
+37,Renter-Occupied,MO,Mississippi,5262,4730,4453,4745,4920,4914,4842,4638,4764,4686
+0,Avg household size of owner-occupied unit,MO,Moniteau,2.68,2.67,2.78,2.8,2.79,2.8,2.79,2.8,2.79,2.81
+1,Avg household size of renter-occupied unit,MO,Moniteau,2.29,2.16,1.94,2.05,2.12,2.14,2.2,2.4,2.54,2.33
+36,Owner-Occupied,MO,Moniteau,11477,11160,11402,11391,11281,11239,11347,11557,11415,11772
+37,Renter-Occupied,MO,Moniteau,2716,2867,2723,2853,3067,3234,3142,2992,3183,2905
+0,Avg household size of owner-occupied unit,MO,Monroe,2.37,2.46,2.5,2.52,2.46,2.51,2.51,2.47,2.39,2.3
+1,Avg household size of renter-occupied unit,MO,Monroe,2.15,2.26,2.27,2.3,2.24,2.2,2.13,2.03,2.21,2.25
+36,Owner-Occupied,MO,Monroe,6932,6905,6777,6684,6594,6543,6494,6650,6451,6354
+37,Renter-Occupied,MO,Monroe,1941,1869,1904,1936,1970,1991,1999,1880,2061,2124
+0,Avg household size of owner-occupied unit,MO,Montgomery,2.45,2.39,2.31,2.32,2.37,2.38,2.32,2.33,2.29,2.23
+1,Avg household size of renter-occupied unit,MO,Montgomery,2.47,2.41,2.41,2.31,2.46,2.36,2.41,2.32,2.28,2.19
+36,Owner-Occupied,MO,Montgomery,9162,9136,8787,8877,8690,8383,8240,8127,7923,7828
+37,Renter-Occupied,MO,Montgomery,2789,2780,3049,2904,3002,3185,3213,3126,3254,3296
+0,Avg household size of owner-occupied unit,MO,Morgan,2.42,2.48,2.43,2.44,2.4,2.47,2.47,2.55,2.56,2.71
+1,Avg household size of renter-occupied unit,MO,Morgan,2.3,2.4,2.52,2.55,2.82,2.79,2.66,2.51,2.5,2.25
+36,Owner-Occupied,MO,Morgan,16616,17029,16555,15940,14983,14727,14584,14926,15425,16581
+37,Renter-Occupied,MO,Morgan,3543,3271,3609,4139,5007,5158,5245,4805,4335,3293
+0,Avg household size of owner-occupied unit,MO,New Madrid,2.43,2.42,2.42,2.43,2.49,2.48,2.43,2.43,2.41,2.34
+1,Avg household size of renter-occupied unit,MO,New Madrid,2.43,2.45,2.51,2.55,2.52,2.52,2.47,2.4,2.36,2.32
+36,Owner-Occupied,MO,New Madrid,12081,11577,11440,11202,11069,11010,10755,11122,10874,10956
+37,Renter-Occupied,MO,New Madrid,6699,6940,7015,7166,7164,7056,7126,6561,6592,6259
+0,Avg household size of owner-occupied unit,MO,Newton,2.68,2.68,2.69,2.68,2.68,2.69,2.65,2.63,2.58,2.6
+1,Avg household size of renter-occupied unit,MO,Newton,2.49,2.43,2.42,2.4,2.37,2.43,2.56,2.46,2.53,2.51
+36,Owner-Occupied,MO,Newton,43282,43690,44062,44189,43943,42693,41241,41747,40674,41211
+37,Renter-Occupied,MO,Newton,13652,13177,13222,13320,13715,15089,16499,15469,16480,15898
+0,Avg household size of owner-occupied unit,MO,Nodaway,2.62,2.57,2.51,2.47,2.41,2.38,2.48,2.44,2.48,2.48
+1,Avg household size of renter-occupied unit,MO,Nodaway,2.14,2.09,2.13,2.19,2.18,2.17,2.13,2.11,2.14,2.02
+36,Owner-Occupied,MO,Nodaway,13245,12902,12397,11868,11450,11108,11661,11623,11826,12046
+37,Renter-Occupied,MO,Nodaway,7035,7422,7888,8315,8496,8654,8028,7886,7515,7156
+0,Avg household size of owner-occupied unit,MO,Oregon,2.48,2.41,2.4,2.41,2.46,2.56,2.59,2.52,2.55,2.51
+1,Avg household size of renter-occupied unit,MO,Oregon,2.12,2.24,2.27,2.22,2.23,2.24,2.13,2.14,2.15,2.37
+36,Owner-Occupied,MO,Oregon,8295,8284,8437,8387,8534,8432,8639,8514,8336,7877
+37,Renter-Occupied,MO,Oregon,2377,2421,2332,2430,2311,2408,2143,2131,2230,2637
+0,Avg household size of owner-occupied unit,MO,Osage,2.66,2.62,2.69,2.73,2.72,2.71,2.77,2.69,2.65,2.67
+1,Avg household size of renter-occupied unit,MO,Osage,2.13,2.23,2.25,2.2,2.31,2.22,2.14,2.25,2.4,2.24
+36,Owner-Occupied,MO,Osage,11941,11734,11734,11583,11453,11432,11536,11323,11285,11558
+37,Renter-Occupied,MO,Osage,1734,1913,1924,2027,2100,2046,1888,2009,2050,1773
+0,Avg household size of owner-occupied unit,MO,Ozark,2.41,2.38,2.3,2.36,2.25,2.29,2.23,2.32,2.27,2.34
+1,Avg household size of renter-occupied unit,MO,Ozark,2.59,2.5,2.36,2.31,2.1,1.99,2.02,2.05,1.95,2.15
+36,Owner-Occupied,MO,Ozark,7868,7795,7645,7585,7532,7482,7326,7394,7257,7198
+37,Renter-Occupied,MO,Ozark,1810,1805,1940,1967,1965,1925,1991,1804,1863,1907
+0,Avg household size of owner-occupied unit,MO,Pemiscot,2.57,2.64,2.57,2.62,2.56,2.54,2.47,2.49,2.5,2.51
+1,Avg household size of renter-occupied unit,MO,Pemiscot,2.64,2.67,2.58,2.54,2.59,2.51,2.55,2.49,2.42,2.37
+36,Owner-Occupied,MO,Pemiscot,10135,10109,10192,9972,9808,9502,9142,9059,9191,9148
+37,Renter-Occupied,MO,Pemiscot,8138,8033,7836,7943,7970,8117,8251,8083,7644,7324
+0,Avg household size of owner-occupied unit,MO,Perry,2.51,2.5,2.5,2.48,2.55,2.57,2.59,2.59,2.6,2.6
+1,Avg household size of renter-occupied unit,MO,Perry,2.22,2.29,2.35,2.5,2.41,2.42,2.33,2.19,2.11,2.14
+36,Owner-Occupied,MO,Perry,15093,14891,14595,14518,14679,14951,15015,14923,14716,14783
+37,Renter-Occupied,MO,Perry,3753,3766,4067,4163,4048,3828,3807,3878,4089,4061
+0,Avg household size of owner-occupied unit,MO,Pettis,2.58,2.6,2.63,2.66,2.66,2.68,2.72,2.65,2.67,2.65
+1,Avg household size of renter-occupied unit,MO,Pettis,2.37,2.33,2.32,2.3,2.29,2.31,2.31,2.45,2.46,2.43
+36,Owner-Occupied,MO,Pettis,30030,30159,29717,29996,29698,29427,29110,28536,28506,29269
+37,Renter-Occupied,MO,Pettis,10998,10924,11547,11343,11672,11917,12218,12870,12948,12151
+0,Avg household size of owner-occupied unit,MO,Phelps,2.64,2.66,2.65,2.65,2.61,2.59,2.54,2.49,2.44,2.47
+1,Avg household size of renter-occupied unit,MO,Phelps,2.07,2.14,2.25,2.28,2.36,2.42,2.39,2.3,2.26,2.08
+36,Owner-Occupied,MO,Phelps,28922,28832,27987,27065,26770,26348,25857,26223,25950,26451
+37,Renter-Occupied,MO,Phelps,11958,12536,13636,14726,15280,15689,15965,15613,15757,15070
+0,Avg household size of owner-occupied unit,MO,Pike,2.51,2.53,2.5,2.52,2.47,2.45,2.44,2.43,2.43,2.48
+1,Avg household size of renter-occupied unit,MO,Pike,2.15,2.3,2.35,2.35,2.4,2.51,2.4,2.32,2.44,2.41
+36,Owner-Occupied,MO,Pike,12075,12007,11787,12262,11900,11654,11744,11681,11415,11697
+37,Renter-Occupied,MO,Pike,4099,4214,4449,3999,4365,4557,4395,4500,4757,4490
+0,Avg household size of owner-occupied unit,MO,Platte,2.63,2.63,2.64,2.64,2.66,2.65,2.69,2.71,2.7,2.72
+1,Avg household size of renter-occupied unit,MO,Platte,2.09,2.12,2.1,2.1,2.15,2.12,2.15,2.16,2.23,2.2
+36,Owner-Occupied,MO,Platte,62472,61775,62713,62458,63119,64333,65505,67436,68579,70380
+37,Renter-Occupied,MO,Platte,23641,25726,26009,27515,28164,28186,28619,28659,29456,29487
+0,Avg household size of owner-occupied unit,MO,Polk,2.5,2.59,2.48,2.51,2.54,2.54,2.53,2.64,2.66,2.59
+1,Avg household size of renter-occupied unit,MO,Polk,2.44,2.47,2.63,2.46,2.47,2.48,2.43,2.36,2.45,2.55
+36,Owner-Occupied,MO,Polk,21110,21687,20424,20473,20190,19942,19881,20597,21287,20958
+37,Renter-Occupied,MO,Polk,7986,8247,9465,9320,9526,9643,9730,9231,8744,9246
+0,Avg household size of owner-occupied unit,MO,Pulaski,2.56,2.65,2.73,2.86,2.92,2.97,2.91,2.99,3.03,3.01
+1,Avg household size of renter-occupied unit,MO,Pulaski,2.59,2.58,2.63,2.61,2.71,2.72,2.81,2.69,2.74,2.68
+36,Owner-Occupied,MO,Pulaski,22209,23050,23283,24024,23824,22306,21869,22122,22154,22522
+37,Renter-Occupied,MO,Pulaski,17489,18077,18887,19199,19992,21595,21894,21450,21117,20572
+0,Avg household size of owner-occupied unit,MO,Putnam,2.34,2.28,2.1,2.12,2.16,2.2,2.22,2.33,2.52,2.74
+1,Avg household size of renter-occupied unit,MO,Putnam,2.05,1.96,2.11,2.36,2.14,2.19,2.38,2.74,2.91,2.51
+36,Owner-Occupied,MO,Putnam,3849,3800,3655,3529,3480,3587,3424,3315,3362,3682
+37,Renter-Occupied,MO,Putnam,1181,1113,1235,1336,1357,1241,1382,1458,1366,1000
+0,Avg household size of owner-occupied unit,MO,Ralls,2.45,2.4,2.46,2.51,2.51,2.47,2.49,2.48,2.47,2.46
+1,Avg household size of renter-occupied unit,MO,Ralls,2.36,2.34,2.43,2.48,2.53,2.77,2.85,2.8,2.85,2.76
+36,Owner-Occupied,MO,Ralls,8286,8243,8313,8257,8215,7969,8106,8147,8243,8281
+37,Renter-Occupied,MO,Ralls,1780,1832,1796,1860,1922,2191,2032,1972,1883,1864
+0,Avg household size of owner-occupied unit,MO,Randolph,2.6,2.67,2.65,2.62,2.67,2.77,2.75,2.79,2.83,2.74
+1,Avg household size of renter-occupied unit,MO,Randolph,2.23,2.31,2.44,2.51,2.66,2.57,2.51,2.51,2.4,2.34
+36,Owner-Occupied,MO,Randolph,17353,17290,16723,16718,16567,16999,17237,17577,17417,16896
+37,Renter-Occupied,MO,Randolph,5335,5994,6511,6394,6459,5971,5557,5147,5277,5752
+0,Avg household size of owner-occupied unit,MO,Ray,2.65,2.64,2.59,2.69,2.63,2.64,2.64,2.65,2.61,2.62
+1,Avg household size of renter-occupied unit,MO,Ray,2.17,2.27,2.38,2.4,2.55,2.6,2.49,2.44,2.39,2.28
+36,Owner-Occupied,MO,Ray,19210,18797,18182,18329,17512,17447,17789,17802,17787,18249
+37,Renter-Occupied,MO,Ray,4235,4357,4868,4610,5320,5274,4835,4769,4749,4347
+0,Avg household size of owner-occupied unit,MO,Reynolds,2.29,2.33,2.41,2.47,2.43,2.45,2.41,2.38,2.36,2.37
+1,Avg household size of renter-occupied unit,MO,Reynolds,2.2,2.19,2.27,2.35,2.38,2.21,2.3,2.2,2.15,2.22
+36,Owner-Occupied,MO,Reynolds,4865,4915,5083,5100,5106,5100,5107,4913,4927,4849
+37,Renter-Occupied,MO,Reynolds,1658,1634,1455,1403,1356,1281,1217,1245,1178,1230
+0,Avg household size of owner-occupied unit,MO,Ripley,2.43,2.44,2.51,2.45,2.46,2.5,2.5,2.48,2.56,2.6
+1,Avg household size of renter-occupied unit,MO,Ripley,2.64,2.72,2.69,2.7,2.91,2.77,2.88,2.78,2.96,2.94
+36,Owner-Occupied,MO,Ripley,9926,10010,9798,9764,9927,10202,10083,10274,10427,10399
+37,Renter-Occupied,MO,Ripley,3911,3940,4161,4214,4048,3728,3796,3480,3215,3120
+0,Avg household size of owner-occupied unit,MO,St. Charles,2.75,2.74,2.73,2.73,2.73,2.72,2.73,2.74,2.73,2.74
+1,Avg household size of renter-occupied unit,MO,St. Charles,2.14,2.18,2.25,2.28,2.33,2.38,2.34,2.3,2.27,2.21
+36,Owner-Occupied,MO,St. Charles,294839,299441,297596,298268,299643,299607,305965,312824,318013,323744
+37,Renter-Occupied,MO,St. Charles,50676,51837,57755,61089,64146,68728,67048,65043,64454,62885
+0,Avg household size of owner-occupied unit,MO,St. Clair,2.26,2.24,2.2,2.31,2.35,2.36,2.35,2.27,2.26,2.24
+1,Avg household size of renter-occupied unit,MO,St. Clair,2.17,2.06,2.11,2.19,2.19,2.18,2.15,2.02,2.03,2.03
+36,Owner-Occupied,MO,St. Clair,7885,7653,7540,7410,7394,7169,7228,7071,7251,7261
+37,Renter-Occupied,MO,St. Clair,1793,1911,1960,2032,1997,2121,1973,2073,1863,1824
+0,Avg household size of owner-occupied unit,MO,Ste. Genevieve,2.48,2.5,2.46,2.48,2.48,2.54,2.51,2.53,2.52,2.52
+1,Avg household size of renter-occupied unit,MO,Ste. Genevieve,2.12,2.35,2.29,2.32,2.38,2.24,2.3,2.19,2.3,2.25
+36,Owner-Occupied,MO,Ste. Genevieve,15229,14797,14817,14732,14582,14642,14104,14025,13933,14379
+37,Renter-Occupied,MO,Ste. Genevieve,2574,3074,2962,2998,3168,3087,3570,3596,3681,3187
+0,Avg household size of owner-occupied unit,MO,St. Francois,2.46,2.41,2.42,2.43,2.44,2.42,2.48,2.46,2.45,2.42
+1,Avg household size of renter-occupied unit,MO,St. Francois,2.19,2.09,2.13,2.15,2.11,2.16,2.22,2.27,2.24,2.35
+36,Owner-Occupied,MO,St. Francois,43657,41570,41439,41135,40328,40013,41748,41697,41648,41166
+37,Renter-Occupied,MO,St. Francois,13904,15261,15911,16615,17689,18159,17629,17584,17680,18450
+0,Avg household size of owner-occupied unit,MO,St. Louis,2.53,2.53,2.52,2.53,2.54,2.54,2.54,2.52,2.52,2.5
+1,Avg household size of renter-occupied unit,MO,St. Louis,2.1,2.14,2.18,2.18,2.2,2.23,2.23,2.24,2.23,2.21
+36,Owner-Occupied,MO,St. Louis,743228,737837,728454,725285,722301,715668,710162,706122,700460,695797
+37,Renter-Occupied,MO,St. Louis,233250,241666,251539,255251,259025,266725,271522,274568,279437,282414
+0,Avg household size of owner-occupied unit,MO,Saline,2.42,2.4,2.45,2.52,2.55,2.5,2.53,2.54,2.58,2.65
+1,Avg household size of renter-occupied unit,MO,Saline,2.39,2.38,2.44,2.41,2.3,2.44,2.38,2.32,2.43,2.51
+36,Owner-Occupied,MO,Saline,15129,15051,14847,14952,15252,14984,15003,15236,15232,15251
+37,Renter-Occupied,MO,Saline,6446,6323,6724,6811,6642,6966,6833,6389,6478,6332
+0,Avg household size of owner-occupied unit,MO,Schuyler,2.08,2.18,2.54,2.52,2.5,2.52,2.54,2.57,2.76,3.16
+1,Avg household size of renter-occupied unit,MO,Schuyler,2.05,2.34,2.33,2.3,2.45,2.53,2.47,2.81,2.9,2.8
+36,Owner-Occupied,MO,Schuyler,3123,2930,3168,3166,3190,3212,3077,3101,3137,3232
+37,Renter-Occupied,MO,Schuyler,1228,1406,1179,1182,1149,1133,1268,1297,1312,1270
+0,Avg household size of owner-occupied unit,MO,Scotland,2.49,2.37,2.48,2.55,2.56,2.54,2.75,2.6,2.71,2.81
+1,Avg household size of renter-occupied unit,MO,Scotland,1.96,2.23,2.13,2.23,2.43,2.7,2.49,2.45,2.48,2.42
+36,Owner-Occupied,MO,Scotland,3900,3628,3858,3855,3611,3488,3641,3479,3491,3854
+37,Renter-Occupied,MO,Scotland,808,1087,875,903,1153,1290,1155,1307,1315,959
+0,Avg household size of owner-occupied unit,MO,Scott,2.53,2.58,2.55,2.53,2.51,2.51,2.5,2.5,2.52,2.53
+1,Avg household size of renter-occupied unit,MO,Scott,2.38,2.47,2.49,2.58,2.51,2.55,2.55,2.54,2.38,2.43
+36,Owner-Occupied,MO,Scott,27279,27032,26430,26577,26292,26067,26319,26219,26023,25698
+37,Renter-Occupied,MO,Scott,11264,11691,12207,12075,12278,12417,12086,12057,12130,12343
+0,Avg household size of owner-occupied unit,MO,Shannon,2.5,2.47,2.47,2.51,2.49,2.5,2.62,2.6,2.56,2.6
+1,Avg household size of renter-occupied unit,MO,Shannon,2.34,2.49,2.42,2.79,2.49,2.51,2.38,2.55,2.57,2.77
+36,Owner-Occupied,MO,Shannon,6640,6526,6667,6308,6399,6368,6284,5876,5817,5845
+37,Renter-Occupied,MO,Shannon,1754,1796,1628,1966,1844,1837,1858,2282,2314,2259
+0,Avg household size of owner-occupied unit,MO,Shelby,2.4,2.41,2.43,2.44,2.42,2.32,2.32,2.26,2.2,2.22
+1,Avg household size of renter-occupied unit,MO,Shelby,2.05,2.06,1.96,2.01,2.13,2.49,2.52,2.72,2.83,2.76
+36,Owner-Occupied,MO,Shelby,4557,4490,4501,4489,4501,4123,4177,4073,4062,3987
+37,Renter-Occupied,MO,Shelby,1655,1622,1552,1516,1454,1793,1704,1743,1724,1756
+0,Avg household size of owner-occupied unit,MO,Stoddard,2.47,2.49,2.48,2.47,2.51,2.51,2.55,2.57,2.54,2.54
+1,Avg household size of renter-occupied unit,MO,Stoddard,2.34,2.18,2.23,2.18,2.2,2.23,2.28,2.27,2.36,2.43
+36,Owner-Occupied,MO,Stoddard,21180,21203,21205,21654,21667,21347,20892,20926,20419,19956
+37,Renter-Occupied,MO,Stoddard,8344,8059,7980,7532,7564,7910,8361,8224,8615,8961
+0,Avg household size of owner-occupied unit,MO,Stone,2.28,2.38,2.4,2.36,2.37,2.4,2.41,2.38,2.41,2.44
+1,Avg household size of renter-occupied unit,MO,Stone,2.56,2.46,2.4,2.4,2.46,2.48,2.49,2.56,2.48,2.44
+36,Owner-Occupied,MO,Stone,23445,24699,24918,24679,24683,24346,24111,24516,25355,25474
+37,Renter-Occupied,MO,Stone,8321,7159,6749,6831,6588,6668,6675,6588,5726,5688
+0,Avg household size of owner-occupied unit,MO,Sullivan,2.6,2.58,2.52,2.51,2.49,2.55,2.58,2.58,2.73,2.75
+1,Avg household size of renter-occupied unit,MO,Sullivan,2.34,2.39,2.44,2.37,2.43,2.61,2.83,3.13,3.04,3.08
+36,Owner-Occupied,MO,Sullivan,4852,4550,4453,4583,4487,4590,4544,4356,4261,4353
+37,Renter-Occupied,MO,Sullivan,1818,2020,2096,1924,1972,1847,1759,1866,1863,1674
+0,Avg household size of owner-occupied unit,MO,Taney,2.33,2.35,2.42,2.42,2.44,2.42,2.38,2.38,2.37,2.4
+1,Avg household size of renter-occupied unit,MO,Taney,2.36,2.45,2.48,2.51,2.56,2.45,2.4,2.37,2.36,2.38
+36,Owner-Occupied,MO,Taney,32043,32509,32173,31614,30899,30869,30184,31335,31745,33037
+37,Renter-Occupied,MO,Taney,15444,16470,17752,19087,20444,20934,21878,21206,21205,20309
+0,Avg household size of owner-occupied unit,MO,Texas,2.44,2.43,2.38,2.49,2.59,2.7,2.67,2.65,2.58,2.51
+1,Avg household size of renter-occupied unit,MO,Texas,2.75,2.71,2.82,2.87,2.76,2.56,2.53,2.51,2.4,2.43
+36,Owner-Occupied,MO,Texas,17242,17173,16896,17574,17902,18429,17788,18284,18198,17701
+37,Renter-Occupied,MO,Texas,6751,6798,7233,6645,6400,5928,6513,6053,6081,6527
+0,Avg household size of owner-occupied unit,MO,Vernon,2.49,2.5,2.48,2.55,2.53,2.5,2.51,2.52,2.54,2.53
+1,Avg household size of renter-occupied unit,MO,Vernon,2.35,2.34,2.38,2.4,2.37,2.48,2.31,2.27,2.24,2.17
+36,Owner-Occupied,MO,Vernon,14518,14656,14562,14245,14210,13541,13564,14050,14457,14879
+37,Renter-Occupied,MO,Vernon,5880,5342,5461,5821,5913,6530,6487,5873,5541,5033
+0,Avg household size of owner-occupied unit,MO,Warren,2.57,2.51,2.52,2.54,2.64,2.76,2.85,2.8,2.79,2.7
+1,Avg household size of renter-occupied unit,MO,Warren,2.56,2.65,2.59,2.69,2.61,2.64,2.58,2.59,2.58,2.69
+36,Owner-Occupied,MO,Warren,24392,24961,24903,25365,25868,26098,26195,26888,26557,26901
+37,Renter-Occupied,MO,Warren,6696,6798,7194,6962,6640,6601,6751,6322,7007,7206
+0,Avg household size of owner-occupied unit,MO,Washington,2.7,2.7,2.69,2.69,2.73,2.71,2.68,2.68,2.64,2.62
+1,Avg household size of renter-occupied unit,MO,Washington,2.35,2.32,2.36,2.38,2.37,2.49,2.48,2.45,2.52,2.39
+36,Owner-Occupied,MO,Washington,19684,19414,18858,18860,19271,19386,19809,19823,19442,19210
+37,Renter-Occupied,MO,Washington,4152,4596,5198,5192,4759,4570,4074,4026,4375,4542
+0,Avg household size of owner-occupied unit,MO,Wayne,2.37,2.42,2.38,2.39,2.35,2.4,2.35,2.37,2.39,2.37
+1,Avg household size of renter-occupied unit,MO,Wayne,2.07,2.2,2.25,2.34,2.56,2.51,2.33,2.56,2.51,2.52
+36,Owner-Occupied,MO,Wayne,10117,10016,9860,10012,9928,10150,10105,9950,9667,9437
+37,Renter-Occupied,MO,Wayne,3228,3282,3425,3261,3341,3091,3075,3273,3508,3626
+0,Avg household size of owner-occupied unit,MO,Webster,2.73,2.78,2.82,2.84,2.9,2.84,2.79,2.78,2.77,2.79
+1,Avg household size of renter-occupied unit,MO,Webster,2.63,2.63,2.59,2.68,2.54,2.61,2.67,2.68,2.71,2.75
+36,Owner-Occupied,MO,Webster,27066,27490,27704,27336,27292,27024,26475,26904,27779,28407
+37,Renter-Occupied,MO,Webster,7964,7786,7714,8188,8352,8777,9671,9712,9384,9347
+0,Avg household size of owner-occupied unit,MO,Worth,2.16,2.14,2.04,2.16,2.25,2.16,2.17,2.33,2.4,2.39
+1,Avg household size of renter-occupied unit,MO,Worth,2.24,2.19,2.37,2.31,2.41,2.5,2.23,2.0,2.09,2.07
+36,Owner-Occupied,MO,Worth,1632,1559,1508,1548,1498,1453,1470,1564,1578,1565
+37,Renter-Occupied,MO,Worth,500,541,567,516,545,571,534,435,416,421
+0,Avg household size of owner-occupied unit,MO,Wright,2.48,2.43,2.42,2.51,2.5,2.52,2.49,2.49,2.59,2.73
+1,Avg household size of renter-occupied unit,MO,Wright,2.47,2.53,2.67,2.56,2.52,2.39,2.38,2.27,2.25,2.15
+36,Owner-Occupied,MO,Wright,13288,12788,12551,13222,13407,12851,12519,12720,13078,13465
+37,Renter-Occupied,MO,Wright,5280,5730,5943,5191,4936,5395,5659,5389,5022,4553
+0,Avg household size of owner-occupied unit,MO,St. Lou,2.36,2.38,2.36,2.37,2.38,2.39,2.38,2.39,2.36,2.32
+1,Avg household size of renter-occupied unit,MO,St. Lou,2.03,2.05,2.07,2.05,2.07,2.05,2.03,2.01,1.98,1.93
+36,Owner-Occupied,MO,St. Lou,156689,154046,150203,148348,146668,146669,143970,145381,143632,143648
+37,Renter-Occupied,MO,St. Lou,150848,153234,157228,159579,160959,160144,161352,158930,157230,154271

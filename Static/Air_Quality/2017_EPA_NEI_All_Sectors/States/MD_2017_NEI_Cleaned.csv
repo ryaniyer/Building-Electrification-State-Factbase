@@ -1,0 +1,1609 @@
+,state,fips code,county,sector,pollutant desc,pollutant type(s),total emissions,emissions uom
+3204,MD,24013,Carroll,Fuel Comb - Residential - Wood,Ammonia,CAP,16.86821301,TON
+7706,MD,24001,Allegany,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,4.3233973,TON
+8929,MD,24003,Anne Arundel,Fuel Comb - Residential - Oil,Ammonia,CAP,4.8129862999999995,TON
+11814,MD,24029,Kent,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.5173873,TON
+13117,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.07010778,TON
+13955,MD,24035,Queen Annes,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.00906608,TON
+15933,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,10.43643,TON
+17919,MD,24009,Calvert,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.1351039,TON
+18747,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.04975483,TON
+26330,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.39096644,TON
+35203,MD,24005,Baltimore,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,2.51,TON
+45107,MD,24017,Charles,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,6.273055724,TON
+50318,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,61.74029,TON
+60666,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,40.393359999999994,TON
+61809,MD,24017,Charles,Commercial Cooking,Volatile Organic Compounds,CAP,10.40338883,TON
+62883,MD,24017,Charles,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.23,TON
+64323,MD,24015,Cecil,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,17.9045614,TON
+67214,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+68600,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+72894,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.008798021,TON
+74183,MD,24029,Kent,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+74854,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,3.743269,TON
+75523,MD,24037,St. Marys,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.101119,TON
+83924,MD,24017,Charles,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.7955509999999997,TON
+88656,MD,24039,Somerset,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.03437088,TON
+92631,MD,24017,Charles,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.066206998,TON
+96250,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.14798023,TON
+96707,MD,24047,Worcester,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,49.698006335,TON
+97757,MD,24021,Frederick,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,362.20560665,TON
+97951,MD,24039,Somerset,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,38.304032028,TON
+98531,MD,24039,Somerset,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.006290341,TON
+102804,MD,24025,Harford,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,65.240144,TON
+109184,MD,24017,Charles,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.09035641,TON
+124790,MD,24047,Worcester,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.05470875,TON
+128020,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,3.3800190000000003,TON
+128177,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,1.8357729999999999,TON
+130365,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.9033760000000001,TON
+133260,MD,24025,Harford,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.6519923000000001,TON
+134206,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,8.972996,TON
+134684,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.263665604,TON
+137097,MD,24033,Prince Georges,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,74.66487634,TON
+141855,MD,24045,Wicomico,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,5.2256863,TON
+143138,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.18116745399999998,TON
+144681,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+147142,MD,24035,Queen Annes,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,10.6187894,TON
+150719,MD,24027,Howard,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,59.60866,TON
+151034,MD,24029,Kent,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+153907,MD,24043,Washington,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.7100983000000001,TON
+156279,MD,24039,Somerset,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.005201628,TON
+158256,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.2285889,TON
+158572,MD,24015,Cecil,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,3.23193166,TON
+162257,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.7330259999999997,TON
+164842,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.140268,TON
+179481,MD,24025,Harford,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,18.1222589,TON
+181329,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.13543840000000001,TON
+183037,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+185728,MD,24023,Garrett,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.03902691,TON
+185927,MD,24027,Howard,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,2.01892593,TON
+186052,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+192239,MD,24043,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,80.569825,TON
+193761,MD,24021,Frederick,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,40.58143684,TON
+203917,MD,24035,Queen Annes,Fuel Comb - Residential - Other,Ammonia,CAP,0.05062682,TON
+208133,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0016654810000000001,TON
+211338,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,128.37168400000002,TON
+211339,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,6.7429671897,TON
+216693,MD,24017,Charles,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,10.95616,TON
+228495,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+230044,MD,24510,Baltimore city,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,2.77,TON
+231087,MD,24039,Somerset,Commercial Cooking,Volatile Organic Compounds,CAP,0.8407086970000001,TON
+231629,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,2.8675013,TON
+242230,MD,24029,Kent,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.23763649,TON
+246279,MD,24029,Kent,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.03652495,TON
+249956,MD,24043,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,67.676455,TON
+252296,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,25.4098185,TON
+253576,MD,24013,Carroll,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,93.12853100000001,TON
+254742,MD,24037,St. Marys,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,55.200034499999994,TON
+255110,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+262846,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,51.62212,TON
+263174,MD,24029,Kent,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,2.151761,TON
+264946,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.002497223,TON
+265266,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.03884803,TON
+275421,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0664913,TON
+280487,MD,24017,Charles,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,7.4108827999999995,TON
+282211,MD,24037,St. Marys,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,5.2097382,TON
+283464,MD,24017,Charles,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.009160665,TON
+287115,MD,24510,Baltimore city,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,39.64576339999999,TON
+287824,MD,24003,Anne Arundel,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,99.64716,TON
+290621,MD,24021,Frederick,Fuel Comb - Residential - Wood,Ammonia,CAP,21.121580356,TON
+291904,MD,24041,Talbot,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,3.7239367,TON
+299913,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+306127,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+307457,MD,24025,Harford,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,35.21305,TON
+308606,MD,24039,Somerset,Commercial Cooking,Carbon Monoxide,CAP,2.3273296,TON
+311429,MD,24009,Calvert,Commercial Cooking,Volatile Organic Compounds,CAP,6.18631129,TON
+320054,MD,24029,Kent,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,2.6743799999999998,TON
+324379,MD,24009,Calvert,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.04346787,TON
+325822,MD,24019,Dorchester,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.02963865,TON
+327458,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+327602,MD,24005,Baltimore,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,631.42122991,TON
+332379,MD,24017,Charles,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+332851,MD,24017,Charles,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,3.012945,TON
+334387,MD,24025,Harford,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,7.720084399999999,TON
+339073,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+340664,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,2.464125,TON
+342265,MD,24027,Howard,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+343656,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+351121,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.15126805,TON
+352393,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,25.250128,TON
+362564,MD,24029,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.04162146,TON
+363575,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.537153,TON
+365659,MD,24033,Prince Georges,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.7653472,TON
+369246,MD,24015,Cecil,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.11417360000000001,TON
+381056,MD,24025,Harford,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.44511069999999997,TON
+383430,MD,24047,Worcester,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,1.0062000000000001e-05,TON
+385223,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,679.486935,TON
+395716,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.127811904,TON
+404215,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.0030410579999999997,TON
+411479,MD,24025,Harford,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,110.07621,TON
+414574,MD,24011,Caroline,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,2.47203511,TON
+417983,MD,24027,Howard,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,2.2558887999999997,TON
+423589,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.031626999999999995,TON
+423922,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,5.84265678,TON
+425822,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.001696808,TON
+427101,MD,24013,Carroll,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2187.2260952,TON
+433940,MD,24011,Caroline,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.35251227799999996,TON
+434334,MD,24037,St. Marys,Commercial Cooking,Carbon Monoxide,CAP,21.160918,TON
+438494,MD,24019,Dorchester,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.053225,TON
+441193,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,2.202048,TON
+441273,MD,24027,Howard,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.88,TON
+443063,MD,24005,Baltimore,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.1193654,TON
+443229,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.35689703700000003,TON
+443299,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,5.6535012,TON
+446852,MD,24031,Montgomery,Commercial Cooking,Carbon Monoxide,CAP,229.23816000000002,TON
+452189,MD,24045,Wicomico,Commercial Cooking,Carbon Monoxide,CAP,22.510786,TON
+455291,MD,24039,Somerset,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,9.337729,TON
+455292,MD,24039,Somerset,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.02842207,TON
+457830,MD,24043,Washington,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,19.382460000000002,TON
+459465,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.06547321,TON
+461386,MD,24009,Calvert,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.01473861,TON
+461931,MD,24025,Harford,Fuel Comb - Residential - Other,Ammonia,CAP,0.12213199999999999,TON
+462650,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,3.0401605,TON
+463275,MD,24045,Wicomico,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,133.59616802,TON
+469786,MD,24041,Talbot,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,35.1598327,TON
+475568,MD,24013,Carroll,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,7.834989,TON
+475985,MD,24029,Kent,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.01793134,TON
+477222,MD,24043,Washington,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,14.439929999999999,TON
+478214,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,4.283879,TON
+479630,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,2.126963,TON
+484348,MD,24023,Garrett,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.36683649999999995,TON
+494923,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+495134,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,2.123255,TON
+497438,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.4360494000000001,TON
+497911,MD,24045,Wicomico,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,3.800928,TON
+498224,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.002498221,TON
+499394,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+499813,MD,24039,Somerset,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.71499829,TON
+507261,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.83028169,TON
+508360,MD,24031,Montgomery,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,7.8246687,TON
+510368,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.191688477,TON
+514920,MD,24027,Howard,Fuel Comb - Residential - Oil,Ammonia,CAP,0.9478525,TON
+516215,MD,24013,Carroll,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,40.458659999999995,TON
+518205,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,6.2484839999999995,TON
+524261,MD,24025,Harford,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,117.390875,TON
+525211,MD,24029,Kent,Commercial Cooking,Volatile Organic Compounds,CAP,2.144360318,TON
+533016,MD,24029,Kent,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.7099098,TON
+538892,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.006126637,TON
+539882,MD,24510,Baltimore city,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,106.6327,TON
+546319,MD,24031,Montgomery,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,361.6867,TON
+555978,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.402405,TON
+557921,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.01578329,TON
+562971,MD,24510,Baltimore city,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.997665760152431,TON
+570979,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+571877,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6906071999999999,TON
+575113,MD,24025,Harford,Commercial Cooking,Carbon Monoxide,CAP,46.162161,TON
+575857,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+576394,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,18.7768,TON
+579661,MD,24045,Wicomico,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,3.380675166,TON
+582201,MD,24041,Talbot,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,68.41450956,TON
+587262,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.167583617,TON
+587811,MD,24003,Anne Arundel,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,10.2516646,TON
+587946,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+588553,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,6.186407,TON
+590368,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+591475,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,2.823384,TON
+593961,MD,24029,Kent,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0029723590000000004,TON
+601293,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,1.7914868000000002,TON
+603375,MD,24027,Howard,Commercial Cooking,Carbon Monoxide,CAP,71.61187199999999,TON
+606818,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.0700163,TON
+608096,MD,24047,Worcester,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,101.764278,TON
+610109,MD,24043,Washington,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.01310043,TON
+611081,MD,24037,St. Marys,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,19.626181,TON
+612243,MD,24017,Charles,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.0113373,TON
+620141,MD,24011,Caroline,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,69.91637395,TON
+622249,MD,24033,Prince Georges,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,25.34885,TON
+627504,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.081427338,TON
+630789,MD,24021,Frederick,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.8786200000000001,TON
+631682,MD,24035,Queen Annes,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.09589123,TON
+637615,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,1.6098979,TON
+642786,MD,24031,Montgomery,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,4.7,TON
+651481,MD,24043,Washington,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,7.106901,TON
+654657,MD,24510,Baltimore city,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.57041297,TON
+654916,MD,24041,Talbot,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,2.054618,TON
+663229,MD,24001,Allegany,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,156.96133365,TON
+663584,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.07215983299999999,TON
+663757,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.09865601,TON
+669041,MD,24043,Washington,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.8104522,TON
+672646,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+675813,MD,24027,Howard,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,215.39583059999998,TON
+689084,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.00808936,TON
+692929,MD,24025,Harford,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.5,TON
+693983,MD,24009,Calvert,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.01,TON
+702259,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.369532573,TON
+711075,MD,24029,Kent,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.04416971,TON
+712011,MD,24029,Kent,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+715416,MD,24047,Worcester,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,3.3555756000000003,TON
+717072,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,3.66340595,TON
+724788,MD,24021,Frederick,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.7066284,TON
+728747,MD,24035,Queen Annes,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.007496951,TON
+729215,MD,24019,Dorchester,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.02203801,TON
+730560,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.879265,TON
+734624,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,4.27978706,TON
+745169,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+745724,MD,24035,Queen Annes,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.06199436,TON
+746495,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,125.7726,TON
+749174,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.01055763,TON
+753049,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,4.0376102,TON
+758836,MD,24510,Baltimore city,Commercial Cooking,Volatile Organic Compounds,CAP,58.664872499999994,TON
+766356,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+769595,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.05690409,TON
+771012,MD,24037,St. Marys,Fuel Comb - Residential - Other,Ammonia,CAP,0.08257743,TON
+771739,MD,24013,Carroll,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.12821480000000002,TON
+772307,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,364.60724510000006,TON
+774133,MD,24021,Frederick,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,362.07575765,TON
+776590,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,14.507941500000001,TON
+777425,MD,24027,Howard,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,184.33713400000002,TON
+778987,MD,24015,Cecil,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,157.63556895,TON
+781890,MD,24011,Caroline,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.03302336,TON
+786806,MD,24019,Dorchester,Fuel Comb - Residential - Other,Ammonia,CAP,0.02511213,TON
+790780,MD,24003,Anne Arundel,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,49.82358,TON
+791782,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,5.919206299999999,TON
+794939,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.49843087,TON
+797005,MD,24043,Washington,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,7.0590204,TON
+801332,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.1752815,TON
+802947,MD,24017,Charles,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,3.52758005,TON
+803233,MD,24031,Montgomery,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.16287870000000002,TON
+808911,MD,24041,Talbot,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.02515024,TON
+809012,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,2.955769,TON
+810579,MD,24510,Baltimore city,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,501.1736,TON
+816006,MD,24037,St. Marys,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,51.284619,TON
+825690,MD,24013,Carroll,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.2582468,TON
+828955,MD,24043,Washington,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+830059,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.20142870000000002,TON
+833828,MD,24009,Calvert,Commercial Cooking,Carbon Monoxide,CAP,17.489265,TON
+835841,MD,24029,Kent,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,14.482030800000002,TON
+836517,MD,24510,Baltimore city,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,390.868441,TON
+837403,MD,24001,Allegany,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,156.95521005,TON
+843762,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.06981689,TON
+847094,MD,24027,Howard,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,44.40845,TON
+847692,MD,24011,Caroline,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,9.2211609,TON
+853150,MD,24510,Baltimore city,Fuel Comb - Residential - Wood,Ammonia,CAP,3.265729870207265,TON
+861906,MD,24039,Somerset,Fuel Comb - Residential - Other,Ammonia,CAP,0.03238672,TON
+882350,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.005392905999999999,TON
+888465,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.19823921,TON
+889489,MD,24023,Garrett,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1036.0227444,TON
+898857,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.11473507,TON
+899022,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+904938,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.006741133000000001,TON
+911021,MD,24027,Howard,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,1.97254453,TON
+914850,MD,24037,St. Marys,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,203.60603033,TON
+915057,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.12332,TON
+917790,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,1.1570799999999999,TON
+920432,MD,24043,Washington,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,5.903336,TON
+924132,MD,24005,Baltimore,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,32.11227,TON
+925011,MD,24043,Washington,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,12.2358185,TON
+925012,MD,24043,Washington,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,5.2124565,TON
+925045,MD,24025,Harford,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.703395,TON
+925964,MD,24045,Wicomico,Fuel Comb - Residential - Other,Ammonia,CAP,0.06815681,TON
+926020,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.06067378,TON
+927384,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,3.3110964999999997,TON
+934464,MD,24037,St. Marys,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,178.11630159,TON
+937117,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+944765,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+946169,MD,24025,Harford,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.149555,TON
+946783,MD,24017,Charles,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,1.482798183,TON
+951470,MD,24033,Prince Georges,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,6.7288109,TON
+956596,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.04570045,TON
+958725,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.18382151,TON
+968732,MD,24011,Caroline,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,1.29e-07,TON
+969464,MD,24015,Cecil,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,37.51036,TON
+974300,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,4.00557,TON
+976609,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.20443064800000002,TON
+979121,MD,24013,Carroll,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,29.516056,TON
+981796,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.8567758,TON
+985463,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.006272007,TON
+988092,MD,24011,Caroline,Fuel Comb - Residential - Wood,Ammonia,CAP,4.001353861,TON
+988176,MD,24039,Somerset,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,1.1371,TON
+988442,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.3128599,TON
+988755,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,7.2886745,TON
+988794,MD,24031,Montgomery,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4001.44323718,TON
+995129,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,4.608873,TON
+1002581,MD,24043,Washington,Fuel Comb - Residential - Oil,Ammonia,CAP,2.4471627000000002,TON
+1002787,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.08374680000000001,TON
+1003206,MD,24039,Somerset,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,2.6935497,TON
+1007359,MD,24011,Caroline,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,81.010411869,TON
+1014837,MD,24011,Caroline,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,3.9672015,TON
+1017953,MD,24023,Garrett,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.49918140000000005,TON
+1020182,MD,24021,Frederick,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.47,TON
+1023727,MD,24001,Allegany,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.33,TON
+1023916,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.05435739,TON
+1030169,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.3324565,TON
+1031013,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1033770,MD,24047,Worcester,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.6997631,TON
+1042950,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0024328460000000002,TON
+1043340,MD,24025,Harford,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,13.33286439,TON
+1044071,MD,24047,Worcester,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,56.847790365,TON
+1045120,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.002036169,TON
+1050966,MD,24001,Allegany,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,1.28233799,TON
+1053833,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1055231,MD,24029,Kent,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,1.6664546999999998,TON
+1056181,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,145.9643,TON
+1056182,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,4.135656,TON
+1056763,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1056764,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1060545,MD,24041,Talbot,Fuel Comb - Residential - Other,Ammonia,CAP,0.028658499999999996,TON
+1061305,MD,24045,Wicomico,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.7650543000000001,TON
+1065823,MD,24041,Talbot,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.811288218,TON
+1067542,MD,24015,Cecil,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,24.443175600000004,TON
+1075629,MD,24037,St. Marys,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,5.8212088,TON
+1075845,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.334834,TON
+1080709,MD,24045,Wicomico,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.05981333,TON
+1082104,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,20.117019600000003,TON
+1085289,MD,24027,Howard,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,257.92722584,TON
+1088749,MD,24015,Cecil,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1177.9012432,TON
+1090283,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0355196177,TON
+1090953,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1093728,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1095053,MD,24023,Garrett,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.04719533,TON
+1097816,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.16044,TON
+1098136,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.5924946999999999,TON
+1098191,MD,24005,Baltimore,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,116.7719,TON
+1100066,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,57.7342,TON
+1118643,MD,24027,Howard,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,160.0877,TON
+1122886,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,56.755725,TON
+1125890,MD,24017,Charles,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.28,TON
+1127254,MD,24031,Montgomery,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,7.0027492,TON
+1127664,MD,24017,Charles,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.3837932,TON
+1142524,MD,24019,Dorchester,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,6.11949956,TON
+1159908,MD,24047,Worcester,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,378.10462143,TON
+1161737,MD,24033,Prince Georges,Fuel Comb - Residential - Wood,Ammonia,CAP,37.385840109,TON
+1162211,MD,24041,Talbot,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.330896523,TON
+1165052,MD,24019,Dorchester,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,10.3411531,TON
+1169519,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0818262379,TON
+1171847,MD,24037,St. Marys,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.74391706,TON
+1176494,MD,24047,Worcester,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,1.404e-05,TON
+1180040,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.001357446,TON
+1180990,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,1.0411511,TON
+1192897,MD,24003,Anne Arundel,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,355.714388,TON
+1199552,MD,24025,Harford,Fuel Comb - Residential - Wood,Ammonia,CAP,17.276824983,TON
+1200809,MD,24027,Howard,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,6.293861496,TON
+1203823,MD,24033,Prince Georges,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,152.4482,TON
+1204320,MD,24001,Allegany,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,172.38219641,TON
+1204447,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1207552,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,20.6886,TON
+1216715,MD,24005,Baltimore,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.09870598,TON
+1223643,MD,24023,Garrett,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,7.461551200000001,TON
+1226453,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1235993,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,33.9218245,TON
+1236894,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,2.841539,TON
+1242807,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1248857,MD,24037,St. Marys,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,12.2294324,TON
+1249223,MD,24029,Kent,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.06096657,TON
+1251026,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.001997778,TON
+1251215,MD,24021,Frederick,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,6.043366000000001,TON
+1252070,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.02815417,TON
+1252631,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.10953130000000001,TON
+1253032,MD,24025,Harford,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,23.4465,TON
+1258176,MD,24029,Kent,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,44.094500763,TON
+1265085,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.48899544,TON
+1265215,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1265216,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1268315,MD,24021,Frederick,Fuel Comb - Residential - Other,Ammonia,CAP,0.07827411,TON
+1273652,MD,24003,Anne Arundel,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,1.494707,TON
+1274608,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,24.665618,TON
+1277081,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,3.45634386,TON
+1279471,MD,24015,Cecil,Fuel Comb - Residential - Oil,Ammonia,CAP,1.35795409,TON
+1284061,MD,24011,Caroline,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.03993523,TON
+1284521,MD,24005,Baltimore,Fuel Comb - Residential - Oil,Ammonia,CAP,4.975717700000001,TON
+1294533,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,42.9964441,TON
+1296856,MD,24041,Talbot,Fuel Comb - Residential - Wood,Ammonia,CAP,4.00204485,TON
+1305146,MD,24031,Montgomery,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.1167298,TON
+1306970,MD,24017,Charles,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,9.342853,TON
+1308249,MD,24003,Anne Arundel,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.15379690000000001,TON
+1311116,MD,24027,Howard,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,1.021836,TON
+1316293,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.5199391999999999,TON
+1320126,MD,24037,St. Marys,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,4.7472520430000005,TON
+1323068,MD,24011,Caroline,Fuel Comb - Residential - Oil,Ammonia,CAP,0.49440702,TON
+1325895,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1326408,MD,24017,Charles,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.3072118,TON
+1326460,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,1.603008,TON
+1328234,MD,24029,Kent,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.6497715000000001,TON
+1329024,MD,24029,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.05096505,TON
+1331325,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1333071,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,50.5759666,TON
+1335601,MD,24025,Harford,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.7181126999999999,TON
+1337631,MD,24029,Kent,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,15.6036041,TON
+1339355,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1349517,MD,24041,Talbot,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.03509336,TON
+1355856,MD,24035,Queen Annes,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,99.91013303,TON
+1357378,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.68877069,TON
+1361268,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.257767,TON
+1368576,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.9983629999999994,TON
+1369595,MD,24045,Wicomico,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.08346046,TON
+1370735,MD,24033,Prince Georges,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.07236010000000001,TON
+1377638,MD,24025,Harford,Commercial Cooking,Volatile Organic Compounds,CAP,16.39672782,TON
+1385557,MD,24003,Anne Arundel,Commercial Cooking,Carbon Monoxide,CAP,137.672993,TON
+1390587,MD,24039,Somerset,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,5.52468194,TON
+1393199,MD,24041,Talbot,Fuel Comb - Residential - Oil,Ammonia,CAP,0.46409058,TON
+1393264,MD,24041,Talbot,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,77.720086729,TON
+1395995,MD,24510,Baltimore city,Commercial Cooking,Carbon Monoxide,CAP,165.063955,TON
+1399440,MD,24027,Howard,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.06043345,TON
+1402975,MD,24035,Queen Annes,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,1.40404014,TON
+1403485,MD,24017,Charles,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,8.077863,TON
+1404222,MD,24017,Charles,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.013612665,TON
+1409311,MD,24033,Prince Georges,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.08349242,TON
+1413820,MD,24035,Queen Annes,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,2.71233521,TON
+1417872,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.062724531,TON
+1424514,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.02597112,TON
+1428807,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,8.604142199999998,TON
+1434151,MD,24009,Calvert,Fuel Comb - Residential - Wood,Ammonia,CAP,8.346775181,TON
+1444085,MD,24021,Frederick,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,103.2866,TON
+1444700,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,4.218629,TON
+1446413,MD,24047,Worcester,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0021996,TON
+1450780,MD,24011,Caroline,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,1.65e-06,TON
+1453446,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.18580770000000002,TON
+1458021,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0435798002,TON
+1460560,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1460760,MD,24043,Washington,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,20.81703,TON
+1462195,MD,24035,Queen Annes,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.6973906999999999,TON
+1462649,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.7814977,TON
+1466925,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1477649,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.51620735,TON
+1479061,MD,24029,Kent,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.001817945,TON
+1483539,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.331847,TON
+1484033,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,1.7305540000000001,TON
+1486420,MD,24033,Prince Georges,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,5.574791,TON
+1491011,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.13318064,TON
+1491299,MD,24033,Prince Georges,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,15.795327599999998,TON
+1493905,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,35.09687,TON
+1495901,MD,24027,Howard,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.5237566,TON
+1500002,MD,24029,Kent,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.7889791,TON
+1503770,MD,24011,Caroline,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,9.9155808,TON
+1506842,MD,24047,Worcester,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.2625892811,TON
+1516222,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1518162,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,126.01207600000001,TON
+1519082,MD,24043,Washington,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1520541,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.0852543,TON
+1522221,MD,24009,Calvert,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.03115197,TON
+1523653,MD,24047,Worcester,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.000468,TON
+1525680,MD,24025,Harford,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.023374900000000004,TON
+1527956,MD,24039,Somerset,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.06653246,TON
+1528017,MD,24033,Prince Georges,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,608.72402596,TON
+1528539,MD,24031,Montgomery,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,533.85348439,TON
+1529396,MD,24031,Montgomery,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,11.081484649,TON
+1531162,MD,24031,Montgomery,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,49.73192,TON
+1535265,MD,24047,Worcester,Commercial Cooking,Carbon Monoxide,CAP,39.075321,TON
+1537228,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,82.87286999999999,TON
+1538074,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,108.7434,TON
+1541931,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.1122049,TON
+1547895,MD,24041,Talbot,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,2.32045288,TON
+1555230,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,3.071684351,TON
+1556784,MD,24039,Somerset,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.0396587,TON
+1559896,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1561870,MD,24041,Talbot,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,8.262808999999999,TON
+1562737,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,66.77535,TON
+1564015,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.0821462000000004,TON
+1577222,MD,24021,Frederick,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.08306953,TON
+1578634,MD,24043,Washington,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.16152049999999998,TON
+1579411,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.06949046,TON
+1581015,MD,24029,Kent,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1581849,MD,24019,Dorchester,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.02,TON
+1584375,MD,24043,Washington,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2083.42648,TON
+1590649,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1593768,MD,24001,Allegany,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,48.2787509,TON
+1596809,MD,24023,Garrett,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.05445615,TON
+1599970,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.002081851,TON
+1606527,MD,24027,Howard,Fuel Comb - Residential - Wood,Ammonia,CAP,15.945467122,TON
+1607832,MD,24003,Anne Arundel,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,11.153877999,TON
+1608534,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.401798,TON
+1608710,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1609930,MD,24031,Montgomery,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,26.380834000000004,TON
+1610832,MD,24001,Allegany,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,1.14763827,TON
+1619427,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.02165125,TON
+1625811,MD,24013,Carroll,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,294.20018068,TON
+1626982,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.9011014999999999,TON
+1627547,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.05481864,TON
+1628762,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.43238772,TON
+1638818,MD,24005,Baltimore,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,233.5437,TON
+1639226,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,1.496243,TON
+1639247,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.13412000000000002,TON
+1641926,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,13.423010000000001,TON
+1642761,MD,24047,Worcester,Fuel Comb - Residential - Oil,Ammonia,CAP,0.418184025,TON
+1644431,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,448.49666900000005,TON
+1644998,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,3.90123852,TON
+1645165,MD,24015,Cecil,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,10.63727,TON
+1645226,MD,24029,Kent,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.03297759,TON
+1647820,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.51064543,TON
+1648806,MD,24037,St. Marys,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1347.5778557,TON
+1656154,MD,24019,Dorchester,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.02665061,TON
+1658847,MD,24041,Talbot,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.03041425,TON
+1660992,MD,24017,Charles,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,1.048048395,TON
+1661076,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,666.2427134999999,TON
+1661736,MD,24043,Washington,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,7.659338406,TON
+1665645,MD,24033,Prince Georges,Fuel Comb - Residential - Oil,Ammonia,CAP,3.15906553,TON
+1668400,MD,24045,Wicomico,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.74518281,TON
+1669580,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,26.461059999999996,TON
+1673120,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1678146,MD,24027,Howard,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.73,TON
+1687028,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1692744,MD,24043,Washington,Fuel Comb - Residential - Other,Ammonia,CAP,0.07220121,TON
+1711302,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.2161590807,TON
+1712036,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1717436,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.9765860000000001,TON
+1718695,MD,24033,Prince Georges,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,19.65847,TON
+1719955,MD,24023,Garrett,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,140.89295073,TON
+1725355,MD,24033,Prince Georges,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,304.8964,TON
+1731581,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.09043705,TON
+1732407,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,4.460138,TON
+1734700,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,2.9130380000000002,TON
+1737536,MD,24003,Anne Arundel,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,1.07,TON
+1738556,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,287.2833015,TON
+1741828,MD,24027,Howard,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,257.81806784,TON
+1743517,MD,24017,Charles,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1745759,MD,24041,Talbot,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,32.715099800000004,TON
+1748658,MD,24009,Calvert,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,10.792393800000001,TON
+1760928,MD,24029,Kent,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,4.86264361,TON
+1763445,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1766642,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.161546414,TON
+1766815,MD,24045,Wicomico,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,58.5787843,TON
+1778140,MD,24047,Worcester,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.89073202,TON
+1779272,MD,24039,Somerset,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,252.74208129,TON
+1790361,MD,24017,Charles,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,3.975682,TON
+1791250,MD,24023,Garrett,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,21.213127399999998,TON
+1791890,MD,24003,Anne Arundel,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,330.343726,TON
+1793196,MD,24009,Calvert,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.03767215,TON
+1793823,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.7812024999999999,TON
+1794208,MD,24025,Harford,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,6.447787,TON
+1803396,MD,24015,Cecil,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.06,TON
+1821565,MD,24019,Dorchester,Commercial Cooking,Carbon Monoxide,CAP,4.309111,TON
+1822685,MD,24035,Queen Annes,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,23.804453100000003,TON
+1829290,MD,24005,Baltimore,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,478.512325,TON
+1831922,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,2.658929,TON
+1834356,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.7625884,TON
+1834703,MD,24027,Howard,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,2.34134782,TON
+1837941,MD,24041,Talbot,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,515.53365525,TON
+1837967,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,22.96664401,TON
+1840770,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,14.864056900000001,TON
+1841519,MD,24015,Cecil,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,179.38122813,TON
+1848049,MD,24017,Charles,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,10.84277,TON
+1852361,MD,24047,Worcester,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.00012869999999999998,TON
+1853794,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.0047841179999999995,TON
+1857243,MD,24029,Kent,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.2181534645999998,TON
+1857408,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,17.4731433,TON
+1863072,MD,24003,Anne Arundel,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,3.43165909,TON
+1865350,MD,24017,Charles,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,3.15703606,TON
+1869040,MD,24001,Allegany,Fuel Comb - Residential - Other,Ammonia,CAP,0.02169777,TON
+1873445,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,5.6807309,TON
+1874389,MD,24023,Garrett,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,15.28699049,TON
+1876795,MD,24029,Kent,Fuel Comb - Residential - Other,Ammonia,CAP,0.03107387,TON
+1880411,MD,24015,Cecil,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.07,TON
+1884920,MD,24031,Montgomery,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,38.350159999999995,TON
+1891534,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,9.801149,TON
+1892870,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,6.72151,TON
+1895400,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,3.5681504,TON
+1896071,MD,24017,Charles,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,2.4069071,TON
+1898152,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1899631,MD,24025,Harford,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,118.43644499999999,TON
+1902576,MD,24047,Worcester,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.06615942,TON
+1903965,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1906908,MD,24017,Charles,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,2.630975,TON
+1907538,MD,24027,Howard,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1915316,MD,24025,Harford,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,6.8382392,TON
+1931677,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.38641110799999995,TON
+1932407,MD,24043,Washington,Fuel Comb - Residential - Wood,Ammonia,CAP,16.08594075,TON
+1933683,MD,24039,Somerset,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,32.97949636,TON
+1936349,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1937025,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.014357025,TON
+1943071,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1943094,MD,24031,Montgomery,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.1411616,TON
+1943500,MD,24043,Washington,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.1703056,TON
+1950949,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,40.2069835,TON
+1951865,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.591501,TON
+1957766,MD,24025,Harford,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.58423473,TON
+1957956,MD,24015,Cecil,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,5.79948,TON
+1958590,MD,24001,Allegany,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,2.69398734,TON
+1959804,MD,24003,Anne Arundel,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,11.4549109,TON
+1971184,MD,24047,Worcester,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,7.5273132,TON
+1971305,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1977079,MD,24001,Allegany,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,17.513807,TON
+1983612,MD,24029,Kent,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,1.603062,TON
+1986329,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.1050108,TON
+1988323,MD,24041,Talbot,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.05,TON
+1989767,MD,24025,Harford,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,2.543351284,TON
+1989770,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.4173958,TON
+1992303,MD,24019,Dorchester,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,416.09519404,TON
+1992537,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,51.625948,TON
+2001415,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.021978677999999998,TON
+2001778,MD,24039,Somerset,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.3635381,TON
+2005979,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.002081851,TON
+2007383,MD,24027,Howard,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.042002199999999996,TON
+2007653,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.006126637,TON
+2011729,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,4.9442923,TON
+2011761,MD,24039,Somerset,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0072580859999999995,TON
+2012495,MD,24015,Cecil,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.15931199999999998,TON
+2020593,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2021078,MD,24043,Washington,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,4.6604790000000005,TON
+2021079,MD,24043,Washington,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.01637554,TON
+2024733,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,37.69813,TON
+2026235,MD,24033,Prince Georges,Commercial Cooking,Carbon Monoxide,CAP,169.803981,TON
+2026684,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,2.096546,TON
+2027214,MD,24045,Wicomico,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.07233239999999999,TON
+2038845,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2041719,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,107.0433,TON
+2041720,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,3.0328939999999998,TON
+2044020,MD,24011,Caroline,Commercial Cooking,Volatile Organic Compounds,CAP,1.426626688,TON
+2044312,MD,24045,Wicomico,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.1140278,TON
+2044416,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.1269898,TON
+2047242,MD,24013,Carroll,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,8.560906,TON
+2057640,MD,24001,Allegany,Commercial Cooking,Volatile Organic Compounds,CAP,6.53608347,TON
+2058084,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.50602975,TON
+2058764,MD,24017,Charles,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.05679148,TON
+2064558,MD,24043,Washington,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,5.8242474,TON
+2065462,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.07000821,TON
+2072005,MD,24043,Washington,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.60534151,TON
+2072762,MD,24029,Kent,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0131388574,TON
+2074317,MD,24001,Allegany,Fuel Comb - Residential - Oil,Ammonia,CAP,0.53879757,TON
+2081145,MD,24003,Anne Arundel,Fuel Comb - Residential - Other,Ammonia,CAP,0.1449186,TON
+2088530,MD,24011,Caroline,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,1.56e-07,TON
+2089015,MD,24510,Baltimore city,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,8.162335900344782,TON
+2091947,MD,24019,Dorchester,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,11.1066166,TON
+2097039,MD,24017,Charles,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,11.89322,TON
+2098800,MD,24043,Washington,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2103272,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.01315274,TON
+2106018,MD,24047,Worcester,Fuel Comb - Residential - Wood,Ammonia,CAP,2.973773886,TON
+2110539,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.00187515,TON
+2115621,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2117097,MD,24029,Kent,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.001454356,TON
+2123322,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6457964,TON
+2126210,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2126967,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,4.3726812389,TON
+2127685,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,17.4473798,TON
+2127747,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,23.72261681,TON
+2127797,MD,24027,Howard,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,21.797871100000002,TON
+2127964,MD,24029,Kent,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.34880140000000004,TON
+2129690,MD,24029,Kent,Commercial Cooking,Carbon Monoxide,CAP,6.0401793,TON
+2131341,MD,24023,Garrett,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,4.6494279,TON
+2135671,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2139095,MD,24003,Anne Arundel,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,41.78287,TON
+2140645,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.01876945,TON
+2144893,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,3.87140956,TON
+2146506,MD,24033,Prince Georges,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4160.2295213,TON
+2162778,MD,24033,Prince Georges,Fuel Comb - Residential - Other,Ammonia,CAP,0.06818291,TON
+2163380,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.048720278,TON
+2164043,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.009984324000000001,TON
+2173008,MD,24005,Baltimore,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,39.925953,TON
+2173010,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2173011,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2173519,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2187736,MD,24043,Washington,Commercial Cooking,Volatile Organic Compounds,CAP,12.06739854,TON
+2188403,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,5.944323000000001,TON
+2189458,MD,24037,St. Marys,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,178.10763739,TON
+2191656,MD,24027,Howard,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,8.027576,TON
+2192918,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.09457262640000001,TON
+2195181,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,53.52026,TON
+2195224,MD,24035,Queen Annes,Fuel Comb - Residential - Oil,Ammonia,CAP,0.58993272,TON
+2199675,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2211470,MD,24011,Caroline,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,1.05308667,TON
+2213332,MD,24043,Washington,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01637554,TON
+2213416,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,3.1655567000000002,TON
+2213417,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,2.76664382,TON
+2214504,MD,24023,Garrett,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,12.821819999999999,TON
+2215925,MD,24013,Carroll,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,17.21645,TON
+2220432,MD,24001,Allegany,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.3830611,TON
+2223881,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,13.468333600000001,TON
+2230360,MD,24047,Worcester,Fuel Comb - Residential - Other,Ammonia,CAP,0.06234018,TON
+2233289,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.65361684,TON
+2236440,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,2.076283,TON
+2240840,MD,24047,Worcester,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.99527813,TON
+2241543,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2243038,MD,24025,Harford,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,13.757688,TON
+2243075,MD,24031,Montgomery,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,75.5756438,TON
+2244077,MD,24035,Queen Annes,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,114.99908267,TON
+2244711,MD,24017,Charles,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2246860,MD,24015,Cecil,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,13.628779999999999,TON
+2247293,MD,24045,Wicomico,Fuel Comb - Residential - Oil,Ammonia,CAP,1.04513767,TON
+2255707,MD,24045,Wicomico,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,7.601856,TON
+2256275,MD,24017,Charles,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.20973139999999998,TON
+2256492,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0167365,TON
+2256769,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,4.3216019999999995,TON
+2257548,MD,24039,Somerset,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.7989183000000001,TON
+2258791,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.0047841179999999995,TON
+2264718,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.36902351,TON
+2271140,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.010042299999999999,TON
+2271976,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,1.216369,TON
+2272791,MD,24037,St. Marys,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.05,TON
+2277654,MD,24003,Anne Arundel,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,234.1708,TON
+2280642,MD,24039,Somerset,Fuel Comb - Residential - Wood,Ammonia,CAP,1.9277010786000002,TON
+2282059,MD,24029,Kent,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.02726993,TON
+2282924,MD,24037,St. Marys,Commercial Cooking,Volatile Organic Compounds,CAP,7.49550658,TON
+2282926,MD,24017,Charles,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,76.4149126,TON
+2285508,MD,24025,Harford,Fuel Comb - Residential - Oil,Ammonia,CAP,3.62445278,TON
+2289149,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2290499,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,3.101538,TON
+2294579,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,24.421120000000002,TON
+2295730,MD,24025,Harford,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,46.893,TON
+2296623,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.05717337,TON
+2300760,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.935826,TON
+2301357,MD,24015,Cecil,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.13807039999999998,TON
+2302253,MD,24035,Queen Annes,Fuel Comb - Residential - Wood,Ammonia,CAP,5.68879164,TON
+2311154,MD,24021,Frederick,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.09584946,TON
+2311181,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.074537,TON
+2333962,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.7364059000000001,TON
+2336378,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.005226672,TON
+2336423,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,10.41354,TON
+2344705,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.03877688,TON
+2348389,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.1499777,TON
+2349777,MD,24027,Howard,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,4.7392625,TON
+2354712,MD,24009,Calvert,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.982574,TON
+2360795,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.097673781,TON
+2363070,MD,24041,Talbot,Commercial Cooking,Volatile Organic Compounds,CAP,4.86228334,TON
+2363120,MD,24017,Charles,Fuel Comb - Residential - Other,Ammonia,CAP,0.0341912,TON
+2375393,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,77.0638785,TON
+2377791,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,2.00710529,TON
+2380547,MD,24009,Calvert,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,164.70032421,TON
+2381103,MD,24031,Montgomery,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,3.88,TON
+2389765,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.06962434,TON
+2396706,MD,24023,Garrett,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.04001853,TON
+2396837,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,12.538680900000001,TON
+2406036,MD,24029,Kent,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.2897805,TON
+2407088,MD,24037,St. Marys,Fuel Comb - Residential - Oil,Ammonia,CAP,2.44588647,TON
+2408714,MD,24043,Washington,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.5491696,TON
+2412325,MD,24009,Calvert,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.491287,TON
+2414215,MD,24047,Worcester,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,49.702680835,TON
+2418754,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2419194,MD,24510,Baltimore city,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,420.598759,TON
+2422354,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2425344,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,3.5994639999999998,TON
+2444590,MD,24031,Montgomery,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.493055,TON
+2455834,MD,24029,Kent,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.03805106,TON
+2455835,MD,24029,Kent,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,8.959207000000001,TON
+2457253,MD,24015,Cecil,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,6.7897715,TON
+2465456,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,8.804164,TON
+2469480,MD,24043,Washington,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.7448269,TON
+2478607,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2481236,MD,24011,Caroline,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,10.84943,TON
+2481722,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2483660,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,2.348065,TON
+2484819,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,1.9185259999999997,TON
+2488757,MD,24011,Caroline,Commercial Cooking,Carbon Monoxide,CAP,3.9811129000000003,TON
+2490328,MD,24025,Harford,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.10718110000000002,TON
+2492027,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,37.420595,TON
+2496835,MD,24031,Montgomery,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,849.9637,TON
+2500737,MD,24047,Worcester,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,5.097076,TON
+2500998,MD,24009,Calvert,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,4.8111052,TON
+2502936,MD,24043,Washington,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,2.610261,TON
+2504117,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.49240290000000003,TON
+2507753,MD,24029,Kent,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2514913,MD,24033,Prince Georges,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,7.518577199999999,TON
+2515222,MD,24015,Cecil,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.96822141,TON
+2515716,MD,24043,Washington,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,87.390608,TON
+2517508,MD,24035,Queen Annes,Commercial Cooking,Volatile Organic Compounds,CAP,3.34445552,TON
+2525199,MD,24003,Anne Arundel,Commercial Cooking,Volatile Organic Compounds,CAP,48.705081400000005,TON
+2529666,MD,24005,Baltimore,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4303.2514709,TON
+2529942,MD,24025,Harford,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,5.533074,TON
+2530540,MD,24047,Worcester,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.29816519399999997,TON
+2531449,MD,24021,Frederick,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2662.5509641,TON
+2533943,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.9468408000000001,TON
+2534755,MD,24027,Howard,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,170.32198799999998,TON
+2542447,MD,24025,Harford,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2544199,MD,24027,Howard,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2546759,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2548237,MD,24013,Carroll,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.1111195,TON
+2548762,MD,24017,Charles,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,3.46393468,TON
+2551782,MD,24029,Kent,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,44.096178413000004,TON
+2558940,MD,24021,Frederick,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,19.206539000000003,TON
+2560471,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.452847234,TON
+2562222,MD,24017,Charles,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.45178199999999996,TON
+2563567,MD,24027,Howard,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2568246,MD,24005,Baltimore,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,587.27215167,TON
+2570458,MD,24023,Garrett,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.02,TON
+2571224,MD,24029,Kent,Fuel Comb - Residential - Wood,Ammonia,CAP,2.4950882399000003,TON
+2573625,MD,24009,Calvert,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,143.66967149,TON
+2574537,MD,24033,Prince Georges,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,41.92326,TON
+2577661,MD,24011,Caroline,Fuel Comb - Residential - Other,Ammonia,CAP,0.03762986,TON
+2577821,MD,24047,Worcester,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,17.9739,TON
+2578642,MD,24015,Cecil,Commercial Cooking,Volatile Organic Compounds,CAP,6.35711852,TON
+2588230,MD,24043,Washington,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,280.10291677,TON
+2589516,MD,24025,Harford,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,7.5209541479999995,TON
+2602777,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,13.845970000000001,TON
+2603571,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.6809214,TON
+2605174,MD,24510,Baltimore city,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,17.673556,TON
+2605727,MD,24025,Harford,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,8.437547,TON
+2606363,MD,24510,Baltimore city,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,213.2654,TON
+2606615,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.8331315999999999,TON
+2609997,MD,24041,Talbot,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,8.3536304,TON
+2611688,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.052274881100000004,TON
+2616887,MD,24009,Calvert,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,1.27710007,TON
+2616974,MD,24021,Frederick,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,5.098343,TON
+2621471,MD,24003,Anne Arundel,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.1271782,TON
+2623564,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.1162373,TON
+2624363,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01315274,TON
+2631829,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.0956686000000002,TON
+2632231,MD,24029,Kent,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.16630724800000002,TON
+2633646,MD,24033,Prince Georges,Commercial Cooking,Volatile Organic Compounds,CAP,60.068524,TON
+2643799,MD,24039,Somerset,Fuel Comb - Residential - Oil,Ammonia,CAP,0.33567993100000004,TON
+2644113,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,11.66803,TON
+2645037,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.48474459999999997,TON
+2650807,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2655295,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,27.76993,TON
+2655375,MD,24021,Frederick,Fuel Comb - Residential - Oil,Ammonia,CAP,2.3935882,TON
+2657270,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,19.6213612,TON
+2661699,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.06043021,TON
+2663123,MD,24041,Talbot,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.04,TON
+2667585,MD,24029,Kent,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,50.960956178,TON
+2670639,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.62300677,TON
+2676102,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.11241636,TON
+2682679,MD,24025,Harford,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.1917624,TON
+2684851,MD,24023,Garrett,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,4.297935231,TON
+2688517,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2700779,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.04834007,TON
+2702991,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.2950502,TON
+2703228,MD,24025,Harford,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,1.231194543,TON
+2708469,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2709912,MD,24001,Allegany,Fuel Comb - Residential - Wood,Ammonia,CAP,9.281620736,TON
+2712388,MD,24027,Howard,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.04028897,TON
+2713791,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2721234,MD,24041,Talbot,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,4.109236,TON
+2724976,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,4.86548168,TON
+2728239,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.82152716,TON
+2732686,MD,24005,Baltimore,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,11.842207499999999,TON
+2735542,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.3195655,TON
+2735657,MD,24023,Garrett,Fuel Comb - Residential - Other,Ammonia,CAP,0.04447085,TON
+2740374,MD,24041,Talbot,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,9.656705,TON
+2741096,MD,24025,Harford,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.3709209999999998,TON
+2741741,MD,24027,Howard,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,2.12957082,TON
+2744327,MD,24019,Dorchester,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,54.850676459,TON
+2751752,MD,24009,Calvert,Fuel Comb - Residential - Oil,Ammonia,CAP,0.59957752,TON
+2760653,MD,24005,Baltimore,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1377293,TON
+2760847,MD,24005,Baltimore,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,13.402014777,TON
+2761395,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,19.0209019,TON
+2761492,MD,24043,Washington,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,280.09056347,TON
+2761733,MD,24023,Garrett,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,159.03115590000002,TON
+2763217,MD,24011,Caroline,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,7.82859747,TON
+2766011,MD,24043,Washington,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.64049584,TON
+2769677,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2772506,MD,24029,Kent,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.002181535,TON
+2773913,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,79.74727,TON
+2775788,MD,24029,Kent,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.004147478,TON
+2776836,MD,24009,Calvert,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,10.2346,TON
+2778314,MD,24027,Howard,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.5372374,TON
+2781054,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2782018,MD,24025,Harford,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,317.81091836,TON
+2782019,MD,24025,Harford,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,291.15593122,TON
+2789952,MD,24011,Caroline,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,1.17668932,TON
+2791648,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.89127231,TON
+2793255,MD,24029,Kent,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.08965672,TON
+2793596,MD,24037,St. Marys,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.7491876000000001,TON
+2796827,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.1643562,TON
+2797172,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,1.083782,TON
+2798541,MD,24025,Harford,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.12961430000000002,TON
+2802979,MD,24013,Carroll,Commercial Cooking,Carbon Monoxide,CAP,36.761472,TON
+2808437,MD,24027,Howard,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,14.3328,TON
+2809277,MD,24021,Frederick,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,5.6967403,TON
+2813263,MD,24035,Queen Annes,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.34869540000000004,TON
+2816462,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.12315710000000002,TON
+2816565,MD,24510,Baltimore city,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.0563562,TON
+2816784,MD,24027,Howard,Fuel Comb - Residential - Other,Ammonia,CAP,0.04786116,TON
+2818895,MD,24025,Harford,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01944158,TON
+2825474,MD,24031,Montgomery,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,16.4383792,TON
+2825489,MD,24017,Charles,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1827.1814854000002,TON
+2825860,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.20909387699999998,TON
+2831415,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2833968,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.04122648,TON
+2835289,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.004900894,TON
+2836508,MD,24045,Wicomico,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,19.65095,TON
+2841635,MD,24013,Carroll,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,86.435477,TON
+2843142,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0141534003,TON
+2854680,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.08686308,TON
+2856566,MD,24013,Carroll,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,30.18846,TON
+2858401,MD,24025,Harford,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.14051043900000001,TON
+2868927,MD,24029,Kent,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,5.9992375,TON
+2873355,MD,24005,Baltimore,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,3.5031559999999997,TON
+2876733,MD,24043,Washington,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.6412365,TON
+2878248,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.001696808,TON
+2878933,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,2.2484286,TON
+2879625,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.1281282,TON
+2882124,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.1284101286,TON
+2886460,MD,24001,Allegany,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,44.7654643,TON
+2888224,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,2.6816009999999997,TON
+2890058,MD,24037,St. Marys,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,5.448637000000001,TON
+2894606,MD,24037,St. Marys,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,23.8087,TON
+2897411,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2897412,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2899018,MD,24027,Howard,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,1.1139123,TON
+2901486,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,2.74505316,TON
+2905666,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0150461855,TON
+2911143,MD,24021,Frederick,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,43.95175,TON
+2911742,MD,24029,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,8.494175,TON
+2915329,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,2.9951472000000003,TON
+2923903,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.15433670000000002,TON
+2923945,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,2.12101853,TON
+2927551,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2933884,MD,24025,Harford,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,9.985791,TON
+2940082,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2943245,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.10758364,TON
+2945128,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+2945692,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2950721,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,3.739813,TON
+2951541,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,5.800808999999999,TON
+2953757,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.004181338,TON
+2956290,MD,24023,Garrett,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,6.26957,TON
+2958933,MD,24015,Cecil,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,2.89244264,TON
+2959428,MD,24009,Calvert,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,143.71505349,TON
+2961333,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.12332,TON
+2965515,MD,24031,Montgomery,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,10.87542,TON
+2965847,MD,24019,Dorchester,Fuel Comb - Residential - Oil,Ammonia,CAP,0.5485573,TON
+2969641,MD,24005,Baltimore,Commercial Cooking,Carbon Monoxide,CAP,185.22082,TON
+2976571,MD,24031,Montgomery,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,533.49398439,TON
+2981727,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.73144463,TON
+2982664,MD,24027,Howard,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.05036121,TON
+2983174,MD,24047,Worcester,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.07633779,TON
+2987528,MD,24035,Queen Annes,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.01046086,TON
+2988573,MD,24029,Kent,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.03801855,TON
+2991106,MD,24019,Dorchester,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.2716876,TON
+2991179,MD,24510,Baltimore city,Fuel Comb - Residential - Oil,Ammonia,CAP,2.20254252,TON
+2994483,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+3003383,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3007518,MD,24027,Howard,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,1.153009,TON
+3010371,MD,24027,Howard,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,3.913239,TON
+3010372,MD,24027,Howard,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.05860772,TON
+3016831,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.246635978,TON
+3018796,MD,24017,Charles,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,245.02727754,TON
+3029775,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.00490131,TON
+3029815,MD,24043,Washington,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,7.677508,TON
+3031375,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,486.45625700000005,TON
+3036956,MD,24031,Montgomery,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,5.4253,TON
+3038367,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.147984,TON
+3041466,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3048758,MD,24510,Baltimore city,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,5.242051,TON
+3052845,MD,24011,Caroline,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.9052539309999998,TON
+3055274,MD,24017,Charles,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3060792,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.8564997259999999,TON
+3063211,MD,24035,Queen Annes,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,2.94966361,TON
+3064835,MD,24013,Carroll,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,2.3672619999999998,TON
+3065622,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.04756902,TON
+3068251,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.6417419,TON
+3069015,MD,24013,Carroll,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.175302,TON
+3072157,MD,24033,Prince Georges,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,560.68583185,TON
+3074903,MD,24017,Charles,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,21.912329999999997,TON
+3079953,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,2.25306661,TON
+3082283,MD,24001,Allegany,Commercial Cooking,Carbon Monoxide,CAP,18.597456,TON
+3082368,MD,24013,Carroll,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.62269829,TON
+3082608,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.02053438,TON
+3083566,MD,24017,Charles,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,1.50791,TON
+3084590,MD,24029,Kent,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.1382493,TON
+3088410,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.003649269,TON
+3089091,MD,24025,Harford,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.2021924,TON
+3097624,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3100623,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,30.38672,TON
+3106238,MD,24047,Worcester,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,1.2168e-05,TON
+3107730,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.4338973,TON
+3107930,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,8.2780712,TON
+3118487,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0073583115,TON
+3119273,MD,24021,Frederick,Commercial Cooking,Volatile Organic Compounds,CAP,20.22970094,TON
+3122537,MD,24019,Dorchester,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,7.240321000000001,TON
+3122538,MD,24019,Dorchester,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.2818815,TON
+3123376,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.1042357,TON
+3127381,MD,24017,Charles,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.32473619,TON
+3127692,MD,24025,Harford,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.01990958,TON
+3130537,MD,24041,Talbot,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.98851285,TON
+3132286,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.092312855,TON
+3140847,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.8920277,TON
+3142090,MD,24013,Carroll,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.18,TON
+3147909,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3148798,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.017646799999999997,TON
+3153691,MD,24015,Cecil,Fuel Comb - Residential - Wood,Ammonia,CAP,8.963500721,TON
+3153997,MD,24037,St. Marys,Fuel Comb - Residential - Wood,Ammonia,CAP,10.386109052,TON
+3156465,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,5.330621,TON
+3164943,MD,24045,Wicomico,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,5.5726569999999995,TON
+3164975,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,77.49557,TON
+3169400,MD,24025,Harford,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,127.40134499999999,TON
+3182216,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3190005,MD,24003,Anne Arundel,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,3608.1235073,TON
+3194529,MD,24025,Harford,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3194610,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.22326932,TON
+3197300,MD,24039,Somerset,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.648013,TON
+3197871,MD,24043,Washington,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.06336263,TON
+3198685,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3204728,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,13.00172484,TON
+3204950,MD,24043,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.37491440000000004,TON
+3205369,MD,24043,Washington,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,30.83446966,TON
+3211021,MD,24033,Prince Georges,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,716.5066,TON
+3211855,MD,24017,Charles,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,9.857994999999999,TON
+3216385,MD,24029,Kent,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.01890663,TON
+3219616,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.002996668,TON
+3220982,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,7.251626,TON
+3223823,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.26635275,TON
+3228068,MD,24035,Queen Annes,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,755.2417164,TON
+3230489,MD,24031,Montgomery,Fuel Comb - Residential - Oil,Ammonia,CAP,3.28767584,TON
+3235726,MD,24035,Queen Annes,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.5682816999999999,TON
+3236699,MD,24043,Washington,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3237351,MD,24037,St. Marys,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.07,TON
+3242459,MD,24013,Carroll,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.09188728,TON
+3244992,MD,24039,Somerset,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,3.7113325660000003,TON
+3245229,MD,24023,Garrett,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,2.667902,TON
+3246125,MD,24041,Talbot,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,7.63010604,TON
+3261853,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.8654850000000001,TON
+3262260,MD,24025,Harford,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,39.0327361,TON
+3269311,MD,24041,Talbot,Commercial Cooking,Carbon Monoxide,CAP,13.633120199999999,TON
+3271388,MD,24025,Harford,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3272180,MD,24009,Calvert,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.427498768,TON
+3272199,MD,24047,Worcester,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,94.624431,TON
+3272788,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3277542,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,24.72123,TON
+3278126,MD,24029,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.4671795999999999,TON
+3278909,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.09611932,TON
+3279138,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.24170039999999998,TON
+3281249,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,3.818296,TON
+3282442,MD,24023,Garrett,Fuel Comb - Residential - Wood,Ammonia,CAP,7.479399237999999,TON
+3286155,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3290258,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.035420293,TON
+3299997,MD,24003,Anne Arundel,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,13.701479999999998,TON
+3304008,MD,24510,Baltimore city,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,64.12110490384151,TON
+3304104,MD,24027,Howard,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,1.86166257,TON
+3305570,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3308279,MD,24045,Wicomico,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,2.2261417999999997,TON
+3311248,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.037774794,TON
+3312651,MD,24019,Dorchester,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,4.4017116,TON
+3314671,MD,24033,Prince Georges,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,438.20482599999997,TON
+3315923,MD,24029,Kent,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.27649850000000004,TON
+3318185,MD,24027,Howard,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,9.366831,TON
+3318740,MD,24043,Washington,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.19,TON
+3325567,MD,24009,Calvert,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,3.782873262,TON
+3329073,MD,24045,Wicomico,Commercial Cooking,Volatile Organic Compounds,CAP,7.97028533,TON
+3336704,MD,24027,Howard,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,51.362790000000004,TON
+3339119,MD,24001,Allegany,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,3.511394,TON
+3356844,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3357805,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,15.567879999999999,TON
+3363184,MD,24035,Queen Annes,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,99.89249013,TON
+3368844,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3375148,MD,24005,Baltimore,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,548.8278,TON
+3376849,MD,24041,Talbot,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.06163854,TON
+3378271,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,144.3899405,TON
+3379874,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3381481,MD,24027,Howard,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,280.92920184,TON
+3385360,MD,24017,Charles,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.03628591,TON
+3387896,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,1.9887110000000001,TON
+3391379,MD,24027,Howard,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,7.605719199999999,TON
+3392719,MD,24003,Anne Arundel,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.626698,TON
+3395165,MD,24025,Harford,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.6,TON
+3402603,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.0194895,TON
+3404084,MD,24031,Montgomery,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.34411254,TON
+3410214,MD,24013,Carroll,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,18.3919939,TON
+3413254,MD,24045,Wicomico,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,1.0452549999999998,TON
+3415551,MD,24025,Harford,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.9588121999999999,TON
+3417021,MD,24025,Harford,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,3.099888,TON
+3419470,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,2.9609925,TON
+3420804,MD,24031,Montgomery,Fuel Comb - Residential - Wood,Ammonia,CAP,36.374602692399996,TON
+3422754,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,7.978957,TON
+3436019,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,1.35496834,TON
+3436631,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,2.71504332,TON
+3437886,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.48291140000000005,TON
+3445164,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.16956585300000002,TON
+3445482,MD,24011,Caroline,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,3.0767029999999997,TON
+3449267,MD,24029,Kent,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,1.8541009999999998,TON
+3451125,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.002497223,TON
+3453901,MD,24043,Washington,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,2.1113150000000003,TON
+3468504,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,10.182889999999999,TON
+3477205,MD,24039,Somerset,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.24193620000000002,TON
+3477764,MD,24013,Carroll,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,32.94213496,TON
+3489313,MD,24027,Howard,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3491063,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.2054627,TON
+3499439,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,19.866497,TON
+3500528,MD,24001,Allegany,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,4.157009065,TON
+3501388,MD,24001,Allegany,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,9.6983556,TON
+3504293,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3506700,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.301129,TON
+3507356,MD,24037,St. Marys,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.08172956,TON
+3512285,MD,24003,Anne Arundel,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,1.29,TON
+3516250,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,110.110455,TON
+3520242,MD,24035,Queen Annes,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,22.244484399999997,TON
+3523472,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.1094109875,TON
+3535990,MD,24031,Montgomery,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,600.091341,TON
+3537306,MD,24015,Cecil,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,10.896443,TON
+3539233,MD,24017,Charles,Fuel Comb - Residential - Wood,Ammonia,CAP,14.513726467,TON
+3545413,MD,24043,Washington,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3545622,MD,24021,Frederick,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.06869211,TON
+3549657,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,2.546888,TON
+3550560,MD,24009,Calvert,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,2.3090490000000004,TON
+3550596,MD,24025,Harford,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,19.82824,TON
+3551507,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.005226672,TON
+3553636,MD,24025,Harford,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,291.06485422,TON
+3556123,MD,24003,Anne Arundel,Fuel Comb - Residential - Wood,Ammonia,CAP,30.735127961,TON
+3562069,MD,24015,Cecil,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,46.081770299999995,TON
+3562962,MD,24031,Montgomery,Fuel Comb - Residential - Other,Ammonia,CAP,0.1330126,TON
+3567419,MD,24045,Wicomico,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,17.86436,TON
+3570954,MD,24005,Baltimore,Fuel Comb - Residential - Wood,Ammonia,CAP,37.679171290999996,TON
+3571899,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3573257,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,2.43785449,TON
+3574155,MD,24027,Howard,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,31.23352761,TON
+3576225,MD,24043,Washington,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,1.61731489,TON
+3576400,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3580426,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.05155339,TON
+3586329,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.007038417,TON
+3588151,MD,24510,Baltimore city,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,3.7629050000000004,TON
+3588152,MD,24510,Baltimore city,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.04038861,TON
+3588628,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.06371703,TON
+3588788,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,3.228982,TON
+3590459,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,2.90590714,TON
+3590460,MD,24043,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.48348630000000004,TON
+3591229,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,1.5669495,TON
+3592723,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,5.3264203000000006,TON
+3593742,MD,24031,Montgomery,Commercial Cooking,Volatile Organic Compounds,CAP,80.31287640000001,TON
+3594725,MD,24003,Anne Arundel,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,482.77789083,TON
+3595054,MD,24017,Charles,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3595453,MD,24043,Washington,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.342792514,TON
+3602526,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3603057,MD,24013,Carroll,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,8.7545887,TON
+3606083,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.23594120000000002,TON
+3608053,MD,24043,Washington,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,36.08429,TON
+3609081,MD,24001,Allegany,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,25.53741,TON
+3609274,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,1.487511,TON
+3610447,MD,24047,Worcester,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,2.09092012,TON
+3611384,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.27047109999999996,TON
+3612914,MD,24029,Kent,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.540671,TON
+3619168,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3624127,MD,24027,Howard,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3625904,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,5.402461,TON
+3631969,MD,24013,Carroll,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,7.985229803999999,TON
+3633389,MD,24003,Anne Arundel,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,533.25907234,TON
+3640665,MD,24043,Washington,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.01965065,TON
+3642709,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.62778664,TON
+3646383,MD,24019,Dorchester,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.9879549999999999,TON
+3647014,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,13.414320000000002,TON
+3648453,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.66578179,TON
+3649945,MD,24021,Frederick,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,400.63776341,TON
+3651353,MD,24017,Charles,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,58.04646999999999,TON
+3653379,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3656239,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,4.802885,TON
+3662050,MD,24017,Charles,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.011780532,TON
+3665914,MD,24041,Talbot,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.56502,TON
+3668122,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,3.13112563722,TON
+3670580,MD,24017,Charles,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,60.086999999999996,TON
+3674784,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,1.2825280000000001,TON
+3680548,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,11.81767,TON
+3684089,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.0058810730000000006,TON
+3686355,MD,24033,Prince Georges,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.05983623,TON
+3691283,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3691970,MD,24009,Calvert,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1084.9773178,TON
+3696436,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3697978,MD,24021,Frederick,Commercial Cooking,Carbon Monoxide,CAP,57.333597999999995,TON
+3701454,MD,24027,Howard,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3704105,MD,24510,Baltimore city,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.5165985,TON
+3706036,MD,24017,Charles,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,13.09982073,TON
+3706078,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,22.429772,TON
+3707160,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,37.49544,TON
+3711414,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3713193,MD,24037,St. Marys,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,20.07626083,TON
+3716529,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.19321023199999998,TON
+3716614,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.803304208,TON
+3717933,MD,24019,Dorchester,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,1.30556676,TON
+3719199,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.09848059,TON
+3719367,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,92.23566,TON
+3721593,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,76.59575,TON
+3722089,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,20.51374,TON
+3722605,MD,24027,Howard,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,2.483694,TON
+3722824,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.0509693,TON
+3725010,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,1.36156,TON
+3726390,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,2.80405304,TON
+3731534,MD,24033,Prince Georges,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.96,TON
+3735175,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.03457632,TON
+3735272,MD,24047,Worcester,Commercial Cooking,Volatile Organic Compounds,CAP,13.86377256,TON
+3739734,MD,24043,Washington,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,16.701220000000003,TON
+3740448,MD,24021,Frederick,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.57,TON
+3749205,MD,24033,Prince Georges,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.25241425,TON
+3750631,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.095058951,TON
+3751420,MD,24023,Garrett,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,16.7379372,TON
+3753713,MD,24025,Harford,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3759972,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,88.59061,TON
+3762045,MD,24027,Howard,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.05079335,TON
+3764083,MD,24043,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,4.4296120000000005,TON
+3766555,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,42.6497625,TON
+3772787,MD,24025,Harford,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3776458,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3778136,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,14.20905,TON
+3778896,MD,24021,Frederick,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.6592763,TON
+3791682,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,31.50422,TON
+3791683,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.18902879999999997,TON
+3800344,MD,24019,Dorchester,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,4.643388,TON
+3802149,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,18.832558399999996,TON
+3804688,MD,24019,Dorchester,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,54.847821919,TON
+3807315,MD,24027,Howard,Commercial Cooking,Volatile Organic Compounds,CAP,25.281838600000004,TON
+3809569,MD,24045,Wicomico,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,18.81247,TON
+3811675,MD,24011,Caroline,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.04607911,TON
+3812005,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.19683067399999998,TON
+3812672,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3817036,MD,24001,Allegany,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,1.7740599999999997,TON
+3823970,MD,24019,Dorchester,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,62.887111415,TON
+3827431,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.22607039999999998,TON
+3828145,MD,24017,Charles,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,27.93372788,TON
+3831359,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.1111969017,TON
+3833785,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.06358605,TON
+3836676,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.3980574,TON
+3838153,MD,24027,Howard,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,1.688912,TON
+3841335,MD,24025,Harford,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.01602126,TON
+3841575,MD,24039,Somerset,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,5.92440561,TON
+3843734,MD,24011,Caroline,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,2.8199999999999998e-05,TON
+3844247,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.1409085,TON
+3848171,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,4.31295289,TON
+3848344,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,19.65721,TON
+3850289,MD,24025,Harford,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3852679,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.118944762,TON
+3854038,MD,24043,Washington,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3856402,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,7.92817,TON
+3861144,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,3.40287861,TON
+3862821,MD,24011,Caroline,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,69.91372765,TON
+3863634,MD,24017,Charles,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,3.9336485,TON
+3868627,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.012263355900000002,TON
+3870199,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.21717019,TON
+3870313,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.2314161,TON
+3872664,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3873147,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,6.081847,TON
+3873193,MD,24035,Queen Annes,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.420622037,TON
+3873198,MD,24013,Carroll,Fuel Comb - Residential - Oil,Ammonia,CAP,3.67839878,TON
+3873401,MD,24015,Cecil,Commercial Cooking,Carbon Monoxide,CAP,17.942395,TON
+3876593,MD,24005,Baltimore,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.03,TON
+3882129,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,42.2125866,TON
+3882889,MD,24027,Howard,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,4.9974163,TON
+3884995,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3886459,MD,24015,Cecil,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,157.69244995,TON
+3886581,MD,24025,Harford,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,29.083184000000003,TON
+3890207,MD,24015,Cecil,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,42.7921776,TON
+3896296,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,2.00838,TON
+3899948,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3905640,MD,24015,Cecil,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,4.272742646,TON
+3913000,MD,24023,Garrett,Commercial Cooking,Volatile Organic Compounds,CAP,3.171784,TON
+3914929,MD,24009,Calvert,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.3984554,TON
+3922742,MD,24003,Anne Arundel,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,482.57651483,TON
+3924276,MD,24029,Kent,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.081345232,TON
+3924499,MD,24033,Prince Georges,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,3.27,TON
+3928246,MD,24005,Baltimore,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,89.562913,TON
+3943811,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.82456432,TON
+3949856,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,1.573485,TON
+3950663,MD,24037,St. Marys,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,44.025951,TON
+3953640,MD,24029,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,7.1351070000000005,TON
+3963788,MD,24017,Charles,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,244.94796154,TON
+3967031,MD,24011,Caroline,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,8.8993272,TON
+3969982,MD,24035,Queen Annes,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,1.25655676,TON
+3970300,MD,24021,Frederick,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,22.56796,TON
+3973119,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.1196635,TON
+3974860,MD,24039,Somerset,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.23933978399999997,TON
+3976505,MD,24017,Charles,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,2.49370331,TON
+3976550,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,571.7211625,TON
+3979032,MD,24019,Dorchester,Fuel Comb - Residential - Wood,Ammonia,CAP,3.2016813944,TON
+3979812,MD,24015,Cecil,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.46036,TON
+3983247,MD,24001,Allegany,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1155.2392669,TON
+3983527,MD,24015,Cecil,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.08699219,TON
+3995697,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,7.1210852897,TON
+4001340,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.2398355502,TON
+4002488,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4008527,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,61.4549,TON
+4008973,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4012296,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,1.394794,TON
+4014904,MD,24027,Howard,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,262.890277,TON
+4014952,MD,24025,Harford,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,2.694121913,TON
+4018097,MD,24027,Howard,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1894.7590764000001,TON
+4018408,MD,24031,Montgomery,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,557.071292,TON
+4023029,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.037248051000000004,TON
+4025203,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4027655,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.36872940000000004,TON
+4029249,MD,24013,Carroll,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.22,TON
+4032346,MD,24019,Dorchester,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,1.9759099999999998,TON
+4034272,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.141113539,TON
+4039237,MD,24043,Washington,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.118351144,TON
+4039570,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.34765348,TON
+4039655,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.22667063920000002,TON
+4047609,MD,24037,St. Marys,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,2.724319,TON
+4051518,MD,24047,Worcester,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.000936,TON
+4052739,MD,24510,Baltimore city,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,29.323990000000002,TON
+4056402,MD,24031,Montgomery,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,583.229017545,TON
+4064913,MD,24019,Dorchester,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,2.74278651,TON
+4065079,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,27.888654,TON
+4067522,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.06109891,TON
+4070399,MD,24510,Baltimore city,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.04884204,TON
+4071069,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.05017255,TON
+4073385,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.009984324000000001,TON
+4074363,MD,24039,Somerset,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,0.8671740498999999,TON
+4079770,MD,24045,Wicomico,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,8.386348,TON
+4083550,MD,24021,Frederick,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,147.74151799999999,TON
+4087281,MD,24001,Allegany,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,6.2558940000000005,TON
+4088489,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.2440028,TON
+4091525,MD,24005,Baltimore,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,9.196187,TON
+4094821,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,19.250320000000002,TON
+4101705,MD,24009,Calvert,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,2.99788762,TON
+4104524,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4105711,MD,24017,Charles,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.10035892,TON
+4107186,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,2.503917,TON
+4109422,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.007351965,TON
+4111543,MD,24045,Wicomico,Fuel Comb - Residential - Wood,Ammonia,CAP,8.057183963,TON
+4111607,MD,24043,Washington,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,314.39237531,TON
+4112442,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4119005,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.26528509999999994,TON
+4120523,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.47319541,TON
+4122576,MD,24019,Dorchester,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,9.8740314,TON
+4123611,MD,24013,Carroll,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,66.211174,TON
+4125698,MD,24001,Allegany,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.01904162,TON
+4127339,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.08368249,TON
+4130068,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,5.372889099999999,TON
+4130713,MD,24045,Wicomico,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,15.195793,TON
+4132288,MD,24023,Garrett,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,1.333951,TON
+4134318,MD,24035,Queen Annes,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,11.1298393,TON
+4134666,MD,24003,Anne Arundel,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,59.91295381,TON
+4139242,MD,24027,Howard,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.05036121,TON
+4139558,MD,24011,Caroline,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.4223919,TON
+4141750,MD,24029,Kent,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.001817945,TON
+4147995,MD,24037,St. Marys,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,6.75172,TON
+4151802,MD,24033,Prince Georges,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,560.24345185,TON
+4152410,MD,24009,Calvert,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,45.5734363,TON
+4156047,MD,24023,Garrett,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,2.21312786,TON
+4162565,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.02330976,TON
+4163703,MD,24043,Washington,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.8076024,TON
+4165888,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,22.35333,TON
+4166537,MD,24027,Howard,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,34.0612,TON
+4166890,MD,24510,Baltimore city,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,4.6914150999999995,TON
+4166891,MD,24510,Baltimore city,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,11.0127076,TON
+4168626,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,24.7343203,TON
+4172823,MD,24017,Charles,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,71.06785,TON
+4175416,MD,24023,Garrett,Fuel Comb - Residential - Oil,Ammonia,CAP,0.92988568,TON
+4180285,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.1019848,TON
+4181708,MD,24027,Howard,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,17.061340899999998,TON
+4184514,MD,24009,Calvert,Fuel Comb - Residential - Other,Ammonia,CAP,0.03549742,TON
+4187831,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,13.68173484,TON
+4194600,MD,24031,Montgomery,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,59.178165,TON
+4197796,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.7868145999999999,TON
+4199213,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4203975,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4206867,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.003827294,TON
+4207248,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,325.5816602,TON
+4211491,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,26.107152499999998,TON
+4213243,MD,24029,Kent,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.87246357,TON
+4217167,MD,24005,Baltimore,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,10.5982798,TON
+4222170,MD,24001,Allegany,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.02302707,TON
+4222487,MD,24021,Frederick,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,21.97588,TON
+4228993,MD,24039,Somerset,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.48387240000000004,TON
+4229606,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.2651093,TON
+4231770,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.001018125,TON
+4235370,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4236078,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4237937,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,1.46341184,TON
+4238115,MD,24019,Dorchester,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,1.16842718,TON
+4244559,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,11.59807,TON
+4248091,MD,24011,Caroline,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,532.57952614,TON
+4248109,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,9.4833779,TON
+4250447,MD,24017,Charles,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4261675,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.3431620000000002,TON
+4264626,MD,24001,Allegany,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,12.7687,TON
+4265725,MD,24045,Wicomico,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,151.40153206,TON
+4265826,MD,24047,Worcester,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,5.622220293,TON
+4265903,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,2.8512896,TON
+4284264,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,460.6058584,TON
+4287434,MD,24013,Carroll,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,294.14093068,TON
+4295526,MD,24021,Frederick,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,137.036366,TON
+4298179,MD,24005,Baltimore,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,444.22910099999996,TON
+4299809,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,6.659663,TON
+4300929,MD,24027,Howard,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.4967388,TON
+4302127,MD,24039,Somerset,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,1.67840015,TON
+4306960,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,22.905275,TON
+4312579,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.48676226,TON
+4317122,MD,24017,Charles,Commercial Cooking,Carbon Monoxide,CAP,29.645131,TON
+4318508,MD,24019,Dorchester,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.03075071,TON
+4322290,MD,24025,Harford,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,17.14356,TON
+4332712,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,2.268349,TON
+4333446,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4338859,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.04718825,TON
+4339788,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.003920715,TON
+4341832,MD,24510,Baltimore city,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,3.1989810000000003,TON
+4344730,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,14.969773499999999,TON
+4345500,MD,24041,Talbot,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,68.41087016,TON
+4345551,MD,24017,Charles,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,2.368385,TON
+4346976,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4351190,MD,24003,Anne Arundel,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,86.63374499999999,TON
+4354361,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,3.453036,TON
+4355318,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.2642561,TON
+4360660,MD,24025,Harford,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,23.01149,TON
+4370645,MD,24003,Anne Arundel,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,24.0649263,TON
+4376765,MD,24001,Allegany,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.0265697,TON
+4377935,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.06547321,TON
+4377936,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4379146,MD,24510,Baltimore city,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,13.26919,TON
+4380041,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.44108980000000003,TON
+4380801,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4381174,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.8286493,TON
+4381177,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,2.85728669,TON
+4383668,MD,24019,Dorchester,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.4509287030000002,TON
+4384295,MD,24017,Charles,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.4213844,TON
+4392933,MD,24019,Dorchester,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.391121369,TON
+4396656,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,102.8131,TON
+4397275,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02346181,TON
+4397289,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,18.63368,TON
+4397290,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4402744,MD,24023,Garrett,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.03,TON
+4407174,MD,24017,Charles,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,274.83085616,TON
+4407283,MD,24025,Harford,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,8.6261974,TON
+4412355,MD,24035,Queen Annes,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,4.139365,TON
+4413486,MD,24021,Frederick,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,6.399871,TON
+4414166,MD,24033,Prince Georges,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,406.54412,TON
+4414788,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4415384,MD,24029,Kent,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0035944809999999996,TON
+4417070,MD,24029,Kent,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4417397,MD,24041,Talbot,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.343185,TON
+4421456,MD,24025,Harford,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,32.94276185,TON
+4425582,MD,24029,Kent,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.201787692,TON
+4431384,MD,24029,Kent,Fuel Comb - Residential - Oil,Ammonia,CAP,0.33329104,TON
+4439593,MD,24045,Wicomico,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1011.1502495,TON
+4439775,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,2.09188361,TON
+4440945,MD,24025,Harford,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2127.5166231,TON
+4441490,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,385.400802,TON
+4445035,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,6.875201,TON
+4449389,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4451976,MD,24023,Garrett,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,3.636039,TON
+4452915,MD,24035,Queen Annes,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,1.638868,TON
+4453095,MD,24023,Garrett,Commercial Cooking,Carbon Monoxide,CAP,9.0257324,TON
+4453205,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,2.070536,TON
+4454651,MD,24043,Washington,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.35947326,TON
+4456411,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.1367885,TON
+4473546,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.008798021,TON
+4474024,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.1465267,TON
+4474543,MD,24027,Howard,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,21.85651,TON
+4476948,MD,24001,Allegany,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.27,TON
+4477212,MD,24005,Baltimore,Fuel Comb - Residential - Other,Ammonia,CAP,0.11247470000000001,TON
+4478365,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.10383699999999998,TON
+4487325,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,2.57144445,TON
+4487443,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,23.928420000000003,TON
+4495436,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,2.195708,TON
+4495549,MD,24009,Calvert,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.01,TON
+4497735,MD,24023,Garrett,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,140.89556813,TON
+4503921,MD,24035,Queen Annes,Commercial Cooking,Carbon Monoxide,CAP,9.237306199999999,TON
+4509759,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.9035127000000001,TON
+4510933,MD,24023,Garrett,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,22.909073,TON
+4511295,MD,24003,Anne Arundel,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,11.84887,TON
+4514094,MD,24027,Howard,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,68.12241,TON
+4526193,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.205612044,TON
+4529949,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4533336,MD,24043,Washington,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,19.636423999999998,TON
+4544476,MD,24045,Wicomico,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,54.4412322,TON
+4548502,MD,24035,Queen Annes,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,4.7337145,TON
+4552349,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.229433,TON
+4554874,MD,24005,Baltimore,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.262518,TON
+4557608,MD,24011,Caroline,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,1.2e-05,TON
+4558097,MD,24041,Talbot,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,1.10453549,TON
+4558254,MD,24009,Calvert,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,42.3293411,TON
+4564818,MD,24009,Calvert,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,1.42699465,TON
+4570154,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.08686308,TON
+4570228,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.03409113,TON
+4570685,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,5.662589,TON
+4574155,MD,24009,Calvert,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,16.55924956,TON
+4574349,MD,24025,Harford,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,110.1985,TON
+4575222,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.08677946,TON
+4575490,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.16378589999999998,TON
+4578440,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.05237857,TON
+4579640,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,7.758083999999999,TON
+4582689,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.0030410579999999997,TON
+4586600,MD,24017,Charles,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.03000565,TON
+4587654,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.044279124,TON
+4588329,MD,24031,Montgomery,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,180.8433,TON
+4588458,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4595253,MD,24003,Anne Arundel,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.177458,TON
+4598809,MD,24021,Frederick,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,43.0845896,TON
+4602833,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,1.319804,TON
+4606433,MD,24021,Frederick,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,11.967946000000001,TON
+4606444,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.6486615,TON
+4606861,MD,24001,Allegany,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.2435556,TON
+4610314,MD,24017,Charles,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.3286849,TON
+4614960,MD,24035,Queen Annes,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.05372845,TON
+4622057,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.02346181,TON
+4623571,MD,24029,Kent,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.79323253,TON
+4625044,MD,24025,Harford,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,6.6954656,TON
+4627147,MD,24043,Washington,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,44.048927,TON
+4630201,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,3.74125187,TON
+4632647,MD,24011,Caroline,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,6e-06,TON
+4633168,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.7107097,TON
+4637430,MD,24035,Queen Annes,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,14.59671,TON
+4640884,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.3021511,TON
+4643511,MD,24043,Washington,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.16,TON
+4648075,MD,24023,Garrett,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.66300847,TON
+4648422,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,2.925617,TON
+4648929,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.01198119,TON
+4650499,MD,24510,Baltimore city,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,53.06334120435404,TON
+4657088,MD,24039,Somerset,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,32.98134101,TON
+4658777,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.076958119,TON
+4659659,MD,24005,Baltimore,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,32.42866,TON
+4659918,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.10751911,TON
+4660497,MD,24025,Harford,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4662426,MD,24039,Somerset,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,6.042239,TON
+4663351,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,10.182310000000001,TON
+4663534,MD,24005,Baltimore,Commercial Cooking,Volatile Organic Compounds,CAP,65.4302948,TON
+4664252,MD,24037,St. Marys,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.9269245,TON
+4667984,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,28.41504,TON
+4670145,MD,24043,Washington,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.07662457,TON
+4672531,MD,24015,Cecil,Fuel Comb - Residential - Other,Ammonia,CAP,0.1300999,TON
+4680109,MD,24027,Howard,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,13.799320000000002,TON
+4683175,MD,24510,Baltimore city,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,25.9455182,TON
+4683234,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.21925681,TON
+4686948,MD,24037,St. Marys,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,12.8043,TON
+4692436,MD,24035,Queen Annes,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.04442929,TON
+4699079,MD,24043,Washington,Commercial Cooking,Carbon Monoxide,CAP,34.080726,TON
+4699839,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.066367164,TON
+4701095,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.07856786,TON
+4706591,MD,24015,Cecil,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,2.89974,TON
+4709285,MD,24005,Baltimore,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,3.54768635,TON
+4710932,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4710984,MD,24017,Charles,Fuel Comb - Residential - Oil,Ammonia,CAP,1.48217695,TON
+4714721,MD,24045,Wicomico,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,2.48742647,TON
+4715967,MD,24017,Charles,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.04186835,TON
+4716180,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.12973230000000002,TON
+4716305,MD,24027,Howard,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.36397624,TON
+4722781,MD,24019,Dorchester,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.02,TON
+4727093,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,1.07648041,TON
+4728862,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.10267190000000001,TON
+4729326,MD,24510,Baltimore city,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,2.29,TON
+4729513,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4730264,MD,24003,Anne Arundel,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,38.620163,TON
+4731153,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.006741133000000001,TON
+4734464,MD,24003,Anne Arundel,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,3.1956819,TON
+4739059,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0344955,TON
+4743464,MD,24017,Charles,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,26.6791752,TON
+4744498,MD,24510,Baltimore city,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,52.891954204354036,TON
+4747806,MD,24029,Kent,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4749855,MD,24021,Frederick,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,9.496279852999999,TON
+4750840,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.01052219,TON
+4753886,MD,24033,Prince Georges,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,11.707377418,TON
+4760097,MD,24001,Allegany,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,60.01291,TON
+4761516,MD,24039,Somerset,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.02881256,TON
+4768377,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.07388706,TON
+4768910,MD,24027,Howard,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,1.4617275,TON
+4776539,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.98834242,TON
+4779845,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.02463141,TON
+4782473,MD,24013,Carroll,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,331.01778922,TON
+4782648,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4788233,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.007987459,TON
+4788648,MD,24027,Howard,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.67581884,TON
+4789741,MD,24510,Baltimore city,Fuel Comb - Residential - Other,Ammonia,CAP,0.04602249,TON
+4791290,MD,24017,Charles,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4794187,MD,24009,Calvert,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.902351,TON
+4795738,MD,24037,St. Marys,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.08763649,TON
+4796396,MD,24043,Washington,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,81.175637,TON
+4798466,MD,24015,Cecil,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.7974284,TON
+4803987,MD,24027,Howard,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,1.0564894679999999,TON
+4807988,MD,24045,Wicomico,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.09,TON
+4810155,MD,24043,Washington,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4813733,MD,24045,Wicomico,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.08,TON
+4815996,MD,24005,Baltimore,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,73.01193136,TON
+4823716,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4826728,MD,24019,Dorchester,Commercial Cooking,Volatile Organic Compounds,CAP,1.542953913,TON
+4828591,MD,24037,St. Marys,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.07246864,TON
+4830007,MD,24029,Kent,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.074122538,TON
+4831088,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,75.41575300000001,TON
+4832166,MD,24043,Washington,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,15.355020000000001,TON
+4832528,MD,24005,Baltimore,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,24.878583600000002,TON
+4833080,MD,24043,Washington,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.08841297,TON
+4835175,MD,24027,Howard,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,16.252019,TON
+4837447,MD,24033,Prince Georges,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,56.863188,TON
+4837852,MD,24017,Charles,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,51.493970000000004,TON
+4838863,MD,24013,Carroll,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,5.708221,TON
+4839457,MD,24033,Prince Georges,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,4.573447,TON
+4839891,MD,24021,Frederick,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,6.677231,TON
+4846025,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,71.40879,TON
+4852335,MD,24033,Prince Georges,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,11.7649277,TON
+4858791,MD,24041,Talbot,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.3216892,TON
+4860035,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,4.333146,TON
+4860338,MD,24029,Kent,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,334.5052744,TON
+4861186,MD,24005,Baltimore,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,39.24922,TON
+4866104,MD,24019,Dorchester,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,0.8974254999999999,TON
+4867972,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,11.9356,TON
+4871220,MD,24005,Baltimore,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,586.96541467,TON
+4871484,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.13566675,TON
+4871541,MD,24011,Caroline,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4872722,MD,24031,Montgomery,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,16.4142474,TON
+4879644,MD,24001,Allegany,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.384162661,TON
+4881880,MD,24013,Carroll,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,8.608225,TON
+4882357,MD,24009,Calvert,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.004900894,TON
+4886071,MD,24510,Baltimore city,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,407.764211025984,TON
+4889521,MD,24013,Carroll,Commercial Cooking,Volatile Organic Compounds,CAP,13.049899400000001,TON
+4889654,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.284186017,TON
+4890218,MD,24037,St. Marys,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.09149942,TON
+4892029,MD,24013,Carroll,Fuel Comb - Residential - Other,Ammonia,CAP,0.1047048,TON
+4892996,MD,24047,Worcester,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4909758,MD,24015,Cecil,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,1.743641,TON
+4915379,MD,24035,Queen Annes,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.02999554,TON
+4915563,MD,24045,Wicomico,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,49.037583000000005,TON
+4916097,MD,24023,Garrett,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0180482096,TON
+4916625,MD,24023,Garrett,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,1.98065681,TON
+4921075,MD,24041,Talbot,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.005740940999999999,TON
+4921166,MD,24043,Washington,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.2303252,TON
+4924479,MD,24001,Allegany,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.24919407,TON
+4926913,MD,24029,Kent,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.0392154168,TON
+4934488,MD,24045,Wicomico,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,133.58791432,TON
+4935498,MD,24011,Caroline,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,1.8e-07,TON
+4935499,MD,24025,Harford,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,2.98521349,TON

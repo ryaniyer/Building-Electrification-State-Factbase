@@ -1,0 +1,939 @@
+,state,fips code,county,sector,pollutant desc,pollutant type(s),total emissions,emissions uom
+7245,VT,50001,Addison,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.9068755,TON
+19625,VT,50025,Windham,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,14.60554397,TON
+22798,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.04458708,TON
+27492,VT,50017,Orange,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.085589,TON
+28349,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+35834,VT,50009,Essex,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.0019523370000000002,TON
+37303,VT,50025,Windham,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,25.1791,TON
+41666,VT,50015,Lamoille,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,16.114964800000003,TON
+48355,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.05949159,TON
+50168,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.5947201,TON
+53078,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.04756248,TON
+53549,VT,50017,Orange,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.04281248,TON
+56406,VT,50023,Washington,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.1119816,TON
+64696,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.17295477267,TON
+80385,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,5.92265,TON
+80981,VT,50013,Grand Isle,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.36166228,TON
+83944,VT,50001,Addison,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.1246954,TON
+86589,VT,50023,Washington,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,9.0478091,TON
+91934,VT,50017,Orange,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.03710415,TON
+104906,VT,50023,Washington,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,80.8451671,TON
+105927,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,13.42353,TON
+113884,VT,50009,Essex,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+115524,VT,50021,Rutland,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,463.77708870000004,TON
+119108,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.03247008,TON
+120339,VT,50001,Addison,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,39.842231700000006,TON
+123411,VT,50005,Caledonia,Commercial Cooking,Volatile Organic Compounds,CAP,1.2524879740000001,TON
+123898,VT,50025,Windham,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,7.91476946,TON
+124950,VT,50023,Washington,Fuel Comb - Residential - Oil,Ammonia,CAP,4.2477193,TON
+129074,VT,50025,Windham,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+134912,VT,50025,Windham,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,63.072717299999994,TON
+139281,VT,50017,Orange,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,2.31441022,TON
+139385,VT,50025,Windham,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.7248275,TON
+139721,VT,50017,Orange,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,12.606644250999999,TON
+144406,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.08054116,TON
+146808,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+148750,VT,50017,Orange,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+157823,VT,50013,Grand Isle,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,2.5381082999999998,TON
+159919,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+165769,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.05865327,TON
+167092,VT,50027,Windsor,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+171834,VT,50005,Caledonia,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+190684,VT,50023,Washington,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.09331801,TON
+199166,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.8700538000000001,TON
+203054,VT,50021,Rutland,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+205914,VT,50025,Windham,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+205994,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+212139,VT,50023,Washington,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.203289,TON
+215359,VT,50009,Essex,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.02417586,TON
+220305,VT,50023,Washington,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4116.818535,TON
+221661,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+227726,VT,50001,Addison,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,23.97651,TON
+229024,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,34.34197,TON
+231572,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+240386,VT,50001,Addison,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+243962,VT,50011,Franklin,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.84815697,TON
+256992,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.2249020937,TON
+264153,VT,50003,Bennington,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,7.0765012,TON
+264633,VT,50017,Orange,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,7.7412279999999996,TON
+265310,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,118.7833,TON
+274622,VT,50005,Caledonia,Fuel Comb - Residential - Wood,Ammonia,CAP,15.798750327,TON
+275659,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+279423,VT,50001,Addison,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+285335,VT,50017,Orange,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.02370072,TON
+287525,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.10415,TON
+287741,VT,50001,Addison,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.4739648,TON
+287760,VT,50005,Caledonia,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+293009,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,5.45639874,TON
+293636,VT,50017,Orange,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,1.7798332436000002,TON
+295078,VT,50021,Rutland,Commercial Cooking,Carbon Monoxide,CAP,13.5798191,TON
+295626,VT,50001,Addison,Fuel Comb - Residential - Other,Ammonia,CAP,0.10378219999999999,TON
+296039,VT,50001,Addison,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.01360313,TON
+296046,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.04207224,TON
+301406,VT,50009,Essex,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0111831817,TON
+321568,VT,50001,Addison,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.07079785,TON
+323022,VT,50017,Orange,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,8.953501,TON
+325584,VT,50017,Orange,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+326093,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,1.430915,TON
+326351,VT,50023,Washington,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.07465441,TON
+332755,VT,50009,Essex,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,13.44087967,TON
+355027,VT,50015,Lamoille,Fuel Comb - Residential - Oil,Ammonia,CAP,1.53707848,TON
+362455,VT,50021,Rutland,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,12.9773728,TON
+374711,VT,50025,Windham,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.16697546,TON
+375870,VT,50001,Addison,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+378667,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,10.40496,TON
+390438,VT,50011,Franklin,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2545.3356445,TON
+392346,VT,50007,Chittenden,Commercial Cooking,Carbon Monoxide,CAP,33.144684000000005,TON
+393019,VT,50001,Addison,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,4.10687733,TON
+398087,VT,50001,Addison,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,12.3861384,TON
+421491,VT,50009,Essex,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,0.3346864,TON
+422312,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,14.23559,TON
+427218,VT,50003,Bennington,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,386.99036101,TON
+434441,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+437773,VT,50005,Caledonia,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.06021084,TON
+444260,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+448464,VT,50001,Addison,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,341.0609895,TON
+449100,VT,50025,Windham,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,8.095163000000001,TON
+458487,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+459250,VT,50015,Lamoille,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+459798,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,26.866090000000003,TON
+470997,VT,50015,Lamoille,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,3.2740366,TON
+472207,VT,50025,Windham,Commercial Cooking,Volatile Organic Compounds,CAP,4.04721563,TON
+472662,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.7733906,TON
+475576,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.06527576,TON
+490911,VT,50025,Windham,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,8.64948,TON
+491231,VT,50011,Franklin,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.07502196,TON
+498565,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.1611965,TON
+500391,VT,50005,Caledonia,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+501756,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,7.167578999999999,TON
+518617,VT,50009,Essex,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.0023906170000000003,TON
+526441,VT,50011,Franklin,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,11.626660902000001,TON
+531017,VT,50023,Washington,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,28.81802248,TON
+533772,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.07495211,TON
+534025,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.07833091,TON
+537198,VT,50023,Washington,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,49.09517,TON
+537966,VT,50009,Essex,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.02191399,TON
+540045,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.00416029,TON
+540672,VT,50025,Windham,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+552564,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.05083283,TON
+568221,VT,50015,Lamoille,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,3.6582627999999997,TON
+571222,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,20.87084601,TON
+581902,VT,50015,Lamoille,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,282.99808302,TON
+584246,VT,50001,Addison,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,301.86668391,TON
+584247,VT,50001,Addison,Fuel Comb - Residential - Wood,Ammonia,CAP,16.018063658,TON
+584251,VT,50005,Caledonia,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,301.39520742,TON
+585785,VT,50001,Addison,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.11016880000000001,TON
+598495,VT,50023,Washington,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,8.409389549,TON
+598723,VT,50025,Windham,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,404.3790418,TON
+601572,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,2.96675839,TON
+602369,VT,50013,Grand Isle,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,1.2081457,TON
+607730,VT,50025,Windham,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,13.44454,TON
+610837,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.06197963,TON
+618434,VT,50023,Washington,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,2.1517209999999998,TON
+627678,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.06577528,TON
+646633,VT,50025,Windham,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,1.5277889999999998,TON
+648140,VT,50021,Rutland,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+655811,VT,50011,Franklin,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.9941198,TON
+660670,VT,50003,Bennington,Commercial Cooking,Volatile Organic Compounds,CAP,2.2148471730000003,TON
+663045,VT,50003,Bennington,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.06869923,TON
+668455,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.71415886,TON
+669126,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.7927626999999999,TON
+669378,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.06527576,TON
+671672,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.04787656,TON
+672236,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+672476,VT,50017,Orange,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,3.8054967000000004,TON
+689292,VT,50027,Windsor,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+690658,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,9.14663,TON
+696401,VT,50001,Addison,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,10.848183599999999,TON
+700019,VT,50017,Orange,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,2.4511453999999997,TON
+707717,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+712880,VT,50009,Essex,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0008822869999999999,TON
+719917,VT,50015,Lamoille,Fuel Comb - Residential - Wood,Ammonia,CAP,15.029991327000001,TON
+724579,VT,50023,Washington,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,3.0263473,TON
+730483,VT,50021,Rutland,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,36.99269904,TON
+731218,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.13164379999999998,TON
+733411,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.02531758,TON
+735847,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,4.9514264,TON
+740967,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,1.009734,TON
+749782,VT,50023,Washington,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.4091264,TON
+752759,VT,50023,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.20228120000000002,TON
+753282,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.3636698,TON
+760149,VT,50007,Chittenden,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,86.6096927,TON
+761770,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.12262930000000001,TON
+764361,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.376767354,TON
+774184,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,12.75644755,TON
+776488,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,4.329803327,TON
+784966,VT,50005,Caledonia,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,10.817457699999999,TON
+788847,VT,50001,Addison,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,17.8625,TON
+798304,VT,50003,Bennington,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.8802339,TON
+817360,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+818137,VT,50013,Grand Isle,Commercial Cooking,Carbon Monoxide,CAP,0.31404366,TON
+825329,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,109.4876,TON
+842898,VT,50013,Grand Isle,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.2880196,TON
+845150,VT,50017,Orange,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+846507,VT,50017,Orange,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.20540619999999998,TON
+848873,VT,50025,Windham,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.1309313,TON
+849187,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,1.108502,TON
+850413,VT,50025,Windham,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,3157.5500567,TON
+857825,VT,50007,Chittenden,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,68.8546148,TON
+861959,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,8.211457000000001,TON
+864957,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+867229,VT,50017,Orange,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+872529,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,2.2815041369999998,TON
+879081,VT,50023,Washington,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,76.458947,TON
+884473,VT,50027,Windsor,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,15.803360000000001,TON
+888122,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.00339757,TON
+888790,VT,50023,Washington,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.946261,TON
+889335,VT,50023,Washington,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,55.27104,TON
+892745,VT,50013,Grand Isle,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,9.1371901,TON
+893813,VT,50009,Essex,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,76.7340153,TON
+893815,VT,50017,Orange,Fuel Comb - Residential - Wood,Ammonia,CAP,19.073203579,TON
+896804,VT,50015,Lamoille,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,27.667407,TON
+902008,VT,50011,Franklin,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,6.173832,TON
+904249,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+904959,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.477635,TON
+907204,VT,50003,Bennington,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+915604,VT,50001,Addison,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,5.17546942,TON
+917346,VT,50007,Chittenden,Fuel Comb - Residential - Oil,Ammonia,CAP,4.1479946000000005,TON
+920780,VT,50001,Addison,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,5.2765922,TON
+928330,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+928526,VT,50001,Addison,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,10.06268157,TON
+930573,VT,50003,Bennington,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,352.32885,TON
+930712,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,8.09487789,TON
+932672,VT,50011,Franklin,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,50.3733857,TON
+942607,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.41493019999999997,TON
+943179,VT,50021,Rutland,Fuel Comb - Residential - Oil,Ammonia,CAP,5.4526501,TON
+943895,VT,50001,Addison,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.6793345999999999,TON
+947098,VT,50025,Windham,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+947675,VT,50023,Washington,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,15.673879999999999,TON
+961172,VT,50015,Lamoille,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,7.543775999999999,TON
+970989,VT,50025,Windham,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,11.10937,TON
+975778,VT,50007,Chittenden,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,8.8353915,TON
+975842,VT,50025,Windham,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,31.59467,TON
+977405,VT,50021,Rutland,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+986863,VT,50001,Addison,Commercial Cooking,Carbon Monoxide,CAP,4.104577900000001,TON
+992357,VT,50001,Addison,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,29.95315,TON
+992730,VT,50019,Orleans,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+994281,VT,50005,Caledonia,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,9.14072578,TON
+997486,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,9.2289916,TON
+1001403,VT,50017,Orange,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,12.12082462,TON
+1008931,VT,50009,Essex,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.01643959,TON
+1014415,VT,50007,Chittenden,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,74.66389699999999,TON
+1016280,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,4.2195363,TON
+1018649,VT,50005,Caledonia,Fuel Comb - Residential - Other,Ammonia,CAP,0.06866148,TON
+1020342,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,137.3848,TON
+1020816,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1023536,VT,50003,Bennington,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+1024449,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,19.54794,TON
+1031910,VT,50007,Chittenden,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,542.076784,TON
+1031933,VT,50001,Addison,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,5.6558961,TON
+1033119,VT,50021,Rutland,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,31.94693,TON
+1035287,VT,50009,Essex,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,0.7835741,TON
+1036634,VT,50013,Grand Isle,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.02721135,TON
+1048565,VT,50017,Orange,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,56.878078599999995,TON
+1057890,VT,50009,Essex,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.008395437,TON
+1058047,VT,50023,Washington,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1063171,VT,50025,Windham,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,404.54121380000004,TON
+1066024,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.256724752,TON
+1071841,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1071868,VT,50027,Windsor,Commercial Cooking,Carbon Monoxide,CAP,8.0042321,TON
+1086066,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02164672,TON
+1091529,VT,50007,Chittenden,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.9552975,TON
+1091664,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,11.47717,TON
+1091927,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,11.8537,TON
+1101190,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,9.268594,TON
+1106635,VT,50017,Orange,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2825.5551932,TON
+1110863,VT,50019,Orleans,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.5401752,TON
+1116340,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1130967,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1132637,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.04790017,TON
+1138384,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,12.59206,TON
+1152549,VT,50013,Grand Isle,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1160140,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+1162338,VT,50003,Bennington,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,48.80690739999999,TON
+1163093,VT,50009,Essex,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.004835172,TON
+1163934,VT,50025,Windham,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.06969495,TON
+1168572,VT,50019,Orleans,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,13.87543,TON
+1173150,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,6.021816,TON
+1173239,VT,50003,Bennington,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,7.906968099999999,TON
+1177217,VT,50019,Orleans,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,4.2375006,TON
+1178700,VT,50021,Rutland,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,91.55982879999999,TON
+1181427,VT,50003,Bennington,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,352.198834,TON
+1184851,VT,50009,Essex,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1199234,VT,50017,Orange,Commercial Cooking,Volatile Organic Compounds,CAP,0.41899991,TON
+1206601,VT,50021,Rutland,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.13566660000000003,TON
+1244223,VT,50015,Lamoille,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,10.42807371,TON
+1245428,VT,50025,Windham,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,29.6514252,TON
+1247238,VT,50019,Orleans,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,5.04485593,TON
+1252431,VT,50001,Addison,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,8.791388000000001,TON
+1254307,VT,50019,Orleans,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.41737661,TON
+1260449,VT,50019,Orleans,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,295.54111603,TON
+1271575,VT,50017,Orange,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.11841889999999998,TON
+1282382,VT,50023,Washington,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+1284063,VT,50007,Chittenden,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,28.14145471,TON
+1297869,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,15.36233049,TON
+1299132,VT,50025,Windham,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,8.011232000000001,TON
+1308754,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1311139,VT,50017,Orange,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1313379,VT,50025,Windham,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1325620,VT,50023,Washington,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.2347153,TON
+1327868,VT,50017,Orange,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.2944091,TON
+1331175,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,17.35833,TON
+1331295,VT,50009,Essex,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+1331779,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,33.7115,TON
+1332078,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,0.5824406999999999,TON
+1339642,VT,50001,Addison,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,2.131157,TON
+1345315,VT,50001,Addison,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,16.80638176,TON
+1346926,VT,50017,Orange,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+1358384,VT,50009,Essex,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1367440,VT,50021,Rutland,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,3.8848184999999997,TON
+1369909,VT,50023,Washington,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1370034,VT,50019,Orleans,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,4.7347939000000006,TON
+1382018,VT,50019,Orleans,Commercial Cooking,Volatile Organic Compounds,CAP,0.7101799540000001,TON
+1384717,VT,50025,Windham,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+1386475,VT,50021,Rutland,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,11.614365,TON
+1389047,VT,50025,Windham,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.1233776,TON
+1395418,VT,50015,Lamoille,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,10.245894437,TON
+1398372,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,13.674270000000002,TON
+1399827,VT,50025,Windham,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,36.66693,TON
+1400114,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.13376448,TON
+1412817,VT,50003,Bennington,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,12.41906408,TON
+1419222,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,9.923202,TON
+1419411,VT,50023,Washington,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,10.10962,TON
+1419555,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.05772116,TON
+1424155,VT,50023,Washington,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1434631,VT,50023,Washington,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,27.8719945,TON
+1438452,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.5549889,TON
+1441713,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1443920,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1449134,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1452332,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,5.63026855,TON
+1457815,VT,50013,Grand Isle,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,54.34975555,TON
+1461092,VT,50001,Addison,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,5.89583,TON
+1463327,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,11.35472,TON
+1464103,VT,50017,Orange,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.01580048,TON
+1474437,VT,50019,Orleans,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1478621,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.661907704,TON
+1479832,VT,50009,Essex,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+1485423,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.07464083,TON
+1486565,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,18.8321,TON
+1504764,VT,50023,Washington,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,14.874889999999999,TON
+1512396,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1519644,VT,50011,Franklin,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,17.59884104,TON
+1528917,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,10.57457,TON
+1529361,VT,50009,Essex,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.2127476,TON
+1538150,VT,50001,Addison,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,44.590098,TON
+1539477,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.6569254,TON
+1543565,VT,50009,Essex,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+1543683,VT,50001,Addison,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.03645883,TON
+1544393,VT,50023,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.1651963,TON
+1545269,VT,50027,Windsor,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,525.2197867,TON
+1562805,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.9547083000000001,TON
+1573249,VT,50027,Windsor,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,19.3582898,TON
+1575511,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,7.64912701,TON
+1576876,VT,50013,Grand Isle,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+1588663,VT,50025,Windham,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.06969495,TON
+1591606,VT,50001,Addison,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.462123732,TON
+1612043,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,96.89781540000001,TON
+1612897,VT,50025,Windham,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,1.0388959999999998,TON
+1620047,VT,50007,Chittenden,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,145.8014,TON
+1621325,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,14.581,TON
+1623110,VT,50021,Rutland,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,3713.8396575999996,TON
+1640419,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,25.584770000000002,TON
+1644767,VT,50015,Lamoille,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,44.5661688,TON
+1653727,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.04203484,TON
+1655071,VT,50027,Windsor,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+1655072,VT,50027,Windsor,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1660678,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.003605585,TON
+1672056,VT,50009,Essex,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.10756960000000002,TON
+1675042,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.5693353,TON
+1675392,VT,50017,Orange,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1688460,VT,50017,Orange,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,27.885409999999997,TON
+1689811,VT,50025,Windham,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.3055578,TON
+1704843,VT,50009,Essex,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,559.53417664,TON
+1706702,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.6136511960000001,TON
+1719300,VT,50023,Washington,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,11.5812158,TON
+1719823,VT,50023,Washington,Fuel Comb - Residential - Other,Ammonia,CAP,0.1915041,TON
+1726262,VT,50019,Orleans,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+1727944,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,19.80934,TON
+1733964,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.05487978,TON
+1737237,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.08505583,TON
+1737835,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,1.63015,TON
+1751518,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,18.577479999999998,TON
+1754505,VT,50017,Orange,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,5.621021,TON
+1756218,VT,50009,Essex,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.0011028589999999999,TON
+1758237,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,86.25035,TON
+1769764,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.27437697699999997,TON
+1769765,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,39.70732198,TON
+1771658,VT,50005,Caledonia,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.08415433,TON
+1786214,VT,50023,Washington,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,534.296162,TON
+1791771,VT,50017,Orange,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,10.39091,TON
+1792115,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+1820380,VT,50017,Orange,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,28.98337047,TON
+1820788,VT,50019,Orleans,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,58.13244211,TON
+1824747,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+1831415,VT,50015,Lamoille,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+1833552,VT,50009,Essex,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1843041,VT,50015,Lamoille,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.09511346,TON
+1845185,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.0270584,TON
+1846676,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,23.77681572,TON
+1847457,VT,50013,Grand Isle,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+1867857,VT,50005,Caledonia,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.7714734000000001,TON
+1872745,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,14.345320000000001,TON
+1879617,VT,50021,Rutland,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,35.3922815,TON
+1889305,VT,50021,Rutland,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,27.263251,TON
+1907445,VT,50007,Chittenden,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.2552146,TON
+1915554,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,3.1420345000000003,TON
+1917502,VT,50005,Caledonia,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,11.050232633,TON
+1919406,VT,50019,Orleans,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+1921929,VT,50013,Grand Isle,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,54.37487395,TON
+1932199,VT,50027,Windsor,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,576.8096626,TON
+1933370,VT,50017,Orange,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,2.90337514,TON
+1935305,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02972472,TON
+1938879,VT,50001,Addison,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.01178938,TON
+1940055,VT,50017,Orange,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,7.9078029999999995,TON
+1949753,VT,50009,Essex,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+1950349,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,7.205385000000001,TON
+1957513,VT,50009,Essex,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.35587084560000004,TON
+1957702,VT,50011,Franklin,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.9612463,TON
+1961768,VT,50025,Windham,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.12122460000000002,TON
+1971491,VT,50001,Addison,Commercial Cooking,Volatile Organic Compounds,CAP,1.472726931,TON
+1983100,VT,50013,Grand Isle,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+1996329,VT,50003,Bennington,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.08316222,TON
+1997547,VT,50007,Chittenden,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4137.1547584,TON
+1998527,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,35.512881400000005,TON
+2001863,VT,50003,Bennington,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,16.6038289,TON
+2012386,VT,50011,Franklin,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,17.850936100000002,TON
+2015499,VT,50021,Rutland,Commercial Cooking,Volatile Organic Compounds,CAP,4.89975271,TON
+2023231,VT,50025,Windham,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+2042004,VT,50011,Franklin,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,12.9701766,TON
+2042031,VT,50017,Orange,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.08472646,TON
+2045195,VT,50007,Chittenden,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.8065611,TON
+2046056,VT,50009,Essex,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.3138736,TON
+2046529,VT,50023,Washington,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.9705073000000001,TON
+2048231,VT,50021,Rutland,Fuel Comb - Residential - Wood,Ammonia,CAP,25.99325853,TON
+2052932,VT,50019,Orleans,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,324.20042225,TON
+2054360,VT,50009,Essex,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2056728,VT,50009,Essex,Fuel Comb - Residential - Oil,Ammonia,CAP,0.51026568,TON
+2056729,VT,50009,Essex,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.36354602,TON
+2060173,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,14.413870000000001,TON
+2071981,VT,50005,Caledonia,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,328.94610744,TON
+2074555,VT,50023,Washington,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2075476,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,23.58255,TON
+2090700,VT,50017,Orange,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.200274595,TON
+2091799,VT,50025,Windham,Fuel Comb - Residential - Other,Ammonia,CAP,0.09890706,TON
+2094723,VT,50025,Windham,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,6.280588545,TON
+2098460,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,12.10765,TON
+2111803,VT,50003,Bennington,Fuel Comb - Residential - Other,Ammonia,CAP,0.07834122,TON
+2124335,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.038136,TON
+2134182,VT,50025,Windham,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,27.31687,TON
+2139846,VT,50027,Windsor,Fuel Comb - Residential - Other,Ammonia,CAP,0.1930862,TON
+2142795,VT,50001,Addison,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.05468825,TON
+2149116,VT,50019,Orleans,Fuel Comb - Residential - Wood,Ammonia,CAP,16.308306335,TON
+2150540,VT,50009,Essex,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,0.13462991400000002,TON
+2151141,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.008414447,TON
+2151814,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2158199,VT,50015,Lamoille,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.035615,TON
+2159509,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2160557,VT,50007,Chittenden,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.666964,TON
+2177519,VT,50017,Orange,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2186564,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,5.962904099999999,TON
+2188639,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2189542,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.23818926,TON
+2192838,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2208343,VT,50001,Addison,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.09100902,TON
+2217297,VT,50015,Lamoille,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2217348,VT,50017,Orange,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,4.2520926,TON
+2228515,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2233166,VT,50005,Caledonia,Fuel Comb - Residential - Oil,Ammonia,CAP,2.16349153,TON
+2240244,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,16.84381,TON
+2240777,VT,50023,Washington,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.1679344,TON
+2257885,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.09026333,TON
+2263271,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.4872083,TON
+2273428,VT,50003,Bennington,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,59.800311,TON
+2274321,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+2277627,VT,50025,Windham,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.10827010000000001,TON
+2280522,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,3.595346008,TON
+2283865,VT,50001,Addison,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2452.0864108,TON
+2286855,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.04804732,TON
+2287497,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.101405,TON
+2293745,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+2306835,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.29704,TON
+2320953,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.3864214,TON
+2322645,VT,50005,Caledonia,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,301.49811442,TON
+2332480,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.03989713,TON
+2332735,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,159.4407,TON
+2346288,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,4.883902,TON
+2350803,VT,50019,Orleans,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.04215881,TON
+2352611,VT,50023,Washington,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,2.045632,TON
+2363154,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.7522515999999999,TON
+2365014,VT,50023,Washington,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,19.47977953,TON
+2373286,VT,50017,Orange,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+2375072,VT,50015,Lamoille,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.11296760000000002,TON
+2377213,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,4.53083912,TON
+2384707,VT,50025,Windham,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,27.472794399999994,TON
+2392997,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.1186299,TON
+2408786,VT,50007,Chittenden,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,60.09822,TON
+2409062,VT,50027,Windsor,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.947567,TON
+2423444,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.738294,TON
+2428456,VT,50027,Windsor,Fuel Comb - Residential - Oil,Ammonia,CAP,4.1371434,TON
+2433357,VT,50023,Washington,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,29.836891499999997,TON
+2436336,VT,50011,Franklin,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,16.5959997,TON
+2438537,VT,50025,Windham,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,7.1698145,TON
+2452117,VT,50023,Washington,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.1449682,TON
+2452693,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,3.151805,TON
+2459575,VT,50007,Chittenden,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,80.372005,TON
+2467154,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.5030647,TON
+2480523,VT,50025,Windham,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,22.28380129,TON
+2480725,VT,50021,Rutland,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,9.059576,TON
+2480866,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2486665,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2490166,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2495161,VT,50013,Grand Isle,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,1.08125445,TON
+2497810,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.002303111,TON
+2499790,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,444.7280458000001,TON
+2507468,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,22.567510000000002,TON
+2508650,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.40334159999999997,TON
+2535020,VT,50025,Windham,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,60.588863,TON
+2538583,VT,50023,Washington,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,534.506495,TON
+2543040,VT,50011,Franklin,Fuel Comb - Residential - Oil,Ammonia,CAP,2.5940353,TON
+2543763,VT,50025,Windham,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+2547323,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.9730225,TON
+2548198,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02025407,TON
+2556745,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2557071,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.03843786,TON
+2568711,VT,50021,Rutland,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,515.72642921,TON
+2587225,VT,50023,Washington,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.1753104,TON
+2587827,VT,50023,Washington,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,10.59747585,TON
+2596682,VT,50027,Windsor,Commercial Cooking,Volatile Organic Compounds,CAP,2.90086732,TON
+2605864,VT,50005,Caledonia,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2606501,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.002981541,TON
+2607388,VT,50027,Windsor,Fuel Comb - Residential - Wood,Ammonia,CAP,28.18309725,TON
+2608593,VT,50017,Orange,Commercial Cooking,Carbon Monoxide,CAP,1.14191645,TON
+2610277,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,37.15273244,TON
+2612095,VT,50005,Caledonia,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2339.0267696,TON
+2612096,VT,50011,Franklin,Fuel Comb - Residential - Wood,Ammonia,CAP,17.175789243,TON
+2614691,VT,50007,Chittenden,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,590.5893848999999,TON
+2625216,VT,50001,Addison,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,12.97023,TON
+2647216,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,58.547748399999996,TON
+2654289,VT,50023,Washington,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,580.9885684999999,TON
+2659845,VT,50007,Chittenden,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,17.04278,TON
+2664796,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,48.30747,TON
+2674116,VT,50013,Grand Isle,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.832413777,TON
+2677798,VT,50001,Addison,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.9055539,TON
+2684102,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.30305809999999994,TON
+2685793,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,4.67521534,TON
+2692871,VT,50021,Rutland,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.2437049999999998,TON
+2695859,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.5376549,TON
+2698619,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.04481849,TON
+2701688,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.28618309999999997,TON
+2711876,VT,50005,Caledonia,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,8.480397400000001,TON
+2721685,VT,50019,Orleans,Fuel Comb - Residential - Oil,Ammonia,CAP,1.98940008,TON
+2726205,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.037155900000000006,TON
+2738938,VT,50001,Addison,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,20.659760000000002,TON
+2750667,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.1155545,TON
+2767898,VT,50001,Addison,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.45343770000000005,TON
+2773573,VT,50001,Addison,Fuel Comb - Residential - Oil,Ammonia,CAP,2.4772277000000003,TON
+2775353,VT,50023,Washington,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+2776041,VT,50027,Windsor,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,55.72765,TON
+2788174,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.4996920999999999,TON
+2791376,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,3.34831875,TON
+2793950,VT,50025,Windham,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2794493,VT,50017,Orange,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2794692,VT,50017,Orange,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,3.81,TON
+2804666,VT,50025,Windham,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.3981886,TON
+2808051,VT,50025,Windham,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.7067190309999999,TON
+2812570,VT,50001,Addison,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,16.46462,TON
+2815171,VT,50015,Lamoille,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+2815994,VT,50007,Chittenden,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,31.02158,TON
+2817941,VT,50003,Bennington,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2821511,VT,50015,Lamoille,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,283.08658402,TON
+2824584,VT,50025,Windham,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.11131,TON
+2825525,VT,50001,Addison,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1271997,TON
+2835952,VT,50009,Essex,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.01173397,TON
+2844997,VT,50019,Orleans,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2847059,VT,50009,Essex,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,1.21443831,TON
+2849227,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,8.1010373,TON
+2852979,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,6.359603,TON
+2852980,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.03989713,TON
+2854265,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.1397036,TON
+2864064,VT,50013,Grand Isle,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,0.81408757,TON
+2866666,VT,50013,Grand Isle,Fuel Comb - Residential - Wood,Ammonia,CAP,2.940540059,TON
+2868913,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.1749177,TON
+2885633,VT,50009,Essex,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,9.1847826,TON
+2889739,VT,50001,Addison,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,13.830279999999998,TON
+2904628,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,27.31020978,TON
+2906997,VT,50021,Rutland,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+2907267,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,4.611226599999999,TON
+2910116,VT,50003,Bennington,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,2.3669766,TON
+2910390,VT,50009,Essex,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.010162899999999999,TON
+2911223,VT,50027,Windsor,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.16932170000000002,TON
+2912832,VT,50009,Essex,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0020718679999999997,TON
+2918533,VT,50003,Bennington,Fuel Comb - Residential - Wood,Ammonia,CAP,18.27058217,TON
+2921171,VT,50025,Windham,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,28.5461,TON
+2926400,VT,50021,Rutland,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2929664,VT,50015,Lamoille,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,26.601740000000003,TON
+2933512,VT,50005,Caledonia,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+2933551,VT,50025,Windham,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.38485,TON
+2942782,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,7.658742999999999,TON
+2945819,VT,50019,Orleans,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,4.68727453,TON
+2950524,VT,50015,Lamoille,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+2952697,VT,50023,Washington,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.09331801,TON
+2956067,VT,50009,Essex,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,1.427796425,TON
+2961869,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2962825,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,3.07306293,TON
+2967442,VT,50027,Windsor,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+2983455,VT,50001,Addison,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+2986083,VT,50005,Caledonia,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,4.6083210999999995,TON
+2986819,VT,50001,Addison,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.09878769,TON
+2989255,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+2992696,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,1.0532489999999999,TON
+3000022,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.019461626399999998,TON
+3001066,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.04804732,TON
+3004730,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,6.701385097999999,TON
+3012529,VT,50027,Windsor,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,4120.7116751,TON
+3017240,VT,50001,Addison,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,10.115854177000001,TON
+3018289,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+3020285,VT,50015,Lamoille,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,7.685390400000001,TON
+3029603,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,10.60551,TON
+3030253,VT,50005,Caledonia,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+3050866,VT,50027,Windsor,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,19.23676523,TON
+3055632,VT,50009,Essex,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,67.47079458,TON
+3062855,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3063878,VT,50011,Franklin,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,5.5253966,TON
+3074809,VT,50011,Franklin,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,357.55467346,TON
+3078611,VT,50021,Rutland,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.117502,TON
+3081407,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.8745884,TON
+3083703,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.5364890999999999,TON
+3084366,VT,50027,Windsor,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,28.06784118,TON
+3093478,VT,50017,Orange,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,2.242938513,TON
+3094515,VT,50023,Washington,Commercial Cooking,Carbon Monoxide,CAP,10.6921591,TON
+3100459,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,8.65147509,TON
+3100820,VT,50013,Grand Isle,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,2.098034,TON
+3103473,VT,50027,Windsor,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,20.6857172,TON
+3107491,VT,50011,Franklin,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,16.99041,TON
+3107650,VT,50023,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,33.71354,TON
+3120625,VT,50013,Grand Isle,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.03141793,TON
+3120815,VT,50013,Grand Isle,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+3122351,VT,50019,Orleans,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.05103435,TON
+3125928,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,29.59133,TON
+3134633,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.02860912,TON
+3140176,VT,50013,Grand Isle,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.02247894,TON
+3145899,VT,50001,Addison,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.04557354,TON
+3146480,VT,50011,Franklin,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.09398951,TON
+3147195,VT,50025,Windham,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3152157,VT,50011,Franklin,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,325.42667391,TON
+3157289,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3163894,VT,50009,Essex,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,0.3984362,TON
+3178258,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,9.775545,TON
+3179906,VT,50005,Caledonia,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,19.816760000000002,TON
+3181511,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,4.517487,TON
+3182546,VT,50001,Addison,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.9990214,TON
+3185245,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.21064989999999997,TON
+3189431,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.029308400000000002,TON
+3192376,VT,50013,Grand Isle,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,0.756654029,TON
+3192523,VT,50019,Orleans,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+3202113,VT,50007,Chittenden,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.9306474,TON
+3204334,VT,50023,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,28.319370000000003,TON
+3204494,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,21.7812,TON
+3204495,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.7162096,TON
+3207962,VT,50011,Franklin,Commercial Cooking,Volatile Organic Compounds,CAP,2.52510375,TON
+3213453,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,34.41620013,TON
+3218838,VT,50003,Bennington,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,16.6111957,TON
+3219865,VT,50027,Windsor,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,2.1694970000000002,TON
+3220472,VT,50017,Orange,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,8.9329245,TON
+3223335,VT,50011,Franklin,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.07772209,TON
+3238319,VT,50007,Chittenden,Fuel Comb - Residential - Other,Ammonia,CAP,0.20822939999999998,TON
+3242358,VT,50003,Bennington,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+3258181,VT,50017,Orange,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,5.993748,TON
+3268828,VT,50009,Essex,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,1.631409891,TON
+3290736,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+3291222,VT,50013,Grand Isle,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,446.32501649,TON
+3294187,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3304948,VT,50009,Essex,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.49995680000000003,TON
+3316787,VT,50017,Orange,Fuel Comb - Residential - Oil,Ammonia,CAP,1.7865845,TON
+3319664,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.030381099999999998,TON
+3325167,VT,50025,Windham,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.05575596,TON
+3346148,VT,50009,Essex,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.23567009600000002,TON
+3350904,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,4.35399279,TON
+3352118,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.07062795,TON
+3354753,VT,50017,Orange,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.03496353,TON
+3365726,VT,50001,Addison,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.166086,TON
+3372883,VT,50025,Windham,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3374175,VT,50017,Orange,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,0.3924478,TON
+3376582,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.5931495,TON
+3382381,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,70.5078857,TON
+3387350,VT,50009,Essex,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,2.5513284,TON
+3389955,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,18.086489999999998,TON
+3393208,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+3398334,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3412786,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,6.643363000000001,TON
+3427846,VT,50021,Rutland,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+3427921,VT,50009,Essex,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,2.76313,TON
+3430246,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+3431435,VT,50027,Windsor,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,9.8464485,TON
+3431722,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3431750,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0319177,TON
+3432481,VT,50017,Orange,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,3.148246,TON
+3435015,VT,50025,Windham,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.1510746,TON
+3443203,VT,50007,Chittenden,Commercial Cooking,Volatile Organic Compounds,CAP,11.98821519,TON
+3454286,VT,50001,Addison,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,7.264422,TON
+3465400,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.07436448,TON
+3468031,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.0864832,TON
+3475184,VT,50021,Rutland,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,463.99117469999993,TON
+3476352,VT,50017,Orange,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,2.69610699,TON
+3481461,VT,50011,Franklin,Fuel Comb - Residential - Other,Ammonia,CAP,0.08555136,TON
+3481487,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.01996029,TON
+3484661,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,11.27576,TON
+3486472,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,7.696378,TON
+3488381,VT,50005,Caledonia,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.07288681,TON
+3488891,VT,50003,Bennington,Fuel Comb - Residential - Oil,Ammonia,CAP,3.3222391000000004,TON
+3489849,VT,50017,Orange,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,7.135414,TON
+3492156,VT,50009,Essex,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.0013234310000000001,TON
+3494360,VT,50021,Rutland,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,17.26882519,TON
+3500951,VT,50001,Addison,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.009748912,TON
+3502799,VT,50021,Rutland,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.09706689,TON
+3513534,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.8144975999999999,TON
+3530909,VT,50015,Lamoille,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.09784221,TON
+3534406,VT,50009,Essex,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,1.324123825,TON
+3542078,VT,50013,Grand Isle,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,61.863134667,TON
+3542111,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.3773925,TON
+3559371,VT,50023,Washington,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3569196,VT,50009,Essex,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.0011028589999999999,TON
+3584552,VT,50005,Caledonia,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,5.6196779999999995,TON
+3597988,VT,50001,Addison,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,14.57138879,TON
+3599680,VT,50007,Chittenden,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,20.739968,TON
+3602727,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3605650,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,58.4616,TON
+3616186,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0015354070000000001,TON
+3618990,VT,50019,Orleans,Fuel Comb - Residential - Other,Ammonia,CAP,0.04807584,TON
+3624169,VT,50017,Orange,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.08659092,TON
+3628131,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,39.1236,TON
+3634049,VT,50005,Caledonia,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,47.364770299999996,TON
+3649999,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.404563925,TON
+3657651,VT,50007,Chittenden,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,9.872273800000002,TON
+3658102,VT,50001,Addison,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+3663716,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+3665307,VT,50017,Orange,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+3665611,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,12.26633,TON
+3676486,VT,50023,Washington,Fuel Comb - Residential - Wood,Ammonia,CAP,27.6851185,TON
+3685674,VT,50019,Orleans,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,9.946999400000001,TON
+3692485,VT,50025,Windham,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.08673389,TON
+3693440,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.30592990000000003,TON
+3693813,VT,50019,Orleans,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+3694502,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3695849,VT,50009,Essex,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,1.08688604,TON
+3701022,VT,50003,Bennington,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,22.53923737,TON
+3702372,VT,50003,Bennington,Commercial Cooking,Carbon Monoxide,CAP,6.196499299999999,TON
+3705701,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,0.6933816999999999,TON
+3708958,VT,50015,Lamoille,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,311.92478048,TON
+3712940,VT,50011,Franklin,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,24.69144,TON
+3717537,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,11.87998337,TON
+3719519,VT,50027,Windsor,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+3720784,VT,50023,Washington,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+3730725,VT,50025,Windham,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,22.83645464,TON
+3744778,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.30305809999999994,TON
+3758000,VT,50011,Franklin,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,46.692632,TON
+3762792,VT,50019,Orleans,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,13.49678606,TON
+3763434,VT,50023,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,1.8542450000000001,TON
+3769003,VT,50001,Addison,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,301.99177391,TON
+3785865,VT,50015,Lamoille,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2229.7828191,TON
+3789853,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.001919259,TON
+3797441,VT,50007,Chittenden,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.2210436,TON
+3818930,VT,50009,Essex,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.0017132760000000001,TON
+3831510,VT,50001,Addison,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3836772,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3846325,VT,50017,Orange,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,392.77505625,TON
+3863661,VT,50003,Bennington,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2753.8263156,TON
+3867459,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,2.816450541,TON
+3867862,VT,50003,Bennington,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.09601822,TON
+3868661,VT,50017,Orange,Fuel Comb - Residential - Other,Ammonia,CAP,0.09661789999999999,TON
+3876429,VT,50023,Washington,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,42.303670000000004,TON
+3891002,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,5.88235111,TON
+3895689,VT,50023,Washington,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,18.00156,TON
+3898368,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02531758,TON
+3907908,VT,50011,Franklin,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.10485530000000001,TON
+3913678,VT,50027,Windsor,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,74.468592,TON
+3922194,VT,50009,Essex,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,0.43226440000000005,TON
+3934218,VT,50017,Orange,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.019750599999999997,TON
+3936510,VT,50009,Essex,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+3944567,VT,50009,Essex,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+3949688,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,3.0728343369999997,TON
+3956089,VT,50025,Windham,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,21.15044,TON
+3957271,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.5538584,TON
+3963608,VT,50003,Bennington,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,22.61048,TON
+3970562,VT,50027,Windsor,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+3979850,VT,50015,Lamoille,Commercial Cooking,Volatile Organic Compounds,CAP,2.242824055,TON
+3980509,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.3187574,TON
+3984308,VT,50007,Chittenden,Fuel Comb - Residential - Wood,Ammonia,CAP,27.41423812,TON
+3991631,VT,50017,Orange,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.03068228,TON
+3992448,VT,50023,Washington,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,1.39103,TON
+3997702,VT,50009,Essex,Commercial Cooking,Carbon Monoxide,CAP,0.53825556,TON
+4000518,VT,50025,Windham,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.08363394,TON
+4012026,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.1155242,TON
+4032839,VT,50023,Washington,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,26.55831,TON
+4039207,VT,50017,Orange,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,352.39225608,TON
+4039208,VT,50019,Orleans,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,295.63895203,TON
+4039856,VT,50023,Washington,Commercial Cooking,Volatile Organic Compounds,CAP,3.8563089,TON
+4043986,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,21.16413,TON
+4053537,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.1628995,TON
+4077577,VT,50019,Orleans,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,11.297736535999999,TON
+4084344,VT,50003,Bennington,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,15.4048658,TON
+4091968,VT,50025,Windham,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4092167,VT,50025,Windham,Fuel Comb - Residential - Wood,Ammonia,CAP,21.33715255,TON
+4098285,VT,50009,Essex,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,0.09960556323999999,TON
+4100510,VT,50025,Windham,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,102.2750768,TON
+4101373,VT,50013,Grand Isle,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,7.85304996,TON
+4107089,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,1.328673,TON
+4110301,VT,50003,Bennington,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+4111153,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.2424465,TON
+4117626,VT,50009,Essex,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+4134154,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,7.763371,TON
+4142697,VT,50013,Grand Isle,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+4144692,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.03933051,TON
+4148699,VT,50011,Franklin,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,7.2299619999999996,TON
+4157439,VT,50011,Franklin,Commercial Cooking,Carbon Monoxide,CAP,6.899244599999999,TON
+4158928,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,13.319729999999998,TON
+4165991,VT,50007,Chittenden,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,8.530935000000001,TON
+4178871,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4183153,VT,50017,Orange,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.4329545999999999,TON
+4184467,VT,50023,Washington,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,36.5759,TON
+4185720,VT,50017,Orange,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+4186772,VT,50019,Orleans,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,35.809199,TON
+4189833,VT,50009,Essex,Commercial Cooking,Volatile Organic Compounds,CAP,0.193833693,TON
+4202263,VT,50015,Lamoille,Fuel Comb - Residential - Other,Ammonia,CAP,0.0921702,TON
+4212614,VT,50025,Windham,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,16.8302413,TON
+4217172,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.06980234,TON
+4221996,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,7.683169,TON
+4224069,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+4232355,VT,50023,Washington,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,25.8375273,TON
+4240975,VT,50007,Chittenden,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,2.339645,TON
+4251841,VT,50021,Rutland,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,32.8106459,TON
+4252426,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,0.5462210999999999,TON
+4252785,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.3702357,TON
+4256882,VT,50009,Essex,Fuel Comb - Residential - Other,Ammonia,CAP,0.009573744,TON
+4258316,VT,50005,Caledonia,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.54141031,TON
+4259324,VT,50017,Orange,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.10256359999999999,TON
+4262219,VT,50001,Addison,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.1998043,TON
+4292103,VT,50023,Washington,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4294147,VT,50023,Washington,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,21.2385963,TON
+4299214,VT,50027,Windsor,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,8.8122795,TON
+4303211,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.035623,TON
+4308010,VT,50013,Grand Isle,Fuel Comb - Residential - Oil,Ammonia,CAP,0.50762166,TON
+4315833,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,15.63764,TON
+4319810,VT,50021,Rutland,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,98.147715,TON
+4321716,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,5.219715,TON
+4322762,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.32603000000000004,TON
+4327456,VT,50013,Grand Isle,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,3.443884094,TON
+4328516,VT,50017,Orange,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,352.28780908,TON
+4331345,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.05765678,TON
+4332290,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+4358117,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+4360784,VT,50005,Caledonia,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+4368521,VT,50009,Essex,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4376411,VT,50007,Chittenden,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.18260120000000002,TON
+4377714,VT,50015,Lamoille,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.0,TON
+4379419,VT,50009,Essex,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.01146973,TON
+4389907,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,37.610976,TON
+4393136,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,8.44505523,TON
+4412210,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,20.99012,TON
+4416212,VT,50015,Lamoille,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+4419777,VT,50023,Washington,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,136.9411966,TON
+4424919,VT,50025,Windham,Fuel Comb - Residential - Oil,Ammonia,CAP,3.3660483,TON
+4427428,VT,50015,Lamoille,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4428567,VT,50021,Rutland,Fuel Comb - Residential - Other,Ammonia,CAP,0.1106903,TON
+4430898,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,7.41291253,TON
+4439442,VT,50025,Windham,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,443.32331914,TON
+4446785,VT,50023,Washington,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4448133,VT,50027,Windsor,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,20.8590332,TON
+4451496,VT,50005,Caledonia,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,38.942842,TON
+4453069,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,91.96956,TON
+4463450,VT,50009,Essex,Fuel Comb - Residential - Wood,Ammonia,CAP,3.894135401,TON
+4470685,VT,50005,Caledonia,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,14.67788636,TON
+4472557,VT,50017,Orange,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4483314,VT,50025,Windham,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.1049937,TON
+4485231,VT,50007,Chittenden,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,541.524504,TON
+4490328,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.05222061,TON
+4503601,VT,50001,Addison,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,8.494175,TON
+4547101,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,54.5250845,TON
+4549659,VT,50025,Windham,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+4558995,VT,50009,Essex,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.5802206999999999,TON
+4564402,VT,50025,Windham,Commercial Cooking,Carbon Monoxide,CAP,11.2847539,TON
+4568203,VT,50001,Addison,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.085616,TON
+4578061,VT,50009,Essex,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,0.1757957,TON
+4584913,VT,50015,Lamoille,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.08082617,TON
+4589016,VT,50009,Essex,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4591881,VT,50011,Franklin,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.09081606,TON
+4593520,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4593556,VT,50023,Washington,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+4594659,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,109.1274653,TON
+4600271,VT,50027,Windsor,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.20496839999999997,TON
+4631761,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4633908,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,2.87514134,TON
+4649251,VT,50001,Addison,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,66.8776905,TON
+4656509,VT,50009,Essex,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,67.44765018,TON
+4661148,VT,50027,Windsor,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.2366544,TON
+4661292,VT,50025,Windham,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,19.835179999999998,TON
+4663915,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,14.563220000000001,TON
+4668498,VT,50009,Essex,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,2.451159629,TON
+4683413,VT,50009,Essex,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,3.46182145,TON
+4688446,VT,50005,Caledonia,Commercial Cooking,Carbon Monoxide,CAP,3.4775454,TON
+4689647,VT,50011,Franklin,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,325.26799091,TON
+4697960,VT,50013,Grand Isle,Fuel Comb - Residential - Other,Ammonia,CAP,0.02563388,TON
+4702323,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.1414953,TON
+4704756,VT,50019,Orleans,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.05892372,TON
+4711589,VT,50017,Orange,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,6.31492756,TON
+4719720,VT,50023,Washington,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+4733711,VT,50025,Windham,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4738055,VT,50011,Franklin,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,3.6149809999999998,TON
+4738079,VT,50021,Rutland,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,0.0,TON
+4743031,VT,50001,Addison,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.76493566,TON
+4745766,VT,50017,Orange,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.2728776000000002,TON
+4748727,VT,50023,Washington,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4751556,VT,50001,Addison,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.04557354,TON
+4751647,VT,50011,Franklin,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.037155900000000006,TON
+4759192,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.6788679,TON
+4759547,VT,50001,Addison,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+4765721,VT,50017,Orange,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+4769081,VT,50015,Lamoille,Commercial Cooking,Carbon Monoxide,CAP,6.194497900000001,TON
+4770125,VT,50027,Windsor,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,95.7900598,TON
+4774731,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,29.14708,TON
+4775886,VT,50007,Chittenden,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,62.04316,TON
+4781029,VT,50019,Orleans,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2325.017531,TON
+4787820,VT,50003,Bennington,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,25.27798,TON
+4788707,VT,50027,Windsor,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,525.0145427,TON
+4789589,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,2.4383784090000002,TON
+4793082,VT,50023,Washington,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,0.0,TON
+4799205,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.08923738,TON
+4799617,VT,50011,Franklin,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,7.00205,TON
+4803426,VT,50005,Caledonia,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,5.1491336,TON
+4804507,VT,50011,Franklin,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.10844939999999999,TON
+4806977,VT,50017,Orange,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.019750599999999997,TON
+4828177,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.26330290000000006,TON
+4830009,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+4833450,VT,50013,Grand Isle,Commercial Cooking,Volatile Organic Compounds,CAP,0.11443903789999998,TON
+4833737,VT,50017,Orange,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,32.158530999999996,TON
+4837751,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.001919259,TON
+4839382,VT,50003,Bennington,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.0,TON
+4847431,VT,50021,Rutland,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.754068882,TON
+4856023,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.4707965,TON
+4865677,VT,50009,Essex,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.1286388085,TON
+4868559,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,3.170750897,TON
+4869645,VT,50015,Lamoille,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,14.9498071,TON
+4880475,VT,50027,Windsor,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,88.7035959,TON
+4890719,VT,50013,Grand Isle,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.21795684699999998,TON
+4891649,VT,50019,Orleans,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,3.934822,TON
+4893895,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.371159,TON
+4902654,VT,50005,Caledonia,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,3.3580785000000004,TON
+4915048,VT,50003,Bennington,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.0,TON
+4919674,VT,50023,Washington,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,10.9351664,TON
+4926672,VT,50013,Grand Isle,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,0.0,TON
+4932020,VT,50013,Grand Isle,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,7.398332000000001,TON
+4932446,VT,50001,Addison,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.08067662,TON
+4932474,VT,50019,Orleans,Commercial Cooking,Carbon Monoxide,CAP,1.9468906000000004,TON
+4935659,VT,50001,Addison,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,5.34038712,TON
+4935974,VT,50003,Bennington,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,6.411928,TON
+4936289,VT,50019,Orleans,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.11099780000000001,TON
+4938165,VT,50007,Chittenden,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,18.1247449,TON
+4938196,VT,50007,Chittenden,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON

@@ -1,0 +1,97 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,MD,Allegany,2.45,2.45,2.43,2.43,2.44,2.42,2.4,2.4,2.34,2.35
+1,Avg household size of renter-occupied unit,MD,Allegany,2.07,2.13,2.15,2.13,2.07,2.13,2.16,2.19,2.22,2.22
+36,Owner-Occupied,MD,Allegany,49950,49061,48398,48265,48207,47054,46161,45935,44675,44299
+37,Renter-Occupied,MD,Allegany,17411,18256,18495,18260,18022,18862,19255,18943,19374,18968
+0,Avg household size of owner-occupied unit,MD,Anne Arundel,2.65,2.67,2.68,2.69,2.7,2.69,2.69,2.71,2.7,2.69
+1,Avg household size of renter-occupied unit,MD,Anne Arundel,2.43,2.44,2.49,2.51,2.55,2.55,2.54,2.54,2.52,2.49
+36,Owner-Occupied,MD,Anne Arundel,392733,394978,395753,399382,403125,404835,407646,414139,416883,419134
+37,Renter-Occupied,MD,Anne Arundel,115399,121022,126713,129456,132119,135214,135999,134014,134026,135035
+0,Avg household size of owner-occupied unit,MD,Baltimore,2.6,2.6,2.61,2.62,2.64,2.66,2.66,2.66,2.67,2.67
+1,Avg household size of renter-occupied unit,MD,Baltimore,2.22,2.25,2.28,2.32,2.35,2.38,2.4,2.43,2.4,2.4
+36,Owner-Occupied,MD,Baltimore,549412,548823,545960,548350,548675,551424,548374,548556,549266,552438
+37,Renter-Occupied,MD,Baltimore,231051,234049,241183,243368,248296,250677,256494,259424,257942,255209
+0,Avg household size of owner-occupied unit,MD,Calvert,2.97,2.97,2.95,2.95,2.93,2.92,2.88,2.87,2.87,2.88
+1,Avg household size of renter-occupied unit,MD,Calvert,2.33,2.42,2.41,2.49,2.6,2.68,2.75,2.84,2.78,2.62
+36,Owner-Occupied,MD,Calvert,76476,75900,74535,74301,73941,74151,74221,75332,75561,78044
+37,Renter-Occupied,MD,Calvert,10608,11774,13576,14356,15172,15313,15656,14845,14895,12865
+0,Avg household size of owner-occupied unit,MD,Caroline,2.7,2.73,2.76,2.76,2.7,2.72,2.68,2.68,2.69,2.74
+1,Avg household size of renter-occupied unit,MD,Caroline,2.8,2.7,2.67,2.65,2.75,2.65,2.67,2.7,2.66,2.63
+36,Owner-Occupied,MD,Caroline,24197,24004,23497,23561,22662,22827,22708,22928,23489,23962
+37,Renter-Occupied,MD,Caroline,8036,8241,8776,8676,9515,9312,9438,9345,8877,8578
+0,Avg household size of owner-occupied unit,MD,Carroll,2.82,2.86,2.85,2.85,2.84,2.84,2.81,2.79,2.8,2.8
+1,Avg household size of renter-occupied unit,MD,Carroll,2.26,2.2,2.16,2.17,2.23,2.23,2.31,2.36,2.3,2.26
+36,Owner-Occupied,MD,Carroll,140649,142299,141725,140286,140372,139833,137906,137877,139112,139348
+37,Renter-Occupied,MD,Carroll,21560,21000,21636,23223,23399,24064,26150,25877,24774,24725
+0,Avg household size of owner-occupied unit,MD,Cecil,2.8,2.83,2.85,2.8,2.78,2.79,2.76,2.76,2.78,2.77
+1,Avg household size of renter-occupied unit,MD,Cecil,2.54,2.54,2.52,2.57,2.64,2.57,2.61,2.62,2.61,2.62
+36,Owner-Occupied,MD,Cecil,75790,75807,75850,75575,74330,75422,74374,74776,74747,74998
+37,Renter-Occupied,MD,Cecil,23231,23234,23533,24166,25803,24983,26251,26149,26294,26157
+0,Avg household size of owner-occupied unit,MD,Charles,2.92,2.92,2.93,2.93,2.89,2.9,2.86,2.83,2.82,2.8
+1,Avg household size of renter-occupied unit,MD,Charles,2.62,2.63,2.62,2.69,2.73,2.64,2.66,2.68,2.63,2.71
+36,Owner-Occupied,MD,Charles,118204,117710,118773,118978,117724,119628,119632,120261,120738,121708
+37,Renter-Occupied,MD,Charles,24727,26368,26907,28409,31520,31233,32588,33417,34587,35487
+0,Avg household size of owner-occupied unit,MD,Dorchester,2.37,2.32,2.31,2.36,2.35,2.38,2.42,2.48,2.41,2.4
+1,Avg household size of renter-occupied unit,MD,Dorchester,2.4,2.43,2.45,2.45,2.45,2.45,2.4,2.42,2.35,2.37
+36,Owner-Occupied,MD,Dorchester,22459,21925,21445,20829,20768,20739,20884,21105,21536,21564
+37,Renter-Occupied,MD,Dorchester,9231,9921,10505,11179,11249,11200,10987,10703,10144,9992
+0,Avg household size of owner-occupied unit,MD,Frederick,2.79,2.77,2.79,2.78,2.78,2.76,2.77,2.76,2.75,2.76
+1,Avg household size of renter-occupied unit,MD,Frederick,2.33,2.33,2.36,2.39,2.42,2.44,2.45,2.44,2.42,2.39
+36,Owner-Occupied,MD,Frederick,178996,179130,180329,181127,180605,180589,182438,185897,188047,191889
+37,Renter-Occupied,MD,Frederick,45047,47759,49249,50974,54154,56361,56403,55481,55727,54821
+0,Avg household size of owner-occupied unit,MD,Garrett,2.5,2.42,2.44,2.5,2.54,2.52,2.58,2.51,2.46,2.39
+1,Avg household size of renter-occupied unit,MD,Garrett,2.15,2.23,2.2,2.3,2.28,2.29,2.2,2.19,2.1,1.95
+36,Owner-Occupied,MD,Garrett,23790,22953,22938,22620,22798,22339,23315,23048,23142,23357
+37,Renter-Occupied,MD,Garrett,5937,6478,6467,6750,6540,6910,5766,5839,5567,5178
+0,Avg household size of owner-occupied unit,MD,Harford,2.78,2.79,2.78,2.77,2.78,2.76,2.76,2.76,2.76,2.74
+1,Avg household size of renter-occupied unit,MD,Harford,2.25,2.37,2.39,2.43,2.43,2.43,2.39,2.36,2.36,2.4
+36,Owner-Occupied,MD,Harford,203077,203092,201348,201086,199872,199204,199511,201344,201759,202370
+37,Renter-Occupied,MD,Harford,37105,39089,42149,43646,46147,47712,48314,46901,47495,48152
+0,Avg household size of owner-occupied unit,MD,Howard,2.85,2.84,2.86,2.88,2.89,2.9,2.9,2.88,2.87,2.89
+1,Avg household size of renter-occupied unit,MD,Howard,2.24,2.31,2.34,2.37,2.42,2.47,2.47,2.52,2.49,2.44
+36,Owner-Occupied,MD,Howard,217788,218536,222361,225669,227427,230675,234254,236549,237458,241651
+37,Renter-Occupied,MD,Howard,57942,61652,63300,65588,69577,71364,72060,73750,75559,74718
+0,Avg household size of owner-occupied unit,MD,Kent,2.45,2.47,2.45,2.49,2.49,2.45,2.4,2.4,2.31,2.26
+1,Avg household size of renter-occupied unit,MD,Kent,2.29,2.34,2.24,2.41,2.41,2.26,2.28,2.31,2.18,2.16
+36,Owner-Occupied,MD,Kent,13604,14025,13863,13321,13377,13396,12814,12774,12641,12538
+37,Renter-Occupied,MD,Kent,4999,4497,4710,5159,4980,4840,5371,5256,5298,5337
+0,Avg household size of owner-occupied unit,MD,Montgomery,2.79,2.81,2.83,2.84,2.87,2.86,2.87,2.89,2.89,2.89
+1,Avg household size of renter-occupied unit,MD,Montgomery,2.37,2.38,2.43,2.47,2.51,2.56,2.58,2.61,2.59,2.6
+36,Owner-Occupied,MD,Montgomery,681988,687135,689222,689527,692269,692305,691170,699230,699710,701292
+37,Renter-Occupied,MD,Montgomery,256946,264187,277159,291366,304198,316790,326414,331156,331576,333479
+0,Avg household size of owner-occupied unit,MD,Prince George's,2.87,2.86,2.87,2.89,2.9,2.92,2.93,2.95,2.93,2.91
+1,Avg household size of renter-occupied unit,MD,Prince George's,2.58,2.62,2.66,2.69,2.73,2.76,2.77,2.8,2.78,2.77
+36,Owner-Occupied,MD,Prince George's,556329,553613,550550,547751,550572,553049,553078,558154,561164,562761
+37,Renter-Occupied,MD,Prince George's,277880,284900,294902,305961,314406,320193,325722,328320,326324,327320
+0,Avg household size of owner-occupied unit,MD,Queen Anne's,2.72,2.77,2.8,2.78,2.79,2.76,2.74,2.71,2.73,2.67
+1,Avg household size of renter-occupied unit,MD,Queen Anne's,2.51,2.46,2.51,2.6,2.59,2.67,2.6,2.65,2.52,2.55
+36,Owner-Occupied,MD,Queen Anne's,39722,40893,40768,40643,40996,40542,39387,39588,40546,40147
+37,Renter-Occupied,MD,Queen Anne's,6544,5920,6509,6955,6920,7580,8861,9021,8342,9005
+0,Avg household size of owner-occupied unit,MD,St. Mary's,2.82,2.83,2.82,2.87,2.88,2.89,2.83,2.86,2.8,2.79
+1,Avg household size of renter-occupied unit,MD,St. Mary's,2.52,2.55,2.56,2.53,2.53,2.54,2.6,2.47,2.43,2.46
+36,Owner-Occupied,MD,St. Mary's,74433,75808,76741,78511,79298,79960,79395,80797,80028,80498
+37,Renter-Occupied,MD,St. Mary's,24831,25252,26063,25775,26372,26890,28410,27180,28574,28864
+0,Avg household size of owner-occupied unit,MD,Somerset,2.37,2.34,2.32,2.32,2.29,2.32,2.36,2.42,2.37,2.3
+1,Avg household size of renter-occupied unit,MD,Somerset,2.29,2.28,2.15,2.24,2.2,2.16,2.25,2.27,2.29,2.29
+36,Owner-Occupied,MD,Somerset,13247,13393,13473,13268,12567,12578,12671,13064,12915,12805
+37,Renter-Occupied,MD,Somerset,6302,6524,5749,6016,6609,6383,6656,6707,6731,6875
+0,Avg household size of owner-occupied unit,MD,Talbot,2.4,2.4,2.37,2.35,2.32,2.31,2.26,2.24,2.24,2.25
+1,Avg household size of renter-occupied unit,MD,Talbot,2.28,2.32,2.27,2.3,2.33,2.3,2.26,2.25,2.15,2.03
+36,Owner-Occupied,MD,Talbot,28483,27808,27758,27256,26202,25674,25929,26027,25952,26583
+37,Renter-Occupied,MD,Talbot,8480,9172,9447,10120,11249,11718,11340,11028,10848,10161
+0,Avg household size of owner-occupied unit,MD,Washington,2.62,2.61,2.57,2.57,2.58,2.54,2.54,2.57,2.56,2.6
+1,Avg household size of renter-occupied unit,MD,Washington,2.33,2.36,2.41,2.4,2.42,2.44,2.44,2.41,2.46,2.37
+36,Owner-Occupied,MD,Washington,96100,96815,95477,93395,92576,91490,92095,92773,93431,95923
+37,Renter-Occupied,MD,Washington,43485,43415,44930,47072,47946,48954,48618,47918,47495,45282
+0,Avg household size of owner-occupied unit,MD,Wicomico,2.57,2.59,2.59,2.59,2.59,2.63,2.6,2.62,2.61,2.61
+1,Avg household size of renter-occupied unit,MD,Wicomico,2.57,2.57,2.62,2.69,2.72,2.61,2.65,2.62,2.59,2.6
+36,Owner-Occupied,MD,Wicomico,60946,61107,60107,59539,59693,60652,59515,59411,58201,56838
+37,Renter-Occupied,MD,Wicomico,32498,33088,34971,36166,36659,36406,37910,38508,39869,41596
+0,Avg household size of owner-occupied unit,MD,Worcester,2.31,2.31,2.39,2.46,2.46,2.41,2.38,2.35,2.3,2.27
+1,Avg household size of renter-occupied unit,MD,Worcester,2.28,2.34,2.39,2.52,2.55,2.55,2.52,2.53,2.48,2.42
+36,Owner-Occupied,MD,Worcester,39924,39411,40260,39571,38709,37717,37516,37076,37631,37575
+37,Renter-Occupied,MD,Worcester,10753,11122,10382,11171,12133,13088,13172,13705,13121,13351
+0,Avg household size of owner-occupied unit,MD,Baltimo,2.64,2.61,2.57,2.58,2.57,2.58,2.56,2.59,2.59,2.57
+1,Avg household size of renter-occupied unit,MD,Baltimo,2.4,2.39,2.4,2.38,2.38,2.37,2.37,2.39,2.38,2.33
+36,Owner-Occupied,MD,Baltimo,313137,308491,301609,301048,293509,294050,289331,294370,292574,292482
+37,Renter-Occupied,MD,Baltimo,287056,288613,295583,296361,304321,303878,307411,301086,298238,292897

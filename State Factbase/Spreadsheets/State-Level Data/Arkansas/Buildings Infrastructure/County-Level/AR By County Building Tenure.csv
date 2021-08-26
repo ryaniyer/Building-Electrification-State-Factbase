@@ -1,0 +1,301 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,AR,Arkansas,2.3,2.34,2.35,2.32,2.34,2.36,2.36,2.34,2.39,2.42
+1,Avg household size of renter-occupied unit,AR,Arkansas,2.24,2.28,2.31,2.46,2.48,2.43,2.43,2.37,2.21,2.23
+36,Owner-Occupied,AR,Arkansas,12123,12598,12773,12338,12384,12210,11712,11303,11704,11837
+37,Renter-Occupied,AR,Arkansas,6553,6161,5905,6302,6190,6262,6603,6788,6158,5815
+0,Avg household size of owner-occupied unit,AR,Ashley,2.58,2.52,2.49,2.43,2.46,2.5,2.45,2.53,2.6,2.65
+1,Avg household size of renter-occupied unit,AR,Ashley,2.14,2.3,2.35,2.63,2.6,2.59,2.62,2.47,2.48,2.4
+36,Owner-Occupied,AR,Ashley,16651,16425,16481,15879,15685,15738,15360,15316,15187,15899
+37,Renter-Occupied,AR,Ashley,5252,5295,5088,5541,5533,5283,5429,5262,5164,4193
+0,Avg household size of owner-occupied unit,AR,Baxter,2.16,2.21,2.25,2.25,2.24,2.21,2.22,2.19,2.19,2.22
+1,Avg household size of renter-occupied unit,AR,Baxter,2.2,2.16,2.25,2.21,2.19,2.29,2.32,2.25,2.3,2.23
+36,Owner-Occupied,AR,Baxter,31048,31810,31499,31232,31127,30388,30162,30430,30559,31203
+37,Renter-Occupied,AR,Baxter,9639,9079,9275,9463,9478,10144,10332,10188,10214,9802
+0,Avg household size of owner-occupied unit,AR,Benton,2.7,2.72,2.76,2.77,2.79,2.76,2.79,2.78,2.79,2.79
+1,Avg household size of renter-occupied unit,AR,Benton,2.46,2.54,2.55,2.67,2.72,2.72,2.69,2.66,2.56,2.53
+36,Owner-Occupied,AR,Benton,149557,151468,154508,156052,157270,158474,164159,167625,174867,180560
+37,Renter-Occupied,AR,Benton,58100,62172,64775,68684,72654,76983,78326,81418,81304,82334
+0,Avg household size of owner-occupied unit,AR,Boone,2.59,2.57,2.54,2.45,2.47,2.42,2.41,2.42,2.45,2.48
+1,Avg household size of renter-occupied unit,AR,Boone,2.37,2.29,2.29,2.36,2.47,2.53,2.62,2.58,2.52,2.36
+36,Owner-Occupied,AR,Boone,26926,27313,27377,26848,26441,25807,25848,25977,26096,26809
+37,Renter-Occupied,AR,Boone,9265,9090,9153,9748,10217,10906,10937,10720,10672,10011
+0,Avg household size of owner-occupied unit,AR,Bradley,2.22,2.34,2.34,2.39,2.31,2.36,2.36,2.42,2.43,2.46
+1,Avg household size of renter-occupied unit,AR,Bradley,2.29,2.14,2.11,2.18,2.44,2.46,2.45,2.27,2.27,2.33
+36,Owner-Occupied,AR,Bradley,7590,8095,7998,7859,7663,7326,6943,6857,6894,7095
+37,Renter-Occupied,AR,Bradley,3330,3101,3173,3263,3422,3678,3953,3939,3858,3585
+0,Avg household size of owner-occupied unit,AR,Calhoun,2.61,2.63,2.51,2.53,2.42,2.33,2.4,2.47,2.61,2.7
+1,Avg household size of renter-occupied unit,AR,Calhoun,2.56,2.56,2.61,2.62,2.79,2.69,2.61,2.36,2.63,2.92
+36,Owner-Occupied,AR,Calhoun,4558,4393,4202,4149,3999,3968,4078,4232,4225,4235
+37,Renter-Occupied,AR,Calhoun,971,936,1078,1073,1151,1142,990,819,836,821
+0,Avg household size of owner-occupied unit,AR,Carroll,2.3,2.37,2.36,2.39,2.39,2.39,2.44,2.52,2.44,2.44
+1,Avg household size of renter-occupied unit,AR,Carroll,2.25,2.32,2.48,2.7,2.69,2.82,2.77,2.61,2.57,2.63
+36,Owner-Occupied,AR,Carroll,18302,19418,19089,19270,19577,19805,20182,21158,20723,20579
+37,Renter-Occupied,AR,Carroll,7827,7470,7960,7986,7766,7550,7227,6347,6884,7104
+0,Avg household size of owner-occupied unit,AR,Chicot,2.27,2.24,2.21,2.3,2.25,2.23,2.28,2.3,2.2,2.31
+1,Avg household size of renter-occupied unit,AR,Chicot,2.71,2.67,2.57,2.62,2.69,2.64,2.61,2.55,2.62,2.64
+36,Owner-Occupied,AR,Chicot,7435,7198,7038,6881,6885,6795,6615,6591,6078,5797
+37,Renter-Occupied,AR,Chicot,3865,3897,3904,3976,3872,3860,3867,3703,4031,4100
+0,Avg household size of owner-occupied unit,AR,Clark,2.36,2.56,2.52,2.49,2.45,2.4,2.34,2.34,2.4,2.44
+1,Avg household size of renter-occupied unit,AR,Clark,2.22,2.41,2.37,2.27,2.17,2.09,2.1,2.04,2.16,2.21
+36,Owner-Occupied,AR,Clark,13313,13796,13543,13192,13199,13204,12959,12827,12803,11859
+37,Renter-Occupied,AR,Clark,6002,6446,6564,6908,6713,6623,6800,6847,6855,7941
+0,Avg household size of owner-occupied unit,AR,Clay,2.39,2.35,2.36,2.34,2.31,2.31,2.36,2.32,2.25,2.22
+1,Avg household size of renter-occupied unit,AR,Clay,2.43,2.3,2.2,2.18,2.25,2.31,2.27,2.39,2.48,2.45
+36,Owner-Occupied,AR,Clay,11991,11957,11912,11595,11519,11221,11047,10480,10052,9626
+37,Renter-Occupied,AR,Clay,4296,4056,3946,4071,3929,4045,4023,4574,4881,5145
+0,Avg household size of owner-occupied unit,AR,Cleburne,2.24,2.3,2.33,2.36,2.4,2.46,2.45,2.34,2.31,2.26
+1,Avg household size of renter-occupied unit,AR,Cleburne,2.54,2.63,2.78,2.83,2.69,2.61,2.38,2.38,2.34,2.41
+36,Owner-Occupied,AR,Cleburne,18804,19205,18669,18684,19095,19027,19142,18693,18507,18322
+37,Renter-Occupied,AR,Cleburne,6033,6140,6718,6724,6326,6317,6089,6322,6388,6450
+0,Avg household size of owner-occupied unit,AR,Cleveland,2.7,2.65,2.58,2.55,2.56,2.48,2.47,2.5,2.49,2.55
+1,Avg household size of renter-occupied unit,AR,Cleveland,2.46,2.55,2.68,2.62,2.77,2.72,2.58,2.51,2.4,2.35
+36,Owner-Occupied,AR,Cleveland,6971,6785,6706,6602,6592,6476,6218,6091,6189,6230
+37,Renter-Occupied,AR,Cleveland,1788,1880,1905,1973,1928,1956,2122,2147,1944,1811
+0,Avg household size of owner-occupied unit,AR,Columbia,2.35,2.35,2.45,2.45,2.45,2.43,2.46,2.4,2.51,2.61
+1,Avg household size of renter-occupied unit,AR,Columbia,2.35,2.4,2.41,2.41,2.3,2.24,2.17,2.34,2.36,2.46
+36,Owner-Occupied,AR,Columbia,16208,16380,16606,15908,15845,15876,15486,14750,15492,15727
+37,Renter-Occupied,AR,Columbia,7025,6809,6581,7082,6988,6840,6993,7488,6623,6241
+0,Avg household size of owner-occupied unit,AR,Conway,2.63,2.6,2.54,2.56,2.51,2.53,2.55,2.57,2.49,2.51
+1,Avg household size of renter-occupied unit,AR,Conway,2.3,2.46,2.53,2.59,2.44,2.37,2.33,2.43,2.34,2.43
+36,Owner-Occupied,AR,Conway,16407,15577,15410,15431,15810,15463,15466,14939,14415,14050
+37,Renter-Occupied,AR,Conway,4580,5267,5472,5491,5059,5370,5330,5786,6283,6616
+0,Avg household size of owner-occupied unit,AR,Craighead,2.58,2.55,2.55,2.53,2.55,2.55,2.57,2.57,2.56,2.57
+1,Avg household size of renter-occupied unit,AR,Craighead,2.42,2.4,2.42,2.48,2.49,2.49,2.5,2.45,2.41,2.41
+36,Owner-Occupied,AR,Craighead,56672,56595,56687,55839,57338,58381,59097,59775,60104,60687
+37,Renter-Occupied,AR,Craighead,33677,35139,36586,39177,39002,39397,40121,40730,41826,42839
+0,Avg household size of owner-occupied unit,AR,Crawford,2.67,2.63,2.64,2.62,2.61,2.59,2.6,2.59,2.63,2.63
+1,Avg household size of renter-occupied unit,AR,Crawford,2.61,2.63,2.6,2.63,2.6,2.58,2.63,2.54,2.55,2.46
+36,Owner-Occupied,AR,Crawford,44507,43664,44612,45419,46253,46946,46731,46759,47774,47981
+37,Renter-Occupied,AR,Crawford,16120,17219,16569,15845,14997,14180,14588,14735,14098,14133
+0,Avg household size of owner-occupied unit,AR,Crittenden,2.69,2.67,2.7,2.73,2.7,2.7,2.62,2.58,2.55,2.51
+1,Avg household size of renter-occupied unit,AR,Crittenden,2.64,2.66,2.68,2.7,2.72,2.64,2.67,2.63,2.61,2.53
+36,Owner-Occupied,AR,Crittenden,29325,28492,29006,28161,28191,28301,27654,27337,27759,27450
+37,Renter-Occupied,AR,Crittenden,20630,21562,20943,21589,21266,20747,21143,21234,20572,20555
+0,Avg household size of owner-occupied unit,AR,Cross,2.75,2.61,2.58,2.61,2.61,2.58,2.58,2.54,2.57,2.57
+1,Avg household size of renter-occupied unit,AR,Cross,2.54,2.56,2.63,2.49,2.37,2.34,2.49,2.47,2.38,2.34
+36,Owner-Occupied,AR,Cross,12887,12106,11855,11628,11409,11417,11429,11555,11592,11425
+37,Renter-Occupied,AR,Cross,4955,5604,5766,5878,5943,5820,5676,5385,5179,5173
+0,Avg household size of owner-occupied unit,AR,Dallas,2.53,2.61,2.55,2.43,2.33,2.29,2.26,2.3,2.32,2.19
+1,Avg household size of renter-occupied unit,AR,Dallas,2.08,2.33,2.24,2.11,2.1,2.21,2.15,2.01,2.02,2.25
+36,Owner-Occupied,AR,Dallas,5626,5547,5495,5266,5120,4916,4888,4967,4772,4398
+37,Renter-Occupied,AR,Dallas,1936,2185,2168,2320,2359,2438,2279,1984,1962,2153
+0,Avg household size of owner-occupied unit,AR,Desha,2.5,2.53,2.46,2.35,2.46,2.41,2.38,2.35,2.37,2.2
+1,Avg household size of renter-occupied unit,AR,Desha,2.54,2.34,2.33,2.43,2.36,2.22,2.25,2.22,2.21,2.29
+36,Owner-Occupied,AR,Desha,7839,7897,7407,6976,7295,7311,6966,7148,7206,7042
+37,Renter-Occupied,AR,Desha,5512,5114,5400,5687,5205,4977,5179,4859,4596,4583
+0,Avg household size of owner-occupied unit,AR,Drew,2.41,2.4,2.4,2.38,2.46,2.47,2.49,2.55,2.57,2.47
+1,Avg household size of renter-occupied unit,AR,Drew,2.34,2.34,2.29,2.34,2.35,2.38,2.5,2.41,2.32,2.35
+36,Owner-Occupied,AR,Drew,12040,11791,11427,10936,11105,10963,11103,11780,12311,11975
+37,Renter-Occupied,AR,Drew,5611,5799,6252,6812,6653,6836,6605,5822,5160,5425
+0,Avg household size of owner-occupied unit,AR,Faulkner,2.63,2.63,2.67,2.74,2.75,2.78,2.78,2.77,2.79,2.77
+1,Avg household size of renter-occupied unit,AR,Faulkner,2.34,2.41,2.39,2.4,2.42,2.44,2.46,2.47,2.46,2.48
+36,Owner-Occupied,AR,Faulkner,71475,72008,73653,75594,75164,75836,75244,75784,76924,76921
+37,Renter-Occupied,AR,Faulkner,32207,34078,35092,35460,37865,38765,40383,40716,40604,41706
+0,Avg household size of owner-occupied unit,AR,Franklin,2.76,2.66,2.67,2.6,2.53,2.53,2.53,2.48,2.56,2.6
+1,Avg household size of renter-occupied unit,AR,Franklin,2.41,2.51,2.59,2.64,2.78,2.69,2.69,2.74,2.58,2.55
+36,Owner-Occupied,AR,Franklin,14656,13584,13340,13017,12994,12186,12557,12515,12604,12309
+37,Renter-Occupied,AR,Franklin,3449,4166,4367,4636,4571,5295,4901,4960,4831,5064
+0,Avg household size of owner-occupied unit,AR,Fulton,2.48,2.49,2.4,2.3,2.23,2.24,2.27,2.35,2.38,2.41
+1,Avg household size of renter-occupied unit,AR,Fulton,2.44,2.61,2.8,2.54,2.37,2.38,2.36,2.25,2.41,2.48
+36,Owner-Occupied,AR,Fulton,9531,9396,9125,9219,9085,8988,9229,9391,9320,9549
+37,Renter-Occupied,AR,Fulton,2404,2717,2988,2861,2948,3058,2775,2519,2634,2499
+0,Avg household size of owner-occupied unit,AR,Garland,2.32,2.36,2.36,2.36,2.36,2.38,2.38,2.45,2.42,2.39
+1,Avg household size of renter-occupied unit,AR,Garland,2.36,2.32,2.38,2.39,2.4,2.3,2.29,2.26,2.39,2.41
+36,Owner-Occupied,AR,Garland,65248,66128,65665,64495,63884,64503,63822,65857,65243,65265
+37,Renter-Occupied,AR,Garland,28342,27746,28502,29927,30796,30318,31078,29936,30901,31161
+0,Avg household size of owner-occupied unit,AR,Grant,2.57,2.66,2.67,2.62,2.7,2.65,2.65,2.61,2.63,2.6
+1,Avg household size of renter-occupied unit,AR,Grant,2.6,2.64,2.51,2.48,2.37,2.46,2.42,2.63,2.69,2.7
+36,Owner-Occupied,AR,Grant,13939,14249,14321,13985,14153,14079,14496,14292,14254,14277
+37,Renter-Occupied,AR,Grant,3471,3347,3359,3772,3700,3818,3397,3629,3669,3680
+0,Avg household size of owner-occupied unit,AR,Greene,2.55,2.56,2.55,2.61,2.61,2.6,2.61,2.65,2.62,2.56
+1,Avg household size of renter-occupied unit,AR,Greene,2.44,2.41,2.48,2.38,2.44,2.5,2.49,2.46,2.56,2.57
+36,Owner-Occupied,AR,Greene,27122,27805,26874,27425,28140,28036,29049,29974,30007,29625
+37,Renter-Occupied,AR,Greene,13513,13299,14704,14514,14202,14710,14039,13544,13930,14605
+0,Avg household size of owner-occupied unit,AR,Hempstead,2.45,2.54,2.58,2.66,2.75,2.86,2.82,2.76,2.68,2.65
+1,Avg household size of renter-occupied unit,AR,Hempstead,2.56,2.61,2.61,2.69,2.65,2.71,2.85,2.73,2.79,2.67
+36,Owner-Occupied,AR,Hempstead,14611,15444,14965,15024,15327,15178,14790,15062,14687,14835
+37,Renter-Occupied,AR,Hempstead,7050,6882,7238,7142,6756,6828,7086,6747,6980,6641
+0,Avg household size of owner-occupied unit,AR,Hot Spring,2.65,2.64,2.54,2.56,2.63,2.63,2.63,2.62,2.56,2.55
+1,Avg household size of renter-occupied unit,AR,Hot Spring,2.61,2.57,2.62,2.63,2.61,2.48,2.43,2.36,2.48,2.31
+36,Owner-Occupied,AR,Hot Spring,24075,23581,22670,22679,22506,22983,23430,24125,23985,24996
+37,Renter-Occupied,AR,Hot Spring,7498,7856,8811,8863,9034,8433,8019,7314,7459,6440
+0,Avg household size of owner-occupied unit,AR,Howard,2.7,2.76,2.65,2.63,2.64,2.64,2.63,2.67,2.69,2.66
+1,Avg household size of renter-occupied unit,AR,Howard,2.49,2.59,2.55,2.54,2.67,2.67,2.61,2.57,2.39,2.32
+36,Owner-Occupied,AR,Howard,9698,9319,8966,8689,8751,8697,8921,8912,9378,9422
+37,Renter-Occupied,AR,Howard,3904,4222,4608,4855,4737,4671,4380,4373,3826,3709
+0,Avg household size of owner-occupied unit,AR,Independence,2.37,2.36,2.34,2.38,2.49,2.56,2.58,2.6,2.6,2.55
+1,Avg household size of renter-occupied unit,AR,Independence,2.37,2.48,2.56,2.64,2.48,2.43,2.35,2.34,2.38,2.52
+36,Owner-Occupied,AR,Independence,25571,25075,24636,24496,25122,26027,26398,26227,26713,26115
+37,Renter-Occupied,AR,Independence,9547,10230,10955,11291,10724,9897,9576,9799,9481,10237
+0,Avg household size of owner-occupied unit,AR,Izard,2.25,2.19,2.23,2.28,2.26,2.27,2.3,2.38,2.48,2.56
+1,Avg household size of renter-occupied unit,AR,Izard,2.28,2.16,2.2,2.17,2.22,2.34,2.54,2.61,2.54,2.73
+36,Owner-Occupied,AR,Izard,10323,9834,9947,10096,10220,9822,9596,9730,9924,9436
+37,Renter-Occupied,AR,Izard,2673,3033,2909,2723,2527,2838,3003,2884,2682,3174
+0,Avg household size of owner-occupied unit,AR,Jackson,2.41,2.39,2.34,2.23,2.2,2.25,2.25,2.24,2.38,2.4
+1,Avg household size of renter-occupied unit,AR,Jackson,2.63,2.62,2.42,2.39,2.39,2.25,2.38,2.5,2.22,2.21
+36,Owner-Occupied,AR,Jackson,10740,10776,10524,9796,9554,9697,9612,9754,10071,10200
+37,Renter-Occupied,AR,Jackson,5079,4903,4739,5135,4939,4572,4649,4550,4149,4163
+0,Avg household size of owner-occupied unit,AR,Jefferson,2.65,2.61,2.55,2.48,2.41,2.4,2.39,2.4,2.4,2.36
+1,Avg household size of renter-occupied unit,AR,Jefferson,2.58,2.53,2.51,2.46,2.43,2.43,2.44,2.39,2.38,2.35
+36,Owner-Occupied,AR,Jefferson,47829,47303,45919,45271,43842,43136,41340,41689,40365,39239
+37,Renter-Occupied,AR,Jefferson,25800,25189,25504,24827,25057,24631,25315,23868,24078,23908
+0,Avg household size of owner-occupied unit,AR,Johnson,2.78,2.65,2.64,2.59,2.55,2.51,2.57,2.59,2.65,2.71
+1,Avg household size of renter-occupied unit,AR,Johnson,2.36,2.4,2.36,2.3,2.41,2.47,2.43,2.5,2.48,2.47
+36,Owner-Occupied,AR,Johnson,17858,17903,17610,17213,17907,18064,18369,18160,18617,18508
+37,Renter-Occupied,AR,Johnson,6876,6864,7303,7805,7239,7186,6940,7218,6896,7064
+0,Avg household size of owner-occupied unit,AR,Lafayette,2.8,2.81,2.83,2.77,2.64,2.59,2.42,2.47,2.41,2.39
+1,Avg household size of renter-occupied unit,AR,Lafayette,2.68,2.57,2.34,2.53,2.37,2.34,2.26,2.29,2.26,2.4
+36,Owner-Occupied,AR,Lafayette,6151,5743,5751,5482,5420,5274,5147,5121,5271,5269
+37,Renter-Occupied,AR,Lafayette,1546,1807,1726,1880,1834,1864,1848,1797,1512,1399
+0,Avg household size of owner-occupied unit,AR,Lawrence,2.53,2.57,2.53,2.54,2.5,2.46,2.5,2.48,2.47,2.49
+1,Avg household size of renter-occupied unit,AR,Lawrence,2.17,2.31,2.49,2.46,2.46,2.43,2.42,2.42,2.47,2.45
+36,Owner-Occupied,AR,Lawrence,11507,12000,11897,11817,11679,11596,11162,10959,10751,10830
+37,Renter-Occupied,AR,Lawrence,4821,4660,4742,4742,4840,4819,5157,5241,5358,5170
+0,Avg household size of owner-occupied unit,AR,Lee,2.48,2.54,2.61,2.58,2.59,2.44,2.36,2.29,2.38,2.49
+1,Avg household size of renter-occupied unit,AR,Lee,2.9,2.84,2.7,2.49,2.4,2.21,2.24,2.21,2.23,2.17
+36,Owner-Occupied,AR,Lee,5774,5655,5394,5135,5024,5008,4601,4498,4601,4770
+37,Renter-Occupied,AR,Lee,3444,3559,3613,3738,3714,3434,3559,3485,3157,2803
+0,Avg household size of owner-occupied unit,AR,Lincoln,2.84,2.67,2.57,2.53,2.51,2.47,2.39,2.39,2.46,2.25
+1,Avg household size of renter-occupied unit,AR,Lincoln,3.09,2.83,2.86,2.55,2.41,2.33,2.23,2.08,1.98,2.1
+36,Owner-Occupied,AR,Lincoln,7997,7417,7503,7372,7323,6969,6762,7048,6965,6550
+37,Renter-Occupied,AR,Lincoln,3838,3645,3448,3238,3070,2849,2486,2038,1912,1813
+0,Avg household size of owner-occupied unit,AR,Little River,2.36,2.4,2.49,2.47,2.45,2.42,2.41,2.3,2.22,2.3
+1,Avg household size of renter-occupied unit,AR,Little River,2.41,2.43,2.36,2.2,2.31,2.32,2.37,2.38,2.33,2.19
+36,Owner-Occupied,AR,Little River,9077,10048,10452,10260,9947,9332,9025,8504,8744,8838
+37,Renter-Occupied,AR,Little River,3747,2890,2443,2565,2736,3227,3428,3829,3509,3351
+0,Avg household size of owner-occupied unit,AR,Logan,2.75,2.69,2.62,2.67,2.6,2.53,2.59,2.6,2.55,2.54
+1,Avg household size of renter-occupied unit,AR,Logan,2.56,2.59,2.56,2.51,2.42,2.33,2.36,2.45,2.37,2.41
+36,Owner-Occupied,AR,Logan,18131,17429,16975,16594,16153,16059,16233,15781,15493,15734
+37,Renter-Occupied,AR,Logan,4449,4678,4923,5097,5385,5293,5070,5407,5657,5342
+0,Avg household size of owner-occupied unit,AR,Lonoke,2.73,2.75,2.75,2.79,2.76,2.76,2.76,2.77,2.69,2.72
+1,Avg household size of renter-occupied unit,AR,Lonoke,2.59,2.54,2.57,2.6,2.61,2.56,2.62,2.55,2.6,2.57
+36,Owner-Occupied,AR,Lonoke,49120,50434,50851,51225,51009,50386,49894,49825,49830,50608
+37,Renter-Occupied,AR,Lonoke,15995,16122,16786,17428,18495,19674,20765,21108,21716,21252
+0,Avg household size of owner-occupied unit,AR,Madison,2.73,2.64,2.51,2.56,2.5,2.4,2.44,2.44,2.52,2.55
+1,Avg household size of renter-occupied unit,AR,Madison,2.46,2.65,2.76,2.63,2.66,2.68,2.68,2.92,2.81,2.64
+36,Owner-Occupied,AR,Madison,11871,12061,11479,11853,11989,11559,11552,11571,12231,12491
+37,Renter-Occupied,AR,Madison,3499,3497,4121,3737,3621,4055,4123,4253,3765,3640
+0,Avg household size of owner-occupied unit,AR,Marion,2.31,2.28,2.24,2.29,2.33,2.4,2.42,2.45,2.48,2.42
+1,Avg household size of renter-occupied unit,AR,Marion,2.28,2.66,2.56,2.53,2.52,2.55,2.48,2.38,2.29,2.33
+36,Owner-Occupied,AR,Marion,13658,13107,13141,12810,12761,12711,12766,12782,13030,12959
+37,Renter-Occupied,AR,Marion,3039,3467,3406,3636,3620,3593,3472,3423,3233,3337
+0,Avg household size of owner-occupied unit,AR,Miller,2.49,2.48,2.5,2.53,2.53,2.53,2.53,2.53,2.59,2.64
+1,Avg household size of renter-occupied unit,AR,Miller,2.59,2.64,2.56,2.42,2.43,2.44,2.43,2.43,2.43,2.44
+36,Owner-Occupied,AR,Miller,27410,26967,27674,28784,28066,27619,27869,27356,27612,27993
+37,Renter-Occupied,AR,Miller,14464,15016,14505,13472,14195,14733,14523,15089,14790,14181
+0,Avg household size of owner-occupied unit,AR,Mississippi,2.65,2.69,2.66,2.66,2.59,2.57,2.6,2.51,2.52,2.53
+1,Avg household size of renter-occupied unit,AR,Mississippi,2.73,2.64,2.62,2.62,2.59,2.57,2.55,2.43,2.45,2.51
+36,Owner-Occupied,AR,Mississippi,27356,27276,26976,26649,26063,25343,24826,24442,23977,23392
+37,Renter-Occupied,AR,Mississippi,18835,18439,18514,18394,18461,18669,18542,18281,18050,17932
+0,Avg household size of owner-occupied unit,AR,Monroe,2.43,2.3,2.31,2.31,2.28,2.24,2.25,2.23,2.16,2.1
+1,Avg household size of renter-occupied unit,AR,Monroe,2.4,2.49,2.47,2.37,2.34,2.32,2.28,2.18,2.15,2.08
+36,Owner-Occupied,AR,Monroe,5155,5015,4924,4976,4868,4661,4755,4573,4304,4194
+37,Renter-Occupied,AR,Monroe,3201,3197,3118,2933,2899,2975,2716,2773,2869,2777
+0,Avg household size of owner-occupied unit,AR,Montgomery,2.5,2.49,2.38,2.28,2.28,2.25,2.32,2.27,2.31,2.28
+1,Avg household size of renter-occupied unit,AR,Montgomery,2.47,2.63,2.75,2.83,2.94,2.61,2.72,2.5,2.54,2.66
+36,Owner-Occupied,AR,Montgomery,7776,7853,7256,7033,7082,6983,6916,7149,7190,6951
+37,Renter-Occupied,AR,Montgomery,1596,1508,2064,2219,2078,2073,2043,1773,1661,1864
+0,Avg household size of owner-occupied unit,AR,Nevada,2.36,2.33,2.31,2.41,2.4,2.31,2.16,2.25,2.32,2.38
+1,Avg household size of renter-occupied unit,AR,Nevada,2.44,2.54,2.37,2.42,2.45,2.9,3.06,2.91,2.88,2.46
+36,Owner-Occupied,AR,Nevada,6355,6341,6350,6381,6278,5701,5431,5774,5222,5419
+37,Renter-Occupied,AR,Nevada,2655,2503,2428,2359,2396,2898,3046,2568,3035,2758
+0,Avg household size of owner-occupied unit,AR,Newton,2.45,2.41,2.39,2.42,2.48,2.47,2.5,2.53,2.68,2.66
+1,Avg household size of renter-occupied unit,AR,Newton,2.01,2.14,1.89,1.84,2.02,2.11,2.14,2.24,2.69,2.53
+36,Owner-Occupied,AR,Newton,6942,6944,7097,7017,7070,6895,6891,6785,6862,6572
+37,Renter-Occupied,AR,Newton,1449,1335,1117,1128,1000,1101,1036,1050,919,1173
+0,Avg household size of owner-occupied unit,AR,Ouachita,2.43,2.38,2.32,2.29,2.33,2.29,2.33,2.38,2.4,2.45
+1,Avg household size of renter-occupied unit,AR,Ouachita,2.39,2.41,2.38,2.49,2.5,2.43,2.43,2.43,2.26,2.38
+36,Owner-Occupied,AR,Ouachita,18140,18000,17266,16282,16689,16209,16237,15999,16483,16362
+37,Renter-Occupied,AR,Ouachita,7732,7783,8267,8998,8353,8454,8106,7991,7236,7084
+0,Avg household size of owner-occupied unit,AR,Perry,2.54,2.53,2.55,2.56,2.61,2.67,2.71,2.74,2.71,2.76
+1,Avg household size of renter-occupied unit,AR,Perry,2.85,2.68,2.6,2.82,2.46,2.43,2.61,2.75,2.83,2.84
+36,Owner-Occupied,AR,Perry,8209,8408,8419,7933,8635,8219,8051,8242,8053,7730
+37,Renter-Occupied,AR,Perry,2062,1857,1805,2251,1513,1879,1997,1888,2090,2457
+0,Avg household size of owner-occupied unit,AR,Phillips,2.51,2.55,2.44,2.38,2.36,2.32,2.39,2.4,2.43,2.26
+1,Avg household size of renter-occupied unit,AR,Phillips,2.79,2.85,2.74,2.69,2.63,2.66,2.57,2.53,2.58,2.64
+36,Owner-Occupied,AR,Phillips,11425,11505,11316,10797,10184,9666,9264,8951,8793,8160
+37,Renter-Occupied,AR,Phillips,10546,10245,10053,10213,10455,10530,10467,10363,10031,10229
+0,Avg household size of owner-occupied unit,AR,Pike,2.73,2.77,2.63,2.62,2.58,2.55,2.59,2.53,2.52,2.52
+1,Avg household size of renter-occupied unit,AR,Pike,2.67,2.44,2.31,2.37,2.36,2.36,2.32,2.3,2.3,2.29
+36,Owner-Occupied,AR,Pike,8456,8573,8325,8290,8293,8391,8338,8433,8361,8498
+37,Renter-Occupied,AR,Pike,2788,2513,2732,2753,2690,2498,2489,2267,2261,2081
+0,Avg household size of owner-occupied unit,AR,Poinsett,2.53,2.55,2.54,2.44,2.45,2.49,2.46,2.46,2.46,2.5
+1,Avg household size of renter-occupied unit,AR,Poinsett,2.57,2.62,2.65,2.76,2.78,2.7,2.6,2.58,2.6,2.42
+36,Owner-Occupied,AR,Poinsett,16062,15857,15033,14300,14030,14225,14471,15117,14751,14992
+37,Renter-Occupied,AR,Poinsett,8234,8368,9077,9713,9945,9616,9314,8635,8954,8552
+0,Avg household size of owner-occupied unit,AR,Polk,2.51,2.56,2.58,2.61,2.64,2.64,2.59,2.52,2.43,2.43
+1,Avg household size of renter-occupied unit,AR,Polk,2.4,2.5,2.36,2.25,2.24,2.24,2.39,2.4,2.5,2.4
+36,Owner-Occupied,AR,Polk,15845,15858,16128,16230,16021,16510,15797,15501,15080,15363
+37,Renter-Occupied,AR,Polk,4412,4487,4241,4162,4292,3723,4361,4585,4959,4607
+0,Avg household size of owner-occupied unit,AR,Pope,2.64,2.67,2.66,2.66,2.66,2.68,2.64,2.64,2.7,2.73
+1,Avg household size of renter-occupied unit,AR,Pope,2.48,2.49,2.55,2.56,2.51,2.5,2.51,2.49,2.57,2.55
+36,Owner-Occupied,AR,Pope,41457,42006,41686,41947,41813,41038,40677,40877,41825,42480
+37,Renter-Occupied,AR,Pope,16892,17142,17704,17424,17710,18365,18935,18995,18392,17857
+0,Avg household size of owner-occupied unit,AR,Prairie,2.46,2.39,2.31,2.27,2.21,2.19,2.14,2.05,2.09,2.09
+1,Avg household size of renter-occupied unit,AR,Prairie,2.43,2.22,2.13,2.22,2.22,2.1,2.11,2.17,2.2,2.26
+36,Owner-Occupied,AR,Prairie,6358,6486,6363,6196,5976,5901,5717,5690,5752,5826
+37,Renter-Occupied,AR,Prairie,2380,2152,2162,2245,2367,2369,2484,2485,2355,2226
+0,Avg household size of owner-occupied unit,AR,Pulaski,2.49,2.53,2.53,2.58,2.59,2.58,2.55,2.55,2.54,2.52
+1,Avg household size of renter-occupied unit,AR,Pulaski,2.22,2.25,2.25,2.31,2.35,2.36,2.38,2.4,2.36,2.34
+36,Owner-Occupied,AR,Pulaski,233144,236083,237599,239392,239216,239437,233618,233205,233096,233779
+37,Renter-Occupied,AR,Pulaski,136646,136982,139011,140365,143288,145078,152117,153272,153888,152607
+0,Avg household size of owner-occupied unit,AR,Randolph,2.47,2.46,2.44,2.44,2.41,2.37,2.33,2.28,2.3,2.32
+1,Avg household size of renter-occupied unit,AR,Randolph,2.38,2.33,2.38,2.35,2.33,2.33,2.39,2.46,2.35,2.46
+36,Owner-Occupied,AR,Randolph,13731,13536,13543,13342,13159,12714,12334,12060,12356,12231
+37,Renter-Occupied,AR,Randolph,4041,4120,4095,4192,4257,4593,4866,5059,4887,5125
+0,Avg household size of owner-occupied unit,AR,St. Francis,2.66,2.59,2.58,2.49,2.47,2.51,2.54,2.48,2.42,2.41
+1,Avg household size of renter-occupied unit,AR,St. Francis,2.74,2.75,2.67,2.66,2.65,2.5,2.5,2.5,2.49,2.4
+36,Owner-Occupied,AR,St. Francis,14187,12964,13140,12890,13254,13167,13652,13559,12897,12407
+37,Renter-Occupied,AR,St. Francis,10254,11128,10880,11123,10586,10473,9803,9644,9949,10191
+0,Avg household size of owner-occupied unit,AR,Saline,2.56,2.58,2.57,2.65,2.66,2.68,2.72,2.69,2.71,2.73
+1,Avg household size of renter-occupied unit,AR,Saline,2.51,2.57,2.55,2.53,2.59,2.59,2.54,2.52,2.56,2.51
+36,Owner-Occupied,AR,Saline,77672,79543,82596,85044,86169,87130,89934,90007,92561,93862
+37,Renter-Occupied,AR,Saline,21931,23804,23273,23253,24138,25275,24285,24930,24146,24250
+0,Avg household size of owner-occupied unit,AR,Scott,2.53,2.63,2.53,2.46,2.57,2.66,2.67,2.69,2.71,2.66
+1,Avg household size of renter-occupied unit,AR,Scott,2.61,2.81,2.82,2.79,2.9,2.67,2.67,2.54,2.64,2.49
+36,Owner-Occupied,AR,Scott,8246,8156,7945,7753,7996,8006,7687,7869,7765,7739
+37,Renter-Occupied,AR,Scott,2815,2970,3123,3261,2943,2791,2905,2649,2616,2573
+0,Avg household size of owner-occupied unit,AR,Searcy,2.38,2.41,2.42,2.44,2.48,2.5,2.57,2.47,2.52,2.45
+1,Avg household size of renter-occupied unit,AR,Searcy,2.01,2.24,2.37,2.42,2.57,2.43,2.03,1.87,1.96,2.06
+36,Owner-Occupied,AR,Searcy,6183,6202,6078,6224,6217,6388,6542,6553,6398,6035
+37,Renter-Occupied,AR,Searcy,1740,1908,1987,1794,1727,1488,1305,1284,1435,1788
+0,Avg household size of owner-occupied unit,AR,Sebastian,2.58,2.59,2.59,2.59,2.59,2.63,2.58,2.59,2.57,2.53
+1,Avg household size of renter-occupied unit,AR,Sebastian,2.42,2.46,2.45,2.43,2.44,2.38,2.35,2.36,2.35,2.35
+36,Owner-Occupied,AR,Sebastian,79522,79476,80730,80122,79225,79099,77783,77862,77733,76102
+37,Renter-Occupied,AR,Sebastian,42957,43668,43188,44644,45870,46444,47799,47739,47845,49596
+0,Avg household size of owner-occupied unit,AR,Sevier,2.78,2.83,2.85,2.95,2.92,2.93,2.92,2.91,2.94,2.96
+1,Avg household size of renter-occupied unit,AR,Sevier,2.99,2.94,3.02,2.94,2.8,2.49,2.6,2.68,2.84,2.69
+36,Owner-Occupied,AR,Sevier,12056,12007,11689,11807,12238,12915,13005,13103,12903,12433
+37,Renter-Occupied,AR,Sevier,4515,4668,5109,5139,4823,4169,4027,3961,4168,4529
+0,Avg household size of owner-occupied unit,AR,Sharp,2.39,2.45,2.43,2.39,2.33,2.33,2.25,2.25,2.27,2.24
+1,Avg household size of renter-occupied unit,AR,Sharp,2.27,2.24,2.34,2.54,2.62,2.49,2.44,2.46,2.36,2.39
+36,Owner-Occupied,AR,Sharp,13869,14202,14225,13408,12753,12864,12435,12065,12630,12860
+37,Renter-Occupied,AR,Sharp,3140,2942,2811,3567,4138,3974,4372,4755,4197,4070
+0,Avg household size of owner-occupied unit,AR,Stone,2.58,2.48,2.43,2.52,2.43,2.51,2.53,2.57,2.59,2.69
+1,Avg household size of renter-occupied unit,AR,Stone,2.01,1.99,2.04,2.0,2.08,2.07,2.35,2.3,2.19,2.24
+36,Owner-Occupied,AR,Stone,10288,10215,9906,10143,9864,9804,9531,9728,9341,9612
+37,Renter-Occupied,AR,Stone,1953,2040,2430,2226,2518,2557,2825,2572,2964,2723
+0,Avg household size of owner-occupied unit,AR,Union,2.46,2.44,2.47,2.45,2.4,2.42,2.46,2.44,2.46,2.49
+1,Avg household size of renter-occupied unit,AR,Union,2.47,2.46,2.42,2.45,2.47,2.44,2.37,2.46,2.49,2.44
+36,Owner-Occupied,AR,Union,29418,28564,28729,28181,27809,28421,28778,28981,29251,29562
+37,Renter-Occupied,AR,Union,11921,12454,12110,12477,12570,11719,11066,10551,9996,9405
+0,Avg household size of owner-occupied unit,AR,Van Buren,2.41,2.33,2.33,2.34,2.36,2.43,2.47,2.44,2.44,2.48
+1,Avg household size of renter-occupied unit,AR,Van Buren,2.5,2.61,2.61,2.6,2.46,2.47,2.36,2.3,2.28,2.16
+36,Owner-Occupied,AR,Van Buren,13370,12776,12710,12912,12460,12864,13219,12918,12850,13290
+37,Renter-Occupied,AR,Van Buren,3798,4236,4278,4009,4413,3932,3471,3635,3638,3161
+0,Avg household size of owner-occupied unit,AR,Washington,2.67,2.66,2.65,2.62,2.66,2.67,2.67,2.7,2.73,2.73
+1,Avg household size of renter-occupied unit,AR,Washington,2.33,2.34,2.38,2.41,2.41,2.41,2.39,2.4,2.39,2.39
+36,Owner-Occupied,AR,Washington,113410,115111,116756,116263,118500,119384,119434,121377,124919,125434
+37,Renter-Occupied,AR,Washington,77066,78581,80166,84287,86229,89318,92789,94527,95724,98945
+0,Avg household size of owner-occupied unit,AR,White,2.51,2.53,2.53,2.57,2.55,2.56,2.59,2.6,2.61,2.65
+1,Avg household size of renter-occupied unit,AR,White,2.31,2.26,2.34,2.35,2.48,2.53,2.55,2.49,2.46,2.44
+36,Owner-Occupied,AR,White,50187,50880,51920,52030,51629,51544,50979,50969,50838,50901
+37,Renter-Occupied,AR,White,20836,21278,21280,21993,22911,23400,24012,23840,24088,24040
+0,Avg household size of owner-occupied unit,AR,Woodruff,2.36,2.3,2.33,2.38,2.31,2.37,2.36,2.37,2.3,2.22
+1,Avg household size of renter-occupied unit,AR,Woodruff,2.1,2.1,2.12,2.15,2.22,2.34,2.23,2.2,2.2,2.13
+36,Owner-Occupied,AR,Woodruff,4821,4406,4418,4597,4401,4231,4440,4485,4411,4260
+37,Renter-Occupied,AR,Woodruff,2684,2815,2691,2442,2555,2632,2312,2161,2130,2158
+0,Avg household size of owner-occupied unit,AR,Yell,2.65,2.7,2.8,2.76,2.76,2.71,2.73,2.73,2.76,2.79
+1,Avg household size of renter-occupied unit,AR,Yell,2.93,2.78,2.65,2.69,2.75,2.97,3.12,3.02,3.0,2.89
+36,Owner-Occupied,AR,Yell,14717,15171,15015,14502,14563,14099,14075,14627,14548,14939
+37,Renter-Occupied,AR,Yell,6938,6428,6636,7154,7028,7401,7309,6633,6680,6182

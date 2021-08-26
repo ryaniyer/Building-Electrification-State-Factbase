@@ -1,0 +1,336 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+3,House Heating Fuel: Electric,FL,Alachua,72545,73954,74390,74526,75102,76855,76799,77484,77276,78213
+4,House Heating Fuel: Fuel Oil,FL,Alachua,727,636,462,389,277,332,268,260,218,163
+5,House Heating Fuel: Gas,FL,Alachua,19971,18995,18173,17649,17368,16178,15701,16087,16234,16246
+6,House Heating Fuel: Propane,FL,Alachua,3097,2915,2436,2363,2093,1962,2093,2212,2028,1966
+7,House Heating Fuel: Wood,FL,Alachua,696,523,537,537,509,475,528,516,424,434
+3,House Heating Fuel: Electric,FL,Baker,7460,7564,7699,7600,7600,7534,7619,7721,8010,8094
+4,House Heating Fuel: Fuel Oil,FL,Baker,109,90,98,42,82,62,74,27,23,44
+5,House Heating Fuel: Gas,FL,Baker,70,121,84,41,81,81,81,82,107,106
+6,House Heating Fuel: Propane,FL,Baker,557,423,411,390,429,373,373,337,329,307
+7,House Heating Fuel: Wood,FL,Baker,58,93,104,119,127,104,21,21,45,62
+3,House Heating Fuel: Electric,FL,Bay,58689,59212,60264,59395,59282,59349,59611,60496,62163,63771
+4,House Heating Fuel: Fuel Oil,FL,Bay,120,124,155,143,113,98,61,2,14,10
+5,House Heating Fuel: Gas,FL,Bay,7873,7561,6573,6041,6017,6484,6410,6495,6468,6150
+6,House Heating Fuel: Propane,FL,Bay,1496,1337,1342,1324,1215,1224,1086,893,864,815
+7,House Heating Fuel: Wood,FL,Bay,261,256,246,271,288,295,249,227,189,133
+3,House Heating Fuel: Electric,FL,Bradford,7477,7910,7921,7794,7866,7953,7964,8143,8304,8533
+4,House Heating Fuel: Fuel Oil,FL,Bradford,205,153,133,113,87,25,21,30,13,9
+5,House Heating Fuel: Gas,FL,Bradford,535,439,435,411,352,305,275,347,278,244
+6,House Heating Fuel: Propane,FL,Bradford,599,553,383,352,334,301,279,266,211,154
+7,House Heating Fuel: Wood,FL,Bradford,93,117,170,168,147,140,122,88,62,79
+3,House Heating Fuel: Electric,FL,Brevard,192756,192348,194182,193443,194303,195788,196886,198945,201179,202736
+4,House Heating Fuel: Fuel Oil,FL,Brevard,490,403,352,303,247,233,138,136,107,143
+5,House Heating Fuel: Gas,FL,Brevard,22697,22299,21653,22326,22677,22032,22170,22044,21440,21303
+6,House Heating Fuel: Propane,FL,Brevard,2622,2177,2095,1957,1865,1732,1883,1855,2050,2061
+7,House Heating Fuel: Wood,FL,Brevard,260,328,343,274,247,231,177,191,203,308
+3,House Heating Fuel: Electric,FL,Broward,632668,631046,633582,630598,632900,633286,632479,632174,637098,644286
+4,House Heating Fuel: Fuel Oil,FL,Broward,507,392,364,377,421,450,459,499,506,583
+5,House Heating Fuel: Gas,FL,Broward,13503,13086,12486,13178,13858,14038,14824,15303,14766,14878
+6,House Heating Fuel: Propane,FL,Broward,2504,2156,2092,2055,2163,2215,2434,2588,2596,2536
+7,House Heating Fuel: Wood,FL,Broward,127,123,107,114,98,131,141,175,206,223
+3,House Heating Fuel: Electric,FL,Calhoun,3638,3705,3789,3915,3855,3929,3828,3841,3845,3823
+4,House Heating Fuel: Fuel Oil,FL,Calhoun,0,0,0,0,0,5,6,6,5,5
+5,House Heating Fuel: Gas,FL,Calhoun,425,434,376,253,237,262,213,232,222,256
+6,House Heating Fuel: Propane,FL,Calhoun,551,480,499,393,481,401,356,358,331,262
+7,House Heating Fuel: Wood,FL,Calhoun,107,148,163,119,175,179,142,134,137,128
+3,House Heating Fuel: Electric,FL,Charlotte,69348,68416,68715,67896,68456,69095,70385,71657,73151,73884
+4,House Heating Fuel: Fuel Oil,FL,Charlotte,109,102,82,0,0,9,9,64,67,81
+5,House Heating Fuel: Gas,FL,Charlotte,981,989,1042,1071,849,982,980,1058,1005,1117
+6,House Heating Fuel: Propane,FL,Charlotte,450,439,510,535,477,580,688,657,529,574
+7,House Heating Fuel: Wood,FL,Charlotte,236,216,170,171,160,128,116,125,78,23
+3,House Heating Fuel: Electric,FL,Citrus,56879,57084,56697,57405,57876,58257,58522,59850,60263,61199
+4,House Heating Fuel: Fuel Oil,FL,Citrus,192,128,112,83,105,91,88,83,85,57
+5,House Heating Fuel: Gas,FL,Citrus,529,582,619,735,707,678,680,648,575,560
+6,House Heating Fuel: Propane,FL,Citrus,1780,1544,1488,1369,1183,1140,1066,1011,999,950
+7,House Heating Fuel: Wood,FL,Citrus,272,260,250,298,316,286,333,300,318,294
+3,House Heating Fuel: Electric,FL,Clay,64214,64550,64595,65084,65412,66701,68221,69655,71026,71941
+4,House Heating Fuel: Fuel Oil,FL,Clay,310,233,263,236,239,204,229,70,86,77
+5,House Heating Fuel: Gas,FL,Clay,444,424,459,391,396,254,315,442,438,485
+6,House Heating Fuel: Propane,FL,Clay,1699,1518,1365,1310,1101,988,887,773,778,698
+7,House Heating Fuel: Wood,FL,Clay,240,265,336,250,355,440,387,293,263,241
+3,House Heating Fuel: Electric,FL,Collier,114139,114610,115975,117797,121139,124248,127164,131530,134089,134110
+4,House Heating Fuel: Fuel Oil,FL,Collier,182,137,100,86,99,75,114,123,137,140
+5,House Heating Fuel: Gas,FL,Collier,2447,2190,2387,2390,2492,2660,2927,2974,3431,3844
+6,House Heating Fuel: Propane,FL,Collier,873,811,770,825,794,846,846,876,852,867
+7,House Heating Fuel: Wood,FL,Collier,79,64,63,37,17,33,95,76,84,88
+3,House Heating Fuel: Electric,FL,Columbia,20243,20415,20483,20503,20978,20925,21326,22478,22941,23053
+4,House Heating Fuel: Fuel Oil,FL,Columbia,133,141,88,65,73,51,62,62,76,73
+5,House Heating Fuel: Gas,FL,Columbia,1662,1482,1460,1372,1184,1094,927,756,706,718
+6,House Heating Fuel: Propane,FL,Columbia,1564,1582,1332,1204,973,1099,1014,837,658,700
+7,House Heating Fuel: Wood,FL,Columbia,425,394,355,346,399,439,388,363,375,311
+3,House Heating Fuel: Electric,FL,DeSoto,9929,9905,10039,10179,10538,10835,10900,11287,11406,11397
+4,House Heating Fuel: Fuel Oil,FL,DeSoto,62,44,6,18,25,32,61,25,31,38
+5,House Heating Fuel: Gas,FL,DeSoto,126,89,74,101,84,62,81,69,37,61
+6,House Heating Fuel: Propane,FL,DeSoto,366,315,261,237,214,162,202,168,210,204
+7,House Heating Fuel: Wood,FL,DeSoto,0,0,0,0,0,18,29,36,36,39
+3,House Heating Fuel: Electric,FL,Dixie,4329,4665,5059,5132,5083,5103,5415,5742,5838,5722
+4,House Heating Fuel: Fuel Oil,FL,Dixie,12,24,29,27,30,19,4,2,4,2
+5,House Heating Fuel: Gas,FL,Dixie,58,59,69,51,55,37,42,40,47,32
+6,House Heating Fuel: Propane,FL,Dixie,355,455,530,508,411,478,383,359,312,406
+7,House Heating Fuel: Wood,FL,Dixie,120,147,210,289,303,313,242,204,196,199
+3,House Heating Fuel: Electric,FL,Duval,307845,309609,310982,312481,316677,320697,324750,330183,337180,343030
+4,House Heating Fuel: Fuel Oil,FL,Duval,3815,3312,2931,2615,2297,1635,1395,1216,1148,1034
+5,House Heating Fuel: Gas,FL,Duval,9628,9312,8771,8542,8621,8590,8420,8672,8754,8472
+6,House Heating Fuel: Propane,FL,Duval,6250,5743,4707,4108,4040,3764,3805,3660,3458,3091
+7,House Heating Fuel: Wood,FL,Duval,472,593,569,568,465,400,326,418,293,350
+3,House Heating Fuel: Electric,FL,Escambia,84799,84486,85671,86466,88090,90016,93168,95252,96294,96204
+4,House Heating Fuel: Fuel Oil,FL,Escambia,156,113,132,142,90,112,105,34,42,46
+5,House Heating Fuel: Gas,FL,Escambia,25167,24234,23465,22463,21766,21234,20612,20288,20198,21304
+6,House Heating Fuel: Propane,FL,Escambia,2047,1835,1634,1488,1436,1298,1152,1230,1128,1298
+7,House Heating Fuel: Wood,FL,Escambia,402,435,478,482,441,421,383,337,335,405
+3,House Heating Fuel: Electric,FL,Flagler,35472,35443,35047,34844,34836,35823,37164,38356,39505,41050
+4,House Heating Fuel: Fuel Oil,FL,Flagler,53,107,84,52,56,41,20,25,23,21
+5,House Heating Fuel: Gas,FL,Flagler,194,185,130,211,325,349,393,483,490,494
+6,House Heating Fuel: Propane,FL,Flagler,339,363,389,341,383,410,260,259,291,303
+7,House Heating Fuel: Wood,FL,Flagler,37,42,36,37,47,19,24,13,33,29
+3,House Heating Fuel: Electric,FL,Franklin,3956,4013,3987,3813,3635,3779,3728,3827,3827,4078
+4,House Heating Fuel: Fuel Oil,FL,Franklin,27,19,0,11,10,13,13,14,9,6
+5,House Heating Fuel: Gas,FL,Franklin,98,79,67,29,44,38,44,65,72,53
+6,House Heating Fuel: Propane,FL,Franklin,551,466,393,396,513,441,397,370,324,239
+7,House Heating Fuel: Wood,FL,Franklin,51,31,26,29,41,46,34,14,13,8
+3,House Heating Fuel: Electric,FL,Gadsden,11551,11890,12106,12692,13085,13267,13465,14055,14249,14414
+4,House Heating Fuel: Fuel Oil,FL,Gadsden,296,219,282,198,131,131,128,76,85,93
+5,House Heating Fuel: Gas,FL,Gadsden,2519,2489,2484,2193,2202,1961,1686,1414,1053,1061
+6,House Heating Fuel: Propane,FL,Gadsden,1520,1408,1294,1168,1243,1243,1200,1287,1250,1171
+7,House Heating Fuel: Wood,FL,Gadsden,189,186,217,237,213,216,265,325,315,269
+3,House Heating Fuel: Electric,FL,Gilchrist,4935,5199,5217,5414,5571,5556,5419,5658,5782,5790
+4,House Heating Fuel: Fuel Oil,FL,Gilchrist,82,31,7,23,11,10,14,20,13,15
+5,House Heating Fuel: Gas,FL,Gilchrist,14,36,24,44,28,17,40,23,21,22
+6,House Heating Fuel: Propane,FL,Gilchrist,649,430,362,361,319,322,411,371,350,322
+7,House Heating Fuel: Wood,FL,Gilchrist,228,235,259,322,273,242,298,256,261,242
+3,House Heating Fuel: Electric,FL,Glades,3954,3740,3515,3562,3578,3689,3797,4118,4212,4394
+4,House Heating Fuel: Fuel Oil,FL,Glades,0,0,0,0,0,17,15,27,27,27
+5,House Heating Fuel: Gas,FL,Glades,64,43,35,63,44,7,10,29,23,49
+6,House Heating Fuel: Propane,FL,Glades,72,87,159,189,186,162,128,85,100,84
+7,House Heating Fuel: Wood,FL,Glades,20,16,0,0,0,0,0,0,20,45
+3,House Heating Fuel: Electric,FL,Gulf,3495,3645,3820,3908,4068,4186,4172,4148,4220,4476
+4,House Heating Fuel: Fuel Oil,FL,Gulf,0,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,FL,Gulf,1483,1401,1192,1136,968,856,863,890,927,895
+6,House Heating Fuel: Propane,FL,Gulf,287,205,226,261,239,198,230,206,123,264
+7,House Heating Fuel: Wood,FL,Gulf,20,77,75,70,83,92,59,22,8,9
+3,House Heating Fuel: Electric,FL,Hamilton,3518,3513,3706,3903,4066,4012,4077,3912,3814,3643
+4,House Heating Fuel: Fuel Oil,FL,Hamilton,69,40,6,5,13,20,20,28,59,47
+5,House Heating Fuel: Gas,FL,Hamilton,307,257,136,165,175,161,235,240,209,209
+6,House Heating Fuel: Propane,FL,Hamilton,543,534,510,496,392,406,303,271,298,272
+7,House Heating Fuel: Wood,FL,Hamilton,95,97,112,85,57,87,77,86,93,140
+3,House Heating Fuel: Electric,FL,Hardee,7182,7350,6916,6871,7046,7139,7115,7392,7449,7597
+4,House Heating Fuel: Fuel Oil,FL,Hardee,25,23,4,2,3,2,0,0,0,0
+5,House Heating Fuel: Gas,FL,Hardee,51,53,62,74,68,78,68,51,33,31
+6,House Heating Fuel: Propane,FL,Hardee,345,352,403,395,300,260,219,184,209,160
+7,House Heating Fuel: Wood,FL,Hardee,14,14,21,28,15,23,20,13,1,2
+3,House Heating Fuel: Electric,FL,Hendry,10826,10645,10572,10801,10819,10970,11468,11699,11629,12029
+4,House Heating Fuel: Fuel Oil,FL,Hendry,0,0,12,11,11,11,11,0,31,47
+5,House Heating Fuel: Gas,FL,Hendry,72,125,105,84,91,55,23,20,27,28
+6,House Heating Fuel: Propane,FL,Hendry,82,54,86,148,95,162,181,211,182,203
+7,House Heating Fuel: Wood,FL,Hendry,16,13,16,17,26,20,27,19,0,0
+3,House Heating Fuel: Electric,FL,Hernando,66511,67040,67263,67141,66934,67464,68108,69301,70468,72380
+4,House Heating Fuel: Fuel Oil,FL,Hernando,47,49,45,48,45,35,64,60,81,71
+5,House Heating Fuel: Gas,FL,Hernando,1262,1534,1395,1324,1515,1425,1205,1298,1301,1251
+6,House Heating Fuel: Propane,FL,Hernando,1916,1711,1348,1194,948,823,809,837,772,825
+7,House Heating Fuel: Wood,FL,Hernando,123,87,142,147,219,180,178,134,143,91
+3,House Heating Fuel: Electric,FL,Highlands,37866,37732,37741,38076,38318,38985,39219,39993,39574,40203
+4,House Heating Fuel: Fuel Oil,FL,Highlands,25,14,14,15,26,38,33,31,29,14
+5,House Heating Fuel: Gas,FL,Highlands,720,717,606,580,467,322,241,228,404,430
+6,House Heating Fuel: Propane,FL,Highlands,1258,1071,1036,844,668,631,522,590,556,595
+7,House Heating Fuel: Wood,FL,Highlands,105,108,57,56,53,29,37,50,48,68
+3,House Heating Fuel: Electric,FL,Hillsborough,430183,432681,436001,439538,445372,452894,461235,469522,478378,486201
+4,House Heating Fuel: Fuel Oil,FL,Hillsborough,820,728,746,622,641,543,502,392,444,370
+5,House Heating Fuel: Gas,FL,Hillsborough,23662,22635,22753,23869,24078,24520,25619,26770,28249,29774
+6,House Heating Fuel: Propane,FL,Hillsborough,4178,3833,3636,3423,3227,3351,3098,3198,3162,3234
+7,House Heating Fuel: Wood,FL,Hillsborough,316,291,298,329,413,497,482,475,398,372
+3,House Heating Fuel: Electric,FL,Holmes,5508,5620,5871,5920,5865,5948,6089,6308,6315,6358
+4,House Heating Fuel: Fuel Oil,FL,Holmes,8,0,0,0,0,0,0,0,0,0
+5,House Heating Fuel: Gas,FL,Holmes,53,63,92,73,46,62,53,36,40,48
+6,House Heating Fuel: Propane,FL,Holmes,897,811,567,545,538,497,379,372,371,427
+7,House Heating Fuel: Wood,FL,Holmes,258,253,215,231,253,256,200,224,229,201
+3,House Heating Fuel: Electric,FL,Indian River,55305,55198,56106,55709,54787,55152,55025,54903,54556,55565
+4,House Heating Fuel: Fuel Oil,FL,Indian River,135,120,82,70,53,39,36,81,90,91
+5,House Heating Fuel: Gas,FL,Indian River,834,952,994,970,1080,1200,1258,1300,1319,1362
+6,House Heating Fuel: Propane,FL,Indian River,488,565,498,604,604,605,472,513,377,474
+7,House Heating Fuel: Wood,FL,Indian River,78,53,56,55,52,24,55,60,37,27
+3,House Heating Fuel: Electric,FL,Jackson,13472,13098,13250,13355,13292,13501,14150,14913,14992,15328
+4,House Heating Fuel: Fuel Oil,FL,Jackson,94,95,90,62,114,70,97,99,87,39
+5,House Heating Fuel: Gas,FL,Jackson,827,975,965,999,904,1123,1080,767,598,559
+6,House Heating Fuel: Propane,FL,Jackson,2071,1815,1522,1325,1220,1179,1065,1051,971,925
+7,House Heating Fuel: Wood,FL,Jackson,193,304,408,347,324,356,304,155,132,144
+3,House Heating Fuel: Electric,FL,Jefferson,3590,3963,4093,4175,4249,4374,4590,4829,4991,5111
+4,House Heating Fuel: Fuel Oil,FL,Jefferson,99,100,77,54,72,45,51,31,73,44
+5,House Heating Fuel: Gas,FL,Jefferson,156,75,73,65,38,36,31,22,12,8
+6,House Heating Fuel: Propane,FL,Jefferson,1133,893,935,809,843,788,766,665,560,470
+7,House Heating Fuel: Wood,FL,Jefferson,219,204,192,167,90,89,83,73,43,70
+3,House Heating Fuel: Electric,FL,Lafayette,1944,2021,2259,2300,2187,1994,1890,1802,1702,1864
+4,House Heating Fuel: Fuel Oil,FL,Lafayette,11,7,4,6,0,0,0,0,0,0
+5,House Heating Fuel: Gas,FL,Lafayette,32,32,19,3,4,2,0,0,36,36
+6,House Heating Fuel: Propane,FL,Lafayette,290,353,377,348,455,430,388,364,325,205
+7,House Heating Fuel: Wood,FL,Lafayette,30,53,53,41,49,54,36,20,13,0
+3,House Heating Fuel: Electric,FL,Lake,100079,100854,100072,100569,100900,102463,105425,110066,112271,115797
+4,House Heating Fuel: Fuel Oil,FL,Lake,387,429,362,343,247,295,192,166,139,107
+5,House Heating Fuel: Gas,FL,Lake,13527,13810,14061,13582,13612,13481,13215,13771,13949,14305
+6,House Heating Fuel: Propane,FL,Lake,2515,2267,1893,1771,1779,1837,1818,1837,2026,2103
+7,House Heating Fuel: Wood,FL,Lake,518,366,325,374,363,360,482,464,424,469
+3,House Heating Fuel: Electric,FL,Lee,236554,234836,234177,233379,237286,242769,247377,252729,259867,263760
+4,House Heating Fuel: Fuel Oil,FL,Lee,406,236,156,144,155,203,274,241,335,292
+5,House Heating Fuel: Gas,FL,Lee,3813,3626,3386,3380,3646,4074,4372,4737,4984,5049
+6,House Heating Fuel: Propane,FL,Lee,1670,1393,1439,1474,1517,1490,1475,1348,1138,1019
+7,House Heating Fuel: Wood,FL,Lee,216,181,149,136,71,87,84,83,94,128
+3,House Heating Fuel: Electric,FL,Leon,90765,91603,92210,92942,93988,94487,95291,97214,98349,99053
+4,House Heating Fuel: Fuel Oil,FL,Leon,1079,1240,1132,1070,792,793,576,447,435,535
+5,House Heating Fuel: Gas,FL,Leon,11366,10846,10757,10804,11096,10994,11048,10657,10596,10463
+6,House Heating Fuel: Propane,FL,Leon,4958,4693,4322,4290,3648,3420,3090,2905,2379,2441
+7,House Heating Fuel: Wood,FL,Leon,543,504,540,643,598,494,454,395,386,397
+3,House Heating Fuel: Electric,FL,Levy,13437,13803,13794,13633,13794,13614,13748,14244,15066,15046
+4,House Heating Fuel: Fuel Oil,FL,Levy,126,123,93,57,53,68,56,43,44,30
+5,House Heating Fuel: Gas,FL,Levy,517,455,363,355,371,290,217,229,199,235
+6,House Heating Fuel: Propane,FL,Levy,1371,1301,1184,1165,1088,1091,909,874,710,625
+7,House Heating Fuel: Wood,FL,Levy,221,221,201,193,158,244,220,226,238,257
+3,House Heating Fuel: Electric,FL,Liberty,1494,1711,1957,1986,2032,2202,2136,2108,2171,2306
+4,House Heating Fuel: Fuel Oil,FL,Liberty,0,0,24,37,25,32,36,17,2,3
+5,House Heating Fuel: Gas,FL,Liberty,43,21,8,3,7,10,11,28,39,21
+6,House Heating Fuel: Propane,FL,Liberty,441,382,333,251,269,169,167,157,150,113
+7,House Heating Fuel: Wood,FL,Liberty,24,25,30,26,20,7,9,10,12,6
+3,House Heating Fuel: Electric,FL,Madison,4531,4741,4848,4757,4769,4888,5195,5360,5355,5491
+4,House Heating Fuel: Fuel Oil,FL,Madison,47,41,41,36,38,45,63,68,57,38
+5,House Heating Fuel: Gas,FL,Madison,611,677,623,637,569,564,454,416,422,454
+6,House Heating Fuel: Propane,FL,Madison,1239,1162,1011,949,950,831,683,688,657,661
+7,House Heating Fuel: Wood,FL,Madison,296,278,334,319,281,226,204,154,155,109
+3,House Heating Fuel: Electric,FL,Manatee,120571,120514,120656,120475,122435,123050,124233,127980,131088,131929
+4,House Heating Fuel: Fuel Oil,FL,Manatee,176,207,175,207,167,162,124,165,191,151
+5,House Heating Fuel: Gas,FL,Manatee,7577,7566,7520,7509,7505,8100,8344,8869,9340,10322
+6,House Heating Fuel: Propane,FL,Manatee,1837,1681,1372,1379,1419,1434,1435,1333,1313,1121
+7,House Heating Fuel: Wood,FL,Manatee,58,97,84,84,151,158,84,73,81,100
+3,House Heating Fuel: Electric,FL,Marion,112772,113385,114358,113627,112613,111816,112312,114715,116707,120177
+4,House Heating Fuel: Fuel Oil,FL,Marion,876,798,602,608,581,574,482,402,387,348
+5,House Heating Fuel: Gas,FL,Marion,14497,14289,14435,14383,14686,14653,14403,14499,14786,14093
+6,House Heating Fuel: Propane,FL,Marion,4231,3834,3584,3615,3385,3187,2918,2837,2492,2362
+7,House Heating Fuel: Wood,FL,Marion,760,826,864,846,730,792,804,692,553,489
+3,House Heating Fuel: Electric,FL,Martin,56324,56580,56819,57149,58048,59235,59980,60413,60696,61429
+4,House Heating Fuel: Fuel Oil,FL,Martin,134,159,105,110,51,49,52,36,59,23
+5,House Heating Fuel: Gas,FL,Martin,901,887,893,844,930,862,1032,1087,1225,1189
+6,House Heating Fuel: Propane,FL,Martin,942,832,1043,1033,953,846,843,788,713,697
+7,House Heating Fuel: Wood,FL,Martin,47,41,28,64,45,69,51,60,91,103
+3,House Heating Fuel: Electric,FL,Miami-Dade,764554,764566,766643,766009,769577,776719,786210,789790,802519,816786
+4,House Heating Fuel: Fuel Oil,FL,Miami-Dade,858,839,744,771,751,802,834,925,1031,1014
+5,House Heating Fuel: Gas,FL,Miami-Dade,17712,16934,16150,16675,17714,18173,19108,20751,22577,22805
+6,House Heating Fuel: Propane,FL,Miami-Dade,4186,4174,3763,3721,3995,4317,4381,4209,4070,3686
+7,House Heating Fuel: Wood,FL,Miami-Dade,269,339,412,392,388,271,213,243,210,184
+3,House Heating Fuel: Electric,FL,Monroe,24659,23381,24054,24166,24392,25007,25925,26734,27581,28643
+4,House Heating Fuel: Fuel Oil,FL,Monroe,25,15,34,63,66,67,75,52,14,13
+5,House Heating Fuel: Gas,FL,Monroe,554,367,329,211,199,177,245,208,271,318
+6,House Heating Fuel: Propane,FL,Monroe,674,654,682,568,607,545,483,417,444,422
+7,House Heating Fuel: Wood,FL,Monroe,63,81,48,35,22,24,4,3,4,4
+3,House Heating Fuel: Electric,FL,Nassau,25088,25609,25793,26556,26757,26856,27851,29146,29881,30886
+4,House Heating Fuel: Fuel Oil,FL,Nassau,170,95,51,10,36,47,40,27,39,53
+5,House Heating Fuel: Gas,FL,Nassau,270,321,267,232,137,220,234,294,263,409
+6,House Heating Fuel: Propane,FL,Nassau,1296,1084,877,805,763,798,777,650,667,757
+7,House Heating Fuel: Wood,FL,Nassau,229,285,184,150,101,119,101,84,89,132
+3,House Heating Fuel: Electric,FL,Okaloosa,49885,50436,51178,52900,53863,55573,56107,57286,57584,57663
+4,House Heating Fuel: Fuel Oil,FL,Okaloosa,22,39,25,14,14,13,0,29,30,27
+5,House Heating Fuel: Gas,FL,Okaloosa,20791,19563,19534,18588,18011,17516,18098,17246,18022,18433
+6,House Heating Fuel: Propane,FL,Okaloosa,999,781,830,841,906,891,1008,869,840,770
+7,House Heating Fuel: Wood,FL,Okaloosa,396,345,307,355,263,283,336,413,349,358
+3,House Heating Fuel: Electric,FL,Okeechobee,13051,13341,12918,12551,12652,12555,12357,12862,13195,13305
+4,House Heating Fuel: Fuel Oil,FL,Okeechobee,0,0,0,0,0,0,0,0,24,17
+5,House Heating Fuel: Gas,FL,Okeechobee,91,66,69,50,95,56,95,99,95,137
+6,House Heating Fuel: Propane,FL,Okeechobee,288,213,234,233,302,256,215,184,205,232
+7,House Heating Fuel: Wood,FL,Okeechobee,66,58,15,26,21,41,48,48,32,28
+3,House Heating Fuel: Electric,FL,Orange,380339,383720,388127,392897,400447,410848,419795,424697,430667,432189
+4,House Heating Fuel: Fuel Oil,FL,Orange,2026,1821,1612,1605,1327,1242,1061,958,754,782
+5,House Heating Fuel: Gas,FL,Orange,17549,17444,16251,15953,16172,16064,16979,17896,18567,19273
+6,House Heating Fuel: Propane,FL,Orange,2972,2592,2192,2216,2269,2148,2408,2710,2758,2648
+7,House Heating Fuel: Wood,FL,Orange,287,323,343,246,359,410,321,402,387,288
+3,House Heating Fuel: Electric,FL,Osceola,87138,87737,86932,84803,84914,87010,87873,90706,93147,96497
+4,House Heating Fuel: Fuel Oil,FL,Osceola,151,91,81,72,90,100,74,83,136,149
+5,House Heating Fuel: Gas,FL,Osceola,2930,3134,3270,3505,3623,3361,3198,3080,3108,3393
+6,House Heating Fuel: Propane,FL,Osceola,1574,1475,1249,1079,736,606,520,551,742,882
+7,House Heating Fuel: Wood,FL,Osceola,72,71,70,77,75,61,58,57,41,6
+3,House Heating Fuel: Electric,FL,Palm Beach,492603,494568,497055,499880,502715,506179,508375,511426,515106,519482
+4,House Heating Fuel: Fuel Oil,FL,Palm Beach,938,910,918,861,749,717,635,672,676,707
+5,House Heating Fuel: Gas,FL,Palm Beach,11931,12117,12218,12353,12945,13478,13958,14667,15490,16219
+6,House Heating Fuel: Propane,FL,Palm Beach,2803,2608,2644,2436,2582,2641,2834,2592,2522,2558
+7,House Heating Fuel: Wood,FL,Palm Beach,240,287,280,204,304,301,248,268,238,183
+3,House Heating Fuel: Electric,FL,Pasco,170059,170322,169044,169001,171430,173688,176314,182767,185933,190297
+4,House Heating Fuel: Fuel Oil,FL,Pasco,274,244,244,242,209,183,152,144,142,115
+5,House Heating Fuel: Gas,FL,Pasco,8453,8315,8158,8339,8387,8183,8622,8687,8968,9476
+6,House Heating Fuel: Propane,FL,Pasco,4131,3653,3515,3271,2923,2505,2181,1912,1794,1719
+7,House Heating Fuel: Wood,FL,Pasco,559,494,469,520,436,362,409,418,353,313
+3,House Heating Fuel: Electric,FL,Pinellas,380145,377991,379366,379386,380281,379535,381188,381569,382004,380512
+4,House Heating Fuel: Fuel Oil,FL,Pinellas,2370,2189,1938,1727,1392,1225,982,826,768,719
+5,House Heating Fuel: Gas,FL,Pinellas,16788,15220,14539,14686,14498,14842,15702,15816,16274,16896
+6,House Heating Fuel: Propane,FL,Pinellas,3348,3049,2704,2461,2509,2407,2513,2651,2527,2610
+7,House Heating Fuel: Wood,FL,Pinellas,376,434,413,406,430,383,425,387,365,300
+3,House Heating Fuel: Electric,FL,Polk,209379,209000,209437,207602,208897,209988,211452,214918,219188,223224
+4,House Heating Fuel: Fuel Oil,FL,Polk,616,565,493,358,341,315,315,299,264,256
+5,House Heating Fuel: Gas,FL,Polk,7306,6957,6850,6533,6233,6100,6356,6337,6573,6739
+6,House Heating Fuel: Propane,FL,Polk,4310,3546,3234,3049,2779,2482,2281,2209,2141,1982
+7,House Heating Fuel: Wood,FL,Polk,367,319,307,322,425,413,346,376,343,213
+3,House Heating Fuel: Electric,FL,Putnam,24122,24042,24122,24105,24146,24388,24216,24666,24773,25256
+4,House Heating Fuel: Fuel Oil,FL,Putnam,265,178,117,104,88,39,23,77,73,80
+5,House Heating Fuel: Gas,FL,Putnam,2578,2561,2505,2112,2001,1813,1777,1763,2001,2086
+6,House Heating Fuel: Propane,FL,Putnam,1763,1792,1512,1165,1081,856,803,918,970,1028
+7,House Heating Fuel: Wood,FL,Putnam,321,343,386,371,304,389,275,316,249,278
+3,House Heating Fuel: Electric,FL,St. Johns,64881,66523,69123,70743,72829,74325,76406,78324,80618,82503
+4,House Heating Fuel: Fuel Oil,FL,St. Johns,358,351,249,257,199,145,151,137,137,119
+5,House Heating Fuel: Gas,FL,St. Johns,1959,2034,2124,2085,2207,2452,2420,2763,3256,3568
+6,House Heating Fuel: Propane,FL,St. Johns,2558,2323,1934,1800,1504,1497,1429,1512,1374,1538
+7,House Heating Fuel: Wood,FL,St. Johns,128,145,106,102,130,163,169,206,205,182
+3,House Heating Fuel: Electric,FL,St. Lucie,97320,98141,98937,100847,102017,103036,103835,104594,106922,108319
+4,House Heating Fuel: Fuel Oil,FL,St. Lucie,113,102,87,105,132,75,76,73,121,148
+5,House Heating Fuel: Gas,FL,St. Lucie,3464,3599,3572,3397,3272,3236,3191,3265,3515,3863
+6,House Heating Fuel: Propane,FL,St. Lucie,933,838,775,605,477,339,334,512,571,616
+7,House Heating Fuel: Wood,FL,St. Lucie,79,91,114,92,69,47,41,24,36,47
+3,House Heating Fuel: Electric,FL,Santa Rosa,47428,49102,50083,51538,51956,52969,53455,54257,54611,56574
+4,House Heating Fuel: Fuel Oil,FL,Santa Rosa,110,132,155,99,62,73,45,18,6,8
+5,House Heating Fuel: Gas,FL,Santa Rosa,4906,4700,4488,4164,4030,4072,4269,4529,4926,5071
+6,House Heating Fuel: Propane,FL,Santa Rosa,1569,1373,1145,982,869,823,920,1032,1034,1003
+7,House Heating Fuel: Wood,FL,Santa Rosa,377,284,253,248,227,272,280,264,249,372
+3,House Heating Fuel: Electric,FL,Sarasota,160616,160737,161131,162305,164039,166507,166877,169340,171430,173648
+4,House Heating Fuel: Fuel Oil,FL,Sarasota,653,459,436,359,369,322,272,229,214,224
+5,House Heating Fuel: Gas,FL,Sarasota,4569,4810,4833,4907,5067,5334,5403,5519,5860,5879
+6,House Heating Fuel: Propane,FL,Sarasota,1413,1354,1248,1119,1091,953,825,650,719,594
+7,House Heating Fuel: Wood,FL,Sarasota,116,113,132,146,152,117,104,67,43,49
+3,House Heating Fuel: Electric,FL,Seminole,142140,140373,138966,138309,138574,142643,146129,151115,156031,161802
+4,House Heating Fuel: Fuel Oil,FL,Seminole,653,595,539,442,413,372,313,254,295,236
+5,House Heating Fuel: Gas,FL,Seminole,7940,7420,7149,6755,6688,6655,7047,7196,8035,8297
+6,House Heating Fuel: Propane,FL,Seminole,1102,1074,1098,998,1104,1055,1079,935,1032,1074
+7,House Heating Fuel: Wood,FL,Seminole,143,220,202,200,188,223,166,178,150,196
+3,House Heating Fuel: Electric,FL,Sumter,28635,28054,27579,28198,31132,33129,35349,38047,40015,41591
+4,House Heating Fuel: Fuel Oil,FL,Sumter,101,76,51,89,70,70,99,125,99,111
+5,House Heating Fuel: Gas,FL,Sumter,8496,10652,12639,13796,13291,13510,12799,13074,13434,13456
+6,House Heating Fuel: Propane,FL,Sumter,1061,1113,1125,1107,1011,926,748,700,581,552
+7,House Heating Fuel: Wood,FL,Sumter,188,274,297,254,232,214,99,63,59,55
+3,House Heating Fuel: Electric,FL,Suwannee,11527,12223,12606,12794,12768,12976,12937,13140,13056,13093
+4,House Heating Fuel: Fuel Oil,FL,Suwannee,171,260,155,178,161,184,122,128,19,0
+5,House Heating Fuel: Gas,FL,Suwannee,745,914,732,549,547,507,450,395,425,373
+6,House Heating Fuel: Propane,FL,Suwannee,1794,1729,1710,1466,1461,1284,1079,829,870,810
+7,House Heating Fuel: Wood,FL,Suwannee,582,537,577,586,530,514,520,513,450,348
+3,House Heating Fuel: Electric,FL,Taylor,5832,5977,6092,6076,5958,6101,6044,6068,6122,6228
+4,House Heating Fuel: Fuel Oil,FL,Taylor,57,44,33,42,55,38,48,24,0,0
+5,House Heating Fuel: Gas,FL,Taylor,735,691,623,581,606,662,734,717,719,712
+6,House Heating Fuel: Propane,FL,Taylor,862,678,689,639,576,536,470,401,359,292
+7,House Heating Fuel: Wood,FL,Taylor,222,216,247,274,214,212,192,152,111,127
+3,House Heating Fuel: Electric,FL,Union,3041,3220,3375,3553,3559,3632,3652,3717,3701,3826
+4,House Heating Fuel: Fuel Oil,FL,Union,18,3,16,10,8,8,17,13,32,8
+5,House Heating Fuel: Gas,FL,Union,87,87,88,48,50,53,51,51,25,26
+6,House Heating Fuel: Propane,FL,Union,243,238,246,161,141,125,104,98,73,60
+7,House Heating Fuel: Wood,FL,Union,69,59,46,21,41,39,40,39,48,28
+3,House Heating Fuel: Electric,FL,Volusia,185096,183383,182817,182970,183786,186584,191254,195645,199258,202928
+4,House Heating Fuel: Fuel Oil,FL,Volusia,2406,2147,1720,1640,1463,1275,1159,1056,971,774
+5,House Heating Fuel: Gas,FL,Volusia,8295,7810,7286,7773,8063,8538,9023,9237,8952,9008
+6,House Heating Fuel: Propane,FL,Volusia,3124,2591,2204,1900,1864,1731,1794,1700,1721,1691
+7,House Heating Fuel: Wood,FL,Volusia,368,436,409,339,427,470,394,376,304,259
+3,House Heating Fuel: Electric,FL,Wakulla,8839,8851,8886,8686,9247,9112,9200,9640,9870,9958
+4,House Heating Fuel: Fuel Oil,FL,Wakulla,6,16,27,24,22,45,32,17,22,43
+5,House Heating Fuel: Gas,FL,Wakulla,247,251,208,213,99,109,124,144,76,79
+6,House Heating Fuel: Propane,FL,Wakulla,1238,1192,1204,1259,1229,1103,1062,1026,896,851
+7,House Heating Fuel: Wood,FL,Wakulla,170,172,206,249,226,218,193,138,90,192
+3,House Heating Fuel: Electric,FL,Walton,19361,19339,19658,19888,20101,20902,21679,22657,23719,24716
+4,House Heating Fuel: Fuel Oil,FL,Walton,40,42,52,44,45,6,20,10,14,20
+5,House Heating Fuel: Gas,FL,Walton,1363,1322,1332,1374,1324,1383,1366,1455,1420,1355
+6,House Heating Fuel: Propane,FL,Walton,1784,1338,1113,1022,854,846,918,864,714,742
+7,House Heating Fuel: Wood,FL,Walton,254,261,223,161,221,202,194,275,346,328
+3,House Heating Fuel: Electric,FL,Washington,6712,7087,7265,7239,7327,7311,7358,7632,7644,7943
+4,House Heating Fuel: Fuel Oil,FL,Washington,51,56,4,5,4,1,1,11,14,18
+5,House Heating Fuel: Gas,FL,Washington,298,202,213,204,178,204,227,246,189,175
+6,House Heating Fuel: Propane,FL,Washington,1346,1036,794,805,641,532,606,473,434,517
+7,House Heating Fuel: Wood,FL,Washington,271,275,239,223,154,138,86,107,104,90

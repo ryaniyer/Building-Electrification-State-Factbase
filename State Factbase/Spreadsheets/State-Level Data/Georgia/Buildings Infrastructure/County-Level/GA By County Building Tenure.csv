@@ -1,0 +1,637 @@
+,Metric,State,County,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
+0,Avg household size of owner-occupied unit,GA,Appling,2.49,2.5,2.49,2.54,2.57,2.54,2.62,2.62,2.56,2.64
+1,Avg household size of renter-occupied unit,GA,Appling,2.55,2.6,2.65,2.7,2.7,2.85,2.76,2.83,3.01,2.87
+36,Owner-Occupied,GA,Appling,12899,12526,12115,12249,11618,12052,12518,12605,12508,13403
+37,Renter-Occupied,GA,Appling,5002,5335,5785,5686,6351,5863,5361,5339,5418,4502
+0,Avg household size of owner-occupied unit,GA,Atkinson,2.86,3.01,3.02,3.08,3.2,3.1,3.13,2.94,3.02,2.84
+1,Avg household size of renter-occupied unit,GA,Atkinson,3.43,3.07,3.13,2.83,2.65,2.68,2.78,2.86,2.76,2.88
+36,Owner-Occupied,GA,Atkinson,5685,5714,5586,5941,6218,6147,6111,6175,6317,5994
+37,Renter-Occupied,GA,Atkinson,2647,2597,2726,2344,2035,2110,2117,2103,1911,2214
+0,Avg household size of owner-occupied unit,GA,Bacon,2.81,2.81,2.69,2.63,2.62,2.71,2.72,2.66,2.63,2.67
+1,Avg household size of renter-occupied unit,GA,Bacon,2.5,2.58,2.65,2.7,2.89,2.7,2.83,2.68,2.71,2.78
+36,Owner-Occupied,GA,Bacon,7226,7245,7351,7176,7232,7376,7216,7506,7121,7483
+37,Renter-Occupied,GA,Bacon,3246,3436,3360,3541,3464,3320,3430,3126,3396,2977
+0,Avg household size of owner-occupied unit,GA,Baker,2.86,2.79,2.41,2.4,2.43,2.47,2.3,2.29,2.15,2.04
+1,Avg household size of renter-occupied unit,GA,Baker,2.47,2.67,2.28,2.66,2.5,2.8,2.86,2.84,2.62,2.48
+36,Owner-Occupied,GA,Baker,2535,2373,2301,2372,2466,2393,2249,2096,2016,1901
+37,Renter-Occupied,GA,Baker,1122,1100,1165,1025,870,899,1000,1152,1170,1227
+0,Avg household size of owner-occupied unit,GA,Baldwin,2.51,2.48,2.49,2.54,2.58,2.63,2.67,2.56,2.59,2.54
+1,Avg household size of renter-occupied unit,GA,Baldwin,2.63,2.55,2.57,2.57,2.63,2.61,2.59,2.51,2.48,2.47
+36,Owner-Occupied,GA,Baldwin,24198,24424,24015,23771,23121,22858,22828,23078,23325,24088
+37,Renter-Occupied,GA,Baldwin,16518,16477,17474,17967,19063,19020,18970,18362,17663,16619
+0,Avg household size of owner-occupied unit,GA,Banks,2.8,2.77,2.71,2.68,2.68,2.72,2.82,2.79,2.74,2.75
+1,Avg household size of renter-occupied unit,GA,Banks,2.62,2.65,2.61,2.8,2.9,3.08,2.87,2.95,3.01,2.85
+36,Owner-Occupied,GA,Banks,13755,14313,14574,14031,13798,13763,13789,13428,13704,13981
+37,Renter-Occupied,GA,Banks,4085,3761,3676,4302,4519,4573,4547,4935,4806,4727
+0,Avg household size of owner-occupied unit,GA,Barrow,2.89,2.85,2.82,2.85,2.91,2.87,2.93,2.95,2.99,2.98
+1,Avg household size of renter-occupied unit,GA,Barrow,2.78,3.01,3.22,3.4,3.54,3.52,3.35,3.29,3.14,3.04
+36,Owner-Occupied,GA,Barrow,51083,51430,51807,52249,51388,49480,51201,52960,54978,59279
+37,Renter-Occupied,GA,Barrow,14941,16187,16937,17339,19183,22273,21889,21896,21675,19487
+0,Avg household size of owner-occupied unit,GA,Bartow,2.91,2.9,2.89,2.88,2.84,2.78,2.77,2.76,2.75,2.74
+1,Avg household size of renter-occupied unit,GA,Bartow,2.57,2.69,2.8,2.86,2.81,2.87,2.76,2.7,2.75,2.8
+36,Owner-Occupied,GA,Bartow,72138,70156,68664,67427,67032,64563,65119,67158,67809,68399
+37,Renter-Occupied,GA,Bartow,24392,27759,30215,31969,32820,35908,35949,34576,34907,35527
+0,Avg household size of owner-occupied unit,GA,Ben Hill,2.62,2.78,2.75,2.87,2.73,2.71,2.76,2.78,2.63,2.71
+1,Avg household size of renter-occupied unit,GA,Ben Hill,2.61,2.65,2.65,2.74,2.69,2.62,2.48,2.48,2.46,2.43
+36,Owner-Occupied,GA,Ben Hill,10773,11152,10844,11303,11487,11100,10848,10741,10271,10257
+37,Renter-Occupied,GA,Ben Hill,6461,6193,6457,5965,5752,6065,6241,6208,6558,6441
+0,Avg household size of owner-occupied unit,GA,Berrien,2.47,2.59,2.52,2.59,2.61,2.68,2.62,2.59,2.55,2.57
+1,Avg household size of renter-occupied unit,GA,Berrien,2.43,2.62,2.91,3.02,2.8,2.79,2.71,2.64,2.62,2.59
+36,Owner-Occupied,GA,Berrien,12987,13101,12918,14023,13476,13592,13243,12975,12475,12143
+37,Renter-Occupied,GA,Berrien,4959,5637,5978,4923,5414,5249,5565,5858,6368,6819
+0,Avg household size of owner-occupied unit,GA,Bibb,2.62,2.68,2.67,2.69,2.69,2.66,2.63,2.63,2.6,2.61
+1,Avg household size of renter-occupied unit,GA,Bibb,2.54,2.5,2.54,2.56,2.54,2.52,2.52,2.51,2.46,2.44
+36,Owner-Occupied,GA,Bibb,87505,88139,84538,82852,81968,80611,79056,79656,79460,79245
+37,Renter-Occupied,GA,Bibb,60326,60725,64518,66086,66619,67525,68742,67939,67654,67663
+0,Avg household size of owner-occupied unit,GA,Bleckley,2.92,2.9,2.79,2.69,2.67,2.69,2.79,2.83,2.83,2.76
+1,Avg household size of renter-occupied unit,GA,Bleckley,2.82,2.64,2.88,3.41,3.17,2.78,2.67,2.44,2.43,2.56
+36,Owner-Occupied,GA,Bleckley,8596,8636,8385,7591,7539,8209,8296,8414,8431,8559
+37,Renter-Occupied,GA,Bleckley,3738,3175,3219,3864,3795,2939,2965,2872,2875,2743
+0,Avg household size of owner-occupied unit,GA,Brantley,2.69,2.73,2.84,2.87,2.89,2.86,2.87,2.75,2.8,2.79
+1,Avg household size of renter-occupied unit,GA,Brantley,2.47,2.22,2.4,2.49,2.56,2.54,2.79,2.78,2.9,2.54
+36,Owner-Occupied,GA,Brantley,15235,15441,15651,15106,14732,15017,14635,14320,14743,15273
+37,Renter-Occupied,GA,Brantley,2405,2375,2514,3197,3638,3362,3695,4019,3745,3410
+0,Avg household size of owner-occupied unit,GA,Brooks,2.49,2.48,2.39,2.38,2.37,2.37,2.39,2.38,2.29,2.36
+1,Avg household size of renter-occupied unit,GA,Brooks,2.52,2.62,2.6,2.41,2.43,2.38,2.44,2.65,2.9,2.68
+36,Owner-Occupied,GA,Brooks,11655,11357,10429,10588,10826,10765,11219,11105,10877,11047
+37,Renter-Occupied,GA,Brooks,4098,4604,5408,5133,4840,4831,4359,4434,4639,4417
+0,Avg household size of owner-occupied unit,GA,Bryan,2.83,2.8,2.78,2.79,2.85,2.84,2.87,2.78,2.85,2.84
+1,Avg household size of renter-occupied unit,GA,Bryan,2.6,2.7,2.79,2.79,2.88,2.99,2.92,2.88,2.8,2.82
+36,Owner-Occupied,GA,Bryan,21992,22115,22038,21948,22278,22239,23472,23704,25115,25970
+37,Renter-Occupied,GA,Bryan,7037,7603,8461,9357,9805,10820,10543,11091,10683,11007
+0,Avg household size of owner-occupied unit,GA,Bulloch,2.68,2.68,2.66,2.65,2.64,2.64,2.6,2.54,2.52,2.5
+1,Avg household size of renter-occupied unit,GA,Bulloch,2.45,2.44,2.51,2.56,2.5,2.44,2.47,2.43,2.42,2.45
+36,Owner-Occupied,GA,Bulloch,36033,36205,35118,34109,34257,34260,34337,35988,36258,36916
+37,Renter-Occupied,GA,Bulloch,26353,27625,30020,31750,32058,32106,32144,30364,30384,30870
+0,Avg household size of owner-occupied unit,GA,Burke,3.06,3.08,3.0,2.99,2.93,2.81,2.8,2.81,2.73,2.72
+1,Avg household size of renter-occupied unit,GA,Burke,2.6,2.65,2.87,2.72,2.71,2.81,2.79,2.71,2.73,2.72
+36,Owner-Occupied,GA,Burke,16866,17066,16652,16551,16851,16060,16006,15688,15769,15796
+37,Renter-Occupied,GA,Burke,5652,5848,6290,6388,6012,6694,6594,6732,6569,6519
+0,Avg household size of owner-occupied unit,GA,Butts,2.63,2.64,2.7,2.69,2.71,2.72,2.73,2.57,2.47,2.49
+1,Avg household size of renter-occupied unit,GA,Butts,3.06,3.03,3.0,2.89,2.73,2.66,2.63,2.66,2.82,2.74
+36,Owner-Occupied,GA,Butts,15714,16060,15993,15748,15696,15145,15109,14452,14439,14375
+37,Renter-Occupied,GA,Butts,5553,5567,5589,5574,5462,5837,5795,6455,6523,6850
+0,Avg household size of owner-occupied unit,GA,Calhoun,2.7,2.27,2.09,2.17,2.12,2.12,2.5,2.59,2.42,2.54
+1,Avg household size of renter-occupied unit,GA,Calhoun,2.66,2.53,2.6,2.25,2.34,2.14,2.24,2.29,2.5,2.61
+36,Owner-Occupied,GA,Calhoun,3326,2905,2755,2760,2478,2553,3035,3251,2965,2891
+37,Renter-Occupied,GA,Calhoun,1364,1266,1239,1194,1443,1357,1427,1391,1568,1556
+0,Avg household size of owner-occupied unit,GA,Camden,2.8,2.73,2.7,2.67,2.63,2.61,2.62,2.61,2.56,2.58
+1,Avg household size of renter-occupied unit,GA,Camden,2.54,2.61,2.72,2.71,2.75,2.79,2.83,2.77,2.76,2.81
+36,Owner-Occupied,GA,Camden,33570,34064,32296,30998,29902,29670,28389,29698,30712,31166
+37,Renter-Occupied,GA,Camden,14784,14449,16761,18417,19775,20216,22087,20924,20224,20358
+0,Avg household size of owner-occupied unit,GA,Candler,2.74,2.76,2.75,2.63,2.62,2.67,2.68,2.71,2.75,2.77
+1,Avg household size of renter-occupied unit,GA,Candler,2.86,2.97,2.95,3.04,2.93,2.87,2.62,2.49,2.54,2.43
+36,Owner-Occupied,GA,Candler,6741,6872,6832,6495,6709,6326,6660,6423,6530,6415
+37,Renter-Occupied,GA,Candler,3646,3639,3821,4222,4041,4420,4026,4202,4036,4138
+0,Avg household size of owner-occupied unit,GA,Carroll,2.72,2.73,2.73,2.71,2.72,2.74,2.77,2.79,2.83,2.78
+1,Avg household size of renter-occupied unit,GA,Carroll,2.65,2.64,2.69,2.75,2.75,2.67,2.66,2.57,2.56,2.59
+36,Owner-Occupied,GA,Carroll,72998,73588,73103,71281,69449,68930,71350,73409,75957,77806
+37,Renter-Occupied,GA,Carroll,33450,33187,34055,36183,38618,39878,38756,37956,36586,35958
+0,Avg household size of owner-occupied unit,GA,Catoosa,2.62,2.65,2.74,2.74,2.78,2.77,2.75,2.72,2.73,2.73
+1,Avg household size of renter-occupied unit,GA,Catoosa,2.48,2.48,2.45,2.49,2.5,2.53,2.55,2.43,2.49,2.5
+36,Owner-Occupied,GA,Catoosa,47882,47792,49474,47733,49106,49688,49049,49298,50396,50058
+37,Renter-Occupied,GA,Catoosa,14537,15241,14162,16317,15314,15132,16031,16006,15334,16073
+0,Avg household size of owner-occupied unit,GA,Charlton,3.03,2.96,3.12,3.14,3.35,3.35,3.42,3.34,3.31,3.28
+1,Avg household size of renter-occupied unit,GA,Charlton,3.47,3.19,2.8,3.06,3.02,3.24,3.3,3.34,3.32,3.07
+36,Owner-Occupied,GA,Charlton,8561,8716,9151,9112,9360,9287,8847,8569,8624,8600
+37,Renter-Occupied,GA,Charlton,3117,2523,2312,2527,2305,2426,2922,3242,3173,3230
+0,Avg household size of owner-occupied unit,GA,Chatham,2.48,2.52,2.53,2.57,2.59,2.63,2.6,2.61,2.61,2.6
+1,Avg household size of renter-occupied unit,GA,Chatham,2.46,2.51,2.53,2.52,2.49,2.46,2.45,2.46,2.45,2.48
+36,Owner-Occupied,GA,Chatham,146522,148783,149343,151089,150611,150515,149202,151087,152993,154469
+37,Renter-Occupied,GA,Chatham,102146,104499,108124,110023,113645,116963,121161,121961,121740,121977
+0,Avg household size of owner-occupied unit,GA,Chattahoochee,3.15,3.05,2.86,3.05,2.84,2.71,2.76,2.58,2.47,2.42
+1,Avg household size of renter-occupied unit,GA,Chattahoochee,3.49,3.53,3.79,3.74,3.55,3.44,3.41,3.23,2.95,2.9
+36,Owner-Occupied,GA,Chattahoochee,2504,2436,2179,2297,2076,1935,2150,1743,1640,1532
+37,Renter-Occupied,GA,Chattahoochee,6086,6159,6815,6960,6646,6485,6138,5904,5564,5629
+0,Avg household size of owner-occupied unit,GA,Chattooga,2.73,2.65,2.55,2.49,2.5,2.49,2.49,2.5,2.5,2.46
+1,Avg household size of renter-occupied unit,GA,Chattooga,2.86,2.8,2.64,2.57,2.56,2.5,2.47,2.5,2.61,2.55
+36,Owner-Occupied,GA,Chattooga,17447,17035,16831,16441,16039,15439,15528,15183,15203,15549
+37,Renter-Occupied,GA,Chattooga,7081,7266,7269,7354,7501,7886,7709,7941,7888,7515
+0,Avg household size of owner-occupied unit,GA,Cherokee,2.8,2.8,2.84,2.85,2.84,2.83,2.85,2.81,2.82,2.84
+1,Avg household size of renter-occupied unit,GA,Cherokee,2.61,2.68,2.74,2.86,2.85,2.87,2.85,2.83,2.75,2.63
+36,Owner-Occupied,GA,Cherokee,167577,169433,172006,171615,172549,173026,176995,178842,185017,192055
+37,Renter-Occupied,GA,Cherokee,37509,40770,41832,45416,48086,51525,52174,55535,55321,53837
+0,Avg household size of owner-occupied unit,GA,Clarke,2.46,2.49,2.55,2.53,2.57,2.54,2.54,2.49,2.46,2.39
+1,Avg household size of renter-occupied unit,GA,Clarke,2.54,2.57,2.65,2.68,2.6,2.56,2.45,2.41,2.38,2.34
+36,Owner-Occupied,GA,Clarke,47391,47063,47160,45845,46092,44531,43903,44398,45324,45496
+37,Renter-Occupied,GA,Clarke,57716,57732,59444,62241,62945,66023,67677,68701,68415,69612
+0,Avg household size of owner-occupied unit,GA,Clay,2.46,2.54,2.36,2.48,2.7,2.65,2.74,2.63,2.54,2.4
+1,Avg household size of renter-occupied unit,GA,Clay,2.95,2.86,2.56,2.5,2.49,2.46,2.35,2.47,2.29,2.15
+36,Owner-Occupied,GA,Clay,1970,2179,2062,2045,1796,1858,2034,1963,1954,2176
+37,Renter-Occupied,GA,Clay,928,958,1054,1030,1256,1188,978,1005,992,722
+0,Avg household size of owner-occupied unit,GA,Clayton,3.03,3.07,3.06,3.03,2.99,2.97,2.94,2.95,2.96,2.97
+1,Avg household size of renter-occupied unit,GA,Clayton,2.83,2.86,2.92,2.95,2.96,2.96,2.96,2.94,2.94,2.94
+36,Owner-Occupied,GA,Clayton,154558,155704,150405,144569,140897,139080,135292,136353,138861,138456
+37,Renter-Occupied,GA,Clayton,100205,100660,107385,113780,119452,124277,130675,133265,134890,139962
+0,Avg household size of owner-occupied unit,GA,Clinch,2.66,2.48,2.56,2.48,2.43,2.41,2.47,2.35,2.45,2.52
+1,Avg household size of renter-occupied unit,GA,Clinch,2.77,2.7,2.52,2.66,2.69,2.68,2.68,2.69,2.65,2.49
+36,Owner-Occupied,GA,Clinch,4856,4460,4539,4397,4189,4293,4445,4328,4418,4678
+37,Renter-Occupied,GA,Clinch,1915,2129,2064,2154,2302,2141,1951,1979,1851,1551
+0,Avg household size of owner-occupied unit,GA,Cobb,2.71,2.7,2.71,2.71,2.71,2.69,2.7,2.72,2.72,2.72
+1,Avg household size of renter-occupied unit,GA,Cobb,2.42,2.44,2.47,2.5,2.52,2.55,2.53,2.54,2.53,2.51
+36,Owner-Occupied,GA,Cobb,483325,478672,475580,470397,465577,464082,469639,480450,484514,491549
+37,Renter-Occupied,GA,Cobb,188823,198184,207792,220057,234056,245209,248738,248968,250529,249470
+0,Avg household size of owner-occupied unit,GA,Coffee,2.66,2.65,2.63,2.75,2.71,2.72,2.76,2.75,2.73,2.7
+1,Avg household size of renter-occupied unit,GA,Coffee,2.76,2.7,2.76,2.68,2.69,2.73,2.8,2.68,2.72,2.72
+36,Owner-Occupied,GA,Coffee,27121,27180,26477,27617,26608,26031,25661,26037,25726,24644
+37,Renter-Occupied,GA,Coffee,12017,12055,12917,11910,12813,13035,13443,13030,13276,14480
+0,Avg household size of owner-occupied unit,GA,Colquitt,2.8,2.78,2.84,2.8,2.85,2.88,2.96,2.88,2.9,2.83
+1,Avg household size of renter-occupied unit,GA,Colquitt,2.83,2.71,2.79,2.82,2.79,2.82,2.88,2.91,2.95,2.98
+36,Owner-Occupied,GA,Colquitt,27131,28458,29267,29534,29266,29393,28183,26678,27260,27585
+37,Renter-Occupied,GA,Colquitt,16963,15575,15203,15167,15685,15618,16897,18390,17587,17109
+0,Avg household size of owner-occupied unit,GA,Columbia,2.85,2.82,2.82,2.9,2.95,2.97,3.07,3.18,3.18,3.21
+1,Avg household size of renter-occupied unit,GA,Columbia,2.63,2.74,2.87,2.93,2.93,3.03,3.0,2.92,2.94,3.08
+36,Owner-Occupied,GA,Columbia,96183,97556,97563,100417,103928,105778,109185,114510,117925,120393
+37,Renter-Occupied,GA,Columbia,21005,23102,26453,27183,27864,29911,30208,28715,28885,29838
+0,Avg household size of owner-occupied unit,GA,Cook,2.55,2.48,2.5,2.57,2.62,2.64,2.71,2.76,2.63,2.64
+1,Avg household size of renter-occupied unit,GA,Cook,2.71,2.83,2.89,2.96,2.86,2.95,3.1,2.92,2.95,2.93
+36,Owner-Occupied,GA,Cook,11903,11633,11377,11894,11523,11068,11152,11543,11005,10876
+37,Renter-Occupied,GA,Cook,4738,5180,5455,4954,5343,5800,5788,5483,6018,6131
+0,Avg household size of owner-occupied unit,GA,Coweta,2.76,2.76,2.75,2.75,2.74,2.73,2.74,2.73,2.76,2.78
+1,Avg household size of renter-occupied unit,GA,Coweta,2.66,2.69,2.67,2.73,2.75,2.72,2.72,2.7,2.66,2.64
+36,Owner-Occupied,GA,Coweta,92419,93751,93874,95977,96881,96847,98335,100130,101977,105371
+37,Renter-Occupied,GA,Coweta,28354,30150,32624,32781,33973,36091,36804,37384,38034,37379
+0,Avg household size of owner-occupied unit,GA,Crawford,2.72,2.6,2.68,2.71,2.66,2.75,2.68,2.6,2.69,2.68
+1,Avg household size of renter-occupied unit,GA,Crawford,2.83,2.85,2.68,2.66,2.62,2.63,2.56,2.56,2.39,2.75
+36,Owner-Occupied,GA,Crawford,10286,10071,10142,9872,9992,9916,9686,9414,9685,9429
+37,Renter-Occupied,GA,Crawford,2525,2546,2414,2583,2370,2445,2616,2798,2485,2738
+0,Avg household size of owner-occupied unit,GA,Crisp,2.4,2.45,2.45,2.42,2.47,2.47,2.51,2.6,2.65,2.63
+1,Avg household size of renter-occupied unit,GA,Crisp,2.84,2.81,2.8,2.89,2.99,2.88,2.86,2.89,2.75,2.56
+36,Owner-Occupied,GA,Crisp,12419,12828,12962,12784,12859,12613,12240,12748,12691,12293
+37,Renter-Occupied,GA,Crisp,10418,10082,10034,10268,10078,10233,10385,9835,9739,10003
+0,Avg household size of owner-occupied unit,GA,Dade,2.51,2.45,2.38,2.45,2.52,2.52,2.54,2.51,2.45,2.35
+1,Avg household size of renter-occupied unit,GA,Dade,2.39,2.54,2.42,2.37,2.32,2.3,2.31,2.32,2.45,2.53
+36,Owner-Occupied,GA,Dade,12564,12134,12053,12086,12321,12057,11721,11497,11061,10388
+37,Renter-Occupied,GA,Dade,3022,3404,3384,3317,2985,3129,3341,3488,3826,4463
+0,Avg household size of owner-occupied unit,GA,Dawson,2.63,2.65,2.52,2.48,2.53,2.59,2.57,2.69,2.74,2.73
+1,Avg household size of renter-occupied unit,GA,Dawson,2.75,3.02,3.08,2.97,3.19,3.18,3.01,2.79,2.62,2.54
+36,Owner-Occupied,GA,Dawson,16944,16747,16019,15549,15794,16058,16984,18384,19513,20133
+37,Renter-Occupied,GA,Dawson,4748,5192,6040,6642,6515,6422,5779,4835,4174,4237
+0,Avg household size of owner-occupied unit,GA,Decatur,2.52,2.59,2.52,2.48,2.5,2.45,2.43,2.45,2.45,2.42
+1,Avg household size of renter-occupied unit,GA,Decatur,2.61,2.56,2.54,2.56,2.51,2.47,2.56,2.57,2.63,2.68
+36,Owner-Occupied,GA,Decatur,17505,16879,16468,16798,16608,15421,15217,15099,14107,14007
+37,Renter-Occupied,GA,Decatur,9367,9853,10114,9610,9629,10668,10722,10679,11531,11489
+0,Avg household size of owner-occupied unit,GA,DeKalb,2.56,2.56,2.59,2.6,2.63,2.64,2.64,2.65,2.66,2.65
+1,Avg household size of renter-occupied unit,GA,DeKalb,2.49,2.52,2.55,2.57,2.61,2.61,2.61,2.63,2.6,2.55
+36,Owner-Occupied,GA,DeKalb,396540,395067,394409,390351,389124,389435,385158,392035,400625,409110
+37,Renter-Occupied,GA,DeKalb,273745,279518,284883,294962,303370,312644,325540,331126,329544,327227
+0,Avg household size of owner-occupied unit,GA,Dodge,2.51,2.42,2.41,2.45,2.45,2.38,2.43,2.47,2.44,2.44
+1,Avg household size of renter-occupied unit,GA,Dodge,2.21,2.24,2.2,2.18,2.26,2.31,2.25,2.32,2.46,2.5
+36,Owner-Occupied,GA,Dodge,13971,13953,13802,13173,12572,12562,12461,12829,12446,12609
+37,Renter-Occupied,GA,Dodge,5003,5447,5447,6123,6625,6418,6464,6154,6409,6136
+0,Avg household size of owner-occupied unit,GA,Dooly,2.38,2.51,2.51,2.39,2.51,2.53,2.51,2.37,2.37,2.36
+1,Avg household size of renter-occupied unit,GA,Dooly,2.45,2.68,2.57,2.32,2.49,2.51,2.27,2.37,3.09,2.72
+36,Owner-Occupied,GA,Dooly,7737,8234,8617,8185,8467,8125,8265,7885,8053,8228
+37,Renter-Occupied,GA,Dooly,3946,4104,4010,3969,3946,4494,4194,4374,4535,4156
+0,Avg household size of owner-occupied unit,GA,Dougherty,2.41,2.46,2.46,2.46,2.45,2.52,2.47,2.46,2.44,2.45
+1,Avg household size of renter-occupied unit,GA,Dougherty,2.55,2.58,2.59,2.59,2.59,2.52,2.53,2.54,2.54,2.56
+36,Owner-Occupied,GA,Dougherty,42206,42832,42725,41543,40304,40805,39758,38769,38574,38390
+37,Renter-Occupied,GA,Dougherty,47452,47897,47953,48609,49576,48582,48234,48526,48284,47053
+0,Avg household size of owner-occupied unit,GA,Douglas,2.9,2.91,2.94,2.96,2.97,2.98,2.96,2.93,2.96,2.99
+1,Avg household size of renter-occupied unit,GA,Douglas,2.7,2.69,2.64,2.62,2.64,2.65,2.73,2.74,2.71,2.71
+36,Owner-Occupied,GA,Douglas,92734,94574,95314,95520,95276,94390,92490,93480,93172,94469
+37,Renter-Occupied,GA,Douglas,34460,34663,35549,36683,38460,40823,44536,45346,47337,47520
+0,Avg household size of owner-occupied unit,GA,Early,2.61,2.59,2.6,2.53,2.57,2.6,2.41,2.39,2.36,2.26
+1,Avg household size of renter-occupied unit,GA,Early,2.93,2.64,2.57,2.74,2.5,2.66,2.85,2.87,2.78,2.92
+36,Owner-Occupied,GA,Early,7061,6986,7033,6606,6990,6859,6259,6561,6331,5883
+37,Renter-Occupied,GA,Early,4026,3771,3572,3898,3442,3561,4070,3694,3874,4289
+0,Avg household size of owner-occupied unit,GA,Echols,2.99,3.19,3.11,2.91,2.76,2.83,2.81,2.71,2.64,2.7
+1,Avg household size of renter-occupied unit,GA,Echols,3.24,2.96,2.82,2.97,2.87,2.92,2.86,2.6,2.39,2.23
+36,Owner-Occupied,GA,Echols,2746,2606,2892,2519,2538,2635,2425,2529,2871,2857
+37,Renter-Occupied,GA,Echols,1227,1410,1132,1534,1480,1413,1600,1482,1123,1124
+0,Avg household size of owner-occupied unit,GA,Effingham,2.88,2.85,2.88,2.99,2.99,2.99,2.98,2.94,2.91,2.9
+1,Avg household size of renter-occupied unit,GA,Effingham,2.85,2.93,2.92,2.86,2.94,2.82,2.93,2.78,2.67,2.66
+36,Owner-Occupied,GA,Effingham,37509,38196,39054,40804,41453,42191,42995,44130,45154,46582
+37,Renter-Occupied,GA,Effingham,12697,13028,12913,11919,11976,12192,12576,12644,13211,13571
+0,Avg household size of owner-occupied unit,GA,Elbert,2.57,2.57,2.56,2.57,2.48,2.56,2.59,2.53,2.53,2.5
+1,Avg household size of renter-occupied unit,GA,Elbert,2.75,2.68,2.59,2.59,2.52,2.35,2.34,2.29,2.54,2.5
+36,Owner-Occupied,GA,Elbert,14133,14294,13845,13411,13117,13497,13798,14123,13831,13676
+37,Renter-Occupied,GA,Elbert,6147,5716,5998,6243,6325,5789,5351,4921,5142,5250
+0,Avg household size of owner-occupied unit,GA,Emanuel,2.63,2.73,2.69,2.69,2.69,2.63,2.63,2.55,2.53,2.6
+1,Avg household size of renter-occupied unit,GA,Emanuel,2.55,2.49,2.65,2.76,2.82,2.78,2.75,2.66,2.68,2.54
+36,Owner-Occupied,GA,Emanuel,14571,14555,14244,14147,14485,14333,14346,14598,13922,13946
+37,Renter-Occupied,GA,Emanuel,6925,6905,7433,7630,7364,7539,7607,7094,7730,7707
+0,Avg household size of owner-occupied unit,GA,Evans,2.53,2.51,2.49,2.55,2.64,2.54,2.52,2.5,2.46,2.37
+1,Avg household size of renter-occupied unit,GA,Evans,2.76,2.57,2.57,2.57,2.64,2.71,2.72,2.64,2.71,2.87
+36,Owner-Occupied,GA,Evans,7085,6972,6501,6595,6567,6437,6436,6494,6578,6467
+37,Renter-Occupied,GA,Evans,3374,3445,3893,3794,3825,3926,3809,3756,3626,3693
+0,Avg household size of owner-occupied unit,GA,Fannin,2.29,2.38,2.43,2.39,2.43,2.46,2.4,2.43,2.4,2.47
+1,Avg household size of renter-occupied unit,GA,Fannin,1.88,1.83,1.94,2.23,2.39,2.55,2.4,2.25,2.24,2.26
+36,Owner-Occupied,GA,Fannin,19455,19667,19478,18616,18138,18224,18418,18996,19626,20282
+37,Renter-Occupied,GA,Fannin,3813,3703,3908,4824,5313,5326,5408,5297,5115,4928
+0,Avg household size of owner-occupied unit,GA,Fayette,2.82,2.81,2.83,2.82,2.83,2.83,2.85,2.83,2.85,2.83
+1,Avg household size of renter-occupied unit,GA,Fayette,2.57,2.65,2.64,2.76,2.7,2.69,2.6,2.53,2.52,2.53
+36,Owner-Occupied,GA,Fayette,89706,89966,89834,88623,88234,88601,89410,90689,92194,93330
+37,Renter-Occupied,GA,Fayette,15030,15514,16082,17868,19074,19437,19517,19060,18607,18399
+0,Avg household size of owner-occupied unit,GA,Floyd,2.64,2.65,2.62,2.71,2.68,2.7,2.67,2.65,2.62,2.68
+1,Avg household size of renter-occupied unit,GA,Floyd,2.61,2.62,2.67,2.58,2.59,2.56,2.55,2.52,2.57,2.5
+36,Owner-Occupied,GA,Floyd,61959,61675,59888,60223,57581,57125,56203,56719,56303,58423
+37,Renter-Occupied,GA,Floyd,30005,30222,32325,31929,34566,35012,35921,35650,36388,34781
+0,Avg household size of owner-occupied unit,GA,Forsyth,2.96,3.07,3.13,3.13,3.16,3.13,3.05,2.99,2.99,3.0
+1,Avg household size of renter-occupied unit,GA,Forsyth,2.93,3.07,3.0,3.2,3.2,3.18,3.07,2.99,2.89,2.8
+36,Owner-Occupied,GA,Forsyth,142102,147624,152952,155579,160163,164219,170962,177549,184409,193414
+37,Renter-Occupied,GA,Forsyth,21435,22575,23515,26696,28507,31369,32226,33116,34818,34308
+0,Avg household size of owner-occupied unit,GA,Franklin,2.56,2.44,2.45,2.47,2.5,2.53,2.57,2.62,2.61,2.64
+1,Avg household size of renter-occupied unit,GA,Franklin,2.35,2.43,2.44,2.47,2.5,2.57,2.69,2.58,2.69,2.6
+36,Owner-Occupied,GA,Franklin,16026,15385,15182,15557,14795,14844,14344,14743,14276,14818
+37,Renter-Occupied,GA,Franklin,5740,6010,6178,5720,6537,6599,7188,6954,7635,7370
+0,Avg household size of owner-occupied unit,GA,Fulton,2.52,2.54,2.57,2.6,2.62,2.64,2.65,2.65,2.62,2.61
+1,Avg household size of renter-occupied unit,GA,Fulton,2.24,2.27,2.31,2.35,2.37,2.35,2.34,2.32,2.3,2.26
+36,Owner-Occupied,GA,Fulton,503861,509261,515042,516604,513895,519760,523385,532756,540549,552914
+37,Renter-Occupied,GA,Fulton,351813,367811,382902,399904,420186,430504,438920,442989,446586,448342
+0,Avg household size of owner-occupied unit,GA,Gilmer,2.32,2.33,2.34,2.35,2.5,2.53,2.49,2.48,2.48,2.38
+1,Avg household size of renter-occupied unit,GA,Gilmer,2.51,2.68,2.88,2.67,2.78,2.77,2.84,2.8,2.75,2.88
+36,Owner-Occupied,GA,Gilmer,19268,19236,19110,19880,20507,21189,20823,21149,21613,21327
+37,Renter-Occupied,GA,Gilmer,8588,8772,8897,8179,7670,7205,7866,8210,8070,8844
+0,Avg household size of owner-occupied unit,GA,Glascock,2.55,2.37,2.5,2.47,2.69,2.74,2.8,2.78,2.69,2.48
+1,Avg household size of renter-occupied unit,GA,Glascock,2.29,2.55,2.6,2.66,2.28,2.48,2.31,2.46,2.52,3.06
+36,Owner-Occupied,GA,Glascock,2178,1980,2056,2081,2357,2268,2360,2377,2258,2057
+37,Renter-Occupied,GA,Glascock,766,978,936,922,636,724,602,562,668,858
+0,Avg household size of owner-occupied unit,GA,Glynn,2.45,2.42,2.47,2.43,2.45,2.49,2.52,2.48,2.46,2.47
+1,Avg household size of renter-occupied unit,GA,Glynn,2.61,2.65,2.61,2.63,2.6,2.49,2.44,2.46,2.42,2.37
+36,Owner-Occupied,GA,Glynn,48403,47990,49010,47528,47653,49114,49853,50553,51648,52747
+37,Renter-Occupied,GA,Glynn,28367,29675,29399,31552,31980,31316,31415,31558,30861,30258
+0,Avg household size of owner-occupied unit,GA,Gordon,2.9,2.9,2.8,2.79,2.78,2.73,2.69,2.7,2.71,2.66
+1,Avg household size of renter-occupied unit,GA,Gordon,2.49,2.72,2.94,3.06,2.99,3.01,3.01,2.98,2.88,2.92
+36,Owner-Occupied,GA,Gordon,38467,37765,36472,35484,35750,34949,33787,34583,35201,35681
+37,Renter-Occupied,GA,Gordon,14830,16514,18181,19347,19313,20316,21682,21256,21016,20953
+0,Avg household size of owner-occupied unit,GA,Grady,2.51,2.59,2.51,2.56,2.51,2.49,2.47,2.43,2.52,2.51
+1,Avg household size of renter-occupied unit,GA,Grady,2.78,2.77,2.75,2.86,2.89,2.99,3.1,3.21,3.16,3.04
+36,Owner-Occupied,GA,Grady,15378,15632,15054,13919,13704,13362,13415,13506,14911,14753
+37,Renter-Occupied,GA,Grady,9318,9048,9807,11025,11344,11693,11550,11363,9844,9911
+0,Avg household size of owner-occupied unit,GA,Greene,2.44,2.39,2.29,2.4,2.35,2.33,2.34,2.37,2.29,2.34
+1,Avg household size of renter-occupied unit,GA,Greene,3.04,2.94,2.85,2.82,2.78,2.6,2.72,2.61,2.67,2.59
+36,Owner-Occupied,GA,Greene,11141,10852,11258,11501,11322,11215,11366,11600,11425,12469
+37,Renter-Occupied,GA,Greene,4574,4866,4515,4373,4658,4906,4967,4936,5355,4681
+0,Avg household size of owner-occupied unit,GA,Gwinnett,3.02,3.05,3.07,3.1,3.12,3.13,3.14,3.16,3.15,3.14
+1,Avg household size of renter-occupied unit,GA,Gwinnett,2.83,2.92,2.98,3.02,3.04,3.09,3.06,3.05,3.02,3.03
+36,Owner-Occupied,GA,Gwinnett,567891,566880,564987,565739,570132,569700,579655,595542,602330,610340
+37,Renter-Occupied,GA,Gwinnett,205436,222552,240357,255063,266924,284532,289625,289369,294975,299654
+0,Avg household size of owner-occupied unit,GA,Habersham,2.5,2.62,2.65,2.66,2.75,2.7,2.73,2.75,2.77,2.82
+1,Avg household size of renter-occupied unit,GA,Habersham,2.58,2.83,2.9,2.98,2.86,2.84,2.81,2.72,2.66,2.73
+36,Owner-Occupied,GA,Habersham,27839,30161,30042,30073,30349,30063,30168,31193,32331,33354
+37,Renter-Occupied,GA,Habersham,10068,10050,10291,10449,10240,10601,10735,10193,9388,9000
+0,Avg household size of owner-occupied unit,GA,Hall,2.79,2.81,2.86,2.88,2.94,2.95,2.95,2.97,2.98,3.0
+1,Avg household size of renter-occupied unit,GA,Hall,2.93,2.96,2.99,3.05,3.05,3.08,3.16,3.15,3.17,3.2
+36,Owner-Occupied,GA,Hall,115687,119395,119808,119375,121248,122426,121122,126352,130623,134087
+37,Renter-Occupied,GA,Hall,54799,54797,57173,60142,61258,63268,67293,64582,63513,62869
+0,Avg household size of owner-occupied unit,GA,Hancock,2.73,2.63,2.55,2.69,2.5,2.36,2.21,1.99,1.91,2.0
+1,Avg household size of renter-occupied unit,GA,Hancock,2.74,2.84,3.26,3.11,3.09,2.94,3.03,2.14,2.15,2.13
+36,Owner-Occupied,GA,Hancock,5993,6077,5468,5726,5468,5208,4776,4649,4175,4189
+37,Renter-Occupied,GA,Hancock,1951,1876,2330,1903,1843,1800,1965,1367,1730,1860
+0,Avg household size of owner-occupied unit,GA,Haralson,2.62,2.7,2.63,2.61,2.65,2.67,2.63,2.64,2.66,2.67
+1,Avg household size of renter-occupied unit,GA,Haralson,2.68,2.51,2.6,2.58,2.59,2.53,2.54,2.42,2.38,2.32
+36,Owner-Occupied,GA,Haralson,20374,21035,20176,19809,19901,20154,19921,19903,20215,20592
+37,Renter-Occupied,GA,Haralson,7493,7112,7935,8293,8223,8031,8373,8451,8380,8275
+0,Avg household size of owner-occupied unit,GA,Harris,2.65,2.67,2.7,2.73,2.75,2.78,2.78,2.71,2.71,2.76
+1,Avg household size of renter-occupied unit,GA,Harris,3.25,3.31,3.34,3.18,2.91,2.87,2.78,2.69,2.78,2.76
+36,Owner-Occupied,GA,Harris,25916,26729,26378,27042,27217,26900,27150,27709,28298,29385
+37,Renter-Occupied,GA,Harris,4133,4321,5112,4815,4876,5406,5342,4966,4731,4146
+0,Avg household size of owner-occupied unit,GA,Hart,2.58,2.59,2.49,2.44,2.4,2.4,2.4,2.43,2.39,2.45
+1,Avg household size of renter-occupied unit,GA,Hart,2.47,2.35,2.36,2.48,2.61,2.68,2.64,2.75,2.73,2.73
+36,Owner-Occupied,GA,Hart,18744,19351,19027,18023,18117,17542,17395,17870,18232,18085
+37,Renter-Occupied,GA,Hart,5509,5017,5447,6544,6484,7108,7258,6838,6521,6791
+0,Avg household size of owner-occupied unit,GA,Heard,2.69,2.61,2.64,2.6,2.64,2.68,2.65,2.65,2.72,2.65
+1,Avg household size of renter-occupied unit,GA,Heard,2.79,2.83,2.79,2.93,2.68,2.57,2.55,2.53,2.22,2.38
+36,Owner-Occupied,GA,Heard,8501,8425,8639,8549,8633,8436,8183,8079,8518,8485
+37,Renter-Occupied,GA,Heard,3145,3215,2994,3032,2908,3038,3242,3379,3011,3102
+0,Avg household size of owner-occupied unit,GA,Henry,2.93,2.93,2.94,2.95,2.96,2.99,2.98,2.99,3.02,3.01
+1,Avg household size of renter-occupied unit,GA,Henry,2.8,2.85,2.95,3.01,3.05,3.0,3.05,2.94,2.89,2.81
+36,Owner-Occupied,GA,Henry,155958,155999,153528,153368,152579,153443,153732,156696,159568,160909
+37,Renter-Occupied,GA,Henry,36909,42166,48721,52068,55536,57100,59465,59823,60697,63395
+0,Avg household size of owner-occupied unit,GA,Houston,2.68,2.69,2.67,2.69,2.71,2.68,2.69,2.67,2.66,2.69
+1,Avg household size of renter-occupied unit,GA,Houston,2.58,2.63,2.72,2.73,2.8,2.78,2.77,2.73,2.69,2.62
+36,Owner-Occupied,GA,Houston,91237,93382,93409,94453,93920,94125,95119,94586,96193,97511
+37,Renter-Occupied,GA,Houston,41727,42581,45497,47052,50048,51875,52409,54151,53856,54374
+0,Avg household size of owner-occupied unit,GA,Irwin,2.57,2.88,2.93,2.76,2.71,2.66,2.76,2.68,2.81,2.75
+1,Avg household size of renter-occupied unit,GA,Irwin,2.28,2.54,2.4,2.51,2.53,2.87,2.61,2.77,2.64,2.77
+36,Owner-Occupied,GA,Irwin,6755,7145,6930,6535,6539,6520,6568,6716,6862,6732
+37,Renter-Occupied,GA,Irwin,1619,1741,1967,2278,2298,2330,2336,2258,2240,2435
+0,Avg household size of owner-occupied unit,GA,Jackson,2.73,2.79,2.77,2.79,2.85,2.9,2.92,2.93,2.99,2.94
+1,Avg household size of renter-occupied unit,GA,Jackson,2.71,2.73,2.88,2.86,2.95,2.84,2.88,2.8,2.82,2.75
+36,Owner-Occupied,GA,Jackson,42956,45561,45233,45858,46320,46941,46689,49117,51065,52976
+37,Renter-Occupied,GA,Jackson,14045,13397,14191,13943,13853,13753,14727,14014,13939,14070
+0,Avg household size of owner-occupied unit,GA,Jasper,2.84,2.74,2.68,2.67,2.63,2.6,2.61,2.67,2.69,2.69
+1,Avg household size of renter-occupied unit,GA,Jasper,2.44,2.62,2.71,2.62,2.64,2.66,2.61,2.7,2.71,2.62
+36,Owner-Occupied,GA,Jasper,10019,10464,10519,10435,10105,9782,9842,9991,10205,10682
+37,Renter-Occupied,GA,Jasper,3604,3245,3173,3217,3444,3711,3633,3649,3490,3143
+0,Avg household size of owner-occupied unit,GA,Jeff Davis,2.45,2.54,2.56,2.64,2.71,2.68,2.75,2.79,2.82,2.89
+1,Avg household size of renter-occupied unit,GA,Jeff Davis,2.88,2.67,2.69,2.89,2.96,2.98,3.11,3.04,2.82,2.71
+36,Owner-Occupied,GA,Jeff Davis,9703,10265,10188,10356,11001,10959,10573,10642,10124,9921
+37,Renter-Occupied,GA,Jeff Davis,4643,4405,4670,4571,3909,3907,4255,4230,4738,4987
+0,Avg household size of owner-occupied unit,GA,Jefferson,2.57,2.52,2.54,2.54,2.6,2.56,2.56,2.63,2.69,2.64
+1,Avg household size of renter-occupied unit,GA,Jefferson,2.8,2.81,2.76,2.65,2.63,2.7,2.86,2.7,2.77,2.71
+36,Owner-Occupied,GA,Jefferson,11446,11046,10615,10344,10004,10025,9717,9805,9943,9434
+37,Renter-Occupied,GA,Jefferson,5124,5167,5541,5699,5924,5766,5913,5596,5291,5653
+0,Avg household size of owner-occupied unit,GA,Jenkins,2.64,2.76,2.68,2.59,2.6,2.54,2.5,2.46,2.42,2.37
+1,Avg household size of renter-occupied unit,GA,Jenkins,2.76,2.79,2.55,2.42,2.42,2.5,2.58,2.98,2.92,2.94
+36,Owner-Occupied,GA,Jenkins,6246,5783,6212,6054,6123,5855,6062,5699,5789,5824
+37,Renter-Occupied,GA,Jenkins,2087,2398,2133,2469,2569,2985,2914,3153,2963,2893
+0,Avg household size of owner-occupied unit,GA,Johnson,2.52,2.51,2.65,2.75,2.79,2.88,2.96,2.98,2.81,2.75
+1,Avg household size of renter-occupied unit,GA,Johnson,2.54,2.39,2.32,2.55,2.75,2.59,3.04,2.76,2.84,2.53
+36,Owner-Occupied,GA,Johnson,5867,6069,6771,7062,6790,6757,6636,6885,6450,6267
+37,Renter-Occupied,GA,Johnson,2544,2262,1825,1747,2249,2478,2810,2668,3033,2814
+0,Avg household size of owner-occupied unit,GA,Jones,2.7,2.71,2.74,2.76,2.79,2.77,2.73,2.69,2.68,2.61
+1,Avg household size of renter-occupied unit,GA,Jones,2.58,2.63,2.52,2.62,2.65,2.73,2.78,2.73,2.71,2.81
+36,Owner-Occupied,GA,Jones,22306,22972,22972,22669,22853,23097,23155,22703,22601,22375
+37,Renter-Occupied,GA,Jones,5072,5248,5377,5692,5650,5391,5261,5558,5673,5944
+0,Avg household size of owner-occupied unit,GA,Lamar,2.75,2.75,2.67,2.69,2.64,2.58,2.65,2.73,2.75,2.77
+1,Avg household size of renter-occupied unit,GA,Lamar,2.57,2.62,2.59,2.58,2.57,2.7,2.79,2.71,2.64,2.49
+36,Owner-Occupied,GA,Lamar,11674,11573,11997,12044,12103,11600,11842,11839,12154,12470
+37,Renter-Occupied,GA,Lamar,5492,5496,5089,4917,4713,5223,5095,5205,5125,4978
+0,Avg household size of owner-occupied unit,GA,Lanier,2.72,2.87,2.76,2.64,2.57,2.71,2.62,2.57,2.58,2.55
+1,Avg household size of renter-occupied unit,GA,Lanier,2.82,2.68,2.51,2.69,2.89,2.74,2.83,2.89,2.92,3.0
+36,Owner-Occupied,GA,Lanier,5625,6211,6429,5982,6102,6413,6224,5935,6141,6104
+37,Renter-Occupied,GA,Lanier,3496,3179,3264,3920,3930,3693,3858,4153,3918,3964
+0,Avg household size of owner-occupied unit,GA,Laurens,2.67,2.67,2.66,2.62,2.61,2.61,2.6,2.59,2.62,2.62
+1,Avg household size of renter-occupied unit,GA,Laurens,2.58,2.66,2.73,2.76,2.74,2.71,2.73,2.77,2.83,2.87
+36,Owner-Occupied,GA,Laurens,31954,32105,31063,30324,29432,29347,28590,28365,28240,28801
+37,Renter-Occupied,GA,Laurens,14744,14844,16025,16710,17449,17393,18087,17982,18139,17595
+0,Avg household size of owner-occupied unit,GA,Lee,2.88,2.84,2.8,2.76,2.68,2.72,2.78,2.77,2.72,2.8
+1,Avg household size of renter-occupied unit,GA,Lee,2.56,2.81,2.82,2.87,2.84,2.88,2.71,2.66,2.77,2.73
+36,Owner-Occupied,GA,Lee,21358,20460,20296,20575,19636,19474,20903,20903,20393,20844
+37,Renter-Occupied,GA,Lee,5451,6533,6739,6683,7805,8186,7050,7303,7921,7617
+0,Avg household size of owner-occupied unit,GA,Liberty,2.77,2.63,2.67,2.66,2.64,2.61,2.63,2.5,2.54,2.53
+1,Avg household size of renter-occupied unit,GA,Liberty,2.76,2.78,2.78,2.79,2.81,2.82,2.79,2.69,2.62,2.52
+36,Owner-Occupied,GA,Liberty,31870,30721,31447,31374,29586,28451,27288,25870,26282,27180
+37,Renter-Occupied,GA,Liberty,30662,31226,31071,31450,32799,33979,34617,34272,33785,32137
+0,Avg household size of owner-occupied unit,GA,Lincoln,2.27,2.38,2.31,2.32,2.27,2.26,2.2,2.16,2.26,2.24
+1,Avg household size of renter-occupied unit,GA,Lincoln,2.49,2.43,2.31,2.23,2.28,2.11,2.23,2.43,2.22,2.2
+36,Owner-Occupied,GA,Lincoln,6153,6564,6383,6202,5903,5848,5594,5388,5601,5846
+37,Renter-Occupied,GA,Lincoln,1801,1415,1503,1612,1812,1780,2026,2289,2103,1912
+0,Avg household size of owner-occupied unit,GA,Long,2.65,2.79,3.05,3.27,3.26,3.42,3.41,3.25,3.2,3.22
+1,Avg household size of renter-occupied unit,GA,Long,3.14,2.93,2.76,2.86,2.79,3.0,3.09,3.35,3.26,3.33
+36,Owner-Occupied,GA,Long,7606,8389,9060,9826,11008,10969,11679,12044,12465,12690
+37,Renter-Occupied,GA,Long,5267,5109,5198,5234,4746,5419,5419,5668,5547,5857
+0,Avg household size of owner-occupied unit,GA,Lowndes,2.6,2.66,2.72,2.76,2.83,2.86,2.82,2.81,2.81,2.78
+1,Avg household size of renter-occupied unit,GA,Lowndes,2.64,2.64,2.62,2.63,2.63,2.7,2.7,2.63,2.64,2.6
+36,Owner-Occupied,GA,Lowndes,59022,59866,59885,59027,58879,57660,57484,59115,59398,59988
+37,Renter-Occupied,GA,Lowndes,41488,42510,45415,48121,49607,51671,52467,50798,51054,51195
+0,Avg household size of owner-occupied unit,GA,Lumpkin,2.48,2.49,2.62,2.6,2.59,2.69,2.7,2.67,2.6,2.64
+1,Avg household size of renter-occupied unit,GA,Lumpkin,2.5,2.68,2.64,2.65,2.71,2.59,2.51,2.58,2.64,2.74
+36,Owner-Occupied,GA,Lumpkin,19009,19372,19841,19513,18522,19382,19535,19557,20590,21618
+37,Renter-Occupied,GA,Lumpkin,8035,8237,8497,9293,10666,10063,10099,10542,9883,9316
+0,Avg household size of owner-occupied unit,GA,McDuffie,2.57,2.51,2.54,2.57,2.61,2.61,2.64,2.54,2.6,2.55
+1,Avg household size of renter-occupied unit,GA,McDuffie,2.6,2.7,2.72,2.72,2.57,2.62,2.63,2.68,2.65,2.66
+36,Owner-Occupied,GA,McDuffie,13826,13555,13884,13816,13937,13460,13098,12714,12796,12741
+37,Renter-Occupied,GA,McDuffie,7536,7825,7516,7533,7288,7784,8132,8451,8394,8409
+0,Avg household size of owner-occupied unit,GA,McIntosh,2.48,2.6,2.78,2.77,2.7,2.54,2.56,2.39,2.27,2.33
+1,Avg household size of renter-occupied unit,GA,McIntosh,2.28,2.06,2.61,2.99,3.32,2.95,3.05,2.62,2.54,2.35
+36,Owner-Occupied,GA,McIntosh,10538,11421,11490,11274,10769,10443,10543,10795,10629,11221
+37,Renter-Occupied,GA,McIntosh,3279,2466,2486,2753,3311,3490,3323,3188,3413,2877
+0,Avg household size of owner-occupied unit,GA,Macon,2.7,2.91,2.79,2.67,2.8,2.74,2.68,2.44,2.29,2.22
+1,Avg household size of renter-occupied unit,GA,Macon,2.73,2.59,2.64,2.58,2.51,2.43,2.56,2.74,2.79,2.72
+36,Owner-Occupied,GA,Macon,8302,8925,8819,8668,8525,7888,7550,7172,6951,6669
+37,Renter-Occupied,GA,Macon,4536,4266,4254,4222,4051,4402,4420,4616,4565,4593
+0,Avg household size of owner-occupied unit,GA,Madison,2.88,2.94,2.96,2.82,2.8,2.67,2.62,2.63,2.66,2.67
+1,Avg household size of renter-occupied unit,GA,Madison,3.08,2.99,2.97,2.97,2.96,2.94,2.97,2.83,2.71,2.78
+36,Owner-Occupied,GA,Madison,20834,20902,20957,20116,20271,19674,19857,20614,21660,21418
+37,Renter-Occupied,GA,Madison,6735,6823,6831,7711,7644,8312,8263,7741,6991,7542
+0,Avg household size of owner-occupied unit,GA,Marion,2.68,2.67,2.93,2.97,2.88,2.87,2.9,2.65,2.55,2.48
+1,Avg household size of renter-occupied unit,GA,Marion,2.55,2.49,2.55,2.61,2.55,2.73,2.64,2.47,2.44,2.32
+36,Owner-Occupied,GA,Marion,6325,6325,6335,6385,6273,6335,6406,6260,6265,6636
+37,Renter-Occupied,GA,Marion,2068,2129,2199,2210,2394,2317,2153,2212,2131,1707
+0,Avg household size of owner-occupied unit,GA,Meriwether,2.61,2.64,2.67,2.57,2.62,2.7,2.68,2.6,2.68,2.63
+1,Avg household size of renter-occupied unit,GA,Meriwether,2.51,2.73,2.66,2.75,2.6,2.54,2.5,2.51,2.29,2.48
+36,Owner-Occupied,GA,Meriwether,15981,15063,15517,14623,14161,14293,14273,14409,14685,14528
+37,Renter-Occupied,GA,Meriwether,5851,6726,6051,6721,6968,6731,6641,6465,6139,6281
+0,Avg household size of owner-occupied unit,GA,Miller,2.28,2.3,2.32,2.33,2.31,2.28,2.38,2.38,2.39,2.33
+1,Avg household size of renter-occupied unit,GA,Miller,2.32,2.44,2.51,2.56,2.78,2.69,2.91,2.59,2.61,2.55
+36,Owner-Occupied,GA,Miller,4102,4249,4119,4276,4030,3568,3661,3654,3683,3558
+37,Renter-Occupied,GA,Miller,1801,1723,1802,1600,1810,2189,2072,2051,1974,2049
+0,Avg household size of owner-occupied unit,GA,Mitchell,2.61,2.65,2.6,2.68,2.64,2.55,2.58,2.51,2.45,2.37
+1,Avg household size of renter-occupied unit,GA,Mitchell,2.86,2.76,2.66,2.48,2.46,2.55,2.51,2.62,2.75,2.72
+36,Owner-Occupied,GA,Mitchell,13952,13969,13707,14226,13808,13687,13711,13214,12168,11758
+37,Renter-Occupied,GA,Mitchell,8090,7585,7687,6993,7198,7067,6822,7141,8018,8214
+0,Avg household size of owner-occupied unit,GA,Monroe,2.68,2.71,2.67,2.72,2.69,2.76,2.77,2.73,2.63,2.74
+1,Avg household size of renter-occupied unit,GA,Monroe,2.72,2.73,2.55,2.47,2.55,2.43,2.49,2.49,2.72,2.41
+36,Owner-Occupied,GA,Monroe,19728,20053,19964,19823,19403,20007,19994,20181,20431,21191
+37,Renter-Occupied,GA,Monroe,5014,5150,5359,5587,6140,5639,5879,5455,5541,4896
+0,Avg household size of owner-occupied unit,GA,Montgomery,2.63,2.61,2.57,2.7,2.59,2.64,2.65,2.74,2.73,2.69
+1,Avg household size of renter-occupied unit,GA,Montgomery,2.1,2.36,2.43,2.39,2.64,2.58,2.54,2.43,2.66,2.61
+36,Owner-Occupied,GA,Montgomery,6170,6075,5924,5961,5966,5839,5996,6197,5996,5759
+37,Renter-Occupied,GA,Montgomery,1993,2261,2351,2325,2280,2390,2247,1985,2239,2492
+0,Avg household size of owner-occupied unit,GA,Morgan,2.67,2.78,2.7,2.65,2.66,2.7,2.59,2.61,2.69,2.57
+1,Avg household size of renter-occupied unit,GA,Morgan,2.58,2.57,2.73,2.92,3.13,2.98,2.91,2.83,2.8,2.83
+36,Owner-Occupied,GA,Morgan,13067,13497,13218,13330,13467,13463,12902,13043,13362,13078
+37,Renter-Occupied,GA,Morgan,4232,4163,4500,4352,4222,4265,4871,4800,4703,5256
+0,Avg household size of owner-occupied unit,GA,Murray,2.86,2.82,2.78,2.82,2.78,2.7,2.7,2.72,2.67,2.61
+1,Avg household size of renter-occupied unit,GA,Murray,2.66,2.65,2.71,2.72,2.83,2.85,2.83,2.87,3.06,3.05
+36,Owner-Occupied,GA,Murray,29517,28324,27934,27352,26131,25992,25285,26172,26040,26151
+37,Renter-Occupied,GA,Murray,10408,11289,11488,11933,13053,13167,13847,13059,13287,13331
+0,Avg household size of owner-occupied unit,GA,Muscogee,2.42,2.48,2.53,2.56,2.63,2.67,2.66,2.67,2.66,2.66
+1,Avg household size of renter-occupied unit,GA,Muscogee,2.34,2.4,2.42,2.5,2.53,2.55,2.55,2.55,2.54,2.53
+36,Owner-Occupied,GA,Muscogee,98444,98420,99106,97165,96819,96940,94848,94498,93065,92990
+37,Renter-Occupied,GA,Muscogee,73581,77965,79811,85663,90228,93220,96294,96128,96426,95682
+0,Avg household size of owner-occupied unit,GA,Newton,2.83,2.86,2.87,2.88,2.84,2.86,2.87,2.86,2.84,2.92
+1,Avg household size of renter-occupied unit,GA,Newton,2.87,3.0,3.1,3.09,3.06,3.07,3.03,2.96,2.94,2.81
+36,Owner-Occupied,GA,Newton,72162,72444,71306,71490,71073,69472,68733,70832,70407,73101
+37,Renter-Occupied,GA,Newton,23053,24917,27223,27785,28985,31720,33777,32851,34761,33644
+0,Avg household size of owner-occupied unit,GA,Oconee,2.83,2.9,2.94,2.92,2.92,2.91,2.89,2.9,2.89,2.92
+1,Avg household size of renter-occupied unit,GA,Oconee,2.55,2.73,2.74,2.72,2.77,2.75,2.6,2.42,2.41,2.38
+36,Owner-Occupied,GA,Oconee,26105,26550,26378,26420,26807,27522,28878,30292,31331,32467
+37,Renter-Occupied,GA,Oconee,4931,5480,6219,6607,6738,6663,5979,5469,5472,5446
+0,Avg household size of owner-occupied unit,GA,Oglethorpe,3.18,3.07,2.9,2.77,2.66,2.66,2.54,2.57,2.62,2.68
+1,Avg household size of renter-occupied unit,GA,Oglethorpe,2.74,2.87,3.06,2.91,2.74,2.52,2.6,2.57,2.58,2.41
+36,Owner-Occupied,GA,Oglethorpe,11978,12104,11674,11088,11274,11086,10819,11295,11589,11692
+37,Renter-Occupied,GA,Oglethorpe,2568,2428,2916,3489,3274,3463,3789,3228,3065,3109
+0,Avg household size of owner-occupied unit,GA,Paulding,2.88,2.88,2.93,2.97,2.97,2.99,2.99,2.94,2.97,2.98
+1,Avg household size of renter-occupied unit,GA,Paulding,2.92,2.99,3.05,3.09,3.05,2.98,2.96,2.99,2.92,3.02
+36,Owner-Occupied,GA,Paulding,109201,112075,114819,116608,115509,116074,117335,117459,119013,120169
+37,Renter-Occupied,GA,Paulding,24925,26309,26346,26563,29407,30694,31862,34281,36153,38938
+0,Avg household size of owner-occupied unit,GA,Peach,2.69,2.64,2.6,2.57,2.61,2.54,2.54,2.55,2.59,2.6
+1,Avg household size of renter-occupied unit,GA,Peach,2.78,2.98,2.84,2.71,2.57,2.42,2.36,2.3,2.26,2.27
+36,Owner-Occupied,GA,Peach,16706,16743,16306,16304,16438,16525,16761,16897,16555,17265
+37,Renter-Occupied,GA,Peach,7789,8445,8860,8635,8713,8285,7937,8001,8382,7949
+0,Avg household size of owner-occupied unit,GA,Pickens,2.57,2.62,2.57,2.61,2.58,2.55,2.57,2.65,2.56,2.59
+1,Avg household size of renter-occupied unit,GA,Pickens,2.52,2.62,2.6,2.73,2.92,2.79,2.75,2.6,2.62,2.69
+36,Owner-Occupied,GA,Pickens,23260,23121,22689,22805,21953,22172,22365,23364,23018,23355
+37,Renter-Occupied,GA,Pickens,5565,6024,6482,6387,7282,7241,7309,6647,7471,7694
+0,Avg household size of owner-occupied unit,GA,Pierce,2.75,2.74,2.64,2.7,2.76,2.71,2.74,2.77,2.67,2.67
+1,Avg household size of renter-occupied unit,GA,Pierce,2.37,2.36,2.52,2.59,2.62,2.76,2.62,2.58,2.75,2.83
+36,Owner-Occupied,GA,Pierce,14247,14167,14068,13782,14209,13961,14527,14190,14362,14576
+37,Renter-Occupied,GA,Pierce,3764,4129,4404,4833,4488,4802,4327,4773,4623,4496
+0,Avg household size of owner-occupied unit,GA,Pike,2.86,2.88,2.86,2.88,2.91,2.92,2.9,3.01,2.94,2.97
+1,Avg household size of renter-occupied unit,GA,Pike,3.07,3.0,2.87,2.76,2.73,2.9,3.0,2.72,2.83,2.82
+36,Owner-Occupied,GA,Pike,14165,14408,14710,14884,14767,14713,14678,14965,14866,15296
+37,Renter-Occupied,GA,Pike,3083,3022,2819,2686,2807,2844,2905,2706,2966,2777
+0,Avg household size of owner-occupied unit,GA,Polk,2.71,2.69,2.7,2.68,2.72,2.75,2.81,2.83,2.83,2.83
+1,Avg household size of renter-occupied unit,GA,Polk,2.94,2.93,2.97,3.02,2.86,2.84,2.65,2.63,2.61,2.67
+36,Owner-Occupied,GA,Polk,27912,27734,27879,27818,27646,27178,28018,27256,27666,27473
+37,Renter-Occupied,GA,Polk,12661,12754,12824,12924,13146,13677,12935,13922,13731,14222
+0,Avg household size of owner-occupied unit,GA,Pulaski,2.57,2.48,2.35,2.44,2.37,2.49,2.45,2.46,2.47,2.47
+1,Avg household size of renter-occupied unit,GA,Pulaski,2.19,2.37,2.46,2.74,2.58,2.63,2.76,2.64,2.7,2.89
+36,Owner-Occupied,GA,Pulaski,7788,7594,6830,6700,6218,5977,5453,5864,5921,5846
+37,Renter-Occupied,GA,Pulaski,2550,2816,3420,3534,3942,4074,4424,3989,3827,3807
+0,Avg household size of owner-occupied unit,GA,Putnam,2.41,2.36,2.35,2.47,2.55,2.54,2.56,2.48,2.45,2.36
+1,Avg household size of renter-occupied unit,GA,Putnam,2.56,2.48,2.63,2.57,2.3,2.34,2.44,2.38,2.51,2.56
+36,Owner-Occupied,GA,Putnam,16323,15993,15686,16095,16156,15767,15812,16080,16523,16247
+37,Renter-Occupied,GA,Putnam,4357,4988,5343,4977,4899,5288,5254,5159,4795,5253
+0,Avg household size of owner-occupied unit,GA,Quitman,2.2,2.34,2.43,2.49,2.34,2.23,2.26,2.15,2.4,2.68
+1,Avg household size of renter-occupied unit,GA,Quitman,3.18,3.26,3.02,2.85,2.65,2.47,2.36,2.31,2.53,2.8
+36,Owner-Occupied,GA,Quitman,1574,1509,1702,1791,1817,1690,1533,1556,1538,1585
+37,Renter-Occupied,GA,Quitman,954,980,840,605,590,636,562,584,738,704
+0,Avg household size of owner-occupied unit,GA,Rabun,2.22,2.27,2.24,2.24,2.25,2.34,2.42,2.49,2.45,2.43
+1,Avg household size of renter-occupied unit,GA,Rabun,2.35,2.46,2.6,2.4,2.39,2.33,2.37,2.33,2.41,2.45
+36,Owner-Occupied,GA,Rabun,11597,11834,11255,11462,11382,11696,11647,12033,12052,11998
+37,Renter-Occupied,GA,Rabun,4534,4188,4746,4491,4548,4196,4274,3915,3984,4205
+0,Avg household size of owner-occupied unit,GA,Randolph,2.51,2.38,2.4,2.25,2.33,2.49,2.51,2.33,2.44,2.49
+1,Avg household size of renter-occupied unit,GA,Randolph,2.48,2.49,2.98,2.7,2.78,2.63,2.48,2.64,2.91,2.9
+36,Owner-Occupied,GA,Randolph,4821,5294,4973,4840,4312,4239,4074,4038,3668,3631
+37,Renter-Occupied,GA,Randolph,2561,1971,2259,2349,2838,2869,2967,2990,3242,3169
+0,Avg household size of owner-occupied unit,GA,Richmond,2.52,2.61,2.62,2.67,2.68,2.66,2.65,2.64,2.63,2.65
+1,Avg household size of renter-occupied unit,GA,Richmond,2.48,2.56,2.6,2.66,2.67,2.71,2.64,2.67,2.68,2.73
+36,Owner-Occupied,GA,Richmond,106761,108744,107782,105005,102578,101114,101108,101411,101038,99719
+37,Renter-Occupied,GA,Richmond,79133,80749,83511,87315,89689,91067,90870,90749,90526,92181
+0,Avg household size of owner-occupied unit,GA,Rockdale,2.9,2.87,2.86,2.84,2.86,2.83,2.83,2.86,2.87,2.86
+1,Avg household size of renter-occupied unit,GA,Rockdale,2.88,2.88,2.97,3.01,3.05,3.07,3.05,3.07,2.94,2.86
+36,Owner-Occupied,GA,Rockdale,56994,58716,58866,57438,58471,57820,57406,58737,59571,58982
+37,Renter-Occupied,GA,Rockdale,25599,24674,25283,27386,26983,28285,29343,28910,28604,29894
+0,Avg household size of owner-occupied unit,GA,Schley,2.74,2.71,2.84,2.79,2.54,2.67,2.63,2.55,2.74,2.89
+1,Avg household size of renter-occupied unit,GA,Schley,2.95,2.98,2.77,2.63,2.61,2.75,2.8,2.94,2.85,2.57
+36,Owner-Occupied,GA,Schley,3082,3412,3357,3286,3203,3236,3310,3235,3593,3854
+37,Renter-Occupied,GA,Schley,1673,1443,1580,1709,1836,1834,1776,1931,1617,1367
+0,Avg household size of owner-occupied unit,GA,Screven,3.02,3.15,3.0,2.75,2.71,2.7,2.72,2.7,2.65,2.7
+1,Avg household size of renter-occupied unit,GA,Screven,2.98,2.74,2.65,2.64,2.45,2.39,2.42,2.34,2.42,2.55
+36,Owner-Occupied,GA,Screven,11015,11360,10869,10043,10105,10044,9833,9832,10001,10131
+37,Renter-Occupied,GA,Screven,3178,2948,3297,3989,3756,3758,3871,3797,3578,3442
+0,Avg household size of owner-occupied unit,GA,Seminole,2.67,2.74,2.56,2.59,2.52,2.5,2.46,2.44,2.39,2.43
+1,Avg household size of renter-occupied unit,GA,Seminole,3.04,3.24,3.08,2.78,3.08,3.0,2.98,2.72,2.76,2.47
+36,Owner-Occupied,GA,Seminole,6587,6696,6497,6615,6692,6174,6063,5805,5435,5326
+37,Renter-Occupied,GA,Seminole,2061,1984,2221,2118,2009,2489,2531,2643,2900,2886
+0,Avg household size of owner-occupied unit,GA,Spalding,2.68,2.7,2.71,2.7,2.63,2.65,2.66,2.62,2.59,2.58
+1,Avg household size of renter-occupied unit,GA,Spalding,2.77,2.81,2.77,2.79,2.89,2.93,2.86,2.78,2.69,2.71
+36,Owner-Occupied,GA,Spalding,39926,39539,39039,39224,37460,36887,37177,37798,37620,39283
+37,Renter-Occupied,GA,Spalding,22699,23322,23964,23681,25307,25719,25561,25189,25884,24775
+0,Avg household size of owner-occupied unit,GA,Stephens,2.68,2.63,2.64,2.71,2.67,2.74,2.74,2.7,2.74,2.74
+1,Avg household size of renter-occupied unit,GA,Stephens,2.64,2.88,2.7,2.66,2.74,2.62,2.63,2.51,2.39,2.34
+36,Owner-Occupied,GA,Stephens,17953,18094,18383,18670,18459,18127,17996,17879,18095,18241
+37,Renter-Occupied,GA,Stephens,6872,6590,6427,6214,6428,6753,6904,7038,6845,6757
+0,Avg household size of owner-occupied unit,GA,Stewart,2.55,2.53,2.82,2.66,2.62,2.48,2.34,2.46,2.36,2.24
+1,Avg household size of renter-occupied unit,GA,Stewart,2.5,2.46,2.58,2.87,2.63,2.49,2.18,1.74,1.81,2.32
+36,Owner-Occupied,GA,Stewart,3940,3699,3524,3120,2974,2670,2593,2982,3046,2988
+37,Renter-Occupied,GA,Stewart,1753,1780,1784,1949,1723,1631,1451,990,970,1118
+0,Avg household size of owner-occupied unit,GA,Sumter,2.85,2.77,2.7,2.72,2.67,2.6,2.53,2.44,2.42,2.39
+1,Avg household size of renter-occupied unit,GA,Sumter,2.65,2.62,2.57,2.5,2.43,2.55,2.42,2.37,2.38,2.48
+36,Owner-Occupied,GA,Sumter,20658,19677,18574,18183,18387,17269,16496,16192,15878,15296
+37,Renter-Occupied,GA,Sumter,11266,11419,12025,12008,11419,12102,12504,12426,12388,12679
+0,Avg household size of owner-occupied unit,GA,Talbot,2.64,2.59,2.57,2.52,2.47,2.45,2.32,2.24,2.22,2.19
+1,Avg household size of renter-occupied unit,GA,Talbot,2.32,2.32,2.35,2.37,2.36,2.36,2.36,2.5,2.6,2.43
+36,Owner-Occupied,GA,Talbot,5643,5536,5327,5134,5139,5238,5176,5056,4823,4867
+37,Renter-Occupied,GA,Talbot,1268,1318,1421,1531,1425,1232,1178,1349,1538,1435
+0,Avg household size of owner-occupied unit,GA,Taliaferro,2.6,2.77,2.46,2.44,2.57,2.46,2.51,2.6,2.85,2.78
+1,Avg household size of renter-occupied unit,GA,Taliaferro,3.09,2.81,2.53,2.63,2.28,2.31,2.57,2.55,2.4,2.56
+36,Owner-Occupied,GA,Taliaferro,1366,1250,1181,1255,1232,1283,1297,1287,1206,1136
+37,Renter-Occupied,GA,Taliaferro,665,522,478,497,460,429,597,549,453,471
+0,Avg household size of owner-occupied unit,GA,Tattnall,2.8,2.74,2.63,2.59,2.49,2.41,2.38,2.38,2.39,2.4
+1,Avg household size of renter-occupied unit,GA,Tattnall,2.8,2.58,2.52,2.68,2.49,2.56,2.48,2.37,2.13,2.12
+36,Owner-Occupied,GA,Tattnall,14763,14758,14991,14565,13795,13150,12557,13046,12949,13281
+37,Renter-Occupied,GA,Tattnall,6909,6335,5870,6059,6222,6229,6479,6067,5986,5747
+0,Avg household size of owner-occupied unit,GA,Taylor,2.36,2.36,2.24,2.09,2.12,2.3,2.31,2.25,2.38,2.42
+1,Avg household size of renter-occupied unit,GA,Taylor,2.65,2.6,2.6,2.57,2.65,2.62,2.61,2.29,2.24,2.03
+36,Owner-Occupied,GA,Taylor,6019,5825,5284,5333,5268,5491,5345,5570,5821,5926
+37,Renter-Occupied,GA,Taylor,2342,2572,3039,2909,2916,2655,2745,2483,2207,2075
+0,Avg household size of owner-occupied unit,GA,Telfair,2.22,2.16,2.03,2.19,2.3,2.3,2.39,2.59,2.67,2.83
+1,Avg household size of renter-occupied unit,GA,Telfair,2.44,2.3,2.38,2.42,2.39,2.47,2.58,2.42,2.5,2.58
+36,Owner-Occupied,GA,Telfair,7765,7567,7359,7889,7408,7247,7513,8256,8119,8841
+37,Renter-Occupied,GA,Telfair,5317,5225,5154,4742,5274,5271,5073,4774,4723,3969
+0,Avg household size of owner-occupied unit,GA,Terrell,2.62,2.72,2.68,2.5,2.57,2.35,2.22,2.29,2.33,2.21
+1,Avg household size of renter-occupied unit,GA,Terrell,2.57,2.57,2.63,2.93,3.07,3.16,3.3,3.11,3.02,2.79
+36,Owner-Occupied,GA,Terrell,5486,5774,5616,5312,4923,4558,4335,4409,4289,4137
+37,Renter-Occupied,GA,Terrell,3499,3339,3366,3589,4021,4332,4473,4250,4244,4273
+0,Avg household size of owner-occupied unit,GA,Thomas,2.55,2.55,2.57,2.56,2.55,2.54,2.56,2.49,2.47,2.47
+1,Avg household size of renter-occupied unit,GA,Thomas,2.42,2.44,2.41,2.45,2.49,2.51,2.55,2.67,2.64,2.53
+36,Owner-Occupied,GA,Thomas,27412,26484,24918,25163,25632,26426,26763,27671,27102,26618
+37,Renter-Occupied,GA,Thomas,16115,17002,18743,18533,18154,17510,17350,16390,16840,17235
+0,Avg household size of owner-occupied unit,GA,Tift,2.66,2.72,2.8,2.73,2.64,2.7,2.61,2.55,2.5,2.5
+1,Avg household size of renter-occupied unit,GA,Tift,2.71,2.79,2.87,3.02,3.02,2.84,2.77,2.61,2.64,2.61
+36,Owner-Occupied,GA,Tift,24929,24436,24587,22800,22046,22133,21765,21783,22215,22697
+37,Renter-Occupied,GA,Tift,13739,14457,14329,16112,16899,16815,16974,16824,16322,15780
+0,Avg household size of owner-occupied unit,GA,Toombs,2.72,2.68,2.68,2.65,2.61,2.54,2.66,2.55,2.64,2.58
+1,Avg household size of renter-occupied unit,GA,Toombs,2.49,2.58,2.44,2.51,2.41,2.44,2.43,2.53,2.45,2.75
+36,Owner-Occupied,GA,Toombs,17175,16734,16907,17021,17111,16818,16889,16220,16133,15677
+37,Renter-Occupied,GA,Toombs,9379,10047,9883,9737,9697,9927,9822,10500,10490,10875
+0,Avg household size of owner-occupied unit,GA,Towns,1.96,2.14,2.16,2.31,2.26,2.31,2.23,2.26,2.17,2.18
+1,Avg household size of renter-occupied unit,GA,Towns,2.3,2.38,2.22,2.18,2.43,2.48,2.09,2.21,2.41,2.28
+36,Owner-Occupied,GA,Towns,8055,8301,8246,8358,8008,7864,8163,8397,8371,8361
+37,Renter-Occupied,GA,Towns,1475,1469,1485,1413,1855,2124,1976,1943,2213,2427
+0,Avg household size of owner-occupied unit,GA,Treutlen,2.63,2.68,2.81,2.51,2.43,2.4,2.38,2.41,2.42,2.57
+1,Avg household size of renter-occupied unit,GA,Treutlen,2.52,2.39,2.54,2.55,2.4,2.34,2.46,2.34,2.32,2.47
+36,Owner-Occupied,GA,Treutlen,4280,4130,4471,4291,4234,4390,4297,4502,4538,4276
+37,Renter-Occupied,GA,Treutlen,2192,2288,1925,2050,2051,1863,1928,1786,1785,2035
+0,Avg household size of owner-occupied unit,GA,Troup,2.66,2.65,2.66,2.71,2.67,2.73,2.74,2.77,2.8,2.85
+1,Avg household size of renter-occupied unit,GA,Troup,2.68,2.67,2.65,2.69,2.77,2.73,2.76,2.72,2.67,2.59
+36,Owner-Occupied,GA,Troup,40962,41062,40367,40337,39634,38880,38883,38989,39881,40833
+37,Renter-Occupied,GA,Troup,22283,23364,24894,25678,27058,28384,28779,28836,28308,27538
+0,Avg household size of owner-occupied unit,GA,Turner,2.75,2.88,2.95,2.83,2.65,2.6,2.44,2.36,2.45,2.26
+1,Avg household size of renter-occupied unit,GA,Turner,2.64,2.72,2.44,2.22,2.58,2.71,2.72,2.71,2.63,2.67
+36,Owner-Occupied,GA,Turner,5481,5807,5712,5799,5266,5502,5226,5115,5007,4956
+37,Renter-Occupied,GA,Turner,2912,2857,2790,2477,2837,2432,2533,2535,2586,2615
+0,Avg household size of owner-occupied unit,GA,Twiggs,2.97,2.85,2.92,2.83,2.87,2.81,2.89,2.78,2.66,2.58
+1,Avg household size of renter-occupied unit,GA,Twiggs,3.32,3.25,2.91,2.94,2.59,2.71,2.78,2.88,2.91,3.11
+36,Owner-Occupied,GA,Twiggs,7401,6897,7101,6910,6801,6572,6665,6431,6397,6360
+37,Renter-Occupied,GA,Twiggs,1932,2181,1772,1800,1716,1850,1614,1817,1822,1812
+0,Avg household size of owner-occupied unit,GA,Union,2.25,2.37,2.32,2.32,2.52,2.53,2.43,2.47,2.41,2.3
+1,Avg household size of renter-occupied unit,GA,Union,1.94,2.02,2.02,2.23,2.4,2.61,2.4,2.49,2.59,2.44
+36,Owner-Occupied,GA,Union,16643,16741,16658,16582,17151,16643,16900,17404,17058,17292
+37,Renter-Occupied,GA,Union,4024,4140,4322,4419,3970,4609,4638,4343,5175,5418
+0,Avg household size of owner-occupied unit,GA,Upson,2.51,2.52,2.53,2.46,2.43,2.51,2.53,2.51,2.45,2.48
+1,Avg household size of renter-occupied unit,GA,Upson,2.69,2.68,2.76,2.74,2.68,2.63,2.62,2.48,2.64,2.64
+36,Owner-Occupied,GA,Upson,18434,18002,17254,17060,16145,16254,17079,16593,16440,16994
+37,Renter-Occupied,GA,Upson,8537,8797,9337,9355,9996,9688,8751,9092,9226,8696
+0,Avg household size of owner-occupied unit,GA,Walker,2.61,2.56,2.57,2.53,2.57,2.59,2.6,2.64,2.66,2.63
+1,Avg household size of renter-occupied unit,GA,Walker,2.49,2.55,2.55,2.66,2.56,2.57,2.64,2.6,2.52,2.51
+36,Owner-Occupied,GA,Walker,49989,49652,49194,48121,48364,48231,47472,48778,49230,49152
+37,Renter-Occupied,GA,Walker,16718,17486,18005,19072,18758,18691,19311,18460,18155,18375
+0,Avg household size of owner-occupied unit,GA,Walton,2.87,2.85,2.86,2.88,2.88,2.87,2.85,2.84,2.83,2.83
+1,Avg household size of renter-occupied unit,GA,Walton,2.51,2.62,2.62,2.7,2.84,2.92,2.97,3.01,2.97,2.96
+36,Owner-Occupied,GA,Walton,63495,64150,64074,63884,63174,62242,62176,63128,64642,66470
+37,Renter-Occupied,GA,Walton,17508,18261,19078,19880,21544,23253,24503,24786,24676,24117
+0,Avg household size of owner-occupied unit,GA,Ware,2.6,2.52,2.45,2.41,2.39,2.37,2.39,2.38,2.34,2.38
+1,Avg household size of renter-occupied unit,GA,Ware,2.55,2.61,2.68,2.62,2.53,2.44,2.41,2.41,2.47,2.42
+36,Owner-Occupied,GA,Ware,22570,21963,21853,21194,20562,21165,20361,20906,21104,20943
+37,Renter-Occupied,GA,Ware,11146,11476,11584,12247,12864,12112,12881,12347,12018,12161
+0,Avg household size of owner-occupied unit,GA,Warren,2.53,2.62,2.5,2.52,2.53,2.48,2.3,2.25,2.07,2.12
+1,Avg household size of renter-occupied unit,GA,Warren,2.39,2.39,2.5,2.61,2.78,2.79,2.78,2.54,2.65,2.72
+36,Owner-Occupied,GA,Warren,4217,4214,3921,3664,3654,3624,3377,3428,3266,3174
+37,Renter-Occupied,GA,Warren,1646,1582,1791,1969,1898,1849,2041,1898,1998,2043
+0,Avg household size of owner-occupied unit,GA,Washington,2.69,2.74,2.75,2.73,2.65,2.61,2.52,2.44,2.44,2.41
+1,Avg household size of renter-occupied unit,GA,Washington,2.64,2.77,2.63,2.63,2.77,2.71,2.66,2.75,2.71,2.58
+36,Owner-Occupied,GA,Washington,13851,13959,14328,14097,13356,13198,12996,12388,11969,12019
+37,Renter-Occupied,GA,Washington,5348,5480,5010,5140,5761,5918,5927,6344,6642,6472
+0,Avg household size of owner-occupied unit,GA,Wayne,2.62,2.71,2.73,2.74,2.75,2.8,2.83,2.68,2.62,2.67
+1,Avg household size of renter-occupied unit,GA,Wayne,2.64,2.73,2.83,2.78,2.72,2.7,2.68,2.67,2.77,2.66
+36,Owner-Occupied,GA,Wayne,18991,19581,19667,19272,19363,19289,18535,17513,17317,17603
+37,Renter-Occupied,GA,Wayne,8222,8151,8278,8756,8664,8606,9284,10195,10351,10099
+0,Avg household size of owner-occupied unit,GA,Webster,2.55,2.22,2.33,2.57,2.43,2.63,2.74,2.49,2.49,2.43
+1,Avg household size of renter-occupied unit,GA,Webster,2.18,1.94,1.84,1.97,1.99,2.17,2.03,2.09,1.89,1.53
+36,Owner-Occupied,GA,Webster,2149,2282,2454,2313,2215,2349,2273,2121,2173,2326
+37,Renter-Occupied,GA,Webster,578,473,315,452,524,366,394,501,435,280
+0,Avg household size of owner-occupied unit,GA,Wheeler,2.78,2.75,2.08,2.02,2.13,2.31,2.57,3.14,3.6,4.24
+1,Avg household size of renter-occupied unit,GA,Wheeler,2.97,2.87,2.09,2.03,1.77,1.91,2.26,3.03,3.13,3.96
+36,Owner-Occupied,GA,Wheeler,3492,3346,2903,2819,2631,2928,3500,3959,4280,4999
+37,Renter-Occupied,GA,Wheeler,1210,1353,1323,1426,1141,1421,1592,2162,2336,2707
+0,Avg household size of owner-occupied unit,GA,White,2.19,2.17,2.21,2.27,2.32,2.4,2.46,2.43,2.43,2.46
+1,Avg household size of renter-occupied unit,GA,White,2.11,1.95,2.14,2.33,2.45,2.47,2.67,2.67,2.57,2.58
+36,Owner-Occupied,GA,White,20091,20512,20018,19883,19046,20039,19598,20018,21138,21807
+37,Renter-Occupied,GA,White,6125,5839,6656,7068,8099,7331,8128,8085,7383,7281
+0,Avg household size of owner-occupied unit,GA,Whitfield,2.93,2.94,3.0,2.97,2.93,2.97,2.93,2.83,2.8,2.86
+1,Avg household size of renter-occupied unit,GA,Whitfield,2.77,2.84,2.81,2.91,2.95,2.94,2.96,3.01,2.92,2.94
+36,Owner-Occupied,GA,Whitfield,68663,68701,68779,67095,65474,66027,64600,61834,63674,65686
+37,Renter-Occupied,GA,Whitfield,30115,31683,32442,34445,36553,36290,37812,40818,38776,37057
+0,Avg household size of owner-occupied unit,GA,Wilcox,2.72,2.71,2.7,2.64,2.56,2.52,2.51,2.47,2.53,2.54
+1,Avg household size of renter-occupied unit,GA,Wilcox,2.85,2.61,2.5,2.47,2.55,2.54,2.56,2.74,2.77,2.85
+36,Owner-Occupied,GA,Wilcox,5971,5630,5739,5408,5080,4969,4898,4839,5011,4981
+37,Renter-Occupied,GA,Wilcox,1196,1514,1330,1631,1915,1954,1904,1975,1731,1750
+0,Avg household size of owner-occupied unit,GA,Wilkes,2.52,2.48,2.46,2.45,2.47,2.41,2.42,2.37,2.42,2.24
+1,Avg household size of renter-occupied unit,GA,Wilkes,2.84,2.49,2.59,2.51,2.36,2.55,2.58,2.69,2.71,2.89
+36,Owner-Occupied,GA,Wilkes,7208,7213,7024,7221,7002,6824,6519,6362,6175,5999
+37,Renter-Occupied,GA,Wilkes,3235,3070,3184,2861,2941,2989,3300,3444,3611,3741
+0,Avg household size of owner-occupied unit,GA,Wilkinson,2.65,2.76,2.84,2.78,2.77,2.75,2.8,2.74,2.78,2.77
+1,Avg household size of renter-occupied unit,GA,Wilkinson,2.68,3.21,2.91,2.92,2.9,2.97,2.76,2.77,2.74,2.86
+36,Owner-Occupied,GA,Wilkinson,7615,7653,7585,7288,7336,7072,7034,6910,6779,6648
+37,Renter-Occupied,GA,Wilkinson,1715,1874,1896,2129,2015,2202,2169,2131,2192,2256
+0,Avg household size of owner-occupied unit,GA,Worth,2.82,2.76,2.67,2.73,2.62,2.63,2.65,2.62,2.5,2.53
+1,Avg household size of renter-occupied unit,GA,Worth,2.45,2.48,2.72,2.77,2.73,2.71,2.63,2.6,2.66,2.57
+36,Owner-Occupied,GA,Worth,15897,16403,15860,15876,15976,15364,14682,13997,13328,13230
+37,Renter-Occupied,GA,Worth,5672,5179,5727,5637,5231,5633,6149,6655,7171,7102
