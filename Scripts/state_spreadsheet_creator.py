@@ -17,9 +17,6 @@ import shutil
 restart_all_states = False
 #Restarts the folder of an individual state
 restart_state = False
-#Should always be kept False: trial element
-#restart_states_EIA = False
-
 #Restarts the state-level air quality folder
 restart_states_air_quality = False
 
@@ -62,11 +59,6 @@ for s in state_names:
     if(restart_state):
         folder_refresh(path)
     
-    if(restart_states_EIA):
-        #State-Level EIA Data Export
-        df_temp = eia_state.return_state_EIA_data(1970,2020,us_state_abbrev[s])
-        df_temp.T.to_csv(path+'/'+str(s)+'_EIA_SEDS_Data.csv')
-
     if(restart_states_air_quality):
         #Make Air Quality Folder:
         folder_refresh(path+'/Air Quality/')
