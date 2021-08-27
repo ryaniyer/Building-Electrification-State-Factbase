@@ -11,6 +11,9 @@ import pandas as pd
 import os
 import shutil
 
+#Update with most recent year for which EIA has data:
+eia_year = 2020
+
 #Set the restart variable you would like to alter to True:
 
 #Restarts the entire Spreadsheets/States folder
@@ -19,18 +22,20 @@ restart_all_states = False
 restart_state = False
 #Restarts the state-level air quality folder
 restart_states_air_quality = False
-
 #Restarts the state-level infrastructure folder
 restart_states_infrastructure = False
-#Restarts the state-level economics folder
+#Restarts the state-level Energy Economics folder
 restart_states_economics = False
+#Restarts the state-level Natural Gas folder
 restart_states_natgas = False
+#Restarts the state-level CO2 Emissions folder
 restart_states_co2 = True
+#Restarts the state-level Energy Use Folder
 restart_states_energyuse = False
+#Restarts the state-level Equity Folder
 restart_states_equity = False
 
 #The states variable is set to work for the 48 continental states + DC
-#If you would only like to perform operations for a single state, rename the states variable
 states = ["AL", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 state_names = ["Alabama", "Arkansas", "Arizona", "California", "Colorado", "Connecticut", "Delaware", "District of Columbia","Florida", "Georgia", "Iowa", "Idaho", "Illinois", "Indiana", "Kansas", "Kentucky", "Louisiana", "Massachusetts", "Maryland", "Maine", "Michigan", "Minnesota", "Missouri", "Mississippi", "Montana", "North Carolina", "North Dakota", "Nebraska", "New Hampshire", "New Jersey", "New Mexico", "Nevada", "New York", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Virginia", "Vermont", "Washington", "Wisconsin", "West Virginia", "Wyoming"]
 us_state_abbrev = {'the United States':'US','Alabama': 'AL','Alaska': 'AK','American Samoa': 'AS','Arizona': 'AZ','Arkansas': 'AR','California': 'CA','Colorado': 'CO', 'Connecticut': 'CT','Delaware': 'DE','District of Columbia': 'DC', 'Florida': 'FL','Georgia': 'GA','Guam': 'GU','Hawaii': 'HI', 'Idaho': 'ID','Illinois': 'IL','Indiana': 'IN','Iowa': 'IA','Kansas': 'KS','Kentucky': 'KY','Louisiana': 'LA', 'Maine': 'ME','Maryland': 'MD','Massachusetts': 'MA','Michigan': 'MI','Minnesota': 'MN','Mississippi': 'MS','Missouri': 'MO', 'Montana': 'MT','Nebraska': 'NE','Nevada': 'NV','New Hampshire': 'NH','New Jersey': 'NJ','New Mexico': 'NM','New York': 'NY','North Carolina': 'NC', 'North Dakota': 'ND','Northern Mariana Islands':'MP','Ohio': 'OH','Oklahoma': 'OK','Oregon': 'OR','Pennsylvania': 'PA','Puerto Rico': 'PR', 'Rhode Island': 'RI','South Carolina': 'SC','South Dakota': 'SD','Tennessee': 'TN','Texas': 'TX','Utah': 'UT', 'Vermont': 'VT','Virgin Islands': 'VI','Virginia': 'VA','Washington': 'WA','West Virginia': 'WV','Wisconsin': 'WI','Wyoming': 'WY'}
@@ -101,14 +106,14 @@ for s in state_names:
     if(restart_states_co2):
         folder_refresh(path+'/CO2 Emissions')
 
-        df_emit = eia_state.return_state_EIA_data(1980, 2020, sa, eia_state.get_emit_tags(sa))
+        df_emit = eia_state.return_state_EIA_data(1980, eia_year, sa, eia_state.get_emit_tags(sa))
         df_emit.T.to_csv(path+'/CO2 Emissions/'+sa+' EIA CO2 Emissions Data.csv')
     
 
     if(restart_states_energyuse):
         folder_refresh(path+'/Energy Use')
 
-        df_use = eia_state.return_state_EIA_data(1980, 2020, sa, eia_state.get_use_tags(sa))
+        df_use = eia_state.return_state_EIA_data(1980, eia_year, sa, eia_state.get_use_tags(sa))
         df_use.T.to_csv(path+'/Energy Use/'+sa+' EIA Energy Consumption Data.csv')
 
     if(restart_states_economics):
@@ -123,7 +128,7 @@ for s in state_names:
     if(restart_states_natgas):
         folder_refresh(path+'/Natural Gas')
 
-        df_ng = eia_state.return_state_EIA_data(1970, 2020, sa, eia_state.get_ng_tags(sa))
+        df_ng = eia_state.return_state_EIA_data(1970, eia_year, sa, eia_state.get_ng_tags(sa))
         df_ng.T.to_csv(path+'/Natural Gas/'+sa+' EIA Natural Gas Data.csv')
 
     print('Finished loading ', s)
