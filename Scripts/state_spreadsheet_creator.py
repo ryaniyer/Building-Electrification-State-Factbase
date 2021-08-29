@@ -5,41 +5,47 @@ import eia_state
 import epa_nei
 import tessum
 import acs_housing
-import economic_data
-
+#import economic_data
 import pandas as pd
 import os
 import shutil
-
-#Update with most recent year for which EIA has data:
-eia_year = 2020
-
-#Set the restart variable you would like to alter to True:
-
-#Restarts the entire Spreadsheets/States folder
-restart_all_states = False
-#Restarts the folder of an individual state
-restart_state = False
-#Restarts the state-level air quality folder
-restart_states_air_quality = False
-#Restarts the state-level infrastructure folder
-restart_states_infrastructure = False
-#Restarts the state-level Energy Economics folder
-restart_states_economics = False
-#Restarts the state-level Natural Gas folder
-restart_states_natgas = False
-#Restarts the state-level CO2 Emissions folder
-restart_states_co2 = True
-#Restarts the state-level Energy Use Folder
-restart_states_energyuse = False
-#Restarts the state-level Equity Folder
-restart_states_equity = False
 
 #The states variable is set to work for the 48 continental states + DC
 states = ["AL", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 state_names = ["Alabama", "Arkansas", "Arizona", "California", "Colorado", "Connecticut", "Delaware", "District of Columbia","Florida", "Georgia", "Iowa", "Idaho", "Illinois", "Indiana", "Kansas", "Kentucky", "Louisiana", "Massachusetts", "Maryland", "Maine", "Michigan", "Minnesota", "Missouri", "Mississippi", "Montana", "North Carolina", "North Dakota", "Nebraska", "New Hampshire", "New Jersey", "New Mexico", "Nevada", "New York", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Virginia", "Vermont", "Washington", "Wisconsin", "West Virginia", "Wyoming"]
 us_state_abbrev = {'the United States':'US','Alabama': 'AL','Alaska': 'AK','American Samoa': 'AS','Arizona': 'AZ','Arkansas': 'AR','California': 'CA','Colorado': 'CO', 'Connecticut': 'CT','Delaware': 'DE','District of Columbia': 'DC', 'Florida': 'FL','Georgia': 'GA','Guam': 'GU','Hawaii': 'HI', 'Idaho': 'ID','Illinois': 'IL','Indiana': 'IN','Iowa': 'IA','Kansas': 'KS','Kentucky': 'KY','Louisiana': 'LA', 'Maine': 'ME','Maryland': 'MD','Massachusetts': 'MA','Michigan': 'MI','Minnesota': 'MN','Mississippi': 'MS','Missouri': 'MO', 'Montana': 'MT','Nebraska': 'NE','Nevada': 'NV','New Hampshire': 'NH','New Jersey': 'NJ','New Mexico': 'NM','New York': 'NY','North Carolina': 'NC', 'North Dakota': 'ND','Northern Mariana Islands':'MP','Ohio': 'OH','Oklahoma': 'OK','Oregon': 'OR','Pennsylvania': 'PA','Puerto Rico': 'PR', 'Rhode Island': 'RI','South Carolina': 'SC','South Dakota': 'SD','Tennessee': 'TN','Texas': 'TX','Utah': 'UT', 'Vermont': 'VT','Virgin Islands': 'VI','Virginia': 'VA','Washington': 'WA','West Virginia': 'WV','Wisconsin': 'WI','Wyoming': 'WY'}
 abbrev_us_state = dict(map(reversed, us_state_abbrev.items()))
+
+#Update with most recent year for which EIA has data:
+eia_year = 2020
+
+#Set the following variables tor true for desired restart:
+#   Restarts the entire Spreadsheets/States folder
+restart_all_states = False
+#   Restarts the state-level air quality folder
+restart_states_air_quality = True
+#   Restarts the state-level infrastructure folder
+restart_states_infrastructure = False
+#   Restarts the state-level Energy Economics folder
+restart_states_economics = False
+#   Restarts the state-level Natural Gas folder
+restart_states_natgas = False
+#   Restarts the state-level CO2 Emissions folder
+restart_states_co2 = False
+#Restarts the state-level Energy Use Folder
+restart_states_energyuse = False
+#   Restarts the state-level Equity Folder
+restart_states_equity = False
+#List of all "restarter" variables
+restart_variables = [restart_all_states, restart_states_air_quality, restart_states_infrastructure, restart_states_economics,
+                    restart_states_natgas, restart_states_co2, restart_states_energyuse, restart_states_equity]
+
+#Set rerun_all_state_folders to True to completely re-run State-Factbook
+rerun_all_state_folders = False
+if(rerun_all_state_folders):
+    for i in restart_variables:
+        i = True
+
 
 #Deletes a folder given the pathname and replaces it with an empty one
 def folder_refresh(pathname):
@@ -55,15 +61,17 @@ print('Start-Up Complete. Time Elapsed',round(time.time()-start_time,2), 'second
 #Restart the entire State Factbase spreadsheets folder
 if(restart_all_states):
     folder_refresh('../State Factbase/Spreadsheets/State-Level Data')
+    #Recreate each state-level folder
+    for s in state_names:
+        sa = us_state_abbrev[s]
+        path = '../State Factbase/Spreadsheets/State-Level Data/'+str(s)
+        folder_refresh(path)
 
 #State-Level Folder Creation:
 for s in state_names:
     sa = us_state_abbrev[s]
     path = '../State Factbase/Spreadsheets/State-Level Data/'+str(s)
 
-    if(restart_state):
-        folder_refresh(path)
-    
     if(restart_states_air_quality):
         #Make Air Quality Folder:
         folder_refresh(path+'/Air Quality/')
@@ -76,7 +84,7 @@ for s in state_names:
         #Tessum Data Export:
         df_state, df_cities = tessum.get_state_tessum(sa)
         df_state.to_csv(path+'/Air Quality/'+s+' Statewide PM25 Racial Disparities.csv')
-        df_state.to_csv(path+'/Air Quality/'+s+' City-Level PM25 Racial Disparities.csv')
+        df_cities.to_csv(path+'/Air Quality/'+s+' City-Level PM25 Racial Disparities.csv')
 
     if(restart_states_infrastructure):
         folder_refresh(path+'/Buildings Infrastructure')
@@ -107,14 +115,14 @@ for s in state_names:
         folder_refresh(path+'/CO2 Emissions')
 
         df_emit = eia_state.return_state_EIA_data(1980, eia_year, sa, eia_state.get_emit_tags(sa))
-        df_emit.T.to_csv(path+'/CO2 Emissions/'+sa+' EIA CO2 Emissions Data.csv')
+        df_emit.T.to_csv(path+'/CO2 Emissions/'+abbrev_us_state[sa]+' EIA CO2 Emissions Data.csv')
     
 
     if(restart_states_energyuse):
         folder_refresh(path+'/Energy Use')
 
         df_use = eia_state.return_state_EIA_data(1980, eia_year, sa, eia_state.get_use_tags(sa))
-        df_use.T.to_csv(path+'/Energy Use/'+sa+' EIA Energy Consumption Data.csv')
+        df_use.T.to_csv(path+'/Energy Use/'+abbrev_us_state[sa]+' EIA Energy Consumption Data.csv')
 
     if(restart_states_economics):
         folder_refresh(path+'/Energy Economics')
