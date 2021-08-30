@@ -76,11 +76,9 @@ for s in state_names:
         #Make Air Quality Folder:
         folder_refresh(path+'/Air Quality/')
         #EPA NEI Data Export:
-        df_sector, df_type, df = epa_nei.get_EPA_NEI_AllSectors_dfs(sa)
-        with pd.ExcelWriter(path+'/Air Quality/'+s+' EPA Emissions Data.xlsx') as writer:  
-            df_sector.to_excel(writer, sheet_name='By Sector')
-            df_type.to_excel(writer, sheet_name='By Pollutant')
-            df.to_excel(writer, sheet_name='By County')
+        epa_nei.get_county_emissions(sa).to_csv(path+'/Air Quality/'+s+' EPA NEI County-Level Emissions.csv')
+        epa_nei.get_state_emissions(sa).to_csv(path+'/Air Quality/'+s+' EPA NEI State-Level Emissions.csv')
+        
         #Tessum Data Export:
         df_state, df_cities = tessum.get_state_tessum(sa)
         df_state.to_csv(path+'/Air Quality/'+s+' Statewide PM25 Racial Disparities.csv')
