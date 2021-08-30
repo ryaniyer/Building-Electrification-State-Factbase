@@ -1,5 +1,7 @@
 #API Key Variables: #
-Scripts/global_variables.py
 .DS_Store
 .history
 venv
+Scripts/private_keys.py
+*.pyc
+tests.py

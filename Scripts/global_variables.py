@@ -1,9 +1,12 @@
+import private_keys
 
 global eia_api_key 
-eia_api_key = 'c539dd02b98ef2d57482dfe39f7d6980'
+#Insert your private EIA key here (https://www.eia.gov/opendata/register.php):
+eia_api_key = private_keys.eia_key
 
 global fred_api_key
-fred_api_key = 'd00618cf19b6ee0f138dbd06ad3b89da'
+#Insert your private FRED key here (https://research.stlouisfed.org/useraccount/login/secure/):
+fred_api_key = private_keys.fred_key
 
 global states
 states = ["AL", "AR", "AZ","CA", "CO", "CT", "DC", "DE", "FL", "GA", "ID", "IL", "IN", "IA", "KS", "KY", "LA", 

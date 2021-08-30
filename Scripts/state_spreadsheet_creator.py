@@ -115,6 +115,8 @@ for s in state_names:
         df_emit = eia_state.return_state_EIA_data(1980, eia_year, sa, eia_state.get_emit_tags(sa))
         df_emit.T.to_csv(path+'/CO2 Emissions/'+abbrev_us_state[sa]+' EIA CO2 Emissions Data.csv')
     
+    if(restart_states_equity):
+        folder_refresh(path+'/Equity')
 
     if(restart_states_energyuse):
         folder_refresh(path+'/Energy Use')
