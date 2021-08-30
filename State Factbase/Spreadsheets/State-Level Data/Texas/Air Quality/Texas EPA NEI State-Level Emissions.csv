@@ -1,0 +1,316 @@
+,State,Sector,Pollutant,Pollutant Type,Total Emissions,Emissions Unit of Measure
+0,TX,All Sectors,Ammonia,CAP,7903.560512595622,TON
+1,TX,All Sectors,Carbon Monoxide,CAP,160966.24153510583,TON
+2,TX,All Sectors,Nitrogen Oxides,CAP,51032.81093761032,TON
+3,TX,All Sectors,PM10 Primary (Filt + Cond),CAP,37296.55942407801,TON
+4,TX,All Sectors,PM2.5 Primary (Filt + Cond),CAP,11647.862448156347,TON
+5,TX,All Sectors,Sulfur Dioxide,CAP,1407.2206937212836,TON
+6,TX,All Sectors,Volatile Organic Compounds,CAP,95778.74702785673,TON
+7,TX,All Sectors,Carbon Dioxide,GHG,32975307.431074757,TON
+8,TX,All Sectors,Methane,GHG,23412.491491322082,TON
+9,TX,All Sectors,Nitrous Oxide,GHG,460.8823206820271,TON
+10,TX,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,12335.827751784,TON
+11,TX,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,3329.8946309004,TON
+12,TX,Agriculture - Fertilizer Application,Ammonia,CAP,881.4000000000001,TON
+13,TX,Agriculture - Livestock Waste,Ammonia,CAP,4785.852547203,TON
+14,TX,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,596.7139384768999,TON
+15,TX,Biogenics - Vegetation and Soil,Carbon Monoxide,CAP,21692.694,TON
+16,TX,Biogenics - Vegetation and Soil,Nitrogen Oxides,CAP,2940.2176,TON
+17,TX,Biogenics - Vegetation and Soil,Volatile Organic Compounds,CAP,54730.837,TON
+18,TX,Bulk Gasoline Terminals,Sulfur Dioxide,CAP,0.0636,TON
+19,TX,Bulk Gasoline Terminals,Volatile Organic Compounds,CAP,54.1243,TON
+20,TX,Commercial Cooking,Ammonia,CAP,0.0,TON
+21,TX,Commercial Cooking,Carbon Monoxide,CAP,243.38000000000002,TON
+22,TX,Commercial Cooking,Nitrogen Oxides,CAP,0.0,TON
+23,TX,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,47.03,TON
+24,TX,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,10.89,TON
+25,TX,Commercial Cooking,Sulfur Dioxide,CAP,0.0,TON
+26,TX,Commercial Cooking,Volatile Organic Compounds,CAP,21.07,TON
+27,TX,Dust - Construction Dust,Ammonia,CAP,0.0,TON
+28,TX,Dust - Construction Dust,Carbon Monoxide,CAP,0.0,TON
+29,TX,Dust - Construction Dust,Nitrogen Oxides,CAP,0.0,TON
+30,TX,Dust - Construction Dust,PM10 Primary (Filt + Cond),CAP,196.55476574,TON
+31,TX,Dust - Construction Dust,PM2.5 Primary (Filt + Cond),CAP,32.314678481,TON
+32,TX,Dust - Construction Dust,Sulfur Dioxide,CAP,0.0,TON
+33,TX,Dust - Construction Dust,Volatile Organic Compounds,CAP,0.0,TON
+34,TX,Dust - Paved Road Dust,PM10 Primary (Filt + Cond),CAP,3251.7790299999997,TON
+35,TX,Dust - Paved Road Dust,PM2.5 Primary (Filt + Cond),CAP,848.0077510000001,TON
+36,TX,Dust - Unpaved Road Dust,PM10 Primary (Filt + Cond),CAP,16142.206999999999,TON
+37,TX,Dust - Unpaved Road Dust,PM2.5 Primary (Filt + Cond),CAP,3620.0719499999996,TON
+38,TX,Fires - Agricultural Field Burning,Ammonia,CAP,90.429,TON
+39,TX,Fires - Agricultural Field Burning,Carbon Monoxide,CAP,714.38,TON
+40,TX,Fires - Agricultural Field Burning,Nitrogen Oxides,CAP,63.30999999999999,TON
+41,TX,Fires - Agricultural Field Burning,PM10 Primary (Filt + Cond),CAP,91.880238,TON
+42,TX,Fires - Agricultural Field Burning,PM2.5 Primary (Filt + Cond),CAP,75.292,TON
+43,TX,Fires - Agricultural Field Burning,Sulfur Dioxide,CAP,1.2865,TON
+44,TX,Fires - Agricultural Field Burning,Volatile Organic Compounds,CAP,65.52,TON
+45,TX,Fires - Prescribed Fires,Ammonia,CAP,397.727168,TON
+46,TX,Fires - Prescribed Fires,Carbon Monoxide,CAP,14835.473733,TON
+47,TX,Fires - Prescribed Fires,Nitrogen Oxides,CAP,488.87315340000004,TON
+48,TX,Fires - Prescribed Fires,PM10 Primary (Filt + Cond),CAP,898.478391,TON
+49,TX,Fires - Prescribed Fires,PM2.5 Primary (Filt + Cond),CAP,291.635007,TON
+50,TX,Fires - Prescribed Fires,Sulfur Dioxide,CAP,57.731647,TON
+51,TX,Fires - Prescribed Fires,Volatile Organic Compounds,CAP,4482.837922000001,TON
+52,TX,Fires - Prescribed Fires,Carbon Dioxide,GHG,144946.502109,TON
+53,TX,Fires - Prescribed Fires,Methane,GHG,785.671728,TON
+54,TX,Fires - Wildfires,Ammonia,CAP,55.009119,TON
+55,TX,Fires - Wildfires,Carbon Monoxide,CAP,81572.27727499999,TON
+56,TX,Fires - Wildfires,Nitrogen Oxides,CAP,76.816189,TON
+57,TX,Fires - Wildfires,PM10 Primary (Filt + Cond),CAP,530.821405,TON
+58,TX,Fires - Wildfires,PM2.5 Primary (Filt + Cond),CAP,1711.869232,TON
+59,TX,Fires - Wildfires,Sulfur Dioxide,CAP,7.352272000000001,TON
+60,TX,Fires - Wildfires,Volatile Organic Compounds,CAP,163.05114700000001,TON
+61,TX,Fires - Wildfires,Carbon Dioxide,GHG,65235.466313,TON
+62,TX,Fires - Wildfires,Methane,GHG,807.0240909999999,TON
+63,TX,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.0,TON
+64,TX,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.0,TON
+65,TX,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,0.0,TON
+66,TX,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,0.0,TON
+67,TX,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,220.5475,TON
+68,TX,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.0,TON
+69,TX,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.0,TON
+70,TX,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,2.999,TON
+71,TX,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,20.309999999999995,TON
+72,TX,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,13.0742,TON
+73,TX,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.03,TON
+74,TX,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.3234,TON
+75,TX,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,14.1606,TON
+76,TX,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,5.035299999999999,TON
+77,TX,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.0036181469699999,TON
+78,TX,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,14.7235827943,TON
+79,TX,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,18.3524349313,TON
+80,TX,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,1.35126670205,TON
+81,TX,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,3.6286433284499995,TON
+82,TX,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.3387133210999998,TON
+83,TX,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,2.0425368810799998,TON
+84,TX,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.0245957900299999,TON
+85,TX,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,2.9030663899999998,TON
+86,TX,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,6.286792949999999,TON
+87,TX,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.0133091868299999,TON
+88,TX,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.0147942606199999,TON
+89,TX,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.025482600799999998,TON
+90,TX,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.564104461,TON
+91,TX,Fuel Comb - Electric Generation - Coal,Carbon Monoxide,CAP,3090.1096,TON
+92,TX,Fuel Comb - Electric Generation - Coal,Sulfur Dioxide,CAP,0.0077,TON
+93,TX,Fuel Comb - Electric Generation - Coal,Volatile Organic Compounds,CAP,111.401,TON
+94,TX,Fuel Comb - Electric Generation - Natural Gas,Ammonia,CAP,44.096486850000005,TON
+95,TX,Fuel Comb - Electric Generation - Natural Gas,Carbon Monoxide,CAP,523.5928,TON
+96,TX,Fuel Comb - Electric Generation - Natural Gas,Nitrogen Oxides,CAP,331.2396,TON
+97,TX,Fuel Comb - Electric Generation - Natural Gas,Volatile Organic Compounds,CAP,97.4063,TON
+98,TX,Fuel Comb - Electric Generation - Oil,Ammonia,CAP,0.001,TON
+99,TX,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,7.128799999999999,TON
+100,TX,Fuel Comb - Electric Generation - Oil,Nitrogen Oxides,CAP,1.0257,TON
+101,TX,Fuel Comb - Electric Generation - Oil,PM10 Primary (Filt + Cond),CAP,0.36960000000000004,TON
+102,TX,Fuel Comb - Electric Generation - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0069999999999999,TON
+103,TX,Fuel Comb - Electric Generation - Oil,Sulfur Dioxide,CAP,0.0115,TON
+104,TX,Fuel Comb - Electric Generation - Oil,Volatile Organic Compounds,CAP,0.9682,TON
+105,TX,Fuel Comb - Electric Generation - Other,PM2.5 Primary (Filt + Cond),CAP,22.0836,TON
+106,TX,Fuel Comb - Electric Generation - Other,Sulfur Dioxide,CAP,0.2296,TON
+107,TX,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.0,TON
+108,TX,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Carbon Monoxide,CAP,500.1164,TON
+109,TX,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Nitrogen Oxides,CAP,0.0,TON
+110,TX,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM10 Primary (Filt + Cond),CAP,0.0,TON
+111,TX,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+112,TX,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Sulfur Dioxide,CAP,0.0,TON
+113,TX,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Volatile Organic Compounds,CAP,0.0,TON
+114,TX,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Carbon Monoxide,CAP,2385.7110000000002,TON
+115,TX,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,1272.8935,TON
+116,TX,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",PM10 Primary (Filt + Cond),CAP,99.9926,TON
+117,TX,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",PM2.5 Primary (Filt + Cond),CAP,59.7558,TON
+118,TX,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Sulfur Dioxide,CAP,3.2596,TON
+119,TX,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Volatile Organic Compounds,CAP,359.83959999999996,TON
+120,TX,"Fuel Comb - Industrial Boilers, ICEs - Oil",Ammonia,CAP,0.078991020173,TON
+121,TX,"Fuel Comb - Industrial Boilers, ICEs - Oil",Carbon Monoxide,CAP,3.3311350974400002,TON
+122,TX,"Fuel Comb - Industrial Boilers, ICEs - Oil",Nitrogen Oxides,CAP,111.32823020049999,TON
+123,TX,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,3.918102084,TON
+124,TX,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM2.5 Primary (Filt + Cond),CAP,89.44638441481199,TON
+125,TX,"Fuel Comb - Industrial Boilers, ICEs - Oil",Sulfur Dioxide,CAP,128.03507033900001,TON
+126,TX,"Fuel Comb - Industrial Boilers, ICEs - Oil",Volatile Organic Compounds,CAP,2.640658024075,TON
+127,TX,"Fuel Comb - Industrial Boilers, ICEs - Other",Ammonia,CAP,0.6729031964999999,TON
+128,TX,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,22.915575389000004,TON
+129,TX,"Fuel Comb - Industrial Boilers, ICEs - Other",Nitrogen Oxides,CAP,646.7561175400001,TON
+130,TX,"Fuel Comb - Industrial Boilers, ICEs - Other",PM10 Primary (Filt + Cond),CAP,0.3218612143999998,TON
+131,TX,"Fuel Comb - Industrial Boilers, ICEs - Other",PM2.5 Primary (Filt + Cond),CAP,8.343601639109998,TON
+132,TX,"Fuel Comb - Industrial Boilers, ICEs - Other",Sulfur Dioxide,CAP,0.1480077457999996,TON
+133,TX,"Fuel Comb - Industrial Boilers, ICEs - Other",Volatile Organic Compounds,CAP,127.1200267133,TON
+134,TX,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,13.43,TON
+135,TX,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,39.72,TON
+136,TX,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,15.959999999999999,TON
+137,TX,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,11.599999999999998,TON
+138,TX,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.9,TON
+139,TX,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.67,TON
+140,TX,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,8.839999999999998,TON
+141,TX,Fuel Comb - Residential - Oil,Ammonia,CAP,0.0,TON
+142,TX,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,0.0,TON
+143,TX,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,0.07,TON
+144,TX,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.0,TON
+145,TX,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+146,TX,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.06,TON
+147,TX,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,0.0,TON
+148,TX,Fuel Comb - Residential - Other,Ammonia,CAP,0.1,TON
+149,TX,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,21.25,TON
+150,TX,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,57.5,TON
+151,TX,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.30000000000000004,TON
+152,TX,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.09,TON
+153,TX,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.14,TON
+154,TX,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.04,TON
+155,TX,Fuel Comb - Residential - Wood,Ammonia,CAP,3.73145005939,TON
+156,TX,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,442.8211917644,TON
+157,TX,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,11.200061299099998,TON
+158,TX,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,55.169550041799994,TON
+159,TX,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,4.3066003376,TON
+160,TX,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,1.6292649368699998,TON
+161,TX,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,48.708985396870006,TON
+162,TX,Gas Stations,Volatile Organic Compounds,CAP,1586.0777183900002,TON
+163,TX,Industrial Processes - Cement Manuf,Ammonia,CAP,21.1313,TON
+164,TX,Industrial Processes - Cement Manuf,Carbon Monoxide,CAP,3086.2732,TON
+165,TX,Industrial Processes - Cement Manuf,Nitrogen Oxides,CAP,2649.226,TON
+166,TX,Industrial Processes - Cement Manuf,PM2.5 Primary (Filt + Cond),CAP,143.5928,TON
+167,TX,Industrial Processes - Chemical Manuf,Ammonia,CAP,46.9244,TON
+168,TX,Industrial Processes - Chemical Manuf,Nitrogen Oxides,CAP,120.97970000000001,TON
+169,TX,Industrial Processes - Chemical Manuf,PM2.5 Primary (Filt + Cond),CAP,0.56,TON
+170,TX,Industrial Processes - Chemical Manuf,Volatile Organic Compounds,CAP,29.0522,TON
+171,TX,Industrial Processes - Ferrous Metals,Carbon Monoxide,CAP,69.6272,TON
+172,TX,Industrial Processes - Ferrous Metals,Nitrogen Oxides,CAP,281.8677,TON
+173,TX,Industrial Processes - Ferrous Metals,PM10 Primary (Filt + Cond),CAP,5.3362,TON
+174,TX,Industrial Processes - Mining,PM10 Primary (Filt + Cond),CAP,1934.0057000000002,TON
+175,TX,Industrial Processes - Mining,PM2.5 Primary (Filt + Cond),CAP,34.35,TON
+176,TX,Industrial Processes - NEC,Carbon Monoxide,CAP,14.45,TON
+177,TX,Industrial Processes - NEC,Nitrogen Oxides,CAP,32.4701,TON
+178,TX,Industrial Processes - NEC,PM10 Primary (Filt + Cond),CAP,5.591400000000001,TON
+179,TX,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,31.25822192284,TON
+180,TX,Industrial Processes - NEC,Sulfur Dioxide,CAP,110.5743,TON
+181,TX,Industrial Processes - NEC,Volatile Organic Compounds,CAP,51.656000000000006,TON
+182,TX,Industrial Processes - NEC,Carbon Dioxide,GHG,29832220.7691442,TON
+183,TX,Industrial Processes - NEC,Methane,GHG,21199.776022265,TON
+184,TX,Industrial Processes - NEC,Nitrous Oxide,GHG,400.90848792699995,TON
+185,TX,Industrial Processes - Non-ferrous Metals,Ammonia,CAP,0.0031,TON
+186,TX,Industrial Processes - Non-ferrous Metals,Carbon Monoxide,CAP,1.1984,TON
+187,TX,Industrial Processes - Non-ferrous Metals,Sulfur Dioxide,CAP,0.0873,TON
+188,TX,Industrial Processes - Oil & Gas Production,Ammonia,CAP,0.0,TON
+189,TX,Industrial Processes - Oil & Gas Production,Carbon Monoxide,CAP,2738.6281,TON
+190,TX,Industrial Processes - Oil & Gas Production,Nitrogen Oxides,CAP,24995.4548,TON
+191,TX,Industrial Processes - Oil & Gas Production,PM10 Primary (Filt + Cond),CAP,271.49109999999996,TON
+192,TX,Industrial Processes - Oil & Gas Production,PM2.5 Primary (Filt + Cond),CAP,12.012799999999999,TON
+193,TX,Industrial Processes - Oil & Gas Production,Sulfur Dioxide,CAP,213.56629999999998,TON
+194,TX,Industrial Processes - Oil & Gas Production,Volatile Organic Compounds,CAP,19349.825299999997,TON
+195,TX,Industrial Processes - Petroleum Refineries,Ammonia,CAP,41.644,TON
+196,TX,Industrial Processes - Petroleum Refineries,Carbon Monoxide,CAP,122.826,TON
+197,TX,Industrial Processes - Petroleum Refineries,Nitrogen Oxides,CAP,2886.2862999999998,TON
+198,TX,Industrial Processes - Petroleum Refineries,PM10 Primary (Filt + Cond),CAP,26.94,TON
+199,TX,Industrial Processes - Petroleum Refineries,PM2.5 Primary (Filt + Cond),CAP,44.610800000000005,TON
+200,TX,Industrial Processes - Petroleum Refineries,Sulfur Dioxide,CAP,775.9348,TON
+201,TX,Industrial Processes - Petroleum Refineries,Volatile Organic Compounds,CAP,19.6295,TON
+202,TX,Industrial Processes - Pulp & Paper,Carbon Monoxide,CAP,196.0869,TON
+203,TX,Industrial Processes - Storage and Transfer,Carbon Monoxide,CAP,5.8603000000000005,TON
+204,TX,Industrial Processes - Storage and Transfer,Nitrogen Oxides,CAP,0.0213,TON
+205,TX,Industrial Processes - Storage and Transfer,PM10 Primary (Filt + Cond),CAP,170.75130000000004,TON
+206,TX,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,840.22248964,TON
+207,TX,Miscellaneous Non-Industrial NEC,Ammonia,CAP,0.0,TON
+208,TX,Miscellaneous Non-Industrial NEC,Carbon Monoxide,CAP,117.91635634952951,TON
+209,TX,Miscellaneous Non-Industrial NEC,Nitrogen Oxides,CAP,15.1737196632035,TON
+210,TX,Miscellaneous Non-Industrial NEC,PM10 Primary (Filt + Cond),CAP,34.72244719654191,TON
+211,TX,Miscellaneous Non-Industrial NEC,PM2.5 Primary (Filt + Cond),CAP,20.678590183702,TON
+212,TX,Miscellaneous Non-Industrial NEC,Sulfur Dioxide,CAP,0.5825131892700997,TON
+213,TX,Miscellaneous Non-Industrial NEC,Volatile Organic Compounds,CAP,26.97829077107538,TON
+214,TX,Mobile - Aircraft,Carbon Monoxide,CAP,1833.035428733,TON
+215,TX,Mobile - Aircraft,Nitrogen Oxides,CAP,2.6410497810199995,TON
+216,TX,Mobile - Aircraft,PM10 Primary (Filt + Cond),CAP,33.974368196490005,TON
+217,TX,Mobile - Aircraft,PM2.5 Primary (Filt + Cond),CAP,6.6400661882300005,TON
+218,TX,Mobile - Aircraft,Sulfur Dioxide,CAP,47.351782223248,TON
+219,TX,Mobile - Aircraft,Volatile Organic Compounds,CAP,58.947037944970006,TON
+220,TX,Mobile - Aircraft,Carbon Dioxide,GHG,20200.5425009,TON
+221,TX,Mobile - Commercial Marine Vessels,Ammonia,CAP,2.00121796294,TON
+222,TX,Mobile - Commercial Marine Vessels,Nitrogen Oxides,CAP,0.49740923,TON
+223,TX,Mobile - Commercial Marine Vessels,PM10 Primary (Filt + Cond),CAP,34.02131646,TON
+224,TX,Mobile - Commercial Marine Vessels,PM2.5 Primary (Filt + Cond),CAP,31.681335729999997,TON
+225,TX,Mobile - Commercial Marine Vessels,Volatile Organic Compounds,CAP,104.22352063,TON
+226,TX,Mobile - Locomotives,Ammonia,CAP,0.9464416197299997,TON
+227,TX,Mobile - Locomotives,Carbon Monoxide,CAP,654.57297926,TON
+228,TX,Mobile - Locomotives,Nitrogen Oxides,CAP,647.4326187999999,TON
+229,TX,Mobile - Locomotives,PM10 Primary (Filt + Cond),CAP,57.331938003000005,TON
+230,TX,Mobile - Locomotives,PM2.5 Primary (Filt + Cond),CAP,32.826720185999996,TON
+231,TX,Mobile - Locomotives,Sulfur Dioxide,CAP,0.6938161803999998,TON
+232,TX,Mobile - Locomotives,Volatile Organic Compounds,CAP,46.709258778999995,TON
+233,TX,Mobile - Non-Road Equipment - Diesel,Ammonia,CAP,2.7316746225,TON
+234,TX,Mobile - Non-Road Equipment - Diesel,Carbon Monoxide,CAP,660.97619852174,TON
+235,TX,Mobile - Non-Road Equipment - Diesel,Nitrogen Oxides,CAP,1921.59230492,TON
+236,TX,Mobile - Non-Road Equipment - Diesel,PM10 Primary (Filt + Cond),CAP,187.15469544060002,TON
+237,TX,Mobile - Non-Road Equipment - Diesel,PM2.5 Primary (Filt + Cond),CAP,194.38932092062,TON
+238,TX,Mobile - Non-Road Equipment - Diesel,Sulfur Dioxide,CAP,3.3426751053078996,TON
+239,TX,Mobile - Non-Road Equipment - Diesel,Volatile Organic Compounds,CAP,135.5962894711,TON
+240,TX,Mobile - Non-Road Equipment - Diesel,Carbon Dioxide,GHG,870998.840831,TON
+241,TX,Mobile - Non-Road Equipment - Diesel,Methane,GHG,5.2306882256,TON
+242,TX,Mobile - Non-Road Equipment - Gasoline,Ammonia,CAP,1.111418315554,TON
+243,TX,Mobile - Non-Road Equipment - Gasoline,Carbon Monoxide,CAP,3565.036230382,TON
+244,TX,Mobile - Non-Road Equipment - Gasoline,Nitrogen Oxides,CAP,129.54310332116702,TON
+245,TX,Mobile - Non-Road Equipment - Gasoline,PM10 Primary (Filt + Cond),CAP,106.07844544827101,TON
+246,TX,Mobile - Non-Road Equipment - Gasoline,PM2.5 Primary (Filt + Cond),CAP,45.669793913294,TON
+247,TX,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,1.0936380440833997,TON
+248,TX,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,3719.8318048170004,TON
+249,TX,Mobile - Non-Road Equipment - Gasoline,Carbon Dioxide,GHG,21705.150227661004,TON
+250,TX,Mobile - Non-Road Equipment - Gasoline,Methane,GHG,94.36128026588,TON
+251,TX,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,219.4177068544,TON
+252,TX,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,111.577317834,TON
+253,TX,Mobile - Non-Road Equipment - Other,PM10 Primary (Filt + Cond),CAP,35.99142199624001,TON
+254,TX,Mobile - Non-Road Equipment - Other,PM2.5 Primary (Filt + Cond),CAP,0.7270693731,TON
+255,TX,Mobile - Non-Road Equipment - Other,Sulfur Dioxide,CAP,4.922478011344,TON
+256,TX,Mobile - Non-Road Equipment - Other,Volatile Organic Compounds,CAP,58.15699573039999,TON
+257,TX,Mobile - Non-Road Equipment - Other,Carbon Dioxide,GHG,48396.880822,TON
+258,TX,Mobile - Non-Road Equipment - Other,Methane,GHG,2.1559534126999997,TON
+259,TX,Mobile - On-Road Diesel Heavy Duty Vehicles,Ammonia,CAP,29.513552263199998,TON
+260,TX,Mobile - On-Road Diesel Heavy Duty Vehicles,Carbon Monoxide,CAP,701.52077166,TON
+261,TX,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,5580.2001292700015,TON
+262,TX,Mobile - On-Road Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,183.44010486800002,TON
+263,TX,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,130.8802870353,TON
+264,TX,Mobile - On-Road Diesel Heavy Duty Vehicles,Sulfur Dioxide,CAP,11.62223716118,TON
+265,TX,Mobile - On-Road Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,1655.8846395140001,TON
+266,TX,Mobile - On-Road Diesel Heavy Duty Vehicles,Carbon Dioxide,GHG,826201.404472,TON
+267,TX,Mobile - On-Road Diesel Heavy Duty Vehicles,Methane,GHG,384.3382331595,TON
+268,TX,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrous Oxide,GHG,1.6882766243059997,TON
+269,TX,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,1.5293611445999997,TON
+270,TX,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,1100.1293915,TON
+271,TX,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,356.21343641,TON
+272,TX,Mobile - On-Road Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,19.270302866199998,TON
+273,TX,Mobile - On-Road Diesel Light Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,12.48300682477,TON
+274,TX,Mobile - On-Road Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,1.1334816597000001,TON
+275,TX,Mobile - On-Road Diesel Light Duty Vehicles,Volatile Organic Compounds,CAP,111.64309104,TON
+276,TX,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Dioxide,GHG,30029.712509999998,TON
+277,TX,Mobile - On-Road Diesel Light Duty Vehicles,Methane,GHG,4.2170219491,TON
+278,TX,Mobile - On-Road Diesel Light Duty Vehicles,Nitrous Oxide,GHG,0.45035447097109993,TON
+279,TX,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Ammonia,CAP,1.7733246279339996,TON
+280,TX,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Carbon Monoxide,CAP,1422.99385991,TON
+281,TX,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,124.65236833,TON
+282,TX,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,24.123727832699995,TON
+283,TX,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,0.882500498,TON
+284,TX,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Sulfur Dioxide,CAP,0.5046314063609999,TON
+285,TX,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,24.384568296,TON
+286,TX,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Carbon Dioxide,GHG,35427.26478,TON
+287,TX,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Methane,GHG,0.8939625779999998,TON
+288,TX,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Nitrous Oxide,GHG,4.47447599085,TON
+289,TX,Mobile - On-Road non-Diesel Light Duty Vehicles,Ammonia,CAP,1451.7090327731003,TON
+290,TX,Mobile - On-Road non-Diesel Light Duty Vehicles,Carbon Monoxide,CAP,14927.133122500001,TON
+291,TX,Mobile - On-Road non-Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,4768.703942419999,TON
+292,TX,Mobile - On-Road non-Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,112.0062026169,TON
+293,TX,Mobile - On-Road non-Diesel Light Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,255.39512529729998,TON
+294,TX,Mobile - On-Road non-Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,10.76839219682,TON
+295,TX,Mobile - On-Road non-Diesel Light Duty Vehicles,Volatile Organic Compounds,CAP,330.06291285000003,TON
+296,TX,Mobile - On-Road non-Diesel Light Duty Vehicles,Carbon Dioxide,GHG,1079944.8973649999,TON
+297,TX,Mobile - On-Road non-Diesel Light Duty Vehicles,Methane,GHG,128.8225104663,TON
+298,TX,Mobile - On-Road non-Diesel Light Duty Vehicles,Nitrous Oxide,GHG,53.360725668899995,TON
+299,TX,Solvent - Consumer & Commercial Solvent Use,Volatile Organic Compounds,CAP,5274.943693800001,TON
+300,TX,Solvent - Degreasing,Volatile Organic Compounds,CAP,206.46200000000005,TON
+301,TX,Solvent - Dry Cleaning,Volatile Organic Compounds,CAP,57.5557,TON
+302,TX,Solvent - Graphic Arts,Volatile Organic Compounds,CAP,2.3863,TON
+303,TX,Solvent - Industrial Surface Coating & Solvent Use,Carbon Monoxide,CAP,10.6069,TON
+304,TX,Solvent - Industrial Surface Coating & Solvent Use,PM10 Primary (Filt + Cond),CAP,1.6962000000000002,TON
+305,TX,Solvent - Industrial Surface Coating & Solvent Use,PM2.5 Primary (Filt + Cond),CAP,1.0074688212,TON
+306,TX,Solvent - Industrial Surface Coating & Solvent Use,Volatile Organic Compounds,CAP,276.922,TON
+307,TX,Solvent - Non-Industrial Surface Coating,Volatile Organic Compounds,CAP,899.1599649999999,TON
+308,TX,Waste Disposal,Ammonia,CAP,26.985809999999997,TON
+309,TX,Waste Disposal,Carbon Monoxide,CAP,3385.1143300000003,TON
+310,TX,Waste Disposal,Nitrogen Oxides,CAP,353.37405831,TON
+311,TX,Waste Disposal,PM10 Primary (Filt + Cond),CAP,384.9876824,TON
+312,TX,Waste Disposal,PM2.5 Primary (Filt + Cond),CAP,318.7939679,TON
+313,TX,Waste Disposal,Sulfur Dioxide,CAP,9.8927906,TON
+314,TX,Waste Disposal,Volatile Organic Compounds,CAP,30.67473223,TON

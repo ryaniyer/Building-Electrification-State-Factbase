@@ -1,0 +1,127 @@
+,State,County,Sector,Pollutant,Pollutant Type,Total Emissions,Emissions Unit of Measure
+0,DE,Kent,All Sectors,Ammonia,CAP,1.2665197823029999,TON
+1,DE,Kent,All Sectors,Carbon Monoxide,CAP,453.62871546800005,TON
+2,DE,Kent,All Sectors,Nitrogen Oxides,CAP,6.629386,TON
+3,DE,Kent,All Sectors,PM10 Primary (Filt + Cond),CAP,1585.22137226,TON
+4,DE,Kent,All Sectors,PM2.5 Primary (Filt + Cond),CAP,386.02001663639993,TON
+5,DE,Kent,All Sectors,Sulfur Dioxide,CAP,1.8106916000000002,TON
+6,DE,Kent,All Sectors,Volatile Organic Compounds,CAP,371.81788217999997,TON
+7,DE,Kent,All Sectors,Carbon Dioxide,GHG,919.92,TON
+8,DE,Kent,All Sectors,Methane,GHG,160.06451937682,TON
+9,DE,Kent,All Sectors,Nitrous Oxide,GHG,0.000951625,TON
+10,DE,New Castle,All Sectors,Ammonia,CAP,1.2665197823029999,TON
+11,DE,New Castle,All Sectors,Carbon Monoxide,CAP,453.62871546800005,TON
+12,DE,New Castle,All Sectors,Nitrogen Oxides,CAP,6.629386,TON
+13,DE,New Castle,All Sectors,PM10 Primary (Filt + Cond),CAP,1585.22137226,TON
+14,DE,New Castle,All Sectors,PM2.5 Primary (Filt + Cond),CAP,386.02001663639993,TON
+15,DE,New Castle,All Sectors,Sulfur Dioxide,CAP,1.8106916000000002,TON
+16,DE,New Castle,All Sectors,Volatile Organic Compounds,CAP,371.81788217999997,TON
+17,DE,New Castle,All Sectors,Carbon Dioxide,GHG,919.92,TON
+18,DE,New Castle,All Sectors,Methane,GHG,160.06451937682,TON
+19,DE,New Castle,All Sectors,Nitrous Oxide,GHG,0.000951625,TON
+20,DE,Sussex,All Sectors,Ammonia,CAP,1.2665197823029999,TON
+21,DE,Sussex,All Sectors,Carbon Monoxide,CAP,453.62871546800005,TON
+22,DE,Sussex,All Sectors,Nitrogen Oxides,CAP,6.629386,TON
+23,DE,Sussex,All Sectors,PM10 Primary (Filt + Cond),CAP,1585.22137226,TON
+24,DE,Sussex,All Sectors,PM2.5 Primary (Filt + Cond),CAP,386.02001663639993,TON
+25,DE,Sussex,All Sectors,Sulfur Dioxide,CAP,1.8106916000000002,TON
+26,DE,Sussex,All Sectors,Volatile Organic Compounds,CAP,371.81788217999997,TON
+27,DE,Sussex,All Sectors,Carbon Dioxide,GHG,919.92,TON
+28,DE,Sussex,All Sectors,Methane,GHG,160.06451937682,TON
+29,DE,Sussex,All Sectors,Nitrous Oxide,GHG,0.000951625,TON
+30,DE,Kent,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,1534.24090792,TON
+31,DE,Kent,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,22.3840145906,TON
+32,DE,Kent,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,55.1839497,TON
+33,DE,Kent,Dust - Paved Road Dust,PM2.5 Primary (Filt + Cond),CAP,246.0649,TON
+34,DE,Kent,Fires - Prescribed Fires,PM10 Primary (Filt + Cond),CAP,28.7567969,TON
+35,DE,Kent,Fires - Prescribed Fires,Volatile Organic Compounds,CAP,231.033123,TON
+36,DE,Kent,Fires - Wildfires,Volatile Organic Compounds,CAP,8.901771,TON
+37,DE,Kent,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+38,DE,Kent,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,9.70567394,TON
+39,DE,Kent,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,6.629386,TON
+40,DE,Kent,Fuel Comb - Electric Generation - Other,Volatile Organic Compounds,CAP,11.01,TON
+41,DE,Kent,"Fuel Comb - Industrial Boilers, ICEs - Coal",Ammonia,CAP,0.0,TON
+42,DE,Kent,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",PM10 Primary (Filt + Cond),CAP,1.585390018,TON
+43,DE,Kent,"Fuel Comb - Industrial Boilers, ICEs - Oil",Nitrous Oxide,GHG,0.000951625,TON
+44,DE,Kent,Fuel Comb - Residential - Other,Ammonia,CAP,0.3550514,TON
+45,DE,Kent,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1649358,TON
+46,DE,Kent,Industrial Processes - NEC,PM10 Primary (Filt + Cond),CAP,4.237610141,TON
+47,DE,Kent,Industrial Processes - NEC,Sulfur Dioxide,CAP,1.6457558,TON
+48,DE,Kent,Industrial Processes - NEC,Volatile Organic Compounds,CAP,97.50089036,TON
+49,DE,Kent,Industrial Processes - Petroleum Refineries,Volatile Organic Compounds,CAP,0.0006083999999999,TON
+50,DE,Kent,Mobile - Commercial Marine Vessels,PM10 Primary (Filt + Cond),CAP,13.038524,TON
+51,DE,Kent,Mobile - Commercial Marine Vessels,PM2.5 Primary (Filt + Cond),CAP,31.89394855,TON
+52,DE,Kent,Mobile - Non-Road Equipment - Gasoline,Ammonia,CAP,0.911468382303,TON
+53,DE,Kent,Mobile - Non-Road Equipment - Gasoline,Methane,GHG,137.95181931681998,TON
+54,DE,Kent,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,453.62871546800005,TON
+55,DE,Kent,Mobile - Non-Road Equipment - Other,PM2.5 Primary (Filt + Cond),CAP,0.8287375778,TON
+56,DE,Kent,Mobile - On-Road Diesel Heavy Duty Vehicles,Methane,GHG,22.00270006,TON
+57,DE,Kent,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,3.3621432810000003,TON
+58,DE,Kent,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,23.37148942,TON
+59,DE,Kent,Mobile - On-Road non-Diesel Light Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,19.958792278,TON
+60,DE,Kent,Solvent - Industrial Surface Coating & Solvent Use,Carbon Dioxide,GHG,919.92,TON
+61,DE,Kent,Waste Disposal,Methane,GHG,0.11,TON
+62,DE,New Castle,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,1534.24090792,TON
+63,DE,New Castle,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,22.3840145906,TON
+64,DE,New Castle,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,55.1839497,TON
+65,DE,New Castle,Dust - Paved Road Dust,PM2.5 Primary (Filt + Cond),CAP,246.0649,TON
+66,DE,New Castle,Fires - Prescribed Fires,PM10 Primary (Filt + Cond),CAP,28.7567969,TON
+67,DE,New Castle,Fires - Prescribed Fires,Volatile Organic Compounds,CAP,231.033123,TON
+68,DE,New Castle,Fires - Wildfires,Volatile Organic Compounds,CAP,8.901771,TON
+69,DE,New Castle,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+70,DE,New Castle,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,9.70567394,TON
+71,DE,New Castle,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,6.629386,TON
+72,DE,New Castle,Fuel Comb - Electric Generation - Other,Volatile Organic Compounds,CAP,11.01,TON
+73,DE,New Castle,"Fuel Comb - Industrial Boilers, ICEs - Coal",Ammonia,CAP,0.0,TON
+74,DE,New Castle,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",PM10 Primary (Filt + Cond),CAP,1.585390018,TON
+75,DE,New Castle,"Fuel Comb - Industrial Boilers, ICEs - Oil",Nitrous Oxide,GHG,0.000951625,TON
+76,DE,New Castle,Fuel Comb - Residential - Other,Ammonia,CAP,0.3550514,TON
+77,DE,New Castle,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1649358,TON
+78,DE,New Castle,Industrial Processes - NEC,PM10 Primary (Filt + Cond),CAP,4.237610141,TON
+79,DE,New Castle,Industrial Processes - NEC,Sulfur Dioxide,CAP,1.6457558,TON
+80,DE,New Castle,Industrial Processes - NEC,Volatile Organic Compounds,CAP,97.50089036,TON
+81,DE,New Castle,Industrial Processes - Petroleum Refineries,Volatile Organic Compounds,CAP,0.0006083999999999,TON
+82,DE,New Castle,Mobile - Commercial Marine Vessels,PM10 Primary (Filt + Cond),CAP,13.038524,TON
+83,DE,New Castle,Mobile - Commercial Marine Vessels,PM2.5 Primary (Filt + Cond),CAP,31.89394855,TON
+84,DE,New Castle,Mobile - Non-Road Equipment - Gasoline,Ammonia,CAP,0.911468382303,TON
+85,DE,New Castle,Mobile - Non-Road Equipment - Gasoline,Methane,GHG,137.95181931681998,TON
+86,DE,New Castle,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,453.62871546800005,TON
+87,DE,New Castle,Mobile - Non-Road Equipment - Other,PM2.5 Primary (Filt + Cond),CAP,0.8287375778,TON
+88,DE,New Castle,Mobile - On-Road Diesel Heavy Duty Vehicles,Methane,GHG,22.00270006,TON
+89,DE,New Castle,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,3.3621432810000003,TON
+90,DE,New Castle,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,23.37148942,TON
+91,DE,New Castle,Mobile - On-Road non-Diesel Light Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,19.958792278,TON
+92,DE,New Castle,Solvent - Industrial Surface Coating & Solvent Use,Carbon Dioxide,GHG,919.92,TON
+93,DE,New Castle,Waste Disposal,Methane,GHG,0.11,TON
+94,DE,Sussex,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,1534.24090792,TON
+95,DE,Sussex,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,22.3840145906,TON
+96,DE,Sussex,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,55.1839497,TON
+97,DE,Sussex,Dust - Paved Road Dust,PM2.5 Primary (Filt + Cond),CAP,246.0649,TON
+98,DE,Sussex,Fires - Prescribed Fires,PM10 Primary (Filt + Cond),CAP,28.7567969,TON
+99,DE,Sussex,Fires - Prescribed Fires,Volatile Organic Compounds,CAP,231.033123,TON
+100,DE,Sussex,Fires - Wildfires,Volatile Organic Compounds,CAP,8.901771,TON
+101,DE,Sussex,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+102,DE,Sussex,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,9.70567394,TON
+103,DE,Sussex,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,6.629386,TON
+104,DE,Sussex,Fuel Comb - Electric Generation - Other,Volatile Organic Compounds,CAP,11.01,TON
+105,DE,Sussex,"Fuel Comb - Industrial Boilers, ICEs - Coal",Ammonia,CAP,0.0,TON
+106,DE,Sussex,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",PM10 Primary (Filt + Cond),CAP,1.585390018,TON
+107,DE,Sussex,"Fuel Comb - Industrial Boilers, ICEs - Oil",Nitrous Oxide,GHG,0.000951625,TON
+108,DE,Sussex,Fuel Comb - Residential - Other,Ammonia,CAP,0.3550514,TON
+109,DE,Sussex,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1649358,TON
+110,DE,Sussex,Industrial Processes - NEC,PM10 Primary (Filt + Cond),CAP,4.237610141,TON
+111,DE,Sussex,Industrial Processes - NEC,Sulfur Dioxide,CAP,1.6457558,TON
+112,DE,Sussex,Industrial Processes - NEC,Volatile Organic Compounds,CAP,97.50089036,TON
+113,DE,Sussex,Industrial Processes - Petroleum Refineries,Volatile Organic Compounds,CAP,0.0006083999999999,TON
+114,DE,Sussex,Mobile - Commercial Marine Vessels,PM10 Primary (Filt + Cond),CAP,13.038524,TON
+115,DE,Sussex,Mobile - Commercial Marine Vessels,PM2.5 Primary (Filt + Cond),CAP,31.89394855,TON
+116,DE,Sussex,Mobile - Non-Road Equipment - Gasoline,Ammonia,CAP,0.911468382303,TON
+117,DE,Sussex,Mobile - Non-Road Equipment - Gasoline,Methane,GHG,137.95181931681998,TON
+118,DE,Sussex,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,453.62871546800005,TON
+119,DE,Sussex,Mobile - Non-Road Equipment - Other,PM2.5 Primary (Filt + Cond),CAP,0.8287375778,TON
+120,DE,Sussex,Mobile - On-Road Diesel Heavy Duty Vehicles,Methane,GHG,22.00270006,TON
+121,DE,Sussex,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,3.3621432810000003,TON
+122,DE,Sussex,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,23.37148942,TON
+123,DE,Sussex,Mobile - On-Road non-Diesel Light Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,19.958792278,TON
+124,DE,Sussex,Solvent - Industrial Surface Coating & Solvent Use,Carbon Dioxide,GHG,919.92,TON
+125,DE,Sussex,Waste Disposal,Methane,GHG,0.11,TON

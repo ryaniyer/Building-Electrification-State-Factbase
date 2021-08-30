@@ -1,0 +1,194 @@
+,State,County,Sector,Pollutant,Pollutant Type,Total Emissions,Emissions Unit of Measure
+0,RI,Bristol,All Sectors,Ammonia,CAP,126.77632899554,TON
+1,RI,Bristol,All Sectors,Carbon Monoxide,CAP,867.2990930883,TON
+2,RI,Bristol,All Sectors,Nitrogen Oxides,CAP,79.3273582452,TON
+3,RI,Bristol,All Sectors,PM10 Primary (Filt + Cond),CAP,156.29410367,TON
+4,RI,Bristol,All Sectors,Sulfur Dioxide,CAP,35.971207436,TON
+5,RI,Bristol,All Sectors,Volatile Organic Compounds,CAP,5462.937063488999,TON
+6,RI,Bristol,All Sectors,Carbon Dioxide,GHG,8599.276840976,TON
+7,RI,Bristol,All Sectors,Methane,GHG,3.255345,TON
+8,RI,Kent,All Sectors,Ammonia,CAP,126.77632899554,TON
+9,RI,Kent,All Sectors,Carbon Monoxide,CAP,867.2990930883,TON
+10,RI,Kent,All Sectors,Nitrogen Oxides,CAP,79.3273582452,TON
+11,RI,Kent,All Sectors,PM10 Primary (Filt + Cond),CAP,156.29410367,TON
+12,RI,Kent,All Sectors,Sulfur Dioxide,CAP,35.971207436,TON
+13,RI,Kent,All Sectors,Volatile Organic Compounds,CAP,5462.937063488999,TON
+14,RI,Newport,All Sectors,Ammonia,CAP,126.77632899554,TON
+15,RI,Newport,All Sectors,Carbon Monoxide,CAP,867.2990930883,TON
+16,RI,Newport,All Sectors,Nitrogen Oxides,CAP,79.3273582452,TON
+17,RI,Newport,All Sectors,PM10 Primary (Filt + Cond),CAP,156.29410367,TON
+18,RI,Newport,All Sectors,Sulfur Dioxide,CAP,35.971207436,TON
+19,RI,Newport,All Sectors,Volatile Organic Compounds,CAP,5462.937063488999,TON
+20,RI,Providence,All Sectors,Ammonia,CAP,126.77632899554,TON
+21,RI,Providence,All Sectors,Carbon Monoxide,CAP,867.2990930883,TON
+22,RI,Providence,All Sectors,Nitrogen Oxides,CAP,79.3273582452,TON
+23,RI,Providence,All Sectors,PM10 Primary (Filt + Cond),CAP,156.29410367,TON
+24,RI,Providence,All Sectors,Sulfur Dioxide,CAP,35.971207436,TON
+25,RI,Providence,All Sectors,Volatile Organic Compounds,CAP,5462.937063488999,TON
+26,RI,Washington,All Sectors,Ammonia,CAP,126.77632899554,TON
+27,RI,Washington,All Sectors,Carbon Monoxide,CAP,867.2990930883,TON
+28,RI,Washington,All Sectors,Nitrogen Oxides,CAP,79.3273582452,TON
+29,RI,Washington,All Sectors,PM10 Primary (Filt + Cond),CAP,156.29410367,TON
+30,RI,Washington,All Sectors,Sulfur Dioxide,CAP,35.971207436,TON
+31,RI,Washington,All Sectors,Volatile Organic Compounds,CAP,5462.937063488999,TON
+32,RI,Washington,All Sectors,Carbon Dioxide,GHG,8599.276840976,TON
+33,RI,Washington,All Sectors,Methane,GHG,3.255345,TON
+34,RI,Bristol,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,28.17746052,TON
+35,RI,Bristol,Biogenics - Vegetation and Soil,Volatile Organic Compounds,CAP,5160.545999999999,TON
+36,RI,Bristol,Dust - Unpaved Road Dust,PM10 Primary (Filt + Cond),CAP,110.3422,TON
+37,RI,Bristol,Fires - Prescribed Fires,Sulfur Dioxide,CAP,2.539204,TON
+38,RI,Bristol,Fires - Prescribed Fires,Methane,GHG,3.255345,TON
+39,RI,Bristol,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.167158,TON
+40,RI,Bristol,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,40.065715,TON
+41,RI,Bristol,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,19.57879441,TON
+42,RI,Bristol,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.02490629,TON
+43,RI,Bristol,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Carbon Monoxide,CAP,7.89685,TON
+44,RI,Bristol,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM10 Primary (Filt + Cond),CAP,0.5737111999999999,TON
+45,RI,Bristol,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Sulfur Dioxide,CAP,0.3281854,TON
+46,RI,Bristol,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,0.3177685,TON
+47,RI,Bristol,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,125.1744,TON
+48,RI,Bristol,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.5634421000000005,TON
+49,RI,Bristol,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,37.54732954,TON
+50,RI,Bristol,Fuel Comb - Residential - Wood,Ammonia,CAP,1.5331735375400002,TON
+51,RI,Bristol,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,4.4413046452,TON
+52,RI,Bristol,Industrial Processes - NEC,Nitrogen Oxides,CAP,16.371685,TON
+53,RI,Bristol,Industrial Processes - NEC,Volatile Organic Compounds,CAP,160.99225,TON
+54,RI,Bristol,Miscellaneous Non-Industrial NEC,Carbon Monoxide,CAP,41.4908866069,TON
+55,RI,Bristol,Mobile - Commercial Marine Vessels,Ammonia,CAP,0.043849168,TON
+56,RI,Bristol,Mobile - Commercial Marine Vessels,Sulfur Dioxide,CAP,5.16717034,TON
+57,RI,Bristol,Mobile - Non-Road Equipment - Gasoline,Carbon Dioxide,GHG,8599.276840976,TON
+58,RI,Bristol,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,780.3640269414001,TON
+59,RI,Bristol,Mobile - On-Road Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,12.8931638,TON
+60,RI,Bristol,Mobile - On-Road Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,12.3143027,TON
+61,RI,Bristol,Mobile - On-Road Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,0.42635755,TON
+62,RI,Bristol,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,6.726912789,TON
+63,RI,Bristol,Mobile - On-Road non-Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,8.357853286000001,TON
+64,RI,Bristol,Solvent - Graphic Arts,Volatile Organic Compounds,CAP,76.21316,TON
+65,RI,Bristol,Solvent - Non-Industrial Surface Coating,Volatile Organic Compounds,CAP,45.97728,TON
+66,RI,Bristol,Waste Disposal,Nitrogen Oxides,CAP,18.448653600000004,TON
+67,RI,Kent,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,28.17746052,TON
+68,RI,Kent,Biogenics - Vegetation and Soil,Volatile Organic Compounds,CAP,5160.545999999999,TON
+69,RI,Kent,Dust - Unpaved Road Dust,PM10 Primary (Filt + Cond),CAP,110.3422,TON
+70,RI,Kent,Fires - Prescribed Fires,Sulfur Dioxide,CAP,2.539204,TON
+71,RI,Kent,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.167158,TON
+72,RI,Kent,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,40.065715,TON
+73,RI,Kent,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,19.57879441,TON
+74,RI,Kent,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.02490629,TON
+75,RI,Kent,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Carbon Monoxide,CAP,7.89685,TON
+76,RI,Kent,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM10 Primary (Filt + Cond),CAP,0.5737111999999999,TON
+77,RI,Kent,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Sulfur Dioxide,CAP,0.3281854,TON
+78,RI,Kent,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,0.3177685,TON
+79,RI,Kent,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,125.1744,TON
+80,RI,Kent,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.5634421000000005,TON
+81,RI,Kent,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,37.54732954,TON
+82,RI,Kent,Fuel Comb - Residential - Wood,Ammonia,CAP,1.5331735375400002,TON
+83,RI,Kent,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,4.4413046452,TON
+84,RI,Kent,Industrial Processes - NEC,Nitrogen Oxides,CAP,16.371685,TON
+85,RI,Kent,Industrial Processes - NEC,Volatile Organic Compounds,CAP,160.99225,TON
+86,RI,Kent,Miscellaneous Non-Industrial NEC,Carbon Monoxide,CAP,41.4908866069,TON
+87,RI,Kent,Mobile - Commercial Marine Vessels,Ammonia,CAP,0.043849168,TON
+88,RI,Kent,Mobile - Commercial Marine Vessels,Sulfur Dioxide,CAP,5.16717034,TON
+89,RI,Kent,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,780.3640269414001,TON
+90,RI,Kent,Mobile - On-Road Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,12.8931638,TON
+91,RI,Kent,Mobile - On-Road Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,12.3143027,TON
+92,RI,Kent,Mobile - On-Road Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,0.42635755,TON
+93,RI,Kent,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,6.726912789,TON
+94,RI,Kent,Mobile - On-Road non-Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,8.357853286000001,TON
+95,RI,Kent,Solvent - Graphic Arts,Volatile Organic Compounds,CAP,76.21316,TON
+96,RI,Kent,Solvent - Non-Industrial Surface Coating,Volatile Organic Compounds,CAP,45.97728,TON
+97,RI,Kent,Waste Disposal,Nitrogen Oxides,CAP,18.448653600000004,TON
+98,RI,Newport,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,28.17746052,TON
+99,RI,Newport,Biogenics - Vegetation and Soil,Volatile Organic Compounds,CAP,5160.545999999999,TON
+100,RI,Newport,Dust - Unpaved Road Dust,PM10 Primary (Filt + Cond),CAP,110.3422,TON
+101,RI,Newport,Fires - Prescribed Fires,Sulfur Dioxide,CAP,2.539204,TON
+102,RI,Newport,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.167158,TON
+103,RI,Newport,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,40.065715,TON
+104,RI,Newport,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,19.57879441,TON
+105,RI,Newport,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.02490629,TON
+106,RI,Newport,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Carbon Monoxide,CAP,7.89685,TON
+107,RI,Newport,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM10 Primary (Filt + Cond),CAP,0.5737111999999999,TON
+108,RI,Newport,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Sulfur Dioxide,CAP,0.3281854,TON
+109,RI,Newport,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,0.3177685,TON
+110,RI,Newport,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,125.1744,TON
+111,RI,Newport,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.5634421000000005,TON
+112,RI,Newport,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,37.54732954,TON
+113,RI,Newport,Fuel Comb - Residential - Wood,Ammonia,CAP,1.5331735375400002,TON
+114,RI,Newport,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,4.4413046452,TON
+115,RI,Newport,Industrial Processes - NEC,Nitrogen Oxides,CAP,16.371685,TON
+116,RI,Newport,Industrial Processes - NEC,Volatile Organic Compounds,CAP,160.99225,TON
+117,RI,Newport,Miscellaneous Non-Industrial NEC,Carbon Monoxide,CAP,41.4908866069,TON
+118,RI,Newport,Mobile - Commercial Marine Vessels,Ammonia,CAP,0.043849168,TON
+119,RI,Newport,Mobile - Commercial Marine Vessels,Sulfur Dioxide,CAP,5.16717034,TON
+120,RI,Newport,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,780.3640269414001,TON
+121,RI,Newport,Mobile - On-Road Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,12.8931638,TON
+122,RI,Newport,Mobile - On-Road Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,12.3143027,TON
+123,RI,Newport,Mobile - On-Road Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,0.42635755,TON
+124,RI,Newport,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,6.726912789,TON
+125,RI,Newport,Mobile - On-Road non-Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,8.357853286000001,TON
+126,RI,Newport,Solvent - Graphic Arts,Volatile Organic Compounds,CAP,76.21316,TON
+127,RI,Newport,Solvent - Non-Industrial Surface Coating,Volatile Organic Compounds,CAP,45.97728,TON
+128,RI,Newport,Waste Disposal,Nitrogen Oxides,CAP,18.448653600000004,TON
+129,RI,Providence,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,28.17746052,TON
+130,RI,Providence,Biogenics - Vegetation and Soil,Volatile Organic Compounds,CAP,5160.545999999999,TON
+131,RI,Providence,Dust - Unpaved Road Dust,PM10 Primary (Filt + Cond),CAP,110.3422,TON
+132,RI,Providence,Fires - Prescribed Fires,Sulfur Dioxide,CAP,2.539204,TON
+133,RI,Providence,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.167158,TON
+134,RI,Providence,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,40.065715,TON
+135,RI,Providence,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,19.57879441,TON
+136,RI,Providence,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.02490629,TON
+137,RI,Providence,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Carbon Monoxide,CAP,7.89685,TON
+138,RI,Providence,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM10 Primary (Filt + Cond),CAP,0.5737111999999999,TON
+139,RI,Providence,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Sulfur Dioxide,CAP,0.3281854,TON
+140,RI,Providence,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,0.3177685,TON
+141,RI,Providence,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,125.1744,TON
+142,RI,Providence,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.5634421000000005,TON
+143,RI,Providence,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,37.54732954,TON
+144,RI,Providence,Fuel Comb - Residential - Wood,Ammonia,CAP,1.5331735375400002,TON
+145,RI,Providence,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,4.4413046452,TON
+146,RI,Providence,Industrial Processes - NEC,Nitrogen Oxides,CAP,16.371685,TON
+147,RI,Providence,Industrial Processes - NEC,Volatile Organic Compounds,CAP,160.99225,TON
+148,RI,Providence,Miscellaneous Non-Industrial NEC,Carbon Monoxide,CAP,41.4908866069,TON
+149,RI,Providence,Mobile - Commercial Marine Vessels,Ammonia,CAP,0.043849168,TON
+150,RI,Providence,Mobile - Commercial Marine Vessels,Sulfur Dioxide,CAP,5.16717034,TON
+151,RI,Providence,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,780.3640269414001,TON
+152,RI,Providence,Mobile - On-Road Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,12.8931638,TON
+153,RI,Providence,Mobile - On-Road Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,12.3143027,TON
+154,RI,Providence,Mobile - On-Road Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,0.42635755,TON
+155,RI,Providence,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,6.726912789,TON
+156,RI,Providence,Mobile - On-Road non-Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,8.357853286000001,TON
+157,RI,Providence,Solvent - Graphic Arts,Volatile Organic Compounds,CAP,76.21316,TON
+158,RI,Providence,Solvent - Non-Industrial Surface Coating,Volatile Organic Compounds,CAP,45.97728,TON
+159,RI,Providence,Waste Disposal,Nitrogen Oxides,CAP,18.448653600000004,TON
+160,RI,Washington,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,28.17746052,TON
+161,RI,Washington,Biogenics - Vegetation and Soil,Volatile Organic Compounds,CAP,5160.545999999999,TON
+162,RI,Washington,Dust - Unpaved Road Dust,PM10 Primary (Filt + Cond),CAP,110.3422,TON
+163,RI,Washington,Fires - Prescribed Fires,Sulfur Dioxide,CAP,2.539204,TON
+164,RI,Washington,Fires - Prescribed Fires,Methane,GHG,3.255345,TON
+165,RI,Washington,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.167158,TON
+166,RI,Washington,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,40.065715,TON
+167,RI,Washington,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,19.57879441,TON
+168,RI,Washington,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.02490629,TON
+169,RI,Washington,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Carbon Monoxide,CAP,7.89685,TON
+170,RI,Washington,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM10 Primary (Filt + Cond),CAP,0.5737111999999999,TON
+171,RI,Washington,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Sulfur Dioxide,CAP,0.3281854,TON
+172,RI,Washington,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,0.3177685,TON
+173,RI,Washington,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,125.1744,TON
+174,RI,Washington,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.5634421000000005,TON
+175,RI,Washington,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,37.54732954,TON
+176,RI,Washington,Fuel Comb - Residential - Wood,Ammonia,CAP,1.5331735375400002,TON
+177,RI,Washington,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,4.4413046452,TON
+178,RI,Washington,Industrial Processes - NEC,Nitrogen Oxides,CAP,16.371685,TON
+179,RI,Washington,Industrial Processes - NEC,Volatile Organic Compounds,CAP,160.99225,TON
+180,RI,Washington,Miscellaneous Non-Industrial NEC,Carbon Monoxide,CAP,41.4908866069,TON
+181,RI,Washington,Mobile - Commercial Marine Vessels,Ammonia,CAP,0.043849168,TON
+182,RI,Washington,Mobile - Commercial Marine Vessels,Sulfur Dioxide,CAP,5.16717034,TON
+183,RI,Washington,Mobile - Non-Road Equipment - Gasoline,Carbon Dioxide,GHG,8599.276840976,TON
+184,RI,Washington,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,780.3640269414001,TON
+185,RI,Washington,Mobile - On-Road Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,12.8931638,TON
+186,RI,Washington,Mobile - On-Road Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,12.3143027,TON
+187,RI,Washington,Mobile - On-Road Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,0.42635755,TON
+188,RI,Washington,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,6.726912789,TON
+189,RI,Washington,Mobile - On-Road non-Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,8.357853286000001,TON
+190,RI,Washington,Solvent - Graphic Arts,Volatile Organic Compounds,CAP,76.21316,TON
+191,RI,Washington,Solvent - Non-Industrial Surface Coating,Volatile Organic Compounds,CAP,45.97728,TON
+192,RI,Washington,Waste Disposal,Nitrogen Oxides,CAP,18.448653600000004,TON

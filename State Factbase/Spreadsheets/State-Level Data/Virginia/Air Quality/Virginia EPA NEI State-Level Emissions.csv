@@ -1,0 +1,281 @@
+,State,Sector,Pollutant,Pollutant Type,Total Emissions,Emissions Unit of Measure
+0,VA,All Sectors,Ammonia,CAP,901.0475599074247,TON
+1,VA,All Sectors,Carbon Monoxide,CAP,21916.225879962316,TON
+2,VA,All Sectors,Nitrogen Oxides,CAP,1792.162815519234,TON
+3,VA,All Sectors,PM10 Primary (Filt + Cond),CAP,9070.322097975815,TON
+4,VA,All Sectors,PM2.5 Primary (Filt + Cond),CAP,2246.883243362732,TON
+5,VA,All Sectors,Sulfur Dioxide,CAP,116.47003959342699,TON
+6,VA,All Sectors,Volatile Organic Compounds,CAP,28510.032455227287,TON
+7,VA,All Sectors,Carbon Dioxide,GHG,682856.5459112541,TON
+8,VA,All Sectors,Methane,GHG,82584.51175055285,TON
+9,VA,All Sectors,Nitrous Oxide,GHG,41.157575128855115,TON
+10,VA,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,4214.93794551,TON
+11,VA,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,366.88098325960004,TON
+12,VA,Agriculture - Fertilizer Application,Ammonia,CAP,93.2,TON
+13,VA,Agriculture - Livestock Waste,Ammonia,CAP,453.87888863,TON
+14,VA,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,54.06120211,TON
+15,VA,Biogenics - Vegetation and Soil,Carbon Monoxide,CAP,4817.131939999999,TON
+16,VA,Biogenics - Vegetation and Soil,Nitrogen Oxides,CAP,385.41056199999997,TON
+17,VA,Biogenics - Vegetation and Soil,Volatile Organic Compounds,CAP,21862.184999999998,TON
+18,VA,Bulk Gasoline Terminals,Volatile Organic Compounds,CAP,46.20453715,TON
+19,VA,Commercial Cooking,Carbon Monoxide,CAP,13.120186320000002,TON
+20,VA,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,7.3422564,TON
+21,VA,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,16.79721025,TON
+22,VA,Commercial Cooking,Volatile Organic Compounds,CAP,3.4479002369,TON
+23,VA,Dust - Construction Dust,PM10 Primary (Filt + Cond),CAP,927.1341852,TON
+24,VA,Dust - Construction Dust,PM2.5 Primary (Filt + Cond),CAP,95.66458662800001,TON
+25,VA,Dust - Paved Road Dust,PM10 Primary (Filt + Cond),CAP,745.781932,TON
+26,VA,Dust - Paved Road Dust,PM2.5 Primary (Filt + Cond),CAP,257.21739299999996,TON
+27,VA,Dust - Unpaved Road Dust,PM10 Primary (Filt + Cond),CAP,433.10253,TON
+28,VA,Fires - Agricultural Field Burning,Ammonia,CAP,19.512999999999998,TON
+29,VA,Fires - Agricultural Field Burning,PM10 Primary (Filt + Cond),CAP,15.969999999999999,TON
+30,VA,Fires - Agricultural Field Burning,PM2.5 Primary (Filt + Cond),CAP,2.8760000000000003,TON
+31,VA,Fires - Agricultural Field Burning,Sulfur Dioxide,CAP,0.0258,TON
+32,VA,Fires - Agricultural Field Burning,Volatile Organic Compounds,CAP,1.19,TON
+33,VA,Fires - Prescribed Fires,Ammonia,CAP,112.037882,TON
+34,VA,Fires - Prescribed Fires,Carbon Monoxide,CAP,2942.987174,TON
+35,VA,Fires - Prescribed Fires,Nitrogen Oxides,CAP,37.335988,TON
+36,VA,Fires - Prescribed Fires,PM10 Primary (Filt + Cond),CAP,803.775185,TON
+37,VA,Fires - Prescribed Fires,PM2.5 Primary (Filt + Cond),CAP,427.139779,TON
+38,VA,Fires - Prescribed Fires,Sulfur Dioxide,CAP,17.854712,TON
+39,VA,Fires - Prescribed Fires,Volatile Organic Compounds,CAP,433.488916,TON
+40,VA,Fires - Prescribed Fires,Carbon Dioxide,GHG,103028.6982,TON
+41,VA,Fires - Prescribed Fires,Methane,GHG,263.511054,TON
+42,VA,Fires - Wildfires,Ammonia,CAP,6.296889,TON
+43,VA,Fires - Wildfires,Carbon Monoxide,CAP,85.555972,TON
+44,VA,Fires - Wildfires,Nitrogen Oxides,CAP,0.468683,TON
+45,VA,Fires - Wildfires,PM10 Primary (Filt + Cond),CAP,0.72885,TON
+46,VA,Fires - Wildfires,PM2.5 Primary (Filt + Cond),CAP,8.011358999999999,TON
+47,VA,Fires - Wildfires,Sulfur Dioxide,CAP,0.786974,TON
+48,VA,Fires - Wildfires,Volatile Organic Compounds,CAP,2.425746,TON
+49,VA,Fires - Wildfires,Carbon Dioxide,GHG,573.56246,TON
+50,VA,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.2699195209999998,TON
+51,VA,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,0.6449222,TON
+52,VA,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,8.328637100000002,TON
+53,VA,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,46.18381877,TON
+54,VA,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,134.944694,TON
+55,VA,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,0.349655609,TON
+56,VA,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.03815527,TON
+57,VA,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0005864490226999001,TON
+58,VA,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.02094853185,TON
+59,VA,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,52.799388398000005,TON
+60,VA,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,3.0213574434999995,TON
+61,VA,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.12561558484,TON
+62,VA,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,1.16804271,TON
+63,VA,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.001359260943,TON
+64,VA,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.134295319,TON
+65,VA,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,7.908015000000001,TON
+66,VA,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,52.04246,TON
+67,VA,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.057050069999999994,TON
+68,VA,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.10228046699999989,TON
+69,VA,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.5242109699999999,TON
+70,VA,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,3.9318782399999996,TON
+71,VA,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.11730996386,TON
+72,VA,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,4.01953797,TON
+73,VA,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,6.058299701999999,TON
+74,VA,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,1.543673135,TON
+75,VA,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,0.8424215162999998,TON
+76,VA,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.15458242,TON
+77,VA,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,1.6954568459699997,TON
+78,VA,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.029485341799999898,TON
+79,VA,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,3.0970189599999998,TON
+80,VA,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,3.6533257,TON
+81,VA,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.098407928,TON
+82,VA,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.041988359,TON
+83,VA,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.02144035,TON
+84,VA,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,1.68625823,TON
+85,VA,Fuel Comb - Electric Generation - Biomass,PM10 Primary (Filt + Cond),CAP,11.243299,TON
+86,VA,Fuel Comb - Electric Generation - Coal,Carbon Monoxide,CAP,353.0,TON
+87,VA,Fuel Comb - Electric Generation - Coal,PM2.5 Primary (Filt + Cond),CAP,18.121286,TON
+88,VA,Fuel Comb - Electric Generation - Natural Gas,Carbon Monoxide,CAP,0.170748,TON
+89,VA,Fuel Comb - Electric Generation - Natural Gas,Nitrogen Oxides,CAP,75.3,TON
+90,VA,Fuel Comb - Electric Generation - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,170.53922699999998,TON
+91,VA,Fuel Comb - Electric Generation - Natural Gas,Sulfur Dioxide,CAP,0.004917,TON
+92,VA,Fuel Comb - Electric Generation - Natural Gas,Volatile Organic Compounds,CAP,0.5100275,TON
+93,VA,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,14.12448,TON
+94,VA,Fuel Comb - Electric Generation - Oil,PM10 Primary (Filt + Cond),CAP,0.6637981,TON
+95,VA,Fuel Comb - Electric Generation - Oil,PM2.5 Primary (Filt + Cond),CAP,7.25269485,TON
+96,VA,Fuel Comb - Electric Generation - Oil,Sulfur Dioxide,CAP,1.3310308767999999,TON
+97,VA,Fuel Comb - Electric Generation - Oil,Volatile Organic Compounds,CAP,0.000659075,TON
+98,VA,Fuel Comb - Electric Generation - Other,Volatile Organic Compounds,CAP,2.32425,TON
+99,VA,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,1.4629666899999998,TON
+100,VA,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Carbon Monoxide,CAP,163.261683,TON
+101,VA,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Nitrogen Oxides,CAP,69.79281,TON
+102,VA,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM10 Primary (Filt + Cond),CAP,69.599617,TON
+103,VA,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM2.5 Primary (Filt + Cond),CAP,227.02854000000002,TON
+104,VA,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Sulfur Dioxide,CAP,0.3831034,TON
+105,VA,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Volatile Organic Compounds,CAP,12.6820293,TON
+106,VA,"Fuel Comb - Industrial Boilers, ICEs - Coal",Ammonia,CAP,0.0,TON
+107,VA,"Fuel Comb - Industrial Boilers, ICEs - Coal",Carbon Monoxide,CAP,0.0,TON
+108,VA,"Fuel Comb - Industrial Boilers, ICEs - Coal",Nitrogen Oxides,CAP,0.0,TON
+109,VA,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM10 Primary (Filt + Cond),CAP,0.0,TON
+110,VA,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+111,VA,"Fuel Comb - Industrial Boilers, ICEs - Coal",Sulfur Dioxide,CAP,0.0,TON
+112,VA,"Fuel Comb - Industrial Boilers, ICEs - Coal",Volatile Organic Compounds,CAP,0.0,TON
+113,VA,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Ammonia,CAP,1.9715783999999998,TON
+114,VA,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Carbon Monoxide,CAP,113.6556714,TON
+115,VA,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,18.107763999999996,TON
+116,VA,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",PM10 Primary (Filt + Cond),CAP,0.15828323,TON
+117,VA,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",PM2.5 Primary (Filt + Cond),CAP,13.94126127,TON
+118,VA,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Sulfur Dioxide,CAP,1.15272088,TON
+119,VA,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Volatile Organic Compounds,CAP,18.187150900000006,TON
+120,VA,"Fuel Comb - Industrial Boilers, ICEs - Oil",Ammonia,CAP,0.062813498,TON
+121,VA,"Fuel Comb - Industrial Boilers, ICEs - Oil",Carbon Monoxide,CAP,5.49552585048,TON
+122,VA,"Fuel Comb - Industrial Boilers, ICEs - Oil",Nitrogen Oxides,CAP,1.9075364371,TON
+123,VA,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,1.1744966314999998,TON
+124,VA,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM2.5 Primary (Filt + Cond),CAP,0.0336628207,TON
+125,VA,"Fuel Comb - Industrial Boilers, ICEs - Oil",Sulfur Dioxide,CAP,0.749764302,TON
+126,VA,"Fuel Comb - Industrial Boilers, ICEs - Oil",Volatile Organic Compounds,CAP,15.036666336499994,TON
+127,VA,"Fuel Comb - Industrial Boilers, ICEs - Other",Ammonia,CAP,0.0,TON
+128,VA,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,0.1585875,TON
+129,VA,"Fuel Comb - Industrial Boilers, ICEs - Other",Nitrogen Oxides,CAP,0.0,TON
+130,VA,"Fuel Comb - Industrial Boilers, ICEs - Other",PM10 Primary (Filt + Cond),CAP,0.0,TON
+131,VA,"Fuel Comb - Industrial Boilers, ICEs - Other",PM2.5 Primary (Filt + Cond),CAP,0.2332822,TON
+132,VA,"Fuel Comb - Industrial Boilers, ICEs - Other",Sulfur Dioxide,CAP,0.0,TON
+133,VA,"Fuel Comb - Industrial Boilers, ICEs - Other",Volatile Organic Compounds,CAP,0.0,TON
+134,VA,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,41.00303333,TON
+135,VA,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,22.96485318,TON
+136,VA,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,2.0748628,TON
+137,VA,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,1.07767275,TON
+138,VA,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.005017336,TON
+139,VA,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.120465124,TON
+140,VA,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,0.38443825,TON
+141,VA,Fuel Comb - Residential - Oil,Ammonia,CAP,1.274469198,TON
+142,VA,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,2.7874383239999996,TON
+143,VA,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,17.749737610000004,TON
+144,VA,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,0.46891471599999995,TON
+145,VA,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,2.51800003,TON
+146,VA,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,3.5338357745,TON
+147,VA,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,1.879963997,TON
+148,VA,Fuel Comb - Residential - Other,Ammonia,CAP,0.1131215,TON
+149,VA,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,3.2276834,TON
+150,VA,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,1.54677598,TON
+151,VA,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,0.11261972,TON
+152,VA,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.0400905559999999,TON
+153,VA,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.1353267699999999,TON
+154,VA,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,1.538434836,TON
+155,VA,Fuel Comb - Residential - Wood,Ammonia,CAP,15.7992691101,TON
+156,VA,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,697.9171872899999,TON
+157,VA,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,35.092159272,TON
+158,VA,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,529.0729920325091,TON
+159,VA,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,190.464506281,TON
+160,VA,Fuel Comb - Residential - Wood,Sulfur Dioxide,CAP,6.49619025571088,TON
+161,VA,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,7.1069107928,TON
+162,VA,Gas Stations,Volatile Organic Compounds,CAP,1189.9164499477,TON
+163,VA,Industrial Processes - Chemical Manuf,Volatile Organic Compounds,CAP,144.6160379,TON
+164,VA,Industrial Processes - Mining,PM10 Primary (Filt + Cond),CAP,1072.70748,TON
+165,VA,Industrial Processes - Mining,PM2.5 Primary (Filt + Cond),CAP,13.423601860000002,TON
+166,VA,Industrial Processes - NEC,Ammonia,CAP,8.2188,TON
+167,VA,Industrial Processes - NEC,Carbon Monoxide,CAP,0.0267,TON
+168,VA,Industrial Processes - NEC,Nitrogen Oxides,CAP,49.2572185,TON
+169,VA,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,27.4819241,TON
+170,VA,Industrial Processes - NEC,Volatile Organic Compounds,CAP,132.46304836,TON
+171,VA,Industrial Processes - NEC,Methane,GHG,82237.255001255,TON
+172,VA,Industrial Processes - NEC,Nitrous Oxide,GHG,37.8081821385,TON
+173,VA,Industrial Processes - Oil & Gas Production,PM2.5 Primary (Filt + Cond),CAP,32.24033479,TON
+174,VA,Industrial Processes - Pulp & Paper,Ammonia,CAP,97.35821964,TON
+175,VA,Industrial Processes - Pulp & Paper,PM2.5 Primary (Filt + Cond),CAP,10.719793618,TON
+176,VA,Industrial Processes - Storage and Transfer,Ammonia,CAP,14.04,TON
+177,VA,Industrial Processes - Storage and Transfer,Nitrogen Oxides,CAP,1.235499,TON
+178,VA,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,225.335755,TON
+179,VA,Miscellaneous Non-Industrial NEC,Carbon Monoxide,CAP,141.41735631039,TON
+180,VA,Miscellaneous Non-Industrial NEC,Nitrogen Oxides,CAP,4.493254937211,TON
+181,VA,Miscellaneous Non-Industrial NEC,PM10 Primary (Filt + Cond),CAP,5.169485261692,TON
+182,VA,Miscellaneous Non-Industrial NEC,PM2.5 Primary (Filt + Cond),CAP,8.0061532439669,TON
+183,VA,Miscellaneous Non-Industrial NEC,Sulfur Dioxide,CAP,0.2470864900409998,TON
+184,VA,Miscellaneous Non-Industrial NEC,Volatile Organic Compounds,CAP,15.662486489672002,TON
+185,VA,Mobile - Aircraft,Carbon Monoxide,CAP,0.006007,TON
+186,VA,Mobile - Aircraft,Nitrogen Oxides,CAP,0.006733853,TON
+187,VA,Mobile - Aircraft,PM10 Primary (Filt + Cond),CAP,0.028829965,TON
+188,VA,Mobile - Aircraft,PM2.5 Primary (Filt + Cond),CAP,0.7533268977999998,TON
+189,VA,Mobile - Aircraft,Sulfur Dioxide,CAP,0.0040659984999998995,TON
+190,VA,Mobile - Aircraft,Volatile Organic Compounds,CAP,10.292280967499998,TON
+191,VA,Mobile - Commercial Marine Vessels,Ammonia,CAP,0.0446357822359999,TON
+192,VA,Mobile - Commercial Marine Vessels,Nitrogen Oxides,CAP,22.74314455,TON
+193,VA,Mobile - Commercial Marine Vessels,PM10 Primary (Filt + Cond),CAP,3.7558979900000002,TON
+194,VA,Mobile - Commercial Marine Vessels,Sulfur Dioxide,CAP,17.56521571,TON
+195,VA,Mobile - Commercial Marine Vessels,Volatile Organic Compounds,CAP,3.66733469,TON
+196,VA,Mobile - Locomotives,Ammonia,CAP,0.09416141830000001,TON
+197,VA,Mobile - Locomotives,Carbon Monoxide,CAP,0.0,TON
+198,VA,Mobile - Locomotives,Nitrogen Oxides,CAP,100.749235,TON
+199,VA,Mobile - Locomotives,PM10 Primary (Filt + Cond),CAP,4.168114640000001,TON
+200,VA,Mobile - Locomotives,PM2.5 Primary (Filt + Cond),CAP,15.010105620000001,TON
+201,VA,Mobile - Locomotives,Sulfur Dioxide,CAP,0.010446842,TON
+202,VA,Mobile - Locomotives,Volatile Organic Compounds,CAP,0.9830087,TON
+203,VA,Mobile - Non-Road Equipment - Diesel,Ammonia,CAP,0.6006742982,TON
+204,VA,Mobile - Non-Road Equipment - Diesel,Carbon Monoxide,CAP,109.277246091,TON
+205,VA,Mobile - Non-Road Equipment - Diesel,Nitrogen Oxides,CAP,78.18911144,TON
+206,VA,Mobile - Non-Road Equipment - Diesel,PM10 Primary (Filt + Cond),CAP,9.783744827100001,TON
+207,VA,Mobile - Non-Road Equipment - Diesel,PM2.5 Primary (Filt + Cond),CAP,27.1020056721,TON
+208,VA,Mobile - Non-Road Equipment - Diesel,Sulfur Dioxide,CAP,0.2346306229,TON
+209,VA,Mobile - Non-Road Equipment - Diesel,Volatile Organic Compounds,CAP,5.98917551,TON
+210,VA,Mobile - Non-Road Equipment - Diesel,Carbon Dioxide,GHG,45298.898032,TON
+211,VA,Mobile - Non-Road Equipment - Gasoline,Ammonia,CAP,0.21402108949074,TON
+212,VA,Mobile - Non-Road Equipment - Gasoline,Carbon Monoxide,CAP,6562.610990789,TON
+213,VA,Mobile - Non-Road Equipment - Gasoline,Nitrogen Oxides,CAP,30.042470146103,TON
+214,VA,Mobile - Non-Road Equipment - Gasoline,PM10 Primary (Filt + Cond),CAP,20.351339531900003,TON
+215,VA,Mobile - Non-Road Equipment - Gasoline,PM2.5 Primary (Filt + Cond),CAP,15.5322299234,TON
+216,VA,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,0.7257217362306,TON
+217,VA,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,100.24927893329999,TON
+218,VA,Mobile - Non-Road Equipment - Gasoline,Carbon Dioxide,GHG,17031.350603474002,TON
+219,VA,Mobile - Non-Road Equipment - Gasoline,Methane,GHG,41.5569881387,TON
+220,VA,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,100.4881640985,TON
+221,VA,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,14.0282889315,TON
+222,VA,Mobile - Non-Road Equipment - Other,PM10 Primary (Filt + Cond),CAP,2.1968381392215,TON
+223,VA,Mobile - Non-Road Equipment - Other,PM2.5 Primary (Filt + Cond),CAP,0.9802037373749,TON
+224,VA,Mobile - Non-Road Equipment - Other,Sulfur Dioxide,CAP,0.03864400749651,TON
+225,VA,Mobile - Non-Road Equipment - Other,Volatile Organic Compounds,CAP,8.975250111605801,TON
+226,VA,Mobile - Non-Road Equipment - Other,Carbon Dioxide,GHG,9479.63917793,TON
+227,VA,Mobile - Non-Road Equipment - Other,Methane,GHG,1.205676019483,TON
+228,VA,Mobile - On-Road Diesel Heavy Duty Vehicles,Ammonia,CAP,3.3352849550999997,TON
+229,VA,Mobile - On-Road Diesel Heavy Duty Vehicles,Carbon Monoxide,CAP,160.71873121699997,TON
+230,VA,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,217.27318709,TON
+231,VA,Mobile - On-Road Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,54.0654587651,TON
+232,VA,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,104.6702440912,TON
+233,VA,Mobile - On-Road Diesel Heavy Duty Vehicles,Sulfur Dioxide,CAP,3.0516334696899996,TON
+234,VA,Mobile - On-Road Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,14.335067315499998,TON
+235,VA,Mobile - On-Road Diesel Heavy Duty Vehicles,Carbon Dioxide,GHG,87412.94155,TON
+236,VA,Mobile - On-Road Diesel Heavy Duty Vehicles,Methane,GHG,3.05532245373,TON
+237,VA,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrous Oxide,GHG,0.0340721956169999,TON
+238,VA,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,1.497674506,TON
+239,VA,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,311.132354,TON
+240,VA,Mobile - On-Road Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,13.332312986999998,TON
+241,VA,Mobile - On-Road Diesel Light Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,1.1276819,TON
+242,VA,Mobile - On-Road Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,0.26661095690000003,TON
+243,VA,Mobile - On-Road Diesel Light Duty Vehicles,Volatile Organic Compounds,CAP,69.405867,TON
+244,VA,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Dioxide,GHG,30440.4224,TON
+245,VA,Mobile - On-Road Diesel Light Duty Vehicles,Methane,GHG,0.170723396,TON
+246,VA,Mobile - On-Road Diesel Light Duty Vehicles,Nitrous Oxide,GHG,0.0596935523199999,TON
+247,VA,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Ammonia,CAP,0.011678179715119998,TON
+248,VA,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Carbon Monoxide,CAP,175.63111795010002,TON
+249,VA,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,14.7324231064,TON
+250,VA,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,1.0775091734920996,TON
+251,VA,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,0.0751713347419999,TON
+252,VA,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Sulfur Dioxide,CAP,0.10499775725800001,TON
+253,VA,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,10.50576033091,TON
+254,VA,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Carbon Dioxide,GHG,1407.90441785,TON
+255,VA,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Methane,GHG,4.1731630241035,TON
+256,VA,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Nitrous Oxide,GHG,0.49466459051811185,TON
+257,VA,Mobile - On-Road non-Diesel Light Duty Vehicles,Ammonia,CAP,28.466902087599998,TON
+258,VA,Mobile - On-Road non-Diesel Light Duty Vehicles,Carbon Monoxide,CAP,4154.54141818,TON
+259,VA,Mobile - On-Road non-Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,468.978170218,TON
+260,VA,Mobile - On-Road non-Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,20.878820242400003,TON
+261,VA,Mobile - On-Road non-Diesel Light Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,18.91006296571,TON
+262,VA,Mobile - On-Road non-Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,25.0837525716,TON
+263,VA,Mobile - On-Road non-Diesel Light Duty Vehicles,Volatile Organic Compounds,CAP,232.99510203,TON
+264,VA,Mobile - On-Road non-Diesel Light Duty Vehicles,Carbon Dioxide,GHG,388183.12906999997,TON
+265,VA,Mobile - On-Road non-Diesel Light Duty Vehicles,Methane,GHG,33.5838222658,TON
+266,VA,Mobile - On-Road non-Diesel Light Duty Vehicles,Nitrous Oxide,GHG,2.7609626519,TON
+267,VA,Solvent - Consumer & Commercial Solvent Use,Volatile Organic Compounds,CAP,1736.2635146,TON
+268,VA,Solvent - Degreasing,Volatile Organic Compounds,CAP,266.451932,TON
+269,VA,Solvent - Dry Cleaning,Volatile Organic Compounds,CAP,0.42571257,TON
+270,VA,Solvent - Graphic Arts,Volatile Organic Compounds,CAP,67.56882999999999,TON
+271,VA,Solvent - Industrial Surface Coating & Solvent Use,PM10 Primary (Filt + Cond),CAP,3.0307389000000002,TON
+272,VA,Solvent - Industrial Surface Coating & Solvent Use,Volatile Organic Compounds,CAP,409.44602672999997,TON
+273,VA,Solvent - Non-Industrial Surface Coating,Volatile Organic Compounds,CAP,1065.31438,TON
+274,VA,Waste Disposal,Carbon Monoxide,CAP,949.1262214,TON
+275,VA,Waste Disposal,Nitrogen Oxides,CAP,22.76508874792,TON
+276,VA,Waste Disposal,PM10 Primary (Filt + Cond),CAP,46.5266429164,TON
+277,VA,Waste Disposal,PM2.5 Primary (Filt + Cond),CAP,30.0285242,TON
+278,VA,Waste Disposal,Sulfur Dioxide,CAP,34.3444609888,TON
+279,VA,Waste Disposal,Volatile Organic Compounds,CAP,329.16321571,TON

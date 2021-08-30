@@ -1,0 +1,153 @@
+,State,Sector,Pollutant,Pollutant Type,Total Emissions,Emissions Unit of Measure
+0,NJ,All Sectors,Ammonia,CAP,365.1829872890001,TON
+1,NJ,All Sectors,Carbon Monoxide,CAP,49512.38822766354,TON
+2,NJ,All Sectors,Nitrogen Oxides,CAP,1323.9550283779997,TON
+3,NJ,All Sectors,PM10 Primary (Filt + Cond),CAP,1353.702823418638,TON
+4,NJ,All Sectors,PM2.5 Primary (Filt + Cond),CAP,556.1191130153159,TON
+5,NJ,All Sectors,Sulfur Dioxide,CAP,54.5612590867609,TON
+6,NJ,All Sectors,Volatile Organic Compounds,CAP,8308.116956135198,TON
+7,NJ,All Sectors,Carbon Dioxide,GHG,1033628.204583764,TON
+8,NJ,All Sectors,Methane,GHG,237.3138273831,TON
+9,NJ,All Sectors,Nitrous Oxide,GHG,57.947210957,TON
+10,NJ,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,686.4114746519999,TON
+11,NJ,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,45.61874945,TON
+12,NJ,Agriculture - Livestock Waste,Ammonia,CAP,291.13204646,TON
+13,NJ,Bulk Gasoline Terminals,Volatile Organic Compounds,CAP,0.15,TON
+14,NJ,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,344.080109,TON
+15,NJ,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,148.407776,TON
+16,NJ,Dust - Construction Dust,PM2.5 Primary (Filt + Cond),CAP,0.49472893,TON
+17,NJ,Dust - Unpaved Road Dust,PM2.5 Primary (Filt + Cond),CAP,10.3797,TON
+18,NJ,Fires - Agricultural Field Burning,Nitrogen Oxides,CAP,4.04736,TON
+19,NJ,Fires - Agricultural Field Burning,PM2.5 Primary (Filt + Cond),CAP,8.115,TON
+20,NJ,Fires - Agricultural Field Burning,Sulfur Dioxide,CAP,0.7086938,TON
+21,NJ,Fires - Agricultural Field Burning,Volatile Organic Compounds,CAP,15.901328,TON
+22,NJ,Fires - Prescribed Fires,Carbon Monoxide,CAP,171.127188,TON
+23,NJ,Fires - Prescribed Fires,PM2.5 Primary (Filt + Cond),CAP,238.389467,TON
+24,NJ,Fires - Prescribed Fires,Sulfur Dioxide,CAP,1.343041,TON
+25,NJ,Fires - Wildfires,Sulfur Dioxide,CAP,0.375257,TON
+26,NJ,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.63313362,TON
+27,NJ,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,28.30817,TON
+28,NJ,Fuel Comb - Comm/Institutional - Biomass,Nitrogen Oxides,CAP,1.625742,TON
+29,NJ,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,1.2201872,TON
+30,NJ,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+31,NJ,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+32,NJ,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+33,NJ,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,0.4376899,TON
+34,NJ,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,2.315077,TON
+35,NJ,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,7.878572999999999,TON
+36,NJ,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Dioxide,GHG,12306.9,TON
+37,NJ,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.1213897242,TON
+38,NJ,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,0.3752048443,TON
+39,NJ,Fuel Comb - Comm/Institutional - Oil,Volatile Organic Compounds,CAP,5.9590025154,TON
+40,NJ,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,4.1142556159999994,TON
+41,NJ,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,57.444658,TON
+42,NJ,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,4.405884,TON
+43,NJ,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.009748016,TON
+44,NJ,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,8.2368448,TON
+45,NJ,Fuel Comb - Electric Generation - Natural Gas,Sulfur Dioxide,CAP,3.7575,TON
+46,NJ,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,5.2857,TON
+47,NJ,Fuel Comb - Electric Generation - Oil,Nitrogen Oxides,CAP,3.4069,TON
+48,NJ,Fuel Comb - Electric Generation - Oil,Sulfur Dioxide,CAP,0.5541,TON
+49,NJ,Fuel Comb - Electric Generation - Oil,Volatile Organic Compounds,CAP,0.108,TON
+50,NJ,Fuel Comb - Electric Generation - Other,Carbon Monoxide,CAP,348.83,TON
+51,NJ,Fuel Comb - Electric Generation - Other,PM10 Primary (Filt + Cond),CAP,4.3159,TON
+52,NJ,Fuel Comb - Electric Generation - Other,PM2.5 Primary (Filt + Cond),CAP,0.42,TON
+53,NJ,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.18407577,TON
+54,NJ,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Carbon Monoxide,CAP,23.99333,TON
+55,NJ,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Nitrogen Oxides,CAP,26.228194000000002,TON
+56,NJ,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Sulfur Dioxide,CAP,0.246057,TON
+57,NJ,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Volatile Organic Compounds,CAP,0.1673188,TON
+58,NJ,"Fuel Comb - Industrial Boilers, ICEs - Coal",Nitrogen Oxides,CAP,0.0,TON
+59,NJ,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Carbon Monoxide,CAP,98.26780000000001,TON
+60,NJ,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",PM10 Primary (Filt + Cond),CAP,3.806,TON
+61,NJ,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Sulfur Dioxide,CAP,1.5518999999999998,TON
+62,NJ,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Volatile Organic Compounds,CAP,4.1744,TON
+63,NJ,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Carbon Dioxide,GHG,46009.9,TON
+64,NJ,"Fuel Comb - Industrial Boilers, ICEs - Oil",Ammonia,CAP,0.0001859288,TON
+65,NJ,"Fuel Comb - Industrial Boilers, ICEs - Oil",Carbon Monoxide,CAP,1.002575664,TON
+66,NJ,"Fuel Comb - Industrial Boilers, ICEs - Oil",Nitrogen Oxides,CAP,6.17643437,TON
+67,NJ,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM2.5 Primary (Filt + Cond),CAP,0.0094467984,TON
+68,NJ,"Fuel Comb - Industrial Boilers, ICEs - Oil",Carbon Dioxide,GHG,172.0,TON
+69,NJ,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,11.102698,TON
+70,NJ,"Fuel Comb - Industrial Boilers, ICEs - Other",Nitrogen Oxides,CAP,4.617141,TON
+71,NJ,"Fuel Comb - Industrial Boilers, ICEs - Other",PM2.5 Primary (Filt + Cond),CAP,0.01867965,TON
+72,NJ,"Fuel Comb - Industrial Boilers, ICEs - Other",Sulfur Dioxide,CAP,0.19196172,TON
+73,NJ,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,0.5040802,TON
+74,NJ,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,3.928864,TON
+75,NJ,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,20.45917,TON
+76,NJ,Fuel Comb - Residential - Oil,Ammonia,CAP,3.22145616,TON
+77,NJ,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,11.302568874,TON
+78,NJ,Fuel Comb - Residential - Other,Ammonia,CAP,0.04783793,TON
+79,NJ,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.05559889,TON
+80,NJ,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,0.2140101,TON
+81,NJ,Fuel Comb - Residential - Wood,Ammonia,CAP,20.297284017,TON
+82,NJ,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,835.7431352799999,TON
+83,NJ,Gas Stations,Volatile Organic Compounds,CAP,556.9061933999999,TON
+84,NJ,Industrial Processes - Chemical Manuf,Ammonia,CAP,0.1702,TON
+85,NJ,Industrial Processes - Chemical Manuf,Carbon Monoxide,CAP,2.4131,TON
+86,NJ,Industrial Processes - Chemical Manuf,PM10 Primary (Filt + Cond),CAP,0.12,TON
+87,NJ,Industrial Processes - Chemical Manuf,Sulfur Dioxide,CAP,0.0148,TON
+88,NJ,Industrial Processes - Chemical Manuf,Methane,GHG,0.0084,TON
+89,NJ,Industrial Processes - NEC,PM10 Primary (Filt + Cond),CAP,11.1496,TON
+90,NJ,Industrial Processes - NEC,Carbon Dioxide,GHG,611386.21490775,TON
+91,NJ,Industrial Processes - NEC,Nitrous Oxide,GHG,1.254430487,TON
+92,NJ,Industrial Processes - Oil & Gas Production,Carbon Monoxide,CAP,0.0,TON
+93,NJ,Industrial Processes - Oil & Gas Production,Nitrogen Oxides,CAP,0.0,TON
+94,NJ,Industrial Processes - Oil & Gas Production,PM10 Primary (Filt + Cond),CAP,0.0,TON
+95,NJ,Industrial Processes - Oil & Gas Production,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+96,NJ,Industrial Processes - Petroleum Refineries,Sulfur Dioxide,CAP,25.1387,TON
+97,NJ,Industrial Processes - Pulp & Paper,Nitrogen Oxides,CAP,5.669,TON
+98,NJ,Industrial Processes - Pulp & Paper,PM10 Primary (Filt + Cond),CAP,7.3454,TON
+99,NJ,Industrial Processes - Pulp & Paper,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+100,NJ,Industrial Processes - Storage and Transfer,Ammonia,CAP,0.0383999999999999,TON
+101,NJ,Industrial Processes - Storage and Transfer,PM10 Primary (Filt + Cond),CAP,1.4883,TON
+102,NJ,Industrial Processes - Storage and Transfer,Sulfur Dioxide,CAP,2.0419,TON
+103,NJ,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,135.9483958022,TON
+104,NJ,Miscellaneous Non-Industrial NEC,Carbon Monoxide,CAP,179.09944533153998,TON
+105,NJ,Miscellaneous Non-Industrial NEC,PM2.5 Primary (Filt + Cond),CAP,22.6703262608,TON
+106,NJ,Mobile - Aircraft,PM10 Primary (Filt + Cond),CAP,8.24010784939,TON
+107,NJ,Mobile - Aircraft,Sulfur Dioxide,CAP,0.54561217695,TON
+108,NJ,Mobile - Commercial Marine Vessels,Ammonia,CAP,0.13993505,TON
+109,NJ,Mobile - Commercial Marine Vessels,Carbon Monoxide,CAP,107.47831721,TON
+110,NJ,Mobile - Commercial Marine Vessels,PM10 Primary (Filt + Cond),CAP,109.28070938,TON
+111,NJ,Mobile - Commercial Marine Vessels,PM2.5 Primary (Filt + Cond),CAP,0.04276942,TON
+112,NJ,Mobile - Commercial Marine Vessels,Volatile Organic Compounds,CAP,74.60410490000001,TON
+113,NJ,Mobile - Locomotives,PM2.5 Primary (Filt + Cond),CAP,1.221904,TON
+114,NJ,Mobile - Locomotives,Volatile Organic Compounds,CAP,1.080595193,TON
+115,NJ,Mobile - Non-Road Equipment - Diesel,PM2.5 Primary (Filt + Cond),CAP,78.48622254,TON
+116,NJ,Mobile - Non-Road Equipment - Diesel,Sulfur Dioxide,CAP,3.9703891878400004,TON
+117,NJ,Mobile - Non-Road Equipment - Diesel,Volatile Organic Compounds,CAP,177.766249349,TON
+118,NJ,Mobile - Non-Road Equipment - Gasoline,Carbon Monoxide,CAP,34285.903702458,TON
+119,NJ,Mobile - Non-Road Equipment - Gasoline,PM10 Primary (Filt + Cond),CAP,8.7865953824,TON
+120,NJ,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,1.1589510448209,TON
+121,NJ,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,748.4976362000001,TON
+122,NJ,Mobile - Non-Road Equipment - Gasoline,Carbon Dioxide,GHG,69539.633776014,TON
+123,NJ,Mobile - Non-Road Equipment - Gasoline,Methane,GHG,164.6599251331,TON
+124,NJ,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,48.741072158,TON
+125,NJ,Mobile - Non-Road Equipment - Other,PM10 Primary (Filt + Cond),CAP,1.011494410848,TON
+126,NJ,Mobile - Non-Road Equipment - Other,PM2.5 Primary (Filt + Cond),CAP,1.274915860116,TON
+127,NJ,Mobile - Non-Road Equipment - Other,Volatile Organic Compounds,CAP,2.9666704326,TON
+128,NJ,Mobile - On-Road Diesel Heavy Duty Vehicles,Ammonia,CAP,6.03914863,TON
+129,NJ,Mobile - On-Road Diesel Heavy Duty Vehicles,Carbon Monoxide,CAP,310.54028700000003,TON
+130,NJ,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,1128.051912,TON
+131,NJ,Mobile - On-Road Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,145.43703187,TON
+132,NJ,Mobile - On-Road Diesel Heavy Duty Vehicles,Carbon Dioxide,GHG,236084.6039,TON
+133,NJ,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,77.065001,TON
+134,NJ,Mobile - On-Road Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,8.612455,TON
+135,NJ,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Dioxide,GHG,58128.952000000005,TON
+136,NJ,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Ammonia,CAP,1.102575809,TON
+137,NJ,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Carbon Monoxide,CAP,718.7420639999999,TON
+138,NJ,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Sulfur Dioxide,CAP,0.56574421285,TON
+139,NJ,Mobile - On-Road non-Diesel Light Duty Vehicles,Ammonia,CAP,31.533776674,TON
+140,NJ,Mobile - On-Road non-Diesel Light Duty Vehicles,Carbon Monoxide,CAP,13162.849192,TON
+141,NJ,Mobile - On-Road non-Diesel Light Duty Vehicles,Volatile Organic Compounds,CAP,1217.59367,TON
+142,NJ,Mobile - On-Road non-Diesel Light Duty Vehicles,Methane,GHG,72.64550225,TON
+143,NJ,Mobile - On-Road non-Diesel Light Duty Vehicles,Nitrous Oxide,GHG,56.69278047,TON
+144,NJ,Solvent - Consumer & Commercial Solvent Use,Volatile Organic Compounds,CAP,3651.555704263,TON
+145,NJ,Solvent - Degreasing,Volatile Organic Compounds,CAP,250.8488,TON
+146,NJ,Solvent - Dry Cleaning,Volatile Organic Compounds,CAP,0.07095,TON
+147,NJ,Solvent - Industrial Surface Coating & Solvent Use,Ammonia,CAP,0.3468,TON
+148,NJ,Solvent - Industrial Surface Coating & Solvent Use,Nitrogen Oxides,CAP,0.1496,TON
+149,NJ,Solvent - Non-Industrial Surface Coating,Volatile Organic Compounds,CAP,598.1586,TON
+150,NJ,Waste Disposal,Ammonia,CAP,5.622796,TON
+151,NJ,Waste Disposal,Nitrogen Oxides,CAP,13.77078785,TON

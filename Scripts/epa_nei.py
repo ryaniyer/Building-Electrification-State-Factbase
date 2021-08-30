@@ -104,7 +104,7 @@ def get_county_emissions(sa):
     dfnew = pd.concat([caps, ghgs], axis=0).sort_values(by=['County','Sector','Pollutant Type','Pollutant'])
     dftots = dfnew[dfnew['Sector']=='All Sectors']
     dfnontots = dfnew[dfnew['Sector']!='All Sectors']
-    dfnew = pd.concat([dftots, dfnontots], axis=0)
+    dfnew = pd.concat([dftots, dfnontots], axis=0).reset_index(drop=True)
     return dfnew
 
 def get_state_emissions(sa):
@@ -113,7 +113,7 @@ def get_state_emissions(sa):
     dfnew = pd.concat([caps, ghgs], axis=0).sort_values(by=['Sector','Pollutant Type','Pollutant'])
     dftots = dfnew[dfnew['Sector']=='All Sectors']
     dfnontots = dfnew[dfnew['Sector']!='All Sectors']
-    dfnew = pd.concat([dftots, dfnontots], axis=0)
+    dfnew = pd.concat([dftots, dfnontots], axis=0).reset_index(drop=True)
     return dfnew
 
 def get_national_emissions(sa):
@@ -122,5 +122,5 @@ def get_national_emissions(sa):
     dfnew = pd.concat([caps, ghgs], axis=0).sort_values(by=['Sector','Pollutant Type','Pollutant'])
     dftots = dfnew[dfnew['Sector']=='All Sectors']
     dfnontots = dfnew[dfnew['Sector']!='All Sectors']
-    dfnew = pd.concat([dftots, dfnontots], axis=0)
+    dfnew = pd.concat([dftots, dfnontots], axis=0).reset_index(drop=True)
     return dfnew

@@ -1,0 +1,251 @@
+,State,Sector,Pollutant,Pollutant Type,Total Emissions,Emissions Unit of Measure
+0,NY,All Sectors,Ammonia,CAP,1553.9031822432275,TON
+1,NY,All Sectors,Carbon Monoxide,CAP,10572.84670372785,TON
+2,NY,All Sectors,Nitrogen Oxides,CAP,7111.660194926192,TON
+3,NY,All Sectors,PM10 Primary (Filt + Cond),CAP,3728.299734066077,TON
+4,NY,All Sectors,PM2.5 Primary (Filt + Cond),CAP,1924.4213563722321,TON
+5,NY,All Sectors,Sulfur Dioxide,CAP,800.5881871239203,TON
+6,NY,All Sectors,Volatile Organic Compounds,CAP,8449.370370400895,TON
+7,NY,All Sectors,Carbon Dioxide,GHG,886457.8529327222,TON
+8,NY,All Sectors,Methane,GHG,278.725559726584,TON
+9,NY,All Sectors,Nitrous Oxide,GHG,57.492542002994995,TON
+10,NY,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,864.93624235,TON
+11,NY,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,52.76347973399999,TON
+12,NY,Agriculture - Fertilizer Application,Ammonia,CAP,389.6,TON
+13,NY,Agriculture - Livestock Waste,Ammonia,CAP,933.14873577,TON
+14,NY,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,2.190553963,TON
+15,NY,Biogenics - Vegetation and Soil,Carbon Monoxide,CAP,1514.8863000000001,TON
+16,NY,Bulk Gasoline Terminals,Volatile Organic Compounds,CAP,45.341831129999996,TON
+17,NY,Commercial Cooking,Carbon Monoxide,CAP,323.5664493,TON
+18,NY,Commercial Cooking,PM10 Primary (Filt + Cond),CAP,14.079527800000005,TON
+19,NY,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,615.0085358700001,TON
+20,NY,Dust - Construction Dust,PM10 Primary (Filt + Cond),CAP,24.136285,TON
+21,NY,Dust - Construction Dust,PM2.5 Primary (Filt + Cond),CAP,71.538894,TON
+22,NY,Dust - Paved Road Dust,PM10 Primary (Filt + Cond),CAP,496.86330999999996,TON
+23,NY,Dust - Paved Road Dust,PM2.5 Primary (Filt + Cond),CAP,157.17184,TON
+24,NY,Dust - Unpaved Road Dust,PM10 Primary (Filt + Cond),CAP,1296.172,TON
+25,NY,Dust - Unpaved Road Dust,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+26,NY,Fires - Agricultural Field Burning,Ammonia,CAP,0.8079999999999998,TON
+27,NY,Fires - Agricultural Field Burning,Nitrogen Oxides,CAP,0.237,TON
+28,NY,Fires - Agricultural Field Burning,Sulfur Dioxide,CAP,0.1024,TON
+29,NY,Fires - Prescribed Fires,Ammonia,CAP,1.554368,TON
+30,NY,Fires - Prescribed Fires,Carbon Monoxide,CAP,174.31456,TON
+31,NY,Fires - Prescribed Fires,PM10 Primary (Filt + Cond),CAP,47.781696,TON
+32,NY,Fires - Prescribed Fires,PM2.5 Primary (Filt + Cond),CAP,41.043261,TON
+33,NY,Fires - Prescribed Fires,Sulfur Dioxide,CAP,4.66427,TON
+34,NY,Fires - Prescribed Fires,Volatile Organic Compounds,CAP,11.17202,TON
+35,NY,Fires - Prescribed Fires,Carbon Dioxide,GHG,7931.2292,TON
+36,NY,Fires - Wildfires,Ammonia,CAP,1.4238,TON
+37,NY,Fires - Wildfires,Nitrogen Oxides,CAP,8.915555000000001,TON
+38,NY,Fires - Wildfires,Sulfur Dioxide,CAP,0.4402899999999999,TON
+39,NY,Fires - Wildfires,Volatile Organic Compounds,CAP,2.087598,TON
+40,NY,Fires - Wildfires,Carbon Dioxide,GHG,1704.377072,TON
+41,NY,Fires - Wildfires,Methane,GHG,38.920687,TON
+42,NY,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.7040936899999999,TON
+43,NY,Fuel Comb - Comm/Institutional - Biomass,Carbon Monoxide,CAP,1.6606516,TON
+44,NY,Fuel Comb - Comm/Institutional - Biomass,PM2.5 Primary (Filt + Cond),CAP,32.14522236,TON
+45,NY,Fuel Comb - Comm/Institutional - Biomass,Sulfur Dioxide,CAP,1.67726898,TON
+46,NY,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.7113976499999999,TON
+47,NY,Fuel Comb - Comm/Institutional - Coal,Ammonia,CAP,0.0,TON
+48,NY,Fuel Comb - Comm/Institutional - Coal,Carbon Monoxide,CAP,0.0,TON
+49,NY,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+50,NY,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.0,TON
+51,NY,Fuel Comb - Comm/Institutional - Coal,PM2.5 Primary (Filt + Cond),CAP,0.0,TON
+52,NY,Fuel Comb - Comm/Institutional - Coal,Sulfur Dioxide,CAP,0.0,TON
+53,NY,Fuel Comb - Comm/Institutional - Coal,Volatile Organic Compounds,CAP,0.0,TON
+54,NY,Fuel Comb - Comm/Institutional - Natural Gas,Ammonia,CAP,5.0796755000000005,TON
+55,NY,Fuel Comb - Comm/Institutional - Natural Gas,Carbon Monoxide,CAP,107.73699100000002,TON
+56,NY,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,540.940753,TON
+57,NY,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.020668,TON
+58,NY,Fuel Comb - Comm/Institutional - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,6.3043226500000005,TON
+59,NY,Fuel Comb - Comm/Institutional - Natural Gas,Sulfur Dioxide,CAP,0.19081041999999998,TON
+60,NY,Fuel Comb - Comm/Institutional - Natural Gas,Volatile Organic Compounds,CAP,36.5175481,TON
+61,NY,Fuel Comb - Comm/Institutional - Oil,Ammonia,CAP,0.01809418653,TON
+62,NY,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,0.105709114,TON
+63,NY,Fuel Comb - Comm/Institutional - Oil,Nitrogen Oxides,CAP,6.305926197,TON
+64,NY,Fuel Comb - Comm/Institutional - Oil,PM2.5 Primary (Filt + Cond),CAP,6.0013496021999995,TON
+65,NY,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,11.69424837741,TON
+66,NY,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.001599412,TON
+67,NY,Fuel Comb - Comm/Institutional - Other,Nitrogen Oxides,CAP,12.56648,TON
+68,NY,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.008099652,TON
+69,NY,Fuel Comb - Comm/Institutional - Other,PM2.5 Primary (Filt + Cond),CAP,0.02641163,TON
+70,NY,Fuel Comb - Comm/Institutional - Other,Sulfur Dioxide,CAP,0.27808834299999996,TON
+71,NY,Fuel Comb - Comm/Institutional - Other,Volatile Organic Compounds,CAP,0.1549961,TON
+72,NY,Fuel Comb - Electric Generation - Biomass,Carbon Monoxide,CAP,0.0,TON
+73,NY,Fuel Comb - Electric Generation - Coal,Nitrogen Oxides,CAP,310.4,TON
+74,NY,Fuel Comb - Electric Generation - Natural Gas,Ammonia,CAP,105.0925976,TON
+75,NY,Fuel Comb - Electric Generation - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.579885,TON
+76,NY,Fuel Comb - Electric Generation - Oil,Nitrogen Oxides,CAP,32.000996,TON
+77,NY,Fuel Comb - Electric Generation - Oil,PM2.5 Primary (Filt + Cond),CAP,0.00267875,TON
+78,NY,Fuel Comb - Electric Generation - Oil,Sulfur Dioxide,CAP,0.002,TON
+79,NY,Fuel Comb - Electric Generation - Oil,Volatile Organic Compounds,CAP,0.14886545,TON
+80,NY,Fuel Comb - Electric Generation - Oil,Methane,GHG,0.0008,TON
+81,NY,Fuel Comb - Electric Generation - Other,Carbon Monoxide,CAP,24.7695,TON
+82,NY,Fuel Comb - Electric Generation - Other,Nitrogen Oxides,CAP,18.3851,TON
+83,NY,Fuel Comb - Electric Generation - Other,Sulfur Dioxide,CAP,2.319,TON
+84,NY,Fuel Comb - Electric Generation - Other,Methane,GHG,0.902,TON
+85,NY,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Carbon Monoxide,CAP,64.50594000000001,TON
+86,NY,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Nitrogen Oxides,CAP,7.82865,TON
+87,NY,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM2.5 Primary (Filt + Cond),CAP,56.319545,TON
+88,NY,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Sulfur Dioxide,CAP,1.658475,TON
+89,NY,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Volatile Organic Compounds,CAP,11.7666892,TON
+90,NY,"Fuel Comb - Industrial Boilers, ICEs - Coal",Ammonia,CAP,0.00639554,TON
+91,NY,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM10 Primary (Filt + Cond),CAP,1.572258,TON
+92,NY,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM2.5 Primary (Filt + Cond),CAP,4.0905941200000004,TON
+93,NY,"Fuel Comb - Industrial Boilers, ICEs - Coal",Sulfur Dioxide,CAP,84.261583,TON
+94,NY,"Fuel Comb - Industrial Boilers, ICEs - Coal",Volatile Organic Compounds,CAP,0.01473615,TON
+95,NY,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Ammonia,CAP,0.6149167,TON
+96,NY,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Carbon Monoxide,CAP,47.77475,TON
+97,NY,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,568.9011032,TON
+98,NY,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",PM2.5 Primary (Filt + Cond),CAP,6.63457395,TON
+99,NY,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Sulfur Dioxide,CAP,0.6180239999999999,TON
+100,NY,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Volatile Organic Compounds,CAP,7.9285179,TON
+101,NY,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Carbon Dioxide,GHG,50478.53999999999,TON
+102,NY,"Fuel Comb - Industrial Boilers, ICEs - Oil",Ammonia,CAP,0.047909782,TON
+103,NY,"Fuel Comb - Industrial Boilers, ICEs - Oil",Carbon Monoxide,CAP,71.16786209,TON
+104,NY,"Fuel Comb - Industrial Boilers, ICEs - Oil",Nitrogen Oxides,CAP,419.3707425,TON
+105,NY,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,6.5237671,TON
+106,NY,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM2.5 Primary (Filt + Cond),CAP,0.614718554,TON
+107,NY,"Fuel Comb - Industrial Boilers, ICEs - Oil",Sulfur Dioxide,CAP,70.010214,TON
+108,NY,"Fuel Comb - Industrial Boilers, ICEs - Oil",Volatile Organic Compounds,CAP,0.8938842920000001,TON
+109,NY,"Fuel Comb - Industrial Boilers, ICEs - Other",Ammonia,CAP,0.0173915927,TON
+110,NY,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,0.05500313,TON
+111,NY,"Fuel Comb - Industrial Boilers, ICEs - Other",Nitrogen Oxides,CAP,1.354092,TON
+112,NY,"Fuel Comb - Industrial Boilers, ICEs - Other",PM10 Primary (Filt + Cond),CAP,0.00523886221,TON
+113,NY,"Fuel Comb - Industrial Boilers, ICEs - Other",PM2.5 Primary (Filt + Cond),CAP,0.0004933068,TON
+114,NY,"Fuel Comb - Industrial Boilers, ICEs - Other",Sulfur Dioxide,CAP,0.0034109433999999998,TON
+115,NY,"Fuel Comb - Industrial Boilers, ICEs - Other",Volatile Organic Compounds,CAP,0.039350035999999894,TON
+116,NY,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,29.90098,TON
+117,NY,Fuel Comb - Residential - Natural Gas,Carbon Monoxide,CAP,11.96717,TON
+118,NY,Fuel Comb - Residential - Natural Gas,Nitrogen Oxides,CAP,1786.07293,TON
+119,NY,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,36.68251,TON
+120,NY,Fuel Comb - Residential - Natural Gas,PM2.5 Primary (Filt + Cond),CAP,5.45404,TON
+121,NY,Fuel Comb - Residential - Natural Gas,Sulfur Dioxide,CAP,0.10814274,TON
+122,NY,Fuel Comb - Residential - Natural Gas,Volatile Organic Compounds,CAP,24.152641645000003,TON
+123,NY,Fuel Comb - Residential - Oil,Ammonia,CAP,4.796948895,TON
+124,NY,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,10.8663654,TON
+125,NY,Fuel Comb - Residential - Oil,Nitrogen Oxides,CAP,72.312485,TON
+126,NY,Fuel Comb - Residential - Oil,PM10 Primary (Filt + Cond),CAP,15.286009,TON
+127,NY,Fuel Comb - Residential - Oil,PM2.5 Primary (Filt + Cond),CAP,1.766683295,TON
+128,NY,Fuel Comb - Residential - Oil,Sulfur Dioxide,CAP,0.43183644,TON
+129,NY,Fuel Comb - Residential - Oil,Volatile Organic Compounds,CAP,19.984888055000003,TON
+130,NY,Fuel Comb - Residential - Other,Ammonia,CAP,0.0,TON
+131,NY,Fuel Comb - Residential - Other,Carbon Monoxide,CAP,10.344872500000001,TON
+132,NY,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,29.2923,TON
+133,NY,Fuel Comb - Residential - Other,PM10 Primary (Filt + Cond),CAP,1.9010165,TON
+134,NY,Fuel Comb - Residential - Other,PM2.5 Primary (Filt + Cond),CAP,0.8220615,TON
+135,NY,Fuel Comb - Residential - Other,Sulfur Dioxide,CAP,2.4356245,TON
+136,NY,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,0.66941095,TON
+137,NY,Fuel Comb - Residential - Wood,Ammonia,CAP,29.284741497,TON
+138,NY,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,2501.9758718488,TON
+139,NY,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,29.735053671899998,TON
+140,NY,Fuel Comb - Residential - Wood,PM10 Primary (Filt + Cond),CAP,479.35253588,TON
+141,NY,Fuel Comb - Residential - Wood,PM2.5 Primary (Filt + Cond),CAP,253.7036628,TON
+142,NY,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,121.27449401,TON
+143,NY,Gas Stations,Volatile Organic Compounds,CAP,799.4328440186,TON
+144,NY,Industrial Processes - Chemical Manuf,Carbon Monoxide,CAP,0.0,TON
+145,NY,Industrial Processes - Ferrous Metals,PM2.5 Primary (Filt + Cond),CAP,9.97062,TON
+146,NY,Industrial Processes - Mining,PM10 Primary (Filt + Cond),CAP,157.26186,TON
+147,NY,Industrial Processes - Mining,PM2.5 Primary (Filt + Cond),CAP,11.46701,TON
+148,NY,Industrial Processes - NEC,Carbon Monoxide,CAP,13.347955,TON
+149,NY,Industrial Processes - NEC,Nitrogen Oxides,CAP,516.0044,TON
+150,NY,Industrial Processes - NEC,PM10 Primary (Filt + Cond),CAP,2.119695,TON
+151,NY,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,64.2315122,TON
+152,NY,Industrial Processes - NEC,Sulfur Dioxide,CAP,0.13179,TON
+153,NY,Industrial Processes - NEC,Volatile Organic Compounds,CAP,17.6449636,TON
+154,NY,Industrial Processes - NEC,Carbon Dioxide,GHG,426170.47075805004,TON
+155,NY,Industrial Processes - NEC,Nitrous Oxide,GHG,23.320502094,TON
+156,NY,Industrial Processes - Oil & Gas Production,Nitrogen Oxides,CAP,10.0979481669,TON
+157,NY,Industrial Processes - Oil & Gas Production,PM2.5 Primary (Filt + Cond),CAP,0.8511091890000001,TON
+158,NY,Industrial Processes - Oil & Gas Production,Sulfur Dioxide,CAP,2.29977918266e-05,TON
+159,NY,Industrial Processes - Oil & Gas Production,Volatile Organic Compounds,CAP,806.0504108063,TON
+160,NY,Industrial Processes - Storage and Transfer,PM10 Primary (Filt + Cond),CAP,3.144,TON
+161,NY,Miscellaneous Non-Industrial NEC,Carbon Monoxide,CAP,716.968530605252,TON
+162,NY,Miscellaneous Non-Industrial NEC,Nitrogen Oxides,CAP,0.65954391976,TON
+163,NY,Miscellaneous Non-Industrial NEC,PM10 Primary (Filt + Cond),CAP,5.670377791540001,TON
+164,NY,Miscellaneous Non-Industrial NEC,PM2.5 Primary (Filt + Cond),CAP,100.08647855404101,TON
+165,NY,Miscellaneous Non-Industrial NEC,Sulfur Dioxide,CAP,0.5385133759690001,TON
+166,NY,Mobile - Aircraft,Carbon Monoxide,CAP,566.164531205,TON
+167,NY,Mobile - Aircraft,Nitrogen Oxides,CAP,25.018305189499998,TON
+168,NY,Mobile - Aircraft,PM10 Primary (Filt + Cond),CAP,2.512333121,TON
+169,NY,Mobile - Aircraft,PM2.5 Primary (Filt + Cond),CAP,8.610596532410002,TON
+170,NY,Mobile - Aircraft,Sulfur Dioxide,CAP,532.59876127899,TON
+171,NY,Mobile - Aircraft,Volatile Organic Compounds,CAP,2.189533948,TON
+172,NY,Mobile - Commercial Marine Vessels,Carbon Monoxide,CAP,22.39074683,TON
+173,NY,Mobile - Commercial Marine Vessels,Nitrogen Oxides,CAP,130.45102728,TON
+174,NY,Mobile - Commercial Marine Vessels,PM10 Primary (Filt + Cond),CAP,6.06396744,TON
+175,NY,Mobile - Commercial Marine Vessels,PM2.5 Primary (Filt + Cond),CAP,4.36624396,TON
+176,NY,Mobile - Commercial Marine Vessels,Sulfur Dioxide,CAP,1.96293845,TON
+177,NY,Mobile - Locomotives,Ammonia,CAP,0.272008716,TON
+178,NY,Mobile - Locomotives,Nitrogen Oxides,CAP,983.054817,TON
+179,NY,Mobile - Locomotives,PM10 Primary (Filt + Cond),CAP,2.8037592,TON
+180,NY,Mobile - Locomotives,PM2.5 Primary (Filt + Cond),CAP,21.525040119,TON
+181,NY,Mobile - Locomotives,Sulfur Dioxide,CAP,0.17349733499999997,TON
+182,NY,Mobile - Locomotives,Volatile Organic Compounds,CAP,7.355863,TON
+183,NY,Mobile - Non-Road Equipment - Diesel,Carbon Monoxide,CAP,256.814665288,TON
+184,NY,Mobile - Non-Road Equipment - Diesel,Nitrogen Oxides,CAP,186.12947543,TON
+185,NY,Mobile - Non-Road Equipment - Diesel,PM10 Primary (Filt + Cond),CAP,3.729212132,TON
+186,NY,Mobile - Non-Road Equipment - Diesel,PM2.5 Primary (Filt + Cond),CAP,16.5690504084,TON
+187,NY,Mobile - Non-Road Equipment - Diesel,Volatile Organic Compounds,CAP,26.745482235,TON
+188,NY,Mobile - Non-Road Equipment - Diesel,Carbon Dioxide,GHG,268517.18176,TON
+189,NY,Mobile - Non-Road Equipment - Diesel,Methane,GHG,0.9487809735999999,TON
+190,NY,Mobile - Non-Road Equipment - Gasoline,Ammonia,CAP,0.2434183312177,TON
+191,NY,Mobile - Non-Road Equipment - Gasoline,Carbon Monoxide,CAP,2474.487510438,TON
+192,NY,Mobile - Non-Road Equipment - Gasoline,Nitrogen Oxides,CAP,133.4620037546,TON
+193,NY,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,1.2324885892016,TON
+194,NY,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,903.2843500581,TON
+195,NY,Mobile - Non-Road Equipment - Gasoline,Carbon Dioxide,GHG,33107.36036488,TON
+196,NY,Mobile - Non-Road Equipment - Gasoline,Methane,GHG,94.81439337538,TON
+197,NY,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,162.57194277879998,TON
+198,NY,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,323.676938143872,TON
+199,NY,Mobile - Non-Road Equipment - Other,PM10 Primary (Filt + Cond),CAP,0.687829646601,TON
+200,NY,Mobile - Non-Road Equipment - Other,PM2.5 Primary (Filt + Cond),CAP,19.002165033282,TON
+201,NY,Mobile - Non-Road Equipment - Other,Volatile Organic Compounds,CAP,4.0562140169,TON
+202,NY,Mobile - Non-Road Equipment - Other,Carbon Dioxide,GHG,43930.936001792,TON
+203,NY,Mobile - Non-Road Equipment - Other,Methane,GHG,71.741907901154,TON
+204,NY,Mobile - On-Road Diesel Heavy Duty Vehicles,Ammonia,CAP,16.322801415,TON
+205,NY,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,274.4836242,TON
+206,NY,Mobile - On-Road Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,6.382144254,TON
+207,NY,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,11.978548721,TON
+208,NY,Mobile - On-Road Diesel Heavy Duty Vehicles,Sulfur Dioxide,CAP,0.4001561929,TON
+209,NY,Mobile - On-Road Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,46.882055363,TON
+210,NY,Mobile - On-Road Diesel Heavy Duty Vehicles,Methane,GHG,5.993043894,TON
+211,NY,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,1.26367517,TON
+212,NY,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,772.0231439999999,TON
+213,NY,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,219.24395170000003,TON
+214,NY,Mobile - On-Road Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,1.8872976599999998,TON
+215,NY,Mobile - On-Road Diesel Light Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,1.6068067,TON
+216,NY,Mobile - On-Road Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,0.0582022169999999,TON
+217,NY,Mobile - On-Road Diesel Light Duty Vehicles,Volatile Organic Compounds,CAP,5.7899905,TON
+218,NY,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Dioxide,GHG,2119.45456,TON
+219,NY,Mobile - On-Road Diesel Light Duty Vehicles,Methane,GHG,1.19622947,TON
+220,NY,Mobile - On-Road Diesel Light Duty Vehicles,Nitrous Oxide,GHG,0.38102704,TON
+221,NY,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Ammonia,CAP,3.9932778708,TON
+222,NY,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Carbon Monoxide,CAP,152.7115816,TON
+223,NY,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,3.660120114,TON
+224,NY,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Sulfur Dioxide,CAP,0.8685380951999999,TON
+225,NY,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,97.671864874,TON
+226,NY,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Carbon Dioxide,GHG,33048.933716,TON
+227,NY,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Methane,GHG,1.4605034107,TON
+228,NY,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Nitrous Oxide,GHG,1.1144625172,TON
+229,NY,Mobile - On-Road non-Diesel Light Duty Vehicles,Ammonia,CAP,23.08268369498,TON
+230,NY,Mobile - On-Road non-Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,461.11226945266,TON
+231,NY,Mobile - On-Road non-Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,158.704983562725,TON
+232,NY,Mobile - On-Road non-Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,68.823809298058,TON
+233,NY,Mobile - On-Road non-Diesel Light Duty Vehicles,Methane,GHG,62.74721370175,TON
+234,NY,Mobile - On-Road non-Diesel Light Duty Vehicles,Nitrous Oxide,GHG,32.676550351795,TON
+235,NY,Solvent - Consumer & Commercial Solvent Use,Volatile Organic Compounds,CAP,4576.649501999999,TON
+236,NY,Solvent - Degreasing,Volatile Organic Compounds,CAP,43.43335,TON
+237,NY,Solvent - Graphic Arts,PM2.5 Primary (Filt + Cond),CAP,0.94041,TON
+238,NY,Solvent - Graphic Arts,Volatile Organic Compounds,CAP,41.183040000000005,TON
+239,NY,Solvent - Industrial Surface Coating & Solvent Use,PM2.5 Primary (Filt + Cond),CAP,0.0014687231,TON
+240,NY,Solvent - Industrial Surface Coating & Solvent Use,Volatile Organic Compounds,CAP,343.2549072,TON
+241,NY,Solvent - Non-Industrial Surface Coating,Volatile Organic Compounds,CAP,329.55932,TON
+242,NY,Waste Disposal,Ammonia,CAP,6.625068879999999,TON
+243,NY,Waste Disposal,Carbon Monoxide,CAP,569.6681000000001,TON
+244,NY,Waste Disposal,Nitrogen Oxides,CAP,3.64672412,TON
+245,NY,Waste Disposal,PM10 Primary (Filt + Cond),CAP,84.771105,TON
+246,NY,Waste Disposal,PM2.5 Primary (Filt + Cond),CAP,341.80192811,TON
+247,NY,Waste Disposal,Sulfur Dioxide,CAP,12.90378255,TON
+248,NY,Waste Disposal,Volatile Organic Compounds,CAP,113.13725614999998,TON
+249,NY,Waste Disposal,Carbon Dioxide,GHG,19449.3695,TON

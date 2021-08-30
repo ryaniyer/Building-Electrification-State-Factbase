@@ -1,0 +1,10 @@
+,State,Sector,Pollutant,Pollutant Type,Total Emissions,Emissions Unit of Measure
+0,DC,All Sectors,Carbon Monoxide,CAP,29.51022906,TON
+1,DC,All Sectors,Nitrogen Oxides,CAP,88.27616001900002,TON
+2,DC,All Sectors,PM10 Primary (Filt + Cond),CAP,0.44064,TON
+3,DC,Fuel Comb - Comm/Institutional - Coal,PM10 Primary (Filt + Cond),CAP,0.44064,TON
+4,DC,"Fuel Comb - Industrial Boilers, ICEs - Coal",Nitrogen Oxides,CAP,0.0,TON
+5,DC,Fuel Comb - Residential - Other,Nitrogen Oxides,CAP,0.2814,TON
+6,DC,Mobile - Aircraft,Nitrogen Oxides,CAP,0.0789137479999999,TON
+7,DC,Mobile - Commercial Marine Vessels,Carbon Monoxide,CAP,29.51022906,TON
+8,DC,Mobile - Non-Road Equipment - Gasoline,Nitrogen Oxides,CAP,87.915846271,TON

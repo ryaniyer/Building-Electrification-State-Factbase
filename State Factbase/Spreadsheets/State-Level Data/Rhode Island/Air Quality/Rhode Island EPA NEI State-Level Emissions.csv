@@ -1,0 +1,42 @@
+,State,Sector,Pollutant,Pollutant Type,Total Emissions,Emissions Unit of Measure
+0,RI,All Sectors,Ammonia,CAP,126.77632899554,TON
+1,RI,All Sectors,Carbon Monoxide,CAP,867.2990930883,TON
+2,RI,All Sectors,Nitrogen Oxides,CAP,79.3273582452,TON
+3,RI,All Sectors,PM10 Primary (Filt + Cond),CAP,156.29410367,TON
+4,RI,All Sectors,Sulfur Dioxide,CAP,35.971207436,TON
+5,RI,All Sectors,Volatile Organic Compounds,CAP,5462.937063488999,TON
+6,RI,All Sectors,Carbon Dioxide,GHG,8599.276840976,TON
+7,RI,All Sectors,Methane,GHG,3.255345,TON
+8,RI,Agriculture - Crops & Livestock Dust,PM10 Primary (Filt + Cond),CAP,28.17746052,TON
+9,RI,Biogenics - Vegetation and Soil,Volatile Organic Compounds,CAP,5160.545999999999,TON
+10,RI,Dust - Unpaved Road Dust,PM10 Primary (Filt + Cond),CAP,110.3422,TON
+11,RI,Fires - Prescribed Fires,Sulfur Dioxide,CAP,2.539204,TON
+12,RI,Fires - Prescribed Fires,Methane,GHG,3.255345,TON
+13,RI,Fuel Comb - Comm/Institutional - Biomass,Volatile Organic Compounds,CAP,0.167158,TON
+14,RI,Fuel Comb - Comm/Institutional - Natural Gas,Nitrogen Oxides,CAP,40.065715,TON
+15,RI,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,19.57879441,TON
+16,RI,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.02490629,TON
+17,RI,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Carbon Monoxide,CAP,7.89685,TON
+18,RI,"Fuel Comb - Industrial Boilers, ICEs - Biomass",PM10 Primary (Filt + Cond),CAP,0.5737111999999999,TON
+19,RI,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Sulfur Dioxide,CAP,0.3281854,TON
+20,RI,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,0.3177685,TON
+21,RI,Fuel Comb - Residential - Natural Gas,Ammonia,CAP,125.1744,TON
+22,RI,Fuel Comb - Residential - Natural Gas,PM10 Primary (Filt + Cond),CAP,3.5634421000000005,TON
+23,RI,Fuel Comb - Residential - Oil,Carbon Monoxide,CAP,37.54732954,TON
+24,RI,Fuel Comb - Residential - Wood,Ammonia,CAP,1.5331735375400002,TON
+25,RI,Fuel Comb - Residential - Wood,Nitrogen Oxides,CAP,4.4413046452,TON
+26,RI,Industrial Processes - NEC,Nitrogen Oxides,CAP,16.371685,TON
+27,RI,Industrial Processes - NEC,Volatile Organic Compounds,CAP,160.99225,TON
+28,RI,Miscellaneous Non-Industrial NEC,Carbon Monoxide,CAP,41.4908866069,TON
+29,RI,Mobile - Commercial Marine Vessels,Ammonia,CAP,0.043849168,TON
+30,RI,Mobile - Commercial Marine Vessels,Sulfur Dioxide,CAP,5.16717034,TON
+31,RI,Mobile - Non-Road Equipment - Gasoline,Carbon Dioxide,GHG,8599.276840976,TON
+32,RI,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,780.3640269414001,TON
+33,RI,Mobile - On-Road Diesel Heavy Duty Vehicles,PM10 Primary (Filt + Cond),CAP,12.8931638,TON
+34,RI,Mobile - On-Road Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,12.3143027,TON
+35,RI,Mobile - On-Road Diesel Light Duty Vehicles,PM10 Primary (Filt + Cond),CAP,0.42635755,TON
+36,RI,Mobile - On-Road non-Diesel Heavy Duty Vehicles,Volatile Organic Compounds,CAP,6.726912789,TON
+37,RI,Mobile - On-Road non-Diesel Light Duty Vehicles,Sulfur Dioxide,CAP,8.357853286000001,TON
+38,RI,Solvent - Graphic Arts,Volatile Organic Compounds,CAP,76.21316,TON
+39,RI,Solvent - Non-Industrial Surface Coating,Volatile Organic Compounds,CAP,45.97728,TON
+40,RI,Waste Disposal,Nitrogen Oxides,CAP,18.448653600000004,TON

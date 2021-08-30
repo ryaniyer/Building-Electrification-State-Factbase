@@ -1,0 +1,451 @@
+,State,County,Sector,Pollutant,Pollutant Type,Total Emissions,Emissions Unit of Measure
+0,CT,Fairfield,All Sectors,Ammonia,CAP,38.290857456,TON
+1,CT,Fairfield,All Sectors,Carbon Monoxide,CAP,3552.8240780107003,TON
+2,CT,Fairfield,All Sectors,Nitrogen Oxides,CAP,1316.962915644,TON
+3,CT,Fairfield,All Sectors,PM10 Primary (Filt + Cond),CAP,16.675470028,TON
+4,CT,Fairfield,All Sectors,PM2.5 Primary (Filt + Cond),CAP,94.28733738259001,TON
+5,CT,Fairfield,All Sectors,Sulfur Dioxide,CAP,86.6010821453013,TON
+6,CT,Fairfield,All Sectors,Volatile Organic Compounds,CAP,4024.679442082,TON
+7,CT,Fairfield,All Sectors,Carbon Dioxide,GHG,3233077.07419,TON
+8,CT,Fairfield,All Sectors,Methane,GHG,7.118412999999999,TON
+9,CT,Hartford,All Sectors,Ammonia,CAP,38.290857456,TON
+10,CT,Hartford,All Sectors,Carbon Monoxide,CAP,3552.8240780107003,TON
+11,CT,Hartford,All Sectors,Nitrogen Oxides,CAP,1316.962915644,TON
+12,CT,Hartford,All Sectors,PM10 Primary (Filt + Cond),CAP,16.675470028,TON
+13,CT,Hartford,All Sectors,PM2.5 Primary (Filt + Cond),CAP,94.28733738259001,TON
+14,CT,Hartford,All Sectors,Sulfur Dioxide,CAP,86.6010821453013,TON
+15,CT,Hartford,All Sectors,Volatile Organic Compounds,CAP,4024.679442082,TON
+16,CT,Hartford,All Sectors,Carbon Dioxide,GHG,3233077.07419,TON
+17,CT,Hartford,All Sectors,Methane,GHG,7.118412999999999,TON
+18,CT,Litchfield,All Sectors,Ammonia,CAP,38.290857456,TON
+19,CT,Litchfield,All Sectors,Carbon Monoxide,CAP,3552.8240780107003,TON
+20,CT,Litchfield,All Sectors,Nitrogen Oxides,CAP,1316.962915644,TON
+21,CT,Litchfield,All Sectors,PM10 Primary (Filt + Cond),CAP,16.675470028,TON
+22,CT,Litchfield,All Sectors,PM2.5 Primary (Filt + Cond),CAP,94.28733738259001,TON
+23,CT,Litchfield,All Sectors,Sulfur Dioxide,CAP,86.6010821453013,TON
+24,CT,Litchfield,All Sectors,Volatile Organic Compounds,CAP,4024.679442082,TON
+25,CT,Middlesex,All Sectors,Ammonia,CAP,38.290857456,TON
+26,CT,Middlesex,All Sectors,Carbon Monoxide,CAP,3552.8240780107003,TON
+27,CT,Middlesex,All Sectors,Nitrogen Oxides,CAP,1316.962915644,TON
+28,CT,Middlesex,All Sectors,PM10 Primary (Filt + Cond),CAP,16.675470028,TON
+29,CT,Middlesex,All Sectors,PM2.5 Primary (Filt + Cond),CAP,94.28733738259001,TON
+30,CT,Middlesex,All Sectors,Sulfur Dioxide,CAP,86.6010821453013,TON
+31,CT,Middlesex,All Sectors,Volatile Organic Compounds,CAP,4024.679442082,TON
+32,CT,New Haven,All Sectors,Ammonia,CAP,38.290857456,TON
+33,CT,New Haven,All Sectors,Carbon Monoxide,CAP,3552.8240780107003,TON
+34,CT,New Haven,All Sectors,Nitrogen Oxides,CAP,1316.962915644,TON
+35,CT,New Haven,All Sectors,PM10 Primary (Filt + Cond),CAP,16.675470028,TON
+36,CT,New Haven,All Sectors,PM2.5 Primary (Filt + Cond),CAP,94.28733738259001,TON
+37,CT,New Haven,All Sectors,Sulfur Dioxide,CAP,86.6010821453013,TON
+38,CT,New Haven,All Sectors,Volatile Organic Compounds,CAP,4024.679442082,TON
+39,CT,New London,All Sectors,Ammonia,CAP,38.290857456,TON
+40,CT,New London,All Sectors,Carbon Monoxide,CAP,3552.8240780107003,TON
+41,CT,New London,All Sectors,Nitrogen Oxides,CAP,1316.962915644,TON
+42,CT,New London,All Sectors,PM10 Primary (Filt + Cond),CAP,16.675470028,TON
+43,CT,New London,All Sectors,PM2.5 Primary (Filt + Cond),CAP,94.28733738259001,TON
+44,CT,New London,All Sectors,Sulfur Dioxide,CAP,86.6010821453013,TON
+45,CT,New London,All Sectors,Volatile Organic Compounds,CAP,4024.679442082,TON
+46,CT,Tolland,All Sectors,Ammonia,CAP,38.290857456,TON
+47,CT,Tolland,All Sectors,Carbon Monoxide,CAP,3552.8240780107003,TON
+48,CT,Tolland,All Sectors,Nitrogen Oxides,CAP,1316.962915644,TON
+49,CT,Tolland,All Sectors,PM10 Primary (Filt + Cond),CAP,16.675470028,TON
+50,CT,Tolland,All Sectors,PM2.5 Primary (Filt + Cond),CAP,94.28733738259001,TON
+51,CT,Tolland,All Sectors,Sulfur Dioxide,CAP,86.6010821453013,TON
+52,CT,Tolland,All Sectors,Volatile Organic Compounds,CAP,4024.679442082,TON
+53,CT,Tolland,All Sectors,Carbon Dioxide,GHG,3233077.07419,TON
+54,CT,Tolland,All Sectors,Methane,GHG,7.118412999999999,TON
+55,CT,Windham,All Sectors,Ammonia,CAP,38.290857456,TON
+56,CT,Windham,All Sectors,Carbon Monoxide,CAP,3552.8240780107003,TON
+57,CT,Windham,All Sectors,Nitrogen Oxides,CAP,1316.962915644,TON
+58,CT,Windham,All Sectors,PM10 Primary (Filt + Cond),CAP,16.675470028,TON
+59,CT,Windham,All Sectors,PM2.5 Primary (Filt + Cond),CAP,94.28733738259001,TON
+60,CT,Windham,All Sectors,Sulfur Dioxide,CAP,86.6010821453013,TON
+61,CT,Windham,All Sectors,Volatile Organic Compounds,CAP,4024.679442082,TON
+62,CT,Fairfield,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,8.9435156826,TON
+63,CT,Fairfield,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,10.43163233,TON
+64,CT,Fairfield,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,43.3780999,TON
+65,CT,Fairfield,Commercial Cooking,Volatile Organic Compounds,CAP,68.90908336,TON
+66,CT,Fairfield,Fires - Prescribed Fires,Sulfur Dioxide,CAP,1.269602,TON
+67,CT,Fairfield,Fires - Prescribed Fires,Methane,GHG,6.188603,TON
+68,CT,Fairfield,Fires - Wildfires,PM10 Primary (Filt + Cond),CAP,1.974971,TON
+69,CT,Fairfield,Fires - Wildfires,Sulfur Dioxide,CAP,1.6207120000000002,TON
+70,CT,Fairfield,Fires - Wildfires,Methane,GHG,0.92981,TON
+71,CT,Fairfield,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6674131999999999,TON
+72,CT,Fairfield,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.147455,TON
+73,CT,Fairfield,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+74,CT,Fairfield,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.3723854,TON
+75,CT,Fairfield,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,63.42025701,TON
+76,CT,Fairfield,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.432036957,TON
+77,CT,Fairfield,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,48.116070557920004,TON
+78,CT,Fairfield,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01351808,TON
+79,CT,Fairfield,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.761012,TON
+80,CT,Fairfield,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02387558,TON
+81,CT,Fairfield,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,8.750119938,TON
+82,CT,Fairfield,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.8870646000000001,TON
+83,CT,Fairfield,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM10 Primary (Filt + Cond),CAP,0.0,TON
+84,CT,Fairfield,"Fuel Comb - Industrial Boilers, ICEs - Coal",Sulfur Dioxide,CAP,0.0,TON
+85,CT,Fairfield,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,198.89580604,TON
+86,CT,Fairfield,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,1.724746091,TON
+87,CT,Fairfield,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,0.6414761999999999,TON
+88,CT,Fairfield,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.216605,TON
+89,CT,Fairfield,Fuel Comb - Residential - Wood,Ammonia,CAP,13.911133181,TON
+90,CT,Fairfield,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1974.6329051,TON
+91,CT,Fairfield,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,851.93493872,TON
+92,CT,Fairfield,Industrial Processes - NEC,Ammonia,CAP,22.225416465,TON
+93,CT,Fairfield,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,5.3270021,TON
+94,CT,Fairfield,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,664.91894738,TON
+95,CT,Fairfield,Mobile - Locomotives,Ammonia,CAP,0.01039995,TON
+96,CT,Fairfield,Mobile - Locomotives,Nitrogen Oxides,CAP,15.78549,TON
+97,CT,Fairfield,Mobile - Locomotives,Volatile Organic Compounds,CAP,17.011606,TON
+98,CT,Fairfield,Mobile - Non-Road Equipment - Diesel,Carbon Dioxide,GHG,32922.264189999994,TON
+99,CT,Fairfield,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,0.2376332373813,TON
+100,CT,Fairfield,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,2408.256629292,TON
+101,CT,Fairfield,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,980.3473177627,TON
+102,CT,Fairfield,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,30.447101504000003,TON
+103,CT,Fairfield,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,939.6109091,TON
+104,CT,Fairfield,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,36.28614751,TON
+105,CT,Fairfield,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,0.57591198,TON
+106,CT,Fairfield,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,520.27099,TON
+107,CT,Fairfield,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,132.223609,TON
+108,CT,Fairfield,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,0.35257218999,TON
+109,CT,Fairfield,Mobile - On-Road non-Diesel Light Duty Vehicles,Carbon Dioxide,GHG,3200154.81,TON
+110,CT,Fairfield,Solvent - Degreasing,Sulfur Dioxide,CAP,0.0,TON
+111,CT,Fairfield,Solvent - Industrial Surface Coating & Solvent Use,Carbon Monoxide,CAP,0.0,TON
+112,CT,Fairfield,Waste Disposal,Sulfur Dioxide,CAP,35.35706435,TON
+113,CT,Hartford,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,8.9435156826,TON
+114,CT,Hartford,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,10.43163233,TON
+115,CT,Hartford,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,43.3780999,TON
+116,CT,Hartford,Commercial Cooking,Volatile Organic Compounds,CAP,68.90908336,TON
+117,CT,Hartford,Fires - Prescribed Fires,Sulfur Dioxide,CAP,1.269602,TON
+118,CT,Hartford,Fires - Prescribed Fires,Methane,GHG,6.188603,TON
+119,CT,Hartford,Fires - Wildfires,PM10 Primary (Filt + Cond),CAP,1.974971,TON
+120,CT,Hartford,Fires - Wildfires,Sulfur Dioxide,CAP,1.6207120000000002,TON
+121,CT,Hartford,Fires - Wildfires,Methane,GHG,0.92981,TON
+122,CT,Hartford,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6674131999999999,TON
+123,CT,Hartford,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.147455,TON
+124,CT,Hartford,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+125,CT,Hartford,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.3723854,TON
+126,CT,Hartford,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,63.42025701,TON
+127,CT,Hartford,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.432036957,TON
+128,CT,Hartford,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,48.116070557920004,TON
+129,CT,Hartford,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01351808,TON
+130,CT,Hartford,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.761012,TON
+131,CT,Hartford,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02387558,TON
+132,CT,Hartford,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,8.750119938,TON
+133,CT,Hartford,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.8870646000000001,TON
+134,CT,Hartford,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM10 Primary (Filt + Cond),CAP,0.0,TON
+135,CT,Hartford,"Fuel Comb - Industrial Boilers, ICEs - Coal",Sulfur Dioxide,CAP,0.0,TON
+136,CT,Hartford,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,198.89580604,TON
+137,CT,Hartford,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,1.724746091,TON
+138,CT,Hartford,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,0.6414761999999999,TON
+139,CT,Hartford,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.216605,TON
+140,CT,Hartford,Fuel Comb - Residential - Wood,Ammonia,CAP,13.911133181,TON
+141,CT,Hartford,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1974.6329051,TON
+142,CT,Hartford,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,851.93493872,TON
+143,CT,Hartford,Industrial Processes - NEC,Ammonia,CAP,22.225416465,TON
+144,CT,Hartford,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,5.3270021,TON
+145,CT,Hartford,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,664.91894738,TON
+146,CT,Hartford,Mobile - Locomotives,Ammonia,CAP,0.01039995,TON
+147,CT,Hartford,Mobile - Locomotives,Nitrogen Oxides,CAP,15.78549,TON
+148,CT,Hartford,Mobile - Locomotives,Volatile Organic Compounds,CAP,17.011606,TON
+149,CT,Hartford,Mobile - Non-Road Equipment - Diesel,Carbon Dioxide,GHG,32922.264189999994,TON
+150,CT,Hartford,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,0.2376332373813,TON
+151,CT,Hartford,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,2408.256629292,TON
+152,CT,Hartford,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,980.3473177627,TON
+153,CT,Hartford,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,30.447101504000003,TON
+154,CT,Hartford,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,939.6109091,TON
+155,CT,Hartford,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,36.28614751,TON
+156,CT,Hartford,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,0.57591198,TON
+157,CT,Hartford,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,520.27099,TON
+158,CT,Hartford,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,132.223609,TON
+159,CT,Hartford,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,0.35257218999,TON
+160,CT,Hartford,Mobile - On-Road non-Diesel Light Duty Vehicles,Carbon Dioxide,GHG,3200154.81,TON
+161,CT,Hartford,Solvent - Degreasing,Sulfur Dioxide,CAP,0.0,TON
+162,CT,Hartford,Solvent - Industrial Surface Coating & Solvent Use,Carbon Monoxide,CAP,0.0,TON
+163,CT,Hartford,Waste Disposal,Sulfur Dioxide,CAP,35.35706435,TON
+164,CT,Litchfield,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,8.9435156826,TON
+165,CT,Litchfield,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,10.43163233,TON
+166,CT,Litchfield,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,43.3780999,TON
+167,CT,Litchfield,Commercial Cooking,Volatile Organic Compounds,CAP,68.90908336,TON
+168,CT,Litchfield,Fires - Prescribed Fires,Sulfur Dioxide,CAP,1.269602,TON
+169,CT,Litchfield,Fires - Wildfires,PM10 Primary (Filt + Cond),CAP,1.974971,TON
+170,CT,Litchfield,Fires - Wildfires,Sulfur Dioxide,CAP,1.6207120000000002,TON
+171,CT,Litchfield,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6674131999999999,TON
+172,CT,Litchfield,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.147455,TON
+173,CT,Litchfield,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+174,CT,Litchfield,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.3723854,TON
+175,CT,Litchfield,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,63.42025701,TON
+176,CT,Litchfield,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.432036957,TON
+177,CT,Litchfield,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,48.116070557920004,TON
+178,CT,Litchfield,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01351808,TON
+179,CT,Litchfield,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.761012,TON
+180,CT,Litchfield,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02387558,TON
+181,CT,Litchfield,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,8.750119938,TON
+182,CT,Litchfield,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.8870646000000001,TON
+183,CT,Litchfield,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM10 Primary (Filt + Cond),CAP,0.0,TON
+184,CT,Litchfield,"Fuel Comb - Industrial Boilers, ICEs - Coal",Sulfur Dioxide,CAP,0.0,TON
+185,CT,Litchfield,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,198.89580604,TON
+186,CT,Litchfield,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,1.724746091,TON
+187,CT,Litchfield,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,0.6414761999999999,TON
+188,CT,Litchfield,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.216605,TON
+189,CT,Litchfield,Fuel Comb - Residential - Wood,Ammonia,CAP,13.911133181,TON
+190,CT,Litchfield,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1974.6329051,TON
+191,CT,Litchfield,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,851.93493872,TON
+192,CT,Litchfield,Industrial Processes - NEC,Ammonia,CAP,22.225416465,TON
+193,CT,Litchfield,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,5.3270021,TON
+194,CT,Litchfield,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,664.91894738,TON
+195,CT,Litchfield,Mobile - Locomotives,Ammonia,CAP,0.01039995,TON
+196,CT,Litchfield,Mobile - Locomotives,Nitrogen Oxides,CAP,15.78549,TON
+197,CT,Litchfield,Mobile - Locomotives,Volatile Organic Compounds,CAP,17.011606,TON
+198,CT,Litchfield,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,0.2376332373813,TON
+199,CT,Litchfield,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,2408.256629292,TON
+200,CT,Litchfield,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,980.3473177627,TON
+201,CT,Litchfield,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,30.447101504000003,TON
+202,CT,Litchfield,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,939.6109091,TON
+203,CT,Litchfield,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,36.28614751,TON
+204,CT,Litchfield,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,0.57591198,TON
+205,CT,Litchfield,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,520.27099,TON
+206,CT,Litchfield,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,132.223609,TON
+207,CT,Litchfield,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,0.35257218999,TON
+208,CT,Litchfield,Solvent - Degreasing,Sulfur Dioxide,CAP,0.0,TON
+209,CT,Litchfield,Solvent - Industrial Surface Coating & Solvent Use,Carbon Monoxide,CAP,0.0,TON
+210,CT,Litchfield,Waste Disposal,Sulfur Dioxide,CAP,35.35706435,TON
+211,CT,Middlesex,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,8.9435156826,TON
+212,CT,Middlesex,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,10.43163233,TON
+213,CT,Middlesex,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,43.3780999,TON
+214,CT,Middlesex,Commercial Cooking,Volatile Organic Compounds,CAP,68.90908336,TON
+215,CT,Middlesex,Fires - Prescribed Fires,Sulfur Dioxide,CAP,1.269602,TON
+216,CT,Middlesex,Fires - Wildfires,PM10 Primary (Filt + Cond),CAP,1.974971,TON
+217,CT,Middlesex,Fires - Wildfires,Sulfur Dioxide,CAP,1.6207120000000002,TON
+218,CT,Middlesex,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6674131999999999,TON
+219,CT,Middlesex,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.147455,TON
+220,CT,Middlesex,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+221,CT,Middlesex,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.3723854,TON
+222,CT,Middlesex,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,63.42025701,TON
+223,CT,Middlesex,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.432036957,TON
+224,CT,Middlesex,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,48.116070557920004,TON
+225,CT,Middlesex,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01351808,TON
+226,CT,Middlesex,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.761012,TON
+227,CT,Middlesex,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02387558,TON
+228,CT,Middlesex,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,8.750119938,TON
+229,CT,Middlesex,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.8870646000000001,TON
+230,CT,Middlesex,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM10 Primary (Filt + Cond),CAP,0.0,TON
+231,CT,Middlesex,"Fuel Comb - Industrial Boilers, ICEs - Coal",Sulfur Dioxide,CAP,0.0,TON
+232,CT,Middlesex,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,198.89580604,TON
+233,CT,Middlesex,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,1.724746091,TON
+234,CT,Middlesex,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,0.6414761999999999,TON
+235,CT,Middlesex,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.216605,TON
+236,CT,Middlesex,Fuel Comb - Residential - Wood,Ammonia,CAP,13.911133181,TON
+237,CT,Middlesex,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1974.6329051,TON
+238,CT,Middlesex,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,851.93493872,TON
+239,CT,Middlesex,Industrial Processes - NEC,Ammonia,CAP,22.225416465,TON
+240,CT,Middlesex,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,5.3270021,TON
+241,CT,Middlesex,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,664.91894738,TON
+242,CT,Middlesex,Mobile - Locomotives,Ammonia,CAP,0.01039995,TON
+243,CT,Middlesex,Mobile - Locomotives,Nitrogen Oxides,CAP,15.78549,TON
+244,CT,Middlesex,Mobile - Locomotives,Volatile Organic Compounds,CAP,17.011606,TON
+245,CT,Middlesex,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,0.2376332373813,TON
+246,CT,Middlesex,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,2408.256629292,TON
+247,CT,Middlesex,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,980.3473177627,TON
+248,CT,Middlesex,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,30.447101504000003,TON
+249,CT,Middlesex,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,939.6109091,TON
+250,CT,Middlesex,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,36.28614751,TON
+251,CT,Middlesex,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,0.57591198,TON
+252,CT,Middlesex,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,520.27099,TON
+253,CT,Middlesex,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,132.223609,TON
+254,CT,Middlesex,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,0.35257218999,TON
+255,CT,Middlesex,Solvent - Degreasing,Sulfur Dioxide,CAP,0.0,TON
+256,CT,Middlesex,Solvent - Industrial Surface Coating & Solvent Use,Carbon Monoxide,CAP,0.0,TON
+257,CT,Middlesex,Waste Disposal,Sulfur Dioxide,CAP,35.35706435,TON
+258,CT,New Haven,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,8.9435156826,TON
+259,CT,New Haven,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,10.43163233,TON
+260,CT,New Haven,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,43.3780999,TON
+261,CT,New Haven,Commercial Cooking,Volatile Organic Compounds,CAP,68.90908336,TON
+262,CT,New Haven,Fires - Prescribed Fires,Sulfur Dioxide,CAP,1.269602,TON
+263,CT,New Haven,Fires - Wildfires,PM10 Primary (Filt + Cond),CAP,1.974971,TON
+264,CT,New Haven,Fires - Wildfires,Sulfur Dioxide,CAP,1.6207120000000002,TON
+265,CT,New Haven,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6674131999999999,TON
+266,CT,New Haven,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.147455,TON
+267,CT,New Haven,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+268,CT,New Haven,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.3723854,TON
+269,CT,New Haven,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,63.42025701,TON
+270,CT,New Haven,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.432036957,TON
+271,CT,New Haven,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,48.116070557920004,TON
+272,CT,New Haven,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01351808,TON
+273,CT,New Haven,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.761012,TON
+274,CT,New Haven,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02387558,TON
+275,CT,New Haven,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,8.750119938,TON
+276,CT,New Haven,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.8870646000000001,TON
+277,CT,New Haven,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM10 Primary (Filt + Cond),CAP,0.0,TON
+278,CT,New Haven,"Fuel Comb - Industrial Boilers, ICEs - Coal",Sulfur Dioxide,CAP,0.0,TON
+279,CT,New Haven,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,198.89580604,TON
+280,CT,New Haven,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,1.724746091,TON
+281,CT,New Haven,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,0.6414761999999999,TON
+282,CT,New Haven,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.216605,TON
+283,CT,New Haven,Fuel Comb - Residential - Wood,Ammonia,CAP,13.911133181,TON
+284,CT,New Haven,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1974.6329051,TON
+285,CT,New Haven,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,851.93493872,TON
+286,CT,New Haven,Industrial Processes - NEC,Ammonia,CAP,22.225416465,TON
+287,CT,New Haven,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,5.3270021,TON
+288,CT,New Haven,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,664.91894738,TON
+289,CT,New Haven,Mobile - Locomotives,Ammonia,CAP,0.01039995,TON
+290,CT,New Haven,Mobile - Locomotives,Nitrogen Oxides,CAP,15.78549,TON
+291,CT,New Haven,Mobile - Locomotives,Volatile Organic Compounds,CAP,17.011606,TON
+292,CT,New Haven,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,0.2376332373813,TON
+293,CT,New Haven,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,2408.256629292,TON
+294,CT,New Haven,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,980.3473177627,TON
+295,CT,New Haven,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,30.447101504000003,TON
+296,CT,New Haven,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,939.6109091,TON
+297,CT,New Haven,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,36.28614751,TON
+298,CT,New Haven,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,0.57591198,TON
+299,CT,New Haven,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,520.27099,TON
+300,CT,New Haven,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,132.223609,TON
+301,CT,New Haven,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,0.35257218999,TON
+302,CT,New Haven,Solvent - Degreasing,Sulfur Dioxide,CAP,0.0,TON
+303,CT,New Haven,Solvent - Industrial Surface Coating & Solvent Use,Carbon Monoxide,CAP,0.0,TON
+304,CT,New Haven,Waste Disposal,Sulfur Dioxide,CAP,35.35706435,TON
+305,CT,New London,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,8.9435156826,TON
+306,CT,New London,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,10.43163233,TON
+307,CT,New London,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,43.3780999,TON
+308,CT,New London,Commercial Cooking,Volatile Organic Compounds,CAP,68.90908336,TON
+309,CT,New London,Fires - Prescribed Fires,Sulfur Dioxide,CAP,1.269602,TON
+310,CT,New London,Fires - Wildfires,PM10 Primary (Filt + Cond),CAP,1.974971,TON
+311,CT,New London,Fires - Wildfires,Sulfur Dioxide,CAP,1.6207120000000002,TON
+312,CT,New London,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6674131999999999,TON
+313,CT,New London,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.147455,TON
+314,CT,New London,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+315,CT,New London,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.3723854,TON
+316,CT,New London,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,63.42025701,TON
+317,CT,New London,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.432036957,TON
+318,CT,New London,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,48.116070557920004,TON
+319,CT,New London,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01351808,TON
+320,CT,New London,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.761012,TON
+321,CT,New London,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02387558,TON
+322,CT,New London,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,8.750119938,TON
+323,CT,New London,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.8870646000000001,TON
+324,CT,New London,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM10 Primary (Filt + Cond),CAP,0.0,TON
+325,CT,New London,"Fuel Comb - Industrial Boilers, ICEs - Coal",Sulfur Dioxide,CAP,0.0,TON
+326,CT,New London,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,198.89580604,TON
+327,CT,New London,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,1.724746091,TON
+328,CT,New London,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,0.6414761999999999,TON
+329,CT,New London,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.216605,TON
+330,CT,New London,Fuel Comb - Residential - Wood,Ammonia,CAP,13.911133181,TON
+331,CT,New London,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1974.6329051,TON
+332,CT,New London,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,851.93493872,TON
+333,CT,New London,Industrial Processes - NEC,Ammonia,CAP,22.225416465,TON
+334,CT,New London,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,5.3270021,TON
+335,CT,New London,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,664.91894738,TON
+336,CT,New London,Mobile - Locomotives,Ammonia,CAP,0.01039995,TON
+337,CT,New London,Mobile - Locomotives,Nitrogen Oxides,CAP,15.78549,TON
+338,CT,New London,Mobile - Locomotives,Volatile Organic Compounds,CAP,17.011606,TON
+339,CT,New London,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,0.2376332373813,TON
+340,CT,New London,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,2408.256629292,TON
+341,CT,New London,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,980.3473177627,TON
+342,CT,New London,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,30.447101504000003,TON
+343,CT,New London,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,939.6109091,TON
+344,CT,New London,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,36.28614751,TON
+345,CT,New London,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,0.57591198,TON
+346,CT,New London,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,520.27099,TON
+347,CT,New London,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,132.223609,TON
+348,CT,New London,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,0.35257218999,TON
+349,CT,New London,Solvent - Degreasing,Sulfur Dioxide,CAP,0.0,TON
+350,CT,New London,Solvent - Industrial Surface Coating & Solvent Use,Carbon Monoxide,CAP,0.0,TON
+351,CT,New London,Waste Disposal,Sulfur Dioxide,CAP,35.35706435,TON
+352,CT,Tolland,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,8.9435156826,TON
+353,CT,Tolland,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,10.43163233,TON
+354,CT,Tolland,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,43.3780999,TON
+355,CT,Tolland,Commercial Cooking,Volatile Organic Compounds,CAP,68.90908336,TON
+356,CT,Tolland,Fires - Prescribed Fires,Sulfur Dioxide,CAP,1.269602,TON
+357,CT,Tolland,Fires - Prescribed Fires,Methane,GHG,6.188603,TON
+358,CT,Tolland,Fires - Wildfires,PM10 Primary (Filt + Cond),CAP,1.974971,TON
+359,CT,Tolland,Fires - Wildfires,Sulfur Dioxide,CAP,1.6207120000000002,TON
+360,CT,Tolland,Fires - Wildfires,Methane,GHG,0.92981,TON
+361,CT,Tolland,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6674131999999999,TON
+362,CT,Tolland,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.147455,TON
+363,CT,Tolland,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+364,CT,Tolland,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.3723854,TON
+365,CT,Tolland,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,63.42025701,TON
+366,CT,Tolland,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.432036957,TON
+367,CT,Tolland,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,48.116070557920004,TON
+368,CT,Tolland,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01351808,TON
+369,CT,Tolland,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.761012,TON
+370,CT,Tolland,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02387558,TON
+371,CT,Tolland,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,8.750119938,TON
+372,CT,Tolland,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.8870646000000001,TON
+373,CT,Tolland,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM10 Primary (Filt + Cond),CAP,0.0,TON
+374,CT,Tolland,"Fuel Comb - Industrial Boilers, ICEs - Coal",Sulfur Dioxide,CAP,0.0,TON
+375,CT,Tolland,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,198.89580604,TON
+376,CT,Tolland,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,1.724746091,TON
+377,CT,Tolland,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,0.6414761999999999,TON
+378,CT,Tolland,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.216605,TON
+379,CT,Tolland,Fuel Comb - Residential - Wood,Ammonia,CAP,13.911133181,TON
+380,CT,Tolland,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1974.6329051,TON
+381,CT,Tolland,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,851.93493872,TON
+382,CT,Tolland,Industrial Processes - NEC,Ammonia,CAP,22.225416465,TON
+383,CT,Tolland,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,5.3270021,TON
+384,CT,Tolland,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,664.91894738,TON
+385,CT,Tolland,Mobile - Locomotives,Ammonia,CAP,0.01039995,TON
+386,CT,Tolland,Mobile - Locomotives,Nitrogen Oxides,CAP,15.78549,TON
+387,CT,Tolland,Mobile - Locomotives,Volatile Organic Compounds,CAP,17.011606,TON
+388,CT,Tolland,Mobile - Non-Road Equipment - Diesel,Carbon Dioxide,GHG,32922.264189999994,TON
+389,CT,Tolland,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,0.2376332373813,TON
+390,CT,Tolland,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,2408.256629292,TON
+391,CT,Tolland,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,980.3473177627,TON
+392,CT,Tolland,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,30.447101504000003,TON
+393,CT,Tolland,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,939.6109091,TON
+394,CT,Tolland,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,36.28614751,TON
+395,CT,Tolland,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,0.57591198,TON
+396,CT,Tolland,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,520.27099,TON
+397,CT,Tolland,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,132.223609,TON
+398,CT,Tolland,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,0.35257218999,TON
+399,CT,Tolland,Mobile - On-Road non-Diesel Light Duty Vehicles,Carbon Dioxide,GHG,3200154.81,TON
+400,CT,Tolland,Solvent - Degreasing,Sulfur Dioxide,CAP,0.0,TON
+401,CT,Tolland,Solvent - Industrial Surface Coating & Solvent Use,Carbon Monoxide,CAP,0.0,TON
+402,CT,Tolland,Waste Disposal,Sulfur Dioxide,CAP,35.35706435,TON
+403,CT,Windham,Agriculture - Crops & Livestock Dust,PM2.5 Primary (Filt + Cond),CAP,8.9435156826,TON
+404,CT,Windham,Agriculture - Livestock Waste,Volatile Organic Compounds,CAP,10.43163233,TON
+405,CT,Windham,Commercial Cooking,PM2.5 Primary (Filt + Cond),CAP,43.3780999,TON
+406,CT,Windham,Commercial Cooking,Volatile Organic Compounds,CAP,68.90908336,TON
+407,CT,Windham,Fires - Prescribed Fires,Sulfur Dioxide,CAP,1.269602,TON
+408,CT,Windham,Fires - Wildfires,PM10 Primary (Filt + Cond),CAP,1.974971,TON
+409,CT,Windham,Fires - Wildfires,Sulfur Dioxide,CAP,1.6207120000000002,TON
+410,CT,Windham,Fuel Comb - Comm/Institutional - Biomass,Ammonia,CAP,0.6674131999999999,TON
+411,CT,Windham,Fuel Comb - Comm/Institutional - Biomass,PM10 Primary (Filt + Cond),CAP,4.147455,TON
+412,CT,Windham,Fuel Comb - Comm/Institutional - Coal,Nitrogen Oxides,CAP,0.0,TON
+413,CT,Windham,Fuel Comb - Comm/Institutional - Natural Gas,PM10 Primary (Filt + Cond),CAP,0.3723854,TON
+414,CT,Windham,Fuel Comb - Comm/Institutional - Oil,Carbon Monoxide,CAP,63.42025701,TON
+415,CT,Windham,Fuel Comb - Comm/Institutional - Oil,PM10 Primary (Filt + Cond),CAP,8.432036957,TON
+416,CT,Windham,Fuel Comb - Comm/Institutional - Oil,Sulfur Dioxide,CAP,48.116070557920004,TON
+417,CT,Windham,Fuel Comb - Comm/Institutional - Other,Ammonia,CAP,0.01351808,TON
+418,CT,Windham,Fuel Comb - Comm/Institutional - Other,Carbon Monoxide,CAP,4.761012,TON
+419,CT,Windham,Fuel Comb - Comm/Institutional - Other,PM10 Primary (Filt + Cond),CAP,0.02387558,TON
+420,CT,Windham,Fuel Comb - Electric Generation - Oil,Carbon Monoxide,CAP,8.750119938,TON
+421,CT,Windham,"Fuel Comb - Industrial Boilers, ICEs - Biomass",Ammonia,CAP,0.8870646000000001,TON
+422,CT,Windham,"Fuel Comb - Industrial Boilers, ICEs - Coal",PM10 Primary (Filt + Cond),CAP,0.0,TON
+423,CT,Windham,"Fuel Comb - Industrial Boilers, ICEs - Coal",Sulfur Dioxide,CAP,0.0,TON
+424,CT,Windham,"Fuel Comb - Industrial Boilers, ICEs - Natural Gas",Nitrogen Oxides,CAP,198.89580604,TON
+425,CT,Windham,"Fuel Comb - Industrial Boilers, ICEs - Oil",PM10 Primary (Filt + Cond),CAP,1.724746091,TON
+426,CT,Windham,"Fuel Comb - Industrial Boilers, ICEs - Other",Carbon Monoxide,CAP,0.6414761999999999,TON
+427,CT,Windham,Fuel Comb - Residential - Other,Volatile Organic Compounds,CAP,3.216605,TON
+428,CT,Windham,Fuel Comb - Residential - Wood,Ammonia,CAP,13.911133181,TON
+429,CT,Windham,Fuel Comb - Residential - Wood,Carbon Monoxide,CAP,1974.6329051,TON
+430,CT,Windham,Fuel Comb - Residential - Wood,Volatile Organic Compounds,CAP,851.93493872,TON
+431,CT,Windham,Industrial Processes - NEC,Ammonia,CAP,22.225416465,TON
+432,CT,Windham,Industrial Processes - NEC,PM2.5 Primary (Filt + Cond),CAP,5.3270021,TON
+433,CT,Windham,Industrial Processes - Storage and Transfer,Volatile Organic Compounds,CAP,664.91894738,TON
+434,CT,Windham,Mobile - Locomotives,Ammonia,CAP,0.01039995,TON
+435,CT,Windham,Mobile - Locomotives,Nitrogen Oxides,CAP,15.78549,TON
+436,CT,Windham,Mobile - Locomotives,Volatile Organic Compounds,CAP,17.011606,TON
+437,CT,Windham,Mobile - Non-Road Equipment - Gasoline,Sulfur Dioxide,CAP,0.2376332373813,TON
+438,CT,Windham,Mobile - Non-Road Equipment - Gasoline,Volatile Organic Compounds,CAP,2408.256629292,TON
+439,CT,Windham,Mobile - Non-Road Equipment - Other,Carbon Monoxide,CAP,980.3473177627,TON
+440,CT,Windham,Mobile - Non-Road Equipment - Other,Nitrogen Oxides,CAP,30.447101504000003,TON
+441,CT,Windham,Mobile - On-Road Diesel Heavy Duty Vehicles,Nitrogen Oxides,CAP,939.6109091,TON
+442,CT,Windham,Mobile - On-Road Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,36.28614751,TON
+443,CT,Windham,Mobile - On-Road Diesel Light Duty Vehicles,Ammonia,CAP,0.57591198,TON
+444,CT,Windham,Mobile - On-Road Diesel Light Duty Vehicles,Carbon Monoxide,CAP,520.27099,TON
+445,CT,Windham,Mobile - On-Road Diesel Light Duty Vehicles,Nitrogen Oxides,CAP,132.223609,TON
+446,CT,Windham,Mobile - On-Road non-Diesel Heavy Duty Vehicles,PM2.5 Primary (Filt + Cond),CAP,0.35257218999,TON
+447,CT,Windham,Solvent - Degreasing,Sulfur Dioxide,CAP,0.0,TON
+448,CT,Windham,Solvent - Industrial Surface Coating & Solvent Use,Carbon Monoxide,CAP,0.0,TON
+449,CT,Windham,Waste Disposal,Sulfur Dioxide,CAP,35.35706435,TON
