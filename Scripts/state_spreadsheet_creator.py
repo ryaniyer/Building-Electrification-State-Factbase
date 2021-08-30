@@ -23,7 +23,7 @@ eia_year = 2020
 #   Restarts the entire Spreadsheets/States folder
 restart_all_states = False
 #   Restarts the state-level air quality folder
-restart_states_air_quality = True
+restart_states_air_quality = False
 #   Restarts the state-level infrastructure folder
 restart_states_infrastructure = False
 #   Restarts the state-level Energy Economics folder
@@ -35,7 +35,7 @@ restart_states_co2 = False
 #Restarts the state-level Energy Use Folder
 restart_states_energyuse = False
 #   Restarts the state-level Equity Folder
-restart_states_equity = False
+restart_states_equity = True
 #List of all "restarter" variables
 restart_variables = [restart_all_states, restart_states_air_quality, restart_states_infrastructure, restart_states_economics,
                     restart_states_natgas, restart_states_co2, restart_states_energyuse, restart_states_equity]
@@ -45,7 +45,6 @@ rerun_all_state_folders = False
 if(rerun_all_state_folders):
     for i in restart_variables:
         i = True
-
 
 #Deletes a folder given the pathname and replaces it with an empty one
 def folder_refresh(pathname):
@@ -116,7 +115,17 @@ for s in state_names:
         df_emit.T.to_csv(path+'/CO2 Emissions/'+abbrev_us_state[sa]+' EIA CO2 Emissions Data.csv')
     
     if(restart_states_equity):
-        folder_refresh(path+'/Equity')
+        if(sa!='AZ'):
+            folder_refresh(path+'/Equity')
+            dest1 = path+'/Equity/'+sa+' NREL LEAD Detailed.csv'
+            dest2 = path+'/Equity/'+sa+' NREL LEAD Summary.csv'
+            dest3 = path+'/Equity/'+sa+' NREL LEAD Energy Expenditures by Tract.csv'
+            source1 = '../Static/NREL LEAD/States/'+sa+'_LEAD_All_Categories.csv'
+            source2 = '../Static/NREL LEAD/States/'+sa+'_LEAD_Summary.csv'
+            source3 = '../Static/NREL LEAD/Tracts/Energy Expenditures/'+sa+'_NREL_LEAD_Energy_Expenditures.csv'
+            shutil.copy(source1, dest1)
+            shutil.copy(source2, dest2)
+            shutil.copy(source3, dest3)
 
     if(restart_states_energyuse):
         folder_refresh(path+'/Energy Use')

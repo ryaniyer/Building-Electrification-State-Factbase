@@ -9,38 +9,39 @@ end_year = 2019
 inflation_adjustment_year = 2019
 year_range = range(start_year,end_year+1)
 
-#api_key = 'c539dd02b98ef2d57482dfe39f7d6980'
 api_key = apis.eia_api_key
 my_url = 'http://api.eia.gov/series/?api_key=' + api_key + '&series_id='
 
 #Import FRED CPI Inflation Adjustment Data
 fred_prefix = 'https://api.stlouisfed.org/fred/series/observations?series_id='
-#fred_api = 'd00618cf19b6ee0f138dbd06ad3b89da'
 fred_api = apis.fred_api_key
 fred_series = 'CPIAUCSL'
 fred_url = fred_prefix + fred_series + '&api_key='+ fred_api + '&file_type=json' + '&frequency=a'
-try:
-    r = requests.get(fred_url)
-except:
-    print('\n\n Error Accessing FRED API Key \n\n')
-try:
-    json_data = r.json()
-except:
-    print('\n\n Error Processing FRED Request as JSON \n\n')
 
-year_to_cpi = dict()
-for o in list(json_data['observations']):
-    year = str(o['date'][0:4])
-    cpi = o['value']
-    year_to_cpi[year] = cpi
+def get_FRED_CPI():
+    try:
+        r = requests.get(fred_url)
+    except:
+        print('\n\n Error Accessing FRED API Key \n\n')
+    try:
+        json_data = r.json()
+    except:
+        print('\n\n Error Processing FRED Request as JSON \n\n')
 
-#Create a DataFrame with CPIs and Inflation Adjustments
-inf = pd.DataFrame(columns=[str(i) for i in year_range])
-cpis = [year_to_cpi[str(i)] for i in year_range]
-inf.loc[0] = cpis
-adjustment_denom = float(inf.loc[0,str(inflation_adjustment_year)])
-iafs = [float(cpis[i])/adjustment_denom for i in range(len(year_range))]
-inf.loc[1] = iafs
+    year_to_cpi = dict()
+    for o in list(json_data['observations']):
+        year = str(o['date'][0:4])
+        cpi = o['value']
+        year_to_cpi[year] = cpi
+
+    #Create a DataFrame with CPIs and Inflation Adjustments
+    inf = pd.DataFrame(columns=[str(i) for i in year_range])
+    cpis = [year_to_cpi[str(i)] for i in year_range]
+    inf.loc[0] = cpis
+    adjustment_denom = float(inf.loc[0,str(inflation_adjustment_year)])
+    iafs = [float(cpis[i])/adjustment_denom for i in range(len(year_range))]
+    inf.loc[1] = iafs
+    return inf
 
 def get_tags(sa):
     #Estimate DC City Gate using Maryland 
@@ -80,6 +81,7 @@ def return_state_EIA_data(start_year, end_year, sa, tags):
 
 def get_energy_price_data(sa):
     df = return_state_EIA_data(start_year,end_year,sa,get_tags(sa))
+    inf = get_FRED_CPI()
     inf_adj = list(inf.iloc[1,:])
     ia_note = '(Inflation Adjusted to ' + str(inflation_adjustment_year) + ' USD)'
     df.loc['Natural Gas Citygate Price $/Tcf ' + ia_note] = [inf_adj[i] * list(df.iloc[0])[i] for i in range(len(inf_adj))]
