@@ -6,7 +6,7 @@ import global_variables as apis
 
 start_year = 2000
 end_year = 2019
-inflation_adjustment_year = 2019
+inflation_adjustment_year = end_year
 year_range = range(start_year,end_year+1)
 
 api_key = apis.eia_api_key
@@ -39,7 +39,7 @@ def get_FRED_CPI():
     cpis = [year_to_cpi[str(i)] for i in year_range]
     inf.loc[0] = cpis
     adjustment_denom = float(inf.loc[0,str(inflation_adjustment_year)])
-    iafs = [float(cpis[i])/adjustment_denom for i in range(len(year_range))]
+    iafs = [adjustment_denom/float(cpis[i]) for i in range(len(year_range))]
     inf.loc[1] = iafs
     return inf
 

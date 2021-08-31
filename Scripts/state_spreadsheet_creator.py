@@ -27,7 +27,7 @@ restart_states_air_quality = False
 #   Restarts the state-level infrastructure folder
 restart_states_infrastructure = False
 #   Restarts the state-level Energy Economics folder
-restart_states_economics = False
+restart_states_economics = True
 #   Restarts the state-level Natural Gas folder
 restart_states_natgas = False
 #   Restarts the state-level CO2 Emissions folder
@@ -35,7 +35,7 @@ restart_states_co2 = False
 #Restarts the state-level Energy Use Folder
 restart_states_energyuse = False
 #   Restarts the state-level Equity Folder
-restart_states_equity = True
+restart_states_equity = False
 #List of all "restarter" variables
 restart_variables = [restart_all_states, restart_states_air_quality, restart_states_infrastructure, restart_states_economics,
                     restart_states_natgas, restart_states_co2, restart_states_energyuse, restart_states_equity]
