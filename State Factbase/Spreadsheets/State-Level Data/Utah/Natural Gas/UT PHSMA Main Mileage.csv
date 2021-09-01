@@ -1,12 +1,12 @@
-,Operator Name,Operator ID,Operator Type,State,Total Main Miles,Main Mileage Average Age,Main Miles over 50 Years Old,Main Miles Built in Unknown Decade,Main Miles Built Pre-1940,Main Miles Built 1940-49,Main Miles Built 1950-59,Main Miles Built 1960-69,Main Miles Built 1970-79,Main Miles Built 1980-89,Main Miles Built 1990-99,Main Miles Built 2000-09,Main Miles Built 2010-19,Main Miles Built 2020-29
-0,Statewide Total,,Total,UT,19245.027,22.333333333333332,3242,0.0,62.0,300.0,1038.0,1290.0,2084.0,2155.0,4141.0,4806.0,2995.0,369.0
-1,Statewide Total,,Cooperative,UT,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2,Statewide Total,,Privately Owned,UT,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3,Statewide Total,,Investor Owned,UT,18968.261,28.0,3242,0.0,62.0,300.0,1038.0,1290.0,2084.0,2155.0,3943.0,4750.0,2982.0,359.0
-4,Statewide Total,,Municipal Owned,UT,276.766,21.2,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,198.0,56.0,12.0,9.0
-5,"HILDALE, CITY OF",31158,Municipal Owned,UT,31.0,16.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,0.0
-6,NEPHI CITY,30510,Municipal Owned,UT,127.7,23.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,106.0,10.2,4.5,7.0
-7,MONA TOWN,30509,Municipal Owned,UT,24.826,20.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,8.2,1.446,1.0
-8,LEVAN TOWN,30508,Municipal Owned,UT,20.64,24.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.8,0.84,0.0
-9,"BLANDING, CITY OF",30047,Municipal Owned,UT,72.6,23.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.6,6.0,5.8,1.2
-10,DOMINION ENERGY UTAH/WYOMING/IDAHO,12876,Investor Owned,UT,18968.261,28.0,3242,0.0,62.641,300.713,1038.014,1290.423,2084.767,2155.805,3943.25,4750.114,2982.705,359.827
+Operator Name,Operator ID,Operator Type,State,Total Main Miles,Main Mileage Average Age,Main Miles over 50 Years Old,Main Miles Built in Unknown Decade,Pre-1940,1940-49,1950-59,1960-69,1970-79,1980-89,1990-99,2000-09,2010-19,2020-29
+Statewide Total,,Total,UT,19245.027,22.333333333333332,3242,0.0,62.0,300.0,1038.0,1290.0,2084.0,2155.0,4141.0,4806.0,2995.0,369.0
+Statewide Total,,Cooperative,UT,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Statewide Total,,Privately Owned,UT,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Statewide Total,,Investor Owned,UT,18968.261,28.0,3242,0.0,62.0,300.0,1038.0,1290.0,2084.0,2155.0,3943.0,4750.0,2982.0,359.0
+Statewide Total,,Municipal Owned,UT,276.766,21.2,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,198.0,56.0,12.0,9.0
+"HILDALE, CITY OF",31158,Municipal Owned,UT,31.0,16.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,0.0
+NEPHI CITY,30510,Municipal Owned,UT,127.7,23.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,106.0,10.2,4.5,7.0
+MONA TOWN,30509,Municipal Owned,UT,24.826,20.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,8.2,1.446,1.0
+LEVAN TOWN,30508,Municipal Owned,UT,20.64,24.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.8,0.84,0.0
+"BLANDING, CITY OF",30047,Municipal Owned,UT,72.6,23.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.6,6.0,5.8,1.2
+DOMINION ENERGY UTAH/WYOMING/IDAHO,12876,Investor Owned,UT,18968.261,28.0,3242,0.0,62.641,300.713,1038.014,1290.423,2084.767,2155.805,3943.25,4750.114,2982.705,359.827

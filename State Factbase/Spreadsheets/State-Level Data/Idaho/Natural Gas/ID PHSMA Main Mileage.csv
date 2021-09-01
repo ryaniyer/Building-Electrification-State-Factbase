@@ -1,9 +1,9 @@
-,Operator Name,Operator ID,Operator Type,State,Total Main Miles,Main Mileage Average Age,Main Miles over 50 Years Old,Main Miles Built in Unknown Decade,Main Miles Built Pre-1940,Main Miles Built 1940-49,Main Miles Built 1950-59,Main Miles Built 1960-69,Main Miles Built 1970-79,Main Miles Built 1980-89,Main Miles Built 1990-99,Main Miles Built 2000-09,Main Miles Built 2010-19,Main Miles Built 2020-29
-0,Statewide Total,,Total,ID,8989.578000000001,26.666666666666668,2236,4.0,0.0,0.0,758.0,1352.0,836.0,454.0,2152.0,2167.0,1098.0,164.0
-1,Statewide Total,,Cooperative,ID,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2,Statewide Total,,Privately Owned,ID,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3,Statewide Total,,Investor Owned,ID,8989.578000000001,26.666666666666668,2236,4.0,0.0,0.0,758.0,1352.0,836.0,454.0,2152.0,2167.0,1098.0,164.0
-4,Statewide Total,,Municipal Owned,ID,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5,AVISTA CORP,31232,Investor Owned,ID,2118.902,28.0,402,4.912,0.0,0.0,90.479,294.788,117.889,95.044,770.165,480.931,230.259,34.435
-6,DOMINION ENERGY UTAH/WYOMING/IDAHO,12876,Investor Owned,ID,53.676,21.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.049,35.308,14.956,2.413,0.95
-7,INTERMOUNTAIN GAS CO,8160,Investor Owned,ID,6817.0,31.0,1834,0.0,0.0,0.0,668.3,1058.0,719.1,359.1,1346.6,1671.2,865.5,129.2
+Operator Name,Operator ID,Operator Type,State,Total Main Miles,Main Mileage Average Age,Main Miles over 50 Years Old,Main Miles Built in Unknown Decade,Pre-1940,1940-49,1950-59,1960-69,1970-79,1980-89,1990-99,2000-09,2010-19,2020-29
+Statewide Total,,Total,ID,8989.578000000001,26.666666666666668,2236,4.0,0.0,0.0,758.0,1352.0,836.0,454.0,2152.0,2167.0,1098.0,164.0
+Statewide Total,,Cooperative,ID,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Statewide Total,,Privately Owned,ID,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Statewide Total,,Investor Owned,ID,8989.578000000001,26.666666666666668,2236,4.0,0.0,0.0,758.0,1352.0,836.0,454.0,2152.0,2167.0,1098.0,164.0
+Statewide Total,,Municipal Owned,ID,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AVISTA CORP,31232,Investor Owned,ID,2118.902,28.0,402,4.912,0.0,0.0,90.479,294.788,117.889,95.044,770.165,480.931,230.259,34.435
+DOMINION ENERGY UTAH/WYOMING/IDAHO,12876,Investor Owned,ID,53.676,21.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.049,35.308,14.956,2.413,0.95
+INTERMOUNTAIN GAS CO,8160,Investor Owned,ID,6817.0,31.0,1834,0.0,0.0,0.0,668.3,1058.0,719.1,359.1,1346.6,1671.2,865.5,129.2

@@ -1,9 +1,9 @@
-,Operator Name,Operator ID,Operator Type,State,Total Main Miles,Main Mileage Average Age,Main Miles over 50 Years Old,Main Miles Built in Unknown Decade,Main Miles Built Pre-1940,Main Miles Built 1940-49,Main Miles Built 1950-59,Main Miles Built 1960-69,Main Miles Built 1970-79,Main Miles Built 1980-89,Main Miles Built 1990-99,Main Miles Built 2000-09,Main Miles Built 2010-19,Main Miles Built 2020-29
-0,Statewide Total,,Total,OR,16242.938,31.333333333333332,4191,164.0,30.0,3.0,313.0,3536.0,2231.0,1971.0,3810.0,2909.0,1151.0,120.0
-1,Statewide Total,,Cooperative,OR,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2,Statewide Total,,Privately Owned,OR,12171.5,35.0,3305,0.0,0.0,0.0,254.0,2759.0,1945.0,1621.0,2856.0,1924.0,731.0,78.0
-3,Statewide Total,,Investor Owned,OR,4071.438,29.5,886,164.0,30.0,3.0,58.0,777.0,285.0,350.0,953.0,985.0,419.0,41.0
-4,Statewide Total,,Municipal Owned,OR,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-5,AVISTA CORP,31232,Investor Owned,OR,2383.088,31.0,595,41.055,30.142,3.476,24.312,540.151,159.744,185.262,574.339,537.963,267.562,19.082
-6,NORTHWEST NATURAL GAS CO,13840,Privately Owned,OR,12171.5,35.0,3305,0.0,0.0,0.0,254.7,2759.0,1945.7,1621.5,2856.8,1924.3,731.8,78.3
-7,CASCADE NATURAL GAS CORP,2128,Investor Owned,OR,1688.35,28.0,291,123.6,0.12,0.0,34.58,237.81,125.8,164.94,379.45,447.14,152.29,22.62
+Operator Name,Operator ID,Operator Type,State,Total Main Miles,Main Mileage Average Age,Main Miles over 50 Years Old,Main Miles Built in Unknown Decade,Pre-1940,1940-49,1950-59,1960-69,1970-79,1980-89,1990-99,2000-09,2010-19,2020-29
+Statewide Total,,Total,OR,16242.938,31.333333333333332,4191,164.0,30.0,3.0,313.0,3536.0,2231.0,1971.0,3810.0,2909.0,1151.0,120.0
+Statewide Total,,Cooperative,OR,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Statewide Total,,Privately Owned,OR,12171.5,35.0,3305,0.0,0.0,0.0,254.0,2759.0,1945.0,1621.0,2856.0,1924.0,731.0,78.0
+Statewide Total,,Investor Owned,OR,4071.438,29.5,886,164.0,30.0,3.0,58.0,777.0,285.0,350.0,953.0,985.0,419.0,41.0
+Statewide Total,,Municipal Owned,OR,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+AVISTA CORP,31232,Investor Owned,OR,2383.088,31.0,595,41.055,30.142,3.476,24.312,540.151,159.744,185.262,574.339,537.963,267.562,19.082
+NORTHWEST NATURAL GAS CO,13840,Privately Owned,OR,12171.5,35.0,3305,0.0,0.0,0.0,254.7,2759.0,1945.7,1621.5,2856.8,1924.3,731.8,78.3
+CASCADE NATURAL GAS CORP,2128,Investor Owned,OR,1688.35,28.0,291,123.6,0.12,0.0,34.58,237.81,125.8,164.94,379.45,447.14,152.29,22.62

@@ -30,7 +30,7 @@ restart_states_infrastructure = False
 #   Restarts the state-level Energy Economics folder
 restart_states_economics = False
 #   Restarts the state-level Natural Gas folder
-restart_states_natgas = False
+restart_states_natgas = True
 #   Restarts the state-level CO2 Emissions folder
 restart_states_co2 = False
 #Restarts the state-level Energy Use Folder
@@ -144,11 +144,17 @@ for s in state_names:
         df_nrg_prices.to_csv(path+'/Energy Economics/'+sa+' Electricity and Natural Gas Prices.csv')
 
     if(restart_states_natgas):
-        folder_refresh(path+'/Natural Gas')
+        #folder_refresh(path+'/Natural Gas')
 
-        df_ng = eia_state.return_state_EIA_data(1970, eia_year, sa, eia_state.get_ng_tags(sa))
-        df_ng.T.to_csv(path+'/Natural Gas/'+sa+' EIA Natural Gas Data.csv')
+        #df_ng = eia_state.return_state_EIA_data(1970, eia_year, sa, eia_state.get_ng_tags(sa))
+        #df_ng.T.to_csv(path+'/Natural Gas/'+sa+' EIA Natural Gas Data.csv')
         df_mmiles = phmsa.get_statewide_mileage(sa)
-        df_mmiles.to_csv(path+'/Natural Gas/'+sa+' PHSMA Main Mileage.csv')
+        df_hazleaks = phmsa.get_statewide_hazleaks(sa)
+        df_totleaks = phmsa.get_statewide_totleaks(sa)
+        df_srvs = phmsa.get_statewide_services(sa)
+        df_mmiles.to_csv(path+'/Natural Gas/'+sa+' PHSMA Main Mileage.csv', index=False)
+        df_hazleaks.to_csv(path+'/Natural Gas/'+sa+' PHSMA Hazardous Leaks 2010-20.csv', index=False)
+        df_totleaks.to_csv(path+'/Natural Gas/'+sa+' PHSMA Total Leaks 2010-20.csv', index=False)
+        df_srvs.to_csv(path+'/Natural Gas/'+sa+' PHSMA Gas Services.csv', index=False)
 
     print('Finished loading ', s)
