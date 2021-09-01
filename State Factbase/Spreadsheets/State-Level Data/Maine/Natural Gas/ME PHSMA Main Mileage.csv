@@ -1,0 +1,10 @@
+,Operator Name,Operator ID,Operator Type,State,Total Main Miles,Main Mileage Average Age,Main Miles over 50 Years Old,Main Miles Built in Unknown Decade,Main Miles Built Pre-1940,Main Miles Built 1940-49,Main Miles Built 1950-59,Main Miles Built 1960-69,Main Miles Built 1970-79,Main Miles Built 1980-89,Main Miles Built 1990-99,Main Miles Built 2000-09,Main Miles Built 2010-19,Main Miles Built 2020-29
+0,Statewide Total,,Total,ME,1381.53,15.5,133,81.0,22.0,1.0,91.0,36.0,15.0,27.0,107.0,340.0,612.0,43.0
+1,Statewide Total,,Cooperative,ME,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Statewide Total,,Privately Owned,ME,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Statewide Total,,Investor Owned,ME,1381.53,15.5,133,81.0,22.0,1.0,91.0,36.0,15.0,27.0,107.0,340.0,612.0,43.0
+4,Statewide Total,,Municipal Owned,ME,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,"SUMMIT NATURAL GAS OF MAINE, INC.",39066,Investor Owned,ME,223.02,5.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,212.0,11.0
+6,MAINE NATURAL GAS,31487,Investor Owned,ME,225.1,10.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.8,101.1,112.4,6.8
+7,BANGOR NATURAL GAS CO.,31481,Investor Owned,ME,330.75,24.0,88,0.0,0.0,0.0,88.29,0.0,0.0,0.0,0.0,103.75,127.42,11.29
+8,NORTHERN UTILITIES INC (ME),13795,Investor Owned,ME,602.66,23.0,45,81.97,22.98,1.68,2.92,36.83,15.4,27.18,102.82,136.01,160.8,14.07

@@ -6,6 +6,7 @@ import epa_nei
 import tessum
 import acs_housing
 import economic_data
+import phmsa
 import pandas as pd
 import os
 import shutil
@@ -27,7 +28,7 @@ restart_states_air_quality = False
 #   Restarts the state-level infrastructure folder
 restart_states_infrastructure = False
 #   Restarts the state-level Energy Economics folder
-restart_states_economics = True
+restart_states_economics = False
 #   Restarts the state-level Natural Gas folder
 restart_states_natgas = False
 #   Restarts the state-level CO2 Emissions folder
@@ -147,5 +148,7 @@ for s in state_names:
 
         df_ng = eia_state.return_state_EIA_data(1970, eia_year, sa, eia_state.get_ng_tags(sa))
         df_ng.T.to_csv(path+'/Natural Gas/'+sa+' EIA Natural Gas Data.csv')
+        df_mmiles = phmsa.get_statewide_mileage(sa)
+        df_mmiles.to_csv(path+'/Natural Gas/'+sa+' PHSMA Main Mileage.csv')
 
     print('Finished loading ', s)

@@ -1,0 +1,13 @@
+,Operator Name,Operator ID,Operator Type,State,Total Main Miles,Main Mileage Average Age,Main Miles over 50 Years Old,Main Miles Built in Unknown Decade,Main Miles Built Pre-1940,Main Miles Built 1940-49,Main Miles Built 1950-59,Main Miles Built 1960-69,Main Miles Built 1970-79,Main Miles Built 1980-89,Main Miles Built 1990-99,Main Miles Built 2000-09,Main Miles Built 2010-19,Main Miles Built 2020-29
+0,Statewide Total,,Total,NH,2037.3579999999997,26.428571428571427,302,12.0,51.0,2.0,29.0,249.0,131.0,356.0,433.0,389.0,354.0,25.0
+1,Statewide Total,,Cooperative,NH,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Statewide Total,,Privately Owned,NH,4.29,15.5,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0
+3,Statewide Total,,Investor Owned,NH,2033.0679999999998,30.8,302,12.0,51.0,2.0,29.0,249.0,131.0,356.0,430.0,388.0,353.0,25.0
+4,Statewide Total,,Municipal Owned,NH,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,"PETERBOROUGH RETIREMENT COMMUNITY AT UPLAND FARM, INC.",39799,Privately Owned,NH,1.0,10.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.8,0.0
+6,UNIVERSITY OF NEW HAMPSHIRE,31665,Privately Owned,NH,3.29,21.0,0,0.15,0.0,0.0,0.0,0.0,0.0,0.0,2.3,0.45,0.32,0.07
+7,NEW HAMPSHIRE GAS CORP,31265,Investor Owned,NH,29.32,32.0,1,0.0,6.033,0.121,0.0,1.683,0.275,0.416,1.831,7.572,10.554,0.835
+8,NEW HAMPSHIRE GAS CORP,31265,Investor Owned,NH,1.831,13.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.362,0.469,0.0
+9,ENERGY NORTH NATURAL GAS INC,16667,Investor Owned,NH,0.917,56.0,0,0.0,0.0,0.0,0.0,0.917,0.0,0.0,0.0,0.0,0.0,0.0
+10,ENERGY NORTH NATURAL GAS INC,16667,Investor Owned,NH,1434.31,32.0,293,0.0,45.23,2.72,29.93,241.85,107.76,274.09,231.07,281.74,207.57,12.34
+11,"NORTHERN UTILITIES, INC. (NH)",13800,Investor Owned,NH,566.69,21.0,8,12.48,0.04,0.06,0.0,4.9,23.88,82.08,197.7,98.02,134.84,12.69

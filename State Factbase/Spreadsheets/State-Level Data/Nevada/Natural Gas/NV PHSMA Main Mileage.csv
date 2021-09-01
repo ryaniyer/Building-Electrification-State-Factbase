@@ -1,0 +1,11 @@
+,Operator Name,Operator ID,Operator Type,State,Total Main Miles,Main Mileage Average Age,Main Miles over 50 Years Old,Main Miles Built in Unknown Decade,Main Miles Built Pre-1940,Main Miles Built 1940-49,Main Miles Built 1950-59,Main Miles Built 1960-69,Main Miles Built 1970-79,Main Miles Built 1980-89,Main Miles Built 1990-99,Main Miles Built 2000-09,Main Miles Built 2010-19,Main Miles Built 2020-29
+0,Statewide Total,,Total,NV,10671.416,24.4,566,18.0,0.0,0.0,67.0,392.0,713.0,1220.0,3217.0,3448.0,1383.0,209.0
+1,Statewide Total,,Cooperative,NV,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Statewide Total,,Privately Owned,NV,15.39,19.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,4.0,1.0,0.0
+3,Statewide Total,,Investor Owned,NV,10656.026,28.0,566,18.0,0.0,0.0,67.0,392.0,713.0,1220.0,3207.0,3443.0,1382.0,209.0
+4,Statewide Total,,Municipal Owned,NV,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,AMERIGAS PROPANE LP,32013,Privately Owned,NV,1.84,16.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.84,0.0,0.0
+6,WENDOVER GAS CO,31497,Privately Owned,NV,13.55,22.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.62,2.84,1.09,0.0
+7,SOUTHWEST GAS CORP,18536,Investor Owned,NV,8744.447,22.0,295,16.258,0.0,0.0,62.006,164.938,458.382,987.547,2747.409,2934.243,1188.069,185.595
+8,NV Energy,18308,Investor Owned,NV,3.713,34.0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.334,0.11,0.234,0.035,0.0
+9,NV Energy,18308,Investor Owned,NV,1907.866,28.0,271,2.276,0.0,0.0,5.899,227.078,254.881,229.858,460.246,509.296,194.344,23.989

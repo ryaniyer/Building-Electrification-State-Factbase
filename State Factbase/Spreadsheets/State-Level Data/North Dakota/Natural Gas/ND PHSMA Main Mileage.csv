@@ -1,0 +1,11 @@
+,Operator Name,Operator ID,Operator Type,State,Total Main Miles,Main Mileage Average Age,Main Miles over 50 Years Old,Main Miles Built in Unknown Decade,Main Miles Built Pre-1940,Main Miles Built 1940-49,Main Miles Built 1950-59,Main Miles Built 1960-69,Main Miles Built 1970-79,Main Miles Built 1980-89,Main Miles Built 1990-99,Main Miles Built 2000-09,Main Miles Built 2010-19,Main Miles Built 2020-29
+0,Statewide Total,,Total,ND,3878.69,17.2,432,909.0,0.0,1.0,176.0,175.0,524.0,252.0,286.0,491.0,998.0,62.0
+1,Statewide Total,,Cooperative,ND,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Statewide Total,,Privately Owned,ND,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Statewide Total,,Investor Owned,ND,3878.69,17.2,432,909.0,0.0,1.0,176.0,175.0,524.0,252.0,286.0,491.0,998.0,62.0
+4,Statewide Total,,Municipal Owned,ND,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,DAKOTA NATURAL GAS LLC,40064,Investor Owned,ND,20.22,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.22
+6,NORTHERN STATES POWER CO OF MINNESOTA,31636,Investor Owned,ND,1100.6,9.0,0,695.3,0.0,0.0,0.0,0.6,0.0,0.5,0.5,135.2,250.8,17.5
+7,MONTANA - DAKOTA UTILITIES CO,12684,Investor Owned,ND,8.76,24.0,0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,7.44,1.19,0.07,0.0
+8,MONTANA - DAKOTA UTILITIES CO,12684,Investor Owned,ND,2693.11,28.0,429,199.59,0.06,1.29,176.81,172.28,518.46,248.05,265.46,351.62,734.49,24.99
+9,GREAT PLAINS NATURAL GAS CO,6690,Investor Owned,ND,56.0,24.0,3,15.0,0.0,0.0,0.0,2.3,5.8,3.8,12.8,3.1,13.1,0.2
