@@ -1,18 +1,18 @@
 import time
 start_time = time.time()
-from Scripts import eia_national
-from Scripts import eia_state
-from Scripts import epa_nei
-from Scripts import tessum
-from Scripts import acs_housing
-from Scripts import economic_data
+import eia_national
+import eia_state
+import epa_nei
+import tessum
+import acs_housing
+import economic_data
 
 import pandas as pd
 import os
 import shutil
 
 restart_national = False
-restart_national_natgas = False
+restart_national_natgas = True
 restart_national_air_quality = False
 
 states = ["AL", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
@@ -30,16 +30,23 @@ def folder_refresh(pathname):
 
 if(restart_national):
     #National Folder Creation:
-    folder_refresh('./State Factbase/National Data')
+    folder_refresh('./State Factbase/Spreadsheets/National Data')
     
 if(restart_national_natgas):
-    folder_refresh('./State Factbase/National Data/Natural Gas')
+    folder_refresh('../State Factbase/Spreadsheets/National Data/Natural Gas')
     #AGA Export:
-    aga_source = './Static/Natural_Gas/1972-2019 AGA Construction Expenses.xlsx'
-    aga_dest = './State Factbase/National Data/Natural Gas/AGA Construction Expenses.xlsx'
+    aga_source = '../Static/Natural_Gas/1972-2019 AGA Construction Expenses.xlsx'
+    aga_dest = '../State Factbase/Spreadsheets/National Data/Natural Gas/AGA Construction Expenses.xlsx'
     shutil.copy(aga_source, aga_dest)
-
+    #EIA Form 176 Export:
+    import eia176
+    df_eia176 = eia176.get_national_metric_totals()
+    df_eia176.to_csv('../State Factbase/Spreadsheets/National Data/Natural Gas/EIA Form 176.csv',index=False)
+    #PHMSA Export:
+    import phmsa 
+    df_mmiles = phmsa.get_national_mileage()
+    df_mmiles.to_csv('../State Factbase/Spreadsheets/National Data/Natural Gas/PHMSA Main Mileage.csv',index=False)
 if(restart_national_air_quality):
-    folder_refresh('./State Factbase/National Data/Air Quality')
+    folder_refresh('../State Factbase/Spreadsheets/National Data/Air Quality')
     df_nat_tessum = tessum.get_national_tessum()
-    df_nat_tessum.to_csv('./State Factbase/National Data/Air Quality/National PM25 Racial Disparities.csv')
+    df_nat_tessum.to_csv('../State Factbase/Spreadsheets/National Data/Air Quality/National PM25 Racial Disparities.csv',index=False)

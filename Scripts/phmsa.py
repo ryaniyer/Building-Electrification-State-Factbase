@@ -91,3 +91,28 @@ def get_statewide_services(sa):
         temp_df.loc[len(temp_df.index)] = finals[i]
     temp_df = temp_df.iloc[::-1].reset_index(drop=True)
     return temp_df
+
+
+def get_national_mileage():
+    mmiles = pd.read_csv('../Static/Natural_Gas/PHMSA_Cleaned_Data/PHMSA_Main_Mileage_2020.csv',index_col=0)
+    temp_df = mmiles[mmiles.State!='AK'].reset_index(drop=True)
+    dfs = generate_dfs(temp_df)
+    dfnames = ['Municipal Owned','Investor Owned','Privately Owned','Cooperative','Total']
+    finals = []
+    for i in range(5):
+        tot = ['Total','',dfnames[i],'Contiguous US']
+        sums1 = [sum(dfs[i]['Total Main Miles'])]
+        try:
+            sums2 = [sum(dfs[i]['Main Mileage Average Age'])/len(dfs[i])]
+        except:
+            sums2 = [0]
+        sums3 = [sum(dfs[i]['Main Miles over 50 Years Old'])]
+        mt = [int(sum(dfs[i][col])) for col in temp_df.columns[7:]]
+        data = tot+sums1+sums2+sums3+mt
+        finals.append(data)
+    for i in range(5):
+        temp_df.loc[len(temp_df.index)] = finals[i]
+    temp_df = temp_df.iloc[::-1].reset_index(drop=True)
+    temp_df.columns = ['Operator Name', 'Operator ID', 'Operator Type', 'State','Total Main Miles', 'Main Mileage Average Age','Main Miles over 50 Years Old', 'Main Miles Built in Unknown Decade','Pre-1940', '1940-49', '1950-59', '1960-69', '1970-79', '1980-89', '1990-99', '2000-09', '2010-19', '2020-29']
+    temp_df.columns = ['Operator Name', 'Operator ID', 'Operator Type', 'State','Total Main Miles', 'Main Mileage Average Age','Main Miles over 50 Years Old', 'Main Miles Built in Unknown Decade','Pre-1940', '1940-49','1950-59', '1960-69','1970-79', '1980-89','1990-99', '2000-09','2010-19', '2020-29']
+    return temp_df
