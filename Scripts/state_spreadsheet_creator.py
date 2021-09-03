@@ -30,11 +30,11 @@ restart_states_infrastructure = False
 #   Restarts the state-level Energy Economics folder
 restart_states_economics = False
 #   Restarts the state-level Natural Gas folder
-restart_states_natgas = True
+restart_states_natgas = False
 #   Restarts the state-level CO2 Emissions folder
 restart_states_co2 = False
 #Restarts the state-level Energy Use Folder
-restart_states_energyuse = False
+restart_states_energyuse = True
 #   Restarts the state-level Equity Folder
 restart_states_equity = False
 #List of all "restarter" variables
@@ -111,7 +111,6 @@ for s in state_names:
 
     if(restart_states_co2):
         folder_refresh(path+'/CO2 Emissions')
-
         df_emit = eia_state.return_state_EIA_data(1980, eia_year, sa, eia_state.get_emit_tags(sa))
         df_emit.T.to_csv(path+'/CO2 Emissions/'+abbrev_us_state[sa]+' EIA CO2 Emissions Data.csv')
     

@@ -47,7 +47,9 @@ def get_emit_tags(sa):
 
 def get_use_tags(sa):
     ng_sector_datasets = ['SEDS.NGRCP.'+sa+'.A','SEDS.NGCCP.'+sa+'.A', 'SEDS.NGICP.'+sa+'.A', 'SEDS.NGEIP.'+sa+'.A']
-    return ng_sector_datasets
+    other_fuels_sector_datasets = ['SEDS.TERPB.'+sa+'.A','SEDS.ESRCP.'+sa+'.A','SEDS.ESRPP.'+sa+'.A','SEDS.DFRCB.'+sa+'.A','SEDS.PQRCB.'+sa+'.A']
+    com_fuels = ['SEDS.DFCCB.'+sa+'.A','SEDS.ESCCP.'+sa+'.A','SEDS.TECPB.'+sa+'.A']
+    return ng_sector_datasets + other_fuels_sector_datasets + com_fuels
 
 def get_price_tags(sa):
     ng_price_datasets = ['NG.N3050'+sa+'3.A','NG.N3010'+sa+'3.A','NG.N3020'+sa+'3.A']
