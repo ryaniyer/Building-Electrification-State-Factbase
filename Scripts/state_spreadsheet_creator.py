@@ -6,7 +6,7 @@ import epa_nei
 import tessum
 import acs_housing
 import economic_data
-import phmsa
+
 import pandas as pd
 import os
 import shutil
@@ -148,6 +148,7 @@ for s in state_names:
 
         #df_ng = eia_state.return_state_EIA_data(1970, eia_year, sa, eia_state.get_ng_tags(sa))
         #df_ng.T.to_csv(path+'/Natural Gas/'+sa+' EIA Natural Gas Data.csv')
+        import phmsa
         df_mmiles = phmsa.get_statewide_mileage(sa)
         df_hazleaks = phmsa.get_statewide_hazleaks(sa)
         df_totleaks = phmsa.get_statewide_totleaks(sa)
@@ -156,5 +157,8 @@ for s in state_names:
         df_hazleaks.to_csv(path+'/Natural Gas/'+sa+' PHSMA Hazardous Leaks 2010-20.csv', index=False)
         df_totleaks.to_csv(path+'/Natural Gas/'+sa+' PHSMA Total Leaks 2010-20.csv', index=False)
         df_srvs.to_csv(path+'/Natural Gas/'+sa+' PHSMA Gas Services.csv', index=False)
+        import eia176
+        df_eia176 = eia176.get_state_metric_totals(sa)
+        df_eia176.to_csv(path+'/Natural Gas/'+sa+' EIA Form 176.csv', index=False)
 
     print('Finished loading ', s)
